@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:22:42 |
 | Maghrib | 18:37:44 |
 | Isha (Night) | 19:21:24 |
-| Sharia Midnight | 00:00:46 |
+| Sharia Midnight | 00:00:47 |
 | Imum Coeli | 00:34:29 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'40.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'51.77" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°58'19.63" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°19'27.28" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°20'25.22" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'32.09" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°15'36.67" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'51.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°58'19.75" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°19'27.48" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°20'25.66" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'32.58" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°19'9.25" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'40.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'51.77" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°58'19.63" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°19'27.28" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°20'25.22" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'32.09" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°15'36.67" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'51.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°58'19.75" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°19'27.48" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°20'25.66" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'32.58" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°19'9.25" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

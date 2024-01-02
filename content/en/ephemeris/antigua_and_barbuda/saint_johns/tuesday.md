@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'47.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'0.56" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|3°27'47.03" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'0.56" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°7'20.71" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°31'49.29" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°35'11.27" |Scorpio|Akleel|Mars|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'47.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'59.83" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°35'59.83" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°7'21.25" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°31'49.86" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°35'13.28" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'41.25" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°31'49.33" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°35'11.25" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'39.31" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|4°45'38.01" |Libra|Ghafr|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Saint John, Saint John's, Saint John’s, Sent Dzonsas, Sent Džonsas, Sent Tzons, Sent-Dzhons, St John's, St Johns, St. John's, St.John.s, seinteujonseu, sentojonzu, sheng yue han, sheng yue han shi, snt g'wns, Σεντ Τζονς, Сент-Джонс, סנט ג'ונס, ሴንት ጆንስ፥ አንቲጋ እና ባርቡዳ, セントジョンズ, 圣约翰, 圣约翰市, 세인트존스

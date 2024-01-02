@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'57.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'1.17" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°36'1.17" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°8'45.46" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°33'45.18" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°37'31.30" |Scorpio|Akleel|Mars|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'57.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'1.17" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°8'45.46" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°33'45.18" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°37'31.30" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°19'2.84" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°8'37.91" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°27'57.37" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°36'1.11" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°8'45.43" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°33'45.22" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°37'31.28" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°19'2.90" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°8'38.69" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운

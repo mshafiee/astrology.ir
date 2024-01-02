@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'53.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'46.21" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°35'46.21" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°51'51.07" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°10'33.91" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°9'48.48" |Scorpio|Akleel|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'53.23" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'46.21" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°35'46.21" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|28°51'51.07" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°10'32.99" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°9'47.89" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'10.52" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°37'24.49" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|12°10'33.91" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°9'48.48" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'11.54" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°35'52.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Carachi, KHI, Karaaji, Karaces, Karachi, Karachi - krachy, Karachi - كراچى, Karachy, Karaci, Karacio, Karacis, Karacsi, Karaczi, Karanchi, Karatschi, Karatsi, Karatsji, Karatxi, Karaçi, Karaĉio, Karači, Karačis, Karačės, Karochi, Karáči, Karáčí, Karâchi, Karāchi, Karāči, Keraci, Keraçî, Kurrachee, Kurrachi, Kəraçi, ka la qi, ka ra ci, kalachi, karaaci, karacci, karachi, karachy, karaci, karatshy, ke la chi, krachy, kratshy, pechs, qrʼzy, Καράτσι, Карачи, Карачы, Карачі, Կարաչի, קאראטשי, קראצי, كاراتشى, كاراچى, كراتشي, کراچی, کراچۍ, کَرٲچی, کەراچی, ڪراچي, ކަރާޗީ, कराची, করাচী, কৰাচী, ਕਰਾਚੀ, કરાચી, କରାଚୀ, கராச்சி, కరాచీ, ಕರಾಚಿ, കറാച്ചി, การาจี, ཀ་ར་ཆི, ကရာချိမြို့, კარაჩი, ከራቺ, カラチ, カラーチー, 卡拉奇, 喀拉蚩, 카라치

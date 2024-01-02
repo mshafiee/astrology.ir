@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'57.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'46.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°35'46.64" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°52'29.38" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°11'27.04" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°10'51.36" |Scorpio|Akleel|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'57.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'46.29" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°52'27.54" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°11'21.37" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°10'50.02" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'15.81" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°21'37.65" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'46.72" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°52'24.50" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°11'13.66" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°10'45.96" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'8.08" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°44'59.24" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Mambutzou, Mamoudzou, Mamoutzou, Mamudzu, Mamutzu, mamuju, Мамудзу, 마무주

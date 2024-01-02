@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°30'24.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'21.38" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°28'39.94" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|13°1'1.57" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°10'9.05" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°25'3.43" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°32'21.88" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|5°36'23.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°28'34.20" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|13°0'47.67" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°9'59.02" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°24'47.42" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|10°28'18.05" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°30'24.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'21.38" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°28'39.94" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|13°1'1.57" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°10'9.05" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°25'3.43" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|10°32'21.88" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Direct|5°36'23.24" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°28'34.20" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°0'47.67" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|6°9'59.02" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°24'47.42" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|10°28'18.05" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: SPK, Sapara, Saporas, Saporo, Sapporo, Sapporo-chhi, Sapporo-chhī, Sapporo-shi, Sapporoshi, Sapporum, Szapporo, capporo, sabwrw, sap poa roa, sapporo, sapporoshi, sapwrw, saspolo si, sypwrw, zha huang, zha huang shi, Σαππόρο, Сапара, Сапоро, Саппоро, Սապորո, סאפורו, سابورو, ساپورو, سیپورو, सप्पोरो, சப்போரோ, ซัปโปะโระ, საპორო, さっぽろ, さっぽろし, サッポロ, サッポロシ, 札幌, 札幌市, 삿포로 시

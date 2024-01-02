@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°30'33.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'22.63" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°29'54.86" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|13°2'41.64" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°12'13.68" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°25'30.17" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°41'25.86" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|5°36'22.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°29'54.94" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|13°2'44.82" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°12'11.93" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°25'30.32" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|10°51'22.22" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°30'33.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'22.63" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°29'54.23" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|13°2'41.64" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°12'13.68" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°25'30.17" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°41'25.86" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Direct|5°36'22.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°29'54.86" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°2'44.61" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|6°12'11.93" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°25'30.32" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|10°51'22.22" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시

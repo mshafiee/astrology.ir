@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'56.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'46.68" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°35'46.68" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°52'16.53" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°11'8.36" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°10'30.17" |Scorpio|Akleel|Mars|
 |☿ Mercury|Retrograde|22°15'15.37" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°43'56.14" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|1°29'4.52" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'56.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'46.63" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°52'16.50" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°11'8.22" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°10'30.26" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'15.36" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°46'26.08" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'45.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°52'16.02" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°11'5.84" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°10'31.91" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'15.43" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°29'4.52" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Cabool, Caboul, Cabul, Cabul - kabl, Cabul - کابل, Cabura, Cabúl, Caubul, KBL, Kabil, Kaboel, Kabol, Kaboul, Kabul, Kabula, Kabulas, Kabuli, Kabulo, Kabura, Kabúl, Kabûl, Kampoul, Kobul, Kubha, Kábul, Kâbil, Kābol, ka bu er, kabl, kabul, kabula, kabuli, kaburu, kabwl, kapul, ke bu er, khabul, Καμπούλ, Кабул, Кобул, Քաբուլ, קאבול, كابل, كابۇل, کابل, کابول, काबुल, কাবুল, ਕਾਬੁਲ, କାବୁଲ, காபூல், ಕಾಬುಲ್, കാബൂൾ, කාබුල්, คาบูล, ཁ་པལ།, ཁ་པུལ།, ქაბული, ካቡል, ទីក្រុងកាបូល, カブール, カーブル, 喀布尔, 喀布爾, 카불

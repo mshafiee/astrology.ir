@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'39.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'51.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°35'51.54" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°58'12.55" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°19'1.88" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°20'1.25" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'11.46" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°10'11.51" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|12°19'17.60" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°20'13.86" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'30.96" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°17'12.62" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'39.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'51.54" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°35'51.54" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|28°58'12.55" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°19'17.60" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|12°19'17.45" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|5°20'13.86" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Retrograde|22°16'30.96" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|2°17'12.62" |Libra|Ghafr|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Dzhos, Dzos, Dżos, JOS, Jos, joseu, josu, jws, jws  nayjyrya, qiao si, Џос, Джос, Йос, جوس, جوس، نائجیریا, ジョス, 乔斯, 조스

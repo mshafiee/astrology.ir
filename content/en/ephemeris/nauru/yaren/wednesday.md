@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°29'38.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'14.03" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°22'37.92" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°52'42.33" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°0'18.86" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°23'1.88" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°50'14.69" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|3°29'40.01" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'14.75" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°22'40.59" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°52'50.61" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°0'20.21" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°22'49.90" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°16'20.18" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°29'40.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'14.75" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°22'40.59" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°52'50.61" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°0'20.21" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°23'7.48" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°53'42.32" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°36'16.14" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°22'34.08" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°52'33.91" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|6°0'10.20" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°22'49.90" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°16'20.18" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

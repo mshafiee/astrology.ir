@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'55.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'0.83" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°8'28.93" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|5°36'0.83" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°8'28.96" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°33'23.01" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°37'4.28" |Scorpio|Akleel|Mars|
 |☿ Mercury|Retrograde|22°18'59.45" |Scorpio|Shaulah|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'55.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'0.83" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°8'28.93" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°33'22.93" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°37'4.24" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'59.38" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°3'18.51" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°36'0.83" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°8'28.96" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°33'23.01" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°37'4.28" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'59.45" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°3'2.66" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: MDE, Medegin, Medehl'in, Medel'in, Medelim, Medelin, Medeljina, Medeljinas, Medeljino, Medellin, Medellín, mai de lin, mdlyn, mdyyn, me de yin, medein, medejin, medelini, medeyina, meteyin, mydyllyn, mydylyn, Μεδεγίν, Меделин, Медельин, Медельїн, Медељин, Медэльін, מדיין, مدلین, ميديللين, ميديلين, میڈیلن, मेदेयीन, মেদেয়িন, ਮੇਦੇਯੀਨ, மெதெயின், เมเดยิน, მედელინი, ទីក្រុងមេឌេយីណ, メデジン, 麦德林, 메데인

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'59.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'47.05" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°52'38.47" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°11'38.23" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°11'6.13" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'19.12" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°50'32.26" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'48.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°52'36.53" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°11'34.64" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°11'0.74" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'12.57" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°19'41.67" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°25'59.06" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'46.59" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°52'39.54" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°11'40.85" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°11'8.39" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'22.55" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°53'32.31" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°25'58.97" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'46.99" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°52'38.44" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°11'38.27" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°11'6.11" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'19.18" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°50'33.14" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베

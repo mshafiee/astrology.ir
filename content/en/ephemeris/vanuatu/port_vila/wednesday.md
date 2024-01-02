@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°29'31.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'13.67" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°21'33.91" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°51'6.47" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°58'19.09" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°22'29.02" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°0'37.12" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|5°36'13.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°21'30.01" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°51'7.94" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°58'27.29" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°22'36.86" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°29'30.62" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Jupiter|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°29'31.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'13.67" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°36'13.67" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°21'33.91" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°51'6.47" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°58'19.09" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°22'29.02" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°0'37.12" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|12°51'19.11" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°58'30.94" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°22'46.03" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|8°35'49.62" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

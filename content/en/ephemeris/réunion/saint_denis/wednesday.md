@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°25'45.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'44.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°50'44.74" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°9'2.54" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°8'0.92" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'0.09" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°37'14.31" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|3°25'44.43" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°35'44.52" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°50'43.71" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°8'59.46" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°8'0.21" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°14'57.78" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°58'15.88" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°25'45.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'45.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°50'44.84" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°8'59.42" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°8'0.23" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°14'57.73" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°58'14.98" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°25'45.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'45.19" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°50'44.81" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°9'3.54" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°7'59.98" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°14'59.94" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°16'58.75" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: RUN, Saint-Denis, Saint-Denis (Reunion), Saint-Denis (Réunion), Saint-Denis de la Reunion, Saint-Denis de la Réunion, Sen-Deni, St. Denis, saengdeuni, snt dnys, Сен-Дени, סנט דניס, サン・ドゥニ, 생드니

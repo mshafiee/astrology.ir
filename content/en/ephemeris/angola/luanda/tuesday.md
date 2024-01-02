@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°21'3.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'17.88" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°12'5.51" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|11°16'0.96" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|4°4'37.46" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°11'3.79" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|19°53'3.01" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|5°35'17.83" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°12'5.48" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|11°15'43.69" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|4°4'24.65" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°10'42.66" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°18'30.95" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
+|☾ Moon|Mercury|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Mars|Sun|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
+|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°21'3.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'17.88" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°35'17.88" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|28°12'5.51" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|11°16'0.96" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|4°4'37.46" |Sagittarius|Shaulah|Mercury|

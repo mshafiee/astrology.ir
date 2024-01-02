@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'41.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'52.15" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°35'52.15" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°58'29.10" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°19'38.76" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°20'40.88" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'31.13" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°25'35.24" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|22°16'28.11" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°40'48.60" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'41.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'52.19" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°58'28.37" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°19'36.74" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°20'40.00" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'29.25" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°33'37.11" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'53.56" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°58'28.45" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°19'38.81" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°20'37.20" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'28.06" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°40'48.60" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티

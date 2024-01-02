@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'51.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'0.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°7'57.38" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°32'39.54" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°36'12.51" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'50.90" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°17'39.12" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|3°27'51.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'0.30" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°7'57.34" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°32'39.58" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°36'12.49" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°18'50.95" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°55'7.70" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'51.54" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'0.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°7'57.38" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°32'39.54" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°36'12.51" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'50.90" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°55'6.91" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°27'51.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°36'0.30" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°7'57.34" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°32'39.58" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°36'12.49" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'50.95" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°55'7.70" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Vilemstad, Vilemstadas, Vilemstade, Vilemstado, Villemstad, Villemstant, Villemştad, Willemstad, Willemsted, Willemstêd, billemseutateu, u~iremusutatto, vilemastada, villemstatu, wei lian si ta de, willems tad, wylmstad, Βίλλεμσταντ, Вилемстад, Виллемстад, Вілемстад, Віллемстад, וילמסטאד, ويلمستاد, ویلمستاد, ویلمسٹیڈ, विलेमश्टाड, வில்லெம்ஸ்டாடு, วิลเลมสตัด, ვილემსტადი, ウィレムスタット, 威廉斯塔德, 빌렘스타트

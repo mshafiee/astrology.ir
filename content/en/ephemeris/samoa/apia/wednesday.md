@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°29'15.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'12.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°19'13.13" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°47'58.86" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°54'40.60" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°21'47.47" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°19'3.45" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|3°29'15.22" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'11.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°19'19.24" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°48'14.64" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°54'50.25" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°22'4.36" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|7°59'17.31" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°29'15.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'11.38" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°19'19.28" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°48'14.61" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|3°29'15.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°36'11.32" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°19'19.24" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°48'14.64" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|5°54'50.27" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Retrograde|22°22'4.30" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|7°59'16.58" |Libra|Ghafr|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

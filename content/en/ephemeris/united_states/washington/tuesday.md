@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°28'11.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'4.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°10'42.89" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|5°36'3.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°10'43.46" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°36'26.12" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°40'41.49" |Scorpio|Akleel|Mars|
 |☿ Mercury|Retrograde|22°19'29.84" |Scorpio|Shaulah|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°28'11.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'3.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°10'43.46" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°36'26.13" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°40'44.66" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°19'32.51" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°41'59.71" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°36'3.18" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°10'43.42" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°36'26.16" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°40'44.64" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°19'32.56" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°42'0.48" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC

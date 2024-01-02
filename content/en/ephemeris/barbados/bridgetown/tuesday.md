@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'43.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'59.34" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°35'59.34" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°6'51.39" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°31'9.04" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°34'24.35" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'22.44" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°31'57.29" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|22°18'14.69" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°37'58.22" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'43.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'59.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°6'51.39" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°31'9.04" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°34'24.35" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'33.85" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°37'21.31" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°36'1.61" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°6'44.72" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°30'52.88" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°34'12.37" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'14.69" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°37'58.22" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

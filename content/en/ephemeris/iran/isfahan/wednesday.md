@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'11.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'48.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°54'17.88" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°13'54.91" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°13'49.11" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'39.64" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°16'14.52" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|3°26'11.11" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°35'48.31" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°54'17.85" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°13'54.95" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°13'49.09" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'39.70" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°16'15.39" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'11.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'48.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°54'17.88" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°13'54.91" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°13'49.11" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'39.64" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°16'14.52" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°26'11.11" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'48.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°54'17.85" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°13'54.95" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°13'49.09" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'39.70" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°16'15.39" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Aspadana, Dakbayan sa Esfahan, Dakbayan sa Esfahān, Esfahan, Esfahano, Esfahān, Esfehan, Eşfahān, Eşfehān, IFN, Isfachan, Isfahan, Isfahana, Isfahanas, Isfahanum, Isfahon, Isfahán, Isfahāna, Isfakhan, Isfehan, Ispahan, Iszfahan, Iszfahán, Kota Isfahan, Spahan, Yspyhan, asfhan, aysfahan, esaphahana, esufahan, icupakan, isafahana, iseupahan, isfahana, isphahana, xis fa han, yi si fa han, Îsfehan, İsfahan, İsfehan, Ισφαχάν, Ісфахан, Исфахан, Исфаҳон, Исфаһан, Սպահան, אספהאן, أصفهان, ئسفأھان, ئەسفەھان, اصفهان, اصفہان, ایصفاهان, इस्फहान, इस्फ़हान, এসফাহন, ਇਸਫ਼ਹਾਨ, இசுபகான், อิสฟาฮาน, ისპაანი, エスファハーン, 伊斯法罕, 이스파한

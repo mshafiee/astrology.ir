@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°28'15.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'3.80" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°36'3.80" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°11'12.11" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°37'5.00" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°41'31.61" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°19'39.38" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°50'27.42" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|12°36'51.70" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°41'24.47" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°19'26.02" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°22'47.02" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°28'15.52" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'3.80" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°36'3.80" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°11'12.11" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°37'5.00" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°41'31.61" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°19'39.38" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°10'49.90" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|12°36'51.70" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°41'24.47" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°19'26.02" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°22'47.02" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와

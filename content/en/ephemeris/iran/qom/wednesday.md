@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'12.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'48.59" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°54'32.41" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°14'14.73" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°14'12.92" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'42.35" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°20'28.35" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'48.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°54'32.37" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°14'14.76" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°14'12.90" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'42.40" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°20'29.22" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'12.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'48.59" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°54'32.41" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°14'14.73" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°14'12.92" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'42.35" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°20'28.35" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°26'12.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'48.54" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°54'32.37" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°14'14.76" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°14'12.90" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'42.40" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°20'29.22" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Dakbayan sa Qom, Ghom, Homo, Kom, Kum, Kum shaary, Kumas, QUM, Qom, Qum, Qûm, gomu, koma, ku mu, kum, kuvom, qm, qwm, Ĥomo, Ком, Кум, Кум шаары, Қум, קום, قم, قوم, कोम, குவோம், ゴム, 库姆, 쿰

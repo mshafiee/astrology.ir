@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'55.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'1.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°8'31.37" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°33'22.93" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°37'8.06" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'52.52" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°10'36.50" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|3°27'55.76" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'1.65" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°8'31.34" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°33'22.97" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°37'8.04" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°18'52.58" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°10'37.28" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'55.85" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'3.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°8'27.45" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°33'13.83" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°37'0.53" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'41.10" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°1'8.28" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°36'1.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°8'31.34" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°33'22.97" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°37'8.04" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'52.58" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°10'37.28" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: REK, Recwic, Refkiavik, Rehjkjavik, Reiciavicia, Reicivic, Reikiavik, Reikiavike, Reikjaveks, Reikjavik, Reikjavika, Reikjavikas, Reikjavīka, Reiquiavik, Reiquiavique, Rejk'javik, Rejkijavik, Rejkjavik, Rejkjaviko, Rekyavik, Reykiavica, Reykjavik, Reykjavikur, Reykjavík, Reykjavíkur, Reykjawik, Reykyabik, Reykyavik, Rèkyavik, Réicivíc, Rēcwīc, Rėikjavėks, kartuli, lei ke ya wei ke, leikyabikeu, re'ikiyabhika, reikyavu~iku, rekavik, rekh ya wik, reki'avika, rekjabhika, rekjavika, rekyavika, reyikyavik, reykyavik, rykjawk, rykyafyk, rykyawk, rykyawyk, Ρέικιαβικ, Ρευκιαβικ, Рейкиявик, Рейкьявик, Рейкявик, Рейкявік, Рејкјавик, Рэйкявік, Ռեյկյավիկ, רייקיאוויק, רעקיאוויק, ريكيافيك, ریکجاوک, ریکیاوک, ریکیاویک, رېيكياۋىك, ڕێکیاڤیک, रेक्जाविक, रेक्याविक, রেইকিয়াভিক, ਰੇਕਿਆਵਿਕ, ରେକ୍ଜାଭିକ, ரெய்க்யவிக், రేకవిక్, റെയിക്യാവിക്, เรคยาวิก, རེཀ་ཇ་བིཀ།, რეიკიავიკი, ქართული, ሬይኪያቪክ, レイキャヴィーク, 雷克亞維克, 雷克雅未克, 雷克雅維克, 레이캬비크

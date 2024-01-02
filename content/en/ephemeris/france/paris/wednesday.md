@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'7.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'55.30" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°1'56.94" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°24'14.22" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°26'17.84" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°17'9.44" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°2'9.49" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|3°27'7.34" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°35'55.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°1'56.90" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°24'23.52" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°26'21.54" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°17'17.76" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°22'3.55" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'7.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'55.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°1'53.48" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°24'14.22" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°26'17.84" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°17'9.44" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°2'9.49" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°27'7.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'55.24" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°1'56.90" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°24'23.52" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°26'21.54" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°17'17.76" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°22'3.55" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Baariis, Bahliz, Ile-de-France, Lungsod ng Paris, Lutece, Lutetia, Lutetia Parisorum, Lutèce, PAR, Pa-ri, Paarys, Palika, Paname, Pantruche, Paraeis, Paras, Pari, Paries, Parigge, Pariggi, Parighji, Parigi, Pariis, Pariisi, Pariizu, Pariižu, Parij, Parijs, Paris, Parisi, Parixe, Pariz, Parize, Parizh, Parizh osh, Parizh', Parizo, Parizs, Pariž, Parys, Paryz, Paryzh, Paryzius, Paryż, Paryžius, Paräis, París, Paríž, Parîs, Parĩ, Parī, Parīze, Paříž, Páras, Párizs, Ville-Lumiere, Ville-Lumière, ba li, barys, pairisa, pali, pari, paris, parys, paryzh, perisa, pryz, pyaris, pyarisa, pyrs, Île-de-France, Παρίσι, Париж, Париж ош, Парижь, Париз, Парис, Парыж, Паріж, Փարիզ, פאריז, פריז, باريس, پارىژ, پاريس, پاریس, پیرس, ܦܐܪܝܣ, पॅरिस, पेरिस, पैरिस, প্যারিস, ਪੈਰਿਸ, પૅરિસ, பாரிஸ், పారిస్, ಪ್ಯಾರಿಸ್, പാരിസ്, ปารีส, ཕ་རི།, ပါရီမြို့, პარიზი, ፓሪስ, ប៉ារីស, パリ, 巴黎, 파리

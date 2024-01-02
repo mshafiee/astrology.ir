@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'7.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'55.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°35'55.50" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°1'53.14" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°24'17.32" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°26'15.30" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°17'14.60" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°23'18.15" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|5°26'7.85" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°17'1.91" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°37'54.23" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'7.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'55.50" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°35'55.50" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°1'53.14" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|12°24'17.32" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°26'15.30" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°17'14.60" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°23'18.15" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|5°26'7.85" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°17'1.91" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°37'54.23" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

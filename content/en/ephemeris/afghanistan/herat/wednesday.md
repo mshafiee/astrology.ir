@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'2.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'47.38" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°53'6.91" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°12'17.48" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°11'52.76" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'25.25" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°57'28.81" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|3°26'2.44" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°35'47.33" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°53'6.88" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°12'17.51" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°11'52.74" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'25.31" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°57'29.69" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'2.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'47.38" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°53'6.91" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°12'17.48" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°11'52.76" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'25.25" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°57'28.81" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°26'2.44" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'47.33" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°53'6.88" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°12'17.51" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°11'52.74" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'25.31" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°57'29.69" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特
