@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'46.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'52.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°59'5.56" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°20'30.37" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°21'40.77" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'42.84" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°31'23.57" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'52.44" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°59'4.26" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°20'26.81" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°21'38.96" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'39.29" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°42'19.52" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'46.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'54.83" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°59'0.05" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°20'17.70" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°21'29.41" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'26.07" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°10'49.26" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'52.44" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°59'4.26" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°20'26.81" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°21'38.96" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'39.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°42'19.52" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: ACC, Aakra, Aakrá, Accra, Acra, Akara, Akkr, Akkra, Akkrae, Akra, Akrao, Akʻra, Nkran, a ke la, akara, akeula, akra, akura, xak kra, yەkra, ΄Aκκρα, Άκκρα, Аккрæ, Аккра, Акра, Աքրա, אקרא, אקרה, آکرا, أكرا, ئەکرا, اكرا, اکرا, عکرہ, अक्रा, आक्रा, আক্রা, ਅਕਰਾ, ଆକ୍ରା, அக்ரா, അക്ര, อักกรา, ཨ་ཁ་ར།, အက်ခရာမြို့, აკრა, አክራ, アクラ, 阿克拉, 아크라

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|5°36'16.29" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°24'9.23" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°54'52.03" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°2'39.72" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°23'24.20" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°57'6.69" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|6°2'45.47" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°23'35.93" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°17'47.72" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|5°36'16.29" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°24'9.23" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|12°54'52.03" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°2'39.72" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°23'24.20" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°57'6.69" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°2'45.47" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°23'35.93" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°17'47.72" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르

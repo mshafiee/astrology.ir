@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°25'31.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'43.75" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°48'52.92" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°6'29.58" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°4'56.43" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°14'38.60" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|29°47'52.17" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|3°25'31.38" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°35'43.70" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°48'52.89" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°6'29.62" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°4'56.41" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°14'38.66" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|29°47'53.07" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|3°25'31.47" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°35'43.75" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|28°48'52.92" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°6'29.58" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°4'56.43" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°14'39.40" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°19'57.41" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|12°6'29.62" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°4'56.41" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°14'38.66" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°47'53.07" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

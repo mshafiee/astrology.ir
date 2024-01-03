@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 11:16:06|Night duration: 12:44:12|
-|Every hour of day duration: 00:56:21|Every hour of night duration: 01:03:41|
+|Every hour of day duration: 00:56:20|Every hour of night duration: 01:03:41|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|1°40'13.06" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|16°1'6.20" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|9°45'39.96" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|23°41'25.37" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°7'59.88" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|23°41'35.15" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°13'55.62" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Gemini|Moon|Mercury|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Saturn|Jupiter|Aries|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°46'53.21" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|3°46'53.11" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°39'34.77" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°40'8.79" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|16°0'54.22" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|9°45'34.83" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|23°41'35.10" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|17°13'55.91" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|16°0'54.26" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|9°45'34.81" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|23°41'25.42" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|17°7'59.59" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Sun|Venus|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}

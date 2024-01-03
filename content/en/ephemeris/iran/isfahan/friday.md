@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:06:20 |
 | Dhuhr (Noon) | 12:08:23 |
 | Medium Coeli | 12:08:23 |
-| Sunset | 17:10:35 |
+| Sunset | 17:10:36 |
 | Maghrib | 17:29:02 |
 | Isha (Night) | 18:19:59 |
 | Sharia Midnight | 23:28:52 |
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:06:20 |
 | Dhuhr (Noon) | 12:08:23 |
 | Medium Coeli | 12:08:23 |
-| Sunset | 17:10:35 |
+| Sunset | 17:10:36 |
 | Maghrib | 17:31:38 |
 | Isha (Night) | 18:19:59 |
-| Sharia Midnight | 23:24:39 |
+| Sharia Midnight | 23:24:40 |
 | Imum Coeli | 00:08:37 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:06:20 |
 | Dhuhr (Noon) | 12:08:23 |
 | Medium Coeli | 12:08:23 |
-| Sunset | 17:10:35 |
+| Sunset | 17:10:36 |
 | Maghrib | 17:16:08 |
 | Isha (Night) | 18:24:59 |
 | Sharia Midnight | 23:31:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°37'13.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°37'29.00" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°23'33.85" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|14°16'14.17" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|7°40'6.69" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°49'43.24" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°31'19.06" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|3°37'13.27" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°37'28.97" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°23'33.76" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|14°16'13.88" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|7°40'6.65" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°49'43.06" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°32'48.48" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°37'13.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°37'29.00" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°23'33.85" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|14°16'14.17" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|7°40'6.69" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°49'43.24" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|25°31'19.06" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|3°37'13.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°37'28.94" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°23'33.76" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|14°16'13.88" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|7°40'6.65" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°49'43.06" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°32'48.48" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

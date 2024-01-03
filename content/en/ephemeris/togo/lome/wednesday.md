@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'45.20" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°26'45.28" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°35'52.17" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°58'56.85" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°20'18.42" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°21'26.49" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'40.89" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°29'3.70" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|28°58'50.71" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°20'4.57" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°21'13.56" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'22.14" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°0'38.26" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'45.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'52.17" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°58'56.85" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°20'1.66" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°21'14.75" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'21.60" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°42'12.98" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°26'45.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'55.11" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°58'50.67" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°20'4.60" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°21'13.56" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'22.14" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°0'38.26" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

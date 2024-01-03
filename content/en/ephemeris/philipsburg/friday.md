@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:05:58|Night duration: 12:54:18|
+|Duration of the day: 11:05:58|Night duration: 12:54:19|
 |Every hour of day duration: 00:55:30|Every hour of night duration: 01:04:32|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|21:04:00|22:08:31|Unfortunate hour|
 |5|Moon|Servant|22:08:32|23:13:02|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|23:13:03|00:17:34|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:17:35|01:22:05|Promotion and attracting wealth|
-|8|Mars|Ruler|01:22:06|02:26:37|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:26:38|03:31:08|Causing separation and homelessness|
-|10|Venus|Servant|03:31:09|04:35:40|Extremely unfortunate|
-|11|Mercury|Servant|04:35:41|05:40:11|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:40:12|06:44:43|Suitable for asking for a need|
+|7|Jupiter|Servant|00:17:35|01:22:06|Promotion and attracting wealth|
+|8|Mars|Ruler|01:22:07|02:26:37|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:26:38|03:31:09|Causing separation and homelessness|
+|10|Venus|Servant|03:31:10|04:35:40|Extremely unfortunate|
+|11|Mercury|Servant|04:35:41|05:40:12|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:40:13|06:44:44|Suitable for asking for a need|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°44'31.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°39'0.78" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°21'34.56" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|15°35'36.97" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|9°15'8.27" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|23°27'16.00" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°51'33.59" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|3°44'31.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°39'0.72" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°21'34.55" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|15°35'37.04" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|9°15'8.30" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|23°27'16.08" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°6'43.32" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

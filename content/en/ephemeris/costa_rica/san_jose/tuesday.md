@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°28'4.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'2.02" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°9'43.74" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°35'5.43" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°39'6.85" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°19'19.02" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°23'39.37" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|3°28'4.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'1.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°9'43.70" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°35'5.47" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°39'6.83" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°19'19.08" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°23'40.15" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°28'4.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'2.02" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°9'43.74" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|3°28'4.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°36'1.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°9'43.70" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|12°35'5.47" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|5°39'6.83" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Retrograde|22°19'19.08" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: SJO, San Chose, San Chosė, San Hose, San Jose, San Jose de Costa Rica, San Jose i Costa Rica, San José, San José de Costa Rica, San José i Costa Rica, San Joze, San Jozé, San Jusiy, San Khose, San Khoze, San Xose, San Xosé, San-Joseo, San-Khaseh, San-Khose, San-Xose, Sanhose, Sanhosē, Urbs Sancti Iosephi in Costarica, can hoce, san jwz, san khwsyh, san khwzh, san khwzے  kwsٹaryka, san-khose, sana hoje, sana hose, sana hoze, sanhose, sheng he xi, sn hwsh, syana hose, Σαν Χοσέ, Сан Хозе, Сан Хосе, Сан-Хасэ, Сан-Хосе, Սան Խոսե, סאן חוסה, סן חוסה, سان جوز, سان خوزه, سان خوزے، کوسٹاریکا, سان خوسيه, سان خوسې, सान होज़े, सान होजे, স্যান হোসে, ਸਾਨ ਹੋਸੇ, சான் ஹொசே, ซันโฮเซ, སན་ཇོ་སེ།, სან-ხოსე, ሳን ሆዜ, サンホセ, 聖荷西, 산호세

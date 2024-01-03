@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|3°26'1.26" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°35'47.60" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°52'56.05" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°12'1.77" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°11'36.13" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'21.26" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°8'38.40" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|12°12'1.17" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°11'36.92" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'21.65" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°23'13.78" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'1.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'47.14" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°52'56.37" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°12'1.77" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°11'36.15" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'21.20" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°8'37.52" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'47.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°52'56.05" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°12'1.17" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°11'34.87" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'19.88" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°58'40.28" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Cen Ceper, Nobosimpirsk, Novasibirsk, Novo-Nikolaevsk, Novo-Nikolaievsk, Novo-Nikolaïevsk, Novonikolaevsk, Novonikolayevsk, Novosibir, Novosibir'sku, Novosibirs'k, Novosibirscum, Novosibirsk, Novosibirska, Novosibirskaj, Novosibirskas, Novosibirsko, Novosimpirsk, Novossibirsk, Novoszibirszk, Nowosibirsk, Nowosibirski, Nowosybirsk, OVB, Odsibiren' osh, Vil' Sibirkar, no wo sibiskh, nobosibileuseukeu, novosibirsk, novosibirska, novu~oshibirusuku, nwbwsybyrsq, nwfwsybyrsk, nwwsybrsk, nwwsybyrsk, xin xi bo li ya, Çĕн Çĕпĕр, Νοβοσιμπίρσκ, Νοβοσιμπιρσκ, Виль Сибиркар, Новасібірск, Новониколаевск, Новосибирск, Новосибирскай, Новосибирьскъ, Новосибірськ, Новосібір, Одсибирень ош, Նովոսիբիրսկ, נובוסיבירסק, نوفوسيبيرسك, نووسیبرسک, نووسیبیرسک, नोवोसिबिर्स्क, โนโวซีบีสค์, ნოვოსიბირსკი, ノヴォシビルスク, 新西伯利亚, 新西伯利亞, 노보시비르스크

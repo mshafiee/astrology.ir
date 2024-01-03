@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'16.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'48.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°54'58.02" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°14'50.95" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°14'55.01" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'50.03" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°24'24.89" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'49.44" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°54'56.51" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°14'47.41" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°14'51.70" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'45.19" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°17'19.68" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'16.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'48.18" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°54'54.89" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°14'41.73" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°14'52.68" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'42.89" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°22'57.25" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'48.71" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°54'58.02" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°14'50.95" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°14'51.70" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'45.19" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°17'19.68" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°58'57.01" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°20'17.25" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°21'26.66" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'37.77" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°32'33.64" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|22°16'36.68" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°32'43.77" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'45.29" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'52.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°58'56.98" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°20'17.28" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°21'26.64" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'37.82" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°32'34.48" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°26'45.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'52.50" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°58'57.01" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°20'17.25" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°21'26.66" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'37.77" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°32'43.77" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: TIA, Terana, Theranda, Tiorana, Tiorána, Tiran, Tiran khot, Tiran-a, Tirana, Tiranae, Tirane, Tirano, Tiranë, Tirāna, Trnava, Tyrana, Tyranna, Tírana, Tîrana, Tėrana, de la na, tilana, tirana, tyrana, tyrnh, Τίρανα, Тиран хот, Тиранæ, Тирана, Тиране, Трнава, Тырана, Տիրանա, טיראנא, טירנה, تىرانا, تيرانا, تیرانا, तिराना, তিরানা, ਤਿਰਾਨਾ, ଟିରାନା, டிரானா, ടിറാന, ติรานา, ཐིས་རན།, ტირანა, ቲራና, ティラナ, 地拉那, 티라나

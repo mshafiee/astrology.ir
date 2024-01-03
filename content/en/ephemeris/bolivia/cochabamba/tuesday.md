@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'37.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'59.30" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°6'2.74" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°30'2.68" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°33'3.33" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'20.00" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°2'45.69" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'58.61" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°6'3.11" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°30'2.96" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°33'5.25" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°18'21.79" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°24'1.02" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Jupiter|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'37.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'58.55" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°6'3.07" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°30'3.00" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°33'5.23" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'21.85" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°24'1.83" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°27'37.50" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'58.61" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°6'3.11" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°30'2.96" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°33'5.25" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'21.79" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°24'1.02" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: CBB, Ciudad Cochabamba, Cochabamba, Kocabamb, Kocabamba, Kochabamba, Kočabamb, Kočabamba, Kuchawampa, Quchapampa, ke qia ban ba, ko cha bam ba, kochabamba, kochabanba, kwchabamba, kwtshabamba, qwzbmbh, Кочабамба, קוצבמבה, كوتشابامبا, کوچابامبا, โกชาบัมบา, ཀོ་ཅ་བང་ལྦ་, კოჩაბამბა, コチャバンバ, 科恰班巴, 코차밤바

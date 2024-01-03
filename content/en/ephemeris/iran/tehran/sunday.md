@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:05:55 |
 | Maghrib | 17:27:41 |
 | Isha (Night) | 18:17:49 |
-| Sharia Midnight | 23:24:59 |
+| Sharia Midnight | 23:24:58 |
 | Imum Coeli | 00:10:30 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°48'32.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°39'59.96" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°53'15.90" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|16°18'55.03" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|5°40'0.17" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°53'15.66" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|16°18'54.60" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|10°7'1.67" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|23°52'10.46" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°48'20.48" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|23°52'11.25" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°54'29.33" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|3°48'32.95" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°40'0.17" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°53'15.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|16°18'55.03" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|10°7'1.67" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|23°52'11.25" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°54'29.33" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|16°18'54.60" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|10°7'0.99" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|23°52'10.46" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°48'20.48" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

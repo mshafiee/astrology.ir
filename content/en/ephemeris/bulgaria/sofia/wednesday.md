@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'43.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'52.27" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°58'39.41" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°19'53.02" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°20'57.80" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'33.66" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°28'1.82" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'54.77" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°58'35.13" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°19'43.87" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°20'47.97" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'20.19" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°53'54.98" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'43.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'52.27" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°58'39.41" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°19'53.02" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°20'57.80" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'33.66" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°28'1.82" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'54.77" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°58'35.13" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°19'43.87" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°20'47.97" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'20.19" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°53'54.98" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: SOF, Safija, Serdica, Sofi, Sofia, Sofiae, Sofie, Sofii, Sofij, Sofija, Sofija osh, Sofijo, Sofio, Sofiya, Sofiä, Sofiýa, Sofja, Sofya, Sofía, Soifia, Sophia, Sredets, Suofeje, Suofėjė, Szofia, Szófia, Sòfia, Sófia, Sófía, Sóifia, Ulpia Serdica, cohviya, saphiya, seaphiya, sofeiy, sofi'a, sofia, sophiya, sopia, suo fei ya, swfya, swfyh, swpyh, Σόφια, Сафія, Софи, Софий, София, София ош, Софија, Софія, Софїꙗ, Սոֆիա, סאפיע, סופיה, سوفىيە, سۆفیا, صوفيا, صوفیه, صوفیہ, صوٙفیە, सोफिया, সফিয়া, ਸੋਫ਼ੀਆ, சோஃவியா, സോഫിയ, โซเฟีย, སོ་ཧྥི་ཡ།, სოფია, ሶፊያ, ソフィア, 索菲亞, 소피아, 𐍃𐍉𐍆𐌹𐌰

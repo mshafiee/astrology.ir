@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'55.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'0.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°8'26.92" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°33'20.21" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°37'0.91" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'58.86" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°2'59.71" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|5°36'0.85" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°8'26.88" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°33'20.17" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°37'0.79" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°18'58.77" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°1'3.73" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'55.16" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°36'0.79" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°8'26.92" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°33'20.21" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°37'0.95" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'58.93" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°2'43.96" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|29°8'26.88" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°33'20.17" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°37'0.79" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'58.77" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°1'3.73" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: CLO, Cali, Calium, Cáli, Kali, Kalis, Santiago de Cali, ka li, kali, kalli, kaly, santiago・de・kari, Кали, Калі, סנטיאגו דה קאלי, كالي, کالی, กาลี, サンティアゴ・デ・カリ, 卡利, 칼리

@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°21'46.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'23.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°18'1.71" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|11°24'6.77" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|4°14'18.99" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°11'1.74" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|5°35'23.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°18'1.75" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|11°24'6.74" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|4°14'19.01" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°11'1.69" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|21°12'35.61" |Leo|Zubrah|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°21'46.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'23.58" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°18'1.71" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|11°24'6.77" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|4°14'18.99" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|22°11'1.74" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|21°12'36.65" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|5°35'21.95" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°18'3.71" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|11°24'10.58" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|4°14'24.63" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|22°11'8.71" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|21°39'29.45" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Jupiter|Venus|Capricorn|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}

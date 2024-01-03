@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:00:46 |
 | Sunset | 16:24:42 |
 | Maghrib | 16:27:25 |
-| Isha (Night) | 18:13:54 |
+| Isha (Night) | 18:13:55 |
 | Sharia Midnight | 23:06:17 |
 | Imum Coeli | 00:01:00 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°32'21.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'39.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°44'30.13" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|13°22'47.17" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°36'8.64" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°31'3.57" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|14°49'16.78" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|3°32'21.79" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'38.70" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°44'31.55" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|13°22'47.14" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°36'8.66" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°31'3.52" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|14°49'16.19" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°32'21.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'39.00" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°44'30.09" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|13°22'43.52" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°36'6.25" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°30'59.59" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|14°49'24.67" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|3°32'21.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°36'38.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°44'31.51" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°22'47.17" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|6°36'8.64" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°31'3.57" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|14°49'16.78" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

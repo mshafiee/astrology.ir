@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'6.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'47.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°53'39.83" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|3°26'6.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°35'47.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°53'39.71" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°13'2.33" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°12'47.51" |Scorpio|Akleel|Mars|
 |☿ Mercury|Retrograde|22°15'33.10" |Scorpio|Shaulah|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

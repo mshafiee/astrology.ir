@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'56.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'1.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°8'40.78" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°33'29.30" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°37'16.50" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'49.58" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°3'27.12" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|3°27'56.82" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'1.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°8'40.75" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°33'38.33" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°37'23.58" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°19'0.61" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°8'18.14" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'56.82" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'2.62" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°8'37.01" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°33'29.26" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°37'16.50" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'49.58" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°3'27.12" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°36'1.16" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°8'40.75" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°33'38.33" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°37'23.58" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°19'0.61" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°8'18.14" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: BDA, Chamilton, Gamil'tan, Gamil'ton, Hamilton, Hamilton pa Bermuda, Hamilton på Bermuda, Hamiltonas, Hamiltono, Khamilton, Khamiltun, amiltan, ha mi er dun, haemilteon, hamiruton, hamyltwn, hemiltana, hmyltwn, Χάμιλτον, Гамильтон, Гамільтан, Гамільтон, Хамилтон, Хамилтън, המילטון, هاميلتون, همیلتون, ہیملٹن, हॅमिल्टन, ஆமில்டன், แฮมิลตัน, ჰამილტონი, ハミルトン, 哈密尔顿, 해밀턴

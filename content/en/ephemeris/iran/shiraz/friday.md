@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:39:11 |
-| Sunrise | 06:55:53 |
+| Sunrise | 06:55:52 |
 | Dhuhr (Noon) | 12:04:58 |
 | Medium Coeli | 12:04:58 |
 | Sunset | 17:14:11 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:34 |
-| Sunrise | 06:55:52 |
+| Sunrise | 06:55:53 |
 | Dhuhr (Noon) | 12:04:58 |
 | Medium Coeli | 12:04:58 |
 | Sunset | 17:14:11 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:44:00 |
-| Sunrise | 06:55:52 |
+| Sunrise | 06:55:53 |
 | Dhuhr (Noon) | 12:04:58 |
 | Medium Coeli | 12:04:58 |
 | Sunset | 17:14:11 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:22:24 |
-| Sunrise | 06:55:53 |
+| Sunrise | 06:55:52 |
 | Dhuhr (Noon) | 12:04:58 |
 | Medium Coeli | 12:04:58 |
 | Sunset | 17:14:11 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:34 |
-| Sunrise | 06:55:53 |
+| Sunrise | 06:55:52 |
 | Dhuhr (Noon) | 12:04:58 |
 | Medium Coeli | 12:04:58 |
 | Sunset | 17:14:11 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|5°37'28.51" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°23'14.50" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|14°15'47.83" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|7°39'34.98" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°49'32.67" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°29'6.93" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|7°39'35.00" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°49'32.90" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°26'21.46" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°37'10.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°37'28.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°23'14.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|14°15'47.86" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|7°39'34.98" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°49'32.96" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|25°26'21.82" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|5°37'28.28" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°23'14.29" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|14°15'47.18" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|7°39'35.13" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°49'32.76" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°33'20.27" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

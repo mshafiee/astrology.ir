@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°45'16.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°39'11.60" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°27'29.86" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|15°43'36.56" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|9°24'49.73" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|23°31'31.67" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|12°50'20.33" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|3°45'16.87" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°39'11.53" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°27'35.12" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|15°43'49.59" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|9°24'58.76" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|23°31'45.45" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|13°32'1.24" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Gemini|Moon|Mercury|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°45'16.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°39'11.60" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°27'35.16" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|15°43'49.56" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|3°45'16.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°39'11.53" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°27'35.12" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|15°43'49.59" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|9°24'49.73" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Retrograde|23°31'31.67" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|12°50'20.33" |Scorpio|Qalb|Sun|

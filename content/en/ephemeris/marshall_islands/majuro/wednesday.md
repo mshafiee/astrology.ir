@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°29'38.97" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°29'38.88" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°36'14.61" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°22'31.39" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°52'37.91" |Sagittarius|NaAaem|Moon|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|12°52'37.91" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|6°0'5.11" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Retrograde|22°23'4.36" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°11'45.93" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|8°51'17.41" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

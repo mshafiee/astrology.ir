@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 09:51:11|Night duration: 14:08:51|
+|Duration of the day: 09:51:11|Night duration: 14:08:50|
 |Every hour duration: 01:24:27|Every hour duration: 02:01:16|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mercury|Ruler|16:59:29|19:00:43|
 |Late evening|Moon|Servant|19:00:44|21:01:59|
 |Midnight|Saturn|Servant|21:02:00|23:03:15|
-|Late at night|Jupiter|Servant|23:03:16|01:04:31|
-|Rooster song|Mars|Servant|01:04:32|03:05:47|
-|False Dawn|Sun|Servant|03:05:48|05:07:03|
-|Dawn|Venus|Servant|05:07:04|07:08:19|
+|Late at night|Jupiter|Servant|23:03:16|01:04:30|
+|Rooster song|Mars|Servant|01:04:31|03:05:46|
+|False Dawn|Sun|Servant|03:05:47|05:07:02|
+|Dawn|Venus|Servant|05:07:03|07:08:18|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°42'57.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°38'39.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°9'15.15" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|15°18'45.24" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|8°54'57.29" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|23°18'21.89" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°17'7.05" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°38'39.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°9'15.05" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|15°18'44.98" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|8°54'57.12" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|23°18'21.69" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°16'43.21" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,9 +341,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|3°42'57.75" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°38'39.69" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°9'15.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|15°18'44.95" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|8°54'57.14" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|23°18'21.64" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|15°18'44.98" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|8°54'57.12" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|23°18'21.69" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|8°16'43.21" |Scorpio|Akleel|Mars|
 
 

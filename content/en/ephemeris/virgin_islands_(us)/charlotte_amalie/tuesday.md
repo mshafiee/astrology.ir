@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'50.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'0.20" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°7'48.34" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°32'27.06" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°35'57.72" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'48.23" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°53'2.34" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|3°27'50.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°36'0.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°7'48.38" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°32'10.27" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°35'46.80" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°18'29.60" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°11'10.82" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Jupiter|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°27'50.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'0.20" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°7'48.34" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°32'27.06" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°35'57.72" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'48.23" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°53'2.34" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°27'50.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°36'0.26" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°7'48.38" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°32'10.27" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°35'46.80" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'29.60" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°11'10.82" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Amalienborg, Amalienburg, Carlota Amalia, Carlotamalio, Charlotte Amalia, Charlotte Amalie, Charlotte Amalie pa Dei amerikanske Jomfruoyane, Charlotte Amalie på Dei amerikanske Jomfruøyane, Di Dorp, Dorp, Het Dorp, Saint Thomas, Saint Thomas City, Sanct Thomas, Sarlot Amali, Sarlote Amalija, Sarlotta Amaliya, Savan, Scharlotte Amelia, Sharlot Amali, Sharlota Amalija, Sharlota-Amalija, Sharlotta-Amalija, Tap House, Tap Hus, Taphuis, Taphus, Taphuus, Taphys, Tappus, Wirtshaus, Zapfhaus, charlxttxa mali, sarlata ameli, sharlwt amaly, srlwt ʼmʼly, syalleos-amallie, xia luo te a ma li ya, Ĉarlotamalio, Şarlotta Amaliya, Šarlotė Amalija, Σαρλότ Αμαλί, Шарлот Амали, Шарлота Амалия, Шарлота Амалија, Шарлота-Амалія, Шарлотта-Амалия, Шарлотта-Амалія, שרלוט אמאלי, شارلوت آمالی, شارلوت أمالي, شارلٹ ایملی, शार्लट आमेली, ชาร์ลอตต์อะมาลี, შარლოტა-ამალია, シャーロット・アマリー, 夏洛特阿马利亚, 샬럿아말리에

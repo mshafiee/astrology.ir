@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'1.10" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'55.86" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°1'4.92" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°23'13.40" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°24'53.74" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°17'3.68" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°23'38.64" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'54.49" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°1'5.28" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°23'10.86" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°24'55.79" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°17'3.96" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°12'3.95" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'1.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'54.49" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°1'5.28" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°23'12.78" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°24'53.74" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°17'3.68" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°23'38.64" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'54.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°1'4.54" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°23'10.86" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°24'55.79" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°17'3.96" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°12'3.95" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BRN, Bann, Beirn, Ben, Bern, Bern osh, Berna, Bernas, Berne, Berno, Bundesstadt, Bèn, Bèrna, atharvaveda, ban he na, barana, barna, beirn, beleun, berna, berni, berun, bo en, bo er ni, brn, byrn, pern, Βέρνη, Берн, Берн ош, Բեռն, בערן, ברן, برن, بيرن, بێرن, بېرن, ܒܪܢ, अथर्ववेद, बर्न, বের্ন, ਬਰਨ, ବର୍ନ, பேர்ன், ബേൺ, เบิร์น, པེར་ནེ།, ბერნი, ቤርን, ベルン, 伯尔尼, 伯恩, 办合纳, 베른

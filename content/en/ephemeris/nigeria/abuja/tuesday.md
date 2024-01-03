@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:29:17 |
+| Fajr (Dawn) | 05:29:16 |
 | Sunrise | 06:45:27 |
 | Dhuhr (Noon) | 12:33:47 |
 | Medium Coeli | 12:33:47 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°21'15.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'18.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°13'45.15" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|11°18'17.68" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|4°7'20.98" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°11'5.66" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|5°35'18.80" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°13'45.19" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|11°18'17.65" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|4°7'21.00" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°11'5.60" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|20°22'24.26" |Leo|Zubrah|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°21'15.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'18.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°13'45.15" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|11°18'17.62" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|4°7'20.79" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|22°11'5.41" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°20'16.38" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|3°21'15.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'18.82" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°13'45.12" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|11°18'17.65" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|4°7'20.77" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|22°11'5.46" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°20'17.46" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'47.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'45.60" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°51'2.09" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°9'26.45" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°8'28.16" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'1.61" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°23'28.55" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'45.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°51'2.03" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°9'26.20" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°8'28.22" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'1.52" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°26'33.34" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°25'47.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'45.60" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°51'2.09" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°9'26.45" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°8'28.16" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'1.61" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°23'28.55" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'45.54" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°51'2.03" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°9'26.20" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°8'28.22" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'1.52" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°26'33.34" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Candigarchas, Candigarh, Chandigar, Chandigarh, Chandigarkh, Chandīgarh, Czandigarh, IXC, cadigarha, candhigad, candigadh, candigadha, candigara, candigarha, cantikar, chandigadh, chandigarhi, chandigaru, chang di jia er, Čandigarchas, Čandígarh, Чандигар, Чандигарх, צ'אנדיגאר, चंडीगढ़, চন্ডিগড়, চন্ডীগড়, ਚੰਡੀਗੜ੍ਹ, ચંડીગઢ, சண்டிகர், చండీగఢ్, ఛండీగఢ్, ചണ്ഢീഗഡ്, ჩანდიგარჰი, チャンディーガル, 昌迪加尔

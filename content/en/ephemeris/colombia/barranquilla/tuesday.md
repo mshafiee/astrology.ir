@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'56.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'2.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°8'30.75" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°33'17.65" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°37'8.35" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'44.25" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°40'21.80" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|5°36'0.91" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°8'37.16" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°33'34.20" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°37'17.76" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°19'1.41" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°5'49.48" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BAQ, Barankil'ja, Barankila, Barankilija, Barankilja, Barran'kigia, Barrancas de San Nicolas, Barrancas de San Nicolás, Barrankil'ja, Barrankilya, Barranquilha, Barranquilla, Killa, La Arenosa, Quilla, ba lan ji ya, ba leng ji ye, balangkiya, bar rang ki ya, baranakiya, barankija, barankwla, barankwyla, brnqyyh, byarenkvila, Μπαρρανκίγια, Баранкиля, Баранкиља, Баранкілья, Барранкилья, Барранкілья, ברנקייה, بارانكويلا, بارانکولا, ब्यारेन्क्विला, ਬਾਰਾਙਕੀਯਾ, บาร์รังกียา, ბარანკილია, バランキージャ, 巴兰基亚, 巴冷基也, 바랑키야

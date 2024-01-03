@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°29'14.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'11.22" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°19'9.95" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°48'1.81" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°54'34.97" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°22'1.43" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|7°56'44.93" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|5°36'12.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°19'3.49" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°47'45.61" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°54'24.24" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°21'43.43" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°7'23.50" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°29'14.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'11.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°19'9.95" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°48'1.81" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°54'34.97" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°22'1.43" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°56'44.93" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°36'12.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°19'3.49" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°47'45.61" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°54'24.24" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°21'43.43" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|8°7'23.50" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

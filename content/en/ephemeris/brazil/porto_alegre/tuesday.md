@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°27'17.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'58.78" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°3'14.59" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°26'5.32" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°28'27.07" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°17'22.37" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°27'58.49" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'56.25" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°3'20.83" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°26'20.09" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°28'39.27" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°17'41.01" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°41'15.91" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: POA, Porto Alegre, Porto Alegri, Porto Alegrė, Porto Alenkre, Porto de Sao Francisco dos Casaes, Porto-Alegro, Portu-Alegre, Portu-Alegri, Portu-Alegry, Portualegri, Portus Alacer, Puerto Alegre, Pôrto de São Francisco dos Casaes, a lei ge li gang, bwrtw alyghry, parto alegre, poleutuallegeuli, portu alegri, pwrtw algrh, Πόρτο Αλέγκρε, Порто Алегре, Порто Алегри, Порту-Алегре, Порту-Алегри, Порту-Алегры, Порту-Алегрі, פורטו אלגרה, بورتو أليغري, پورتو الگره, پورتو الیگرے, पोर्तू अलेग्री, পর্টো আলেগ্রে, პორტუ-ალეგრი, ポルト・アレグレ, 阿雷格里港, 포르투알레그리

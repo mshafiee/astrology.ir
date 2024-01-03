@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°30'44.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'24.00" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°31'24.84" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|13°4'48.78" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°14'39.42" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°26'3.51" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°16'13.15" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Direct|5°36'25.29" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°31'18.54" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°4'32.48" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|6°14'30.05" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°25'46.77" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°39'9.04" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이

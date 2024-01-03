@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'30.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'51.63" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°56'50.34" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°17'21.32" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°17'58.26" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'3.95" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°54'33.70" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'50.79" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°56'52.07" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°17'25.45" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°18'1.81" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'9.35" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°59'50.34" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°26'30.06" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|3°26'29.97" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°35'51.01" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|28°56'51.46" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°17'21.32" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°17'58.26" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'3.95" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°54'33.70" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|12°17'23.78" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°18'0.77" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'7.47" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°2'14.68" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Molotov, PEE, Perem, Perm, Perm', Perma, Perme, Permia, Permjo, Permė, Perym, bi er mu, byrm, parma, peiy rm, peleum, perumi, prm, pyrm, Περμ, Молотов, Перĕм, Перем, Перм, Пермь, Перым, Пєрмь, Պերմ, פרם, بيرم, پرم, پیرم, पर्म, เปียร์ม, პერმი, ペルミ, 彼尔姆, 페름

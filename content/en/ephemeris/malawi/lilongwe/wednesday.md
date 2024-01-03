@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'7.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'49.57" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°53'48.70" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°13'14.48" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°12'58.72" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'28.11" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°30'41.73" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'48.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°53'50.84" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°13'18.92" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°13'4.10" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'35.21" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°53'42.54" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'7.85" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'49.57" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°53'48.70" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°13'14.44" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°12'58.74" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'28.11" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°30'41.73" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'47.80" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°53'51.07" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°13'19.07" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°13'5.27" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'36.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°6'37.05" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: LLW, Lilon'nkoue, Lilonguee, Lilongve, Lilongveh, Lilongvo, Lilongvė, Lilongwe, Lilongüe, Lilonhue, Lilonqve, Lílongve, li lang wei, li long gui, li lxng we, lilamgve, lilangave, lillong-gwe, lilongve, lilonve, lylwnghwy, lylwngwh, lylwngwwh, rironguu~e, Λιλόνγκουε, Лилонгве, Лілонгве, Лілонгвэ, Լիլոնգվե, לילאנגווע, לילונגווה, ليلونغوي, لیلونگوه, لیلونگوے, لیلۆنگوێ, لیلیونگوے, लिलाँग्वे, ਲਿਲਾਂਗਵੇ, லிலொங்வே, ลิลองเว, ལི་ལོང་ཀུའེ།, ლილონგვე, ሊሎንጔ, リロングウェ, 利隆圭, 里朗威, 릴롱궤

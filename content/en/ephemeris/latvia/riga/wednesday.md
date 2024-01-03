@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'57.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'56.28" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°0'32.35" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°22'24.25" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°24'0.57" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'46.61" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°33'4.21" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'54.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°0'35.75" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°22'31.49" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°24'8.45" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'57.35" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°1'54.36" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'57.51" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'56.28" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°0'32.35" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°22'24.25" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°24'0.57" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'46.61" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°33'4.21" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'54.26" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°0'35.75" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°22'31.49" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°24'8.45" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'57.35" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°1'54.36" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: RIX, Reiga, Riga, Rigae, Rige, Rigg-a, Rigo, Riia, Riigaa, Riika, Rija, Riqa, Ryga, Ríga, Ríge, Rīga, li jia, liga, ri ka, riga, rika, ryga, rygh, rygha, ryja, Ρίγα, Ригæ, Рига, Рыга, Ріґа, Ռիգա, ריגה, ריגע, رىگا, ريجا, ريغا, ریگا, रिगा, रीगा, রিগা, ரீகா, รีกา, རི་ག, რიგა, ሪጋ, リガ, 里加, 리가

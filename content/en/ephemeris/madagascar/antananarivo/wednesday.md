@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°25'53.17" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°25'53.26" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°35'45.44" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°51'50.71" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°10'31.59" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°9'49.56" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'12.72" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°34'44.43" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|5°9'49.95" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'10.86" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°13'37.78" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°25'53.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'46.10" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°51'51.66" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°10'35.28" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°9'49.56" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°15'12.72" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°34'44.43" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°25'53.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'45.39" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°51'50.67" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°10'31.62" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°9'49.95" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°15'10.86" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°13'36.88" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보

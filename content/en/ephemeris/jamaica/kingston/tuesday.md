@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|5°36'1.61" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°9'15.41" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°34'26.38" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°38'14.58" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°18'58.71" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°5'27.36" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|5°38'12.68" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°18'59.53" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°2'17.83" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°28'1.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'1.91" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°9'10.53" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°34'13.06" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°38'14.58" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°18'58.71" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°5'27.36" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°36'3.28" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°9'11.60" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°34'17.50" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°38'12.68" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°18'59.58" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°2'18.59" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

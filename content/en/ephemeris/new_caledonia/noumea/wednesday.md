@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°29'31.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'14.63" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°21'25.64" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°51'0.79" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°58'26.39" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°22'30.18" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°1'12.93" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|5°36'13.66" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°21'25.61" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°51'15.22" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°58'26.41" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°22'44.93" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°35'12.98" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°21'31.14" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|12°51'15.22" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|5°58'26.41" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°22'30.13" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°1'12.93" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|22°22'44.93" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|8°35'12.98" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

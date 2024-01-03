@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:56:53 |
 | Medium Coeli | 12:56:53 |
 | Sunset | 17:29:20 |
-| Maghrib | 17:51:05 |
+| Maghrib | 17:51:04 |
 | Isha (Night) | 18:50:43 |
 | Sharia Midnight | 00:10:34 |
 | Imum Coeli | 00:57:07 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°31'23.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'30.11" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°36'40.89" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|13°12'0.68" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°23'17.25" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°27'56.54" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|12°42'17.17" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|5°36'29.98" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°36'40.68" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|13°11'59.94" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°23'17.31" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°27'56.13" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°49'7.28" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°31'23.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'29.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°36'41.68" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|13°12'1.94" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°23'20.05" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°27'59.57" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|13°6'54.58" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|5°36'29.98" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°36'40.68" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°11'59.94" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|6°23'17.31" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°27'56.13" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°49'7.28" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}

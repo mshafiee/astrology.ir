@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|5°35'51.00" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°57'37.63" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°18'29.84" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°19'13.31" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'17.36" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°25'31.88" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|5°19'6.09" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'5.36" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°34'10.38" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'35.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'51.00" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°57'37.63" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°18'23.59" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°19'13.31" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'17.36" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°25'31.88" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'52.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°57'30.94" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°18'13.21" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°19'6.07" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'5.42" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°34'11.21" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌

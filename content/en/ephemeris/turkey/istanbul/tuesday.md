@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:07:56 |
 | Sunset | 17:47:07 |
 | Maghrib | 17:48:29 |
-| Isha (Night) | 19:10:37 |
+| Isha (Night) | 19:10:38 |
 | Sharia Midnight | 00:26:20 |
 | Imum Coeli | 01:08:10 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°21'11.39" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°21'11.30" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°35'18.87" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°13'13.37" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|11°17'32.68" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|4°6'28.58" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°11'1.44" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°18'20.82" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|4°6'28.56" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°11'3.18" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°26'32.19" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°21'11.51" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'19.10" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°13'13.30" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|11°17'32.74" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|4°6'28.00" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|22°11'1.00" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°11'11.29" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|3°21'11.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°35'18.87" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°13'13.37" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|11°17'32.68" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|4°6'28.56" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|22°11'1.50" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°18'21.89" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

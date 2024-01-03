@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'41.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'52.15" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°58'26.09" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°19'34.46" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°20'35.95" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°16'31.93" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°35'25.94" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'52.09" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°58'26.06" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°19'34.50" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°20'34.65" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°16'24.53" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°23'4.84" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'41.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°35'52.15" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°58'26.09" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|12°19'34.46" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°20'35.95" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°16'30.05" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°35'25.94" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°35'51.46" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°58'23.42" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|12°19'26.55" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°20'34.63" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|22°16'24.58" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°23'5.69" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:17:07 |
 | Maghrib | 18:34:56 |
 | Isha (Night) | 19:16:24 |
-| Sharia Midnight | 23:51:45 |
+| Sharia Midnight | 23:51:44 |
 | Imum Coeli | 00:29:26 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'12.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°35'48.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°54'28.40" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|12°14'10.26" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°14'6.45" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°15'43.76" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°16'43.60" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|5°35'50.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°54'24.26" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|12°14'0.69" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°13'57.62" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°15'30.87" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°59'4.79" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바
