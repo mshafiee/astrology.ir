@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°44'16.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°38'58.60" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°19'40.45" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|15°32'57.36" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|9°12'0.85" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|23°25'45.36" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°50'21.52" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|3°44'17.01" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°38'58.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°19'41.36" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|15°32'59.37" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|9°12'2.77" |Scorpio|Qalb|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°25'47.96" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°2'45.50" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°44'17.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°38'58.15" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°38'58.15" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°19'41.36" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|15°32'59.37" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|9°12'2.77" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|23°25'47.96" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|23°25'47.96" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|11°2'45.50" |Scorpio|Qalb|Sun|
 
 

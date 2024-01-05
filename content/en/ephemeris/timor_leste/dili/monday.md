@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:01:34 |
+| Fajr (Dawn) | 05:01:35 |
 | Sunrise | 06:25:52 |
 | Dhuhr (Noon) | 12:44:01 |
 | Medium Coeli | 12:44:01 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°58'33.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°42'50.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°42'50.82" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°11'6.87" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|18°5'13.39" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|12°14'20.60" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|25°4'53.74" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|13°34'54.45" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|12°14'27.20" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|25°5'5.16" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|14°27'22.80" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Mercury|
 |♀ Venus|Mercury|Venus|Jupiter|Jupiter|
 |☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°58'33.84" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°42'50.82" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°42'50.82" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°11'6.87" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|18°5'13.39" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|12°14'27.20" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|25°5'5.16" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|25°5'5.16" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|14°27'22.80" |Sagittarius|NaAaem|Moon|
 
 

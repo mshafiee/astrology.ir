@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:35:38 |
+| Fajr (Dawn) | 06:35:39 |
 | Sunrise | 08:16:13 |
 | Dhuhr (Noon) | 13:10:59 |
 | Medium Coeli | 13:10:59 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°53'27.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°41'19.88" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°31'33.50" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|17°11'13.42" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|11°9'42.36" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|24°26'4.95" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°3'29.84" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'19.51" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°31'33.65" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|17°11'13.37" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|11°9'43.22" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°26'5.70" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°12'23.74" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°53'27.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°41'19.51" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'19.51" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°31'33.65" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|17°11'13.37" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|11°9'42.36" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|24°26'4.95" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°3'29.84" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|11°9'43.22" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°26'5.70" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°12'23.74" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

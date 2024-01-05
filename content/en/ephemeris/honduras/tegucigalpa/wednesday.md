@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:05:06 |
-| Sunrise | 06:13:41 |
+| Sunrise | 06:13:42 |
 | Dhuhr (Noon) | 11:53:11 |
 | Medium Coeli | 11:53:11 |
 | Sunset | 17:32:43 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:57:38 |
-| Sunrise | 06:13:41 |
+| Sunrise | 06:13:42 |
 | Dhuhr (Noon) | 11:53:11 |
 | Medium Coeli | 11:53:11 |
 | Sunset | 17:32:43 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:56:19 |
-| Sunrise | 06:13:42 |
+| Sunrise | 06:13:41 |
 | Dhuhr (Noon) | 11:53:11 |
 | Medium Coeli | 11:53:11 |
 | Sunset | 17:32:43 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:54:07 |
-| Sunrise | 06:13:42 |
+| Sunrise | 06:13:41 |
 | Dhuhr (Noon) | 11:53:11 |
 | Medium Coeli | 11:53:11 |
 | Sunset | 17:32:43 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:19:01|Night duration: 12:41:19|
+|Duration of the day: 11:19:02|Night duration: 12:41:19|
 |Every hour of day duration: 00:56:35|Every hour of night duration: 01:03:27|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:13:42|07:10:16|Acceptance of needs|
-|2|Moon|Servant|07:10:17|08:06:51|Unfortunate, no task is suitable|
-|3|Saturn|Servant|08:06:52|09:03:26|For overcoming diseases|
-|4|Jupiter|Servant|09:03:27|10:00:01|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:00:02|10:56:36|Creating negative energy and disrupting peace|
-|6|Sun|Servant|10:56:37|11:53:11|Outer and inner journey|
+|1|Mercury|Ruler|06:13:41|07:10:15|Acceptance of needs|
+|2|Moon|Servant|07:10:16|08:06:50|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:06:51|09:03:25|For overcoming diseases|
+|4|Jupiter|Servant|09:03:26|10:00:00|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:00:01|10:56:35|Creating negative energy and disrupting peace|
+|6|Sun|Servant|10:56:36|11:53:11|Outer and inner journey|
 |7|Venus|Servant|11:53:12|12:49:46|Attracting love and hearts and fortune|
 |8|Mercury|Ruler|12:49:47|13:46:21|Being invisible to the people|
 |9|Moon|Servant|13:46:22|14:42:56|Separation, causing enmity|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°33'39.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'51.19" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°36'51.19" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°54'58.25" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|13°37'5.53" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°53'15.68" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°35'30.12" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°41'6.35" |Virgo|Simak|Venus|
+|♀ Venus|Direct|6°53'15.67" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°35'30.17" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°41'6.88" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°33'39.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'51.13" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°36'51.13" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°54'58.21" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|13°37'5.57" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|6°53'15.67" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°35'30.17" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|22°35'30.17" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|17°41'6.88" |Libra|Jubana|Saturn|
 
 

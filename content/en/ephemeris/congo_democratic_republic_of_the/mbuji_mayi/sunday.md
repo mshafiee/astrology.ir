@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°48'40.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°40'3.93" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°54'11.21" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|16°20'4.61" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|10°8'31.46" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|23°52'46.99" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°9'51.88" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|5°40'1.75" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°54'18.23" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|16°20'21.43" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|10°8'43.82" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°53'5.08" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°22'20.03" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Venus|Venus|Jupiter|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Venus|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°48'40.84" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°40'3.93" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°40'3.93" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°54'11.21" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|16°20'4.61" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|10°8'31.46" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|23°52'47.04" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°9'51.46" |Scorpio|Qalb|Venus|
+|☿ Mercury|Post-Retrograde Shadow|23°52'46.99" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°9'51.88" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

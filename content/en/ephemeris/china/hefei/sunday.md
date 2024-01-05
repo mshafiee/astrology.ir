@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:10:26|Night duration: 13:49:38|
+|Duration of the day: 10:10:26|Night duration: 13:49:37|
 |Every hour duration: 01:27:12|Every hour duration: 01:58:31|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Venus|Servant|23:17:37|01:16:07|
 |Rooster song|Mercury|Servant|01:16:08|03:14:38|
 |False Dawn|Moon|Servant|03:14:39|05:13:09|
-|Dawn|Saturn|Servant|05:13:10|07:11:41|
+|Dawn|Saturn|Servant|05:13:10|07:11:40|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°53'11.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°41'15.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°29'33.41" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|17°8'29.44" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|11°6'26.41" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|24°24'13.82" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°38'47.56" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'15.06" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°29'33.38" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|17°8'29.39" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|11°6'26.38" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°24'13.74" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°38'47.81" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°53'11.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°41'14.97" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'15.06" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°29'33.59" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|17°8'29.85" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|11°6'26.36" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|24°24'13.79" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°38'47.18" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|11°6'26.82" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°24'14.32" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°42'17.06" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

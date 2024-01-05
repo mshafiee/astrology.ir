@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°57'15.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°42'26.79" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°42'26.79" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°1'6.22" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|17°51'33.81" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|11°57'57.62" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|24°54'43.89" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°24'6.44" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|11°58'4.36" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°54'51.87" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°20'59.97" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Mercury|
 |♀ Venus|Mercury|Venus|Jupiter|Jupiter|
 |☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°57'15.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°42'26.79" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°1'6.22" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|17°51'33.81" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|3°57'15.99" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°42'28.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°1'3.56" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|17°51'28.57" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|11°57'57.65" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|24°54'43.85" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|24°54'43.85" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|10°24'7.11" |Sagittarius|NaAaem|Moon|
 
 

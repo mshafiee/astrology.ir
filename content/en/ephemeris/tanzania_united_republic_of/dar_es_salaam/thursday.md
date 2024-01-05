@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:56:17 |
+| Fajr (Dawn) | 04:56:18 |
 | Sunrise | 06:12:05 |
 | Dhuhr (Noon) | 12:27:34 |
 | Medium Coeli | 12:27:34 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°31'34.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'31.41" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°36'31.41" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°38'10.48" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|13°14'5.08" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|6°25'44.24" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°28'33.74" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|22°28'33.74" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|13°6'17.01" |Virgo|Awwa|Venus|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°31'34.82" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'31.41" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°36'31.41" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°38'10.48" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|13°14'5.08" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|6°25'44.24" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°28'33.74" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|22°28'33.74" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|13°6'17.01" |Libra|Jubana|Saturn|
 
 

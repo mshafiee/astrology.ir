@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:32:54 |
 | Sunset | 17:56:38 |
 | Maghrib | 17:57:42 |
-| Isha (Night) | 19:03:45 |
+| Isha (Night) | 19:03:46 |
 | Sharia Midnight | 23:59:30 |
 | Imum Coeli | 00:33:07 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°53'11.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°41'14.82" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°29'29.33" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|17°8'23.92" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|11°6'19.87" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|24°24'10.23" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°40'14.48" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'14.83" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°29'29.56" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|17°8'24.58" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|11°6'20.14" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°24'10.74" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°41'38.82" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°53'11.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°41'14.83" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°29'29.56" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|17°8'24.58" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'14.76" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°29'29.33" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|17°8'23.92" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|11°6'19.87" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|24°24'10.23" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|24°24'10.23" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|1°40'14.48" |Sagittarius|Shaulah|Mercury|
 
 

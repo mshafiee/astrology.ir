@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:07:39 |
 | Isha (Night) | 18:51:26 |
 | Sharia Midnight | 23:32:53 |
-| Imum Coeli | 00:06:38 |
+| Imum Coeli | 00:06:37 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°33'27.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°36'49.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°53'18.77" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|13°34'49.35" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°50'32.69" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°34'46.22" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°13'35.39" |Virgo|Simak|Venus|
+|♄ Saturn|Direct|3°33'27.23" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°36'49.08" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°53'18.73" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|13°34'49.39" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°50'32.67" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°34'46.34" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°14'2.49" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°33'27.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°36'49.14" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|3°33'27.23" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°36'49.14" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°53'18.77" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|13°34'49.35" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°50'32.63" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°34'46.22" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|17°13'35.39" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|6°50'32.69" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|22°34'46.28" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|17°14'1.96" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

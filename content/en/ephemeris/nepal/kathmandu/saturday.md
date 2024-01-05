@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:31:04 |
+| Fajr (Dawn) | 05:31:05 |
 | Sunrise | 06:55:37 |
 | Dhuhr (Noon) | 12:09:13 |
 | Medium Coeli | 12:09:13 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°42'15.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°38'30.39" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°3'42.53" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|15°11'7.00" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|8°45'54.92" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|23°14'29.92" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|7°14'19.95" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|3°42'15.90" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°38'30.33" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°3'44.33" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|15°11'13.04" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|8°45'55.46" |Scorpio|Qalb|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°14'33.20" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°45'14.58" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°42'15.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°38'29.61" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°3'42.53" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|15°11'7.00" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|8°45'54.92" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|23°14'29.92" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°14'19.89" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°38'30.33" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°3'44.33" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|15°11'13.04" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|8°45'55.48" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|23°14'33.15" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°45'14.53" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Moon|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Mars|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -232,7 +232,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|18:55:16|19:49:56|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Jupiter|Ruler|18:55:16|19:49:56|Love and attraction of capital|
 |2|Mars|Servant|19:49:57|20:44:37|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|20:44:38|21:39:18|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|21:39:19|22:33:59|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°55'31.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°41'55.28" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'55.28" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°47'36.63" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|17°33'9.10" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|11°35'59.45" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|24°41'28.25" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|24°41'28.25" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|7°14'56.02" |Scorpio|Akleel|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°55'31.33" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°41'55.28" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'55.28" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°47'36.63" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|17°33'9.10" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|11°35'59.45" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|24°41'28.25" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°8'56.03" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|24°41'28.25" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°14'56.02" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

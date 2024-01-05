@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°36'32.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°37'21.65" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°37'21.65" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°18'8.47" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|14°8'47.83" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|7°31'13.59" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°46'45.83" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|23°59'33.44" |Virgo|Simak|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|22°46'45.83" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°43'41.90" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mars|Saturn|Venus|Moon|
+|☾ Moon|Mars|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°36'32.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°37'21.65" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°18'8.47" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|14°8'47.83" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|7°31'13.59" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|22°46'45.83" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|3°36'32.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°37'21.71" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°18'8.51" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|14°8'47.80" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|7°31'13.61" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|22°46'45.83" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|23°59'33.44" |Libra|Jubana|Jupiter|
 
 
