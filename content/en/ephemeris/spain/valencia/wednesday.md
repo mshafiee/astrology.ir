@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°6'50.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°45'37.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°45'37.70" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|4°14'30.38" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|19°31'36.84" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|13°58'9.07" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°14'54.59" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|26°14'54.59" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|4°3'9.59" |Sagittarius|Shaulah|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°6'50.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°45'37.70" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°45'37.70" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|4°14'30.38" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|19°31'36.84" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|13°58'0.60" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°14'44.50" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°0'4.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|13°58'9.07" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|26°14'54.59" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°3'9.59" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Balenzia, Pa-lun-si-a, Pâ-lùn-sî-â, VLC, Valantsa, Valence, Valencia, Valencia - Valencia, Valencia - València, Valencie, Valencija, Valencio, Valenseje, Valensi, Valensia, Valensii, Valensij, Valensija, Valensiya, Valensyaa, Valensėjė, Valenthia, Valentia, Valentzia, Valenza, València, Valéncia, Valência, Vałénsia, Walencja, Walensiye, Walénsiye, ba len seiy, ba lun xi ya, ballensia, barenshia, blnsyt, hua lun xi ya, valainsi'a, valenciya, valensia, valensiya, valynsya, wa lun xi ya, walnsya, wlnsyh, wylnsya, Βαλένθια, Валенси, Валенсиа, Валенсий, Валенсия, Валенсија, Валенсія, Վալենսիա, וואלענציע, ולנסיה, بلنسية, والنسیا, ویلنسیا, ویلنسیہ, ڤالينسيا, ڤالێنسیا, वालेन्सिया, ਵਾਲੈਂਸੀਆ, வாலேன்சியா, บาเลนเซีย, ვალენსია, バレンシア, 巴倫西亞, 瓦伦西亚, 瓦倫西亞, 華倫西亞, 발렌시아

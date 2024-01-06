@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°6'5.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°45'21.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°8'50.91" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|19°23'55.88" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|13°48'53.97" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°8'21.69" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°35'31.51" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|5°45'23.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°8'43.90" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|19°23'39.14" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|13°48'41.78" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|26°8'4.89" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°44'38.57" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Cancer|Moon|Mercury|
 |♀ Venus|Mercury|Mars|Aries|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Virgo|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°6'5.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°45'21.54" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°45'21.54" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|4°8'50.91" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|19°23'55.88" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°23'39.14" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|13°48'41.78" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°8'4.89" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|26°8'4.89" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|0°44'38.57" |Capricorn|SaadAlDhabib|Jupiter|
 
 

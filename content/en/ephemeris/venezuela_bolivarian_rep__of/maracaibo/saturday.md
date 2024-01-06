@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:52:08 |
 | Sunset | 18:38:15 |
 | Maghrib | 18:39:14 |
-| Isha (Night) | 19:52:06 |
+| Isha (Night) | 19:52:07 |
 | Sharia Midnight | 00:11:04 |
 | Imum Coeli | 00:52:21 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°50'18.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°40'27.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°7'0.50" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|16°37'42.62" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|10°29'31.78" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°3'55.48" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°4'35.68" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|5°40'27.38" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°7'0.41" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|16°37'42.54" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|10°29'31.41" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|24°3'55.13" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°0'46.25" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°50'18.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°40'27.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°7'0.50" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|16°37'42.62" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|10°29'31.78" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°3'55.48" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|25°4'35.68" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|5°40'27.38" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°7'0.41" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|16°37'42.54" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|10°29'31.41" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|24°3'55.13" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°0'46.25" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

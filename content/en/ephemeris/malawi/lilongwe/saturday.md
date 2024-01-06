@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°42'47.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°38'37.12" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°38'37.12" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°7'51.52" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|15°16'51.83" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|8°52'40.38" |Scorpio|Qalb|Mars|
-|☿ Mercury|Post-Retrograde Shadow|23°17'25.08" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|7°59'2.98" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|23°17'25.08" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|7°45'44.47" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°42'47.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°38'37.12" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°7'49.04" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|15°16'47.09" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|8°52'33.85" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|23°17'17.20" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°5'55.79" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|5°38'37.12" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°7'51.52" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|15°16'51.83" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|8°52'40.38" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|23°17'25.08" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°59'2.98" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Sun|Venus|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}

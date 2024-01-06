@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 09:43:12|Night duration: 14:16:42|
+|Duration of the day: 09:43:12|Night duration: 14:16:41|
 |Every hour of day duration: 00:48:36|Every hour of night duration: 01:11:23|
 
  
@@ -233,17 +233,17 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|17:28:14|18:39:36|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Jupiter|Servant|18:39:37|19:51:00|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Mars|Servant|19:51:01|21:02:23|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Sun|Servant|21:02:24|22:13:47|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Venus|Servant|22:13:48|23:25:10|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mercury|Servant|23:25:11|00:36:34|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Moon|Servant|00:36:35|01:47:57|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Saturn|Ruler|01:47:58|02:59:21|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Jupiter|Servant|02:59:22|04:10:44|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mars|Servant|04:10:45|05:22:08|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|05:22:09|06:33:31|Attracting connection and suitors|
-|12|Venus|Servant|06:33:32|07:44:55|Hatred, corruption and creating negative energy for disruption|
+|2|Jupiter|Servant|18:39:37|19:50:59|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Mars|Servant|19:51:00|21:02:23|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Sun|Servant|21:02:24|22:13:46|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Venus|Servant|22:13:47|23:25:10|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mercury|Servant|23:25:11|00:36:33|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Moon|Servant|00:36:34|01:47:56|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Saturn|Ruler|01:47:57|02:59:20|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Jupiter|Servant|02:59:21|04:10:43|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mars|Servant|04:10:44|05:22:07|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|05:22:08|06:33:30|Attracting connection and suitors|
+|12|Venus|Servant|06:33:31|07:44:54|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°0'12.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°43'22.48" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°23'49.34" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|18°22'32.08" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|12°35'14.72" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°18'21.89" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|18°6'44.14" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|4°0'12.96" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°43'22.79" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°23'49.42" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|18°22'32.45" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|12°35'14.34" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|25°18'21.64" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|18°3'58.35" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°0'12.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°43'22.48" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°23'49.34" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|18°22'32.08" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°35'14.72" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°18'21.89" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|18°6'44.14" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|4°0'12.96" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°43'22.54" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°23'49.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|18°22'32.05" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|12°35'14.74" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|25°18'21.84" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°3'58.35" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

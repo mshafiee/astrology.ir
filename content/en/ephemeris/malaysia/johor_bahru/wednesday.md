@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°10'44.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'3.53" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°44'8.92" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|20°12'0.49" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°46'37.45" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°50'23.34" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|13°56'34.72" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|4°10'45.02" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°47'3.60" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°44'8.97" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|20°11'59.23" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°46'38.62" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|26°50'23.87" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|13°52'41.79" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°10'44.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'3.53" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°44'8.92" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|20°12'0.49" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|14°46'37.45" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°50'23.34" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|13°56'34.72" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|4°10'45.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°47'3.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°44'8.97" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|20°12'0.46" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|14°46'37.48" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|26°50'23.30" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|13°56'34.68" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루

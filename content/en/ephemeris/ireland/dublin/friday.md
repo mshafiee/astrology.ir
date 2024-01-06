@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:24:46 |
+| Fajr (Dawn) | 06:24:45 |
 | Sunrise | 08:38:50 |
 | Dhuhr (Noon) | 12:30:09 |
 | Medium Coeli | 12:30:09 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°38'23.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°37'42.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°32'55.76" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|14°29'2.07" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|7°55'27.27" |Scorpio|Akleel|Mars|
-|☿ Mercury|Post-Retrograde Shadow|22°54'58.76" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|28°2'50.19" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|3°38'23.71" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°37'44.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°32'54.02" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|14°28'58.67" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|7°55'22.53" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|22°54'52.91" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|27°26'22.57" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Venus|Moon|
+|☾ Moon|Mars|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°38'23.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°37'42.77" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°32'55.80" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|14°29'2.03" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|7°55'27.29" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|22°54'58.71" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|5°37'42.71" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°32'55.76" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|14°29'2.07" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|7°55'27.27" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|22°54'58.76" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|28°2'50.19" |Libra|Akleel|Jupiter|
 
 

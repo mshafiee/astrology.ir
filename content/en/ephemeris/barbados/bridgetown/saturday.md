@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:22:17 |
 | Dhuhr (Noon) | 12:04:09 |
 | Medium Coeli | 12:04:09 |
-| Sunset | 17:46:04 |
+| Sunset | 17:46:05 |
 | Maghrib | 17:47:04 |
 | Isha (Night) | 19:02:40 |
-| Sharia Midnight | 23:26:03 |
+| Sharia Midnight | 23:26:04 |
 | Imum Coeli | 00:04:22 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°50'7.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°40'24.47" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°5'38.73" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|16°35'50.85" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|10°27'17.91" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°2'44.31" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°39'57.05" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|5°40'26.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°5'32.01" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|16°35'34.67" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|10°27'6.04" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|24°2'44.31" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°25'46.97" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Venus|Venus|Jupiter|Jupiter|
 |☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°50'7.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°40'24.47" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°40'24.47" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°5'38.73" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|16°35'50.85" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|10°27'17.91" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°2'44.31" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|24°2'44.31" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|24°39'57.05" |Scorpio|Shaulah|Venus|
 
 

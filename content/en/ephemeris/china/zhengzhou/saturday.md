@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:30:52 |
 | Sunset | 17:28:49 |
 | Maghrib | 17:30:44 |
-| Isha (Night) | 18:57:15 |
+| Isha (Night) | 18:57:14 |
 | Sharia Midnight | 23:41:46 |
 | Imum Coeli | 00:31:05 |
 {{< /tab >}}
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°47'33.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°39'44.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°39'44.81" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°45'26.34" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|16°8'13.30" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|9°54'12.76" |Scorpio|Qalb|Mars|
-|☿ Mercury|Post-Retrograde Shadow|23°45'45.08" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|23°45'45.08" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|18°36'13.43" |Libra|Jubana|Saturn|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°47'33.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°39'44.81" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°39'44.81" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°45'26.48" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|16°8'13.62" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|9°54'13.08" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|23°45'45.51" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|23°45'45.51" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|18°38'37.85" |Scorpio|Qalb|Sun|
 
 

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:54:29|Night duration: 10:06:19|
+|Duration of the day: 13:54:29|Night duration: 10:06:18|
 |Every hour of day duration: 01:09:32|Every hour of night duration: 00:50:32|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Saturn|Servant|21:45:12|22:35:43|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|22:35:44|23:26:14|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mars|Servant|23:26:15|00:16:46|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Sun|Servant|00:16:47|01:07:18|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Venus|Ruler|01:07:19|01:57:49|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Mercury|Servant|01:57:50|02:48:21|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Moon|Servant|02:48:22|03:38:52|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Saturn|Servant|03:38:53|04:29:24|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Jupiter|Servant|04:29:25|05:19:56|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Sun|Servant|00:16:47|01:07:17|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Venus|Ruler|01:07:18|01:57:49|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Mercury|Servant|01:57:50|02:48:20|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Moon|Servant|02:48:21|03:38:52|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Saturn|Servant|03:38:53|04:29:23|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Jupiter|Servant|04:29:24|05:19:55|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°54'11.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°41'31.92" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°37'15.77" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|17°19'1.44" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|11°19'3.36" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°31'29.72" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°4'1.38" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|3°54'11.28" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°41'30.90" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°37'15.32" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|17°18'58.70" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|11°19'4.75" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|24°31'29.78" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°22'0.82" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Gemini|Moon|Mercury|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°54'11.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°41'31.92" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°37'15.77" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|17°19'1.44" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|11°19'3.36" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°31'29.72" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°4'1.38" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|3°54'11.28" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°41'31.98" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°37'15.81" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|17°19'1.41" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|11°19'3.39" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|24°31'29.67" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°4'2.03" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

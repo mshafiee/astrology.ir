@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°44'52.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°39'6.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°24'21.88" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|15°39'25.71" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|9°19'41.70" |Scorpio|Qalb|Mars|
-|☿ Mercury|Post-Retrograde Shadow|23°29'19.53" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|12°28'9.79" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|3°44'52.49" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°39'5.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°24'22.32" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|15°39'26.47" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|9°19'43.01" |Scorpio|Qalb|Mars|
+|☿ Mercury|Direct|23°29'21.03" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°40'15.47" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Gemini|Moon|Mercury|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°44'52.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°39'5.71" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°24'22.32" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|5°39'6.12" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°24'21.88" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|15°39'25.71" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|9°19'41.70" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|23°29'19.53" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|23°29'19.53" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|12°28'9.79" |Scorpio|Qalb|Sun|
 
 

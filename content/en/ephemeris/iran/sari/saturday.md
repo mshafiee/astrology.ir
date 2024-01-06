@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 16:56:43 |
 | Maghrib | 16:57:59 |
 | Isha (Night) | 18:14:19 |
-| Sharia Midnight | 23:24:38 |
+| Sharia Midnight | 23:24:37 |
 | Imum Coeli | 00:03:31 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°42'51.10" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°38'38.05" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°8'22.54" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|15°17'33.29" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|8°53'30.68" |Scorpio|Qalb|Mars|
-|☿ Mercury|Post-Retrograde Shadow|23°17'44.49" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°0'35.60" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°38'38.12" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°8'22.58" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|15°17'33.25" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|8°53'31.26" |Scorpio|Qalb|Mars|
+|☿ Mercury|Direct|23°17'45.25" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°4'38.00" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°42'51.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°38'38.23" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°38'38.23" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°8'22.37" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|15°17'32.79" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|8°53'30.66" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|23°17'44.54" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°0'35.61" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|15°17'33.25" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|8°53'31.26" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|23°17'45.25" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|8°4'38.00" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

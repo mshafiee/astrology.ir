@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:28:35 |
-| Sunrise | 07:08:19 |
+| Sunrise | 07:08:20 |
 | Dhuhr (Noon) | 12:04:15 |
 | Medium Coeli | 12:04:15 |
 | Sunset | 17:00:21 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 09:52:01|Night duration: 14:07:58|
+|Duration of the day: 09:52:02|Night duration: 14:07:58|
 |Every hour of day duration: 00:49:20|Every hour of night duration: 01:10:40|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|07:08:20|07:57:39|Love and attraction of capital|
-|2|Venus|Servant|07:57:40|08:46:59|Unfortunate, no task is suitable|
-|3|Mercury|Servant|08:47:00|09:36:19|Operations of tenderness and attraction of love|
-|4|Moon|Servant|09:36:20|10:25:39|Unfortunate and repelling goodness|
-|5|Saturn|Servant|10:25:40|11:14:59|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|11:15:00|12:04:19|Suitable for all good deeds|
+|1|Sun|Ruler|07:08:19|07:57:38|Love and attraction of capital|
+|2|Venus|Servant|07:57:39|08:46:58|Unfortunate, no task is suitable|
+|3|Mercury|Servant|08:46:59|09:36:18|Operations of tenderness and attraction of love|
+|4|Moon|Servant|09:36:19|10:25:38|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:25:39|11:14:58|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:14:59|12:04:19|Suitable for all good deeds|
 |7|Mars|Servant|12:04:20|12:53:39|No task is suitable, causes misfortune|
 |8|Sun|Ruler|12:53:40|13:42:59|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|13:43:00|14:32:19|Summoning the person of interest, attracting hearts, heart tenderness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°48'38.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°40'1.33" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°53'59.70" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|16°19'54.97" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|10°8'13.43" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°52'47.87" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|21°7'19.82" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|3°48'38.54" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°40'1.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°53'59.81" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|16°19'55.31" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|10°8'13.57" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|23°52'48.19" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°8'4.59" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°48'38.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°40'1.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°53'59.70" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|16°19'54.97" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|10°8'13.45" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|23°52'47.83" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|21°7'20.23" |Scorpio|Qalb|Venus|
+|♄ Saturn|Direct|3°48'38.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°40'1.38" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°53'59.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|16°19'55.28" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|10°8'13.60" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|23°52'48.14" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|21°8'4.59" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

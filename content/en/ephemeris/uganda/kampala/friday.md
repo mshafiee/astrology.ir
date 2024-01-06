@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°37'16.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°37'29.41" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°24'3.35" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|14°16'55.65" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|7°40'55.16" |Scorpio|Akleel|Mars|
-|☿ Mercury|Post-Retrograde Shadow|22°50'1.39" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°42'3.77" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|3°37'17.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°37'32.25" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°23'56.47" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|14°16'39.52" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|7°40'41.83" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|22°49'41.84" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°51'14.77" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Sun|Sun|Cancer|Sun|Moon|
+|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°37'16.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°37'29.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°24'3.35" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|14°16'55.65" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|3°37'17.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°37'29.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°24'3.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|14°16'55.61" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|7°40'55.18" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|22°50'1.34" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|22°50'1.34" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|25°42'3.41" |Libra|Jubana|Jupiter|
 
 

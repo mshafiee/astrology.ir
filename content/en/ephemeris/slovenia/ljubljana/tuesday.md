@@ -240,7 +240,7 @@ Timetable of twelve day and night planetary hours
 |6|Mercury|Servant|22:53:11|00:08:48|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|00:08:49|01:24:26|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Saturn|Ruler|01:24:27|02:40:03|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Jupiter|Servant|02:40:04|03:55:41|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Jupiter|Servant|02:40:04|03:55:41|Heart tenderness|
 |10|Mars|Servant|03:55:42|05:11:18|Attracting misfortune, no task is suitable|
 |11|Sun|Servant|05:11:19|06:26:56|Attracting connection and suitors|
 |12|Venus|Servant|06:26:57|07:42:34|Hatred, corruption and creating negative energy for disruption|
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°0'48.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°43'34.29" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°43'34.29" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°28'25.28" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|18°28'47.72" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|12°42'46.11" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°23'15.43" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|25°23'15.43" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|19°25'35.15" |Scorpio|Qalb|Sun|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°0'48.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°43'34.29" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°43'34.29" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°28'25.28" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|18°28'47.72" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°42'46.11" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°23'15.43" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|19°25'35.15" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|18°28'34.47" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|12°42'36.20" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|25°23'1.68" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°3'12.02" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Venus|Venus|Mars|Mercury|
 |☿ Mercury|Saturn|Mars|Sun|Venus|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
