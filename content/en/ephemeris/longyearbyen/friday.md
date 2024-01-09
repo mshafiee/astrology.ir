@@ -1,6 +1,6 @@
 ---
-date: 2024-01-05T00:00:00+01:00
-lastmod: 2024-01-05T00:00:00+01:00
+date: 2024-01-12T00:00:00+01:00
+lastmod: 2024-01-12T00:00:00+01:00
 title: Longyearbyen Friday
 slug: friday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Friday, 05 Jan 2024
+description: 🗓 Friday, 12 Jan 2024
 
 toc: false
 ---
@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 08:06:27 |
+| Fajr (Dawn) | 07:48:00 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:59:27 |
 | Medium Coeli | 11:59:27 |
@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 07:28:00 |
+| Fajr (Dawn) | 07:11:18 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:59:27 |
 | Medium Coeli | 11:59:27 |
@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 07:21:32 |
+| Fajr (Dawn) | 07:05:04 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:59:27 |
 | Medium Coeli | 11:59:27 |
@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 08:31:05 |
+| Fajr (Dawn) | 08:11:03 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:59:27 |
 | Medium Coeli | 11:59:27 |
@@ -100,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:50:15 |
+| Fajr (Dawn) | 06:34:37 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:59:27 |
 | Medium Coeli | 11:59:27 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 16:19:14 |
+| Isha (Night) | 16:19:13 |
 | Sharia Midnight | 23:53:38 |
 | Imum Coeli | 23:59:40 |
 {{< /tab >}}
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 07:21:32 |
+| Fajr (Dawn) | 07:05:04 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:59:27 |
 | Medium Coeli | 11:59:27 |
@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 07:10:56 |
+| Fajr (Dawn) | 06:54:48 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:59:27 |
 | Medium Coeli | 11:59:27 |
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔

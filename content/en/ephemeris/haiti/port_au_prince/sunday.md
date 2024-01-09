@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°56'7.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°42'6.16" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°42'6.16" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°52'20.02" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|17°39'35.55" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|11°43'43.22" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|24°46'6.18" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|24°46'6.18" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|8°36'59.11" |Scorpio|Qalb|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°56'7.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°42'6.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°52'20.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|17°39'35.57" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|11°43'42.03" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|24°46'5.08" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°25'45.84" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|3°56'7.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°42'6.16" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°52'20.02" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|17°39'35.55" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|11°43'43.22" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°46'7.16" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|8°46'14.25" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Venus|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}

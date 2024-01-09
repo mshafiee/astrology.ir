@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°5'14.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°45'3.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°2'15.82" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|19°14'57.66" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|13°38'8.47" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|26°0'47.64" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°27'12.72" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°45'3.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°2'16.19" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|19°14'57.67" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|13°38'8.64" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|26°0'47.80" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°28'9.51" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°5'14.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°45'3.45" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°45'3.45" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|4°2'15.82" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|19°14'56.92" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|13°38'7.73" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|26°0'46.71" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|26°0'46.71" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|0°21'6.26" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CCU, Calcuta, Calcutta, Calcutá, Calcúta, Caligardamana, Kaelkuettae, Kal'kuta, Kal'kutta, Kal'kuttae, Kalikata, Kalikātā, Kalkata, Kalkota, Kalkouta, Kalkueta, Kalkuta, Kalkutta, Kalkútta, Kalküta, Kolkat, Kolkata, Kolkate, Kolkato, Kolkāta, Kälküttä, Kəlkətə, Sealdah, jia er ge da, jia li ji da, kalakata, kalakatta, kalikata, kalkata, keaൽkkatta, klkta, klkth, klkwth, ko l ka ta, kolakata, kolkata, kolkatta, kol‌kata, korukata, kwlkata, kʼolkʼatʼa, qwlqth, Καλκούτα, Калькута, Калькуттæ, Калькутта, Колката, Колкате, Կալկաթա, כלכותה, קאלקאטא, קולקטה, كلكتا, كولكاتا, کلکته, کلکتہ, کولکاتہ, کَلٕکَتا, کەلکەتە, कलकत्ता, कोलकाता, কলকাতা, ਕੋਲਕਾਤਾ, કોલકાતા, କଲିକତା, கொல்கத்தா, కోల్‌కాతా, ಕೊಲ್ಕತ್ತ, കൊൽക്കത്ത, โกลกาตา, ཀ་ལི་ཀུ་ཏ, ကာလကတ္တားမြို့, კოლკატა, ኮልካታ, コルカタ, 加尔各答, 架利吉打, 콜카타

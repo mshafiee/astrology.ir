@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:01:51 |
 | Medium Coeli | 12:01:51 |
 | Sunset | 17:12:02 |
-| Maghrib | 17:31:44 |
+| Maghrib | 17:31:43 |
 | Isha (Night) | 18:18:32 |
 | Sharia Midnight | 23:19:49 |
 | Imum Coeli | 00:02:04 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°0'21.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°43'24.50" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°24'55.91" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|18°23'58.88" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|4°0'21.85" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°43'24.57" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°24'55.95" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|18°23'58.85" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|12°37'6.30" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|25°19'31.44" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|25°19'31.44" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|18°17'14.90" |Scorpio|Qalb|Sun|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°0'21.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°43'25.35" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°43'25.35" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°24'58.52" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|18°24'6.75" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|12°37'7.88" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|25°19'35.81" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|25°19'35.81" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|18°33'21.48" |Sagittarius|Baldah|Moon|
 
 

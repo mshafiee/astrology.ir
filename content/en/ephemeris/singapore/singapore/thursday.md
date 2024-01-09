@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°16'43.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°49'24.29" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°49'24.29" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°29'5.48" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°13'0.35" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°0'2.71" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|27°47'3.27" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|27°29'47.09" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|21°13'9.70" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°0'5.36" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|27°47'8.75" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|28°36'48.10" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°16'43.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°49'23.50" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°29'2.45" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|21°13'0.35" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|16°0'2.71" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|27°47'3.27" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°29'47.09" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|5°49'23.82" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°29'0.89" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|21°12'56.86" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|16°0'0.20" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|27°46'59.94" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°7'3.48" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

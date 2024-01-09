@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°11'56.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°47'30.78" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°53'5.03" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|20°24'8.04" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|15°1'11.65" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|27°1'18.62" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°1'21.04" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'30.78" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°53'8.40" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|20°24'14.81" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°1'19.40" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|27°1'27.77" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°52'27.14" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Virgo|Sun|Sun|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°11'56.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°47'30.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°53'8.40" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|20°24'14.81" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|15°1'19.40" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|27°1'27.77" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'32.78" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°53'5.03" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|20°24'8.04" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|15°1'11.65" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|27°1'18.62" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|16°1'21.04" |Capricorn|SaadAlBula|Mars|
 
 

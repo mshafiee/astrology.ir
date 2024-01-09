@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°16'25.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°49'17.43" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°49'17.43" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°26'53.06" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|21°10'7.88" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|15°56'28.90" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|27°44'15.29" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|27°44'15.29" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|27°28'51.75" |Sagittarius|Baldah|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°16'25.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°49'17.37" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°26'53.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|21°10'8.92" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|15°56'29.54" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|27°44'16.20" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°35'54.61" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|4°16'25.44" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°49'17.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°26'53.06" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|21°10'7.88" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|15°56'28.90" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|27°44'15.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°28'51.75" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Moon|Virgo|Sun|Venus|
 |♀ Venus|Venus|Sun|Gemini|Moon|Mercury|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

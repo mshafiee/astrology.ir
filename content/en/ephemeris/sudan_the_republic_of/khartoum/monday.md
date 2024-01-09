@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°54'25.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°41'36.05" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'36.05" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°39'6.91" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|17°21'33.06" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|11°22'5.16" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|24°33'15.59" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°37'48.05" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°22'0.11" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°33'9.93" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°53'53.34" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Gemini|Moon|Mercury|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°54'25.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°41'36.05" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°39'6.91" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|17°21'33.06" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|11°22'5.16" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|24°33'15.59" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°42'51.85" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|3°54'25.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'35.98" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°39'6.87" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|17°21'33.09" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|11°22'5.13" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°33'15.63" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°37'47.40" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

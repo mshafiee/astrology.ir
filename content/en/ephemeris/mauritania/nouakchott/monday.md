@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:18:51 |
+| Fajr (Dawn) | 06:18:52 |
 | Sunrise | 07:37:03 |
 | Dhuhr (Noon) | 13:10:24 |
 | Medium Coeli | 13:10:24 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:18:51 |
+| Fajr (Dawn) | 06:18:52 |
 | Sunrise | 07:37:03 |
 | Dhuhr (Noon) | 13:10:24 |
 | Medium Coeli | 13:10:24 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°55'13.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°41'50.02" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'50.02" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°45'17.43" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|17°29'58.72" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|11°32'11.57" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|24°39'12.27" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|24°39'12.27" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|6°28'54.08" |Scorpio|Akleel|Mars|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°55'13.40" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°41'50.02" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°41'50.02" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°45'17.43" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|17°29'58.72" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|11°32'11.57" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|24°39'12.27" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|24°39'12.27" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|6°28'54.08" |Sagittarius|NaAaem|Mercury|
 
 
