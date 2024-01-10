@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°0'59.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°43'37.31" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°29'45.27" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|18°30'38.47" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|12°44'57.04" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°24'43.24" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°11'23.26" |Scorpio|Qalb|Venus|
+|♄ Saturn|Direct|4°0'59.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°43'37.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°29'45.22" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|18°30'38.50" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|12°44'57.01" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|25°24'43.29" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°11'22.69" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°0'59.24" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°43'37.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°29'45.27" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|18°30'38.47" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°44'57.04" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°24'43.24" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°11'23.26" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|4°0'59.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°43'37.24" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°29'45.22" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|18°30'38.50" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|12°44'57.01" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|25°24'43.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°11'22.69" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

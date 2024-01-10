@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:10:28 |
 | Sunrise | 06:42:46 |
-| Dhuhr (Noon) | 11:40:22 |
-| Medium Coeli | 11:40:22 |
+| Dhuhr (Noon) | 11:40:23 |
+| Medium Coeli | 11:40:23 |
 | Sunset | 16:38:14 |
 | Maghrib | 16:44:05 |
 | Isha (Night) | 18:05:26 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°29'50.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'10.91" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°6'39.67" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°25'42.38" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°39'30.40" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|0°1'9.77" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|0°11'48.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°55'10.83" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°6'39.62" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|23°25'42.03" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°39'28.85" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|0°1'8.34" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°21'26.48" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°29'50.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'10.21" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°6'40.04" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|23°25'42.38" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|18°39'30.40" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°1'9.77" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|0°11'48.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°55'10.83" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°6'39.62" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|23°25'42.03" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|18°39'28.85" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|0°1'8.34" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|0°21'26.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

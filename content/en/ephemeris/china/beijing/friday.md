@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 09:34:47|Night duration: 14:24:57|
+|Duration of the day: 09:34:47|Night duration: 14:24:58|
 |Every hour of day duration: 00:47:54|Every hour of night duration: 01:12:05|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|18:21:58|19:34:02|Attracting auspiciousness|
 |3|Venus|Servant|19:34:03|20:46:07|Attracting misfortune, no task is suitable|
 |4|Mercury|Servant|20:46:08|21:58:12|Unfortunate hour|
-|5|Moon|Servant|21:58:13|23:10:16|Achieving position and status and attracting job fortune|
-|6|Saturn|Servant|23:10:17|00:22:21|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:22:22|01:34:26|Promotion and attracting wealth|
+|5|Moon|Servant|21:58:13|23:10:17|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|23:10:18|00:22:22|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:22:23|01:34:26|Promotion and attracting wealth|
 |8|Mars|Ruler|01:34:27|02:46:31|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:46:32|03:58:35|Causing separation and homelessness|
-|10|Venus|Servant|03:58:36|05:10:40|Extremely unfortunate|
-|11|Mercury|Servant|05:10:41|06:22:45|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|06:22:46|07:34:50|Suitable for asking for a need|
+|9|Sun|Servant|02:46:32|03:58:36|Causing separation and homelessness|
+|10|Venus|Servant|03:58:37|05:10:41|Extremely unfortunate|
+|11|Mercury|Servant|05:10:42|06:22:46|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|06:22:47|07:34:51|Suitable for asking for a need|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°22'50.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°51'59.99" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°14'48.75" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|22°15'17.40" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|17°14'47.79" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|28°48'13.33" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|13°18'20.98" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°51'59.97" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°14'48.74" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|22°15'18.04" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°14'47.67" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|28°48'13.50" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|13°24'33.85" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Leo|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
+|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°22'50.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°51'59.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°14'48.75" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|22°15'17.40" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|17°14'47.79" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|28°48'13.33" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|13°18'20.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°22'50.31" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°52'0.09" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°14'48.87" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|22°15'18.08" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|17°14'47.72" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|28°48'13.54" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|13°24'34.44" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'55.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°56'10.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°22'3.26" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°46'36.19" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°4'36.99" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|0°23'28.25" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|5°31'28.88" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°31'56.03" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°56'10.44" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°22'3.30" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|23°46'36.15" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°4'37.01" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|0°23'28.20" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|5°31'29.23" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'55.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°56'10.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°22'3.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|23°46'36.19" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|19°4'36.99" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°23'28.25" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|4°31'56.03" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°56'10.44" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°22'3.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|23°46'36.15" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|19°4'37.01" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|0°23'28.20" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|5°31'28.88" |Pisces|FarghAlMuakhar|Saturn|
 
 

@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:31:38 |
 | Medium Coeli | 12:31:38 |
 | Sunset | 17:42:21 |
-| Maghrib | 17:59:41 |
+| Maghrib | 17:59:40 |
 | Isha (Night) | 18:49:04 |
 | Sharia Midnight | 23:53:31 |
 | Imum Coeli | 00:31:49 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|5°55'1.08" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°4'6.67" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|23°22'14.65" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°35'19.05" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|29°57'28.36" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|29°35'5.77" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|18°35'19.07" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|29°57'28.28" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|29°31'51.32" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°4'6.67" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|23°22'14.65" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|18°35'19.05" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|29°57'28.02" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|29°42'38.36" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°57'28.36" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°35'5.77" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

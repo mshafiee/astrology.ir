@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°13'47.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°48'14.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°7'5.97" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|20°43'12.77" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|15°24'8.60" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°18'54.67" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°56'19.38" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|4°13'47.54" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°48'14.36" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°7'6.01" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|20°43'12.73" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°24'8.63" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|27°18'54.63" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°56'19.14" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°13'47.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°48'14.29" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°7'5.97" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|20°43'12.77" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|15°24'8.60" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°18'54.67" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°56'19.38" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|4°13'47.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°48'14.36" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°7'6.01" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|20°43'12.73" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|15°24'8.63" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|27°18'54.63" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°56'19.14" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

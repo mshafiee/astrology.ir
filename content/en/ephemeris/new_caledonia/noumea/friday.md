@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°21'31.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°51'25.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°5'1.03" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|22°2'0.31" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°58'47.78" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|28°34'53.30" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°24'2.07" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|4°21'31.40" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°51'25.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°5'1.08" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|22°2'0.27" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°58'47.81" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|28°34'53.26" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|10°24'1.68" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°21'31.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°51'25.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°5'1.03" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|22°2'0.31" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|16°58'47.78" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|28°34'53.30" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|10°24'2.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°21'31.40" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°51'25.39" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°5'1.08" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|22°2'0.27" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|16°58'47.81" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|28°34'53.26" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|10°24'1.68" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

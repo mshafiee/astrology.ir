@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:48:12 |
-| Sunrise | 07:06:25 |
+| Sunrise | 07:06:26 |
 | Dhuhr (Noon) | 12:11:33 |
 | Medium Coeli | 12:11:33 |
 | Sunset | 17:16:53 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:39:50 |
-| Sunrise | 07:06:25 |
+| Sunrise | 07:06:26 |
 | Dhuhr (Noon) | 12:11:33 |
 | Medium Coeli | 12:11:33 |
 | Sunset | 17:16:53 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:53:09 |
-| Sunrise | 07:06:25 |
+| Sunrise | 07:06:26 |
 | Dhuhr (Noon) | 12:11:33 |
 | Medium Coeli | 12:11:33 |
 | Sunset | 17:16:53 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:31:00 |
-| Sunrise | 07:06:25 |
+| Sunrise | 07:06:26 |
 | Dhuhr (Noon) | 12:11:33 |
 | Medium Coeli | 12:11:33 |
 | Sunset | 17:16:53 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:10:28|Night duration: 13:49:28|
+|Duration of the day: 10:10:27|Night duration: 13:49:28|
 |Every hour of day duration: 00:50:52|Every hour of night duration: 01:09:07|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|07:06:25|07:57:16|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|07:57:17|08:48:08|Destruction of enemies|
-|3|Sun|Servant|08:48:09|09:39:01|Attraction of financial and emotional love|
-|4|Venus|Servant|09:39:02|10:29:53|Creating love, connection and marriage|
-|5|Mercury|Servant|10:29:54|11:20:45|Indulgence|
-|6|Moon|Servant|11:20:46|12:11:38|Outer and inner journey|
+|1|Jupiter|Ruler|07:06:26|07:57:17|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|07:57:18|08:48:09|Destruction of enemies|
+|3|Sun|Servant|08:48:10|09:39:01|Attraction of financial and emotional love|
+|4|Venus|Servant|09:39:02|10:29:54|Creating love, connection and marriage|
+|5|Mercury|Servant|10:29:55|11:20:46|Indulgence|
+|6|Moon|Servant|11:20:47|12:11:38|Outer and inner journey|
 |7|Saturn|Servant|12:11:39|13:02:30|Achieving status and power|
-|8|Jupiter|Ruler|13:02:31|13:53:22|Attraction of happiness and fortune|
-|9|Mars|Servant|13:53:23|14:44:15|Reaching status and promotion|
+|8|Jupiter|Ruler|13:02:31|13:53:23|Attraction of happiness and fortune|
+|9|Mars|Servant|13:53:24|14:44:15|Reaching status and promotion|
 |10|Sun|Servant|14:44:16|15:35:07|Fulfilling needs|
 |11|Venus|Servant|15:35:08|16:25:59|Attraction of love and hearts|
 |12|Mercury|Servant|16:26:00|17:16:52|Attracting misfortune, not suitable for any task|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°11'58.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'31.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°53'21.09" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'31.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°53'21.13" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|20°24'31.09" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|15°1'40.12" |Scorpio|Qalb|Sun|
 |☿ Mercury|Post-Retrograde Shadow|27°1'42.55" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°40'47.98" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|16°40'47.85" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°11'58.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'31.57" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°53'21.11" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|20°24'31.09" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|15°1'40.17" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°1'42.57" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°40'32.51" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|4°11'58.12" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'31.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°53'21.13" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|20°24'31.01" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|15°1'40.15" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|27°1'42.49" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°40'31.85" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

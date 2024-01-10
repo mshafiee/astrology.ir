@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:25:41 |
 | Medium Coeli | 12:25:41 |
 | Sunset | 18:05:13 |
-| Maghrib | 18:07:28 |
+| Maghrib | 18:07:27 |
 | Isha (Night) | 19:08:50 |
 | Sharia Midnight | 23:54:02 |
 | Imum Coeli | 00:25:53 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:25:41 |
 | Medium Coeli | 12:25:41 |
 | Sunset | 18:05:13 |
-| Maghrib | 18:07:27 |
+| Maghrib | 18:07:28 |
 | Isha (Night) | 19:21:56 |
 | Sharia Midnight | 23:47:29 |
 | Imum Coeli | 00:25:53 |
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°39'39.01" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|24°10'28.24" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|19°33'20.52" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°49'20.25" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°13'48.63" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|0°49'20.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|11°13'48.06" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

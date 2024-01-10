@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 09:43:12|Night duration: 14:16:41|
+|Duration of the day: 09:43:12|Night duration: 14:16:42|
 |Every hour of day duration: 00:48:36|Every hour of night duration: 01:11:23|
 
  
@@ -233,17 +233,17 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|17:28:14|18:39:36|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Jupiter|Servant|18:39:37|19:50:59|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Mars|Servant|19:51:00|21:02:23|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Sun|Servant|21:02:24|22:13:46|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Venus|Servant|22:13:47|23:25:10|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mercury|Servant|23:25:11|00:36:33|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Moon|Servant|00:36:34|01:47:56|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Saturn|Ruler|01:47:57|02:59:20|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Jupiter|Servant|02:59:21|04:10:43|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mars|Servant|04:10:44|05:22:07|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|05:22:08|06:33:30|Attracting connection and suitors|
-|12|Venus|Servant|06:33:31|07:44:54|Hatred, corruption and creating negative energy for disruption|
+|2|Jupiter|Servant|18:39:37|19:51:00|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Mars|Servant|19:51:01|21:02:23|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Sun|Servant|21:02:24|22:13:47|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Venus|Servant|22:13:48|23:25:10|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mercury|Servant|23:25:11|00:36:34|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Moon|Servant|00:36:35|01:47:57|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Saturn|Ruler|01:47:58|02:59:21|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Jupiter|Servant|02:59:22|04:10:44|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mars|Servant|04:10:45|05:22:08|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|05:22:09|06:33:31|Attracting connection and suitors|
+|12|Venus|Servant|06:33:32|07:44:55|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 09:43:12|Night duration: 14:16:41|
+|Duration of the day: 09:43:12|Night duration: 14:16:42|
 |Every hour duration: 01:23:19|Every hour duration: 02:02:23|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Sun|Servant|23:35:23|01:37:45|
 |Rooster song|Venus|Servant|01:37:46|03:40:08|
 |False Dawn|Mercury|Servant|03:40:09|05:42:31|
-|Dawn|Moon|Servant|05:42:32|07:44:54|
+|Dawn|Moon|Servant|05:42:32|07:44:55|
 
 {{< /tab >}}
 

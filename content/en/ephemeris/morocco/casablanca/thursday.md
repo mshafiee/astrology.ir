@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:59:15 |
 | Isha (Night) | 19:50:26 |
 | Sharia Midnight | 00:58:42 |
-| Imum Coeli | 01:38:22 |
+| Imum Coeli | 01:38:21 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:01:51 |
 | Isha (Night) | 19:50:26 |
 | Sharia Midnight | 00:54:28 |
-| Imum Coeli | 01:38:22 |
+| Imum Coeli | 01:38:21 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:42:31 |
 | Isha (Night) | 20:05:26 |
 | Sharia Midnight | 00:53:44 |
-| Imum Coeli | 01:38:22 |
+| Imum Coeli | 01:38:21 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:42:31 |
 | Isha (Night) | 20:12:31 |
 | Sharia Midnight | 00:52:30 |
-| Imum Coeli | 01:38:22 |
+| Imum Coeli | 01:38:21 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°12'49.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'51.66" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°59'52.04" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|20°33'23.00" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|15°12'19.21" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°9'49.49" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|18°46'58.96" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'51.68" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°59'52.00" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|20°33'22.93" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°12'19.14" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|27°9'49.40" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|18°46'28.69" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

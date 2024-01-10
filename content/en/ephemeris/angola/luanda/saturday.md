@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:57:32 |
 | Dhuhr (Noon) | 12:15:32 |
 | Medium Coeli | 12:15:32 |
-| Sunset | 18:33:29 |
+| Sunset | 18:33:28 |
 | Maghrib | 18:48:19 |
 | Isha (Night) | 19:32:31 |
-| Sharia Midnight | 23:41:46 |
+| Sharia Midnight | 23:41:45 |
 | Imum Coeli | 00:15:43 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:57:32 |
 | Dhuhr (Noon) | 12:15:32 |
 | Medium Coeli | 12:15:32 |
-| Sunset | 18:33:29 |
+| Sunset | 18:33:28 |
 | Maghrib | 18:34:45 |
 | Isha (Night) | 19:36:59 |
 | Sharia Midnight | 23:44:00 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:35:57|Night duration: 11:24:33|
+|Duration of the day: 12:35:56|Night duration: 11:24:34|
 |Every hour of day duration: 01:03:00|Every hour of night duration: 00:57:03|
 
  
@@ -219,28 +219,28 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|05:57:32|07:00:30|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|07:00:31|08:03:30|Peace among people|
 |3|Mars|Servant|08:03:31|09:06:30|Vengeful and evil deeds|
-|4|Sun|Servant|09:06:31|10:09:30|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:09:31|11:12:29|Auspicious|
+|4|Sun|Servant|09:06:31|10:09:29|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:09:30|11:12:29|Auspicious|
 |6|Mercury|Servant|11:12:30|12:15:29|Writing, swapping and making promises|
-|7|Moon|Servant|12:15:30|13:18:29|Not suitable for any task|
-|8|Saturn|Ruler|13:18:30|14:21:29|Destruction of enemies|
-|9|Jupiter|Servant|14:21:30|15:24:28|All good deeds|
-|10|Mars|Servant|15:24:29|16:27:28|Doing evil deeds|
-|11|Sun|Servant|16:27:29|17:30:28|Acceptance of reconciliation between couples|
-|12|Venus|Servant|17:30:29|18:33:28|For gaining dignity|
+|7|Moon|Servant|12:15:30|13:18:28|Not suitable for any task|
+|8|Saturn|Ruler|13:18:29|14:21:28|Destruction of enemies|
+|9|Jupiter|Servant|14:21:29|15:24:28|All good deeds|
+|10|Mars|Servant|15:24:29|16:27:27|Doing evil deeds|
+|11|Sun|Servant|16:27:28|17:30:27|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:30:28|18:33:27|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:33:29|19:30:30|Related to talismans, amulets and responses|
-|2|Moon|Servant|19:30:31|20:27:33|Peace among people|
-|3|Saturn|Servant|20:27:34|21:24:36|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:24:37|22:21:39|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:21:40|23:18:41|Auspicious|
+|1|Mercury|Ruler|18:33:28|19:30:29|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:30:30|20:27:32|Peace among people|
+|3|Saturn|Servant|20:27:33|21:24:35|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:24:36|22:21:38|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:21:39|23:18:41|Auspicious|
 |6|Sun|Servant|23:18:42|00:15:44|Writing, swapping and making promises|
-|7|Venus|Servant|00:15:45|01:12:47|Not suitable for any task|
-|8|Mercury|Ruler|01:12:48|02:09:50|Destruction of enemies|
-|9|Moon|Servant|02:09:51|03:06:52|All good deeds|
+|7|Venus|Servant|00:15:45|01:12:46|Not suitable for any task|
+|8|Mercury|Ruler|01:12:47|02:09:49|Destruction of enemies|
+|9|Moon|Servant|02:09:50|03:06:52|All good deeds|
 |10|Saturn|Servant|03:06:53|04:03:55|Doing evil deeds|
 |11|Jupiter|Servant|04:03:56|05:00:58|Acceptance of reconciliation between couples|
 |12|Mars|Servant|05:00:59|05:58:01|For gaining dignity|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°24'11.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°52'35.67" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°24'55.27" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|22°29'2.96" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|17°31'18.71" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|29°2'10.19" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°58'20.73" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|4°24'11.87" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°52'35.59" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°24'55.22" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|22°29'3.00" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°31'18.68" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|29°2'10.24" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°58'21.02" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°24'11.87" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°52'35.59" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°24'55.22" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|22°29'3.00" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|17°31'18.68" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|29°2'6.52" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|15°48'40.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°24'11.97" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°52'35.67" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°24'55.27" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|22°29'2.96" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|17°31'18.71" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°2'10.19" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°58'20.73" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Virgo|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
+|☾ Moon|Sun|Jupiter|Leo|Moon|Mars|
 
 
 {{< /tab >}}
