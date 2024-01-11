@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°27'56.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°54'16.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°52'36.20" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°6'36.44" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°16'33.20" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|29°41'2.36" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°26'24.94" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|4°27'56.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°54'16.59" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°52'35.92" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|23°6'35.77" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°16'32.49" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|29°41'1.51" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°24'23.89" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|5°54'17.37" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°52'36.72" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|23°6'39.01" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|18°16'32.36" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|29°41'2.45" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|26°0'24.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|18°16'32.49" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°41'1.51" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°24'23.89" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Libra|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

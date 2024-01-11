@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°6'54.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°45'40.68" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°14'58.55" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|19°32'15.97" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|13°58'52.86" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°15'25.03" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°54'5.33" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|5°45'39.29" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°14'58.94" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|19°32'15.17" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|13°58'55.60" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|26°15'27.14" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°2'28.97" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°6'55.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°45'40.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°14'58.55" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|19°32'15.97" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|13°58'52.86" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°15'25.03" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°54'5.33" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|4°6'54.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°45'39.22" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°14'58.89" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|19°32'15.20" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|13°58'55.57" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|26°15'27.18" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°2'28.75" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

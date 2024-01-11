@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°11'39.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'24.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°50'58.65" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|20°21'17.62" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°57'47.29" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°58'46.62" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°0'35.42" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|4°11'39.25" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'24.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°50'58.70" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|20°21'17.58" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°57'47.32" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|26°58'46.58" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°0'35.31" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°11'39.15" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'24.25" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°50'58.65" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|20°21'17.62" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|14°57'47.29" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°58'46.62" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°0'35.42" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|4°11'39.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'24.32" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°50'58.70" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|20°21'17.58" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|14°57'47.32" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|26°58'46.58" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°0'35.31" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

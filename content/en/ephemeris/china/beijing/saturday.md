@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:59:26 |
-| Sunrise | 07:34:52 |
+| Sunrise | 07:34:51 |
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 17:10:57 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:49:48 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 17:10:57 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:57:49 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 17:10:57 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:55:09 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 17:10:57 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°28'55.01" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°28'54.91" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Post-Retrograde Shadow|5°54'44.90" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°59'49.90" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|23°16'25.60" |Sagittarius|Baldah|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°28'54.91" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|4°28'55.01" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|5°54'44.83" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°59'49.85" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|23°16'25.65" |Capricorn|SaadAlBula|Sun|

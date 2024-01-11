@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:57:09 |
 | Dhuhr (Noon) | 12:50:54 |
 | Medium Coeli | 12:50:54 |
-| Sunset | 18:44:41 |
+| Sunset | 18:44:42 |
 | Maghrib | 18:45:40 |
 | Isha (Night) | 19:59:47 |
-| Sharia Midnight | 00:13:33 |
+| Sharia Midnight | 00:13:34 |
 | Imum Coeli | 00:51:06 |
 {{< /tab >}}
 
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|4°58'41.65" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|20°31'48.25" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|15°10'24.19" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°8'22.44" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|18°39'6.26" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|27°8'19.42" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|18°20'1.27" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°12'40.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'47.83" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°58'41.65" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|20°31'48.25" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|15°10'24.19" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°8'22.44" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|18°39'6.26" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'48.30" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°58'40.48" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|20°31'45.57" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|15°10'21.82" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|27°8'19.42" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°20'1.27" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

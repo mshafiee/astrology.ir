@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:19:31 |
 | Isha (Night) | 19:49:31 |
 | Sharia Midnight | 23:29:54 |
-| Imum Coeli | 00:08:47 |
+| Imum Coeli | 00:08:46 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°30'3.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'16.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°8'13.42" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°27'50.70" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°42'2.07" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|0°3'24.46" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|1°7'29.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°55'16.04" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°8'13.16" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|23°27'49.05" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°42'2.70" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|0°3'24.43" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°44'16.33" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|5°55'16.58" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°8'13.42" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|23°27'50.70" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|18°42'2.07" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°3'24.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|1°7'29.30" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°42'2.70" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|0°3'24.43" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|0°44'16.33" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

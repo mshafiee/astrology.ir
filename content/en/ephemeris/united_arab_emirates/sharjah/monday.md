@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°35'56.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°58'8.51" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°51'30.90" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|24°26'33.24" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°52'42.60" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|1°6'58.94" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|14°58'50.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°35'57.08" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°58'8.59" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°51'30.95" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|24°26'33.20" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°52'42.62" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|1°6'58.89" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|14°58'51.41" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°35'56.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°58'8.51" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°51'30.90" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|24°26'33.24" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|19°52'42.60" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|1°6'58.94" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|14°58'50.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|4°35'57.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°58'8.59" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°51'30.95" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|24°26'33.20" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|19°52'42.62" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|1°6'58.89" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|14°58'51.41" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

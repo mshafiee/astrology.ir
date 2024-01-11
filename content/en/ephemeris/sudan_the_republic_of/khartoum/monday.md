@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°36'16.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°58'18.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°53'51.01" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|24°29'43.60" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°56'31.30" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|1°10'28.70" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|15°47'17.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°36'16.23" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°58'18.08" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°53'51.06" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|24°29'43.55" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°56'31.33" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|1°10'28.65" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|15°47'18.00" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°36'16.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°58'18.01" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°53'51.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|24°29'43.60" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|19°56'31.30" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|1°10'28.70" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|4°36'16.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°58'18.08" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°53'51.06" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|24°29'43.55" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|19°56'31.33" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|1°10'28.65" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|15°47'18.00" |Pisces|FarghAlMuakhar|Jupiter|
 
 

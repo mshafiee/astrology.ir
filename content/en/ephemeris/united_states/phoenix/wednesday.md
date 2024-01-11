@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:38:44 |
 | Maghrib | 17:42:17 |
 | Isha (Night) | 19:05:24 |
-| Sharia Midnight | 23:47:33 |
+| Sharia Midnight | 23:47:34 |
 | Imum Coeli | 00:35:56 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°14'33.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°48'32.46" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°12'54.23" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|20°51'7.37" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|15°33'37.84" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°26'17.32" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|21°49'28.68" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|4°14'33.68" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|5°48'32.38" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°12'53.89" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|20°51'6.94" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°33'36.71" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|27°26'16.18" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|22°59'35.96" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Virgo|Sun|Sun|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|5°12'54.23" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|20°51'7.37" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|15°33'37.84" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°26'17.32" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|23°2'25.58" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|27°26'16.23" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|22°59'36.24" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

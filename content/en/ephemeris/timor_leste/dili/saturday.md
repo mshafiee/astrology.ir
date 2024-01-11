@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:24:56 |
-| Sunrise | 06:28:26 |
+| Sunrise | 06:28:27 |
 | Dhuhr (Noon) | 12:46:03 |
 | Medium Coeli | 12:46:03 |
 | Sunset | 19:03:37 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:35:10|Night duration: 11:25:20|
+|Duration of the day: 12:35:11|Night duration: 11:25:20|
 |Every hour of day duration: 01:02:56|Every hour of night duration: 00:57:07|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:28:27|07:31:21|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|07:31:22|08:34:17|Peace among people|
-|3|Mars|Servant|08:34:18|09:37:13|Vengeful and evil deeds|
-|4|Sun|Servant|09:37:14|10:40:09|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:40:10|11:43:05|Auspicious|
-|6|Mercury|Servant|11:43:06|12:46:01|Writing, swapping and making promises|
-|7|Moon|Servant|12:46:02|13:48:56|Not suitable for any task|
+|1|Saturn|Ruler|06:28:26|07:31:20|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:31:21|08:34:16|Peace among people|
+|3|Mars|Servant|08:34:17|09:37:12|Vengeful and evil deeds|
+|4|Sun|Servant|09:37:13|10:40:08|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:40:09|11:43:04|Auspicious|
+|6|Mercury|Servant|11:43:05|12:46:00|Writing, swapping and making promises|
+|7|Moon|Servant|12:46:01|13:48:56|Not suitable for any task|
 |8|Saturn|Ruler|13:48:57|14:51:52|Destruction of enemies|
 |9|Jupiter|Servant|14:51:53|15:54:48|All good deeds|
 |10|Mars|Servant|15:54:49|16:57:44|Doing evil deeds|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°28'23.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Post-Retrograde Shadow|5°54'29.82" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°55'55.46" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°11'8.99" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°21'56.93" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|29°45'45.70" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|27°7'21.58" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|23°10'54.60" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°21'50.38" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|29°45'35.48" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°23'7.84" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Virgo|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°28'23.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°54'29.74" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°55'55.41" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|23°11'9.04" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|18°21'56.93" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|29°45'45.75" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°7'21.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|4°28'23.20" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|5°54'29.82" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°55'55.46" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|23°11'8.99" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|18°21'56.95" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°45'45.70" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°7'21.58" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

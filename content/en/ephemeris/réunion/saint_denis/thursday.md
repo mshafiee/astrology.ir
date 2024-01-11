@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:25:51 |
 | Sunset | 19:05:12 |
 | Maghrib | 19:06:15 |
-| Isha (Night) | 20:14:33 |
+| Isha (Night) | 20:14:34 |
 | Sharia Midnight | 23:51:26 |
 | Imum Coeli | 00:26:03 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°11'23.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'18.16" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°48'59.56" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|20°18'36.09" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°54'32.66" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°56'20.19" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|15°29'55.81" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|5°47'18.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°48'59.61" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|20°18'36.06" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°54'32.69" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|26°56'20.15" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|15°29'55.72" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
