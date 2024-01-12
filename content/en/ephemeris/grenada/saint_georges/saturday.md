@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'42.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°56'3.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°20'23.59" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°44'21.08" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°1'54.22" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|0°21'2.90" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|5°1'28.81" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°56'3.92" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°20'21.44" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|23°44'15.21" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°1'51.22" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|0°20'58.49" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°23'18.15" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Jupiter|Mars|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'42.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°56'3.89" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°31'41.93" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°56'3.89" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°20'23.59" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|23°44'21.08" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|19°1'54.22" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°21'2.90" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|0°21'2.90" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|5°1'28.81" |Pisces|FarghAlMuakhar|Saturn|
 
 

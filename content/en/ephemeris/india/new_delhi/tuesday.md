@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:50:48 |
-| Sunrise | 07:14:45 |
+| Sunrise | 07:14:46 |
 | Dhuhr (Noon) | 12:30:36 |
 | Medium Coeli | 12:30:36 |
 | Sunset | 17:46:39 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:50:48 |
-| Sunrise | 07:14:45 |
+| Sunrise | 07:14:46 |
 | Dhuhr (Noon) | 12:30:36 |
 | Medium Coeli | 12:30:36 |
 | Sunset | 17:46:39 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:48:26 |
-| Sunrise | 07:14:45 |
+| Sunrise | 07:14:46 |
 | Dhuhr (Noon) | 12:30:36 |
 | Medium Coeli | 12:30:36 |
 | Sunset | 17:46:39 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'47.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°1'8.07" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°1'8.07" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|8°34'5.33" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|25°24'14.55" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|21°2'11.15" |Scorpio|Qalb|Venus|
-|☿ Mercury|Post-Retrograde Shadow|2°11'34.79" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|2°11'34.79" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|28°29'47.34" |Aquarius|FarghAlMuqaddam|Moon|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'47.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°1'8.07" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°1'8.07" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°34'5.33" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|25°24'14.55" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|21°2'11.15" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|2°11'34.79" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|2°11'34.79" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|28°29'47.34" |Pisces|Rescha|Mars|
 
 

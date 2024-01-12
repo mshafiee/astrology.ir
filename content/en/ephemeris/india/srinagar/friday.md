@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:38:48 |
 | Sunset | 17:40:35 |
 | Maghrib | 17:46:10 |
-| Isha (Night) | 18:55:42 |
+| Isha (Night) | 18:55:43 |
 | Sharia Midnight | 00:01:19 |
 | Imum Coeli | 00:38:59 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°17'27.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°49'42.55" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°49'42.55" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°34'35.19" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|21°20'36.93" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|16°9'4.14" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°54'18.06" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°8'21.97" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|27°54'18.06" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°13'0.98" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°17'27.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°49'42.55" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°49'42.55" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|5°34'35.19" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|21°20'36.93" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|16°9'4.14" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°54'18.06" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|27°54'18.06" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|0°8'21.97" |Aquarius|SaadAlSaud|Venus|
 
 

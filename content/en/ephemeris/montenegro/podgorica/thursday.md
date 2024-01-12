@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°12'29.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'43.68" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°47'43.68" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|4°57'14.33" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|20°29'47.83" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|15°8'1.39" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°6'23.29" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°51'19.23" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|27°6'31.95" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°47'48.16" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Virgo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°12'28.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°47'43.61" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°47'43.61" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|4°57'14.28" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|20°29'47.86" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|15°8'1.36" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°6'32.00" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|27°6'32.00" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|17°47'48.32" |Capricorn|SaadAlBula|Mars|
 
 

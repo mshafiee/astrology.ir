@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'32.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°3'40.59" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°8'31.01" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|26°10'52.38" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|21°58'20.98" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|3°5'11.58" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|9°18'37.92" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|4°46'31.36" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°3'40.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°8'25.00" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|26°10'36.29" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|21°58'12.65" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°4'59.85" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|8°14'11.26" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Libra|Moon|Mercury|
 |♀ Venus|Saturn|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'32.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°3'40.59" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°3'40.59" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°8'31.01" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|26°10'52.38" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|21°58'20.98" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|3°5'11.58" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|3°5'11.58" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|9°18'37.92" |Aries|Sharatain|Mars|
 
 

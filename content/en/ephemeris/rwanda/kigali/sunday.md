@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:32:14 |
 | Isha (Night) | 19:13:15 |
 | Sharia Midnight | 23:31:39 |
-| Imum Coeli | 00:08:47 |
+| Imum Coeli | 00:08:46 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°30'3.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'16.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°8'13.16" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°27'49.05" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°42'2.70" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|0°3'24.43" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|0°44'16.33" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°30'3.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°55'16.65" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°8'13.47" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|23°27'50.65" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°42'2.09" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|0°3'24.41" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|1°7'29.47" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°30'3.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'16.58" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°8'13.42" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|23°27'50.70" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|4°30'3.26" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°55'16.04" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°8'13.16" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|23°27'49.05" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|18°42'2.70" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°3'24.43" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|0°3'24.43" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|0°44'16.33" |Pisces|FarghAlMuqaddam|Saturn|
 
 

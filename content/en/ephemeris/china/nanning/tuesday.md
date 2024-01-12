@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'26.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°4'10.07" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°14'59.28" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|26°19'37.19" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|22°8'54.27" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|3°15'23.54" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|11°15'42.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|4°47'26.47" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°4'10.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°14'59.33" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|26°19'37.15" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|22°8'54.30" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°15'23.49" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|11°15'43.92" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'26.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°4'10.07" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°14'59.28" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|26°19'37.19" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|22°8'54.27" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|3°15'23.54" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°15'42.64" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|4°47'26.47" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°4'10.09" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°14'59.26" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°19'36.85" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|22°8'54.29" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|3°15'23.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|11°12'32.29" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

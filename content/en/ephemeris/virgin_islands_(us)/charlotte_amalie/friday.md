@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:27:54 |
 | Medium Coeli | 12:27:54 |
 | Sunset | 18:01:49 |
-| Maghrib | 18:02:50 |
+| Maghrib | 18:02:49 |
 | Isha (Night) | 19:15:20 |
 | Sharia Midnight | 23:49:04 |
 | Imum Coeli | 00:28:05 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:27:54 |
 | Medium Coeli | 12:27:54 |
 | Sunset | 18:01:49 |
-| Maghrib | 18:02:50 |
+| Maghrib | 18:02:49 |
 | Isha (Night) | 19:06:29 |
 | Sharia Midnight | 23:55:43 |
 | Imum Coeli | 00:28:05 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:27:54 |
 | Medium Coeli | 12:27:54 |
 | Sunset | 18:01:49 |
-| Maghrib | 18:02:50 |
+| Maghrib | 18:02:49 |
 | Isha (Night) | 19:17:33 |
 | Sharia Midnight | 23:45:46 |
 | Imum Coeli | 00:28:05 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:27:54 |
 | Medium Coeli | 12:27:54 |
 | Sunset | 18:01:49 |
-| Maghrib | 18:02:50 |
+| Maghrib | 18:02:49 |
 | Isha (Night) | 19:19:46 |
 | Sharia Midnight | 23:49:04 |
 | Imum Coeli | 00:28:05 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:27:54 |
 | Medium Coeli | 12:27:54 |
 | Sunset | 18:01:49 |
-| Maghrib | 18:02:50 |
-| Isha (Night) | 19:32:50 |
+| Maghrib | 18:02:49 |
+| Isha (Night) | 19:32:49 |
 | Sharia Midnight | 23:47:58 |
 | Imum Coeli | 00:28:05 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°25'42.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°53'16.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°36'4.00" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|22°44'10.73" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|17°49'20.28" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|29°17'26.58" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|18°48'56.97" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|4°25'41.28" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°53'17.35" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°35'57.30" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|22°43'54.11" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°49'20.31" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|29°17'26.53" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|18°48'56.76" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°25'42.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°53'16.14" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°36'4.00" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|22°44'10.73" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|17°49'31.00" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|29°17'41.08" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°31'14.64" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Direct|5°53'17.35" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°35'57.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|22°43'54.11" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|17°49'20.31" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|29°17'26.53" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°48'56.76" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Mercury|Mercury|Mars|Mercury|
 |☿ Mercury|Mars|Mars|Sun|Venus|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Libra|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Venus|Mars|Libra|Moon|Mars|
+|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
 
 
 {{< /tab >}}

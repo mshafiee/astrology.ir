@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°16'44.10" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°49'24.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°29'13.30" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°13'20.14" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°0'18.12" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°47'18.80" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|28°36'39.11" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|5°49'25.94" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°29'6.41" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°13'2.87" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°0'7.33" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|27°47'3.53" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|26°40'17.11" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°16'44.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°49'24.74" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°16'44.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°49'24.74" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|5°29'13.30" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|21°13'20.14" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|16°0'18.12" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°47'18.75" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|27°47'18.75" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|28°36'38.74" |Capricorn|SaadAlSaud|Sun|
 
 

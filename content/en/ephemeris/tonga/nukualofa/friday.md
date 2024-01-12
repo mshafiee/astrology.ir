@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°21'13.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°51'17.59" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°2'47.40" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°58'58.71" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°55'9.44" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|28°31'52.30" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°40'23.56" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|4°21'13.47" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°51'19.35" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°2'40.21" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°58'41.33" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°54'57.19" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|28°31'35.96" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|7°50'5.97" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Leo|Moon|Mercury|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°21'13.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°51'17.59" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°51'17.59" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°2'47.40" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|21°58'58.71" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|16°55'9.44" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|28°31'52.30" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|28°31'52.30" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|9°40'23.56" |Aquarius|SaadAlAkhbia|Venus|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°30'46.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'37.47" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°13'29.38" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°34'56.59" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°50'37.95" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|0°10'59.33" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°18'10.31" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°30'46.22" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°55'37.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°13'29.42" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|23°34'56.55" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°50'37.93" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|0°10'59.36" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°39'19.14" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Jupiter|Mars|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°30'46.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'37.55" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°55'37.55" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°13'29.42" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|23°34'56.55" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|18°50'37.95" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°10'59.33" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|0°10'59.33" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|2°18'10.31" |Pisces|FarghAlMuqaddam|Saturn|
 
 

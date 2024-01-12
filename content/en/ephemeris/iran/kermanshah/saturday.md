@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:32:04 |
 | Maghrib | 17:37:42 |
 | Isha (Night) | 19:07:42 |
-| Sharia Midnight | 23:43:54 |
+| Sharia Midnight | 23:43:55 |
 | Imum Coeli | 00:30:22 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°23'56.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|5°52'29.27" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°23'3.38" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|22°26'29.51" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|17°28'15.83" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|28°59'34.25" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°2'44.92" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|5°52'29.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°23'3.55" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|22°26'29.91" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°28'16.14" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|28°59'34.65" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°5'5.64" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°23'56.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|5°52'29.23" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|5°52'29.23" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°23'3.55" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|22°26'29.91" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|17°28'16.14" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|28°59'34.65" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°5'5.64" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|22°26'29.51" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|17°28'15.83" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|28°59'34.25" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°2'44.92" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
