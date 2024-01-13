@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°17'25.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°49'41.90" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°34'27.30" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°20'26.65" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°8'51.42" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|27°54'8.30" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°12'38.01" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|4°17'25.97" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°49'40.79" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°34'26.89" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°20'24.45" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°8'52.73" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|27°54'8.78" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|29°53'18.20" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|5°34'26.94" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|21°20'25.85" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|16°8'50.67" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|27°54'8.30" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°12'38.01" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|27°54'7.38" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°7'39.37" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

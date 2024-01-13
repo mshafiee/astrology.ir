@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:12:08 |
-| Sunrise | 06:34:16 |
+| Sunrise | 06:34:17 |
 | Dhuhr (Noon) | 12:01:04 |
 | Medium Coeli | 12:01:04 |
 | Sunset | 17:27:59 |
@@ -210,23 +210,23 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:53:43|Night duration: 13:06:21|
+|Duration of the day: 10:53:42|Night duration: 13:06:21|
 |Every hour of day duration: 00:54:29|Every hour of night duration: 01:05:32|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:34:16|07:28:43|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|07:28:44|08:23:12|Peace among people|
-|3|Mars|Servant|08:23:13|09:17:40|Vengeful and evil deeds|
-|4|Sun|Servant|09:17:41|10:12:09|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:12:10|11:06:37|Auspicious|
-|6|Mercury|Servant|11:06:38|12:01:06|Writing, swapping and making promises|
-|7|Moon|Servant|12:01:07|12:55:35|Not suitable for any task|
-|8|Saturn|Ruler|12:55:36|13:50:03|Destruction of enemies|
-|9|Jupiter|Servant|13:50:04|14:44:32|All good deeds|
-|10|Mars|Servant|14:44:33|15:39:00|Doing evil deeds|
-|11|Sun|Servant|15:39:01|16:33:29|Acceptance of reconciliation between couples|
+|1|Saturn|Ruler|06:34:17|07:28:44|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:28:45|08:23:13|Peace among people|
+|3|Mars|Servant|08:23:14|09:17:41|Vengeful and evil deeds|
+|4|Sun|Servant|09:17:42|10:12:10|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:12:11|11:06:38|Auspicious|
+|6|Mercury|Servant|11:06:39|12:01:07|Writing, swapping and making promises|
+|7|Moon|Servant|12:01:08|12:55:35|Not suitable for any task|
+|8|Saturn|Ruler|12:55:36|13:50:04|Destruction of enemies|
+|9|Jupiter|Servant|13:50:05|14:44:32|All good deeds|
+|10|Mars|Servant|14:44:33|15:39:01|Doing evil deeds|
+|11|Sun|Servant|15:39:02|16:33:29|Acceptance of reconciliation between couples|
 |12|Venus|Servant|16:33:30|17:27:58|For gaining dignity|
 
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:53:43|Night duration: 13:06:21|
+|Duration of the day: 10:53:42|Night duration: 13:06:21|
 |Every hour duration: 01:33:23|Every hour duration: 01:52:20|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|06:34:16|08:07:38|
-|Mid-morning|Jupiter|Servant|08:07:39|09:41:01|
-|Late morning|Mars|Servant|09:41:02|11:14:24|
-|Noon|Sun|Servant|11:14:25|12:47:48|
+|Early morning|Saturn|Ruler|06:34:17|08:07:39|
+|Mid-morning|Jupiter|Servant|08:07:40|09:41:02|
+|Late morning|Mars|Servant|09:41:03|11:14:25|
+|Noon|Sun|Servant|11:14:26|12:47:48|
 |Early afternoon|Venus|Servant|12:47:49|14:21:11|
 |Mid-afternoon|Mercury|Servant|14:21:12|15:54:34|
 |Late afternoon|Moon|Servant|15:54:35|17:27:58|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°23'5.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°52'6.39" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°16'40.97" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|22°17'50.76" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|17°17'51.18" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|28°50'48.01" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|14°7'11.25" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|5°52'6.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°16'40.92" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|22°17'50.72" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°17'51.22" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|28°50'48.09" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|14°6'3.92" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°23'5.44" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°52'6.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°16'41.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|22°17'50.77" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|17°17'51.33" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|28°50'48.14" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|14°7'11.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°23'5.38" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°52'6.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°16'40.95" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|22°17'50.84" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|17°17'51.20" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|28°50'48.10" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|14°7'12.25" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
