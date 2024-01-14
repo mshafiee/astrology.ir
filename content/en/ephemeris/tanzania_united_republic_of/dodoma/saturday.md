@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:28:53 |
+| Fajr (Dawn) | 05:28:52 |
 | Sunrise | 06:32:08 |
 | Dhuhr (Noon) | 12:45:29 |
 | Medium Coeli | 12:45:29 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°23'50.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°52'26.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°22'15.04" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|22°25'25.36" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|17°26'56.80" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|28°58'28.44" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°7'8.12" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|5°52'28.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°22'11.11" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|22°25'16.94" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°26'48.64" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|28°58'18.67" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|15°28'50.48" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°23'50.40" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|5°52'26.10" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°22'15.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|22°25'25.35" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|17°26'57.04" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|28°58'28.65" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°5'45.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|22°25'16.94" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|17°26'48.64" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|28°58'18.67" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|15°28'50.48" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

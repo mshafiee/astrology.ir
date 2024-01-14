@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 20:28:18 |
 | Isha (Night) | 21:27:06 |
 | Sharia Midnight | 00:17:37 |
-| Imum Coeli | 01:02:37 |
+| Imum Coeli | 01:02:36 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 20:31:06 |
 | Isha (Night) | 21:27:06 |
 | Sharia Midnight | 00:12:02 |
-| Imum Coeli | 01:02:37 |
+| Imum Coeli | 01:02:36 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 20:10:50 |
 | Isha (Night) | 21:46:21 |
 | Sharia Midnight | 00:11:02 |
-| Imum Coeli | 01:02:37 |
+| Imum Coeli | 01:02:36 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 20:10:50 |
 | Isha (Night) | 21:33:25 |
 | Sharia Midnight | 00:20:50 |
-| Imum Coeli | 01:02:36 |
+| Imum Coeli | 01:02:37 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 20:10:50 |
 | Isha (Night) | 21:49:40 |
 | Sharia Midnight | 00:05:54 |
-| Imum Coeli | 01:02:37 |
+| Imum Coeli | 01:02:36 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 20:10:50 |
 | Isha (Night) | 21:53:00 |
 | Sharia Midnight | 00:11:02 |
-| Imum Coeli | 01:02:37 |
+| Imum Coeli | 01:02:36 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'27.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°58'53.85" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°2'29.26" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|24°41'26.03" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|20°10'37.18" |Scorpio|Qalb|Venus|
-|☿ Mercury|Direct|1°23'26.80" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|18°32'30.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°58'53.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°2'24.59" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|24°41'13.39" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|20°10'31.12" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|1°23'17.80" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|17°13'53.37" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Mercury|
 |♀ Venus|Moon|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Jupiter|Mars|Sagittarius|Sun|Jupiter|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Venus|Jupiter|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°37'27.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°58'53.59" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°2'29.29" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|24°41'26.03" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|20°10'37.52" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|1°23'27.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|18°27'35.54" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|4°37'27.12" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°58'53.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°2'24.59" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|24°41'13.39" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|20°10'31.12" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|1°23'17.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|17°13'52.56" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Mercury|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Capricorn|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}

@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:40:20 |
 | Sunset | 18:28:27 |
 | Maghrib | 18:31:40 |
-| Isha (Night) | 19:43:39 |
+| Isha (Night) | 19:43:38 |
 | Sharia Midnight | 00:02:53 |
 | Imum Coeli | 00:40:30 |
 {{< /tab >}}
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|10°21'37.11" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|27°49'43.26" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|23°57'32.38" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|5°2'36.82" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°26'48.45" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|5°2'36.75" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°27'11.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°56'43.36" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|6°9'27.05" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°21'37.11" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|27°49'43.27" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|23°57'32.41" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|5°2'36.82" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|1°26'48.45" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|27°49'43.26" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|23°57'32.38" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|5°2'36.75" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|1°27'11.83" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

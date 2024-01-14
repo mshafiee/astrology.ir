@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:01:22 |
-| Sunrise | 06:16:31 |
+| Sunrise | 06:16:30 |
 | Dhuhr (Noon) | 12:14:39 |
 | Medium Coeli | 12:14:39 |
 | Sunset | 18:12:49 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:59:13 |
-| Sunrise | 06:16:30 |
+| Sunrise | 06:16:31 |
 | Dhuhr (Noon) | 12:14:39 |
 | Medium Coeli | 12:14:39 |
 | Sunset | 18:12:49 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:56:19|Night duration: 12:04:01|
+|Duration of the day: 11:56:18|Night duration: 12:04:01|
 |Every hour duration: 01:42:20|Every hour duration: 01:43:26|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|06:16:30|07:58:48|
-|Mid-morning|Jupiter|Servant|07:58:49|09:41:08|
-|Late morning|Mars|Servant|09:41:09|11:23:28|
-|Noon|Sun|Servant|11:23:29|13:05:48|
+|Early morning|Saturn|Ruler|06:16:31|07:58:49|
+|Mid-morning|Jupiter|Servant|07:58:50|09:41:09|
+|Late morning|Mars|Servant|09:41:10|11:23:29|
+|Noon|Sun|Servant|11:23:30|13:05:48|
 |Early afternoon|Venus|Servant|13:05:49|14:48:08|
 |Mid-afternoon|Mercury|Servant|14:48:09|16:30:28|
 |Late afternoon|Moon|Servant|16:30:29|18:12:48|

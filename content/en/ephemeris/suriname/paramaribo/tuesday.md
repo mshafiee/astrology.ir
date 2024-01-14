@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:50:18 |
 | Medium Coeli | 12:50:18 |
 | Sunset | 18:45:10 |
-| Maghrib | 18:46:08 |
+| Maghrib | 18:46:07 |
 | Isha (Night) | 19:55:29 |
 | Sharia Midnight | 00:13:10 |
 | Imum Coeli | 00:50:28 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:50:18 |
 | Medium Coeli | 12:50:18 |
 | Sunset | 18:45:10 |
-| Maghrib | 18:46:08 |
+| Maghrib | 18:46:07 |
 | Isha (Night) | 19:59:46 |
 | Sharia Midnight | 00:13:10 |
 | Imum Coeli | 00:50:28 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:50:18 |
 | Medium Coeli | 12:50:18 |
 | Sunset | 18:45:10 |
-| Maghrib | 18:46:08 |
+| Maghrib | 18:46:07 |
 | Isha (Night) | 20:16:07 |
 | Sharia Midnight | 00:12:05 |
 | Imum Coeli | 00:50:28 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°50'10.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°5'43.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°34'34.43" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|26°46'5.42" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|22°40'48.51" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°46'27.69" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|18°8'38.77" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°5'40.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°34'38.62" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|26°46'5.38" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|22°40'48.53" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°46'27.64" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|18°8'40.19" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°50'10.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°5'43.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°34'34.48" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|4°50'10.13" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°5'40.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°34'38.62" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|26°46'5.38" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|22°40'48.53" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|3°46'27.64" |Capricorn|SaadAlDhabib|Jupiter|

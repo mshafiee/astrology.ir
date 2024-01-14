@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:42:08 |
+| Fajr (Dawn) | 05:42:07 |
 | Sunrise | 06:57:42 |
 | Dhuhr (Noon) | 12:42:42 |
 | Medium Coeli | 12:42:42 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°50'26.28" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°50'26.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|6°5'50.12" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°36'35.48" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|26°48'51.06" |Sagittarius|Baldah|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°50'26.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°5'50.03" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°36'35.43" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|26°48'51.10" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|22°44'8.00" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|3°49'44.06" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|17°53'47.86" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|6°5'50.12" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°36'35.48" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°48'51.06" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|22°44'8.03" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|3°49'44.01" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|17°53'49.26" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
