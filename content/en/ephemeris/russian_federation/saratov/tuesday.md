@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 13:05:30 |
 | Sunset | 17:17:00 |
 | Maghrib | 17:19:14 |
-| Isha (Night) | 18:49:14 |
+| Isha (Night) | 18:49:15 |
 | Sharia Midnight | 00:02:54 |
 | Imum Coeli | 01:05:40 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'36.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°1'34.16" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°40'0.84" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|25°32'14.62" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|21°11'51.33" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|2°20'42.74" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|0°10'10.29" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°1'33.94" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°40'0.79" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|25°32'14.66" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|21°11'51.30" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|2°20'42.79" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|0°10'9.20" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

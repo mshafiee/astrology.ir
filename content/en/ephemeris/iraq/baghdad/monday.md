@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:11:34 |
 | Sunset | 17:17:20 |
 | Maghrib | 17:18:31 |
-| Isha (Night) | 18:45:42 |
+| Isha (Night) | 18:45:43 |
 | Sharia Midnight | 23:27:27 |
 | Imum Coeli | 00:11:45 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°36'12.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°58'16.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°53'24.15" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|24°29'6.37" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°55'47.44" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|1°9'48.03" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|15°31'30.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°36'12.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°58'16.62" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°53'24.08" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|24°29'6.29" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°55'46.99" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|1°9'47.56" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|15°36'36.02" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

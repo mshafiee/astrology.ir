@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:33:50|Night duration: 13:25:59|
+|Duration of the day: 10:33:50|Night duration: 13:25:58|
 |Every hour of day duration: 00:52:49|Every hour of night duration: 01:07:10|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Mars|Servant|21:09:47|22:16:56|Creating love, connection and marriage|
 |5|Sun|Servant|22:16:57|23:24:06|Indulgence|
 |6|Venus|Servant|23:24:07|00:31:16|Outer and inner journey|
-|7|Mercury|Servant|00:31:17|01:38:26|Achieving status and power|
-|8|Moon|Ruler|01:38:27|02:45:36|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:45:37|03:52:46|Reaching status and promotion|
-|10|Jupiter|Servant|03:52:47|04:59:56|Fulfilling needs|
-|11|Mars|Servant|04:59:57|06:07:06|Attraction of love and hearts|
-|12|Sun|Servant|06:07:07|07:14:16|Attracting misfortune, not suitable for any task|
+|7|Mercury|Servant|00:31:17|01:38:25|Achieving status and power|
+|8|Moon|Ruler|01:38:26|02:45:35|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:45:36|03:52:45|Reaching status and promotion|
+|10|Jupiter|Servant|03:52:46|04:59:55|Fulfilling needs|
+|11|Mars|Servant|04:59:56|06:07:05|Attraction of love and hearts|
+|12|Sun|Servant|06:07:06|07:14:15|Attracting misfortune, not suitable for any task|
 
  
  
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|6°8'2.90" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|10°4'24.27" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|27°26'26.74" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|23°29'28.80" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|4°34'32.72" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°18'23.83" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|23°29'26.23" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|4°34'30.61" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|26°56'16.98" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Libra|Moon|Mercury|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Mars|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

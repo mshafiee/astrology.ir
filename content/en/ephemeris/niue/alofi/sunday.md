@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:28:42 |
 | Medium Coeli | 12:28:42 |
 | Sunset | 19:03:38 |
-| Maghrib | 19:04:41 |
+| Maghrib | 19:04:40 |
 | Isha (Night) | 20:23:38 |
 | Sharia Midnight | 23:44:00 |
 | Imum Coeli | 00:28:53 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|5°59'56.69" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°17'28.78" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|25°1'45.45" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|20°35'5.13" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|1°46'9.32" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|23°21'27.16" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|20°34'53.04" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|1°45'53.79" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°25'30.32" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Mercury|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}

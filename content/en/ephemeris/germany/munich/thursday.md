@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:23:56 |
 | Sunset | 16:50:56 |
 | Maghrib | 17:14:20 |
-| Isha (Night) | 18:18:33 |
+| Isha (Night) | 18:18:34 |
 | Sharia Midnight | 23:33:52 |
 | Imum Coeli | 00:24:05 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°55'41.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°8'50.92" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°14'13.97" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|27°39'44.80" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|23°45'29.75" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|4°50'32.45" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|29°24'41.80" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°55'41.17" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°8'50.94" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°14'14.02" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|27°39'44.76" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|23°45'29.78" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|4°50'32.40" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|29°24'43.40" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:17:54 |
+| Fajr (Dawn) | 06:17:55 |
 | Sunrise | 08:23:57 |
 | Dhuhr (Noon) | 12:32:05 |
 | Medium Coeli | 12:32:05 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|5°55'26.86" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°10'45.01" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|23°31'13.88" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°46'9.03" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|0°7'1.15" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|1°29'44.69" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|18°46'9.01" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|0°7'1.20" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|1°29'44.48" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°30'23.89" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|5°55'26.86" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°10'45.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|23°31'13.88" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|18°46'9.49" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|0°7'1.65" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|1°29'25.37" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|23°31'13.58" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|18°46'9.01" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|0°7'1.20" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|1°29'44.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
