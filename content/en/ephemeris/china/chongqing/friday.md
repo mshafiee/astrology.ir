@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:04:14 |
 | Medium Coeli | 13:04:14 |
 | Sunset | 18:19:56 |
-| Maghrib | 18:22:35 |
+| Maghrib | 18:22:34 |
 | Isha (Night) | 19:52:34 |
 | Sharia Midnight | 00:20:54 |
 | Imum Coeli | 01:04:23 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°6'31.28" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|6°15'24.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°31'14.05" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|29°23'41.35" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|25°50'58.06" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|6°58'25.61" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°54'26.20" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°31'14.02" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|29°23'41.39" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|25°50'57.93" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|6°58'25.52" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|21°56'34.20" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°6'31.28" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°15'24.81" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°31'14.02" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|29°23'41.39" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|25°50'58.03" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|6°58'25.65" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|21°54'26.20" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|6°15'25.01" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°31'13.77" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|29°23'40.99" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|25°50'57.31" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|6°58'24.91" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°2'46.57" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Saturn|Mars|Sun|Venus|
 |☿ Mercury|Mercury|Mercury|Saturn|Sun|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

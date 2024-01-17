@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°7'16.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°15'53.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°36'37.15" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|29°30'58.08" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|25°59'44.59" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°7'32.39" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°15'28.29" |Aries|Butain|Venus|
+|♄ Saturn|Direct|5°7'16.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°15'53.47" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°36'35.66" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|29°30'54.81" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|25°59'41.85" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°7'29.31" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|23°32'50.35" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Jupiter|Saturn|Virgo|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°7'16.81" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°15'53.56" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°36'35.71" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|29°30'54.78" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|5°7'16.70" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°15'53.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°36'35.66" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|29°30'54.81" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|25°59'41.88" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|7°7'29.28" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|23°32'51.68" |Taurus|HaqAh|Saturn|

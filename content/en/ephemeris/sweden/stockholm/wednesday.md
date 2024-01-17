@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°49'31.10" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|6°5'19.67" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°29'57.39" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|26°39'49.77" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|22°33'20.02" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°39'8.84" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|15°50'40.31" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°39'53.18" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|22°33'17.94" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°39'7.30" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|16°36'46.42" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°49'31.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°5'19.63" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°29'58.15" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|26°39'51.78" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|22°33'20.02" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|3°39'8.84" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|15°50'40.31" |Aries|Butain|Sun|
+|♄ Saturn|Direct|4°49'30.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°5'20.91" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°29'57.87" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°39'53.18" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|22°33'17.94" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|3°39'7.58" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|16°36'47.79" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

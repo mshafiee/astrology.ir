@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:51:17 |
 | Dhuhr (Noon) | 12:04:53 |
 | Medium Coeli | 12:04:53 |
-| Sunset | 17:18:43 |
+| Sunset | 17:18:42 |
 | Maghrib | 17:19:50 |
 | Isha (Night) | 18:38:54 |
 | Sharia Midnight | 23:22:28 |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:51:17 |
 | Dhuhr (Noon) | 12:04:53 |
 | Medium Coeli | 12:04:53 |
-| Sunset | 17:18:43 |
+| Sunset | 17:18:42 |
 | Maghrib | 17:19:50 |
 | Isha (Night) | 18:29:20 |
 | Sharia Midnight | 23:29:38 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:51:17 |
 | Dhuhr (Noon) | 12:04:53 |
 | Medium Coeli | 12:04:53 |
-| Sunset | 17:18:43 |
+| Sunset | 17:18:42 |
 | Maghrib | 17:19:50 |
 | Isha (Night) | 18:43:41 |
 | Sharia Midnight | 23:22:28 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:51:17 |
 | Dhuhr (Noon) | 12:04:53 |
 | Medium Coeli | 12:04:53 |
-| Sunset | 17:18:43 |
+| Sunset | 17:18:42 |
 | Maghrib | 17:19:50 |
 | Isha (Night) | 18:49:50 |
 | Sharia Midnight | 23:21:17 |
@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'50.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°4'55.57" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°25'2.59" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|26°33'8.59" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|6°4'56.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°25'4.90" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|26°33'16.17" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|22°25'20.35" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|3°31'19.23" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|13°18'27.66" |Pisces|FarghAlMuakhar|Jupiter|

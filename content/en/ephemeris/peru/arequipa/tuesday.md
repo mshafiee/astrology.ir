@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:14:52 |
+| Fajr (Dawn) | 04:14:53 |
 | Sunrise | 05:26:32 |
 | Dhuhr (Noon) | 11:55:47 |
 | Medium Coeli | 11:55:47 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°50'18.36" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°50'18.25" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|6°5'45.60" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°35'37.90" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|26°47'33.46" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|22°42'34.57" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°48'12.42" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|17°30'21.80" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|26°47'33.54" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|22°42'34.18" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°48'12.13" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|17°37'2.40" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°50'18.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°5'45.39" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°35'37.98" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|26°47'33.46" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|22°42'34.57" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|3°48'12.42" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|17°30'21.80" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|6°5'45.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°35'37.90" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°47'33.54" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|22°42'34.18" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|3°48'12.13" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|17°37'2.40" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
