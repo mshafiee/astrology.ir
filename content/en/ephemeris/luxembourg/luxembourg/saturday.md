@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:46:20 |
 | Medium Coeli | 12:46:20 |
 | Sunset | 17:10:29 |
-| Maghrib | 17:14:55 |
+| Maghrib | 17:14:56 |
 | Isha (Night) | 18:59:34 |
 | Sharia Midnight | 23:48:33 |
 | Imum Coeli | 00:46:29 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:46:20 |
 | Medium Coeli | 12:46:20 |
 | Sunset | 17:10:29 |
-| Maghrib | 17:14:56 |
+| Maghrib | 17:14:55 |
 | Isha (Night) | 18:46:55 |
 | Sharia Midnight | 23:58:00 |
 | Imum Coeli | 00:46:29 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|11°45'29.60" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|29°42'54.03" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|26°14'11.38" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°22'34.36" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°22'34.36" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|26°12'15.15" |Aries|Thurayya|Venus|
 
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|11°45'29.60" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|29°42'54.03" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|26°14'11.38" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°22'24.74" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|27°9'1.18" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|7°22'34.36" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|26°12'15.15" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Mars|Libra|Moon|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}

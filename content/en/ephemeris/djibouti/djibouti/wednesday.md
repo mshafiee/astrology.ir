@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:17:17 |
 | Medium Coeli | 12:17:17 |
 | Sunset | 18:03:23 |
-| Maghrib | 18:04:21 |
-| Isha (Night) | 19:34:21 |
+| Maghrib | 18:04:22 |
+| Isha (Night) | 19:34:22 |
 | Sharia Midnight | 23:38:41 |
 | Imum Coeli | 00:17:27 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'29.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°4'44.84" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°22'35.12" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|26°29'54.30" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|22°21'17.77" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°27'25.43" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|13°34'16.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|6°4'44.33" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°22'33.45" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|26°29'49.05" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|22°21'16.12" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|3°27'22.48" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|13°0'12.35" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Libra|Moon|Mercury|
 |♀ Venus|Saturn|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°22'35.00" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|26°29'54.12" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|22°21'17.45" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|3°27'25.43" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|13°34'16.89" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|3°27'25.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|13°37'5.90" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

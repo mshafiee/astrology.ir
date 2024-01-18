@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:02:12 |
+| Fajr (Dawn) | 05:02:13 |
 | Sunrise | 06:08:03 |
 | Dhuhr (Noon) | 12:08:49 |
 | Medium Coeli | 12:08:49 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|10°7'2.45" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|27°30'1.48" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|23°33'46.68" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|4°38'50.03" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|27°5'46.34" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|4°38'50.07" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°5'44.77" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'40.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°8'15.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°7'2.40" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|27°30'1.52" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|23°33'46.66" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|4°38'50.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|27°5'44.77" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|6°8'16.95" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°6'58.32" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|27°29'52.56" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|23°33'38.87" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|4°38'41.07" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|27°36'43.48" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -363,10 +363,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Mars|Sun|Aries|Moon|Jupiter|
 |♃ Jupiter|Mercury|Saturn|Cancer|Moon|Venus|
 |♂ Mars|Mars|Mars|Taurus|Moon|Saturn|
-|☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
+|☉ Sun|Moon|Mercury|Scorpio|Sun|Venus|
 |♀ Venus|Moon|Mars|Virgo|Moon|Mercury|
 |☿ Mercury|Jupiter|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}

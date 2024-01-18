@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°9'13.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°17'9.48" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°50'17.02" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|29°49'20.85" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|26°21'57.88" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°30'41.75" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|28°31'24.81" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|5°9'13.72" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°17'7.49" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°50'21.55" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|29°49'30.01" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|26°22'6.87" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|7°30'51.50" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°21'50.74" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Jupiter|Saturn|Virgo|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°9'13.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°17'9.57" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°50'17.08" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|29°49'20.82" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|6°17'7.49" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°50'21.55" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|29°49'30.01" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|26°21'57.91" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°30'41.71" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|7°30'41.71" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|28°31'25.96" |Taurus|HaqAh|Saturn|
 
 

@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:51:44 |
 | Maghrib | 18:06:29 |
 | Isha (Night) | 18:50:32 |
-| Sharia Midnight | 22:59:34 |
+| Sharia Midnight | 22:59:33 |
 | Imum Coeli | 23:33:22 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°2'22.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°12'50.41" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°1'54.67" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|28°44'8.11" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|25°3'12.36" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|6°9'12.87" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|13°9'35.40" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|6°12'50.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°1'54.54" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|28°44'8.39" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|25°3'11.82" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|6°9'12.57" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|13°19'17.96" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°2'22.87" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°12'50.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°1'54.67" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|28°44'8.11" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|25°3'12.36" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|6°9'12.87" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|13°9'37.02" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|5°2'22.77" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°12'50.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°1'54.54" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|28°44'8.39" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|25°3'11.82" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|6°9'12.57" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|13°19'17.96" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

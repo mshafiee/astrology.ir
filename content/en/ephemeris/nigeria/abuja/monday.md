@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|6°24'56.58" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|13°13'16.51" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|1°41'11.40" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|28°36'54.51" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°53'55.83" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°8'48.28" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|28°37'5.01" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|9°54'8.60" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|20°50'58.01" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Jupiter|Venus|Jupiter|Moon|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°21'3.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°24'56.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°13'16.56" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|5°21'3.48" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°24'56.58" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°13'16.51" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|1°41'11.40" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|28°37'5.01" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°54'8.60" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|9°54'8.60" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|20°50'58.01" |Gemini|Dhira|Sun|
 
 

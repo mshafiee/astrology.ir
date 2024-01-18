@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:47:13 |
 | Isha (Night) | 19:17:13 |
 | Sharia Midnight | 23:53:50 |
-| Imum Coeli | 00:41:26 |
+| Imum Coeli | 00:41:27 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|6°16'14.15" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|11°40'26.05" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|29°36'5.53" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|26°5'57.01" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°13'59.48" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|24°38'59.84" |Aries|Butain|Venus|
+|♀ Venus|Direct|26°5'57.16" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|7°13'59.62" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|24°37'26.89" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°7'49.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°16'14.15" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°40'26.05" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|6°16'14.10" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°40'26.10" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|29°36'5.61" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|26°5'57.16" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°13'59.62" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|7°13'59.62" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|24°37'26.89" |Taurus|HaqAh|Saturn|
 
 
