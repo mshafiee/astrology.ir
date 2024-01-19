@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°21'50.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°25'28.85" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°18'38.12" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°48'17.31" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|28°45'49.38" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|10°3'32.28" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|23°16'4.82" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|5°21'50.38" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°25'28.75" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°18'43.53" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°48'31.57" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|28°45'57.15" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|10°3'42.43" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|22°21'34.97" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°21'50.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°25'28.75" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|6°25'28.75" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°18'43.53" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|1°48'31.57" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|28°45'57.15" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|10°3'42.43" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|10°3'42.43" |Capricorn|SaadAlDhabib|Mars|
 |☾ Moon|Direct|22°21'34.97" |Gemini|Dhira|Sun|
 
 

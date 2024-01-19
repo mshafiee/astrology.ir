@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:55:09 |
 | Isha (Night) | 18:43:11 |
 | Sharia Midnight | 23:43:37 |
-| Imum Coeli | 00:27:15 |
+| Imum Coeli | 00:27:14 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:40:00 |
 | Isha (Night) | 19:02:57 |
 | Sharia Midnight | 23:42:53 |
-| Imum Coeli | 00:27:15 |
+| Imum Coeli | 00:27:14 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°1'12.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°12'8.03" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|5°1'12.40" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°12'8.03" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|10°53'33.61" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|28°32'50.53" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|24°49'35.55" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|5°55'17.92" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°57'43.18" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|5°55'17.88" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°57'44.84" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°1'12.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°12'7.94" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°53'33.55" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|28°32'50.56" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|24°49'35.52" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|5°55'17.92" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|6°12'8.03" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°53'33.61" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|28°32'50.53" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|24°49'35.55" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|5°55'17.88" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|10°57'44.84" |Taurus|Dabaran|Moon|
 
 

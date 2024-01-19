@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:11:20 |
+| Fajr (Dawn) | 05:11:19 |
 | Sunrise | 06:37:24 |
 | Dhuhr (Noon) | 11:50:48 |
 | Medium Coeli | 11:50:48 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°27'15.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°29'14.81" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|5°27'15.01" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'14.71" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|13°56'19.15" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°39'3.25" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°47'6.94" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|11°10'6.65" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|2°56'5.26" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|2°39'4.31" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°47'6.34" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|11°10'6.58" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°0'29.56" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°27'15.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°29'14.23" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|5°27'14.83" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'14.23" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°56'19.15" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|2°39'3.25" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|29°47'6.94" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|11°10'6.65" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|11°10'6.65" |Capricorn|SaadAlDhabib|Mars|
 |☾ Moon|Direct|2°56'5.26" |Cancer|Nathrah|Venus|
 
 

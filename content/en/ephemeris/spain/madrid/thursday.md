@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:25:03 |
 | Medium Coeli | 13:25:03 |
 | Sunset | 18:15:35 |
-| Maghrib | 18:35:33 |
+| Maghrib | 18:35:32 |
 | Isha (Night) | 19:31:16 |
 | Sharia Midnight | 00:41:47 |
 | Imum Coeli | 01:25:13 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°55'51.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°8'56.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°15'23.63" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|27°41'16.86" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|23°47'20.61" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|4°52'23.18" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|0°19'2.90" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°8'58.01" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°15'22.77" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|27°41'16.83" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|23°47'20.63" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|4°52'25.68" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|29°36'56.54" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Mars|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°55'51.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°8'56.65" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|6°8'56.65" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°15'23.63" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|27°41'17.16" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|23°47'23.60" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|4°52'25.68" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|4°52'25.68" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|29°36'56.54" |Aries|Thurayya|Venus|
 
 

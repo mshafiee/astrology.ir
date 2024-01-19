@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'53.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°11'20.35" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°44'12.99" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|28°20'13.84" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|24°34'22.05" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|5°39'48.28" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|8°11'11.41" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°11'21.52" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°44'7.41" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|28°20'1.04" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|24°34'12.80" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|5°39'37.13" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|8°37'30.98" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°59'53.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°11'21.61" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°59'53.45" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|6°11'21.61" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°44'7.46" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|28°20'1.01" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|24°34'12.83" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|5°39'37.09" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|5°39'37.09" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|8°37'32.70" |Taurus|Dabaran|Mercury|
 
 

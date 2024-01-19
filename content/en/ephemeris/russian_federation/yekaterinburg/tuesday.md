@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:09:12 |
 | Sunset | 17:05:48 |
 | Maghrib | 17:35:33 |
-| Isha (Night) | 18:54:43 |
+| Isha (Night) | 18:54:42 |
 | Sharia Midnight | 00:07:00 |
 | Imum Coeli | 01:09:19 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°27'8.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°29'10.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°55'32.32" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°37'59.61" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°45'50.40" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|11°8'43.15" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|3°1'3.04" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|5°27'8.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'10.31" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°55'31.91" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|2°37'58.95" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°45'48.14" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|11°8'40.92" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°19'47.86" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°27'8.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°29'10.31" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'10.31" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°55'31.91" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|2°37'58.95" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|29°45'49.49" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|11°8'42.28" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|3°8'34.07" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°8'42.28" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|3°19'47.86" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

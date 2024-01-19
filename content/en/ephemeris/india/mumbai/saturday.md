@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:10:11 |
-| Sunrise | 07:14:32 |
+| Sunrise | 07:14:31 |
 | Dhuhr (Noon) | 12:49:16 |
 | Medium Coeli | 12:49:16 |
 | Sunset | 18:24:10 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:50:22 |
-| Sunrise | 07:14:32 |
+| Sunrise | 07:14:31 |
 | Dhuhr (Noon) | 12:49:16 |
 | Medium Coeli | 12:49:16 |
 | Sunset | 18:24:10 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:54:46 |
-| Sunrise | 07:14:32 |
+| Sunrise | 07:14:31 |
 | Dhuhr (Noon) | 12:49:16 |
 | Medium Coeli | 12:49:16 |
 | Sunset | 18:24:10 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°7'2.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°15'44.28" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°34'52.85" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|29°28'36.61" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|25°56'54.35" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|7°4'35.39" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°59'46.37" |Aries|Butain|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°15'44.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°34'53.23" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|29°28'37.57" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|25°56'54.97" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°4'36.17" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°57'11.50" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°7'2.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°15'44.28" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°34'52.85" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|29°28'36.61" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|25°56'54.35" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|7°4'35.39" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|22°59'46.37" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|6°15'44.23" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°34'50.30" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|29°28'28.62" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|25°56'51.76" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°4'30.98" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°42'20.96" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

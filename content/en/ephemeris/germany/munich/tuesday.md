@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°27'51.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°29'40.93" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°0'34.50" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°44'46.51" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°54'1.70" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|11°17'40.35" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°24'6.04" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|5°27'51.97" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'41.13" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°0'36.16" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|2°44'50.92" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°54'4.00" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|11°17'43.38" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|4°3'50.87" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°27'51.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°29'41.03" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'41.03" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|14°0'34.56" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|2°44'46.53" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|2°44'46.51" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|29°54'1.70" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|11°17'40.35" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|11°17'40.35" |Capricorn|SaadAlDhabib|Mars|
 |☾ Moon|Direct|4°24'6.04" |Cancer|Nathrah|Venus|
 
 

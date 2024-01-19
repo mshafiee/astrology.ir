@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 09:15:31 |
 | Dhuhr (Noon) | 13:17:37 |
 | Medium Coeli | 13:17:37 |
-| Sunset | 17:20:16 |
+| Sunset | 17:20:15 |
 | Maghrib | 17:23:01 |
 | Isha (Night) | 19:32:13 |
 | Sharia Midnight | 00:11:28 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 08:04:45|Night duration: 15:53:54|
+|Duration of the day: 08:04:44|Night duration: 15:53:55|
 |Every hour duration: 01:09:15|Every hour duration: 02:16:16|
 
  
@@ -264,22 +264,22 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Sun|Ruler|09:15:31|10:24:45|
-|Mid-morning|Venus|Servant|10:24:46|11:34:00|
-|Late morning|Mercury|Servant|11:34:01|12:43:15|
-|Noon|Moon|Servant|12:43:16|13:52:30|
-|Early afternoon|Saturn|Servant|13:52:31|15:01:45|
-|Mid-afternoon|Jupiter|Servant|15:01:46|16:11:00|
-|Late afternoon|Mars|Servant|16:11:01|17:20:15|
+|Early morning|Sun|Ruler|09:15:31|10:24:44|
+|Mid-morning|Venus|Servant|10:24:45|11:33:59|
+|Late morning|Mercury|Servant|11:34:00|12:43:14|
+|Noon|Moon|Servant|12:43:15|13:52:29|
+|Early afternoon|Saturn|Servant|13:52:30|15:01:44|
+|Mid-afternoon|Jupiter|Servant|15:01:45|16:10:59|
+|Late afternoon|Mars|Servant|16:11:00|17:20:14|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Jupiter|Ruler|17:20:16|19:36:31|
-|Late evening|Mars|Servant|19:36:32|21:52:47|
-|Midnight|Sun|Servant|21:52:48|00:09:03|
-|Late at night|Venus|Servant|00:09:04|02:25:20|
-|Rooster song|Mercury|Servant|02:25:21|04:41:36|
+|Evening|Jupiter|Ruler|17:20:15|19:36:30|
+|Late evening|Mars|Servant|19:36:31|21:52:46|
+|Midnight|Sun|Servant|21:52:47|00:09:03|
+|Late at night|Venus|Servant|00:09:04|02:25:19|
+|Rooster song|Mercury|Servant|02:25:20|04:41:36|
 |False Dawn|Moon|Servant|04:41:37|06:57:52|
 |Dawn|Saturn|Servant|06:57:53|09:14:09|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°13'52.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°20'7.94" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°23'1.21" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|0°33'28.53" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°15'17.99" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|8°26'47.05" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°50'35.16" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|6°20'8.37" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°23'0.75" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|0°33'27.93" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|27°15'16.80" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|8°26'45.95" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°3'8.39" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°13'52.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°20'8.37" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|6°20'8.37" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°23'0.75" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|0°33'27.93" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|27°15'17.99" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|8°26'47.05" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°50'35.16" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|27°15'16.80" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°26'45.95" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|7°3'8.39" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

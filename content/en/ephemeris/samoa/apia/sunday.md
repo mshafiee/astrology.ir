@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:38:04 |
 | Medium Coeli | 12:38:04 |
 | Sunset | 19:02:35 |
-| Maghrib | 19:17:35 |
+| Maghrib | 19:17:34 |
 | Isha (Night) | 20:02:29 |
 | Sharia Midnight | 00:03:45 |
 | Imum Coeli | 00:38:12 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°17'38.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°22'37.95" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°49'26.52" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°9'6.77" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°58'18.02" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|9°12'19.28" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|15°10'46.75" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|5°17'38.75" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°22'38.04" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°49'26.57" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°8'50.27" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|27°58'8.06" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|9°12'19.31" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°10'46.76" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°17'38.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°22'37.95" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|5°17'38.64" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|6°22'37.95" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°49'26.52" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|1°9'6.77" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|27°58'18.02" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|9°12'31.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|9°12'31.85" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|14°6'58.16" |Gemini|HanAh|Mars|
 
 

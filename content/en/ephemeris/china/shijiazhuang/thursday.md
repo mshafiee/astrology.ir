@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°0'4.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°11'27.27" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°45'33.91" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|28°22'2.71" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|24°36'33.91" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|5°42'2.09" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|8°36'13.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°11'26.66" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°45'34.06" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|28°22'2.26" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|24°36'34.95" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|5°42'2.78" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|8°16'21.58" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°0'4.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°11'27.27" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°45'33.91" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|28°22'2.71" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|6°11'26.66" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°45'34.06" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|28°22'2.26" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|24°36'34.95" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|5°42'2.78" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|5°42'2.78" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|8°16'21.58" |Taurus|Thurayya|Mercury|
 
 

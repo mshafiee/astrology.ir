@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:37:37 |
+| Fajr (Dawn) | 06:37:38 |
 | Sunrise | 08:31:32 |
 | Dhuhr (Noon) | 13:04:05 |
 | Medium Coeli | 13:04:05 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'7.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°28'27.74" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°28'27.74" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|13°48'33.33" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°28'36.85" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°34'28.66" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|10°56'19.67" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|1°3'50.44" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|2°28'33.21" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°34'29.45" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|10°56'19.17" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|0°55'43.11" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°26'7.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°28'26.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°48'33.23" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|2°28'34.53" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|29°34'30.17" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|10°56'19.67" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|1°3'50.44" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|5°26'7.85" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|6°28'27.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°48'33.27" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|2°28'36.87" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|29°34'29.45" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|10°56'19.17" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|0°55'43.11" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

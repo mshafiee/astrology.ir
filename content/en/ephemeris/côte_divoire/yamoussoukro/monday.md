@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°21'16.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°25'5.52" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°25'5.52" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|13°14'46.82" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|1°43'12.91" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|28°39'31.91" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|9°56'46.84" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°15'31.76" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|28°39'29.09" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|9°56'43.43" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|21°37'7.90" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°21'16.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°25'5.65" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°14'45.05" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|1°43'8.68" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|5°21'16.43" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|6°25'5.74" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°14'45.11" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|1°43'8.66" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|28°39'29.09" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|9°56'43.43" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|9°56'43.43" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|21°37'7.90" |Gemini|Dhira|Sun|
 
 

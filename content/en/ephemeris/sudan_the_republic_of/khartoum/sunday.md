@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:05:31 |
-| Sunrise | 06:20:26 |
+| Sunrise | 06:20:25 |
 | Dhuhr (Noon) | 12:00:59 |
 | Medium Coeli | 12:00:59 |
 | Sunset | 17:41:41 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:13 |
-| Sunrise | 06:20:26 |
+| Sunrise | 06:20:25 |
 | Dhuhr (Noon) | 12:00:59 |
 | Medium Coeli | 12:00:59 |
 | Sunset | 17:41:41 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:02:03 |
-| Sunrise | 06:20:26 |
+| Sunrise | 06:20:25 |
 | Dhuhr (Noon) | 12:00:59 |
 | Medium Coeli | 12:00:59 |
 | Sunset | 17:41:41 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°14'10.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°20'19.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°20'19.50" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°25'5.30" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|0°36'18.18" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|27°18'39.58" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|8°30'21.30" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|8°30'21.30" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|7°18'41.18" |Taurus|Thurayya|Mercury|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°14'10.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°20'19.50" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|6°20'19.50" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°25'5.30" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|0°36'18.18" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|27°18'39.58" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|8°30'21.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|8°30'21.30" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|7°18'41.18" |Gemini|HanAh|Jupiter|
 
 
