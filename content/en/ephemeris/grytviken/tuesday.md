@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 16:10:36|Night duration: 07:51:23|
+|Duration of the day: 16:10:36|Night duration: 07:51:24|
 |Every hour of day duration: 01:20:53|Every hour of night duration: 00:39:17|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|20:42:28|21:21:43|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|21:21:44|22:01:00|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|22:01:01|22:40:17|Attracting connection and suitors|
-|4|Sun|Servant|22:40:18|23:19:34|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|23:19:35|23:58:51|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|23:58:52|00:38:08|Repelling negative energy of evil eye|
-|7|Moon|Servant|00:38:09|01:17:25|Attracting love and hearts|
-|8|Saturn|Ruler|01:17:26|01:56:42|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|01:56:43|02:35:59|Heart tenderness|
-|10|Mars|Servant|02:36:00|03:15:16|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|03:15:17|03:54:33|Attracting connection and suitors|
-|12|Venus|Servant|03:54:34|04:33:50|Hatred, corruption and creating negative energy for disruption|
+|1|Saturn|Ruler|20:42:28|21:21:44|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|21:21:45|22:01:01|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|22:01:02|22:40:18|Attracting connection and suitors|
+|4|Sun|Servant|22:40:19|23:19:35|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|23:19:36|23:58:52|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|23:58:53|00:38:09|Repelling negative energy of evil eye|
+|7|Moon|Servant|00:38:10|01:17:26|Attracting love and hearts|
+|8|Saturn|Ruler|01:17:27|01:56:43|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|01:56:44|02:36:00|Heart tenderness|
+|10|Mars|Servant|02:36:01|03:15:17|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|03:15:18|03:54:34|Attracting connection and suitors|
+|12|Venus|Servant|03:54:35|04:33:51|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°34'21.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°34'20.90" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°34'20.90" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|14°45'24.01" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|3°45'1.24" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|1°6'54.73" |Sagittarius|Shaulah|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°34'21.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°34'20.90" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°34'20.90" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|14°45'24.01" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|3°45'1.24" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|1°6'54.73" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|12°37'55.76" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|16°41'56.94" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|1°6'54.69" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|12°37'55.78" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|16°29'48.62" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
+|☾ Moon|Mars|Mars|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}

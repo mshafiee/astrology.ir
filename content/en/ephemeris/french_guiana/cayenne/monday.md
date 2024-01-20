@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:30:05 |
-| Sunrise | 06:44:04 |
+| Sunrise | 06:44:05 |
 | Dhuhr (Noon) | 12:40:48 |
 | Medium Coeli | 12:40:48 |
 | Sunset | 18:37:33 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°28'39.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°30'14.04" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°30'14.04" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|14°6'0.51" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|2°52'6.81" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|0°2'51.76" |Sagittarius|Shaulah|Mercury|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°28'39.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°30'14.04" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°30'14.04" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|14°6'0.51" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|2°52'6.81" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|0°2'51.76" |Capricorn|SaadAlDhabib|Jupiter|

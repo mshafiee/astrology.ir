@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:35:31 |
 | Medium Coeli | 12:35:31 |
 | Sunset | 19:29:25 |
-| Maghrib | 19:49:19 |
+| Maghrib | 19:49:18 |
 | Isha (Night) | 20:40:10 |
 | Sharia Midnight | 23:49:53 |
 | Imum Coeli | 00:35:40 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°8'53.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°16'54.97" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°48'1.37" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|29°46'20.98" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|26°18'18.65" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°26'53.09" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°41'55.69" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|6°16'54.97" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°48'1.43" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|29°46'20.95" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|26°18'19.51" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°26'53.80" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|26°33'24.07" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Jupiter|Saturn|Virgo|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°8'53.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°16'54.55" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°16'54.64" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|11°48'1.77" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|29°46'21.33" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|26°18'19.51" |Sagittarius|Baldah|Saturn|

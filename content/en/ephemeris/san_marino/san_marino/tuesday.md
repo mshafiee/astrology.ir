@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°27'47.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°29'37.77" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°0'4.09" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°44'5.95" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°53'12.20" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|11°16'46.32" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°12'1.96" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|5°27'47.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°29'37.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°0'4.15" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|2°44'5.93" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°53'12.24" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|11°16'46.30" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|4°12'0.85" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,20 +338,20 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°27'47.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°29'37.77" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°0'4.09" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|2°44'5.95" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|29°53'4.75" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|11°16'37.06" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|5°14'53.40" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|5°27'47.58" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°29'38.97" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°59'58.95" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|2°43'54.05" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|29°53'3.58" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|11°16'36.28" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|5°23'41.59" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Venus|Venus|Venus|Moon|
-|♂ Mars|Venus|Jupiter|Venus|Mars|
+|♂ Mars|Jupiter|Jupiter|Venus|Mars|
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Venus|Mars|

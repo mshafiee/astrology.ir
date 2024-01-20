@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°0'56.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°11'58.56" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°51'41.13" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|28°30'19.30" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|24°46'32.03" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|5°52'11.04" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°29'27.37" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|6°11'57.37" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°51'40.32" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|28°30'15.43" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|24°46'32.45" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|5°52'10.22" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|9°49'46.44" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Moon|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°0'56.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°11'58.33" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°11'58.33" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°51'41.40" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|28°30'19.72" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|24°46'32.73" |Sagittarius|Baldah|Saturn|

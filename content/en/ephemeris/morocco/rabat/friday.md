@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:45:55 |
 | Isha (Night) | 20:08:19 |
 | Sharia Midnight | 00:53:37 |
-| Imum Coeli | 01:38:02 |
+| Imum Coeli | 01:38:03 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:45:55 |
 | Isha (Night) | 19:58:22 |
 | Sharia Midnight | 01:01:04 |
-| Imum Coeli | 01:38:02 |
+| Imum Coeli | 01:38:03 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°2'11.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°12'43.76" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°12'43.76" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|11°0'31.07" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|28°42'14.24" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|25°0'55.73" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°2'11.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°12'43.75" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°0'31.10" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|28°42'14.31" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|25°0'55.80" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|6°6'52.86" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|12°59'26.44" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|5°2'10.76" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°12'44.70" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°0'26.98" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|28°42'4.66" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|25°0'55.73" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|6°6'52.78" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|12°59'57.80" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

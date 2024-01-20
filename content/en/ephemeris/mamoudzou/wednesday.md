@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°33'19.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°33'35.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°33'35.70" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|14°38'19.28" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|3°35'32.03" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°55'24.17" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|12°25'7.44" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|14°47'24.79" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|0°55'19.49" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|12°25'4.22" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|15°11'14.67" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°33'19.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°33'35.01" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°38'17.12" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|3°35'25.25" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|0°55'21.65" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|12°25'7.44" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|14°47'24.79" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|6°33'35.70" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°38'19.28" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|3°35'32.03" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|0°55'19.49" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|12°25'4.22" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|14°17'11.10" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

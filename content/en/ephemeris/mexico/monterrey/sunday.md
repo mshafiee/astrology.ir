@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°23'7.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°26'22.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°27'40.69" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°0'33.44" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°0'31.04" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|10°19'26.93" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|24°59'18.23" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|6°26'23.09" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°27'35.21" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|2°0'20.59" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°0'21.74" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|10°19'15.92" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|26°12'58.26" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Jupiter|Venus|Mars|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°23'7.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°26'22.01" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°26'22.01" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°27'40.69" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|2°0'33.44" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|29°0'30.98" |Sagittarius|Baldah|Saturn|

@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 09:15:31 |
 | Dhuhr (Noon) | 13:17:37 |
 | Medium Coeli | 13:17:37 |
-| Sunset | 17:20:15 |
+| Sunset | 17:20:16 |
 | Maghrib | 17:48:16 |
 | Isha (Night) | 19:03:42 |
-| Sharia Midnight | 00:18:32 |
+| Sharia Midnight | 00:18:33 |
 | Imum Coeli | 01:17:45 |
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°13'52.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°20'8.37" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°20'8.37" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°23'0.75" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|0°33'27.93" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|27°15'16.80" |Scorpio|Shaulah|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°13'52.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°20'8.37" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°20'8.37" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°23'0.75" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|0°33'27.93" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|27°15'16.80" |Sagittarius|Baldah|Saturn|

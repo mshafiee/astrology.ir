@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:40:14 |
 | Maghrib | 18:57:06 |
 | Isha (Night) | 19:38:45 |
-| Sharia Midnight | 23:45:08 |
+| Sharia Midnight | 23:45:09 |
 | Imum Coeli | 00:22:34 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°18'24.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°23'9.09" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°23'9.09" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°54'49.72" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°16'21.83" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|28°7'3.95" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°21'54.30" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|15°37'47.19" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°16'18.70" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|28°7'4.52" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|9°21'53.80" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°21'31.48" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°18'24.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°23'9.09" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°54'49.72" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|1°16'6.92" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|28°6'51.80" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°21'40.57" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|17°12'24.38" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|6°23'9.00" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°54'49.66" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|1°16'21.85" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|28°7'3.91" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|9°21'54.33" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|15°21'31.48" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |☿ Mercury|Mars|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
