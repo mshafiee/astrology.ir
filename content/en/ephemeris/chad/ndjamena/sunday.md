@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:10:57 |
 | Sunset | 17:56:57 |
 | Maghrib | 17:59:34 |
-| Isha (Night) | 19:12:07 |
+| Isha (Night) | 19:12:06 |
 | Sharia Midnight | 23:33:29 |
 | Imum Coeli | 00:11:06 |
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|6°20'31.03" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°27'7.50" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|0°39'2.83" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°21'56.64" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|8°33'48.87" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°47'42.06" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|27°21'58.44" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|8°33'51.95" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°55'45.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°14'27.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°20'30.29" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°27'5.54" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|0°38'56.99" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|27°21'56.64" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°33'48.90" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°47'41.61" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|6°20'31.03" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°27'7.50" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|0°39'2.83" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|27°21'58.28" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°33'51.95" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|7°55'45.04" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:48:30 |
 | Dhuhr (Noon) | 11:52:41 |
 | Medium Coeli | 11:52:41 |
-| Sunset | 16:57:12 |
+| Sunset | 16:57:11 |
 | Maghrib | 16:58:23 |
 | Isha (Night) | 18:22:30 |
 | Sharia Midnight | 23:07:30 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°25'23.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°27'56.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°43'24.84" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°21'42.81" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°26'6.86" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|10°47'13.42" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|29°28'31.39" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|6°27'56.31" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°43'25.07" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|2°21'43.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°26'7.40" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|10°47'13.94" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|29°23'51.70" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°25'23.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°27'56.26" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°43'25.14" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|2°21'43.30" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|29°26'7.57" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|10°47'14.10" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|29°22'27.86" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|6°27'56.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°43'24.84" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|2°21'42.81" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|29°26'6.86" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|10°47'13.42" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|29°23'51.70" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:33:35 |
+| Fajr (Dawn) | 06:33:34 |
 | Sunrise | 08:34:16 |
 | Dhuhr (Noon) | 13:03:14 |
 | Medium Coeli | 13:03:14 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°6'43.35" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|6°15'32.61" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°32'39.28" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|29°25'35.24" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|25°53'16.81" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°0'49.22" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|22°28'0.88" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|11°32'39.16" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|29°25'32.99" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|25°53'18.45" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°0'49.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|21°48'1.37" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Saturn|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

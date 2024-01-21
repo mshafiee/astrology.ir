@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:59:12 |
 | Medium Coeli | 11:59:12 |
 | Sunset | 17:16:32 |
-| Maghrib | 17:17:39 |
-| Isha (Night) | 18:47:39 |
+| Maghrib | 17:17:38 |
+| Isha (Night) | 18:47:38 |
 | Sharia Midnight | 23:16:06 |
 | Imum Coeli | 23:59:20 |
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|6°20'12.88" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°23'52.45" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|0°34'39.31" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|27°16'38.37" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°28'12.62" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°23'15.71" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|27°16'40.93" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°28'7.29" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°1'4.98" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Jupiter|Libra|Moon|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}

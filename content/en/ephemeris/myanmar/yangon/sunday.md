@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°13'2.18" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|6°19'35.08" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°17'5.72" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|0°25'27.43" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°5'40.63" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|8°16'35.76" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|4°53'52.48" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°17'8.30" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|0°25'35.34" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|27°5'42.99" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|8°16'39.88" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°3'28.50" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Virgo|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°13'2.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°19'34.98" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°17'8.25" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|0°25'35.36" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|27°5'42.96" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°16'39.92" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°3'27.86" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|5°13'2.18" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°19'35.08" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°17'8.30" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|0°25'35.34" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|27°5'42.99" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°16'39.65" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°3'25.10" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

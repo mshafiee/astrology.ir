@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:38:37|Night duration: 13:21:08|
+|Duration of the day: 10:38:37|Night duration: 13:21:07|
 |Every hour duration: 01:31:14|Every hour duration: 01:54:27|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Jupiter|Ruler|17:58:36|19:53:01|
 |Late evening|Mars|Servant|19:53:02|21:47:28|
 |Midnight|Sun|Servant|21:47:29|23:41:55|
-|Late at night|Venus|Servant|23:41:56|01:36:22|
-|Rooster song|Mercury|Servant|01:36:23|03:30:49|
-|False Dawn|Moon|Servant|03:30:50|05:25:16|
-|Dawn|Saturn|Servant|05:25:17|07:19:43|
+|Late at night|Venus|Servant|23:41:56|01:36:21|
+|Rooster song|Mercury|Servant|01:36:22|03:30:48|
+|False Dawn|Moon|Servant|03:30:49|05:25:15|
+|Dawn|Saturn|Servant|05:25:16|07:19:42|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°19'17.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°23'44.80" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°0'56.52" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°24'34.35" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|28°17'1.23" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°32'34.18" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|17°31'33.78" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|6°23'44.98" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°0'50.82" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°24'19.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|28°16'52.44" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|9°32'22.94" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|18°28'54.40" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°19'17.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°23'44.72" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°0'56.76" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|1°24'34.87" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|28°17'0.78" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°32'33.68" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|17°35'18.90" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|6°23'44.98" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°0'50.82" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|1°24'19.65" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|28°16'52.44" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|9°32'22.94" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|18°28'54.40" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

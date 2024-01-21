@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 00:55:52 |
-| Sunrise | 04:33:52 |
+| Sunrise | 04:33:51 |
 | Dhuhr (Noon) | 12:38:00 |
 | Medium Coeli | 12:38:00 |
 | Sunset | 20:40:57 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:33:52 |
+| Sunrise | 04:33:51 |
 | Dhuhr (Noon) | 12:38:00 |
 | Medium Coeli | 12:38:00 |
 | Sunset | 20:40:57 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 16:07:05|Night duration: 07:54:55|
+|Duration of the day: 16:07:06|Night duration: 07:54:55|
 |Every hour of day duration: 01:20:35|Every hour of night duration: 00:39:35|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|04:33:52|05:54:26|Acceptance of needs|
-|2|Moon|Servant|05:54:27|07:15:01|Unfortunate, no task is suitable|
-|3|Saturn|Servant|07:15:02|08:35:37|For overcoming diseases|
-|4|Jupiter|Servant|08:35:38|09:56:12|For all tasks, extremely auspicious|
-|5|Mars|Servant|09:56:13|11:16:48|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:16:49|12:37:23|Outer and inner journey|
+|1|Mercury|Ruler|04:33:51|05:54:25|Acceptance of needs|
+|2|Moon|Servant|05:54:26|07:15:01|Unfortunate, no task is suitable|
+|3|Saturn|Servant|07:15:02|08:35:36|For overcoming diseases|
+|4|Jupiter|Servant|08:35:37|09:56:12|For all tasks, extremely auspicious|
+|5|Mars|Servant|09:56:13|11:16:47|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:16:48|12:37:23|Outer and inner journey|
 |7|Venus|Servant|12:37:24|13:57:58|Attracting love and hearts and fortune|
 |8|Mercury|Ruler|13:57:59|15:18:34|Being invisible to the people|
 |9|Moon|Servant|15:18:35|16:39:09|Separation, causing enmity|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°30'54.74" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|4°46'6.55" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|2°20'52.77" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|14°0'25.33" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|28°50'44.33" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|14°0'17.90" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|29°45'9.44" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

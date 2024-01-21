@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 17:50:18 |
 | Maghrib | 17:51:32 |
 | Isha (Night) | 19:22:14 |
-| Sharia Midnight | 00:03:34 |
+| Sharia Midnight | 00:03:33 |
 | Imum Coeli | 00:49:40 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°7'51.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°16'15.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°40'40.56" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|29°36'23.90" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|26°6'20.43" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°14'23.61" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|24°37'19.82" |Aries|Butain|Venus|
+|♄ Saturn|Direct|5°7'51.49" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°16'15.46" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°40'40.61" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|29°36'25.17" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|26°6'20.74" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°14'24.17" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|24°43'7.17" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°7'51.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°16'15.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°40'40.61" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|29°36'25.17" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|26°6'20.70" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°14'24.21" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|24°43'5.89" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|6°16'15.28" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°40'40.63" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|29°36'24.98" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|26°6'20.98" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°14'24.31" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|24°38'23.82" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
