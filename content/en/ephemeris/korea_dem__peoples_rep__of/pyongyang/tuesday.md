@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°32'13.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°32'48.33" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°30'46.09" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|3°25'21.52" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°43'7.38" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|12°11'37.05" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|12°35'31.74" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|6°32'48.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°30'40.77" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|3°25'8.46" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|0°42'59.03" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|12°11'26.96" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|13°50'59.09" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Venus|Venus|Mars|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°32'13.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°32'48.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°30'46.09" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|3°25'21.52" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°32'48.87" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°30'40.77" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|3°25'8.46" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|0°43'7.38" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|12°11'37.05" |Capricorn|SaadAlDhabib|Mars|
 |☾ Moon|Direct|12°35'31.74" |Cancer|Nathrah|Mercury|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°16'33.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°21'56.28" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°41'45.92" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|0°58'39.66" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°45'47.78" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|8°59'9.95" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|13°24'13.09" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|6°21'54.74" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°41'52.45" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|0°58'54.54" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|27°45'58.90" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|8°59'22.91" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|12°5'16.15" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°16'33.86" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°21'56.28" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°41'45.92" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|0°58'39.66" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|27°45'47.78" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°59'9.95" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|6°21'54.61" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°41'52.51" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|0°58'54.51" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|27°45'59.15" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°59'23.09" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|13°24'13.09" |Gemini|HanAh|Mars|
 
 

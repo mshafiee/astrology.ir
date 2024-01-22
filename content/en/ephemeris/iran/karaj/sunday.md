@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°14'0.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°20'13.27" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°23'55.57" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|0°34'43.33" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°16'45.93" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|8°28'20.71" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°7'32.13" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°20'13.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°23'55.47" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|0°34'43.01" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|27°16'45.85" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|8°28'20.55" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°7'15.78" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|5°14'0.20" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|6°20'13.23" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°23'55.47" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|0°34'43.33" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|27°16'45.93" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°28'20.71" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°7'32.13" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|0°34'43.01" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|27°16'47.08" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°28'21.94" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°57'47.85" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

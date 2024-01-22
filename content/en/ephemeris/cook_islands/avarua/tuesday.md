@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°37'1.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°36'20.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°3'43.90" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|4°9'37.50" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|1°36'41.05" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|13°11'1.48" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|22°2'16.19" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|5°37'1.29" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°36'19.44" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|15°3'40.02" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|4°9'26.38" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|1°36'36.21" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|13°10'54.58" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|22°59'59.73" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Venus|Moon|Taurus|Sun|Jupiter|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°37'1.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°36'18.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°3'47.21" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|6°36'20.14" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°3'43.90" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|4°9'37.50" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|1°36'41.05" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|1°36'36.21" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|13°11'1.48" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|22°2'16.19" |Cancer|Tarf|Moon|
 

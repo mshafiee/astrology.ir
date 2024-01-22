@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:52:26 |
 | Sunset | 16:57:14 |
 | Maghrib | 16:58:26 |
-| Isha (Night) | 18:27:11 |
+| Isha (Night) | 18:27:12 |
 | Sharia Midnight | 23:07:28 |
 | Imum Coeli | 23:52:35 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°18'52.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°23'27.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°23'27.80" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°58'2.18" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|1°20'39.45" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|28°12'17.14" |Scorpio|Shaulah|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°18'52.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°23'27.89" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°58'2.17" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|1°20'39.42" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|28°12'17.14" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°27'29.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|16°46'31.34" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|6°23'26.46" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°58'0.32" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|1°20'32.78" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|28°12'16.15" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|9°27'26.77" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|16°37'45.60" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |☿ Mercury|Mars|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
