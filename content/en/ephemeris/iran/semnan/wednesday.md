@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:08:20 |
 | Sunset | 17:14:49 |
 | Maghrib | 17:20:28 |
-| Isha (Night) | 18:39:55 |
+| Isha (Night) | 18:39:54 |
 | Sharia Midnight | 23:23:15 |
 | Imum Coeli | 00:08:27 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°33'31.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°33'44.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°39'40.27" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|3°37'19.65" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°57'35.86" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|12°27'36.94" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|14°55'45.79" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°33'44.45" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°39'40.10" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|3°37'19.04" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|0°57'35.56" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|12°27'36.48" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|14°59'6.44" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°33'31.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°33'44.44" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°39'40.33" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|3°37'19.63" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|0°57'35.86" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|12°27'36.94" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°33'44.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°39'40.10" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|3°37'19.04" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|0°57'35.56" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|12°27'36.48" |Capricorn|SaadAlDhabib|Mars|
 |☾ Moon|Direct|14°59'6.44" |Cancer|Tarf|Mercury|
 
 

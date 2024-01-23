@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°21'26.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°25'11.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°15'58.68" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|5°21'26.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°25'12.81" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°15'56.52" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|1°44'43.63" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|28°41'25.36" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°58'53.37" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°22'26.22" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|9°58'48.53" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°8'3.31" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Jupiter|Venus|Jupiter|Moon|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°21'26.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°25'12.91" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|6°25'12.91" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°15'56.52" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|1°44'43.63" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|28°41'25.36" |Sagittarius|Baldah|Saturn|
