@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:19:05 |
 | Medium Coeli | 12:19:05 |
 | Sunset | 18:06:20 |
-| Maghrib | 18:23:10 |
+| Maghrib | 18:23:09 |
 | Isha (Night) | 19:03:59 |
 | Sharia Midnight | 23:42:27 |
 | Imum Coeli | 00:19:12 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'57.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°29'2.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°54'16.13" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°36'19.71" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°43'46.19" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|11°6'28.10" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|2°15'36.87" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'1.45" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°54'14.55" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|2°36'14.48" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°43'44.64" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|11°6'25.36" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|2°29'3.83" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'57.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°29'2.04" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°54'16.07" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|2°36'19.73" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|29°43'46.16" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|11°6'28.12" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|2°15'37.92" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'2.14" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°54'16.13" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|2°36'19.71" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|29°43'46.19" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|11°6'28.10" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|2°15'36.87" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:57:47 |
 | Dhuhr (Noon) | 12:57:05 |
 | Medium Coeli | 12:57:05 |
-| Sunset | 17:56:47 |
+| Sunset | 17:56:46 |
 | Maghrib | 17:59:53 |
 | Isha (Night) | 19:28:57 |
 | Sharia Midnight | 00:05:39 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:57:47 |
 | Dhuhr (Noon) | 12:57:05 |
 | Medium Coeli | 12:57:05 |
-| Sunset | 17:56:47 |
+| Sunset | 17:56:46 |
 | Maghrib | 17:59:53 |
 | Isha (Night) | 19:31:35 |
 | Sharia Midnight | 00:09:36 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°56'5.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°51'2.11" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|17°13'57.96" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|7°4'11.39" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|5°8'14.13" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|17°10'38.80" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|26°25'52.41" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|6°51'2.33" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|17°13'57.70" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|7°4'11.09" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|5°8'13.54" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|17°10'38.29" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|26°25'42.31" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

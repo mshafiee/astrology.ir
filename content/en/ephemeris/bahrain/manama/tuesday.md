@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'55.52" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Post-Retrograde Shadow|6°29'0.94" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°54'3.30" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|2°36'1.85" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°43'25.33" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|11°6'5.21" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|2°19'16.70" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|13°53'59.61" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|2°35'50.68" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°43'21.18" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|11°5'58.77" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|2°53'50.15" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'55.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°29'0.84" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°54'3.24" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|2°36'1.87" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|29°43'25.29" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|11°6'5.24" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|2°19'17.75" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°29'0.94" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°54'3.30" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|2°36'1.85" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|29°43'25.33" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|11°6'5.21" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|2°19'16.70" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
