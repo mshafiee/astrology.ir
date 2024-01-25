@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°5'33.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°58'47.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°17'58.14" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|8°29'45.28" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|6°52'5.30" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|19°10'58.79" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|13°37'59.64" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|6°5'33.76" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|6°58'47.13" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°17'58.08" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|8°29'48.67" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|6°52'5.06" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|19°10'59.77" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|13°0'14.14" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Mars|Mercury|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°5'33.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°58'46.08" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°17'57.56" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|6°5'33.76" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|6°58'47.13" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°17'58.08" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|8°29'45.28" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|6°52'5.30" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|19°10'58.79" |Capricorn|SaadAlBula|Mars|

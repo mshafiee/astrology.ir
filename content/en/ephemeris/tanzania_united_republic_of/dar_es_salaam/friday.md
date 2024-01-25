@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:00:42 |
-| Sunrise | 06:22:07 |
+| Sunrise | 06:22:08 |
 | Dhuhr (Noon) | 12:35:18 |
 | Medium Coeli | 12:35:18 |
 | Sunset | 18:48:24 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:07:15 |
-| Sunrise | 06:22:07 |
+| Sunrise | 06:22:08 |
 | Dhuhr (Noon) | 12:35:18 |
 | Medium Coeli | 12:35:18 |
 | Sunset | 18:48:24 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:26:17|Night duration: 11:34:05|
+|Duration of the day: 12:26:16|Night duration: 11:34:05|
 |Every hour of day duration: 01:02:11|Every hour of night duration: 00:57:50|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:22:07|07:24:17|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:24:18|08:26:28|Attracting auspiciousness|
-|3|Moon|Servant|08:26:29|09:28:40|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:28:41|10:30:51|Unfortunate hour|
-|5|Jupiter|Servant|10:30:52|11:33:03|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:33:04|12:35:14|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:35:15|13:37:25|Promotion and attracting wealth|
-|8|Venus|Ruler|13:37:26|14:39:37|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|14:39:38|15:41:48|Causing separation and homelessness|
-|10|Moon|Servant|15:41:49|16:44:00|Extremely unfortunate|
+|1|Venus|Ruler|06:22:08|07:24:18|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:24:19|08:26:29|Attracting auspiciousness|
+|3|Moon|Servant|08:26:30|09:28:41|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:28:42|10:30:52|Unfortunate hour|
+|5|Jupiter|Servant|10:30:53|11:33:03|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:33:04|12:35:15|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:35:16|13:37:26|Promotion and attracting wealth|
+|8|Venus|Ruler|13:37:27|14:39:37|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|14:39:38|15:41:49|Causing separation and homelessness|
+|10|Moon|Servant|15:41:50|16:44:00|Extremely unfortunate|
 |11|Saturn|Servant|16:44:01|17:46:11|Creating an unfortunate horoscope for anyone|
 |12|Jupiter|Servant|17:46:12|18:48:23|Suitable for asking for a need|
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|6°43'39.10" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|16°10'17.66" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|5°38'56.27" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|3°24'51.26" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|15°12'34.44" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|9°8'37.10" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|3°24'48.07" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|15°12'30.94" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|9°34'29.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°46'43.91" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|6°43'39.10" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|16°10'17.66" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|5°38'56.27" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|3°24'51.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|15°12'34.44" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|9°8'37.10" |Leo|Zubrah|Saturn|
+|♂ Mars|Direct|16°10'17.69" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|5°38'56.31" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|3°24'48.12" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|15°12'31.00" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|9°34'30.03" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
