@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:34:26 |
+| Fajr (Dawn) | 05:34:25 |
 | Sunrise | 06:58:14 |
 | Dhuhr (Noon) | 12:15:35 |
 | Medium Coeli | 12:15:35 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°7'3.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°0'2.60" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°0'2.60" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°28'4.34" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°43'18.30" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|7°8'28.34" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|19°30'8.35" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|15°43'42.55" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°8'28.30" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|19°30'8.36" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|15°44'14.37" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°7'3.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°0'2.60" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°28'4.34" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|8°43'18.30" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|7°8'28.34" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°30'8.35" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|15°43'42.55" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|7°0'2.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°28'4.27" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|8°43'18.27" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|7°8'28.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|19°30'8.36" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|15°44'14.37" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

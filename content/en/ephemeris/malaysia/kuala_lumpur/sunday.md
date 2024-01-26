@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:13:05 |
-| Sunrise | 07:26:27 |
+| Sunrise | 07:26:26 |
 | Dhuhr (Noon) | 13:26:00 |
 | Medium Coeli | 13:26:00 |
 | Sunset | 19:25:36 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:10:58 |
-| Sunrise | 07:26:27 |
+| Sunrise | 07:26:26 |
 | Dhuhr (Noon) | 13:26:00 |
 | Medium Coeli | 13:26:00 |
 | Sunset | 19:25:36 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°5'47.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°58'58.43" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°58'58.43" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°19'29.18" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°31'51.04" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|6°54'32.76" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|19°13'52.09" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|13°16'18.65" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|19°13'52.04" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|13°14'45.11" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°5'47.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°58'58.43" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°19'29.16" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|8°31'51.09" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°58'58.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°19'29.18" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|8°31'51.04" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|6°54'32.65" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|19°13'52.04" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|13°14'45.11" |Virgo|Awwa|Venus|

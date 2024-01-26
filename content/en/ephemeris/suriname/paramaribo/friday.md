@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°55'15.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|6°50'23.80" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°8'14.24" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|6°56'31.06" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|4°58'54.76" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|16°59'57.09" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|25°3'49.18" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|6°50'21.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°8'18.44" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|6°56'38.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|4°59'3.01" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|17°0'5.13" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|24°36'5.68" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -315,7 +315,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Mercury|
 |☉ Sun|Mercury|Mercury|Saturn|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
-|☿ Mercury|Venus|Mercury|Mars|Mercury|
+|☿ Mercury|Mercury|Mercury|Mars|Mercury|
 |☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Mars|Venus|Capricorn|Sun|Jupiter|
 |☿ Mercury|Venus|Mercury|Gemini|Moon|Mercury|
-|☾ Moon|Venus|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Venus|Saturn|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°55'15.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|6°50'21.71" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°50'21.71" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|17°8'18.44" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|6°56'38.52" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|4°59'3.01" |Capricorn|SaadAlDhabib|Jupiter|

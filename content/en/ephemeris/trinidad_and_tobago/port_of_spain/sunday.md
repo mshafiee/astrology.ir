@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°8'54.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°1'35.55" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°1'35.55" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°40'28.43" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°59'53.46" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|7°28'35.04" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|19°53'41.35" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|18°47'18.76" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°28'28.17" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|19°53'34.27" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|19°5'2.56" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|
-|☾ Moon|Mercury|Venus|Jupiter|Sun|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°8'54.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°1'36.63" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°40'24.56" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|8°59'45.65" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|7°28'28.14" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°53'34.30" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|19°5'2.67" |Virgo|Simak|Venus|
+|♃ Jupiter|Direct|7°1'35.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°40'28.43" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|8°59'53.46" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|7°28'35.04" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|19°53'41.35" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|18°47'18.76" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
