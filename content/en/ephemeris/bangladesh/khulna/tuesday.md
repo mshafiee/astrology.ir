@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'56.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°5'0.18" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°7'23.83" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|9°35'43.15" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|8°12'15.52" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|20°45'1.40" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°15'37.76" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|6°12'55.88" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°5'0.79" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°7'28.79" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|9°35'57.08" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|8°12'22.38" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|20°45'10.48" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°54'24.13" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Mars|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Mercury|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
+|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'56.00" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°5'0.18" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|19°7'23.83" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|9°35'43.15" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|6°12'55.88" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|7°5'0.79" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|19°7'28.79" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|9°35'57.08" |Aquarius|SaadAlAkhbia|Venus|
 |♀ Venus|Direct|8°12'15.52" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|20°45'1.40" |Capricorn|SaadAlBula|Sun|
 |☾ Moon|Direct|27°15'37.76" |Virgo|Simak|Mercury|

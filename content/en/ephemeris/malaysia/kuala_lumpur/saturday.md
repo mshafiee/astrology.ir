@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:59:03|Night duration: 12:01:06|
+|Duration of the day: 11:59:03|Night duration: 12:01:05|
 |Every hour duration: 01:42:43|Every hour duration: 01:43:01|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mercury|Ruler|19:25:21|21:08:20|
 |Late evening|Moon|Servant|21:08:21|22:51:21|
 |Midnight|Saturn|Servant|22:51:22|00:34:22|
-|Late at night|Jupiter|Servant|00:34:23|02:17:23|
-|Rooster song|Mars|Servant|02:17:24|04:00:24|
-|False Dawn|Sun|Servant|04:00:25|05:43:25|
-|Dawn|Venus|Servant|05:43:26|07:26:26|
+|Late at night|Jupiter|Servant|00:34:23|02:17:22|
+|Rooster song|Mars|Servant|02:17:23|04:00:23|
+|False Dawn|Sun|Servant|04:00:24|05:43:24|
+|Dawn|Venus|Servant|05:43:25|07:26:25|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°59'2.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°53'24.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°33'54.02" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|7°30'53.67" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|5°40'35.30" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|17°47'57.58" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|1°19'43.94" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|5°59'2.18" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°53'24.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°33'54.04" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|7°30'53.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|5°40'35.29" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|17°47'57.50" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|1°19'43.41" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°59'2.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°53'24.52" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|17°33'54.02" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|7°30'53.70" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|5°59'2.18" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°53'24.61" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|17°33'53.99" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|7°30'53.46" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|5°40'35.22" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|17°47'57.49" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|1°18'32.79" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|17°47'57.40" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|1°20'44.85" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
