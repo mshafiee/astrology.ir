@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:08:27 |
 | Medium Coeli | 12:08:27 |
 | Sunset | 17:31:43 |
-| Maghrib | 17:48:14 |
+| Maghrib | 17:48:13 |
 | Isha (Night) | 18:36:01 |
 | Sharia Midnight | 23:31:31 |
 | Imum Coeli | 00:08:31 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°27'46.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°18'3.93" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|7°18'3.93" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|20°46'33.19" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|11°48'4.61" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|10°52'54.08" |Sagittarius|NaAaem|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°27'46.85" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°18'2.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°46'31.21" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|11°47'57.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|10°52'52.37" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|23°56'14.48" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|22°53'45.69" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|6°27'46.74" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°18'3.93" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°46'33.19" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|11°48'4.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|10°52'54.08" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|23°56'17.98" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|21°53'15.67" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Sun|Venus|
-|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
+|☾ Moon|Mars|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}

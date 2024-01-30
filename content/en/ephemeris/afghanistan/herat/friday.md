@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°34'7.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°23'50.06" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|7°23'50.06" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|21°28'34.36" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|12°44'1.72" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|12°0'58.37" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|25°18'25.42" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°43'25.95" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|12°0'56.01" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|25°18'19.12" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°1'13.92" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°34'7.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°23'50.06" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|7°23'50.06" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|21°28'34.36" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|12°44'1.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|12°0'58.37" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|25°18'25.42" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|3°43'25.95" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|12°44'1.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|12°0'56.01" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|25°18'23.98" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|3°2'44.71" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Scorpio|Sun|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°22'27.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°13'18.97" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°11'11.44" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|11°0'57.80" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|6°22'27.84" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|7°13'18.86" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°11'11.38" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|11°0'57.82" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|9°55'37.34" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|22°47'40.73" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|12°27'45.23" |Virgo|Awwa|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°22'27.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°13'18.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°11'11.44" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|11°0'57.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|9°55'37.67" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|22°47'40.62" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|12°44'1.31" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°13'18.86" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°11'11.38" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|11°0'57.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|9°55'37.32" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|22°47'40.77" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|12°27'45.62" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Mars|Jupiter|Aries|Moon|Saturn|
 |☿ Mercury|Mercury|Moon|Libra|Sun|Venus|
-|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}

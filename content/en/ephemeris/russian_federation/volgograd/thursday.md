@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:54:38 |
 | Sunrise | 07:32:22 |
-| Dhuhr (Noon) | 12:15:27 |
-| Medium Coeli | 12:15:27 |
+| Dhuhr (Noon) | 12:15:26 |
+| Medium Coeli | 12:15:26 |
 | Sunset | 16:59:06 |
 | Maghrib | 17:21:32 |
 | Isha (Night) | 18:24:38 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:44:15 |
 | Sunrise | 07:32:22 |
-| Dhuhr (Noon) | 12:15:27 |
-| Medium Coeli | 12:15:27 |
+| Dhuhr (Noon) | 12:15:26 |
+| Medium Coeli | 12:15:26 |
 | Sunset | 16:59:06 |
 | Maghrib | 17:24:47 |
 | Isha (Night) | 18:24:38 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:42:26 |
 | Sunrise | 07:32:22 |
-| Dhuhr (Noon) | 12:15:27 |
-| Medium Coeli | 12:15:27 |
+| Dhuhr (Noon) | 12:15:26 |
+| Medium Coeli | 12:15:26 |
 | Sunset | 16:59:06 |
 | Maghrib | 17:00:58 |
 | Isha (Night) | 18:43:02 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:00:45 |
 | Sunrise | 07:32:22 |
-| Dhuhr (Noon) | 12:15:27 |
-| Medium Coeli | 12:15:27 |
+| Dhuhr (Noon) | 12:15:26 |
+| Medium Coeli | 12:15:26 |
 | Sunset | 16:59:06 |
 | Maghrib | 17:00:58 |
 | Isha (Night) | 18:30:47 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:33:19 |
 | Sunrise | 07:32:22 |
-| Dhuhr (Noon) | 12:15:27 |
-| Medium Coeli | 12:15:27 |
+| Dhuhr (Noon) | 12:15:26 |
+| Medium Coeli | 12:15:26 |
 | Sunset | 16:59:06 |
 | Maghrib | 17:00:58 |
 | Isha (Night) | 18:46:05 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:42:26 |
 | Sunrise | 07:32:22 |
-| Dhuhr (Noon) | 12:15:27 |
-| Medium Coeli | 12:15:27 |
+| Dhuhr (Noon) | 12:15:26 |
+| Medium Coeli | 12:15:26 |
 | Sunset | 16:59:06 |
 | Maghrib | 17:00:58 |
 | Isha (Night) | 18:49:08 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:39:23 |
 | Sunrise | 07:32:22 |
-| Dhuhr (Noon) | 12:15:27 |
-| Medium Coeli | 12:15:27 |
+| Dhuhr (Noon) | 12:15:26 |
+| Medium Coeli | 12:15:26 |
 | Sunset | 16:59:06 |
 | Maghrib | 17:00:58 |
 | Isha (Night) | 18:30:58 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°27'42.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°18'0.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°46'6.32" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|11°47'26.95" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|10°52'10.68" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|23°55'26.03" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|21°52'59.68" |Virgo|Simak|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|7°18'0.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°46'6.37" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|11°47'26.93" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|10°52'10.70" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|23°55'25.99" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|21°52'59.02" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°27'42.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°18'0.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°46'7.04" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|11°47'28.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|10°52'11.84" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|23°55'27.33" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|21°50'39.66" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|6°27'42.91" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°18'0.57" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°46'7.09" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|11°47'28.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|10°52'11.86" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|23°55'27.29" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|21°50'39.00" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

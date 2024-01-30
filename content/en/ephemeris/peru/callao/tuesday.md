@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°22'42.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°13'32.09" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|7°13'32.09" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|20°12'50.25" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|11°3'9.87" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|9°58'17.06" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|22°50'51.66" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|12°46'18.27" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|9°58'17.43" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|22°50'51.89" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°51'41.32" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°22'42.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°13'32.09" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°12'50.11" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|11°3'9.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|9°58'17.06" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|22°50'51.66" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|12°46'18.27" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°13'32.17" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°12'50.06" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|11°3'9.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|9°58'17.04" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|22°50'51.70" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|12°46'18.66" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
