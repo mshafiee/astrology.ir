@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:32:27|07:32:00|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Sun|Ruler|06:32:27|07:32:00|Love and attraction of capital|
 |2|Venus|Servant|07:32:01|08:31:34|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mercury|Servant|08:31:35|09:31:08|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Moon|Servant|09:31:09|10:30:42|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'5.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°37'54.84" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°7'16.39" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|14°55'17.37" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|14°40'36.73" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|7°37'55.02" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°7'16.43" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|14°55'17.43" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|14°40'36.71" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|28°33'36.12" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°18'33.32" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|0°17'6.09" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'5.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°37'55.02" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|7°37'55.02" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|23°7'16.43" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|14°55'17.43" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|14°40'36.71" |Capricorn|SaadAlBula|Mars|
