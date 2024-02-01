@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:41:02 |
 | Dhuhr (Noon) | 11:54:47 |
 | Medium Coeli | 11:54:47 |
-| Sunset | 17:08:55 |
+| Sunset | 17:08:56 |
 | Maghrib | 17:10:07 |
 | Isha (Night) | 18:22:30 |
 | Sharia Midnight | 23:17:52 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:41:02 |
 | Dhuhr (Noon) | 11:54:47 |
 | Medium Coeli | 11:54:47 |
-| Sunset | 17:08:55 |
+| Sunset | 17:08:56 |
 | Maghrib | 17:10:07 |
 | Isha (Night) | 18:40:07 |
 | Sharia Midnight | 23:09:09 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°39'33.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°28'52.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°4'31.71" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|13°31'52.11" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|6°39'33.41" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°28'52.62" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°4'31.66" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°31'52.13" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|12°59'7.39" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|26°29'7.86" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|12°45'49.32" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|26°29'8.12" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°48'39.57" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

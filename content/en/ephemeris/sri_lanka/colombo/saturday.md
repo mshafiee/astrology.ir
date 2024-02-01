@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|7°29'46.53" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|22°10'51.81" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|13°40'18.98" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|13°9'22.85" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|26°41'37.43" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|15°10'18.19" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|13°9'22.35" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|26°41'38.13" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|14°29'39.48" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Moon|Saturn|
 |♀ Venus|Venus|Moon|Taurus|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Libra|Moon|Mercury|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°40'31.16" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|7°29'46.53" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°10'51.54" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|13°40'16.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|13°9'22.85" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|26°41'37.43" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|15°10'18.19" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|22°10'51.81" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|13°40'18.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|13°9'22.35" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|26°41'38.13" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|14°29'39.48" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Sun|Mars|Gemini|Moon|Saturn|
 |☿ Mercury|Moon|Mercury|Scorpio|Sun|Venus|
-|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
 
 
 {{< /tab >}}
