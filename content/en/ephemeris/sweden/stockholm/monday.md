@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°56'9.71" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°44'48.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°53'37.71" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°44'47.53" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°53'36.97" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|15°56'45.86" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|15°55'31.60" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|0°6'23.45" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|13°24'8.11" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°30'26.32" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°56'9.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°44'47.53" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°53'36.97" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|15°56'45.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°55'32.64" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|0°6'25.92" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|13°3'25.48" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|7°44'47.52" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°53'37.81" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|15°56'47.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°55'32.91" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|0°6'24.95" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|13°30'26.32" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Leo|Moon|Mars|
 |♀ Venus|Sun|Venus|Cancer|Sun|Venus|
 |☿ Mercury|Saturn|Venus|Aquarius|Sun|Saturn|
-|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}

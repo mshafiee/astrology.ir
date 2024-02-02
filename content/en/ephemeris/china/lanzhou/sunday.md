@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'12.42" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°36'6.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°54'53.55" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|14°38'49.22" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|14°20'35.57" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|28°8'56.49" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|26°42'13.73" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|7°36'6.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°54'53.18" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|14°38'48.54" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|14°20'34.78" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|28°8'55.79" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|26°34'27.86" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Moon|Saturn|
 |♀ Venus|Venus|Sun|Taurus|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'12.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°36'6.96" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°54'53.13" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|14°38'48.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|14°20'34.76" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|7°36'6.61" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°54'53.55" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|14°38'48.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|14°20'34.78" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|28°8'55.75" |Capricorn|SaadAlSaud|Sun|
 |☾ Moon|Direct|26°34'26.81" |Scorpio|Shaulah|Venus|
 

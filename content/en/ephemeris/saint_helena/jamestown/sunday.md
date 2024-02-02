@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'0.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°37'50.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°6'39.64" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|14°54'28.96" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|14°39'36.70" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|28°32'23.21" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|29°36'55.36" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|7°37'49.81" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°6'40.92" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|14°54'25.05" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|14°39'38.57" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|28°32'22.87" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°47'34.67" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Venus|Mercury|Mars|Mercury|
 |☿ Mercury|Mars|Mars|Sun|Venus|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Moon|Saturn|
 |♀ Venus|Venus|Sun|Taurus|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'0.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°37'49.81" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|7°37'49.81" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|23°6'40.92" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|14°54'30.60" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|14°39'39.30" |Capricorn|SaadAlBula|Mars|
