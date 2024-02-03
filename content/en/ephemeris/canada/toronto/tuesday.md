@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|07:28:45|08:19:16|Creating corruption, hatred and enmity|
+|1|Mars|Ruler|07:28:45|08:19:16|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|08:19:17|09:09:48|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|09:09:49|10:00:20|Attracting connection and suitors|
 |4|Mercury|Servant|10:00:21|10:50:52|Attracting material wealth, earnings and business prosperity|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°11'53.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°0'33.46" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°36'11.23" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|18°12'44.79" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|18°41'11.76" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|3°34'17.44" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|14°43'42.14" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|8°0'33.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°36'11.41" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|18°12'45.14" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|18°41'12.07" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|3°34'17.74" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|14°46'47.79" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'53.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°0'33.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°36'11.18" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|18°12'44.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°41'11.73" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|3°34'17.48" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|14°43'42.14" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|7°11'53.79" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°0'33.54" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°36'11.41" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|18°12'45.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°41'12.07" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|3°34'17.74" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|14°46'47.79" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

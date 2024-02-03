@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°9'10.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°57'47.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°18'33.08" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|17°49'24.70" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|18°12'43.47" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|2°58'17.44" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°26'51.01" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|7°9'11.02" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|7°57'47.42" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°18'33.14" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|17°49'24.69" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|18°12'43.50" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|2°58'17.41" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|9°26'50.83" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°9'10.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°57'47.29" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°18'33.08" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|17°49'24.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°12'43.47" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|2°58'17.44" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|9°26'51.01" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|7°9'11.02" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°57'47.42" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°18'33.14" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|17°49'24.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°12'43.50" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|2°58'17.41" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|9°26'50.83" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

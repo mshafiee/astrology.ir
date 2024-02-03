@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|08:04:09|08:51:42|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Sun|Ruler|08:04:09|08:51:42|Love and attraction of capital|
 |2|Venus|Servant|08:51:43|09:39:17|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mercury|Servant|09:39:18|10:26:52|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Moon|Servant|10:26:53|11:14:26|The moon is in Scorpio, Not suitable for doing anything.|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'14.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°38'5.11" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°8'10.35" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|14°56'23.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|7°38'3.89" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°8'14.95" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|14°56'32.82" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|14°42'11.43" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|28°35'33.22" |Capricorn|SaadAlSaud|Sun|
 |☾ Moon|Direct|0°25'33.75" |Sagittarius|Shaulah|Mercury|

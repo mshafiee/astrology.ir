@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:36:42 |
 | Medium Coeli | 12:36:42 |
 | Sunset | 17:39:53 |
-| Maghrib | 17:44:01 |
+| Maghrib | 17:44:00 |
 | Isha (Night) | 19:13:12 |
 | Sharia Midnight | 23:44:32 |
 | Imum Coeli | 00:36:46 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:36:42 |
 | Medium Coeli | 12:36:42 |
 | Sunset | 17:39:53 |
-| Maghrib | 17:44:01 |
-| Isha (Night) | 19:14:01 |
+| Maghrib | 17:44:00 |
+| Isha (Night) | 19:14:00 |
 | Sharia Midnight | 23:47:13 |
 | Imum Coeli | 00:36:46 |
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°34'2.77" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|7°23'46.16" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°28'1.54" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|12°43'15.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|12°0'2.00" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|25°17'20.72" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|2°13'44.36" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°28'5.83" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|12°43'23.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|12°0'9.85" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|25°17'28.10" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|2°56'14.40" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Scorpio|Sun|Venus|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°9'8.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°57'44.84" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°18'16.86" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|17°49'2.47" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|18°12'17.31" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|2°57'44.53" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°13'35.52" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|7°9'8.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|7°57'44.97" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°18'16.91" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|17°49'2.46" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|18°12'17.34" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|2°57'44.50" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|9°13'35.34" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°9'8.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°57'44.84" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°18'16.86" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|17°49'2.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°12'17.31" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|2°57'44.53" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|9°13'35.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|7°9'8.51" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°57'44.97" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°18'16.91" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|17°49'2.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°12'17.34" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|2°57'44.50" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|9°13'35.34" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
