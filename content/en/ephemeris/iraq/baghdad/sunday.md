@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:16:12 |
 | Medium Coeli | 12:16:12 |
 | Sunset | 17:36:26 |
-| Maghrib | 17:53:29 |
+| Maghrib | 17:53:30 |
 | Isha (Night) | 18:42:47 |
 | Sharia Midnight | 23:38:03 |
 | Imum Coeli | 00:16:15 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'19.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°37'11.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°2'17.32" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|14°48'38.94" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|14°32'33.17" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|28°23'40.19" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°48'0.83" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|6°48'19.96" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|7°37'11.50" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°2'17.19" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|14°48'38.98" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|14°32'32.83" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|28°23'40.01" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|28°41'35.78" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|6°48'19.84" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|7°37'11.29" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|23°2'17.32" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|14°48'38.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|14°32'33.12" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|28°23'40.19" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|28°44'46.07" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|14°48'38.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|14°32'32.85" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|28°23'39.97" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|28°41'34.76" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

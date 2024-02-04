@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Sun|Ruler|13:14:27|14:13:35|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|14:13:36|15:12:43|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|15:12:44|16:11:51|Attracting happiness, solving financial problems|
-|11|Moon|Servant|16:11:52|17:10:59|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Moon|Servant|16:11:52|17:10:59|Performing promises|
 |12|Saturn|Servant|17:11:00|18:10:08|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'24.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°42'6.20" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°35'25.06" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°42'5.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°35'32.19" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|15°32'33.29" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|15°26'6.60" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|29°29'53.63" |Sagittarius|Baldah|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'24.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°42'5.21" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°35'32.19" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|15°32'49.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°26'18.19" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|29°30'6.00" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|8°25'23.84" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|7°42'6.20" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°35'25.06" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|15°32'33.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°26'6.60" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|29°29'53.63" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|7°20'31.15" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Mars|Mars|Mercury|Jupiter|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Leo|Moon|Mars|
 |♀ Venus|Sun|Venus|Cancer|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Sagittarius|Sun|Venus|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
