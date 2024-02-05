@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|8°12'12.18" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°48'56.16" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|19°49'0.82" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|20°38'37.28" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|6°3'55.06" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°34'58.63" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|20°38'35.24" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|6°3'53.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°18'56.36" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Venus|
 |♀ Venus|Mercury|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|7°23'7.07" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|8°12'12.18" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|26°48'56.16" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|19°49'2.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|20°38'37.28" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|6°3'55.06" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|8°34'58.63" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|19°49'0.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|20°38'35.24" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|6°3'53.39" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|8°18'56.36" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Venus|Moon|Virgo|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Aries|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}

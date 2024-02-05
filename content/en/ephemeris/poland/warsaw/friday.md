@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°24'11.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°13'19.84" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°55'50.69" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|19°58'7.78" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|20°49'43.92" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|6°18'11.74" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°19'21.36" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|7°24'11.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°13'19.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°55'50.64" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|19°58'7.80" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|20°49'43.90" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|6°18'11.78" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°19'20.37" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°24'11.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°13'19.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°55'51.96" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|19°58'9.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|20°49'46.15" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|6°18'13.70" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|10°37'30.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|7°24'11.00" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°13'19.71" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°55'50.64" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|19°58'7.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|20°49'43.90" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|6°18'11.78" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|10°19'20.37" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

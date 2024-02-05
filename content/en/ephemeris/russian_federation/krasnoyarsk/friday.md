@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°22'49.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°11'53.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°47'4.19" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|19°46'30.95" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|20°35'35.05" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|6°0'1.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°33'56.45" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|7°22'49.47" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°11'53.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°47'3.27" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|19°46'30.29" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|20°35'33.28" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|6°0'0.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|7°22'43.02" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Venus|
 |♀ Venus|Mercury|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°22'49.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°11'53.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°47'4.19" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|7°22'49.47" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°11'53.87" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°47'3.27" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|19°46'30.95" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|20°35'35.05" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|6°0'1.48" |Aquarius|SaadAlSaud|Venus|

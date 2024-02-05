@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°3'1.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°51'33.20" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°38'24.40" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|16°56'9.74" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|17°7'54.52" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|1°36'43.75" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|27°30'16.96" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|7°51'34.76" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°38'25.52" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|16°56'15.30" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|17°7'55.31" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|1°36'46.29" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|27°13'34.56" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Cancer|Sun|Venus|
 |♀ Venus|Venus|Mercury|Gemini|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Capricorn|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°3'1.36" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|7°51'34.76" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|24°38'24.40" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|16°56'9.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|17°7'54.52" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|1°36'43.75" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|24°38'25.52" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|16°56'9.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|17°7'54.49" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|1°36'43.79" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|27°30'16.96" |Sagittarius|Baldah|Saturn|
 
 

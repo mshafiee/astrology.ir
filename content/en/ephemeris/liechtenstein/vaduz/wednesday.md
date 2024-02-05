@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:35:58 |
 | Sunset | 17:32:40 |
 | Maghrib | 17:57:12 |
-| Isha (Night) | 18:54:31 |
+| Isha (Night) | 18:54:32 |
 | Sharia Midnight | 23:43:50 |
 | Imum Coeli | 00:36:00 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°10'11.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°58'49.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°25'5.98" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|17°58'3.67" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|18°23'17.83" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|3°11'38.83" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°14'35.95" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|7°58'48.91" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°25'5.93" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|17°58'3.68" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|18°23'17.80" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|3°11'38.86" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|11°14'36.04" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°10'11.40" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°10'11.28" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|7°58'49.04" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°25'5.98" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|17°58'3.67" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|18°23'17.83" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|3°11'38.83" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|11°14'35.95" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|3°11'38.86" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|11°14'36.04" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

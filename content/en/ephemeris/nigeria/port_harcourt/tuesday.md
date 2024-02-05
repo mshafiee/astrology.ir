@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°2'53.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°51'26.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°37'33.58" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|16°55'6.20" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|17°6'31.47" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|1°35'1.30" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|26°54'58.26" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|7°2'53.41" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|7°51'26.82" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°37'33.63" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|16°55'6.19" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|17°6'31.50" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|1°35'1.26" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|26°54'57.66" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°2'53.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°51'26.69" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|24°37'33.58" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|16°55'6.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|17°6'31.47" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|1°35'1.30" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|26°54'58.26" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|7°2'53.41" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|7°51'26.82" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|24°37'33.63" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|16°55'6.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|17°6'31.33" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|1°35'1.03" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|26°54'16.01" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

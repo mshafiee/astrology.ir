@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°29'11.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°18'38.78" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°28'13.98" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|20°40'58.73" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|21°41'57.62" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°25'26.76" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|21°39'16.16" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|7°29'11.82" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°18'38.65" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°28'13.94" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|20°40'58.75" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|21°41'57.60" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°25'26.79" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|21°39'15.21" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°29'11.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°18'38.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°28'13.98" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|20°40'58.73" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|21°41'57.62" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|7°25'26.76" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|21°39'16.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|7°29'11.82" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°18'38.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°28'13.94" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|20°40'58.75" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|21°41'57.60" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|7°25'26.79" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|21°39'15.21" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

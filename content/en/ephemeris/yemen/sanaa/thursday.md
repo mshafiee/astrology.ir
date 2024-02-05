@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:17:42 |
-| Sunrise | 06:31:14 |
+| Sunrise | 06:31:15 |
 | Dhuhr (Noon) | 12:17:16 |
 | Medium Coeli | 12:17:16 |
 | Sunset | 18:03:29 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:16:26 |
-| Sunrise | 06:31:14 |
+| Sunrise | 06:31:15 |
 | Dhuhr (Noon) | 12:17:16 |
 | Medium Coeli | 12:17:16 |
 | Sunset | 18:03:29 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:08 |
-| Sunrise | 06:31:14 |
+| Sunrise | 06:31:15 |
 | Dhuhr (Noon) | 12:17:16 |
 | Medium Coeli | 12:17:16 |
 | Sunset | 18:03:29 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:32:15|Night duration: 12:27:26|
+|Duration of the day: 11:32:14|Night duration: 12:27:26|
 |Every hour of day duration: 00:57:41|Every hour of night duration: 01:02:17|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:31:14|07:28:54|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|07:28:55|08:26:35|Destruction of enemies|
-|3|Sun|Servant|08:26:36|09:24:16|Attraction of financial and emotional love|
-|4|Venus|Servant|09:24:17|10:21:58|Creating love, connection and marriage|
+|1|Jupiter|Ruler|06:31:15|07:28:55|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|07:28:56|08:26:36|Destruction of enemies|
+|3|Sun|Servant|08:26:37|09:24:17|Attraction of financial and emotional love|
+|4|Venus|Servant|09:24:18|10:21:58|Creating love, connection and marriage|
 |5|Mercury|Servant|10:21:59|11:19:39|Indulgence|
-|6|Moon|Servant|11:19:40|12:17:20|Outer and inner journey|
-|7|Saturn|Servant|12:17:21|13:15:01|Achieving status and power|
-|8|Jupiter|Ruler|13:15:02|14:12:43|Attraction of happiness and fortune|
+|6|Moon|Servant|11:19:40|12:17:21|Outer and inner journey|
+|7|Saturn|Servant|12:17:22|13:15:02|Achieving status and power|
+|8|Jupiter|Ruler|13:15:03|14:12:43|Attraction of happiness and fortune|
 |9|Mars|Servant|14:12:44|15:10:24|Reaching status and promotion|
 |10|Sun|Servant|15:10:25|16:08:05|Fulfilling needs|
 |11|Venus|Servant|16:08:06|17:05:46|Attraction of love and hearts|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°16'20.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°5'7.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°5'2.63" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|18°50'58.43" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°27'46.22" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|4°33'24.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|24°18'55.37" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°5'8.92" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°4'56.10" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|18°50'44.72" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°27'35.60" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|4°33'13.73" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°37'17.81" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Jupiter|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
