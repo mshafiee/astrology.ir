@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°24'26.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°13'36.28" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°13'36.28" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°57'31.60" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|20°0'21.37" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|20°52'26.67" |Sagittarius|Baldah|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°24'26.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°13'37.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°57'27.02" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|8°13'36.28" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°57'31.60" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|20°0'21.37" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|20°52'19.08" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|6°21'33.38" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|9°47'5.54" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|20°52'26.67" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|6°21'40.72" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|10°55'11.35" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Mercury|Saturn|Saturn|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Venus|Moon|Virgo|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Aries|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}

@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:24:46 |
 | Medium Coeli | 12:24:46 |
 | Sunset | 18:21:16 |
-| Maghrib | 18:22:12 |
+| Maghrib | 18:22:11 |
 | Isha (Night) | 19:31:17 |
 | Sharia Midnight | 23:45:37 |
 | Imum Coeli | 00:24:47 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:24:46 |
 | Sunset | 18:21:16 |
 | Maghrib | 18:22:11 |
-| Isha (Night) | 19:52:12 |
+| Isha (Night) | 19:52:11 |
 | Sharia Midnight | 23:47:41 |
 | Imum Coeli | 00:24:47 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°29'48.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°19'16.10" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°32'6.86" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|20°46'3.41" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|21°48'13.74" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°33'31.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|22°31'52.80" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|8°19'17.38" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°32'7.06" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|20°46'6.30" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|21°48'13.42" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°33'32.31" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°51'34.65" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°29'48.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°19'17.38" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|8°19'17.38" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|27°32'7.06" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|20°46'6.30" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|21°48'13.42" |Capricorn|SaadAlBula|Sun|

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:31:31|Night duration: 12:28:11|
+|Duration of the day: 11:31:31|Night duration: 12:28:10|
 |Every hour of day duration: 00:57:38|Every hour of night duration: 01:02:21|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Moon|Servant|21:10:06|22:12:26|For all tasks, extremely auspicious|
 |5|Saturn|Servant|22:12:27|23:14:47|Creating negative energy and disrupting peace|
 |6|Jupiter|Servant|23:14:48|00:17:08|Outer and inner journey|
-|7|Mars|Servant|00:17:09|01:19:29|Attracting love and hearts and fortune|
-|8|Sun|Ruler|01:19:30|02:21:50|Being invisible to the people|
-|9|Venus|Servant|02:21:51|03:24:11|Separation, causing enmity|
-|10|Mercury|Servant|03:24:12|04:26:32|Dominating the great ones|
-|11|Moon|Servant|04:26:33|05:28:53|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|05:28:54|06:31:14|Creating evil and hatred|
+|7|Mars|Servant|00:17:09|01:19:28|Attracting love and hearts and fortune|
+|8|Sun|Ruler|01:19:29|02:21:49|Being invisible to the people|
+|9|Venus|Servant|02:21:50|03:24:10|Separation, causing enmity|
+|10|Mercury|Servant|03:24:11|04:26:31|Dominating the great ones|
+|11|Moon|Servant|04:26:32|05:28:52|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|05:28:53|06:31:13|Creating evil and hatred|
 
  
  
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°9'16.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|7°57'52.57" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°57'52.57" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°19'7.18" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|17°50'10.33" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|18°13'38.50" |Sagittarius|Baldah|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°9'16.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|7°57'52.57" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|7°57'52.57" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°19'7.18" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|17°50'10.33" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|18°13'38.50" |Capricorn|SaadAlBula|Mars|
