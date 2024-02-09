@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:10:30 |
+| Fajr (Dawn) | 06:10:31 |
 | Sunrise | 07:37:57 |
 | Dhuhr (Noon) | 12:44:29 |
 | Medium Coeli | 12:44:29 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°24'21.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°13'30.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|8°13'30.54" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°56'56.74" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|19°59'35.71" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|20°51'30.43" |Sagittarius|Baldah|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°24'21.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°13'30.54" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|8°13'30.54" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|26°56'56.74" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|19°59'35.71" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|20°51'30.43" |Capricorn|SaadAlBula|Sun|

@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:37:46 |
 | Medium Coeli | 12:37:46 |
 | Sunset | 17:16:44 |
-| Maghrib | 17:47:21 |
+| Maghrib | 17:47:22 |
 | Isha (Night) | 18:58:32 |
 | Sharia Midnight | 23:32:49 |
 | Imum Coeli | 00:37:45 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°45'35.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°36'29.38" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|8°36'29.38" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°13'46.16" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|23°0'11.56" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|24°32'2.07" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|11°7'10.45" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|25°32'40.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|25°34'12.57" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°45'35.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°36'29.38" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|8°36'29.38" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|29°13'46.16" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|23°0'11.56" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|24°32'2.07" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|11°7'11.72" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|25°55'42.73" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|11°7'10.45" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|25°32'40.40" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

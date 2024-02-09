@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
 |Duration of the day: 11:54:08|Night duration: 12:05:42|
-|Every hour of day duration: 00:59:31|Every hour of night duration: 01:00:29|
+|Every hour of day duration: 00:59:31|Every hour of night duration: 01:00:28|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°54'22.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°46'18.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|8°46'18.97" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°10'6.58" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|24°14'27.68" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|26°2'44.91" |Sagittarius|Baldah|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°54'22.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°46'18.97" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|8°46'18.97" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|0°10'6.58" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|24°14'27.68" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|26°2'44.91" |Capricorn|SaadAlSaud|Sun|

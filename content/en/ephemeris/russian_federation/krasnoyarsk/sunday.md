@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:02:43 |
 | Sunset | 17:41:58 |
 | Maghrib | 18:11:59 |
-| Isha (Night) | 19:21:34 |
+| Isha (Night) | 19:21:35 |
 | Sharia Midnight | 23:59:13 |
 | Imum Coeli | 01:02:43 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°37'3.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°27'7.44" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|8°27'7.44" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°18'55.29" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|21°47'51.27" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|23°3'40.22" |Sagittarius|Baldah|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°37'3.53" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°27'7.44" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°18'55.29" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|21°47'51.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|23°3'40.22" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|9°11'27.49" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|7°37'15.53" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°37'3.41" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°27'7.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°18'55.24" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|21°47'51.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|23°3'40.21" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|9°11'27.53" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|7°37'14.94" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
