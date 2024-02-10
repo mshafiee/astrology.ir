@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
 |Duration of the day: 11:54:08|Night duration: 12:05:42|
-|Every hour of day duration: 00:59:31|Every hour of night duration: 01:00:28|
+|Every hour of day duration: 00:59:31|Every hour of night duration: 01:00:29|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|0°10'6.58" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|24°14'27.68" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|26°2'44.91" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|13°7'8.73" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|14°0'26.29" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|13°7'8.49" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|13°58'40.06" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°54'22.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°46'18.97" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|0°10'6.58" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|24°14'27.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|26°2'44.91" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|13°7'8.73" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|14°0'26.29" |Aries|Butain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|8°46'18.95" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|0°10'6.46" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|24°14'27.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|26°2'44.72" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|13°7'8.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|13°58'40.06" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

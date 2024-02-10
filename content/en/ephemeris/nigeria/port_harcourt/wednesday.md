@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:46:06 |
 | Sunset | 18:45:17 |
 | Maghrib | 18:46:11 |
-| Isha (Night) | 19:44:27 |
+| Isha (Night) | 19:44:26 |
 | Sharia Midnight | 00:16:29 |
 | Imum Coeli | 00:46:04 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°59'54.38" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°59'54.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Post-Retrograde Shadow|8°52'36.75" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°45'34.39" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|25°1'8.02" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|26°59'49.40" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|14°23'15.86" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|24°58'1.87" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|14°23'15.83" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|24°58'2.30" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°59'54.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°52'36.62" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|0°45'34.35" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|25°1'8.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|26°59'49.39" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|14°23'15.86" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|24°58'1.87" |Aries|Butain|Venus|
+|♄ Saturn|Direct|7°59'54.50" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°52'36.75" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|0°45'34.39" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|25°1'8.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|26°59'49.40" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|14°23'15.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|24°58'2.30" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

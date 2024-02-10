@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:24:46 |
 | Medium Coeli | 12:24:46 |
 | Sunset | 18:21:16 |
-| Maghrib | 18:22:12 |
+| Maghrib | 18:22:11 |
 | Isha (Night) | 19:33:21 |
 | Sharia Midnight | 23:48:43 |
 | Imum Coeli | 00:24:47 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°29'48.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°19'15.64" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°32'4.82" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|20°45'58.03" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|21°48'10.79" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°33'27.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|21°55'16.81" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|8°19'15.77" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°32'4.87" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|20°45'58.01" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|21°48'10.81" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°33'27.62" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|21°55'17.73" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|7°29'48.04" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|8°19'17.38" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|27°32'7.06" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|20°45'58.03" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|21°48'10.79" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|7°33'27.66" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|21°55'16.81" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|20°46'6.30" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|21°48'13.42" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|7°33'32.31" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|22°51'34.65" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Mercury|Moon|Virgo|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
+|☾ Moon|Mercury|Mars|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}

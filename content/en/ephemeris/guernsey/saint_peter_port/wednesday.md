@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°0'22.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°53'9.11" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°48'34.88" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|25°5'3.14" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|27°4'40.03" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|14°29'45.46" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|25°37'8.50" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|8°0'22.64" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°53'9.25" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°48'36.78" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|25°5'7.85" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|27°4'42.88" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|14°29'48.74" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|25°54'13.77" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Saturn|Jupiter|Libra|Moon|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°0'22.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°53'9.11" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|0°48'34.88" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|8°0'22.64" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°53'9.44" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|0°48'36.78" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|25°5'7.85" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|27°4'42.88" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|14°29'48.74" |Aquarius|SaadAlAkhbia|Mercury|

@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:08:05 |
 | Medium Coeli | 13:08:05 |
 | Sunset | 18:22:22 |
-| Maghrib | 18:28:24 |
+| Maghrib | 18:28:23 |
 | Isha (Night) | 19:53:25 |
 | Sharia Midnight | 00:19:34 |
 | Imum Coeli | 01:08:04 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:08:05 |
 | Medium Coeli | 13:08:05 |
 | Sunset | 18:22:22 |
-| Maghrib | 18:28:24 |
+| Maghrib | 18:28:23 |
 | Isha (Night) | 19:42:32 |
 | Sharia Midnight | 00:27:43 |
 | Imum Coeli | 01:08:04 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:08:05 |
 | Medium Coeli | 13:08:05 |
 | Sunset | 18:22:22 |
-| Maghrib | 18:28:24 |
+| Maghrib | 18:28:23 |
 | Isha (Night) | 19:56:08 |
 | Sharia Midnight | 00:15:30 |
 | Imum Coeli | 01:08:04 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:08:05 |
 | Medium Coeli | 13:08:05 |
 | Sunset | 18:22:22 |
-| Maghrib | 18:28:24 |
-| Isha (Night) | 19:58:24 |
+| Maghrib | 18:28:23 |
+| Isha (Night) | 19:58:23 |
 | Sharia Midnight | 00:18:13 |
 | Imum Coeli | 01:08:04 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°53'2.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°44'49.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°1'36.37" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|24°3'14.03" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°49'3.69" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°48'58.31" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|11°2'58.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|8°44'50.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°1'37.28" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|24°3'17.85" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°49'4.83" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°49'0.50" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|11°38'56.96" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

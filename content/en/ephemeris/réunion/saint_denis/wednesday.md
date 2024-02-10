@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°58'48.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°51'21.55" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°38'33.76" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|24°51'55.08" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|26°48'32.59" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|14°8'10.83" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|22°51'52.40" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|7°58'48.77" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°51'20.57" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°38'32.25" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|24°51'55.05" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|26°48'30.54" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|14°8'7.28" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|22°4'14.84" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Saturn|Jupiter|Libra|Moon|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°58'48.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°51'21.55" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|0°38'33.76" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°58'48.77" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°51'20.57" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|0°38'32.25" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|24°51'49.21" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|26°48'30.54" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|14°8'7.28" |Aquarius|SaadAlAkhbia|Mercury|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°38'37.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°28'49.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°29'0.51" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|22°1'12.77" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|23°19'55.39" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°32'38.86" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°34'40.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|7°38'37.62" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°28'49.56" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°28'58.40" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|22°1'7.55" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|23°19'52.05" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|9°32'35.08" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|11°1'40.35" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°38'37.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°28'49.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°29'0.51" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|22°1'12.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|23°19'55.39" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|9°32'38.86" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|11°34'40.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|7°38'37.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°28'49.58" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°29'0.55" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|22°1'12.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|23°19'55.41" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|9°32'38.82" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|11°34'40.54" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

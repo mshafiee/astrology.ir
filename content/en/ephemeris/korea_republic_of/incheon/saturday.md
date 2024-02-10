@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°36'11.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°26'10.22" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°13'17.71" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|21°40'27.14" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|22°54'36.16" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°59'38.63" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°4'30.01" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°36'11.16" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°26'10.35" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°13'17.75" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|21°40'27.34" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|22°54'36.19" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°59'38.69" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°6'35.52" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°36'11.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°26'10.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°13'17.20" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|21°40'27.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|22°54'34.84" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|8°59'38.32" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|6°18'26.84" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°36'11.16" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°26'10.35" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°13'17.75" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|21°40'27.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|22°54'36.18" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|8°59'38.59" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|6°4'30.66" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
