@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|8°43'41.51" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°55'11.28" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|23°54'49.16" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°38'43.64" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°35'15.24" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|9°23'0.88" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|25°38'42.44" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°35'12.37" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|8°28'14.98" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Moon|Mars|Libra|Moon|Mercury|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|7°52'2.50" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|8°43'41.51" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|29°55'11.28" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|23°54'49.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|25°38'43.64" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|12°35'15.24" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|9°23'0.88" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|23°54'43.88" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|25°38'42.44" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|12°35'12.37" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|8°28'14.98" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Mercury|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Mars|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}

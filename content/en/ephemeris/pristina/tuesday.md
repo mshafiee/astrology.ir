@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°52'39.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°44'22.84" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°59'5.82" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|23°59'55.76" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°45'1.33" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°43'36.68" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|10°15'16.74" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|8°44'21.20" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°59'6.03" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|23°59'53.09" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°45'2.35" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°43'35.88" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|9°22'58.89" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Saturn|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Saturn|Mars|Libra|Moon|Mercury|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Saturn|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|8°44'21.20" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|29°59'6.03" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|23°59'53.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|25°45'2.35" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|25°45'1.33" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|12°43'35.88" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|9°22'58.89" |Aries|Sharatain|Mars|
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°7'5.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|9°0'51.42" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°31'27.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|26°1'23.76" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|28°13'39.31" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|16°2'26.09" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|7°44'7.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|9°0'52.99" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°31'27.15" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°1'25.68" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|28°13'37.97" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|16°2'26.53" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|8°38'59.87" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |☿ Mercury|Sun|Venus|Cancer|Sun|Venus|
-|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°7'5.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|9°0'51.42" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|1°31'27.66" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|26°1'23.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|9°0'52.99" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|1°31'27.62" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|26°1'23.79" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|28°13'39.31" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|16°2'26.09" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|7°44'7.62" |Taurus|Thurayya|Mercury|

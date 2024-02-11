@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:08:11 |
+| Fajr (Dawn) | 05:08:12 |
 | Sunrise | 06:40:45 |
 | Dhuhr (Noon) | 13:35:05 |
 | Medium Coeli | 13:35:05 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°56'16.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°48'30.33" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|0°22'16.98" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|24°30'27.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|26°22'20.37" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|13°33'16.51" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|17°58'19.91" |Aries|Butain|Sun|
+|♄ Saturn|Direct|7°56'16.91" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°48'29.00" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|0°22'21.71" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|24°30'35.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|26°22'28.21" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|13°33'23.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|17°49'36.00" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

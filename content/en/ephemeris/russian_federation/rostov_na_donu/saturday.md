@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:34:48 |
 | Dhuhr (Noon) | 12:35:17 |
 | Medium Coeli | 12:35:17 |
-| Sunset | 17:36:23 |
+| Sunset | 17:36:24 |
 | Maghrib | 17:57:30 |
 | Isha (Night) | 18:57:43 |
-| Sharia Midnight | 23:48:23 |
+| Sharia Midnight | 23:48:24 |
 | Imum Coeli | 00:35:17 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:34:48 |
 | Dhuhr (Noon) | 12:35:17 |
 | Medium Coeli | 12:35:17 |
-| Sunset | 17:36:23 |
+| Sunset | 17:36:24 |
 | Maghrib | 17:38:15 |
 | Isha (Night) | 19:18:24 |
 | Sharia Midnight | 23:38:05 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:34:48 |
 | Dhuhr (Noon) | 12:35:17 |
 | Medium Coeli | 12:35:17 |
-| Sunset | 17:36:23 |
+| Sunset | 17:36:24 |
 | Maghrib | 17:38:15 |
 | Isha (Night) | 19:21:21 |
 | Sharia Midnight | 23:42:30 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°30'51.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°20'26.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°39'0.11" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|20°55'9.74" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|21°59'19.48" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°47'54.06" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|24°36'39.90" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|8°20'26.17" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°38'59.46" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|20°55'8.24" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|21°59'18.45" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°47'52.95" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|24°26'25.12" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

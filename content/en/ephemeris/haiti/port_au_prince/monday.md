@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|7°54'21.77" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Post-Retrograde Shadow|8°46'18.56" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°10'4.04" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|24°14'23.84" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|26°2'40.84" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|13°7'3.42" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|13°55'14.74" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|24°14'24.19" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|26°2'41.69" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|13°7'3.93" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|13°46'54.34" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°54'21.77" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°46'17.91" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|0°9'57.86" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|24°14'8.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|26°2'31.60" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|13°6'52.47" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°35'28.74" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|8°46'18.56" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|0°10'4.04" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|24°14'24.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|26°2'41.69" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|13°7'3.93" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|13°46'54.34" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Moon|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}

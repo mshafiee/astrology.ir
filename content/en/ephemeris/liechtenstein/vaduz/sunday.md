@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:04:56|Night duration: 13:53:32|
+|Duration of the day: 10:04:56|Night duration: 13:53:31|
 |Every hour of day duration: 00:50:25|Every hour of night duration: 01:09:28|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|17:38:53|18:48:19|Love and attraction of capital|
 |2|Mars|Servant|18:48:20|19:57:47|Unfortunate, no task is suitable|
-|3|Sun|Servant|19:57:48|21:07:15|Operations of tenderness and attraction of love|
-|4|Venus|Servant|21:07:16|22:16:42|Unfortunate and repelling goodness|
-|5|Mercury|Servant|22:16:43|23:26:10|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:26:11|00:35:38|Suitable for all good deeds|
-|7|Saturn|Servant|00:35:39|01:45:05|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:45:06|02:54:33|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|02:54:34|04:04:01|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|04:04:02|05:13:28|Attracting happiness, solving financial problems|
-|11|Venus|Servant|05:13:29|06:22:56|Performing promises|
-|12|Mercury|Servant|06:22:57|07:32:24|Finding the fugitive and discovering the thief|
+|3|Sun|Servant|19:57:48|21:07:14|Operations of tenderness and attraction of love|
+|4|Venus|Servant|21:07:15|22:16:42|Unfortunate and repelling goodness|
+|5|Mercury|Servant|22:16:43|23:26:09|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|23:26:10|00:35:37|Suitable for all good deeds|
+|7|Saturn|Servant|00:35:38|01:45:05|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:45:06|02:54:32|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:54:33|04:04:00|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|04:04:01|05:13:27|Attracting happiness, solving financial problems|
+|11|Venus|Servant|05:13:28|06:22:55|Performing promises|
+|12|Mercury|Servant|06:22:56|07:32:23|Finding the fugitive and discovering the thief|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°38'35.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°28'47.97" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°28'49.76" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|22°0'56.35" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|23°19'38.79" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°32'17.75" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°15'10.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|8°28'47.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°28'49.72" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|22°0'56.38" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|23°19'38.14" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|9°32'15.46" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°53'0.51" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°38'35.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°28'48.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°28'50.25" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|22°0'58.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|23°19'38.79" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|9°32'17.75" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|11°15'10.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|8°28'47.97" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°28'49.76" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|22°0'56.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|23°19'38.14" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|9°32'16.74" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|11°1'51.61" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
