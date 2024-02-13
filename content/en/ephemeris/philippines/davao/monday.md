@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°50'21.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°41'46.42" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°44'18.76" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|23°40'22.69" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°21'13.87" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°12'4.26" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|4°28'24.87" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°41'47.92" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°44'22.31" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|23°40'33.96" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°21'18.77" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°12'11.38" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|5°54'1.95" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Moon|Mars|Libra|Moon|Mercury|
 |☿ Mercury|Mars|Mars|Taurus|Moon|Saturn|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°50'21.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°41'47.92" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|29°44'22.31" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|23°40'33.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|8°41'46.42" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|29°44'18.76" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|23°40'22.69" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|25°21'13.87" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|12°12'4.26" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|4°28'24.87" |Aries|Sharatain|Mars|

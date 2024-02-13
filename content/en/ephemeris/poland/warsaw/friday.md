@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°14'21.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|9°9'23.28" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°17'56.28" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|27°2'29.03" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|29°28'22.98" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|17°43'42.95" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|22°1'25.74" |Aries|Butain|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|9°9'23.75" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°17'55.01" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|27°2'27.06" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|29°28'20.88" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|17°43'41.25" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|22°18'33.53" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|8°14'21.90" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|9°9'23.75" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|2°17'55.01" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|27°2'29.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°28'22.98" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|17°43'42.95" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|22°1'25.74" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°2'27.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°28'20.88" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|17°43'41.25" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|23°2'53.89" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}

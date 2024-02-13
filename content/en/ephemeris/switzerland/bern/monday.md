@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:40:20 |
 | Dhuhr (Noon) | 12:44:24 |
 | Medium Coeli | 12:44:24 |
-| Sunset | 17:49:07 |
+| Sunset | 17:49:06 |
 | Maghrib | 17:54:13 |
 | Isha (Night) | 19:33:23 |
 | Sharia Midnight | 23:51:57 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°45'47.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°36'42.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°15'3.96" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|23°1'53.92" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|24°34'7.38" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|11°9'55.46" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|25°55'45.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|7°45'47.46" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°36'42.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°15'4.82" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|23°1'55.99" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|24°34'8.71" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|11°9'56.95" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|26°7'6.01" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°45'47.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°36'42.86" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|29°15'3.96" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|23°1'53.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|24°34'7.38" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|8°36'42.88" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|29°15'4.82" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|23°1'55.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|24°34'8.71" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|11°9'56.95" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|26°7'6.01" |Pisces|Rescha|Mars|
 

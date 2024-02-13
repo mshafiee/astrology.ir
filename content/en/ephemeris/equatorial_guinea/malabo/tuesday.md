@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°52'40.27" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Post-Retrograde Shadow|8°44'24.00" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°59'10.82" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|23°59'58.07" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°45'10.17" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°43'46.57" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|9°11'0.72" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|29°59'13.43" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|24°0'7.74" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°45'13.47" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°43'52.32" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|10°36'23.80" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Saturn|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Saturn|Mars|Libra|Moon|Mercury|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°52'40.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°44'24.00" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|8°44'22.18" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|29°59'10.82" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|23°59'58.07" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|25°45'10.17" |Capricorn|SaadAlSaud|Sun|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°46'55.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°37'58.57" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°22'24.36" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|23°11'37.30" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|24°45'56.55" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|11°25'28.87" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|28°51'9.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|7°46'55.63" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°37'58.49" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°22'22.93" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|23°11'33.36" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|24°45'54.35" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|11°25'26.15" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|28°27'2.29" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°46'55.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°37'58.57" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|29°22'24.36" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|23°11'37.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|24°45'56.55" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|11°25'28.87" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|28°51'9.91" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|7°46'55.96" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°37'58.71" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|29°22'24.40" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|23°11'37.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|24°45'56.56" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|11°25'28.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|28°51'10.26" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

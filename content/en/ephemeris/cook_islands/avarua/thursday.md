@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°17'35.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|9°13'13.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°38'23.18" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|27°29'20.75" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|9°13'13.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°38'23.21" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|27°29'20.73" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|0°1'14.90" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|18°28'35.34" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|29°4'35.24" |Aries|Thurayya|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°17'35.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|9°13'11.76" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|2°38'27.27" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|27°29'27.63" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°1'21.56" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|18°28'41.04" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|28°13'15.41" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|8°17'35.32" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|9°13'11.90" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|2°38'27.31" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|27°29'27.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°1'21.57" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|18°28'41.01" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|28°13'16.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°44'4.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°34'48.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°4'9.42" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|22°47'28.79" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|24°16'33.68" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|10°46'48.17" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|21°50'8.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|7°44'5.75" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|8°34'50.09" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°4'11.10" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|22°47'35.43" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|24°16'35.70" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|10°46'51.97" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|22°50'21.74" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Libra|Sun|Venus|
 |♀ Venus|Moon|Mars|Virgo|Moon|Mercury|
 |☿ Mercury|Mars|Mars|Taurus|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
+|☾ Moon|Mercury|Mars|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°44'5.75" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|8°34'50.09" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|29°4'11.10" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|22°47'35.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|24°16'35.70" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Direct|29°4'9.42" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|22°47'28.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|24°16'33.68" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|10°46'48.17" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|21°50'8.12" |Pisces|Rescha|Mars|
 

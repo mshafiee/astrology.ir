@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:48:02 |
 | Medium Coeli | 11:48:02 |
 | Sunset | 17:26:52 |
-| Maghrib | 17:27:53 |
+| Maghrib | 17:27:52 |
 | Isha (Night) | 18:40:38 |
 | Sharia Midnight | 23:08:46 |
 | Imum Coeli | 23:48:00 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:48:02 |
 | Medium Coeli | 11:48:02 |
 | Sunset | 17:26:52 |
-| Maghrib | 17:27:53 |
+| Maghrib | 17:27:52 |
 | Isha (Night) | 18:31:43 |
 | Sharia Midnight | 23:15:27 |
 | Imum Coeli | 23:48:00 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:48:02 |
 | Medium Coeli | 11:48:02 |
 | Sunset | 17:26:52 |
-| Maghrib | 17:27:53 |
+| Maghrib | 17:27:52 |
 | Isha (Night) | 18:57:52 |
 | Sharia Midnight | 23:07:40 |
 | Imum Coeli | 23:48:00 |
