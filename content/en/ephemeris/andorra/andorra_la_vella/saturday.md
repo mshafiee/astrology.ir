@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:14:36 |
 | Sunrise | 07:48:52 |
-| Dhuhr (Noon) | 13:07:54 |
-| Medium Coeli | 13:07:54 |
+| Dhuhr (Noon) | 13:07:55 |
+| Medium Coeli | 13:07:55 |
 | Sunset | 18:27:33 |
 | Maghrib | 18:49:43 |
 | Isha (Night) | 19:41:49 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|9°18'20.49" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|3°5'58.32" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|28°5'31.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°45'34.98" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|19°29'15.67" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°3'43.49" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|0°45'36.31" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|19°29'18.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|6°22'55.66" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

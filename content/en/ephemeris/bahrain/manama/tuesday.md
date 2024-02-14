@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|23°54'1.62" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|25°37'47.11" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|12°34'0.57" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|8°59'51.32" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°32'25.07" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Saturn|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Moon|Mars|Libra|Moon|Mercury|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°51'57.00" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°43'35.41" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|29°54'36.14" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|23°54'1.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|25°37'47.11" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|12°34'0.57" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|8°59'51.32" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|7°51'56.88" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|8°43'35.27" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|29°54'36.10" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|23°54'1.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|25°37'47.10" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|12°34'0.61" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|8°59'50.99" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
