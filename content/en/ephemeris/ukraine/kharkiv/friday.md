@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 11:49:03 |
 | Sunset | 16:54:13 |
 | Maghrib | 17:16:15 |
-| Isha (Night) | 18:19:17 |
+| Isha (Night) | 18:19:18 |
 | Sharia Midnight | 22:59:53 |
 | Imum Coeli | 23:49:01 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 11:49:03 |
 | Sunset | 16:54:13 |
 | Maghrib | 17:19:28 |
-| Isha (Night) | 18:19:17 |
+| Isha (Night) | 18:19:18 |
 | Sharia Midnight | 22:54:37 |
 | Imum Coeli | 23:49:01 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°14'2.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|9°9'0.40" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°9'0.40" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°15'48.57" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|26°59'41.21" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|29°24'57.60" |Sagittarius|Baldah|Saturn|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°14'2.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|9°9'0.26" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|8°14'1.95" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|9°9'0.26" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|2°15'48.53" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|26°59'41.24" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|29°24'57.59" |Capricorn|SaadAlSaud|Sun|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°7'33.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|9°1'27.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°34'27.53" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|26°5'25.25" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|28°18'27.76" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|16°8'59.48" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|10°18'51.88" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|9°1'25.89" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°34'28.46" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°5'24.65" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|28°18'29.55" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|16°8'59.87" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|9°35'38.56" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |☿ Mercury|Sun|Venus|Cancer|Sun|Venus|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°7'33.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|9°1'25.89" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|9°1'25.89" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|1°34'28.46" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|26°5'24.65" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|28°18'29.55" |Capricorn|SaadAlSaud|Sun|

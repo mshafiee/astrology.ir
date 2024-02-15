@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:23:53 |
 | Sunset | 18:16:04 |
 | Maghrib | 18:40:31 |
-| Isha (Night) | 19:49:37 |
+| Isha (Night) | 19:49:36 |
 | Sharia Midnight | 00:29:53 |
 | Imum Coeli | 01:23:52 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°59'49.71" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|8°52'31.63" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°52'31.63" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°45'4.32" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|25°0'25.74" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|26°59'1.19" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|14°22'13.15" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|23°44'33.93" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|14°22'12.03" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|24°30'4.31" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°59'49.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|8°52'30.12" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|0°45'5.65" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|25°0'25.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|26°59'3.83" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|14°22'13.12" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|23°44'34.32" |Aries|Butain|Venus|
+|♄ Saturn|Direct|7°59'49.71" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|8°52'31.63" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|0°45'4.28" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|25°0'25.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|26°59'1.18" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|14°22'12.06" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|24°30'3.90" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

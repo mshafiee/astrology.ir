@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:16:57 |
+| Fajr (Dawn) | 05:16:58 |
 | Sunrise | 06:27:16 |
 | Dhuhr (Noon) | 12:24:40 |
 | Medium Coeli | 12:24:40 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°12'53.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|9°7'39.98" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°7'39.98" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°8'33.33" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|26°50'12.08" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|29°13'17.71" |Sagittarius|Baldah|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°12'53.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|9°7'39.98" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|9°7'39.98" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|2°8'33.33" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|26°50'12.08" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|29°13'17.71" |Capricorn|SaadAlSaud|Sun|

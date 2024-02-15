@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:31:55 |
 | Isha (Night) | 19:16:30 |
 | Sharia Midnight | 00:01:00 |
-| Imum Coeli | 00:35:34 |
+| Imum Coeli | 00:35:35 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:34:10 |
 | Isha (Night) | 19:16:30 |
 | Sharia Midnight | 23:57:15 |
-| Imum Coeli | 00:35:34 |
+| Imum Coeli | 00:35:35 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:20:22 |
 | Isha (Night) | 19:31:59 |
 | Sharia Midnight | 23:53:17 |
-| Imum Coeli | 00:35:34 |
+| Imum Coeli | 00:35:35 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:20:22 |
 | Isha (Night) | 19:50:22 |
 | Sharia Midnight | 23:55:29 |
-| Imum Coeli | 00:35:34 |
+| Imum Coeli | 00:35:35 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°13'47.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|9°8'42.92" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°8'42.92" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°14'14.63" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|26°57'39.48" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|29°22'26.46" |Sagittarius|Baldah|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°13'47.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|9°8'42.92" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|9°8'42.92" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|2°14'14.63" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|26°57'39.48" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|29°22'26.46" |Capricorn|SaadAlSaud|Sun|
