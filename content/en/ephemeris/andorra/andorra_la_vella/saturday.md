@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:23:49 |
 | Sunrise | 07:48:52 |
-| Dhuhr (Noon) | 13:07:55 |
-| Medium Coeli | 13:07:55 |
+| Dhuhr (Noon) | 13:07:54 |
+| Medium Coeli | 13:07:54 |
 | Sunset | 18:27:33 |
 | Maghrib | 18:46:57 |
 | Isha (Night) | 19:41:49 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:14:36 |
 | Sunrise | 07:48:52 |
-| Dhuhr (Noon) | 13:07:55 |
-| Medium Coeli | 13:07:55 |
+| Dhuhr (Noon) | 13:07:54 |
+| Medium Coeli | 13:07:54 |
 | Sunset | 18:27:33 |
 | Maghrib | 18:49:43 |
 | Isha (Night) | 19:41:49 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|28°5'20.39" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|0°45'28.71" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|19°29'8.08" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|6°3'41.97" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|6°0'18.99" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°21'54.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°18'19.91" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|9°18'20.49" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|3°5'54.07" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|28°5'20.39" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|0°45'28.71" |Aquarius|SaadAlSaud|Venus|

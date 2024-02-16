@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:50:37 |
 | Dhuhr (Noon) | 12:44:30 |
 | Medium Coeli | 12:44:30 |
-| Sunset | 18:38:31 |
+| Sunset | 18:38:30 |
 | Maghrib | 18:41:35 |
 | Isha (Night) | 19:46:41 |
-| Sharia Midnight | 00:08:18 |
+| Sharia Midnight | 00:08:17 |
 | Imum Coeli | 00:44:29 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:50:37 |
 | Dhuhr (Noon) | 12:44:30 |
 | Medium Coeli | 12:44:30 |
-| Sunset | 18:38:31 |
+| Sunset | 18:38:30 |
 | Maghrib | 18:41:35 |
 | Isha (Night) | 19:38:25 |
-| Sharia Midnight | 00:14:30 |
+| Sharia Midnight | 00:14:29 |
 | Imum Coeli | 00:44:29 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:50:37 |
 | Dhuhr (Noon) | 12:44:30 |
 | Medium Coeli | 12:44:30 |
-| Sunset | 18:38:31 |
+| Sunset | 18:38:30 |
 | Maghrib | 18:41:35 |
 | Isha (Night) | 19:48:45 |
 | Sharia Midnight | 00:05:12 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:50:37 |
 | Dhuhr (Noon) | 12:44:30 |
 | Medium Coeli | 12:44:30 |
-| Sunset | 18:38:31 |
+| Sunset | 18:38:30 |
 | Maghrib | 18:41:35 |
 | Isha (Night) | 19:50:49 |
-| Sharia Midnight | 00:08:18 |
+| Sharia Midnight | 00:08:17 |
 | Imum Coeli | 00:44:29 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°8'38.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°2'41.62" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°41'24.75" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|26°14'32.72" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|28°29'38.98" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|16°24'3.89" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|11°42'26.16" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|8°8'38.67" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|9°2'41.50" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°41'24.84" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°14'32.70" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|28°29'39.16" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|16°24'3.95" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|11°38'35.55" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

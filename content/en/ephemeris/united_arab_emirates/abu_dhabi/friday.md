@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:36:29 |
 | Medium Coeli | 12:36:29 |
 | Sunset | 18:17:32 |
-| Maghrib | 18:35:02 |
+| Maghrib | 18:35:01 |
 | Isha (Night) | 19:17:21 |
 | Sharia Midnight | 23:58:13 |
 | Imum Coeli | 00:36:27 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°13'29.51" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°8'21.88" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|2°12'20.52" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|26°55'9.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°19'23.01" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|17°31'29.16" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|20°43'19.73" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|2°12'20.46" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|26°55'9.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°19'22.91" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|17°31'29.07" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|20°43'55.94" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

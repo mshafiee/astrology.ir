@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°42'56.65" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|9°43'58.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°19'40.69" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|1°0'38.53" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|4°20'17.54" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|24°27'48.43" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|12°33'10.03" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|9°43'59.81" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°19'36.56" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|1°0'31.53" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|4°20'11.04" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|24°27'42.91" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|13°36'45.64" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Jupiter|Saturn|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°42'56.53" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|8°42'56.65" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°43'58.69" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|5°19'40.73" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|1°0'38.52" |Pisces|FarghAlMuqaddam|Saturn|

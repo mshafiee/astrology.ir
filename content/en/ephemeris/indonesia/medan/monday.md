@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|9°42'14.84" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°10'49.92" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|0°49'5.66" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|4°6'5.29" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|24°7'49.40" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|10°6'21.66" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|4°6'5.56" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|24°7'49.27" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|9°59'42.45" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Saturn|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°41'33.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°42'14.84" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|5°10'49.92" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|0°49'5.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|4°6'5.56" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|24°7'49.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|9°42'15.17" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|5°10'49.77" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|0°49'6.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|4°6'5.29" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|24°7'49.40" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|10°6'21.66" |Cancer|Nathrah|Mercury|
 
 
