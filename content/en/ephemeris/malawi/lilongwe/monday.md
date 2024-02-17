@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°35'30.71" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|9°34'49.43" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°32'24.94" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|29°58'48.77" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|9°34'48.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°32'28.69" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|29°58'54.68" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|3°4'31.54" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|22°41'35.11" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|29°41'39.62" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|22°41'30.29" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|0°42'48.03" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Moon|Libra|Sun|Venus|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°35'30.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°34'48.21" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|9°34'49.43" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|4°32'24.94" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|29°58'48.77" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|3°4'25.57" |Aquarius|SaadAlSaud|Venus|

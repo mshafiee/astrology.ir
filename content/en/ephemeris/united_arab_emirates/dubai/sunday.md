@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°27'58.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°25'37.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°44'32.79" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|28°56'4.54" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|1°47'33.42" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|9°25'37.67" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°44'33.58" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|28°56'7.65" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|1°47'34.50" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|20°54'41.03" |Capricorn|SaadAlBula|Sun|
 |☾ Moon|Direct|16°45'43.09" |Taurus|Dabaran|Moon|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°27'58.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°25'37.04" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|3°44'32.79" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|28°56'4.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°47'33.42" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|20°54'39.09" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|16°34'45.39" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|9°25'37.67" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|3°44'33.58" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|28°56'7.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°47'34.50" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|20°54'41.03" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|16°45'43.09" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
