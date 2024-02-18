@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:07:37|Night duration: 12:51:13|
+|Duration of the day: 11:07:37|Night duration: 12:51:12|
 |Every hour duration: 01:35:22|Every hour duration: 01:50:10|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Sun|Ruler|17:34:14|19:24:23|
 |Late evening|Venus|Servant|19:24:24|21:14:33|
-|Midnight|Mercury|Servant|21:14:34|23:04:44|
-|Late at night|Moon|Servant|23:04:45|00:54:54|
-|Rooster song|Saturn|Servant|00:54:55|02:45:05|
-|False Dawn|Jupiter|Servant|02:45:06|04:35:15|
-|Dawn|Mars|Servant|04:35:16|06:25:26|
+|Midnight|Mercury|Servant|21:14:34|23:04:43|
+|Late at night|Moon|Servant|23:04:44|00:54:54|
+|Rooster song|Saturn|Servant|00:54:55|02:45:04|
+|False Dawn|Jupiter|Servant|02:45:05|04:35:14|
+|Dawn|Mars|Servant|04:35:15|06:25:25|
 
 {{< /tab >}}
 
