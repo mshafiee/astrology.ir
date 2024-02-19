@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°42'12.10" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|9°43'3.39" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|9°43'3.39" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°14'57.99" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|0°54'28.71" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|4°12'43.78" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|24°17'9.75" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|11°17'58.84" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|4°12'39.68" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|24°17'7.21" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|12°7'12.75" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°42'12.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°43'3.34" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|5°14'58.53" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|0°54'29.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|4°12'44.62" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|24°17'10.57" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°10'55.85" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|9°43'4.64" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|5°14'55.40" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|0°54'25.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|4°12'39.70" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|24°17'7.19" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|12°7'12.75" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

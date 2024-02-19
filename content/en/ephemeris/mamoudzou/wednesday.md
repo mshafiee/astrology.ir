@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°49'51.43" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|9°52'37.01" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|8°49'51.55" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|9°52'36.16" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°3'32.81" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|1°58'0.97" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|5°30'40.65" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|26°7'19.35" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|24°1'36.93" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°50'56.41" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Mars|Mars|Mercury|Jupiter|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°49'51.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°52'37.16" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|6°3'32.85" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|1°58'0.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|5°30'38.53" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|26°7'15.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|24°1'36.93" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|8°49'51.43" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|9°52'36.16" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|6°3'30.31" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|1°57'53.18" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|5°30'36.88" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|26°7'14.04" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|24°15'40.37" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:27:44 |
 | Medium Coeli | 12:27:44 |
 | Sunset | 18:32:24 |
-| Maghrib | 18:33:19 |
+| Maghrib | 18:33:18 |
 | Isha (Night) | 19:31:05 |
 | Sharia Midnight | 23:58:21 |
 | Imum Coeli | 00:27:41 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:27:44 |
 | Medium Coeli | 12:27:44 |
 | Sunset | 18:32:24 |
-| Maghrib | 18:33:19 |
+| Maghrib | 18:33:18 |
 | Isha (Night) | 20:03:18 |
 | Sharia Midnight | 23:51:12 |
 | Imum Coeli | 00:27:41 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°51'48.08" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|9°55'4.26" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|8°51'48.21" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|9°55'4.26" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°15'52.75" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|2°14'7.72" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|5°50'27.53" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|26°35'26.77" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|27°6'14.71" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°14'7.71" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|5°50'27.54" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|26°35'26.76" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|27°6'15.11" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°51'48.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°55'4.26" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|8°51'48.21" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|9°55'4.13" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|6°15'52.75" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|2°14'7.71" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|5°50'27.54" |Aquarius|SaadAlSaud|Venus|

@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:16:09 |
-| Sunrise | 06:36:24 |
+| Sunrise | 06:36:25 |
 | Dhuhr (Noon) | 12:24:53 |
 | Medium Coeli | 12:24:53 |
 | Sunset | 18:13:34 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°30'19.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°28'28.12" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|9°28'28.12" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°59'28.45" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|29°15'40.53" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|2°11'31.77" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|21°27'43.38" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|21°39'0.49" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°15'40.82" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|2°11'31.81" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|21°27'51.68" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|20°51'3.39" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mercury|Moon|Virgo|Sun|Venus|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°30'19.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°28'28.12" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|3°59'28.45" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|29°15'40.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°11'31.77" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|21°27'51.50" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°49'35.49" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|9°28'28.06" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|3°59'28.46" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|29°15'40.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°11'31.81" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|21°27'51.66" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°51'4.81" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

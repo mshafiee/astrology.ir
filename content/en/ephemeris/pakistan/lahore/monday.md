@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:16:27 |
 | Sunset | 17:52:16 |
 | Maghrib | 17:54:43 |
-| Isha (Night) | 19:10:08 |
+| Isha (Night) | 19:10:09 |
 | Sharia Midnight | 23:34:56 |
 | Imum Coeli | 00:16:24 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°34'53.24" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|9°34'2.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°28'30.95" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|29°53'41.60" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|2°58'9.94" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|22°32'43.16" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|28°46'39.84" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|9°34'2.45" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°28'30.98" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|29°53'41.85" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|2°58'9.98" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|22°32'43.29" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|28°48'17.60" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°34'53.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°34'2.36" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|4°28'30.95" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|29°53'41.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°58'9.95" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|22°32'43.14" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|28°46'39.84" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|8°34'53.12" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|9°34'2.31" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|4°28'30.94" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|29°53'41.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°58'9.98" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|22°32'43.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|28°48'17.60" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

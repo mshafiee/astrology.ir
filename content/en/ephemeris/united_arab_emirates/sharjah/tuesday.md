@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:32:06 |
 | Sunset | 18:15:00 |
 | Maghrib | 18:16:00 |
-| Isha (Night) | 19:30:31 |
+| Isha (Night) | 19:30:32 |
 | Sharia Midnight | 23:49:43 |
 | Imum Coeli | 00:32:03 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°42'30.96" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|9°43'26.72" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|9°43'26.72" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°16'57.52" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|0°57'5.54" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|4°15'55.69" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|24°21'39.57" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|11°44'31.99" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|4°15'55.59" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|24°21'39.49" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|11°45'31.53" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°42'30.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°43'26.71" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|5°16'57.59" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|0°57'5.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|4°15'55.69" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|24°21'39.57" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°44'31.99" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|9°43'26.72" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|5°16'57.52" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|0°57'5.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|4°15'55.59" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|24°21'39.49" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°45'31.53" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
