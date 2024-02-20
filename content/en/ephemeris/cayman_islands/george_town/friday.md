@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°14'27.75" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°24'14.65" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°39'23.63" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°21'15.97" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°40'31.00" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|2°7'27.17" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|5°17'46.29" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|9°14'27.62" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|10°24'13.34" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°39'28.90" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°21'24.99" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°40'38.99" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|2°7'33.88" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|4°21'21.56" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aries|Sun|Saturn|
 |♀ Venus|Mars|Jupiter|Aries|Moon|Saturn|
 |☿ Mercury|Saturn|Venus|Aquarius|Sun|Saturn|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°14'27.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°24'14.65" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°39'23.63" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°21'15.97" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°40'31.00" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|2°7'27.17" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|5°17'46.29" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|9°14'27.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|10°24'13.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°39'28.90" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°21'24.99" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°40'38.99" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|2°7'33.88" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|4°21'21.56" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Mars|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°14'14.06" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°23'55.51" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|9°14'13.94" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|10°23'55.36" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|8°38'2.13" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|5°19'32.30" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|9°38'19.91" |Capricorn|SaadAlDhabib|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°14'14.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°23'55.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°38'2.02" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°19'32.29" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°38'19.73" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|2°4'10.34" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°54'26.01" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|9°14'14.06" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|10°23'55.51" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°38'2.13" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°19'32.30" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°38'19.91" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|2°4'10.37" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°54'9.11" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: MAR, Maracaibo, Marakaibas, Marakaibo, Marakaimpo, Marakajba, Marakajbo, Marakaybo, Marakaypu, ma la kai bo, ma ra ki bo, malakaibo, maraka'ibo, marakaibo, marakaybw, Μαρακάιμπο, Маракаибо, Маракайба, Маракайбо, Մարակայբո, מרקאיבו, ماراكايبو, माराकाईबो, ਮਾਰਾਕਾਈਬੋ, มาราไกโบ, მარაკაიბო, マラカイボ, 马拉开波, 마라카이보

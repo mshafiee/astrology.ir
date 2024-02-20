@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°12'28.97" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°21'38.18" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°26'57.69" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°5'5.09" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°20'35.62" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|9°12'29.10" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|10°21'38.34" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°26'57.73" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°5'5.08" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°20'35.63" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|1°38'16.66" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|1°26'54.90" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°26'53.99" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°12'28.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°21'36.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°26'57.93" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°5'1.88" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°20'36.04" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|1°38'14.65" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°41'13.41" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|9°12'29.10" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|10°21'38.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°26'57.73" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°5'5.08" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°20'35.63" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|1°38'16.66" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°26'53.99" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: PRN, Prestena, Prishhina, Prishtina, Prishtinae, Prishtine, Prishtinë, Prisjtina, Pristin, Pristina, Pristine, Pristino, Pristína, Prisztina, Prixtina, Priŝtino, Priştina, Priştine, Prištin, Priština, Priștina, Pryshcina, Prìstina, Prėštėna, bryshtyna, peulisyutina, phrich ti na, piristina, prisatina, pristina, pryshtyna, prystynh, prysٹyna, pu li shen di na, purishutina, Πρίστινα, Приштинæ, Приштина, Прищина, Прышціна, Պրիշտինա, פרישטינה, بريشتينا, پریسٹینا, پریشتینا, प्रिस्टिना, ਪ੍ਰਿਸ਼ਤੀਨਾ, பிரிஸ்டினா, พริชตีนา, པི་རི་སི་ཊི་ན།, პრიშტინა, プリシュティナ, 普里什蒂納, 普里什蒂纳, 프리슈티나
