@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°12'21.30" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°21'28.19" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°26'8.43" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°4'0.56" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°19'16.67" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|1°36'21.58" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|1°18'9.94" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|9°12'21.17" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|10°21'28.03" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°26'8.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°4'0.57" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°19'16.66" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|1°36'21.59" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°18'10.85" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°12'21.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°21'28.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°26'8.43" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°4'0.56" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°19'16.67" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|1°36'21.58" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°18'9.94" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|9°12'21.17" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°21'28.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°26'5.98" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°3'51.72" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°19'13.08" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|1°36'15.48" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°8'11.96" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:37:42 |
+| Fajr (Dawn) | 03:37:41 |
 | Sunrise | 06:05:41 |
 | Dhuhr (Noon) | 13:04:55 |
 | Medium Coeli | 13:04:55 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°6'19.79" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°13'38.07" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°13'38.07" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|7°47'58.46" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|4°14'18.28" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|8°18'7.18" |Capricorn|SaadAlDhabib|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°6'19.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°13'38.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°47'55.73" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|4°14'13.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|8°18'2.95" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|0°7'23.44" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|21°39'56.72" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|10°13'38.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°47'58.50" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|4°14'18.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|8°18'7.19" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|0°7'27.15" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|21°3'10.68" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°11'53.13" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°20'51.35" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°23'10.60" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°0'9.39" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°14'31.78" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|1°29'25.96" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|0°26'39.66" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|9°11'53.26" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|10°20'49.80" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°23'8.18" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°0'0.27" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°14'28.19" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|1°29'19.67" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°17'23.75" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°11'53.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°20'51.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°23'10.60" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°0'9.39" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°14'31.78" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|1°29'25.96" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|0°26'39.66" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|9°11'53.26" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°20'51.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°23'10.64" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°0'9.38" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°14'31.79" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|1°29'25.95" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|0°26'38.78" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠

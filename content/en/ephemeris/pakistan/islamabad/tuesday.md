@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°42'11.98" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|9°43'3.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°14'57.95" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|0°54'28.72" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|4°12'43.77" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|24°17'9.76" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|11°17'57.97" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|8°42'12.10" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|9°43'3.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°14'57.99" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|0°54'28.71" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|4°12'39.70" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|24°17'7.19" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|12°7'12.75" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°42'11.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|9°43'3.24" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|5°14'57.95" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|8°42'12.10" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|9°43'3.39" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|5°14'57.99" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|0°54'28.72" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|4°12'43.77" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|24°17'9.76" |Aquarius|FarghAlMuqaddam|Moon|

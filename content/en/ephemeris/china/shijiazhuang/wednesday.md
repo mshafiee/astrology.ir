@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°55'57.71" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°0'20.33" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°0'20.33" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|6°42'15.24" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|2°48'32.13" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|6°32'45.64" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|27°35'48.66" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|4°20'13.61" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°32'45.91" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|27°35'48.14" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|4°15'51.45" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Pisces|Sun|Saturn|
 |♀ Venus|Jupiter|Saturn|Pisces|Moon|Saturn|
 |☿ Mercury|Moon|Mercury|Sagittarius|Sun|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°55'57.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°0'20.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°42'15.24" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|8°55'57.59" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°0'20.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°42'15.20" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|2°48'32.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|6°32'45.64" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|27°35'48.66" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°20'13.61" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|6°32'45.63" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|27°35'48.67" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°20'13.46" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°12'52.70" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°22'9.70" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°29'27.38" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°8'19.33" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°24'35.52" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|1°44'7.87" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|2°21'27.16" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|9°12'52.83" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|10°22'7.83" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°29'28.78" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°8'18.24" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°24'37.72" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|1°44'7.41" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|2°22'40.40" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°12'52.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°22'9.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°29'28.19" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°8'20.58" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°24'36.78" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|1°44'8.82" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°12'59.67" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|9°12'52.83" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°22'7.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°29'28.78" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°8'18.24" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°24'37.72" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|1°44'7.41" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°22'40.40" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: An Bhruiseil, An Bhruiséil, BRU, Breissel, Brisel, Brisele, Briuselis, Brjuksel, Brjusel', Brjussel', Brueksel, Bruessel, Bruesszel, Bruiseal, Bruksel, Bruksela, Brukseli, Brukselo, Brusehl', Brusel, Brusela, Bruselas, Bruseles, Bruselj, Bruselo, Brusel·les, Brussel, Brussele, Brussels, Brussel·les, Bruxel, Bruxelas, Bruxellae, Bruxelles, Brwsel, Bryssel, Bryusel, Bryxelles, Bréissel, Brüksel, Brüssel, Brüsszel, Citta di Bruxelles, Città di Bruxelles, City of Brussels, Kota Brusel, beulwisel, braselasa, braselsa, brassels, briuseli, brwksl, brysl, bu lu sai er, buryusseru, Βρυξέλλες, Брисел, Брусэль, Брюксел, Брюсель, Брюссель, Բրյուսել, בריסל, بروكسل, بروکسل, بريۇسسېل, ܒܪܘܟܣܠ, ब्रसेल्स, ব্রাসেলস, บรัสเซลส์, ბრიუსელი, ブリュッセル, 布魯塞爾, 布鲁塞尔, 브뤼셀

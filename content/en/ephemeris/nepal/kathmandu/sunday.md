@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°18'25.38" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°29'24.53" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|9°4'32.52" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°53'57.65" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|10°20'47.65" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|3°6'23.67" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|11°37'18.69" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|10°29'25.99" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|9°4'34.26" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°54'4.68" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|10°20'50.26" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|3°6'28.55" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|10°52'13.08" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Mercury|Venus|Mars|
 |☿ Mercury|Mercury|Saturn|Saturn|Saturn|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°18'25.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°29'25.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°4'34.26" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°54'4.68" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°29'26.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°4'34.29" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°54'4.66" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|10°20'50.26" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|3°6'28.55" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|10°52'13.08" |Virgo|Awwa|Venus|
