@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°57'22.55" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°2'6.85" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|6°51'10.25" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|3°0'7.57" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|6°47'3.80" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|27°56'16.49" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|6°52'15.91" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|10°2'8.12" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|6°51'12.64" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|3°0'15.17" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|6°47'7.28" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|27°56'21.68" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|6°22'25.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Pisces|Sun|Saturn|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Moon|Mercury|Sagittarius|Sun|Venus|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°57'22.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°2'7.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°51'12.60" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|3°0'15.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|6°47'7.27" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|8°57'22.55" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°2'8.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°51'12.64" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|3°0'15.17" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|6°47'7.28" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|27°56'21.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°22'25.39" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|6°22'25.44" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

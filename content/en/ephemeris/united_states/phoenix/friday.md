@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°15'8.56" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°25'7.13" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°43'47.27" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°26'57.70" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°47'33.03" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|2°17'38.32" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|5°57'36.42" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|9°15'8.43" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|10°25'6.98" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°43'47.65" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°27'1.19" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°47'33.54" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|2°17'40.66" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|5°37'49.15" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°15'8.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°25'7.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°43'47.68" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°27'1.18" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°47'33.03" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|2°17'38.32" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|5°57'36.42" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|9°15'8.43" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°25'6.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°43'47.65" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°27'1.19" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°47'33.54" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|2°17'40.66" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|5°37'49.15" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°17'20.78" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°27'59.45" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°57'44.42" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°45'7.48" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|10°9'53.87" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|2°50'22.83" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|9°33'50.91" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|9°17'20.90" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|10°28'1.02" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°57'45.62" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°45'13.56" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|10°9'55.64" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|2°50'26.99" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|8°55'25.76" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°17'20.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°28'1.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°57'45.62" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°45'7.48" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|10°9'53.87" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|2°50'22.83" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|9°33'50.91" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|9°17'20.78" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°28'0.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°57'45.58" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°45'13.58" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|10°9'55.64" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|2°50'27.00" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|8°55'26.78" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

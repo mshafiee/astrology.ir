@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°25'17.74" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°38'32.09" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|9°48'0.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|6°50'28.18" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|11°30'23.46" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|4°49'6.62" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|23°26'24.59" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|9°25'17.61" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|10°38'33.17" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|9°48'5.96" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|6°50'43.41" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|11°30'32.33" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|4°49'17.52" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|21°54'37.85" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Jupiter|Mars|Pisces|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°25'17.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°38'32.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°48'0.04" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|6°50'28.18" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|9°25'17.61" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°38'33.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°48'5.96" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|6°50'43.41" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|11°30'23.46" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|4°49'6.62" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|23°26'24.59" |Virgo|Simak|Mercury|

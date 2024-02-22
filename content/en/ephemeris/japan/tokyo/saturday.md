@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°17'20.90" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°28'1.49" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°57'40.79" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°45'0.99" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|10°9'48.66" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|2°50'21.26" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|10°29'49.70" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|9°17'21.02" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|10°28'1.34" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°57'46.80" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°45'13.68" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|10°9'57.64" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|2°50'30.46" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|9°14'16.30" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Mercury|Venus|Mars|
 |☿ Mercury|Mercury|Saturn|Saturn|Saturn|
-|☾ Moon|Venus|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Saturn|Venus|Pisces|Sun|Saturn|
-|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°17'21.02" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|10°28'1.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°57'40.76" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°45'1.01" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|10°9'48.65" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|2°50'21.27" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|10°29'50.72" |Virgo|Awwa|Venus|
+|♂ Mars|Direct|8°57'46.80" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°45'13.68" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|10°9'57.64" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|2°50'30.46" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|9°14'16.30" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Mercury|Mercury|Moon|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Mars|Saturn|Gemini|Sun|Saturn|
 |☿ Mercury|Jupiter|Moon|Aries|Moon|Jupiter|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경

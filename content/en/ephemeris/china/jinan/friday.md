@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:25:26 |
 | Medium Coeli | 12:25:26 |
 | Sunset | 17:59:52 |
-| Maghrib | 18:01:00 |
+| Maghrib | 18:01:01 |
 | Isha (Night) | 19:22:13 |
 | Sharia Midnight | 23:41:28 |
 | Imum Coeli | 00:25:22 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:25:26 |
 | Medium Coeli | 12:25:26 |
 | Sunset | 17:59:52 |
-| Maghrib | 18:01:00 |
+| Maghrib | 18:01:01 |
 | Isha (Night) | 19:12:14 |
 | Sharia Midnight | 23:48:56 |
 | Imum Coeli | 00:25:22 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:25:26 |
 | Medium Coeli | 12:25:26 |
 | Sunset | 17:59:52 |
-| Maghrib | 18:01:00 |
+| Maghrib | 18:01:01 |
 | Isha (Night) | 19:24:43 |
 | Sharia Midnight | 23:37:43 |
 | Imum Coeli | 00:25:22 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:25:26 |
 | Medium Coeli | 12:25:26 |
 | Sunset | 17:59:52 |
-| Maghrib | 18:01:00 |
-| Isha (Night) | 19:31:00 |
+| Maghrib | 18:01:01 |
+| Isha (Night) | 19:31:01 |
 | Sharia Midnight | 23:40:13 |
 | Imum Coeli | 00:25:22 |
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°10'30.26" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|10°19'3.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°14'25.51" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|4°48'45.45" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°0'29.35" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|1°8'59.17" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|28°18'13.63" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|8°14'25.73" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|4°48'45.73" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°0'30.73" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|1°9'0.45" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|28°8'46.40" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
