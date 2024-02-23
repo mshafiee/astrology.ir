@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°15'54.85" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°26'7.78" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°26'7.78" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|8°48'40.46" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|5°33'24.28" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|9°55'22.42" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|2°29'6.55" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|7°12'4.16" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|6°29'8.36" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aries|Sun|Saturn|
 |♀ Venus|Mars|Jupiter|Aries|Moon|Saturn|
 |☿ Mercury|Saturn|Venus|Aquarius|Sun|Saturn|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°15'54.85" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°26'8.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°48'36.13" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°33'17.28" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°55'15.87" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|2°29'1.32" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°12'4.16" |Virgo|Awwa|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°26'7.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°48'40.46" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°33'24.28" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°55'22.42" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|2°29'6.55" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°29'8.36" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Mars|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°11'42.68" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°20'37.48" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°20'37.48" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|8°22'3.06" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|4°58'43.60" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|9°12'43.37" |Capricorn|SaadAlDhabib|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°11'42.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°20'37.48" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|10°20'37.48" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|8°22'3.06" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|4°58'43.60" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°12'43.37" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|1°26'47.09" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|29°40'7.18" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|4°58'38.01" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°12'41.14" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|1°26'43.26" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|0°11'18.83" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Mars|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}

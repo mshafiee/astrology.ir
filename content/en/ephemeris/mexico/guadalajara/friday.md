@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°14'55.04" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°24'49.30" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°24'49.30" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|8°42'21.81" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|5°25'10.05" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|9°45'15.92" |Capricorn|SaadAlDhabib|Jupiter|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°14'55.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°24'49.30" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|10°24'49.30" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|8°42'21.81" |Aquarius|SaadAlAkhbia|Venus|
 |☉ Sun|Direct|5°25'10.05" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|9°45'15.92" |Aquarius|SaadAlAkhbia|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Atemaxac, GDL, Gouadalachara, Guadalajara, Guadalajara i Jalisco, Guadalakhara, Guadalaxara, Gvadalachara, Gvadalahara, Gvadalaharo, Gvadalakhara, Gvadalakharae, gatalajara, ghwadalakhara, gu'adalahara, gua da la ha la, guadarahara, gvadalahara, gvadalakhara, gwadalakhara  khalyskw, gwadallahala, gwwdlhrh, kwa da la ha ra, Ātemaxac, Γουαδαλαχάρα, Гвадалахарæ, Гвадалахара, Гуадалахара, גוודלחרה, غوادالاخارا, گوادالاخارا، خالیسکو, گواڈلہارا, ग्वादालाहारा, ਗੁਆਦਾਲਾਹਾਰਾ, ഗൗതലജാറ, กวาดาลาฮารา, გვადალახარა, グアダラハラ, 瓜达拉哈拉, 과달라하라

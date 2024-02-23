@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°12'34.68" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°21'45.41" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°21'45.41" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|8°27'32.53" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|5°5'52.42" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|9°21'31.25" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|1°39'37.06" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|1°9'40.51" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|1°39'30.38" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|2°4'13.40" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°12'34.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°21'45.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°27'30.93" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°5'50.34" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°21'28.85" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|1°39'35.44" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°24'48.51" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°21'45.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°27'32.53" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°5'52.42" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°21'31.25" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|1°39'37.06" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°4'13.40" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

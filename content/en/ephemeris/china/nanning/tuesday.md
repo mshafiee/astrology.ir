@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°39'53.43" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°58'15.53" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°20'33.91" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|8°50'52.82" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|13°58'31.09" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|8°30'16.08" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|15°35'27.60" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|9°39'53.55" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|10°58'15.68" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°20'33.94" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|8°50'52.81" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|13°58'21.91" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|8°30'5.37" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|16°47'2.81" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Taurus|Sun|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
+|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°39'53.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°58'15.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°20'33.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|8°50'52.82" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|9°39'53.55" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|10°58'14.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°20'27.76" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|8°50'37.99" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|13°58'21.91" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|8°30'5.37" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|16°47'2.81" |Libra|Jubana|Saturn|

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°17'31.76" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°28'15.47" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°28'15.47" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|8°58'54.74" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|5°46'42.26" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|10°11'46.44" |Capricorn|SaadAlDhabib|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°17'31.76" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°28'15.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°58'54.74" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°46'42.26" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|10°11'46.44" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|2°53'10.08" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|10°11'51.21" |Virgo|Awwa|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|10°28'15.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°58'48.62" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°46'28.79" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|10°11'37.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|2°53'0.35" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|10°50'25.79" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시

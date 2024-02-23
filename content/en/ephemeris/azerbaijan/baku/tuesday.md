@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°33'49.64" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°50'1.21" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|10°42'8.76" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|8°0'57.78" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|12°57'2.89" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|6°58'2.74" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|5°56'28.46" |Virgo|Awwa|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°49'59.49" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|10°42'6.27" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|8°0'48.55" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|12°56'59.13" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|6°57'56.11" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|7°5'47.23" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Saturn|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Mercury|Mercury|Saturn|Saturn|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |♀ Venus|Sun|Mars|Gemini|Moon|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Aries|Sun|Saturn|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°33'49.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°50'1.21" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|10°50'1.21" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|10°42'8.76" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|8°0'57.78" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|12°57'2.89" |Aquarius|SaadAlAkhbia|Mercury|

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°17'56.12" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°28'47.51" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°28'47.51" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|9°1'28.87" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|5°50'3.54" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|10°15'53.27" |Capricorn|SaadAlDhabib|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°17'56.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°28'47.51" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|10°28'47.51" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°1'28.87" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°50'3.54" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|10°15'53.27" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|2°59'12.20" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|10°1'20.92" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|5°49'48.65" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|10°15'44.04" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|2°59'1.53" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|11°31'17.76" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

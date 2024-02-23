@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:17:07 |
+| Fajr (Dawn) | 05:17:06 |
 | Sunrise | 06:29:51 |
 | Dhuhr (Noon) | 12:59:24 |
 | Medium Coeli | 12:59:24 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°19'33.22" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|10°30'55.69" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°30'55.69" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|9°11'43.72" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|6°3'25.04" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|10°32'17.95" |Capricorn|SaadAlDhabib|Mars|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°19'33.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°30'55.69" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|10°30'55.69" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°11'43.72" |Aquarius|SaadAlAkhbia|Venus|
 |☉ Sun|Direct|6°3'25.04" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|10°32'17.95" |Aquarius|SaadAlAkhbia|Mercury|
