@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|9°12'45.40" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Post-Retrograde Shadow|10°21'59.78" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|8°28'41.32" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°7'19.12" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°23'21.68" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|1°42'19.32" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|2°5'36.01" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°7'22.32" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°23'22.01" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|1°42'21.40" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°49'9.50" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°12'45.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°21'58.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°28'42.77" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°7'19.16" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°23'23.94" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|1°42'19.60" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°0'49.39" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|9°12'45.88" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|10°22'1.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°28'41.56" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°7'22.32" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°23'22.01" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|1°42'21.40" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°49'9.50" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: CPH, Cobanhavan, Copenaga, Copenaghen, Copenaguen, Copenhaga, Copenhagen, Copenhague, Copenhaguen, Copenhaguen - Kobenhavn, Copenhaguen - København, Cóbanhávan, Hafnia, Kapehngagen, Kaupmannahoefn, Kaupmannahöfn, Keypmannahavn, Kjobenhavn, Kjopenhamn, Kjøpenhamn, Kobenhamman, Kobenhaven, Kobenhavn, Kodan, Kodaň, Koebenhavn, Koeoepenhamina, Koepenhamn, Kopenage, Kopenchage, Kopengagen, Kopenhaagen, Kopenhag, Kopenhaga, Kopenhage, Kopenhagen, Kopenhagena, Kopenhago, Kopenhāgena, Kopenkhagen, Koppenhaga, Koppenhága, Kòpenhaga, Köbenhavn, Köpenhamn, Kööpenhamina, København, Københámman, ge ben ha gen, khopenheken, kopanahagana, kopenahagena, kopenahegena, kopenhagen, kwbnhaghn, kwpnhgn, qwpnhgn, Κοπεγχάγη, Капэнгаген, Копенгаген, Копенхаген, Կոպենհագեն, קופנהאגן, קופנהגן, كوبنهاغن, كوپېنھاگېن, ܟܘܦܢܗܓܢ, कोपनहागन, কোপেনহাগেন, কোপেনহেগেন, โคเปนเฮเกน, ཀའོ་པེན་ཧ་ཀེན, კოპენჰაგენი, ኮፐንሀገን, ኮፕንሀግ, コペンハーゲン, 哥本哈根, 코펜하겐

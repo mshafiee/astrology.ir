@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°14'52.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°24'46.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°41'59.36" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|5°24'36.83" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°44'40.50" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|2°13'31.17" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|6°10'47.36" |Virgo|Awwa|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|10°24'45.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°42'4.66" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|5°24'47.45" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|9°44'48.47" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|2°13'38.92" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|5°5'31.66" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: MTY, Mantehrehj, Mons Regis, Monterej, Monterejo, Monterejus, Monterey, Monterrei, Monterrej, Monterreja, Monterrey, Monterrey City, Monterrey i Nuevo Leon, Monterrey i Nuevo León, Monterėjus, Tlahtoantepec, Tlahtoāntepēc, mamtere, meng te lei, montelei, montere'i, monterei, mwntry, mwntryy, mwntyry, mxn terrey, Μοντερρέι, Мантэрэй, Монтерей, Монтереј, Монтеррей, Մոնտերեյ, מונטריי, مونتری, مونتيري, مونتےرئی, माँतेरे, ਮੋਂਤੇਰੇਈ, มอนเตร์เรย์, མཱོན་ཊི་རེ།, მონტერეი, モンテレイ, 蒙特雷, 몬테레이

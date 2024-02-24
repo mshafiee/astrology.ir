@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:50:12 |
+| Fajr (Dawn) | 04:50:13 |
 | Sunrise | 06:06:19 |
 | Dhuhr (Noon) | 12:22:47 |
 | Medium Coeli | 12:22:47 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°33'28.17" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°49'31.97" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|10°39'52.12" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|7°58'2.52" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|9°33'28.04" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|10°49'31.81" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|10°39'52.09" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|7°58'2.53" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|12°53'24.07" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|6°52'34.70" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|4°55'6.52" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|6°52'34.71" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|4°55'6.87" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°33'28.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°49'31.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°39'52.12" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|7°58'2.52" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|9°33'28.04" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|10°49'31.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°39'52.09" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|7°58'2.53" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|12°53'24.07" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|6°52'34.70" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|4°55'6.52" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°52'34.71" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°55'6.87" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

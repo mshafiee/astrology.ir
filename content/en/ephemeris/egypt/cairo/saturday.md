@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°12'13.01" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Post-Retrograde Shadow|10°21'17.22" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°25'13.97" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°2'45.36" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°17'49.61" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|1°34'12.49" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|1°30'30.23" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|8°25'15.59" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°2'52.82" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°17'51.94" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|1°34'17.57" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|0°50'16.04" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°12'13.01" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|10°21'17.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°25'15.59" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|8°25'13.97" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|5°2'45.36" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|9°17'49.61" |Aquarius|SaadAlAkhbia|Venus|
 |☿ Mercury|Direct|1°34'12.49" |Pisces|FarghAlMuqaddam|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Al Qahirah, Al Qāhirah, CAI, Caire, Cairo, Cairo - alqahrt, Cairo - القاهرة, Cairu, Cairus, Caïro, El Caire, El Cairo, El Kahira, El Kahirah, El-Qahira, El-Qâhira, Il Cairo, Kaherah, Kahira, Kahirae, Kahire, Kahirä, Kair, Kaira, Kairas, Kairo, Kairó, Kajro, Kayro, Kaíró, Kaïro, Káhira, Le Caire, Lo Cayiro, Lungsod ng Cairo, Masr, Misr, Qahirə, alqahrt, kai luo, kailo, kairo, kayaro, keyro, khiro, qahrh, qhyr, Ël Cairo, Ël Càiro, Κάιρο, Каир, Каиро, Кайро, Каїр, קהיר, القاهرة, قاهره, قاھىرە, قاہرہ, কায়রো, கெய்ரோ, ไคโร, ཁ་ཡི་རོ, ქაირო, ካይሮ, カイロ, 开罗, 카이로
