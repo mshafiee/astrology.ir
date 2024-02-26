@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:02:48 |
 | Sunset | 17:56:32 |
 | Maghrib | 17:59:23 |
-| Isha (Night) | 19:09:21 |
+| Isha (Night) | 19:09:20 |
 | Sharia Midnight | 23:26:14 |
 | Imum Coeli | 00:02:43 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°26'45.99" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°40'31.21" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°40'31.21" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|9°57'25.62" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|7°2'51.54" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|11°45'28.30" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|5°11'25.49" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|24°14'15.39" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|11°45'25.11" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|5°11'23.77" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|24°16'45.39" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°26'45.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°40'31.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°57'25.62" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|7°2'51.54" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|11°45'28.30" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|5°11'25.49" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|24°14'15.39" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|9°26'46.11" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°40'32.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°57'23.50" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|7°2'49.28" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|11°45'25.11" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|5°11'23.77" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|24°16'45.39" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

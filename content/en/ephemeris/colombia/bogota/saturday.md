@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°21'35.10" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°33'37.06" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°33'37.06" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|9°24'35.67" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|6°20'9.33" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|10°52'54.15" |Capricorn|SaadAlDhabib|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°21'35.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°33'37.06" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|10°33'37.06" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°24'35.67" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|6°20'9.33" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|10°52'54.15" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|3°53'40.02" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|15°45'37.31" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|6°19'52.48" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|10°52'43.93" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|3°53'27.95" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|17°27'7.53" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Mercury|Mercury|Moon|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Mars|Saturn|Gemini|Sun|Saturn|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}

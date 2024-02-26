@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:23:44 |
 | Sunset | 18:03:00 |
 | Maghrib | 18:04:10 |
-| Isha (Night) | 19:33:02 |
+| Isha (Night) | 19:33:03 |
 | Sharia Midnight | 23:38:22 |
 | Imum Coeli | 00:23:39 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°54'24.63" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|11°18'18.80" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|11°18'18.80" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|12°52'35.73" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|10°50'14.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|16°25'41.21" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|12°13'29.90" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|9°37'24.48" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|16°25'41.18" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|12°13'29.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|9°38'17.49" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°54'24.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|11°18'18.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°52'35.73" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|10°50'14.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|16°25'41.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|12°13'29.90" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|9°37'24.48" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Direct|11°18'18.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°52'35.72" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|10°50'14.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|16°25'41.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|12°13'29.83" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|9°38'17.49" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

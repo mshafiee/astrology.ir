@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°25'23.91" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|10°38'41.78" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°38'41.78" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|9°48'45.64" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|6°51'33.32" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|11°31'35.94" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|4°50'52.39" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|22°25'36.61" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|6°51'28.13" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|11°31'34.68" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|4°50'48.77" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|23°6'47.85" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Jupiter|Mars|Pisces|Sun|Saturn|
-|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°25'23.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|10°38'41.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°48'45.64" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|6°51'33.32" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|9°25'23.79" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°38'41.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°48'45.61" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|6°51'33.34" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|11°31'35.94" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|4°50'52.39" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|22°25'36.61" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|4°50'52.40" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|22°25'37.46" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°45'40.93" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|11°6'12.16" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°57'15.90" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|9°38'31.87" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|14°57'13.07" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|9°58'53.85" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|24°53'11.07" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|9°45'41.06" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|11°6'12.90" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°57'9.43" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|9°38'19.54" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|14°57'3.52" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|9°58'45.04" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|25°14'28.04" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Taurus|Sun|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
+|☾ Moon|Sun|Sun|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°45'40.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|11°6'12.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°57'15.90" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|9°38'31.87" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|9°45'41.06" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|11°6'12.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°57'9.43" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|9°38'19.54" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|14°57'13.07" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|9°58'53.85" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|24°53'11.07" |Libra|Jubana|Jupiter|

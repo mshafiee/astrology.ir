@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:41:30 |
-| Sunrise | 06:44:25 |
+| Sunrise | 06:44:26 |
 | Dhuhr (Noon) | 12:42:36 |
 | Medium Coeli | 12:42:36 |
 | Sunset | 18:40:53 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:34:34 |
-| Sunrise | 06:44:26 |
+| Sunrise | 06:44:25 |
 | Dhuhr (Noon) | 12:42:36 |
 | Medium Coeli | 12:42:36 |
 | Sunset | 18:40:53 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:56:28|Night duration: 12:03:07|
+|Duration of the day: 11:56:27|Night duration: 12:03:07|
 |Every hour of day duration: 00:59:42|Every hour of night duration: 01:00:16|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:44:25|07:44:06|Acceptance of needs|
-|2|Moon|Servant|07:44:07|08:43:48|Unfortunate, no task is suitable|
-|3|Saturn|Servant|08:43:49|09:43:31|For overcoming diseases|
-|4|Jupiter|Servant|09:43:32|10:43:13|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:43:14|11:42:55|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:42:56|12:42:38|Outer and inner journey|
+|1|Mercury|Ruler|06:44:26|07:44:07|Acceptance of needs|
+|2|Moon|Servant|07:44:08|08:43:49|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:43:50|09:43:31|For overcoming diseases|
+|4|Jupiter|Servant|09:43:32|10:43:14|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:43:15|11:42:56|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:42:57|12:42:38|Outer and inner journey|
 |7|Venus|Servant|12:42:39|13:42:20|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|13:42:21|14:42:02|Being invisible to the people|
-|9|Moon|Servant|14:42:03|15:41:45|Separation, causing enmity|
+|8|Mercury|Ruler|13:42:21|14:42:03|Being invisible to the people|
+|9|Moon|Servant|14:42:04|15:41:45|Separation, causing enmity|
 |10|Saturn|Servant|15:41:46|16:41:27|Dominating the great ones|
 |11|Jupiter|Servant|16:41:28|17:41:09|Creating financial and emotional attraction and dominance|
 |12|Mars|Servant|17:41:10|18:40:52|Creating evil and hatred|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°41'54.07" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|11°1'0.48" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°33'18.21" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|9°7'25.65" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|14°18'53.66" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|9°0'58.22" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|18°45'48.31" |Virgo|Simak|Venus|
+|♄ Saturn|Direct|9°41'54.19" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|11°1'0.63" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°33'18.20" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|9°7'25.59" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|14°18'53.60" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|9°0'47.76" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|19°52'10.52" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°41'54.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|11°1'0.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°33'18.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|9°7'25.65" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|14°18'53.66" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|9°0'58.22" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|18°45'48.31" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|9°41'54.19" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|11°0'59.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°33'12.20" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|9°7'11.25" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|14°18'44.68" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|9°0'47.76" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|19°52'10.52" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Jupiter|Venus|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Venus|Jupiter|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

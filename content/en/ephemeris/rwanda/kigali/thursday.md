@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°48'44.27" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|11°10'25.42" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|9°48'44.40" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|11°10'25.42" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|12°16'38.12" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|10°3'39.36" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|15°28'11.61" |Capricorn|SaadAlBula|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°48'44.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|11°10'25.42" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°10'25.42" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|12°16'38.12" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|10°3'39.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|15°28'8.05" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|10°45'48.98" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|0°20'43.85" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°28'11.61" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|10°45'53.26" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|29°56'57.99" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Venus|Jupiter|Moon|Sun|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Sun|Saturn|Leo|Moon|Mars|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}

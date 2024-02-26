@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°50'54.33" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Post-Retrograde Shadow|11°13'25.78" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°30'21.96" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|10°21'27.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°50'8.83" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|11°19'16.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°36'1.36" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|11°13'25.77" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°30'22.00" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|10°21'27.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°50'8.89" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|11°19'16.91" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°36'19.11" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°50'54.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|11°13'25.78" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°13'25.78" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|12°30'21.96" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|10°21'27.22" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|15°50'8.83" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|11°19'5.14" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|4°44'0.48" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|11°19'16.91" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|3°36'19.11" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Sun|Saturn|Leo|Moon|Mars|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

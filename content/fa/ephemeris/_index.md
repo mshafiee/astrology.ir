@@ -1,6 +1,6 @@
 ---
-date: 2024-02-24T00:45:40Z
-lastmod: 2024-02-24T00:45:40Z
+date: 2024-02-26T00:50:01Z
+lastmod: 2024-02-26T00:50:01Z
 title: Ephemeris
 slug: ephemeris
 categories:
