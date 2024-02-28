@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°48'34.28" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|11°10'11.81" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°15'35.48" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|10°2'15.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°26'31.61" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|10°43'22.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|29°58'56.19" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|9°48'34.41" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|11°10'11.97" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°15'35.50" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|10°2'15.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°26'31.23" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|10°43'20.72" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|0°21'15.03" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Saturn|Mars|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Sun|Venus|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°15'35.48" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|10°2'15.99" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|15°26'31.61" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|10°43'22.20" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|29°58'56.74" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|10°43'22.21" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|29°58'56.19" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

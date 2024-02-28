@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:03:45 |
+| Fajr (Dawn) | 03:03:44 |
 | Sunrise | 08:30:37 |
 | Dhuhr (Noon) | 12:09:48 |
 | Medium Coeli | 12:09:48 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°49'45.31" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|11°11'50.58" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°23'6.00" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|10°11'57.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|9°49'45.19" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|11°11'50.43" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°23'5.98" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|10°11'57.53" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|15°38'32.19" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|11°1'38.67" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|2°18'42.58" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|11°1'38.69" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°18'42.00" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°49'45.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°11'50.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°23'6.00" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|10°11'57.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|9°49'45.19" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|11°11'50.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°23'5.98" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|10°11'57.53" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|15°38'32.19" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|11°1'38.67" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|2°18'42.58" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|11°1'38.69" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|2°18'42.00" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

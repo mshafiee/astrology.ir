@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:33:18 |
 | Sunset | 18:21:13 |
 | Maghrib | 18:23:37 |
-| Isha (Night) | 19:27:06 |
+| Isha (Night) | 19:27:07 |
 | Sharia Midnight | 00:00:05 |
 | Imum Coeli | 00:33:12 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°55'11.22" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|11°19'23.81" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°57'30.90" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|10°56'37.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|16°33'32.98" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|12°25'30.66" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°50'38.93" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|9°55'11.09" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|11°19'23.65" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°57'30.88" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|10°56'37.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|16°33'32.99" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|12°25'30.67" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|10°43'23.74" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°55'11.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°19'23.81" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°57'31.48" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|10°56'39.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|9°55'11.09" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|11°19'23.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°57'31.46" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|10°56'39.60" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|16°33'33.87" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|12°25'30.66" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|10°50'38.93" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|12°25'31.87" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|10°43'23.06" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

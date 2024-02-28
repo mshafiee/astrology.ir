@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:03:14|Night duration: 12:54:47|
+|Duration of the day: 11:03:14|Night duration: 12:54:48|
 |Every hour of day duration: 00:55:16|Every hour of night duration: 01:04:34|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|17:46:14|18:50:46|Love, creating love and attracting hearts|
-|2|Sun|Servant|18:50:47|19:55:20|Attracting auspiciousness|
-|3|Venus|Servant|19:55:21|20:59:54|Attracting misfortune, no task is suitable|
-|4|Mercury|Servant|20:59:55|22:04:28|Unfortunate hour|
-|5|Moon|Servant|22:04:29|23:09:02|Achieving position and status and attracting job fortune|
-|6|Saturn|Servant|23:09:03|00:13:36|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:13:37|01:18:10|Promotion and attracting wealth|
-|8|Mars|Ruler|01:18:11|02:22:44|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:22:45|03:27:18|Causing separation and homelessness|
-|10|Venus|Servant|03:27:19|04:31:52|Extremely unfortunate|
-|11|Mercury|Servant|04:31:53|05:36:26|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:36:27|06:41:00|Suitable for asking for a need|
+|1|Mars|Ruler|17:46:14|18:50:47|Love, creating love and attracting hearts|
+|2|Sun|Servant|18:50:48|19:55:21|Attracting auspiciousness|
+|3|Venus|Servant|19:55:22|20:59:55|Attracting misfortune, no task is suitable|
+|4|Mercury|Servant|20:59:56|22:04:29|Unfortunate hour|
+|5|Moon|Servant|22:04:30|23:09:03|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|23:09:04|00:13:37|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:13:38|01:18:11|Promotion and attracting wealth|
+|8|Mars|Ruler|01:18:12|02:22:45|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:22:46|03:27:19|Causing separation and homelessness|
+|10|Venus|Servant|03:27:20|04:31:53|Extremely unfortunate|
+|11|Mercury|Servant|04:31:54|05:36:27|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:36:28|06:41:01|Suitable for asking for a need|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:03:14|Night duration: 12:54:47|
+|Duration of the day: 11:03:14|Night duration: 12:54:48|
 |Every hour duration: 01:34:45|Every hour duration: 01:50:41|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mercury|Servant|23:18:17|01:08:57|
 |Rooster song|Moon|Servant|01:08:58|02:59:38|
 |False Dawn|Saturn|Servant|02:59:39|04:50:19|
-|Dawn|Jupiter|Servant|04:50:20|06:41:00|
+|Dawn|Jupiter|Servant|04:50:20|06:41:01|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°55'55.79" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Direct|11°20'26.33" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|13°2'14.75" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|11°2'44.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|16°41'6.84" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|12°37'5.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°14'9.19" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Direct|11°20'26.49" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|13°2'14.77" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|11°2'44.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|16°41'6.83" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|12°37'5.39" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|12°14'9.86" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°55'55.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°20'26.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°2'14.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|11°2'44.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|16°41'6.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|9°55'55.92" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|11°20'26.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°2'14.77" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|11°2'44.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|16°41'6.83" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|12°37'5.40" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|12°14'9.19" |Scorpio|Qalb|Sun|
 

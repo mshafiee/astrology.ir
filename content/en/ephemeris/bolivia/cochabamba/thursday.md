@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:10:31 |
-| Sunrise | 06:24:21 |
+| Sunrise | 06:24:22 |
 | Dhuhr (Noon) | 12:36:59 |
 | Medium Coeli | 12:36:59 |
 | Sunset | 18:49:20 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:09:13 |
-| Sunrise | 06:24:21 |
+| Sunrise | 06:24:22 |
 | Dhuhr (Noon) | 12:36:59 |
 | Medium Coeli | 12:36:59 |
 | Sunset | 18:49:20 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:22:10 |
-| Sunrise | 06:24:21 |
+| Sunrise | 06:24:22 |
 | Dhuhr (Noon) | 12:36:59 |
 | Medium Coeli | 12:36:59 |
 | Sunset | 18:49:20 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:02:42 |
-| Sunrise | 06:24:22 |
+| Sunrise | 06:24:21 |
 | Dhuhr (Noon) | 12:36:59 |
 | Medium Coeli | 12:36:59 |
 | Sunset | 18:49:20 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:09:13 |
-| Sunrise | 06:24:21 |
+| Sunrise | 06:24:22 |
 | Dhuhr (Noon) | 12:36:59 |
 | Medium Coeli | 12:36:59 |
 | Sunset | 18:49:20 |
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°57'58.96" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|11°23'18.65" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°15'14.82" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|11°19'38.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|17°1'53.38" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|13°8'53.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|13°15'14.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|11°19'38.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|17°1'53.39" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|13°8'53.28" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|15°22'56.93" |Scorpio|Qalb|Sun|
 
 
