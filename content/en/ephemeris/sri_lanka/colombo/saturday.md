@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°2'24.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°29'31.90" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|11°29'31.90" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|13°43'15.21" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|11°55'54.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|17°46'38.74" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|14°17'38.08" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|22°57'12.34" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|11°55'51.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|17°46'38.60" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|14°17'35.99" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|23°36'6.89" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
+|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°2'24.04" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|11°29'31.90" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°29'31.90" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|13°43'15.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|11°55'54.05" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|17°46'38.74" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|14°17'38.08" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|22°57'12.34" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|11°55'51.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|17°46'38.60" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|14°17'35.99" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|23°36'6.89" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

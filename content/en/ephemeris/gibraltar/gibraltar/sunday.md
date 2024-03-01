@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°11'31.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°42'31.28" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|14°41'12.75" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|13°10'53.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°19'14.29" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°40'40.41" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|8°54'8.99" |Scorpio|Qalb|Mars|
+|♄ Saturn|Direct|10°11'32.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°42'31.44" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|14°41'11.58" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|13°10'52.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°19'12.65" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|16°40'39.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|8°33'51.65" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Sun|Jupiter|Leo|Moon|Mars|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°11'31.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|11°42'31.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°41'12.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°11'32.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°42'31.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°41'11.58" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|13°10'52.01" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|19°19'12.65" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|16°40'39.62" |Pisces|FarghAlMuakhar|Jupiter|
