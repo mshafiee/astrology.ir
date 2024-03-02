@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°23'26.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°59'42.56" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°56'48.08" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|14°48'35.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|21°19'55.74" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|19°48'29.32" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°29'14.86" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|11°59'41.21" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|15°56'45.68" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|14°48'27.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|21°19'51.94" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|19°48'22.93" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|0°44'53.02" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°23'26.05" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°59'42.64" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°56'48.14" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|14°48'36.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|21°19'55.74" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Direct|19°48'29.32" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|0°29'14.86" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|10°23'25.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|11°59'41.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°56'45.68" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|14°48'27.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|21°19'51.94" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Direct|19°48'22.93" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|0°44'53.02" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

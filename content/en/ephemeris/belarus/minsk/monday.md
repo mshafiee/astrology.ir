@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°18'15.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°52'11.72" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°23'53.49" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|14°6'3.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|20°27'23.57" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|18°26'34.59" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|20°54'20.13" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Direct|11°52'10.25" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|15°23'54.59" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|14°6'1.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|20°27'24.83" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|18°26'33.02" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|21°48'26.26" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Venus|Saturn|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
+|☾ Moon|Jupiter|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Venus|Moon|Virgo|Sun|Venus|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°18'15.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°52'11.72" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°52'11.72" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°23'53.49" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|14°6'3.31" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|20°27'23.57" |Aquarius|SaadAlAkhbia|Moon|
