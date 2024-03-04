@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'15.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°23'2.38" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|12°23'2.38" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°37'34.47" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|16°58'39.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°0'43.94" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°0'17.97" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°52'31.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°0'44.40" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°0'18.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|0°53'43.17" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'15.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°23'2.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°37'37.24" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|16°58'44.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°0'47.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°0'21.12" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°36'20.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|12°23'2.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°37'34.47" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|16°58'39.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°0'43.94" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°0'17.97" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°52'31.84" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ak-Mola, Akmola, Akmolins'k, Akmolinsk, Aqmola, Astana, Astano, Astanà, Astaná, Asztana, Aστάνα, Cilinograd, NQZ, Noer-Soeltan, Nour-Soultan, Nur-Soltan, Nur-Sultan, Nur-Sultano, Nur-Sultán, Nursultʻan, Nұr-Sұltan, Ostona, Qaraotkel, Qaraötkel, TSE, Tselinograd, a si ta na, aseutana, astana, astanh, astant, astanٱ, astanہ, astʼana, asutana, nwr sltan, nwrsltan, nwrswltan, nۇrsۇltan, yastana, ʼstnh, Ак-Мола, Акмола, Акмолінськ, Астана, Нур-Солтан, Нур-Султан, Нұр-Сұлтан, Остона, Цілиноград, Աստանա, Նուրսուլթան, אסטנה, آستانا, آستانه, آستانٱ, آستانہ, أستانة, أسطانا, ئاستانا, استانا, استانه, نور سلطان, نورسلطان, نورسولتان, نۇرسۇلتان, আস্তানা, ასტანა, አስታና, アスタナ, 阿斯塔纳, 아스타나

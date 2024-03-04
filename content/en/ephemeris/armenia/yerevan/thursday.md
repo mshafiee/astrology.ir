@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'46.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°23'46.33" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°40'48.81" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°2'45.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°5'53.58" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°8'21.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°4'40.54" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|12°23'46.90" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°40'49.71" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°2'48.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°5'55.05" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°8'23.61" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°11'30.93" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'46.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°23'48.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°40'50.36" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°2'52.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°5'56.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°8'27.67" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°1'17.55" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|12°23'46.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°40'49.71" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°2'48.43" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°5'55.05" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°8'23.61" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°11'30.93" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ayrivan, Djerevan, EVN, Eireavan, Eireaván, Ereban, Erehvan, Ereun, Erevan, Erevan osh, Erevana, Erevano, Erevanum, Erevàn, Ereván, Erevāna, Erewan, Erivan, Eriwan, Erywan, Erywań, Gierevan, Ierevan, Iereván, Iravan, Jerevan, Jerevanas, Jerevani, Jereván, Jerewan, Jerjewan, Revan, Yerevan, Yervandavan, Yerêvan, Yiriwan, Yèrèvan, Yérévan, ayrwan, ereban, erevani, iyerebhana, shhr ayrwan, ye li wen, yeleban, yeravana pranta, yere wan, yerevan, yerevana, yerevhana, yryfan, yrywan, Èrevan, Êrîvan, İrəvan, Γιερεβάν, Ερεβάν, Єреван, Јереван, Ереван, Ереван ош, Ерэван, Երեվան, Երևան, יערעוואן, ירוואן, ایروان, شهر ایروان, يريفان, يېرېۋان, یریوان, یەریڤان, येरवान प्रान्त, येरेवान, येरेव्हान, ইয়েরেভান, யெரெவான், เยเรวาน, ཡེ་རེ་ཝན།, ერევანი, ዬሬቫን, エレバン, 葉里溫, 예레반

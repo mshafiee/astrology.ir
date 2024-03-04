@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Sun|Servant|01:04:26|02:05:50|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Venus|Ruler|02:05:51|03:07:16|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mercury|Servant|03:07:17|04:08:41|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Moon|Servant|04:08:42|05:10:06|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Moon|Servant|04:08:42|05:10:06|Good for any task|
 |11|Saturn|Servant|05:10:07|06:11:31|Creating enmity and negative energy|
 |12|Jupiter|Servant|06:11:32|07:12:57|Heart tenderness|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°23'52.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°0'20.53" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°59'33.49" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|14°52'10.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|21°24'19.73" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|19°55'21.46" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|1°17'57.15" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|12°0'20.61" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|15°59'33.59" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|14°52'10.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|21°24'19.91" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|19°55'21.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|1°16'51.89" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°23'52.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°0'20.53" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°0'20.53" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°59'33.49" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|14°52'10.37" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|21°24'19.73" |Aquarius|SaadAlAkhbia|Moon|

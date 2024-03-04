@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'16.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°24'33.08" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°44'2.91" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°7'0.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°11'3.29" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°16'28.11" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°12'53.67" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|12°24'32.80" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°44'3.63" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°7'2.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°11'4.34" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°16'28.98" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°26'19.88" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°40'16.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°24'32.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°44'2.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°7'0.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°11'3.29" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°16'28.11" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°12'53.67" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°40'16.81" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|12°24'32.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°44'3.63" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°7'2.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°11'4.34" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°16'27.97" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°0'56.15" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: TIA, Terana, Theranda, Tiorana, Tiorána, Tiran, Tiran khot, Tiran-a, Tirana, Tiranae, Tirane, Tirano, Tiranë, Tirāna, Trnava, Tyrana, Tyranna, Tírana, Tîrana, Tėrana, de la na, tilana, tirana, tyrana, tyrnh, Τίρανα, Тиран хот, Тиранæ, Тирана, Тиране, Трнава, Тырана, Տիրանա, טיראנא, טירנה, تىرانا, تيرانا, تیرانا, तिराना, তিরানা, ਤਿਰਾਨਾ, ଟିରାନା, டிரானா, ടിറാന, ติรานา, ཐིས་རན།, ტირანა, ቲራና, ティラナ, 地拉那, 티라나

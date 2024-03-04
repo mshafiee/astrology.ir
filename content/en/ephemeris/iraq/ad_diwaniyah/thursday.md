@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'44.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°23'45.49" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|12°23'45.49" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°40'39.00" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°2'38.83" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°5'38.17" |Capricorn|SaadAlBula|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'44.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°23'45.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°40'38.02" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°2'34.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°5'36.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°7'54.99" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°2'47.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|12°23'45.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°40'39.00" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°2'38.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°5'38.17" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°7'58.99" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°1'26.96" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Ad Diwania, Ad Diwaniya, Ad Diwaniyah, Ad Dīwānīya, Ad Dīwānīyah, Al-Diwaniya, Divanija, Diwanie, Diwaniya, Diwaniyan, Diwaniyeh, Dīwanīya, Hiska, aldywanyt, Дивания, الديوانية

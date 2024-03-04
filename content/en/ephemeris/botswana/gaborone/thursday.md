@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'1.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°24'10.56" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°42'26.10" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°4'58.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°8'28.89" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°12'26.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°54'29.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|12°24'8.94" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°42'25.29" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°4'53.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°8'27.23" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°12'21.05" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°3'17.93" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'1.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°24'8.94" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°24'8.94" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°42'25.29" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|17°4'53.14" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|24°8'27.23" |Aquarius|FarghAlMuqaddam|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네
