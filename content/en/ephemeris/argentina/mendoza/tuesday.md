@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°34'37.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°16'8.20" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°16'8.20" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°7'57.91" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|16°20'30.85" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|23°13'29.59" |Capricorn|SaadAlBula|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°34'37.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°16'8.20" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°16'8.20" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°7'57.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|16°20'30.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|23°13'29.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|22°46'12.13" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|22°5'57.72" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|16°20'17.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|23°13'20.26" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|22°46'2.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°41'40.58" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Mars|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}

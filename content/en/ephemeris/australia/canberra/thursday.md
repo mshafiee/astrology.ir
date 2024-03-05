@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°44'48.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°31'19.41" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|18°12'54.41" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°44'15.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°57'4.83" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|25°28'38.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°40'56.05" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|12°31'17.69" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|18°12'48.94" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°44'0.42" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°57'4.63" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|25°28'27.27" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°30'36.43" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Mars|Mars|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°44'48.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°31'19.64" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°12'54.41" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°44'15.42" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°57'4.83" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|25°28'38.99" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°40'56.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°31'19.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°12'54.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°44'15.62" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°57'4.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°28'39.29" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°36'34.48" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: CBR, Camberra, Canberra, Canberrah, Kamberra, Kambra, Kampera, Kanapera, Kanbera, Kanbero, Kanberr, Kanberra, Kanberrae, Kanberre, Kanbérra, Kham-phi-la, Khâm-phì-là, Kānapera, kaenbeola, kainabara, kainberra, kan pei la, kanabera, kanbra, kanpara, kenabera, kyanabara, kyanabera, kyanbera, kynbra, kʼanbera, qnbrh, Καμπέρα, Канбера, Канберрæ, Канберра, Канберре, Канбєра, Կանբերրա, קאנבערא, קנברה, كانبرا, کانبرا, کانبێرا, کینبرا, कॅनबेरा, कैनबरा, कैन्बेर्रा, क्यानबरा, ক্যানবেরা, ਕੈਨਬਰਾ, କାନବେରା, கான்பரா, കാൻബറ, කැන්බරා, แคนเบอร์รา, ཁན་པེ་ར།, კანბერა, ካንበራ, キャンベラ, 坎培拉, 堪培拉, 캔버라

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'42.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°23'41.66" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°23'41.66" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°40'22.42" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°2'16.04" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°5'11.86" |Capricorn|SaadAlBula|Sun|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'42.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°23'41.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°40'22.42" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°2'16.04" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°5'11.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|12°23'41.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°40'22.36" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°2'15.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°5'11.73" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|24°7'18.27" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|1°43'42.66" |Aquarius|SaadAlSaud|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: KUF, Kuibyschew, Kuibyshev, Kujbyshev, Kuybyshev, Samar, Samar khot, Samar osh, Samara, Samarae, Samare, Samarga, Samāra, Szamara, sa ma la, sa ma ra, samala, samara, smara, smara  rws, smrh, Σαμάρα, Куйбышев, Самар, Самар ош, Самар хот, Самарæ, Самара, Самаре, Самарҕа, Һамар, Սամարա, סמרה, سامارا, سامارہ, سمارا, سمارا، روس, समारा, ซามารา, სამარა, サマーラ, 薩馬拉, 사마라

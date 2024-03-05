@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'16.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°23'3.58" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°23'3.58" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°37'40.39" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|16°58'48.10" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°0'53.34" |Capricorn|SaadAlBula|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'16.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°23'3.58" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°23'3.58" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°37'40.39" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|16°58'48.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°0'53.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°0'32.38" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°2'45.75" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|24°0'51.02" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°0'32.11" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°24'3.00" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°53'42.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°44'46.96" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°44'46.96" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|19°9'46.21" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|18°57'31.04" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°27'45.03" |Capricorn|SaadAlSaud|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°53'42.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°44'44.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°9'44.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|18°57'23.47" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°27'42.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°50'33.74" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°29'46.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°44'46.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°9'46.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|18°57'31.04" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°27'45.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°50'40.63" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°58'59.64" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°58'11.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°51'37.10" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°51'37.10" |Aries|Butain|Sun|
 |♂ Mars|Direct|19°38'25.84" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°34'8.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°13'16.71" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|29°1'47.64" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°37'30.43" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|19°34'25.47" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°13'26.27" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|29°2'1.18" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|10°28'23.12" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°58'11.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°51'37.10" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°51'37.10" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°38'25.84" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°34'25.47" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|27°13'26.27" |Aquarius|FarghAlMuqaddam|Moon|

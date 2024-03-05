@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°59'19.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°53'22.15" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°53'22.15" |Aries|Butain|Sun|
 |♂ Mars|Direct|19°45'44.81" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°43'48.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°25'5.92" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|29°20'9.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°45'9.95" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°43'50.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°25'5.96" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|29°20'11.77" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|12°52'25.08" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°59'19.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°53'22.15" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°53'22.15" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°45'44.81" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°43'50.48" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|27°25'5.92" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°20'9.82" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°45'9.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|27°25'5.96" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|29°20'11.77" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°52'25.08" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번

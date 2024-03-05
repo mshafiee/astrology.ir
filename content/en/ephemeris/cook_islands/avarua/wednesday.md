@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°43'48.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°29'50.08" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|18°6'25.64" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°35'53.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°46'45.98" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|25°12'34.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|9°19'4.21" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°29'49.29" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|18°6'30.26" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°36'0.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°46'52.27" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|25°12'38.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|10°34'31.59" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°43'48.30" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°29'50.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°6'25.64" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°35'53.71" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°46'45.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|25°12'34.46" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|9°19'4.21" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|12°29'49.29" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°6'30.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°35'44.16" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°46'42.08" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°12'26.35" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|9°4'12.10" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

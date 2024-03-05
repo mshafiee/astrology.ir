@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°18'27.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°52'29.98" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°25'13.96" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|14°7'48.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|20°29'31.93" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|18°29'53.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|21°19'22.18" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Direct|11°52'29.64" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|15°25'15.47" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|14°7'50.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|20°29'34.04" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|18°29'55.28" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|21°41'32.42" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Venus|Moon|Virgo|Sun|Venus|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°18'27.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°52'29.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°25'15.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°18'27.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|11°52'29.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°25'15.47" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|14°7'50.95" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|20°29'34.05" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|20°29'34.04" |Aquarius|SaadAlAkhbia|Moon|
 |☿ Mercury|Direct|18°29'55.27" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|21°41'32.14" |Sagittarius|Baldah|Saturn|
 

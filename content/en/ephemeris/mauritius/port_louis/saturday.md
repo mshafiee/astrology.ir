@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°53'59.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°45'12.99" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°11'35.52" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|12°45'12.83" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°11'35.50" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|18°59'52.29" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°30'39.28" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|27°55'12.93" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|1°40'59.60" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°40'59.40" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°53'59.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°45'12.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°11'35.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°53'59.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°45'12.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°11'35.50" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|18°59'52.29" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|26°30'39.28" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|27°55'12.93" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°40'59.60" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°40'59.40" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Bort Lois, Po-Loui, Por Loui, Por-Loui, Port Lois, Port Louis, Port Louis Town, Port Lui, Port Luis, Port Luisas, Port Luiz, Port-Louis, Port-Lui, Port-Luiso, Port-lui, Portlui, Portluī, Portus Ludovici, Puerto Louis, Pò-Loui, bwr lwys, lu yi gang, phxrt hluys, porata lu'i, port luyis, porta lu'i, porta lu'isa, poteulu-iseu, potoruisu, pwr lwʼy, Πορ Λουί, Πορ-Λουί, Порт Луи, Порт Луис, Порт-Луи, Порт-Луі, Порт-Луї, Պորտ Լուի, פור לואי, بور لويس, پورت‌لوئیس, پورٹ لوئس, پورٹ لوئی, پۆرت لویس, पोर्ट लुई, पोर्ट लुईस, পোর্ট লুইস, ਪੋਰਟ ਲੂਈ, ପୋର୍ଟ ଲୁଇସ, போர்ட் லூயிஸ், പോർട്ട് ലൂയിസ്, พอร์ตหลุยส์, ལོ་ཡི་སི་གྲུ་ཁ།, პორტ-ლუი, ፖርት ሉዊስ, ポートルイス, 路易港, 포트루이스

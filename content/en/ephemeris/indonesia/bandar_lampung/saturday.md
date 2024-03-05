@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°0'20.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°54'52.68" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°52'8.56" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°51'59.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°35'17.28" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|29°36'1.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°15'16.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°0'19.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°54'54.24" |Aries|Butain|Sun|
+|♂ Mars|Direct|19°52'9.99" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°52'6.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°35'19.91" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|29°36'7.95" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|14°56'4.98" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°0'19.95" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°54'54.24" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°54'54.24" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°52'9.99" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°52'6.01" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|27°35'19.91" |Aquarius|FarghAlMuqaddam|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍

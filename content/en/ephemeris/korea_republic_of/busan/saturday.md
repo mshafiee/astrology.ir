@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°59'54.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°54'15.45" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°54'15.45" |Aries|Butain|Sun|
 |♂ Mars|Direct|19°49'27.43" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°48'34.97" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|27°31'0.93" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|29°29'25.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|13°37'17.97" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|13°11'19.22" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°59'54.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°54'13.71" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|10°59'54.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°54'15.29" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°49'27.14" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°48'29.89" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|27°30'59.83" |Aquarius|FarghAlMuqaddam|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시

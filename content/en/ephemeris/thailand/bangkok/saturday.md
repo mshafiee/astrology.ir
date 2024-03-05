@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°0'27.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°55'5.46" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°52'56.81" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°53'5.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°36'34.58" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|29°38'4.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|15°2'17.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°0'27.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°55'6.18" |Aries|Butain|Sun|
+|♂ Mars|Direct|19°52'56.25" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°53'6.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°36'34.08" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|29°38'5.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|15°4'12.50" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°0'27.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°55'5.46" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°55'5.46" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°52'56.81" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°53'5.60" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|27°36'34.58" |Aquarius|FarghAlMuqaddam|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Amphoe Phra Nakhon, BKK, Ban'nkok, Bancac, Bancocum, Bancoque, Bancác, Banghok, Bangkok, Bangkok Metropolis, Bangkoka, Bangkòk, Banguecoque, Bankok, Bankokas, Bankoko, Banqkok, Changwat Phra Nakhon, Krung Thep, Krung Thep Maha Nakhon, Krung Thep Maha Nakhon Amon Rattanakosin Mahintarayutthaya Maha Dilok Phop Noppharat Ratchathani Buri Rom Udom Ratchaniwet Maha Sathan Amon Phiman Awatan Sathit Sakka Thattiya Witsanukam Prasit, Krungdeb, Man-kuk, Màn-kuk, Phra Nakhon, Siayuthia, The City of Angels, bainkaka, bainkoka, bamkoka, bangkog, bangkwk, bankeakk, bankoku, bankwk, bngqwq, bnkak, byankak, byankaka, camraata byankaka, krungtheph, krungthephmhankhr, krungtheph‡, man gu, penkak, Μπανγκόκ, Бангкок, Банкок, Баҥкок, Բանգկոկ, באנגקאק, בנגקוק, بانكوك, بانکوک, بانکۆک, بانګکوک, بانگكوك, بنکاک, बँकॉक, बैंकक, बैंकॉक, চাংৱাত ব্যাংকক, ব্যাংকক, ਬੈਂਕਾਕ, பேங்காக், ಬ್ಯಾಂಕಾಕ್, ബാങ്കോക്ക്, බැංකොක්, กรุงเทพ, กรุงเทพมหานคร, กรุงเทพฯ, ບາງກອກ, པན་ཀོག, ဘန်ကောက်မြို့, ბანგკოკი, ባንኮክ, バンコク, 曼谷, 방콕

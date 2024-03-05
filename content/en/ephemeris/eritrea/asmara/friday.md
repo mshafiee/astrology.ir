@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°47'8.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°34'50.27" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|18°27'48.03" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°47'8.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°34'50.10" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|18°27'48.00" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|18°3'26.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|25°20'50.02" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|26°5'54.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|17°14'44.35" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|25°20'50.01" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|26°5'49.60" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|16°45'51.37" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Venus|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°47'8.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°34'50.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°27'48.03" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|18°3'26.69" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|25°20'50.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|12°34'49.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°27'45.93" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|18°3'20.81" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|25°20'46.82" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|26°5'54.26" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|17°14'44.35" |Aquarius|SaadAlAkhbia|Mercury|
 

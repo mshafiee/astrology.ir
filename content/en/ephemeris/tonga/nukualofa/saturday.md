@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°58'42.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°52'24.17" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°52'24.17" |Aries|Butain|Sun|
 |♂ Mars|Direct|19°41'42.59" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°38'38.73" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|27°18'39.87" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|29°10'1.70" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|9°57'12.45" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|29°10'10.09" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°33'8.42" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°58'41.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°52'24.17" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|10°58'42.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°52'24.17" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°41'42.59" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°38'38.73" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|27°18'39.87" |Aquarius|FarghAlMuqaddam|Moon|

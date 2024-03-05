@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°18'44.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°52'53.49" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°26'57.99" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°18'44.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°52'53.65" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|15°26'58.01" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|14°10'5.04" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|20°32'17.92" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|18°34'11.61" |Aquarius|SaadAlAkhbia|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°18'44.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°52'54.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°26'56.26" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|14°10'3.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|20°32'15.54" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Direct|18°34'10.56" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|21°17'52.79" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|10°18'44.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|11°52'53.65" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°26'58.01" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|14°10'5.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|20°32'17.92" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Direct|18°34'11.61" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|21°52'5.37" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Leo|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Libra|Moon|Mars|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

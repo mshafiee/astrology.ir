@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'44.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°25'15.04" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°25'15.04" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°47'1.42" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°10'50.85" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°15'48.26" |Capricorn|SaadAlBula|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'44.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°25'15.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°47'0.64" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°10'51.40" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°15'47.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°23'57.30" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°31'13.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°25'15.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°47'1.42" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°10'50.85" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°15'48.26" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°23'56.38" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°51'50.95" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: JER, Saint Helier, Saint-Helier, Saint-Hélier, Sent-Khel'er, St Helier, St. Helier, seinteuhellieo, Сент-Хельер, 세인트헬리어

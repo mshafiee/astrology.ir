@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'9.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°24'22.90" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°24'22.90" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°43'18.67" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°6'3.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°9'53.67" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°14'39.24" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°50'18.14" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|17°6'3.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°9'53.01" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°14'39.28" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°38'27.49" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'9.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°24'22.90" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°24'22.90" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°43'18.67" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°6'3.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°9'53.67" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°14'39.24" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°50'18.14" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|17°6'3.28" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°9'53.01" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°14'39.28" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°38'27.49" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: MSQ, Mins'k, Minsc, Minscum, Minsk, Minsk - Minsk, Minsk - Мінск, Minsk osh, Minska, Minskaj, Minskas, Minsko, Minszk, Mińsk, Myensk, Myenyesk, Mînsk, ming si ke, ming si ke shi, minseukeu, minsk, minsuku, mnsk, mynsk, mynsq, mynysky, Μινσκ, Минск, Минск ош, Минскай, Мінск, Мінськ, Мѣньскъ, Մինսկ, מינסק, منسک, مىنىسكى, مينسك, مینسک, मिन्‍स्‍क, மின்ஸ்க், ಮಿನ್ಸ್ಕ್, മിൻസ്ക്, มินสก์, མིན་སིཀ།, მინსკი, ミンスク, 明斯克, 明斯克市, 민스크

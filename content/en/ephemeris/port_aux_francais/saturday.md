@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°53'39.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°44'41.03" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°44'41.03" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|19°9'23.80" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|18°56'57.92" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°27'9.32" |Capricorn|SaadAlSaud|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°53'39.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°44'42.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°9'25.86" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|18°57'4.93" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°27'12.65" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°49'50.07" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°52'36.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°44'41.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°9'23.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|18°56'57.92" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°27'9.32" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°49'44.20" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°16'27.92" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

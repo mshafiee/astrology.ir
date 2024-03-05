@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'36.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°23'32.26" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°23'32.26" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°39'42.50" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°1'26.35" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°4'8.02" |Capricorn|SaadAlBula|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'36.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°23'32.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°39'43.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°1'29.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°4'9.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°5'39.70" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°57'3.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°23'32.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°39'42.50" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°1'26.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°4'8.02" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°5'37.39" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°48'56.24" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ad Dawha, Ad Dawhah, Ad Dawḩa, Ad Dawḩah, Ad Doha, Ad Dowhah, Ad-Dauha, Ad-Dawhah, Ad-Dawḩah, DOH, Daeuha, Dauha, Dauhá, Dawha, Dawhat al Qatar, Dawḥa, Dawḩat al Qaţar, Dewhe, Do'ha, Doh, Doha, Doho, Dokha, Dokhae, Dokho, Dooxa, Doʻha, Doḥa, Duoha, Däuha, Ntocha, aaldawhat, aldwhh, aldwht, deaha, do ha, doha, dohara, duo ha, dwhh, toka, Ντόχα, Дохæ, Доха, Дохо, Доҳа, Доһа, Դոհա, דאכא, דוחא, דוחה, الدوحة, الدوحه, اَلدَّوْحَة, دوحه, دوحہ, دوحە, دوھا, دەوحە, दोहा, দোহা, দোহার, ਦੋਹਾ, தோகா, ದೊಹಾ, ദോഹ, โดฮา, དྷོ་ཧ།, ဒိုဟာမြို့, დოჰა, ዶሃ, ドーハ, 多哈, 도하

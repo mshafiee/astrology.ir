@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°56'22.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°48'52.01" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°26'55.22" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°19'35.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°55'5.40" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°33'23.50" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°32'19.02" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°48'51.51" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°26'52.34" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°19'28.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°55'1.16" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°33'18.33" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°45'19.61" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°56'22.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°48'51.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°26'52.34" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°19'28.72" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°48'52.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°26'55.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°19'35.53" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|26°55'5.40" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|28°33'23.50" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|6°32'19.02" |Pisces|FarghAlMuakhar|Saturn|

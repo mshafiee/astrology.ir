@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'25.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°45'52.64" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°14'22.18" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°3'25.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°35'5.02" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°2'8.64" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°23'7.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°45'51.89" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°14'20.10" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°3'20.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°35'1.81" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°2'3.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°47'25.89" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°54'25.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°45'51.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°14'20.10" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°3'20.07" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°35'1.81" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°2'3.92" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°47'25.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|10°54'25.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°45'52.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°14'22.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°3'25.96" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°35'5.01" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°2'8.64" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°23'6.76" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: ASM, Asmar, Asmara, Asmaro, Asmehra, Asmera, Aszmara, a si ma la, asamara, aseumala, asmara, asmera, asmrh, asmrt, asumara, yەsmەrە, Əsməra, Ασμάρα, Асмара, Асмэра, Асмєра, Ասմարա, אסמרה, أسمرة, ئەسمەرە, اسمارا, اسمره, अस्मारा, ਅਸਮਾਰਾ, அஸ்மாரா, അസ്മാറ, แอสมารา, ཨཱ་སི་མི་ར།, ასმერა, አስመራ, ኣስመራ, アスマラ, 阿斯馬拉, 아스마라

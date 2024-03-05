@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'56.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|12°25'32.00" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°25'32.00" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°48'14.03" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°12'26.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°17'44.26" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°26'54.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°56'32.30" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°17'43.90" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°26'56.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°37'4.46" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'56.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|12°25'30.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°48'14.53" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°12'24.95" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°17'44.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°26'54.98" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°56'32.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°25'32.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°48'14.03" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°12'26.65" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°17'43.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°26'56.87" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°37'4.46" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우
