@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°40'14.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°24'30.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°43'50.73" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°6'44.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°10'44.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°15'59.61" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°46'19.11" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°40'15.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°24'30.97" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°43'51.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°6'47.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°10'45.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°16'2.06" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°51'30.12" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: RIX, Reiga, Riga, Rigae, Rige, Rigg-a, Rigo, Riia, Riigaa, Riika, Rija, Riqa, Ryga, Ríga, Ríge, Rīga, li jia, liga, ri ka, riga, rika, ryga, rygh, rygha, ryja, Ρίγα, Ригæ, Рига, Рыга, Ріґа, Ռիգա, ריגה, ריגע, رىگا, ريجا, ريغا, ریگا, रिगा, रीगा, রিগা, ரீகா, รีกา, རི་ག, რიგა, ሪጋ, リガ, 里加, 리가

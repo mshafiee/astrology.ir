@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'5.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°45'21.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°12'12.97" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°0'38.15" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°31'39.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°56'46.46" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°28'26.37" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°45'21.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°12'13.17" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°0'39.23" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°31'39.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°56'47.44" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°32'42.31" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: BND, Bandar Abas, Bandar Abbas, Bandar Abbas - بندر عباس, Bandar Abbás, Bandar `Abbas, Bandar `Abbasi, Bandar ‘Abbās, Bandar ‘Abbāsī, Bandar-Abbas, Bandar-Abbasz, Bandar-Abbos, Bandar-Abbász, Bandar-e Abbas, Bandar-e `Abbas, Bandar-e ‘Abbās, Bandare Abasas, Bander Abbas, Bantar Ampas, Bendehr-Abas, Bender Abas, Bender Abbas, Bender Ebbas, Bender-Abbas, Bəndər Abbas, Cambarao, Cambarão, Gombroon, Gumrun, Port Comorao, Port Comorão, a ba si gang, ban dar xab bas, bandaleuabaseu, bandara abbasa, bandara-e-abbasa, bender-abasi, bndr ʻbʼs, bndr ʿbas, gumbrun, Μπαντάρ Αμπάς, Бандар-Аббос, Бендер Абас, Бендер-Аббас, Бендэр-Абас, Բանդեր Աբբաս, בנדר עבאס, بندر عباس, بندرعباس, بَندَر عَبّاسی, بَندَرِ عَبّاس, بەندەر عەباس, گُمبرُّن, बंदर-ए-अब्बास, বন্দর আব্বাস, บันดาร์อับบาส, ბენდერ-აბასი, バンダレ・アッバース, 阿巴斯港, 반다르아바스

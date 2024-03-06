@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'58.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°24'5.42" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°42'3.94" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°4'26.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°7'53.82" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°11'32.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°13'41.90" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°24'5.10" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°42'3.80" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°4'26.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°7'53.60" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°11'31.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°13'59.22" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'58.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°24'5.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°42'3.94" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°4'26.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°7'53.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°11'31.87" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°13'59.22" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°39'58.06" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°24'5.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°42'3.92" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°4'26.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°7'53.81" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°11'32.40" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°13'43.40" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: MOW, Maeskuy, Maskav, Maskava, Maskva, Mat-xco-va, Matxcova, Matxcơva, Mosca, Moscfa, Moscha, Mosco, Moscou, Moscova, Moscovo, Moscow, Moscoƿ, Moscu, Moscua, Moscòu, Moscó, Moscù, Moscú, Moskva, Moska, Moskau, Mosko, Moskokh, Moskou, Moskov, Moskova, Moskovu, Moskow, Moskowa, Mosku, Moskuas, Moskva, Moskvo, Moskwa, Moszkva, Muskav, Musko, Mát-xcơ-va, Mòskwa, Məskeu, Məskəү, masko, maskw, mo si ke, moseukeuba, mosko, mosukuwa, mskw, mwskva, mwskw, mwsqbh, mx s ko, Μόσχα, Мæскуы, Маскав, Масква, Москва, Москова, Москох, Москъва, Мускав, Муско, Мәскеу, Мәскәү, Մոսկվա, מאָסקװע, מאסקווע, מוסקבה, ماسکو, مسکو, موسكو, موسكۋا, ܡܘܣܩܒܐ, मास्को, मॉस्को, মস্কো, மாஸ்கோ, มอสโก, མོ་སི་ཁོ།, მოსკოვი, ሞስኮ, モスクワ, 莫斯科, 모스크바

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|18°17'59.65" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°50'49.19" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|25°5'11.69" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|25°41'22.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°14'10.09" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|25°41'22.04" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|14°18'7.55" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°45'36.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°32'31.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°17'59.77" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°50'48.29" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|25°5'11.70" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|25°41'22.04" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°18'7.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°32'31.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°17'59.65" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°50'49.19" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|25°5'11.69" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°41'22.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°14'10.09" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야

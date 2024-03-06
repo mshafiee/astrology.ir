@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|10°54'16.11" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°45'38.14" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|19°13'21.22" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°2'6.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°33'27.94" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|27°59'37.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|1°47'5.39" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|19°2'7.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°33'28.32" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|27°59'38.32" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°51'39.02" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'16.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°45'38.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°13'21.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°45'38.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°13'21.41" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°2'7.38" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|26°33'28.32" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|27°59'38.32" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°51'38.79" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°51'39.02" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: JWN, Zanjan, Zanjān, Zendzhan, Zenjan, Zenjān, znjan, Зенджан, زنجان

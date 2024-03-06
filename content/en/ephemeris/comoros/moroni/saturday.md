@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'17.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°45'40.67" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°13'32.18" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°2'20.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°33'44.90" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°0'1.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°18'7.52" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|19°13'31.86" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°2'22.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°33'44.75" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°0'2.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°18'0.87" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|12°45'40.67" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°13'31.86" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°2'22.02" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°33'44.90" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°0'1.28" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°18'7.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|26°33'44.75" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°0'2.88" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°18'0.87" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니

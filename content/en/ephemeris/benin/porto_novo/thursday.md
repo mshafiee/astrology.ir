@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'33.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°24'56.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°45'47.95" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°9'13.32" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°13'50.56" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°20'48.71" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°53'45.68" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°24'58.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°45'49.31" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°9'20.25" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°13'53.04" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°20'54.68" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°53'23.45" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Borto-Novo, Porta-Nova, Porto Neuvo, Porto Nobo, Porto Novas, Porto Novo, Porto-Novo, Portonovo, Portus Novus, Poto-Novo, Pòrto Neuvo, Pòto-Novo, Pôrto-Novo, bo duo nuo fu, bo tu nu bu, bwrtw nwfw, poleutonobo, porato-novo, porto-novho, porutonobo, pwrtw nwbw, pwrtw nwww, pxr to-no wo, xin gang, Πόρτο Νόβο, Πόρτο-Νόβο, Порта-Нова, Порто Ново, Порто-Ново, Պորտո Նովո, פארטא-נאווא, פורטו נובו, بورتو نوفو, پورتو نووو, پورٹو نووو, پۆرتۆ نۆڤۆ, पोर्तो-नोव्हो, ਪੋਰਤੋ-ਨੋਵੋ, ปอร์โต-โนโว, པོར་ཊོ་-ནོ་བོ།, პორტო-ნოვო, ፖርቶ ኖቮ, ポルトノボ, 新港, 波圖奴埠, 波多诺伏, 포르토노보

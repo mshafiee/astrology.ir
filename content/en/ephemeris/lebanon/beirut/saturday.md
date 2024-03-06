@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'31.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°46'1.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°14'58.90" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°4'12.24" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°36'3.65" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°3'40.63" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°21'24.14" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°46'0.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°14'57.79" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°4'8.89" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°36'1.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°3'37.90" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°1'54.16" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: BEY, Baeyrut, Bairut, Bayrut, Bayrūt, Beiriut, Beiroet, Beirot, Beirots, Beirout, Beiroūt, Beirut, Beiruta, Beirutas, Beirute, Beirút, Beirût, Beirūta, Bejrut, Bejrut oshs', Bejruti, Bejruto, Bejrút, Berut, Berytos, Berytus, Bewout, Beyrouth, Beyrut, Bey­rutʻ, Birut, Bäyrut, Béiriút, Bêrût, bairut, bairuta, bayrut, bei lu te, beiluteu, beiruti, beiruto, berut, beruta, beyaruta, beyruta, bey‌rutt, biruta, byrwt, byyrwt, peyrut, Βηρυτός, Бейрут, Бейрут ошсь, Бејрут, Бәйрут, Բեյ­րութ, ביירוט, ביירות, بيروت, بَيْرُوت, بیروت, بېيرۇت, بەیرووت, ܒܝܪܘܬ, बेयरूत, बेय्रुत, बैरूत, বৈরুত, ਬੇਰੂਤ, ବିରୁଟ, பெய்ரூத், ಬೈರುತ್, ബെയ്‌റൂത്ത്, เบรุต, པ་ར་ཐ།, པེ་རུ་ཐེ།, ဘေရွတ်မြို့, ბეირუთი, ቤይሩት, ベイルート, 貝魯特, 贝鲁特, 베이루트

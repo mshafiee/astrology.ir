@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°45'39.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°32'36.02" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|18°18'17.55" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°51'12.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|25°5'40.37" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|25°42'8.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°13'40.08" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|12°32'35.81" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|18°18'17.89" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°51'12.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|25°5'40.78" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|25°42'8.59" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|14°19'58.90" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°45'39.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°32'36.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°18'17.55" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°51'12.55" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|25°5'40.37" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|25°42'8.63" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°13'40.08" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°32'35.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°18'17.89" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°51'12.69" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|25°5'40.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°42'8.59" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°19'58.90" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Kota Semarang, Kutha Semarang, SRG, Samarang, Semaran'nk, Semarang, Semarangas, cemaran, san bao long, san ma leng, se ma rang, semarangi, seumalang, smarang, sumaran, symarang, symaranj, Σεμαράνγκ, Семаранг, سمارانگ, سيمارانج, سیمارانگ, செமாராங், เซมารัง, სემარანგი, スマラン, 三孖冷, 三宝垄, 三寶瓏, 스마랑

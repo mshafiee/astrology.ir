@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|12°32'22.14" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|18°17'19.85" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°49'56.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|25°4'7.05" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|25°39'40.11" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|13°46'45.01" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|25°4'8.30" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|25°39'44.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|13°48'20.98" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|12°32'22.14" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|18°17'19.85" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|17°49'56.77" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|25°4'7.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|25°39'40.11" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°46'45.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|25°4'8.30" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°39'44.00" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°48'20.98" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°41'58.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°27'4.89" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°54'50.29" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°41'58.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°27'4.73" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°54'50.26" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°20'57.28" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°28'15.94" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°43'28.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°39'38.93" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|24°43'28.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|6°39'40.24" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°41'58.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°27'5.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°54'44.04" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°20'45.63" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°28'7.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°43'20.32" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°7'40.56" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°27'4.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°54'50.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°20'57.28" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°28'15.94" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°43'28.40" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°39'40.24" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환

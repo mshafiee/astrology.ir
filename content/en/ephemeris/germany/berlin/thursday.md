@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'26.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°24'48.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°45'5.98" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°8'21.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°12'44.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°19'7.69" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°13'8.91" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°24'48.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°45'5.36" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°8'22.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°12'43.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°19'8.35" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°57'35.93" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린

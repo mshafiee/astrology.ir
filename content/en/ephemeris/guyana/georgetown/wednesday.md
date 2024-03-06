@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°41'47.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°26'48.47" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°53'40.97" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°41'47.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°26'48.64" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°53'41.00" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°19'28.45" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°26'25.39" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|24°40'34.80" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°22'57.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°22'55.91" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°41'47.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°26'48.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°53'40.97" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°19'28.45" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°26'25.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°40'34.80" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°22'57.24" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°41'47.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°26'49.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°53'38.77" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°19'25.95" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°26'22.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°40'33.52" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°42'38.51" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Demerara, Dzhordzhtaun, Dzordztaun, Dzordztauna, Dzordztaunas, Dzordztauns, Džordžtaun, Džordžtauna, Džordžtaunas, Džordžtauns, GEO, Georgetown, Georgetown i Guyana, Georgiopolis, Georgurbo, Jojton, Jòjtòn, Tzortztaoun, Zhorzhtaun, cxrc thawn, gwrgtʼwn, jarajata'una, jarj ٹawn  gyana, jarjata'una, jojitaun, jorjata'una, jorjtavun, jrj‌tawn, jwrj tawn, jwrj twghn, qiao zhi dui, qiao zhi dun, zuo zhi cheng, Τζορτζτάουν, Τζώρτζταουν, Џорџтаун, Джорджтаун, Джорджтаўн, Жоржтаун, Ջորջթաուն, גורגטאון, جارج ٹاؤن، گیانا, جرج‌تاون, جورج تاون, جورج توغن, جورج‌تاو, जॉर्जटाउन, ਜਾਰਜਟਾਊਨ, ଜର୍ଜଟାଉନ, ஜோர்ஜ்டவுண், ജോർജ്ജ് ടൗൺ, จอร์จทาวน์, ཅོར་ཅི་ཐོན།, ჯორჯტაუნი, ጆርጅታውን, ジョージタウン, 乔治敦, 佐治城, 조지타운

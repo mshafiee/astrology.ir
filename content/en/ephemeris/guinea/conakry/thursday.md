@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°47'57.62" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°12'5.58" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°17'17.70" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°26'12.14" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°5'11.33" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|24°26'15.75" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°32'51.06" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'53.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°25'27.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°47'55.51" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°12'0.71" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°17'14.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°26'12.14" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°5'11.33" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°25'28.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°47'57.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°12'5.58" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°17'17.70" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°26'15.75" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°32'51.06" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: CKY, Conacri, Conakry, Konakri, Konakrio, Konakris, Konakry, ke na ke li, konakeuli, konakuri, Κόνακρι, Конакри, קונאקרי, コナクリ, 科納克里, 코나크리

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°44'38.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°31'3.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°11'47.45" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°42'42.90" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°55'18.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|25°25'53.37" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°25'15.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°31'4.89" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°11'51.75" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°42'55.04" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°55'24.98" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°26'2.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°16'21.01" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라
