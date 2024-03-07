@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'4.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'24.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°48'11.38" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°4'9.94" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|13°8'23.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°48'8.55" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°4'2.14" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°4'32.18" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|1°54'24.32" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°21'17.92" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°21'17.67" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

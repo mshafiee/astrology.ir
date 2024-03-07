@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°38'48.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°22'20.38" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°34'33.67" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|16°54'41.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|23°55'56.10" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|23°52'48.71" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|29°8'18.82" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|12°22'21.54" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°34'39.81" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|16°54'56.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|23°56'5.19" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|23°53'0.12" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|0°14'11.26" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°38'48.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°22'21.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°34'39.80" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|16°54'41.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|23°55'56.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|23°52'48.71" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°8'18.82" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|10°38'48.65" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°22'21.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°34'39.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|16°54'56.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|23°56'5.19" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|23°53'0.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°14'11.26" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

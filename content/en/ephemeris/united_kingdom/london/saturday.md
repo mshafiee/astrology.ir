@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°55'16.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°47'9.39" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°19'49.95" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°10'20.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°43'47.34" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°15'43.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°13'22.64" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°55'17.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°47'11.03" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°19'51.10" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°10'27.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°43'49.56" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°15'49.12" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°40'36.14" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°55'17.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°47'9.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°19'49.95" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°10'20.89" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°43'47.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°15'43.26" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°13'22.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°47'11.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°19'51.10" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°10'27.30" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°43'49.56" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°15'49.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°40'36.14" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ILondon, LON, Lakana, Landan, Landen, Ljondan, Llundain, Lodoni, Londain, Londan, Londar, Londe, Londen, Londin, Londinium, Londino, Londn, London, London osh, Londona, Londonas, Londoni, Londono, Londons, Londonu, Londra, Londres, Londrez, Londri, Londro, Londye, Londyn, Londýn, Lonn, Lontoo, Loundres, Luan GJon, Lun-tun, Lunden, Lundra, Lundun, Lundunir, Lundúnir, Lung-dung, Lunnainn, Lunnin, Lunnon, Luân Đôn, Lùn-tûn, Lùng-dŭng, Lûn-tun, Lākana, Lůndůn, Lọndọnu, Ranana, Rānana, ilantan, ladana, landan, landana, leondeon, lndn, london, londoni, lun dui, lun dun, lwndwn, lxndxn, rondon, Łondra, Λονδίνο, Лондан, Лондон, Лондон ош, Лондонъ, Лёндан, Լոնդոն, לאנדאן, לונדון, لأندأن, لندن, لوندون, لەندەن, ܠܘܢܕܘܢ, लंडन, लंदन, लण्डन, लन्डन्, लन्दन, লন্ডন, ਲੰਡਨ, લંડન, ଲଣ୍ଡନ, இலண்டன், లండన్, ಲಂಡನ್, ലണ്ടൻ, ලන්ඩන්, ลอนดอน, ລອນດອນ, ལོན་ཊོན།, လန်ဒန်မြို့, ლონდონი, ለንደን, ᎫᎴ ᏗᏍᎪᏂᎯᏱ, ロンドン, 伦敦, 倫敦, 런던

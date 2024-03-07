@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'37.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°7'41.94" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°45'18.24" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°0'24.66" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°0'0.63" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°47'24.95" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°47'27.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°7'40.35" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°45'15.09" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°0'14.49" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|28°59'55.58" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°47'16.21" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|0°33'43.30" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'37.21" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°7'41.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°45'18.24" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°0'24.66" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°0'0.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°47'24.95" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°47'27.48" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°7'42.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°45'18.34" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°0'25.73" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°0'0.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°47'26.03" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°56'20.29" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Carmana, Dakbayan sa Kerman, Dakbayan sa Kermān, KER, Kerman, Kermanas, Kermano, Kermon, Kermán, Kermān, Kirman, Kirmon, karmana, ke er man, keleuman, kermani, keruman, krman, Керман, Кирмон, Կերման, כרמאן, كرمان, کرمان, कर्मान, ქერმანი, ケルマーン, 克尔曼, 케르만

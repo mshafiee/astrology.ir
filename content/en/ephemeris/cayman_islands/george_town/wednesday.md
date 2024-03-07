@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°42'17.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°27'32.55" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°56'48.10" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°23'27.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°31'23.97" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°48'23.87" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|7°1'28.98" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°27'32.82" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°56'49.32" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°23'30.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°31'25.79" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°48'20.80" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°52'47.28" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°42'17.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°27'32.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°56'48.10" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°23'27.66" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°31'23.97" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°48'23.87" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°1'28.98" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°27'33.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°56'44.01" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°23'22.33" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°31'18.54" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°48'20.80" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°52'47.28" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

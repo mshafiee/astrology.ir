@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°38'55.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°22'30.12" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°35'21.27" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|16°55'44.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|23°57'11.18" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|23°54'42.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°21'8.76" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°22'31.62" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°35'19.25" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|16°55'46.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|23°57'9.19" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|23°54'45.83" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|29°18'13.38" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°38'55.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°22'31.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°35'23.11" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|16°55'51.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|23°57'14.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|23°54'48.47" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°26'1.48" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°38'55.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°22'32.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°35'19.28" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|16°55'46.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|23°57'9.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|23°54'45.83" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°18'13.38" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Catmandu, Catmandum, KTM, Kantipur, Kantipura, Katemandu, Kathmandau, Kathmandou, Kathmandu, Katmando, Katmandoe, Katmandou, Katmandu, Katmanduo, Katmandó, Katmandú, Katmandû, Katmandū, Katmantou, Khatmandu, Káthmandu, Káthmándú, jia de man dou, kateumandu, kath manthu, kathamadaum, kathamadaum mahanagarapalika, kathamadu, kathamandu, kathmandu, katmandw, katmandww, katmantu, katomanzu, qtmndw, yem jilla, Κατμαντού, Катманду, Կատմանդու, קאטמאנדו, קטמנדו, كاتماندو, كاتماندۇ, کاتماندو, کاتماندوو, کھٹمنڈو, काठमांडू, काठमाडौं, काठमाडौं महानगरपालिका, काठमाण्डू, येँ जिल्ला, কাঠমাণ্ডু, কাঠমান্ডু, ਕਠਮੰਡੂ, કાઠમંડુ, କାଠମାଣ୍ଡୁ, காட்மாண்டு, కాఠ్మండు, ಕಠ್ಮಂಡು, കാഠ്മണ്ഡു, කත්මන්ඩු, กาฐมาณฑุ, ཀ་ཏ་མན་ཏ།, ཀ་ཏ་མན་ཏུ།, კატმანდუ, ካትማንዱ, カトマンズ, 加德滿都, 카트만두

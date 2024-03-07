@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°13'22.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°15'6.17" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°15'48.57" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°39'40.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°48'27.86" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|3°1'57.62" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|10°25'7.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°13'22.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°15'4.37" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°15'46.83" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°39'31.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°48'33.46" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|3°2'2.32" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|11°0'6.56" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°13'22.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°15'6.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°15'42.67" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°39'24.62" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°48'27.87" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|3°1'57.62" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°25'7.57" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|13°15'4.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°15'46.83" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°39'31.75" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°48'33.46" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|3°2'2.32" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°0'6.56" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

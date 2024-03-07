@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'8.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'30.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°48'37.64" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°4'41.98" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|11°9'8.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'30.35" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°48'37.62" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°4'41.99" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|29°5'18.48" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|1°55'35.87" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°1'13.17" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°1'12.91" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'8.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'30.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°48'37.64" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°4'41.98" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|13°8'30.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°48'37.62" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°4'41.99" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°5'18.48" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|1°55'35.87" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°1'13.17" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°1'12.91" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Qahirah, Al Qāhirah, CAI, Caire, Cairo, Cairo - alqahrt, Cairo - القاهرة, Cairu, Cairus, Caïro, El Caire, El Cairo, El Kahira, El Kahirah, El-Qahira, El-Qâhira, Il Cairo, Kaherah, Kahira, Kahirae, Kahire, Kahirä, Kair, Kaira, Kairas, Kairo, Kairó, Kajro, Kayro, Kaíró, Kaïro, Káhira, Le Caire, Lo Cayiro, Lungsod ng Cairo, Masr, Misr, Qahirə, alqahrt, kai luo, kailo, kairo, kayaro, keyro, khiro, qahrh, qhyr, Ël Cairo, Ël Càiro, Κάιρο, Каир, Каиро, Кайро, Каїр, קהיר, القاهرة, قاهره, قاھىرە, قاہرہ, কায়রো, கெய்ரோ, ไคโร, ཁ་ཡི་རོ, ქაირო, ካይሮ, カイロ, 开罗, 카이로

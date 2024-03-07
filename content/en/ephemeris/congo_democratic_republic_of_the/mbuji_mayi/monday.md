@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|21°5'39.11" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|29°6'27.26" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|1°57'21.50" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°57'7.63" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°36'6.94" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'15.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'40.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°49'20.89" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Direct|13°8'39.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°49'14.51" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|21°5'24.33" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°6'17.99" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|1°57'10.09" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи

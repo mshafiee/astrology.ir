@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°34'55.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°34'55.75" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°16'35.64" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°9'56.61" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|16°23'1.41" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|23°16'39.19" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|22°51'11.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|21°42'49.02" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|22°51'10.39" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|22°21'43.77" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°34'55.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°16'36.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°9'55.20" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|16°23'1.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|23°16'37.55" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|22°51'11.18" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°42'49.02" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|12°16'35.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°9'56.63" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|16°23'1.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|23°16'39.19" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|22°51'10.38" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|22°21'42.03" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

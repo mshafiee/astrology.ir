@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'19.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'48.42" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°49'51.40" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°6'14.84" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°7'16.19" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°58'37.99" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°57'32.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°9'19.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'48.26" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°49'51.38" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°6'14.85" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°7'11.46" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°58'34.98" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°29'55.22" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'19.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'48.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°49'51.40" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°6'14.84" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°7'16.19" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°58'37.99" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°57'32.78" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°9'19.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°8'48.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°49'47.78" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°6'9.64" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°7'11.46" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°58'34.98" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°29'54.98" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Castrum Danorum, Kallinn, Kolyvan, Lindanaes, Lindanäs, Raeaeveli, Reval, Revel, Revel', Rääveli, TLL, Taillinn, Talin, Talinas, Talini, Talino, Talins, Tallidn, Tallin, Tallin osh, Tallina, Tallinn, Tallinna, Talín, Tàllin, ta lin, talin, talina, tallin, tallina, tallyn, talyn, tarin, thallin n, Ταλίν, Ταλιν, Ταλλίν, Талин, Таллин, Таллин ош, Таллинн, Таллінн, Талін, Տալլին, טאלין, تاللىن, تالين, تالین, تاڵین, ٹالن, तालिन, ताल्लिन, তাল্লিন, ਤਾਲਿਨ, தாலின், ടാലിൻ, ทาลลินน์, ཏཱལ་་ལིན།, ტალინი, ታሊን, タリン, 塔林, 탈린

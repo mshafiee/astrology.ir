@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'58.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°24'5.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°42'1.11" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°4'26.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°7'49.76" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°11'28.57" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°56'2.08" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°24'3.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°42'2.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°4'21.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°7'50.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°11'29.36" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°38'9.87" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

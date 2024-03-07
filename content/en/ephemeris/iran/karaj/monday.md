@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'44.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°7'54.28" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°7'54.40" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°46'8.43" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°1'29.47" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°1'20.71" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°49'28.97" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°5'5.78" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°1'29.78" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°1'20.76" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°49'29.31" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°7'52.24" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Heredi, Karadj, Karadje, Karadsch, Karadz, Karadzs, Karadż, Karadž, Karag, Karaj, Karatz, Karaĝ, Karej, Kerec, Keredi, Keredzas, Keredzh, Keredžas, Kerezh, Kərəc, Leredi, PYK, QKC, Qasabeh-e Karaj, Qaşabeh-e Karaj, ka la ji, kairaija, kalaji, karaj, karaji, kha rac, krj, kyaraji, qasabihi karaj, Καράτζ, Карай, Караџ, Караҷ, Кередж, Кереж, כאראג, قَصَبِهِ كَرَج, كرج, کرج, کەرەج, कैरैज, கராஜ், คาราจ, ქარაჯი, キャラジ, 卡拉季, 카라지

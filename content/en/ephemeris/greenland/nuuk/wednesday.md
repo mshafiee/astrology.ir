@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°41'49.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°26'52.11" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°53'55.38" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°19'43.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°26'53.08" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°53'53.22" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°19'41.68" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°26'48.64" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|24°41'12.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°50'54.46" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°10'19.03" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

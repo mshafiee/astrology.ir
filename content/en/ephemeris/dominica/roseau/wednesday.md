@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°41'52.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°26'55.81" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°54'11.60" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°20'7.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°27'14.22" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°41'51.52" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°28'56.66" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°26'56.48" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°54'5.82" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°19'57.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°27'6.24" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°41'45.05" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°59'28.59" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|12°26'55.81" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°54'11.60" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|17°20'7.55" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°27'14.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°41'51.52" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°28'56.66" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|24°27'6.24" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°41'45.05" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°59'28.59" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

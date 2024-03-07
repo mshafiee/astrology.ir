@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°41'54.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°26'59.31" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°27'0.47" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°54'26.49" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°20'26.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°27'37.99" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°42'28.85" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°32'13.01" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°27'33.18" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°42'26.49" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°28'20.68" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°41'54.78" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|12°26'59.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°54'26.49" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°20'26.61" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°27'37.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°42'28.85" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°32'13.01" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|17°54'22.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°20'22.25" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°27'33.18" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°42'26.49" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°28'20.68" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

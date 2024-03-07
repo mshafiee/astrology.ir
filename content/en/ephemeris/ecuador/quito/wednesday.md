@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°42'12.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°27'25.22" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°56'9.57" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°22'36.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°30'23.55" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°46'54.11" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°38'43.01" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|10°42'11.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°27'25.00" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°56'16.13" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°22'48.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°30'32.78" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°47'2.66" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|7°15'59.68" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°42'12.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°27'25.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°56'9.57" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°22'36.38" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°30'23.55" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°46'54.11" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°38'43.01" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°27'24.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°56'16.10" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°22'48.70" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°30'32.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°47'2.66" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°16'0.97" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

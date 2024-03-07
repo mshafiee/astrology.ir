@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'55.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°24'1.90" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°41'49.12" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°39'55.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°24'1.73" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°41'49.09" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°4'9.25" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°7'30.02" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°10'54.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°24'56.27" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|24°10'54.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°24'57.78" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'55.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°24'1.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°41'49.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°39'55.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°24'1.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°41'49.09" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|17°4'9.25" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|24°7'30.02" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°10'54.39" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°24'56.27" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|24°10'54.40" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°24'57.78" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: 'Amman, AMM, Ama, Aman, Amanas, Amani, Amano, Amans, Amman, Ammana, Ammon, Ammán, Ammān, Ammāna, Amàn, Amán, Amã, Philadelphia, Rabbah, Rabbath Ammon, am'man, am'mana, aman, amana, amani, amman, an man, anman, xam man, yamman, ʻmʼn, ʿman, ʿmʾn, Αμμάν, Аман, Амман, Аммон, Ամման, אמאן, עמאן, ئاممان, امان, عمان, عمان شہر, عمّان, عَمّان, عەممان, ܥܡܐܢ, अम्मान, আম্মান, ਅਮਾਨ, அம்மான், ಅಮ್ಮಾನ್, അമ്മാൻ, อัมมาน, ཨམ་མན།, ამანი, አማን, ‘Ammān, アンマン, 安曼, 암만

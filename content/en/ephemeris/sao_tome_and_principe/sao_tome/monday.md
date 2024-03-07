@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'35.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°9'13.79" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°51'31.91" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°8'26.97" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°9'56.77" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°2'47.59" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°58'12.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°9'35.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°9'13.35" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°51'34.52" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°8'30.75" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°10'0.19" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°2'49.76" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|4°17'7.50" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'35.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°9'35.89" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°9'13.35" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°51'34.52" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|21°8'30.75" |Pisces|Rescha|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Salazar, San Tomas, San Tome, San Tomé, San Tomė, San-Tameh, San-Tome, Santo Tome, Santo Tomé, Santome, Sao Thome, Sao Tome, Sao Tomee, Sao Tomé, Sao-Tomeo, Soeo Tome, Svaety Tomas, Svätý Tomáš, Sào Thomé, São Tomé, Söo Tomé, TMS, Urbs Sancti Thomae, cavo tome, sa'o tome, sangtume, santome, savea team, saw twmy, saywtwmh, sea tu me, sheng duo mei, Σάο Τομέ, Сан-Тамэ, Сан-Томе, Сао Томе, Սան Տոմե, סאו טומה, ساؤ ٹومے, سائوتومه, ساو تومي, ساو تۆمێ, ساو ٹومے, साओ टोमे, সাও টোমে, ਸਾਓ ਤੋਮੇ, சாவோ தொமே, സാവോ ടോം, เซาตูเม, སའོ་ཊོ་མེ།, სან-ტომე, ሳን ቶሜ, サントメ, 圣多美, 聖多美, 상투메

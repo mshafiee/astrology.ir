@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°13'8.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°14'44.21" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°14'17.62" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°37'43.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°46'11.86" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°58'28.07" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|11°41'11.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°14'43.57" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°14'17.91" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°37'42.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°46'12.08" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°58'27.09" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|11°30'57.56" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°13'8.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°13'7.96" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°14'44.21" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°14'17.62" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|21°37'43.24" |Pisces|Rescha|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Alofi, Alofis, Alofo, Pasjolak Alofi, a luo fei, alaphi, allopi, alophi, alopi, alwfy, arofi, xalofi, Αλόφι, Алофи, Алофі, Пасёлак Алофі, الوفی, अलोफी, അലാഫി, อาโลฟี, ალოფი, アロフィ, 阿洛菲, 알로피

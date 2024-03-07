@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°42'2.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°42'2.69" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°27'10.95" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°55'16.79" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°21'31.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°28'58.22" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°44'34.61" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°51'0.18" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|17°55'10.64" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°21'19.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°28'49.47" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°44'26.10" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°21'43.89" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°42'2.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°27'10.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°55'16.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°21'31.75" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°28'58.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°44'34.61" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°51'0.18" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°42'2.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°27'11.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°55'16.81" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°21'19.68" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°28'49.46" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°44'26.11" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°21'45.17" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트

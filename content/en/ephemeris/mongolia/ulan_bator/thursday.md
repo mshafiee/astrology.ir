@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°45'49.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°32'51.93" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|18°19'26.74" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°45'49.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°32'52.09" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|18°19'26.77" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|17°52'38.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|25°7'30.84" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°7'30.85" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|25°45'2.21" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°10'30.76" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|14°10'29.95" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°45'49.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°32'51.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°19'26.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°45'49.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°32'52.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°19'26.77" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|17°52'38.78" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|25°7'30.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|25°7'30.85" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|25°45'2.21" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°10'30.76" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|14°10'29.95" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Da Hueryee, Da Hüryee, Da Khure, Da-Kure, K'u-lun, Orgoo, Oulan Mpator, Oulan-Bator, Ourga, ULN, Ula Bator, Ulaan Baatar, Ulaan Baatar Hoto, Ulaanbaatar, Ulaanbaataro, Ulaanbaator, Ulaanbaator hota, Ulaanbaatur, Ulan Bator, Ulan Bator Hoto, Ulan Batoras, Ulan Batur, Ulan-Bator, Ulan-Bator Khoto, Ulanbatar, Ulanbator, Ulanbátar, Ulán Bator, Ulán Bátor, Ulánbátar, Ulánbátor, Ulã Bator, Uranbatoru, Urga, Uruga, Ułan Bator, awlan batwr, ulanabatara, ullanbataleu, ullanbatoleu, uranbatoru, wu lan ba tuo, xulanbatxr, Örgöö, Úlan Bator, Ουλάν Μπατόρ, Улаанбаатар, Улан Батор, Улан-Батор, אולן בטור, أولان باتور, اولان‌باتور, उलानबातर, อูลานบาตอร์, ཝུ་ལན་བ་ཐུར, ኡላዓን ባዓታር, ウランバートル, 乌兰巴托, 울란바타르, 울란바토르

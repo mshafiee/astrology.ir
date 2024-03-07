@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°14'43.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°17'13.30" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°24'30.25" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|13°17'11.33" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°24'28.06" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|21°50'40.43" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|0°2'24.08" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|3°23'14.76" |Pisces|FarghAlMuqaddam|Saturn|
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°14'43.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°17'11.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°24'28.06" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Direct|13°17'11.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°24'28.08" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|21°50'40.43" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|0°2'24.08" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|3°23'14.76" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Aomen, Aomin', Au-mun, Aumwnz, Aumyn, Cidade de Macau, Cidade do Santo Nome de Deus de Macau, MFM, Ma Cao, Macao, Macau, Macaum, Makaa, Makaaw, Makao, Makaou, Makau, Makaw, Makawo, Makaó, Makee, Makèë, Màkáù, O-muong, ao men, maka, maka'o, maka'u, makao, makavu, makaw, makayw, makkavu, mkaw, Àu-mûn, Ó̤-muòng, Μακάου, Аоминь, Аумын, Макаа, Макао, מקאו, ئاۋمېن, ماكاو, ماکائو, مکاؤ, މަކާއޫ, मकाउ, मकाओ, মাকাউ, ਮਕਾਉ, મકાઉ, மக்காவு, మకావు, ಮಕಾವು, മകൗ, เขตบริหารพิเศษมาเก๊า, မကာအို, მაკაო, マカオ, 澳門, 澳门, 마카오

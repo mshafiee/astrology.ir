@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°45'33.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°32'26.79" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|18°17'39.59" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°50'23.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|25°4'39.69" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|25°40'32.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°8'1.27" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|12°32'26.34" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|18°17'39.80" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°50'22.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|25°4'39.83" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|25°40'32.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|14°13'26.74" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°45'33.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°32'26.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°17'39.59" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°50'23.35" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|25°4'39.69" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|25°40'32.79" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°8'1.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°32'26.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°17'39.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°50'22.65" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|25°4'39.83" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°40'32.00" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°13'26.74" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: DPS, Dehnpasar, Dempasar, Dempassar, Denpasar, Denpasar - Bali, Denpasar Bali, Denpasaras, Kota Denpasar, Kutha Denpasar, Ntenpasar, dan pa sha, denapasara, denpasaleu, denpasaru, dnpasar, Ντενπασάρ, Денпасар, Дэнпасар, דנפסאר, دنپاسار, ڈنپاسار, ڈنپسار, देनपसार, દેનપસાર, ဒန်ပါဆာမြို့, დენპასარი, デンパサール, 丹帕沙, 덴파사르

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°42'12.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°27'26.34" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°56'16.04" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°22'43.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°30'33.77" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°47'9.55" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°40'4.57" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|10°42'12.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°27'26.43" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°56'22.05" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°22'55.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°30'42.33" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°47'18.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|7°5'8.91" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°42'12.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°27'26.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°56'22.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°27'26.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°56'22.03" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|17°22'55.25" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|24°30'42.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°47'18.14" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°5'8.91" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|24°47'18.15" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°5'10.19" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

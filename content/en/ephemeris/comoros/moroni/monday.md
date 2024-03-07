@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'50.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'3.08" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°46'44.94" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°2'18.74" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°2'18.82" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°50'58.31" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°46'55.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°8'50.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'2.46" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°46'45.29" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°2'17.35" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°2'18.93" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°50'56.55" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°32'42.04" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'50.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'3.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°46'44.94" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°2'18.74" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°2'18.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°50'58.31" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°46'55.91" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°8'50.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°8'3.25" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°46'44.96" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°2'17.35" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°2'18.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°50'56.55" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°32'42.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니

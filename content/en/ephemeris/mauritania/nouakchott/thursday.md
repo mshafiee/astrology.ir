@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'57.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°25'33.66" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°48'21.14" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°12'35.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°17'55.25" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°27'14.80" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°36'25.07" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°25'32.54" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°48'21.59" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°12'33.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°17'55.54" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°27'12.73" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°55'37.55" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°40'57.49" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|12°25'33.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°48'21.14" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°12'35.53" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°17'55.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|17°48'21.59" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°12'33.62" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°17'55.54" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|24°27'14.80" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°36'25.07" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|4°55'37.55" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트

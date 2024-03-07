@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:04:35 |
-| Sunrise | 06:08:10 |
+| Sunrise | 06:08:11 |
 | Dhuhr (Noon) | 11:53:23 |
 | Medium Coeli | 11:53:23 |
 | Sunset | 17:39:43 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:02:18 |
-| Sunrise | 06:08:10 |
+| Sunrise | 06:08:11 |
 | Dhuhr (Noon) | 11:53:23 |
 | Medium Coeli | 11:53:23 |
 | Sunset | 17:39:43 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:24:51 |
-| Sunrise | 06:08:10 |
+| Sunrise | 06:08:11 |
 | Dhuhr (Noon) | 11:53:23 |
 | Medium Coeli | 11:53:23 |
 | Sunset | 17:39:43 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:02:18 |
-| Sunrise | 06:08:10 |
+| Sunrise | 06:08:11 |
 | Dhuhr (Noon) | 11:53:23 |
 | Medium Coeli | 11:53:23 |
 | Sunset | 17:39:43 |
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:31:33|Night duration: 12:25:52|
-|Every hour duration: 01:38:48|Every hour duration: 01:46:33|
+|Duration of the day: 11:31:32|Night duration: 12:25:52|
+|Every hour duration: 01:38:47|Every hour duration: 01:46:33|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:08:10|07:46:56|
-|Mid-morning|Saturn|Servant|07:46:57|09:25:44|
-|Late morning|Jupiter|Servant|09:25:45|11:04:31|
-|Noon|Mars|Servant|11:04:32|12:43:19|
-|Early afternoon|Sun|Servant|12:43:20|14:22:06|
-|Mid-afternoon|Venus|Servant|14:22:07|16:00:54|
+|Early morning|Moon|Ruler|06:08:11|07:46:57|
+|Mid-morning|Saturn|Servant|07:46:58|09:25:44|
+|Late morning|Jupiter|Servant|09:25:45|11:04:32|
+|Noon|Mars|Servant|11:04:33|12:43:19|
+|Early afternoon|Sun|Servant|12:43:20|14:22:07|
+|Mid-afternoon|Venus|Servant|14:22:08|16:00:54|
 |Late afternoon|Mercury|Servant|16:00:55|17:39:42|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'49.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'1.56" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°46'37.88" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°2'6.29" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°2'7.82" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°50'42.34" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°58'19.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°8'49.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'1.55" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°46'37.85" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°2'7.50" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°2'8.72" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°50'43.10" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°5'50.51" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'49.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'1.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°46'37.86" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°2'6.30" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°2'7.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°50'42.34" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°58'19.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°8'1.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°46'38.58" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°2'7.54" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°2'8.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°50'43.18" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°5'51.18" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

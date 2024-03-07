@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°14'53.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°17'26.74" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°25'32.16" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°52'2.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°4'5.90" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°25'49.32" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|13°54'25.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°14'53.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°17'28.78" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°25'33.79" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°52'11.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°4'9.08" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|3°25'57.44" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|15°8'20.70" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

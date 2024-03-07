@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°39'56.69" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°24'2.85" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°41'53.28" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°4'16.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°7'36.54" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°11'4.04" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°40'41.94" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|17°41'51.17" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°4'10.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°7'33.35" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°10'59.75" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°17'12.47" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라

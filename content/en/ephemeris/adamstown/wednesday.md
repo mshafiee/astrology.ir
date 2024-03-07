@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°43'11.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°28'52.43" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|18°2'32.00" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°30'45.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°40'32.44" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|25°2'43.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°30'45.95" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|10°43'11.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°28'54.22" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|18°2'36.56" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°30'59.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°40'39.58" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|25°2'54.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|9°19'43.19" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°43'11.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°28'54.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°2'36.59" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°30'59.53" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°40'39.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|25°2'54.41" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|9°19'42.02" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|10°43'10.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°28'52.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°2'32.00" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°30'45.63" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°40'32.44" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°2'43.28" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|8°30'47.08" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

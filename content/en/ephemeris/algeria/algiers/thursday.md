@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°40'36.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°25'2.26" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°46'7.61" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°9'42.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°14'22.40" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°21'41.37" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°43'27.47" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|10°40'36.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°25'2.64" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°46'6.86" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°9'41.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°14'21.37" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°21'40.82" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°29'42.43" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°40'36.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°25'2.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°46'7.61" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°9'40.24" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°14'22.94" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°21'39.00" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°9'48.00" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°40'36.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°25'2.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°46'6.86" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°9'41.36" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°14'21.37" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°21'40.82" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°29'42.43" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: ALG, Al Jazair, Al-jezair, Alcher, Alge, Algeirsborg, Alger, Algeri, Algero, Algier, Algiers, Algir, Alg·èr, Algê, Algír, Alje, Aljer, Aljir, Alse, Alxer, Alzer, Alzhir, Alzhir khot, Alzhir shaary, Alzhyr, Alziir, Alzir, Alzira, Alzirs, Alzyras, Alĝero, Alžiir, Alžir, Alžyras, Alžír, Alžěr, Alžīra, Alžīrs, Argel, Argier, Argièr, Arhel, Arjel, Arxel, Caesair, Cathair na hAilgeire, Cathair na hAilgéire, Cezayir, Cäsair, Icosium, Jazoir, Zzayer, a er ji er, ala-jaza'ira, alajiyarsa, alje, alji'ersa, aljiyars, aljiyarsa, aljyrz, aljzayr, aljzayr (mdynt), aljzayr alʿasmt, aljzyrh, alzhiri, aruje, jەzayyr, mdynt aljzayr, yaljyr, Əlcəzair, ʼlgyr, Αλγέρι, Алжир, Алжир хот, Алжир шаары, Алжыр, Алҷазоир, Ալժիր, אלגיר, אלזשירס, ئالجىر, الجزائر, الجزائر (مدينة), الجزائر العاصمة, الجزائر شہر, الجزيره, الجزیره, الجیرز, جەزائیر, مدينة الجزائر, ܓܙܐܐܪ, अल्जीएर्स, अल्जीयर्स, আলজিয়ার্স, ਅਲ-ਜਜ਼ਾਇਰ, அல்ஜியர்ஸ், അൾജിയേഴ്സ്, แอลเจียร์, ཨཱལ་ཇི་ཡར་སི།, အယ်လဂျီးယားမြို့, ალჟირი, አልጀርስ, アルジェ, 阿爾及爾, 알제

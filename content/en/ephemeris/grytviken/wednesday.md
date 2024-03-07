@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°41'11.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°25'54.25" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°49'44.86" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°14'23.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°20'9.68" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|24°30'49.88" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°8'33.15" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|10°41'11.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°25'54.09" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°49'48.52" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°14'28.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°20'14.70" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|24°30'53.50" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°8'18.45" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°41'11.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°25'54.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°49'44.86" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°14'23.05" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|24°20'9.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|24°30'49.88" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°8'33.15" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°41'11.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°25'54.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°49'48.52" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°14'28.72" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|24°20'14.70" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°30'53.50" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°8'18.45" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

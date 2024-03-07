@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:31:32 |
+| Fajr (Dawn) | 04:31:33 |
 | Sunrise | 06:15:01 |
 | Dhuhr (Noon) | 12:04:22 |
 | Medium Coeli | 12:04:22 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'27.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°9'1.31" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°50'44.70" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°7'24.17" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|11°9'27.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°9'1.14" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°50'44.68" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°7'24.18" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|29°8'41.04" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°0'48.52" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°26'6.05" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|2°0'48.53" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°26'5.81" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'27.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°9'1.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°50'44.70" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°7'24.17" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°9'27.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°9'1.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°50'44.68" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°7'24.18" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°8'41.04" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°0'48.52" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°26'6.05" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|2°0'48.53" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°26'5.81" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bec, Bech, Becs, Beç, Beč, Bienne, Bécs, Dunaj, VIE, Vena, Viden, Viden', Vieden, Viedeň, Viena, Vienna, Vienne, Vieno, Viin, Vin, Vinarborg, Vindobona, Viyana, Vídeň, Vín, Vínarborg, Wenen, Wieden, Wiedeń, Wien, bienna, bin, fyyna, weiynna, Βιέννη, Беч, Вена, Виена, Відень, فيينا, เวียนนา, ቪየና, 비엔나, 빈

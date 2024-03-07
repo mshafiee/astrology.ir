@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°13'24.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°13'23.99" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°15'9.35" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°15'54.94" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°39'45.97" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°48'48.43" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|3°2'33.96" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|11°27'8.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|21°16'0.79" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°39'55.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°48'56.27" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|3°2'40.19" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°11'38.38" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°13'23.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°15'9.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°15'54.94" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°39'45.97" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°48'48.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|3°2'33.96" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°27'8.41" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|11°13'24.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°15'9.35" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°16'0.79" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°39'55.67" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°48'56.27" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|3°2'40.19" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°11'38.38" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴

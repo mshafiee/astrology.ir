@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°0'21.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°0'21.32" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°54'56.58" |Aries|Butain|Sun|
 |♂ Mars|Direct|19°52'19.13" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°52'16.73" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|27°35'34.51" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|29°36'30.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°45'0.41" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|29°36'31.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|14°44'59.91" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°0'21.44" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°54'56.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°52'19.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°0'21.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°54'56.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°52'19.10" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°52'16.73" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|27°35'34.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°36'30.99" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°45'0.41" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|29°36'31.00" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°44'59.91" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이
