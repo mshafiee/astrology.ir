@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'40.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°7'47.50" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°45'39.92" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°0'53.37" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°0'35.31" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°48'19.11" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°1'59.72" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°7'47.39" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°45'39.87" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°0'53.01" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°0'35.20" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°48'18.76" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°59'2.43" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'40.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°7'47.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°45'39.74" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°0'52.51" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°0'34.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°48'18.32" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°55'17.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°7'47.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°45'39.87" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°0'53.01" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°0'35.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°48'18.76" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°59'2.43" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: AZD, Dakbayan sa Yazd, Giaznt, Jazd, Jazdo, Jezd, Jezdas, Yasd, Yazd, Yezd, Yəzd, iezdi, ya ci de, yajeudeu, yazda, yazudo, yzd, Γιαζντ, Јазд, Йезд, Язд, Յազդ, יזד, يزد, یزد, यज़्द, იეზდი, ヤズド, 亚兹德, 야즈드

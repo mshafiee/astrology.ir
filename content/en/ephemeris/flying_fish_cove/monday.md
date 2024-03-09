@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°14'50.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°17'24.77" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°25'17.93" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°51'40.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°3'38.36" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°25'8.40" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|13°42'21.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°14'50.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°17'24.94" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°25'17.95" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°51'51.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°3'43.81" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|3°25'18.65" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|15°11'18.80" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°14'50.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°17'22.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°25'14.68" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°51'40.19" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|0°3'38.36" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|3°25'8.40" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°42'21.91" |Aries|Butain|Sun|
+|♄ Saturn|Direct|11°14'50.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°17'24.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°25'17.95" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°51'51.70" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|0°3'43.81" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|3°25'18.65" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|15°11'18.80" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Mars|Venus|Taurus|Sun|Mars|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Flain-Fish-Kouv, Flaing Fish Kouv, Flajing Fish Kouv, Flajing-Fish-Kouv, Flayinq Fis Kouv, Flayinq Fiş Kouv, Flying Fish Cove, Kampong, The Settlement, fala'iga fisa kova, fei yu wan, flay xing fich khof, flayngh fysh kwf, flayyng fsh kww, peullaingpisikobeu, phla'inga phisa kova, pilaiyin pis kov, plaing-pishi, Флаинг Фиш Коув, Флайинг-Фиш-Коув, Флаін-Фіш-Коўв, Флајинг Фиш Коув, فلائینگ فش کوو, فلاينغ فيش كوف, फ्लाइंग फिश कोव, ਫ਼ਲਾਇੰਗ ਫ਼ਿਸ਼ ਕੋਵ, பிளையிங் பிஷ் கோவ், ฟลายอิงฟิชโคฟ, ფლაინგ-ფიში, フライング・フィッシュ・コーブ, 飞鱼湾, 플라잉피시코브

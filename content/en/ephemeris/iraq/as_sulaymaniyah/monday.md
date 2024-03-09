@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'51.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'4.75" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°46'51.28" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°2'25.09" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°2'29.01" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°51'14.48" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°24'56.28" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°8'51.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'4.72" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°46'51.08" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°2'24.63" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°2'28.71" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°51'14.14" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°21'57.38" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'51.64" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°8'4.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°46'51.28" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°2'25.09" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°2'29.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°51'14.48" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°24'56.28" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°46'51.08" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°2'24.63" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°2'28.71" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°51'14.14" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°21'57.38" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al-Sulaimaniya, As Sulaymaniyah, As Sulaymānīyah, As-Sulajmanijja, ISU, Silemani, Silêmanî, Sleimani, Sleimāni, Slemani, Slêmanî, Slēmānī, Solimania, Souleimaniye, Sueleymaniye, Sulaimani, Sulaimania, Sulaimanieh, Sulaimaniya, Sulaimaniyya, Sulaimany, Sulaymaniyah, Sulaymaniyya, Sulaymānīyah, Suleimania, Suleimaniya, Suleimaniyah, Sulejmanija, Süleymaniye, alslymanyt, slymanyh, Сулеймания, السليمانية, سلیمانیه, سلێمانى, سلێمانی

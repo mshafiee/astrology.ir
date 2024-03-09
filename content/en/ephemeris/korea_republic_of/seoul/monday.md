@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°14'28.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°16'49.64" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°22'53.06" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°48'40.26" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°59'53.13" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|3°19'22.50" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|13°18'18.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°14'28.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°16'49.47" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°22'53.04" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°48'43.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°59'53.16" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|3°19'26.45" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|13°58'22.36" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Hanyang, SEL, Seoel, Seol, Seoul, Seoul-si, Seuel, Seul, Seula, Seulas, Seulo, Seulum, Seúl, Seül, Siul, Soeul, Sol, Soul, Sye-ul, Syou-ouen, Szoeul, Szöul, Séoul, Sêûl, Söul, Sŏul, Wang-ching, Wo-jo, Wō-jō, ciyol, han-yang, saul, seoul, seoulsi, seoulteugbyeolsi, seuli, shou er, shou er te bie shi, si'ula, siyola, sol, sola, souru, souru te bie shi, sywl, Σεούλ, Сеул, Соул, Сөүл, Սեուլ, סאול, סיאול, סעאל, سئول, سيول, سیول, سێئول, سېئول, सियोल, सोल, সিউল, சியோல், ಸೌಲ್, സോൾ, โซล, སེ་ཨུལ།, ဆိုးလ်မြို့, სეული, ሶል, សេអ៊ូល, ソウル, ソウル特別市, 首尔, 首尔特别市, 서울, 서울시, 서울특별시, 한양

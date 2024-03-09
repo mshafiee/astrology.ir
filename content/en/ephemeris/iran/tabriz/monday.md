@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'50.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'3.82" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°46'46.53" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°2'19.38" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°2'21.54" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°51'3.45" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°26'15.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°8'3.57" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°46'46.31" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°2'18.35" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°2'21.13" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°51'2.50" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°18'10.83" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'50.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'3.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°46'46.29" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|11°8'50.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°8'3.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°46'46.31" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|21°2'18.35" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°2'21.13" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|1°51'2.50" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°18'10.56" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°18'10.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: TBZ, Tabrez, Tabris, Tabriz, Tabrizo, Tabríz, Tabrīz, Taebris, Taebriz, Tampriz, Tauris, Tebriz, Tebriza, Tebrizas, Tebrīza, Tehbryz, Tewrez, Tewrêz, Toewriz, Täbris, Täbriz, Töwriz, Təbriz, da bu li shi, ta bris, tabareza, tabariza, tabeulijeu, tabris, taburizu, tavrizi, tbryz, Ταμπρίζ, Табрез, Табриз, Тебриз, Тэбрыз, Тәбриз, Թավրիզ, טאבריז, תבריז, تبريز, تبریز, تەورێز, तबरेज़, ਤਬਰੀਜ਼, ടാബ്രിസ്, ตาบริซ, ཊ་བི་རི་ཛ།, თავრიზი, タブリーズ, 大不里士, 타브리즈

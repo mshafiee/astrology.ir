@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'9.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°45'28.34" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°12'40.52" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|12°45'28.50" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°12'40.55" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°1'12.68" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°32'23.22" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|27°57'56.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|1°16'59.42" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°16'59.63" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°54'9.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°45'28.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°12'40.55" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°1'12.68" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°32'23.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°57'56.63" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°16'59.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|10°54'9.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°45'29.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°12'41.61" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°1'17.51" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°32'25.13" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°58'0.88" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°39'15.94" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Ephu, Oefa, Oufa, Ouffa, Owfa, UFA, Uf, Ufa, Uffa, Ufà, Ufá, Ufа, Upo, awfa, ufa, upa, wu fa, Ĕпхӳ, Оуфа, Уфа, Үфі, Өфө, Ӱпӧ, Ուֆա, אופה, أوفا, اوفا, ऊफ़ा, უფა, ウファ, 烏法, 우파

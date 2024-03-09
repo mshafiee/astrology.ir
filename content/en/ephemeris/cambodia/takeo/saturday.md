@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°0'21.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°54'55.28" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°52'20.53" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°52'12.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°35'36.22" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|29°36'30.64" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°2'52.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°0'21.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°54'55.30" |Aries|Butain|Sun|
+|♂ Mars|Direct|19°52'20.64" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°52'13.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°35'36.39" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|29°36'30.84" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|14°4'42.03" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|19°52'21.12" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|27°35'39.33" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|29°36'38.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°52'36.91" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|14°4'41.54" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'21.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'51.79" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°50'1.67" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°6'32.50" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°7'32.76" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°59'4.76" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°51'49.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°9'21.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'51.37" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°50'2.29" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°6'33.06" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°7'33.53" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°59'4.90" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°53'8.92" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'21.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'51.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°50'1.67" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°6'32.50" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°7'32.76" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°59'4.76" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°51'49.53" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°9'21.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°8'50.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°50'2.31" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°6'33.06" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°7'33.53" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°59'4.90" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°53'9.17" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Escopia, Escópia, SKP, Scopia, Scupi, Shkup, Shkupi, Skop'e, Skope, Skopeia, Skopia, Skopie, Skopiye, Skopje, Skopjo, Skopjė, Skople, Skoplie, Skoplje, Skopye, Szkopje, UEskuep, Uskub, Usküb, askwbyt, askwpyh, s ko peiy, sakopi'e, seukope, si ke pu li, skopje, skopye, skwbyh, sqwpyh, sukopie, Üsküp, Σκόπια, Скоп'е, Скоп'є, Скопе, Скопие, Скопье, Скопје, Скопље, Съкопиѥ, Սկոպյե, סקאפיע, סקופיה, إسكوبية, اسکوپیه, اسکوپیہ, سكوبيه, سكوپليې, سکوپ جے, स्कोप्ये, ਸਕੋਪੀਏ, ஸ்கோப்ஜே, สโกเปีย, སི་ཀོཔ་ཇི།, სკოპიე, ስኮፕዬ, スコピエ, 斯科普里, 스코페

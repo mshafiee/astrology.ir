@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'20.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°45'41.76" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°13'43.56" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°2'29.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°34'3.16" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°0'29.69" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|1°25'13.32" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°45'44.04" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°13'46.08" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°2'39.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°34'7.45" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°0'38.59" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°13'35.63" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'20.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°45'44.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°13'46.08" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°2'39.64" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°34'3.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°0'29.69" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°25'13.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°45'42.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°13'44.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°2'33.45" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°34'4.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°0'33.46" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°39'16.24" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Byen Djibouti, Cibuti, Dinas Jibwti, Diobuiti, Diobúití, Djiboeti, Djibouti, Djibouti Chhi, Djibouti Chhī, Djibuti, Dschibuti, Dzhibuti, Dzhybuci, Dzibuti, Dzibutis, Dzjibuty, Dzjibûty, Dzsibuti, Dżibuti, Džibuti, Džibutis, Džíbútí, Gibuti, Gibuto, Gibutum, Ilu Djibouti, JIB, Jabuuti, Jiboti, Jibouti, Jibuti, Lungsod ng Djibouti, Mbanza ya Djibuti, Sita Jibouti, Syudad han Djibouti, Tzimpouti, Xibuti, Xibutí, Yibuti, Zhibuti shaary, ci buti, ciputti, dzsybwty, gybwty, jbwty, jbwty ʿlaqہ, ji bu de shi, ji bu ti cheng, jibuchi shi, jibuti, jybwty, jybwwty, Ìlú Djibouti, Ĝibuto, Τζιμπουτί, Џибути, Джибути, Джибуті, Джыбуці, Жибути шаары, Ҷибути, Ջիբութի, גיבוטי, דזשיבוטי, جبوتی, جبوتی علاقہ, جيبوتي, جیبوتی, جیبووتی, जिबूती, জিবুতি, ਜਿਬੂਤੀ, சீபூத்தீ, จิบูตี, ཇི་བའོ་ཊི།, ჯიბუტი, ジブチ市, 吉布地市, 吉布提城, 지부티

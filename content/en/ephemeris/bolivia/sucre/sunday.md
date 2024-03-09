@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°11'1.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°11'26.84" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°0'45.86" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°20'19.86" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°24'38.62" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°25'22.06" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°19'37.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|13°11'27.03" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°0'38.18" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°20'3.05" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°24'27.58" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°25'9.43" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|7°20'4.21" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°11'1.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°11'26.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°0'45.84" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°20'19.89" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°24'38.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°25'22.11" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°20'4.04" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°11'1.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°11'27.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°0'38.18" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°20'3.05" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°24'27.58" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°25'9.43" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°32'46.96" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레

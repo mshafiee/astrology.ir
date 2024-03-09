@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'21.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°7'18.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°43'42.99" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|20°58'22.75" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|28°57'28.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°43'28.22" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°31'38.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°7'18.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°43'40.21" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|20°58'18.18" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|28°57'24.70" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°43'25.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°5'9.74" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Ak-Mola, Akmola, Akmolins'k, Akmolinsk, Aqmola, Astana, Astano, Astanà, Astaná, Asztana, Aστάνα, Cilinograd, NQZ, Noer-Soeltan, Nour-Soultan, Nur-Soltan, Nur-Sultan, Nur-Sultano, Nur-Sultán, Nursultʻan, Nұr-Sұltan, Ostona, Qaraotkel, Qaraötkel, TSE, Tselinograd, a si ta na, aseutana, astana, astanh, astant, astanٱ, astanہ, astʼana, asutana, nwr sltan, nwrsltan, nwrswltan, nۇrsۇltan, yastana, ʼstnh, Ак-Мола, Акмола, Акмолінськ, Астана, Нур-Солтан, Нур-Султан, Нұр-Сұлтан, Остона, Цілиноград, Աստանա, Նուրսուլթան, אסטנה, آستانا, آستانه, آستانٱ, آستانہ, أستانة, أسطانا, ئاستانا, استانا, استانه, نور سلطان, نورسلطان, نورسولتان, نۇرسۇلتان, আস্তানা, ასტანა, አስታና, アスタナ, 阿斯塔纳, 아스타나

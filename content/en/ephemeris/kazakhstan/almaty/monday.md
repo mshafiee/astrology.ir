@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'14.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°7'6.78" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°42'51.54" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|20°57'16.15" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|28°56'7.10" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°41'25.37" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|0°57'2.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°8'14.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°7'6.02" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°42'52.56" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|20°57'16.10" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|28°56'8.18" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°41'24.58" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|0°52'5.04" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ALA, Alma Ata, Alma-Ata, Almaato, Almata, Almati, Almato, Almaty, Almatî, Almatõ, Almatý, Almatı, Almatʻa, Ałmaty, Vernyy, a la mu tu, alamati, almaaty, almati, almaty, arumatoi, xal mati, Αλμάτι, Алма-Ата, Алмаато, Алмати, Алматы, Ալմաթա, אלמאטיע, אלמטי, آلماآتی, آلماتی, ألماتي, ئالمۇتا, الماتی, अलमाती, अल्माटी, อัลมาตี, ཨཱལ་མ་ཊི།, ალმათი, アルマトイ, 阿拉木圖, 알마티

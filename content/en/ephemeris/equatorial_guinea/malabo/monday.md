@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'33.64" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°9'9.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°51'18.45" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°8'10.24" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°9'35.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°2'13.68" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°51'20.16" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°8'12.17" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°9'37.31" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°2'14.53" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|4°11'0.05" |Aries|Sharatain|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

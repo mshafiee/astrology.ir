@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'46.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°9'30.24" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°52'41.99" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°9'55.77" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°11'48.18" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°5'38.15" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|4°9'27.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°9'46.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°9'30.22" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°52'44.19" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°9'59.87" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°11'51.22" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°5'40.97" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|4°33'42.65" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'46.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°9'30.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°52'41.99" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°9'55.77" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°11'48.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°5'38.15" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°9'27.22" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°9'30.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°52'44.19" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°9'59.87" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°11'51.22" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°5'40.97" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°33'42.65" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°54'12.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°45'32.32" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°12'57.43" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°54'12.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°45'32.49" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°12'57.46" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°1'35.75" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°32'50.05" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|27°58'38.08" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'12.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°45'32.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°12'57.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°45'32.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°12'57.46" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°1'35.75" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°32'49.71" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°58'38.07" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°36'42.32" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|26°32'48.42" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°58'39.26" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°24'45.64" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: THR, Taekhran, Tahran, Techerane, Teera, Teerao, Teerã, Teerão, Tegeran, Teheran, Teherana, Teheranas, Teherano, Teherán, Teherāna, Tehran, Tehrano, Tekheran, Téhéran, de hei lan, teharan, teharana, tehelan, teheran, tehran, teirani, thran, thrn, thrwn, tihiran, tihran, Τεχεράνη, Тæхран, Тегеран, Техеран, Теҳрон, Թեհրան, טהראן, טהרן, تهران, تهرون, تِهران, تِهِرَن, تہران, طهران, ܛܗܪܐܢ, तेहरान, তেহরান, தெஹ்ரான், เตหะราน, ཏེ་ཧི་རན​།, თეირანი, ቴህራን, テヘラン, 德黑兰, 테헤란

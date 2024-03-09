@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'25.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°45'50.92" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°14'17.61" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°3'15.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°45'52.14" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°14'20.10" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°3'23.57" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°34'57.72" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°2'3.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°26'6.12" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|28°1'56.84" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°41'35.64" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

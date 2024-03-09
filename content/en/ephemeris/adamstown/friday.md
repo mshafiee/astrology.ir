@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|19°31'4.09" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|27°9'16.86" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|28°55'32.23" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°11'46.31" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|9°37'18.48" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°57'46.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°50'59.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°35'44.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°30'50.21" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|27°9'9.73" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°55'20.77" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|8°11'46.31" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|10°57'46.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°50'59.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°35'49.37" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°31'4.09" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|27°9'16.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°55'32.23" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|9°37'18.48" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

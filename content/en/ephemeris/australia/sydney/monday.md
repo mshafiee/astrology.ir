@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°13'53.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°15'55.45" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°19'10.33" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°43'59.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°53'58.22" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|3°10'22.35" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|13°11'9.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°15'55.12" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°19'2.82" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°43'44.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°53'47.68" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|3°10'11.79" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|11°50'24.78" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°13'53.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°15'55.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°19'10.39" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°43'59.15" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°53'58.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|3°10'22.35" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°11'9.25" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°15'55.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°19'10.33" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°43'59.37" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°53'47.68" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|3°10'11.79" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°50'24.78" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Taurus|Sun|Mars|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: SYD, Sanctus Dionysius, Sedniejos, Sek-na, Sidnef, Sidnei, Sidnej, Sidneja, Sidnejo, Sidnejus, Sidney, Sidneý, Sidni, Sidnéy, Sidnėjus, Sit-ni, Sit-nì, Syd, Sydneium, Sydney, Sydney City, Sék-nà̤, Sídney, Sîdney, Sėdniejos, citni, shidoni, sidani, sideuni, sidnei, sidni, sidniy, sydny, xi ni, xue li, Σίδνεϋ, Сиднеи, Сидней, Сиднеј, Сидни, Сідней, Сідні, Սիդնեյ, סידני, سيدنى, سيدني, سڈنی, سیدنی, ܣܝܕܢܝ, सिडनी, सिड्नी, सिद्नी, সিডনি, ਸਿਡਨੀ, સીડની, சிட்னி, సిడ్నీ, ಸಿಡ್ನಿ, സിഡ്നി, සිඩ්නි, ซิดนีย์, སིད་ནེ།, ဆစ်ဒနီမြို့, სიდნეი, ሲድኒ, ស៊ីដនីយ៏, シドニー, 悉尼, 雪梨, 시드니

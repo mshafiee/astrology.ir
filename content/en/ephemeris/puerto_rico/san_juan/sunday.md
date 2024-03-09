@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°11'5.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°11'32.24" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°1'8.10" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°20'47.41" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°25'14.13" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°26'17.01" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°12'52.91" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|11°11'5.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°11'32.44" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°1'3.27" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°20'38.32" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°25'7.44" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°26'10.70" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°20'25.77" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°11'5.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°11'32.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°1'8.10" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°20'47.41" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°25'14.13" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°26'17.01" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°12'52.91" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°11'5.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°11'32.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°1'8.12" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°20'38.32" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°25'7.44" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°26'10.70" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°20'25.77" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환

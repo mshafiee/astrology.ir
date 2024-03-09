@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'57.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'13.15" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°47'28.51" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°3'9.47" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°3'28.22" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°52'44.99" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°56'48.17" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°8'14.38" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°47'31.02" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°3'17.38" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°3'32.24" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°52'51.72" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°54'7.80" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

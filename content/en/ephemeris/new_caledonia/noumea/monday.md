@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°13'36.38" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°15'28.45" |Aries|Butain|Sun|
 |♂ Mars|Direct|21°17'19.48" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°41'36.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°51'1.03" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|3°5'51.96" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°39'22.93" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|21°41'36.98" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°51'1.59" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|3°5'52.11" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°39'37.78" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°13'36.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°15'28.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°17'19.46" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|11°13'36.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°15'28.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°17'19.48" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|21°41'36.98" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°51'1.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|3°5'52.11" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°39'37.72" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|29°50'51.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|3°5'38.37" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|10°45'0.67" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Taurus|Sun|Mars|
-|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

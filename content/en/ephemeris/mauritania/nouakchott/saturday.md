@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°55'32.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°47'34.23" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°21'28.64" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°12'34.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°46'24.87" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°19'50.96" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°40'51.76" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°55'32.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°47'34.06" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°21'29.09" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°12'32.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°46'25.08" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°19'48.66" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°39'34.69" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|10°55'32.38" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|12°47'34.23" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°21'28.64" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°12'31.58" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°46'20.81" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°19'49.49" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°1'27.80" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|19°12'34.93" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°46'24.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°19'50.96" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°40'51.76" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트
