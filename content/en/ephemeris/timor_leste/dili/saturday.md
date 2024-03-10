@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|19°49'30.44" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°48'40.72" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|27°31'5.58" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|29°29'31.93" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°4'41.07" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|29°29'29.59" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|13°52'11.39" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°59'55.16" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|12°54'16.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°49'30.44" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°48'40.72" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|27°31'5.58" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°29'31.93" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°4'41.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|19°49'30.32" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°48'38.39" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|27°31'5.07" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|29°29'29.59" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°52'11.39" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Moon|Sun|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: DIL, Delhi, Dilhi, Dili, Dili khot, Dilis, Dilli, Dilly, Dilo, Dily, Dyli, Díli, Nova Dili, Ntili, di li, dili, dilli, diri, dyly, tili, Ντίλι, Дили, Дили хот, Дылі, Ділі, Դիլի, דילי, دىلى, ديلي, دیلی, ڈلی, दिली, দিলি, ਦੀਲੀ, டிலி, ಡಿಲಿ, ദിലി, ดิลี, དྷི་ལི།, ဒီလီမြို့, დილი, ディリ, 帝力, 딜리

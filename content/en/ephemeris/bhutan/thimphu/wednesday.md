@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'26.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°29'23.40" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°14'11.09" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°54'31.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°21'36.02" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°23'31.28" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|29°5'28.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°22'27.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°29'23.56" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°14'11.14" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°54'31.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°21'36.10" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°23'31.23" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|29°4'18.61" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'26.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°29'23.40" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°14'15.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|22°54'42.90" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°21'42.31" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°23'41.07" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°20'55.20" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|11°22'27.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°29'22.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°14'11.16" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|22°54'31.42" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°21'36.09" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°23'31.23" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|29°4'18.61" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

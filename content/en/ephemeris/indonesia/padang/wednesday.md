@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°29'26.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°40'30.18" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°59'18.46" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°52'33.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°33'24.72" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°10'43.93" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|13°28'41.75" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°40'30.02" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°59'18.44" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°52'33.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°33'26.90" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|7°10'49.72" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|14°21'31.34" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°29'25.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°40'28.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°59'17.40" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°52'27.91" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°29'26.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°40'30.02" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°59'18.44" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°52'33.63" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|2°33'26.90" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|7°10'49.72" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|14°21'31.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°21'31.34" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Kota Padang, Kuta Padang, Kutha Padang, PDG, Padang, Padangas, Padango, ba dong, badangh, pa dang, padan, padang, padanga, padng  andwnzy, Паданг, بادانغ, پادانگ, پادنگ، اندونزی, پاڈانگ, पादांग, ปาดัง, パダン, 巴東, 파당

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°56'26.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°56'26.42" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°48'56.67" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|19°27'14.86" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°20'1.76" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°55'36.75" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|28°34'12.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°36'34.38" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|6°48'26.26" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°56'26.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°48'56.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°27'14.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°56'26.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°48'56.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°27'14.86" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°20'1.76" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|26°55'36.75" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|28°34'12.46" |Pisces|Rescha|Mars|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°29'32.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°40'39.88" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°59'58.32" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°53'23.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°34'30.47" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°12'23.90" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|14°25'34.07" |Aries|Butain|Sun|
+|♄ Saturn|Direct|11°29'32.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°40'40.04" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°59'58.33" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°53'23.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°34'30.46" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|7°12'15.60" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|13°16'12.67" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Pisces|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°29'32.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°40'39.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°59'58.32" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°53'23.84" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°34'30.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°29'32.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°40'40.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°59'58.33" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°53'23.83" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°34'30.46" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|7°12'23.90" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|14°25'34.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°25'33.82" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이

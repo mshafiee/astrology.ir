@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°56'24.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°48'54.37" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°27'4.66" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°56'24.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°48'54.21" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°27'4.64" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°19'47.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°55'20.51" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|26°55'20.50" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|28°33'47.35" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°34'2.50" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|6°34'2.12" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°56'24.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°48'54.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°27'4.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°56'24.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°48'54.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°27'4.64" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°19'47.78" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°55'20.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°33'47.35" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°34'2.50" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|26°55'10.42" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°33'36.40" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°45'29.88" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

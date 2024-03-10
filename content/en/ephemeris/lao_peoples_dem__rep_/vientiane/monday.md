@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°14'56.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°17'33.61" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°25'53.64" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°52'27.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°4'36.56" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°26'38.12" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|14°3'16.30" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°14'56.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°17'33.45" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°25'53.62" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°52'36.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°4'40.72" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|3°26'45.89" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|15°10'39.31" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°14'56.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°17'33.45" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°25'53.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|21°52'36.60" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|0°4'40.72" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|3°26'45.89" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|15°10'39.31" |Aries|Butain|Sun|
+|♄ Saturn|Direct|11°14'55.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°17'32.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°25'52.80" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°52'32.81" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|0°4'39.16" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|3°26'42.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|14°38'47.77" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Mars|Venus|Taurus|Sun|Mars|
-|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Bientian, Fanhyiengh, Nakhon Viangchan, V'ent'jan, VTE, Venc'jan, Vent'jan, Ventjan, Ventyan, Vianchan, Viang chan, Viangchan, Vien Can, Vien Chang, Vienciana, Vieng Quy, Vieng-Caen, Vieng-Chan, Vieng-Cæn, Viengchan, Viengtjan, Vientane, Vientian, Vientianas, Vientiane, Vientijan, Vientián, Vientjan, Vientyan, Vijentijan, Viêng Quý, Vjencana, Vjentiano, Vjentjan, Vjenčana, Vyantyan, Vyantyàn, Vyentyan, Wei-t'ien, Wei-t’ien, Wiang Chan, Wiangcan, Wien Tsjan, Wientian, Wiën Tsjan, Wyentyan, Wyéntyan, bhiyenatiyena, bientian, fyyntyan, vhi'antiyana, vi'anga cana, viyancan, viyen tiyen, vu~ienchan, vu~ienchan shi, wan xiang, weiyngcanthn, wyntyan, yong zhen, Βιεντιάν, Вентян, Венцьян, Виентијан, Виентян, Вијентијан, Вьентьян, Вєнтьян, Վիենտյան, ויינטיאן, فيينتيان, وینتیان, ڤیێنتیان, व्हिआंतियान, ভিয়েনতিয়েন, ਵਿਆਂਗ ਚਾਨ, வியஞ்சான், ವಿಯೆನ್ ಟಿಯೇನ್, വിയന്റിയൻ, เวียงจันทน์, ວຽງຈນ, ວຽງຈັນ, ཝིན་ཆིའང་, ဗီယင်ကျန်းမြို့, ვიენტიანი, ቭየንትዬን, ヴィエンチャン, ヴィエンチャン市, 万象, 永珍, 비엔티안

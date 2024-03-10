@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|19°9'59.44" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|18°57'47.45" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°28'6.18" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|27°51'8.78" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°28'49.86" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|27°51'13.91" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|0°54'53.05" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°53'44.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°44'48.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°9'58.13" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|18°57'41.61" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°28'3.84" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°51'8.78" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°28'49.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°44'48.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°9'56.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|18°57'37.49" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°28'1.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°51'5.72" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°0'4.17" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이

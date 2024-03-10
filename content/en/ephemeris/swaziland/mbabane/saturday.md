@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°54'31.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°46'0.83" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°14'56.46" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°4'11.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|10°54'30.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°45'58.68" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°14'54.55" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°4'1.92" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°35'56.13" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|28°3'25.56" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|2°5'37.19" |Aquarius|SaadAlSaud|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'31.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°46'0.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°14'56.46" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°4'11.04" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°35'59.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°3'33.69" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°46'41.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°45'58.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°14'54.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°4'1.92" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°35'56.13" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°3'25.56" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°5'37.19" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Moon|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

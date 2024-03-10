@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°7'42.50" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°6'17.21" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°39'26.36" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|20°52'55.09" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|28°50'40.15" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°33'0.54" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|0°24'21.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|20°39'26.62" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|20°52'54.87" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|28°50'40.39" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°33'0.12" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|0°21'24.66" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

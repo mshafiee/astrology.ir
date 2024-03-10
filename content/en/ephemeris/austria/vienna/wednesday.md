@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°23'56.42" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°31'45.41" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°23'52.02" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°7'2.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°37'1.09" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°46'42.85" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|3°5'57.97" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|23°6'57.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°36'56.85" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°46'40.47" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°9'31.46" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Bec, Bech, Becs, Beç, Beč, Bienne, Bécs, Dunaj, VIE, Vena, Viden, Viden', Vieden, Viedeň, Viena, Vienna, Vienne, Vieno, Viin, Vin, Vinarborg, Vindobona, Viyana, Vídeň, Vín, Vínarborg, Wenen, Wieden, Wiedeń, Wien, bienna, bin, fyyna, weiynna, Βιέννη, Беч, Вена, Виена, Відень, فيينا, เวียนนา, ቪየና, 비엔나, 빈

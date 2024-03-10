@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°26'1.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°35'3.49" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°37'16.19" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°24'16.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°58'21.50" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|11°26'1.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°35'3.32" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°37'16.17" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°24'16.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°58'21.51" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|6°18'39.58" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°17'10.11" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°33'14.42" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°26'1.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°35'3.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°37'16.19" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°24'16.18" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°58'21.50" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°26'1.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°35'3.32" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°37'16.17" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°24'16.19" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°58'21.51" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|6°18'39.58" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°33'14.19" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|7°33'14.42" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: BCV, Bel'mapan, Bel'mopan, Belmopan, Belmopana, Belmopanas, Belmopano, Belmopanum, Belmopán, Belmópan, Bèlmopan, Hattieville, Mopan, Mpelmopan, bailamopana, bei er mo bang, bei er mo pan, belmopan, belmopana, berumopan, blmwban, blmwpan, blmwpn, bylmwpan, pelmoppan, Μπελμοπάν, Белмопан, Бельмапан, Бельмопан, Բելմոպան, בלמופן, בעלמאפאן, بلموبان, بلموپان, بیلموپان, बेल्मोपान, ਬੈਲਮੋਪਾਨ, பெல்மோப்பான், เบลโมแพน, པེར་མོ་ཕན།, ბელმოპანი, ቤልሞፓን, ベルモパン, 貝爾墨邦, 貝爾莫潘, 벨모판

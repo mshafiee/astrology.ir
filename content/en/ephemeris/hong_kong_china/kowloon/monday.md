@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°14'42.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°17'12.11" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°24'25.39" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°50'42.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°2'20.15" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°23'11.03" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|14°39'35.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°17'11.35" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°24'26.21" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°50'42.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°2'20.95" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|3°23'9.88" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|14°25'19.96" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

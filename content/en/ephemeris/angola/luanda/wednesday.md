@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°23'57.03" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°31'46.10" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°23'54.85" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°6'52.97" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°36'55.64" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°46'36.42" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°18'54.43" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|23°7'8.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°37'5.35" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°46'48.70" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°35'39.49" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°23'57.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°31'44.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°23'48.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°6'52.97" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°36'55.64" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°46'36.42" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°18'54.43" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|13°31'46.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°23'54.85" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°7'8.51" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°37'5.35" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°46'48.70" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°35'39.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: LAD, Loanda, Louanda, Louanta, Luand, Luanda, Luandae, Luando, Lwanda, Lúanda, Saint Paul de Loanda, Sao Paolo de Loanda, Sao Paulo da Assuncao de Luanda, Sao Paulo de Loanda, Sao Paulo de Luanda, St Paul de Loanda, São Paolo de Loanda, São Paulo da Assunção de Luanda, São Paulo de Loanda, São Paulo de Luanda, lu'anda, luanda, luo an da, luvanta, luxanda, luyanda, lwanda, ruanda, Λουάντα, Луандæ, Луанда, Լուանդա, לואנדה, לואנדע, لوآندا, لواندا, لونڈا, लुआंडा, लुआण्डा, লুয়ান্ডা, ਲੁਆਂਦਾ, லுவாண்டா, ลูอันดา, ལའུན་ཌ།, ლუანდა, ሏንዳ, ルアンダ, 罗安达, 루안다

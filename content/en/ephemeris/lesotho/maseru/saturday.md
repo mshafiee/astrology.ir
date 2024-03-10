@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°54'35.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°46'6.90" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°15'22.56" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|10°54'35.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°46'7.06" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°15'22.58" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°4'44.67" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|26°36'41.27" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|28°4'38.81" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°54'58.95" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|2°54'59.20" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'35.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°46'7.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°15'22.58" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°4'44.67" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°36'41.27" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°4'38.81" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°54'59.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°46'5.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°15'22.52" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°4'41.54" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°36'40.75" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°4'35.66" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°46'35.86" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

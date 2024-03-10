@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°15'4.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°17'46.02" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°26'44.56" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°53'41.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°6'1.85" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°28'49.91" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|15°25'47.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°17'44.16" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°26'41.90" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°53'32.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°5'57.43" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|3°28'41.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|14°12'44.29" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°15'4.21" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°17'46.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°26'44.56" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|21°53'41.94" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°15'4.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°17'45.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°26'44.54" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°53'41.95" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|0°6'1.85" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|3°28'49.91" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|15°25'47.93" |Aries|Butain|Sun|

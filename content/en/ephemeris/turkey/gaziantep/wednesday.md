@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:08:41 |
+| Fajr (Dawn) | 05:08:40 |
 | Sunrise | 06:44:07 |
 | Dhuhr (Noon) | 12:39:48 |
 | Medium Coeli | 12:39:48 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°23'30.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°31'3.94" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°21'4.01" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°3'26.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°32'33.38" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°40'0.35" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°18'34.43" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°31'4.05" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°21'3.93" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°3'27.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°32'33.33" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°40'0.57" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°21'44.08" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°23'30.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°31'4.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°21'3.93" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°3'27.09" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°23'30.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°31'3.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°21'3.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°3'27.10" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°32'33.33" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°40'0.57" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°21'44.08" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°21'44.29" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

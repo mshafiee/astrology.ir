@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°25'46.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°25'46.73" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°34'40.61" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°35'38.53" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°22'2.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°55'46.15" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|6°14'46.68" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|5°35'30.72" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°35'43.40" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°22'17.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°55'53.75" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|6°14'58.86" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°4'25.57" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°25'46.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°34'38.72" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|11°25'46.73" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°34'40.44" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°35'38.53" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|23°22'2.98" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°55'46.15" |Pisces|FarghAlMuqaddam|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

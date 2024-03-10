@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°11'28.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°12'9.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°3'41.89" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|11°11'29.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°12'9.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°3'41.91" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|21°24'5.39" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°29'19.14" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°32'33.62" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°6'27.52" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|2°32'33.61" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|8°6'27.67" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

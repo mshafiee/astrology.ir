@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|10°54'32.22" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°46'2.49" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|19°15'3.48" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°4'20.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°36'10.81" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°3'51.17" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°48'51.73" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|19°4'14.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°36'8.03" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°3'46.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°17'19.46" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Moon|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Arare, Charare, HRE, Harare, Hararensis Urbs, Harareo, Hararė, Kharare, Kharareh, Salisbury, ha la lei, halale, harare, harary, hrarh, hrary, Χαράρε, Хараре, Харарэ, Հարարե, הארארה, هارارى, هراره, هراري, ھارارې, ھەرارێ, ہرارے, हरारे, ਹਰਾਰੇ, ହାରାରେ, ஹராரே, ฮาราเร, ཧ་ར་རི།, ჰარარე, ሀራሬ, ハラレ, 哈拉雷, 하라레

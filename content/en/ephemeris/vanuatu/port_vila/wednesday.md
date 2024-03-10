@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:03:16 |
 | Maghrib | 18:04:11 |
 | Isha (Night) | 19:16:41 |
-| Sharia Midnight | 23:19:26 |
+| Sharia Midnight | 23:19:27 |
 | Imum Coeli | 23:56:03 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°28'3.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°38'18.07" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°50'24.23" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°41'8.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°19'16.26" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|6°49'48.43" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|11°42'43.17" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|11°28'3.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°38'18.00" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°50'16.96" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°40'54.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°19'6.32" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|6°49'38.79" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|11°16'21.71" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

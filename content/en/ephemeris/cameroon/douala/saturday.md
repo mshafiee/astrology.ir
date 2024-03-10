@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°55'0.04" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°46'44.88" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°18'1.56" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°8'8.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°40'54.72" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°11'14.97" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°41'3.88" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|19°17'55.94" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°7'59.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°40'47.09" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°11'9.09" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°20'53.49" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라

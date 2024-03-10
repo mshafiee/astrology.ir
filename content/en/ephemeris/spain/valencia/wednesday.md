@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°24'15.92" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°32'16.29" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°25'57.54" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°9'43.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°40'20.91" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°51'42.55" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|3°51'9.04" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°25'54.27" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°9'40.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°40'17.01" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°51'41.68" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°12'30.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°24'15.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°32'16.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°25'57.54" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°9'43.84" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°40'20.91" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°51'42.55" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°51'9.04" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|13°32'17.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°25'54.27" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°9'40.68" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°40'17.01" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°51'41.68" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°12'30.41" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Balenzia, Pa-lun-si-a, Pâ-lùn-sî-â, VLC, Valantsa, Valence, Valencia, Valencia - Valencia, Valencia - València, Valencie, Valencija, Valencio, Valenseje, Valensi, Valensia, Valensii, Valensij, Valensija, Valensiya, Valensyaa, Valensėjė, Valenthia, Valentia, Valentzia, Valenza, València, Valéncia, Valência, Vałénsia, Walencja, Walensiye, Walénsiye, ba len seiy, ba lun xi ya, ballensia, barenshia, blnsyt, hua lun xi ya, valainsi'a, valenciya, valensia, valensiya, valynsya, wa lun xi ya, walnsya, wlnsyh, wylnsya, Βαλένθια, Валенси, Валенсиа, Валенсий, Валенсия, Валенсија, Валенсія, Վալենսիա, וואלענציע, ולנסיה, بلنسية, والنسیا, ویلنسیا, ویلنسیہ, ڤالينسيا, ڤالێنسیا, वालेन्सिया, ਵਾਲੈਂਸੀਆ, வாலேன்சியா, บาเลนเซีย, ვალენსია, バレンシア, 巴倫西亞, 瓦伦西亚, 瓦倫西亞, 華倫西亞, 발렌시아

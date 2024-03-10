@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°11'8.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°11'37.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°1'21.54" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°21'2.77" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°25'36.96" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°26'57.74" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°32'1.96" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°11'37.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°1'27.33" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°21'12.40" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°25'44.72" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°27'3.97" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°23'2.21" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Vilemstad, Vilemstadas, Vilemstade, Vilemstado, Villemstad, Villemstant, Villemştad, Willemstad, Willemsted, Willemstêd, billemseutateu, u~iremusutatto, vilemastada, villemstatu, wei lian si ta de, willems tad, wylmstad, Βίλλεμσταντ, Вилемстад, Виллемстад, Вілемстад, Віллемстад, וילמסטאד, ويلمستاد, ویلمستاد, ویلمسٹیڈ, विलेमश्टाड, வில்லெம்ஸ்டாடு, วิลเลมสตัด, ვილემსტადი, ウィレムスタット, 威廉斯塔德, 빌렘스타트

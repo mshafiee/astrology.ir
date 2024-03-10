@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°14'53.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°17'26.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°25'32.28" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°52'3.25" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|0°4'6.07" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|3°25'49.52" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°56'2.77" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°17'28.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°25'33.78" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°52'11.42" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|0°4'9.09" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|3°25'57.44" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|15°8'20.69" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Mars|Venus|Taurus|Sun|Mars|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

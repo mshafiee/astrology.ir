@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°54'15.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°45'36.85" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°13'15.82" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°2'1.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°33'19.18" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|27°59'22.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°12'58.21" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°54'14.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°45'34.58" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°13'12.11" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°1'48.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°33'13.10" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|27°59'11.97" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°5'29.02" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°54'15.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°45'36.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°13'15.82" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°2'1.38" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°33'19.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°59'22.91" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°12'58.21" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|10°54'14.00" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°45'34.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°13'12.11" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°1'48.41" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°33'13.10" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°59'11.97" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°5'29.24" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Mambutzou, Mamoudzou, Mamoutzou, Mamudzu, Mamutzu, mamuju, Мамудзу, 마무주

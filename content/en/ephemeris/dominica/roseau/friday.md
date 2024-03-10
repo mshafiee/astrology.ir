@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|10°56'27.11" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|12°48'57.77" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°27'19.57" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°20'6.91" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|26°55'44.32" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°34'24.56" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°37'33.83" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°19'57.26" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|26°55'36.44" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°34'18.26" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°16'29.47" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

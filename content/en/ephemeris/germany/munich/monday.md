@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'33.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°9'10.28" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°51'21.88" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°8'11.54" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°9'40.28" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°2'19.85" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°32'40.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°9'33.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°9'11.17" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°51'17.92" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°8'6.25" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°9'35.19" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°2'17.00" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°6'42.33" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|21°8'12.34" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°9'40.72" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|2°2'20.51" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°32'40.27" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°38'20.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Lungsod ng Muenchen, Lungsod ng München, MUC, Minca, Minche, Minga, Minhen, Minhene, Minkhen, Miunchenas, Mjunkhen, Mnichov, Mnichow, Mníchov, Monachium, Monacho, Monaco de Baviera, Monaco di Baviera, Monaco e Baviera, Monacu, Monacu di Baviera, Monacum, Muenchen, Muenegh, Muenhen, Muenih, Munchen, Munhen, Munic, Munich, Munich ed Baviera, Munih, Munike, Munique, Munix, Munkeno, Munkhen, Munîh, Mynihu, Myunxen, Myunxén, Mònacu, Mùnich ëd Baviera, Múnic, Múnich, München, Münegh, Münhen, Münih, mi wnik, mi'unikha, miunkheni, miyunik, mu ni hei, mwinhen, mwnykh, mynkn, myunhen, myunik, myunikha, myunsena, mywnkh, mywnykh, Μόναχο, Минхен, Мюнхен, Мүнхен, Мүнхэн, Мӱнхен, Մյունխեն, מינכן, مونیخ, ميونخ, ميونيخ, میونخ, म्युन्शेन, म्यूनिख, মিউনিখ, மியூனிக், ಮ್ಯೂನಿಕ್, มิวนิก, မြူးနစ်ချ်မြို့, მიუნხენი, ミュンヘン, 慕尼黑, 뮌헨

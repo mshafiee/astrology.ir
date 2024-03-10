@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°24'24.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°32'30.16" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°26'53.92" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°10'56.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°41'50.58" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°53'59.70" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|4°47'48.78" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°24'24.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°32'30.00" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°26'53.91" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°10'56.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°41'50.38" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°53'56.84" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°13'43.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°24'24.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°32'30.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°26'53.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°10'56.72" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°41'50.66" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°53'57.03" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°13'46.37" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|11°24'24.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°32'30.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°26'53.70" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°10'56.40" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°41'50.39" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°53'56.84" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°13'44.05" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°23'38.39" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°31'16.61" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°21'49.20" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°4'23.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°33'46.67" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°41'55.24" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°27'35.30" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°21'55.50" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°4'35.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°33'55.32" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°42'3.36" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°0'2.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°23'38.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°31'16.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°21'49.20" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°4'23.73" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°33'46.67" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°41'55.24" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°27'35.30" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|13°31'16.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°21'55.50" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°4'35.46" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°33'55.32" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°42'3.36" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°0'2.35" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

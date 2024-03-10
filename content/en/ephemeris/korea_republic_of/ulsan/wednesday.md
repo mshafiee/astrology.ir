@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°28'52.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°39'37.20" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°55'44.34" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°47'57.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°27'46.12" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°2'25.29" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|13°1'47.09" |Aries|Butain|Sun|
+|♄ Saturn|Direct|11°28'52.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°39'37.03" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°55'44.33" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°47'57.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°27'45.75" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|7°2'25.46" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|13°7'54.14" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

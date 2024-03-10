@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°54'48.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°46'27.86" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°16'49.84" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°6'33.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°39'0.67" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|28°8'17.95" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°33'34.84" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|10°54'49.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°46'28.78" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|19°16'51.41" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°6'38.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°39'3.23" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|28°8'22.42" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°3'6.47" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°54'48.63" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|12°46'27.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°16'49.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|19°16'51.41" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°6'38.68" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|26°39'3.23" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|28°8'22.42" |Pisces|Rescha|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Castrum Danorum, Kallinn, Kolyvan, Lindanaes, Lindanäs, Raeaeveli, Reval, Revel, Revel', Rääveli, TLL, Taillinn, Talin, Talinas, Talini, Talino, Talins, Tallidn, Tallin, Tallin osh, Tallina, Tallinn, Tallinna, Talín, Tàllin, ta lin, talin, talina, tallin, tallina, tallyn, talyn, tarin, thallin n, Ταλίν, Ταλιν, Ταλλίν, Талин, Таллин, Таллин ош, Таллинн, Таллінн, Талін, Տալլին, טאלין, تاللىن, تالين, تالین, تاڵین, ٹالن, तालिन, ताल्लिन, তাল্লিন, ਤਾਲਿਨ, தாலின், ടാലിൻ, ทาลลินน์, ཏཱལ་་ལིན།, ტალინი, ታሊን, タリン, 塔林, 탈린

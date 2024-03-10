@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°10'59.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°11'22.95" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°0'29.17" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°19'57.69" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°24'12.05" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°24'41.43" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°5'4.42" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|11°10'58.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°11'22.79" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°0'29.15" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°19'57.70" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°24'12.06" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°24'41.44" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|7°5'4.25" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°10'59.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°11'22.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°0'29.17" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°19'57.69" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°24'12.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°24'41.43" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°5'4.42" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°10'58.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°11'21.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°0'26.83" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°19'48.42" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°24'8.01" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°24'33.00" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°52'30.82" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Acalquixohuayan Caxtillan, City of Port-of-Spain, POS, Po of Espay, Port of Spain, Port of Spein, Port of Speinas, Port of Spejn, Port of Speyn, Port oph Spein, Port ov Spejn, Port uf Spejn, Port-Of-Spejn, Port-au-Spain, Port-d'Espagne, Port-of-Spain, Port-of-Spein, Port-of-Spejn, Port-of-speyn, Porto Espana, Porto España, Portofspeina, Portospeno, Portu de Spania, Puerto Espana, Puerto España, Pò of Espay, bwrt awf sbyn, phxrt-xxf-spen, porata afa sapena, port ahp speyn, porta aba spena, porta opha spena, poteu obeu seupein, poteuobeuseupein, potoobusupein, prt aw aspayn, xi ban ya gang, Πορτ οφ Σπέιν, Πορτ-οφ-Σπέιν, Порт ов Спејн, Порт оф Спейн, Порт оф Спејн, Порт ъф Спейн, Порт-Оф-Спейн, Порт-оф-Спейн, פורט אוף ספיין, بورت أوف سبين, پرت آو اسپاین, پورٹ آف اسپین, पोर्ट ऑफ स्पेन, পোর্ট অব স্পেন, ਪੋਰਟ ਆਫ਼ ਸਪੇਨ, போர்ட் ஆஃப் ஸ்பெய்ன், പോർട്ട് ഓഫ് സ്പെയിൻ, พอร์ต-ออฟ-สเปน, པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།, პორტ-ოვ-სპეინი, ፖርት ኦፍ ስፔን, ポートオブスペイン, 西班牙港, 포트 오브 스페인, 포트오브스페인

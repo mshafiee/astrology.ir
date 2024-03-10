@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°0'11.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°54'41.24" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°51'15.12" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°50'54.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°33'52.50" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|12°54'40.47" |Aries|Butain|Sun|
+|♂ Mars|Direct|19°51'15.94" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°50'53.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°33'53.35" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|29°33'52.20" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|14°23'4.73" |Aquarius|SaadAlAkhbia|Mercury|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°0'11.44" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°54'41.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°51'15.12" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|19°50'54.29" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|27°33'52.50" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°33'52.20" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°23'4.73" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°54'40.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°51'15.94" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|19°50'53.89" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|27°33'53.35" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|29°33'51.23" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°24'32.47" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

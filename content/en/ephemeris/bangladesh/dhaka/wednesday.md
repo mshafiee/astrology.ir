@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'25.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°29'21.42" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°14'6.48" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°54'31.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°21'28.44" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|11°22'25.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°29'21.26" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°14'6.47" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°54'31.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°21'28.45" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|5°23'20.13" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°20'22.82" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°20'23.01" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'25.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°29'21.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°14'6.48" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|22°54'31.93" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°22'25.55" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°29'21.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°14'6.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|22°54'31.94" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°21'28.44" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°23'20.13" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|0°20'22.82" |Taurus|Thurayya|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

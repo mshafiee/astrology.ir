@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:17:24 |
-| Sunrise | 06:08:11 |
+| Sunrise | 06:08:10 |
 | Dhuhr (Noon) | 11:53:23 |
 | Medium Coeli | 11:53:23 |
 | Sunset | 17:39:43 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:04:35 |
-| Sunrise | 06:08:11 |
+| Sunrise | 06:08:10 |
 | Dhuhr (Noon) | 11:53:23 |
 | Medium Coeli | 11:53:23 |
 | Sunset | 17:39:43 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:02:18 |
-| Sunrise | 06:08:11 |
+| Sunrise | 06:08:10 |
 | Dhuhr (Noon) | 11:53:23 |
 | Medium Coeli | 11:53:23 |
 | Sunset | 17:39:43 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:58:28 |
-| Sunrise | 06:08:11 |
+| Sunrise | 06:08:10 |
 | Dhuhr (Noon) | 11:53:23 |
 | Medium Coeli | 11:53:23 |
 | Sunset | 17:39:43 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:31:32|Night duration: 12:25:52|
+|Duration of the day: 11:31:33|Night duration: 12:25:52|
 |Every hour of day duration: 00:57:38|Every hour of night duration: 01:02:09|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:08:11|07:05:47|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|07:05:48|08:03:25|Outer and inner journey|
-|3|Jupiter|Servant|08:03:26|09:01:03|Marriage connection is good|
-|4|Mars|Servant|09:01:04|09:58:40|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|09:58:41|10:56:18|Answering needs, attracting love and wealth|
-|6|Venus|Servant|10:56:19|11:53:56|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|11:53:57|12:51:33|Making promises|
+|1|Moon|Ruler|06:08:10|07:05:46|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|07:05:47|08:03:24|Outer and inner journey|
+|3|Jupiter|Servant|08:03:25|09:01:02|Marriage connection is good|
+|4|Mars|Servant|09:01:03|09:58:40|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|09:58:41|10:56:17|Answering needs, attracting love and wealth|
+|6|Venus|Servant|10:56:18|11:53:55|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|11:53:56|12:51:33|Making promises|
 |8|Moon|Ruler|12:51:34|13:49:11|Reconciliation of two persons, attracting love|
-|9|Saturn|Servant|13:49:12|14:46:49|Attracting and repelling enemies and causing separation|
-|10|Jupiter|Servant|14:46:50|15:44:26|Good for any task|
+|9|Saturn|Servant|13:49:12|14:46:48|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|14:46:49|15:44:26|Good for any task|
 |11|Mars|Servant|15:44:27|16:42:04|Creating enmity and negative energy|
 |12|Sun|Servant|16:42:05|17:39:42|Heart tenderness|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'49.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'1.56" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°46'37.88" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°2'6.29" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°2'7.82" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°50'42.34" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°58'19.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°8'1.70" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°46'37.25" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°2'5.90" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°2'7.10" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°50'42.36" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°57'52.46" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'49.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'1.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°46'37.88" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°2'6.29" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°2'7.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°50'42.34" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°58'19.82" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°8'49.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°8'1.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°46'37.85" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°2'6.25" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°2'7.77" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°50'42.26" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°58'19.17" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

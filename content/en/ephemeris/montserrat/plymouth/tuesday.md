@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°25'29.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°34'12.43" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°33'49.72" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°19'51.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°52'52.76" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|11°25'29.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°34'12.68" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°33'44.98" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°19'51.24" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°52'52.75" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|6°10'28.28" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°30'8.45" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°30'8.23" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°33'49.74" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|23°19'51.24" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°52'52.75" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°10'16.61" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°20'55.75" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|6°10'28.28" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°30'8.23" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스

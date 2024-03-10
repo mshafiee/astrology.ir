@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°28'13.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°38'32.65" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°51'29.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°42'23.54" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°20'59.10" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°52'18.22" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°29'15.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°38'34.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°51'32.46" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°42'35.93" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°21'4.90" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|6°52'29.79" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°2'27.86" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

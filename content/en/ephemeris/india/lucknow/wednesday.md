@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°22'37.28" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°29'39.81" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°15'21.34" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°56'8.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°23'27.61" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°26'19.93" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°44'51.75" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°56'7.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°23'27.67" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°26'19.72" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°41'48.51" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|22°56'7.87" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°23'27.67" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°26'19.72" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°41'48.51" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°33'28.62" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: LKO, Lakhnau, Lakkhnau, Lakkhnau shaary, Laknaou, Laknau, Laknauo, Laknava, Laknaú, Laknaŭo, Lucknow, Lucknow City, Luknow, ilakno, lakh nea, lakhana'u, lakhanau, laknau, lakno, laksnau, lei ke nao, leokeunau, lkhnw, lknaw, rakunau, Λάκναου, Лакнау, Лакхнау, Лакхнау шаары, לאקנאו, لكهنؤ, لكهنو, لکناو, لکهنو, لکھنؤ, लखनऊ, लखनौ, লক্ষ্ণৌ, লখনৌ, ਲਖਨਊ, લખનૌ, ଲକ୍ଷ୍ନୌ, இலக்னோ, లక్నో, ಲಕ್ನೋ, ലഖ്‌നൗ, ลัคเนา, ლაქნაუ, ラクナウ, ラクナウー, 勒克瑙, 러크나우

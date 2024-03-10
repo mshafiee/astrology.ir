@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°22'45.46" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°29'52.80" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°16'14.18" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°57'15.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°24'51.74" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°28'26.18" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°52'3.68" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°16'12.52" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°57'14.88" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°24'50.08" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°28'27.23" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°55'20.22" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: LHE, Lachori, Lahaur, Lahor, Lahora, Lahoras, Lahore, Lahorium, Lakhor, Lohur, Láhaur, Lâhore, Lāhaur, la h xr, la he er, lahaura, laholeu, lahor, lahora, lahori, lahwr, lakur, lwہwr, rahoru, Λαχόρη, Лахор, Լահոր, לאהור, لاهور, لاھور, لاھۆر, لاہور, لوہوٗر, لہور, लाहोर, लाहौर, লাহোর, ਲਹੌਰ, લાહોર, லாகூர், లాహోర్, ಲಾಹೋರ್, ലാഹോർ, ลาฮอร์, ლაჰორი, ラホール, ラーホール, 拉合尔, 拉合爾, 라호르

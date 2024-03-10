@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°15'3.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°17'45.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°26'43.11" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°53'40.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°5'59.55" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°28'46.36" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|15°27'10.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°15'4.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°17'44.51" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°26'43.67" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°53'38.15" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°5'59.77" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|3°28'43.58" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|14°57'22.08" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°15'3.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°17'45.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°26'43.11" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|21°53'40.25" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°15'4.00" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°17'45.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°26'43.13" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°53'40.24" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|0°5'59.55" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|3°28'46.36" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|15°27'10.77" |Aries|Butain|Sun|

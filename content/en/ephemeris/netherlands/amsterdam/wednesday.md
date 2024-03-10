@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°24'10.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°32'7.78" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°25'23.54" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°8'59.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°39'26.88" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|11°24'10.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°32'7.94" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°25'23.55" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°8'59.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°39'26.87" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|5°50'21.68" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|3°31'17.32" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°31'17.10" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°24'10.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°32'7.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°25'23.54" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°8'51.23" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°39'21.30" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°50'15.70" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°0'8.61" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|11°24'10.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°32'7.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°25'23.55" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°8'59.32" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°39'26.87" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°50'21.68" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°31'17.10" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: AMS, Aemstelredamme, Aemsterdam, Amestelledamme, Amesterda, Amesterdam, Amesterdao, Amesterdã, Amesterdão, Amistardam, Amseutereudam, Amstardam, Amstardām, Amstedam, Amstehrdam, Amsteladamum, Amstelodamum, Amstelodhamon, Amstelodhámon, Amsterda, Amsterdam, Amsterdama, Amsterdamas, Amsterdame, Amsterdami, Amsterdamo, Amsterdams, Amsterdamu, Amsterdan, Amsterdã, Amsterntam, Amsterodam, Amstyerdam, Amstèdam, Amstèrdame, Amstérdam, Amstɛrɩdam, Amsut'erudam, Amszterdam, Amsŭt'erŭdam, Amusitedan, Amusuterudamu, Damsko, I-Amsterdami, Mokum, Mokum Aleph, a mu si te dan, aimstardaima, amasataradama, amastaradama, amastararyama, amseuteleudam, amstardama, amstartam, amstrdam, amusuterudamu, anstardyam, emstaradyama, xamstexrdam, yەmstەrdam, Àmsterdam, Ámsterdam, Ámsterdan, Âmesterdâm, Āmǔsītèdān, Άμστερνταμ, Амстердам, Амстэрдам, Ամստերդամ, אמסטערדאם, אמסטרדם, آمستردام, أمستردام, ئامستېردام, ئەمستەردام, امستردام, امسټرډام, ایمسٹرڈیم, ܐܡܣܛܪܕܐܡ, अ‍ॅम्स्टरडॅम, आम्स्टर्डम, एम्स्तरद्याम, ऐम्स्टर्डैम, আমস্টারডাম, ਅਮਸਤਰਦਮ, ଆମଷ୍ଟରଡ଼୍ୟାମ, ஆம்ஸ்டர்டம், ಆಂಸ್ಟರ್ಡ್ಯಾಮ್, ആംസ്റ്റർഡാം, ඈම්ස්ටර්ඩෑම්, อัมสเตอร์ดัม, ཨེམ་སི་ཊར་ཌམ།, အမ်စတာဒမ်မြို့, ამსტერდამი, አምስተርዳም, アムステルダム, 阿姆斯特丹, 암스테르담
