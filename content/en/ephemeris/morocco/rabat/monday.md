@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'54.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°9'42.46" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°53'35.32" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°11'4.49" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|11°9'54.60" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°9'42.62" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°53'35.34" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°11'4.48" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|29°13'12.82" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|2°7'47.03" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|4°34'29.15" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°34'29.37" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'54.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°9'42.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°53'35.32" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°11'4.49" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°13'12.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°7'47.03" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°34'29.15" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°9'54.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°9'42.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°53'35.36" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°11'4.54" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°13'12.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°7'47.06" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°34'43.57" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: RBA, Raba, Rabat, Rabata, Rabatas, Rabato, Rabatum, Rabot, Rabāt, Rabāta, Rampat, Rbat, Rbaṭ, alrbat, la ba, la ba te, labateu, raba t, rabat, rabata, rabato, rabota, rapat, rbat, Ραμπάτ, Рабат, Ռաբատ, ראבאט, רבאט, الرباط, رابات, ربات, رباط, ڕەبات, रबाट, रबात, রাবাত, ਰਬਾਤ, ରବୋଟ, ரபாத், ราบัต, ར་བ་ཐ།, ར་བ་ཐེ།, რაბატი, ራባት, ラバト, 剌八, 拉巴特, 라바트

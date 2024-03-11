@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°38'2.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°54'21.04" |Aries|Butain|Sun|
-|♂ Mars|Direct|23°55'1.08" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|25°3'58.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|4°2'8.48" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|9°20'21.89" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°41'31.09" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|11°38'2.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°54'19.22" |Aries|Butain|Sun|
+|♂ Mars|Direct|23°54'58.46" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|25°3'48.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|4°2'3.82" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|9°20'11.84" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|29°29'51.15" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Jupiter|Jupiter|Venus|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Sagittarius|Moon|Mars|
 |♀ Venus|Saturn|Mars|Pisces|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°38'1.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°38'2.95" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°54'19.22" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|23°54'58.46" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|25°3'48.52" |Pisces|Rescha|Mars|

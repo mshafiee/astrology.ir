@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°28'39.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°39'14.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°54'16.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°45'58.17" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°25'26.51" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°58'57.38" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°26'42.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°39'16.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°54'20.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°46'9.62" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°25'32.65" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|6°59'7.40" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°36'17.12" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

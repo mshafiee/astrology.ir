@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°29'7.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°40'0.85" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°57'19.92" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°49'59.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°30'14.69" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°6'2.30" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|12°13'23.82" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|11°29'7.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°40'0.97" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°57'20.82" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°50'1.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°30'19.62" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|7°6'12.37" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|13°35'5.82" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Pisces|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°29'7.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°39'58.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°57'17.95" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°49'50.88" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°30'14.69" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|7°6'2.30" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°13'23.82" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°40'0.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°57'19.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°49'59.58" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°30'18.33" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|7°6'10.85" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|13°28'45.49" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Aries|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: T'ien-chin, T'ien-ching, T'ien-ching-shih, TSN, Tchien-tin, Tchien-ťin, Tehnd'iin, Thien Tan, Thien-tsin, Thiên Tân, Thiên-tsîn, Tiandzinas, Tianjin, Tianjin Shi, Tianjing, Tianjín, Tiantzin, Tiencin, Tiencsin, Tiendzin, Tientsin, Tiençin, Tjan'czin', Tjandzina, Tjangino, Tjanĝino, Tjaņdziņa, Tjencin, Tyantszin, T’ien-chin, T’ien-ching, T’ien-ching-shih, cheonjin, theiyn cin, ti'anjina, tian jin, tian jin shi, tiyanjin, tyanjina, tyanjn, tyanjyn, tyenjin si, tyyng'yn, Τιαντζίν, Тиендзин, Тэндьиин, Тяньцзинь, Тяньцзінь, Тјенцин, טיינג'ין, تيانجين, تيەنجىن شەھىرى, تیانجن, تیانجین, तिआंजिन, त्यांजिन, ਤਿਆਂਜਿਨ, தியான்ஜின், ടിയാൻജിൻ, เทียนจิน, ཐན་ཅིན ་གྲོང་ཁྱེར།, ထျန်းကျင်းမြို့, ტიანძინი, 天津, 天津市, 천진, 톈진 시

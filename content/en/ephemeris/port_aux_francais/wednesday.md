@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'44.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°29'50.72" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°16'5.97" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°57'6.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°24'38.75" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|11°22'44.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°29'50.88" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°16'5.99" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°57'6.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°24'38.74" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|5°28'6.58" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°7'21.78" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°7'21.58" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

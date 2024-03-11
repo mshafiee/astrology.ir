@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°39'48.17" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°57'11.74" |Aries|Butain|Sun|
 |♂ Mars|Direct|24°6'23.99" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|25°18'22.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|4°20'10.44" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|9°46'12.43" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°59'32.98" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|25°18'32.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|4°20'15.59" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|9°46'21.92" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°54'15.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°39'47.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°57'10.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°6'20.83" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|25°18'22.81" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|4°20'10.45" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|9°46'12.42" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°59'33.19" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|11°39'48.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°57'11.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°6'23.99" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|25°18'37.00" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|4°20'18.14" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|9°46'25.18" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°0'22.89" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Mars|Sun|Aries|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}

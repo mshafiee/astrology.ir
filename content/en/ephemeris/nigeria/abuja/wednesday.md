@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°24'4.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°31'58.66" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°24'45.95" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°8'13.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|11°24'4.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°31'58.50" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°24'45.94" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°8'13.59" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|1°38'26.77" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°48'39.71" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°32'57.22" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|5°48'50.98" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°46'2.98" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°24'4.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°31'57.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°24'40.09" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°7'59.55" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°38'18.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°31'58.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°24'45.94" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°8'13.59" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°38'18.19" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°48'39.71" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°32'57.22" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°32'56.97" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

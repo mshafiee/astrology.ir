@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°25'18.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°25'18.50" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°33'55.48" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°32'39.88" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°18'22.13" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°51'1.52" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|6°7'41.92" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°13'22.27" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°32'40.32" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°18'23.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°51'2.14" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|6°7'42.56" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°16'19.56" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°25'18.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°33'53.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°32'36.48" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°18'10.54" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°50'55.89" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°7'31.38" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°48'10.24" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|13°33'55.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°32'39.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°18'22.13" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°51'2.13" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|6°7'42.56" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°16'19.33" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: PSY, Port Stanley, Port Stenli, Port Stenlis, Port-Stehnli, Port-Stenli, Porto Arxentino/Stanley, Puerto Archentinas/Stenlis, Puerto Argentino, Stanlef, Stanlejo, Stanley, Stanley Harbour, Stehnli, Stenli, Stenlis, astnly  jzayr falklnd, asٹynlے  jzayr faklynڈ, icutanli, porta stenli, seutaenli, si tan li, si tan li gang, stanly, stnly, sutanre, sutanri, Στάνλεϋ, Порт Стенли, Порт-Стенлі, Порт-Стэнли, Стенли, Стэнлі, Պորտ Սթենլի, סטאנלי, סטנלי, استنلی، جزایر فالکلند, اسٹینلے، جزائر فاکلینڈ, ستانلي, سٹینلے, पोर्ट स्टॅन्ली, இசுடான்லி, സ്റ്റാൻലി, สแตนลีย์, スタンリー, スタンレー, 斯坦利, 斯坦利港, 스탠리

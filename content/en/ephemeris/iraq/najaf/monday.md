@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'52.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'6.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°46'56.97" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°2'32.38" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°2'38.09" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°51'28.51" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°26'20.79" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°8'6.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°46'56.99" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°2'32.46" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°2'38.12" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°51'28.58" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°26'54.39" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Najaf al Ashraf, An Najaf, An Najaf al Ashraf, An-Nadzaf, An-Nadzhaf, An-Nadżaf, An-Najaf, Ehn-Nadzhaf, Meshed 'Ali, Meshed ’Ali, NJF, Nachaf, Nadjaf, Nadschaf, Nadzaf, Nadzafas, Nadzhaf, Nadžaf, Nadžafas, Nagafo, Najaf, Najaf - njf, Najaf - نجف, Natzaf, Nayaf, Naĝafo, Necef, Nedjef, Nedzsef, Neshed Ali, Nəcəf, alnjf, alnjf alashrf, na jie fu, najafa, najafu, najap, najapeu, najapi, ngp, njf, Νατζάφ, Ан-Наджаф, Наджаф, Наџаф, Эн-Наджаф, נגף, النجف, النجف الاشرف, نجف, नजफ़, நஜாப், നജഫ്‌, ნაჯაფი, ナジャフ, 納杰夫, 나자프

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'37.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°22'37.56" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°29'40.17" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°15'22.78" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|22°56'10.66" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|1°23'29.88" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|5°26'22.85" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°52'28.00" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°9'33.20" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|22°56'7.24" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°23'29.21" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°26'18.95" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°9'33.41" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°9'33.20" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

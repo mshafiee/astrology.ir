@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'21.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'51.20" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°50'3.67" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°6'31.82" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°7'35.65" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°59'7.62" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°18'3.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°9'21.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'49.71" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°50'3.77" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°6'27.64" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°7'35.05" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°59'2.99" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°39'53.52" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'21.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'51.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°50'3.67" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°6'31.82" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°7'35.65" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°59'7.62" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°18'3.82" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°9'21.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°8'51.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°50'3.77" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°6'27.64" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°7'35.05" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°59'2.99" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°39'53.52" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: PRN, Prestena, Prishhina, Prishtina, Prishtinae, Prishtine, Prishtinë, Prisjtina, Pristin, Pristina, Pristine, Pristino, Pristína, Prisztina, Prixtina, Priŝtino, Priştina, Priştine, Prištin, Priština, Priștina, Pryshcina, Prìstina, Prėštėna, bryshtyna, peulisyutina, phrich ti na, piristina, prisatina, pristina, pryshtyna, prystynh, prysٹyna, pu li shen di na, purishutina, Πρίστινα, Приштинæ, Приштина, Прищина, Прышціна, Պրիշտինա, פרישטינה, بريشتينا, پریسٹینا, پریشتینا, प्रिस्टिना, ਪ੍ਰਿਸ਼ਤੀਨਾ, பிரிஸ்டினா, พริชตีนา, པི་རི་སི་ཊི་ན།, პრიშტინა, プリシュティナ, 普里什蒂納, 普里什蒂纳, 프리슈티나

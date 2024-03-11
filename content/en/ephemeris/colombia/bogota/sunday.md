@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°11'14.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°11'46.18" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°2'5.52" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°22'1.82" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°26'45.58" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°28'37.49" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°39'20.81" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|11°11'14.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°11'46.34" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°2'5.54" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°22'1.88" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°26'45.70" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°28'37.48" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|7°39'10.05" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°11'14.01" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°11'46.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°2'5.52" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°22'1.82" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°11'14.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°11'46.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°2'5.54" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°22'1.81" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°26'45.58" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°28'37.49" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°39'20.81" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|2°28'37.48" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°39'10.05" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타

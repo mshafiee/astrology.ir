@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'52.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°9'39.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°53'21.39" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°10'46.54" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°12'50.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°7'12.78" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°29'57.34" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°9'39.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°53'21.59" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°10'46.84" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°12'50.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°7'12.96" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°31'28.60" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: FEZ, Fes, Fez, Fès, fas, fezu, Фес, فاس, フェズ

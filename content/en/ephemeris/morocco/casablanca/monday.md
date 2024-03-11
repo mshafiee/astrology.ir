@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'55.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°9'44.04" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°53'41.11" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°11'11.93" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°13'22.03" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°8'1.27" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|4°36'29.31" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|13°9'44.03" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°53'41.16" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°11'11.99" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°13'22.09" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°8'1.29" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|4°36'44.23" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'55.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°9'44.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°53'41.16" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°11'11.99" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°13'22.09" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°8'1.29" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°36'44.23" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°9'44.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°53'41.11" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°11'11.93" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°13'22.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°8'1.27" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°36'29.31" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Ad Dar al Bayda, Ad Dar al Bayda', Ad Dār al Bayḑā’, Anafi, Anfa, CAS, Casa Branca, Casablanca, Casabranca, Dar-el-Beida, Dar-uel-Beyda, Darul Baidha, Dâr-ül-Beydâ, Ed Dar el Baida, Ed Dār el Baida, Kasablank, Kasablanka, Kasablankae, Kazablanka, Kazablanko, Kazamplan'ka, Tigemmi Tamellalt, White House, ad-Dar al-Baydaʼ, ad-Dar al-baydaʾ, ad-Dār al-Bayḍāʼ, ad-Dār al-bayḍāʾ, aldar albydaʾ, anfa, dar albydaʾ, daralbyda, ka sa bu lan ka, ka sab l xng ka, kacapilanka, kasabalanka, kasabeullangka, kasablanka, kasaburanka, kazablanka, qzblnqh, Καζαμπλάνκα, Казабланка, Касабланкæ, Касабланка, Կասաբլանկա, קזבלנקה, أنفا, الدار البيضاء, دار البیضاء, دارالبیضا, كازابلانكا, کازابلانکا, کاسابلانکا, कासाब्लांका, কাসাব্লাংকা, ਕਾਸਾਬਲਾਂਕਾ, காசாபிளாங்கா, కాసాబ్లాంకా, ಕಾಸಾಬ್ಲಾಂಕಾ, കാസബ്ലങ്ക, กาซาบล็องกา, ກາຊາບັງກາ, ကာဆာဘလန်ကာမြို့, კასაბლანკა, ⴰⵏⴼⴰ, カサブランカ, 卡萨布兰卡, 카사블랑카

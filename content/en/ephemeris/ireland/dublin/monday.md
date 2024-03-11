@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'55.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°9'44.75" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°53'44.63" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°11'15.16" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|11°9'55.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°9'44.91" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°53'44.65" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°11'15.15" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|29°13'27.78" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|2°8'10.47" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|4°19'28.74" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°19'28.96" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'55.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°9'44.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°53'44.63" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°11'15.16" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°13'27.78" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°8'10.47" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°19'28.74" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°9'55.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°9'45.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°53'43.43" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°11'15.31" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°13'26.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°8'11.54" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°28'37.66" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Baile Atha Cliath, Baile Átha Cliath, Ciuda de Dublin, Ciudá de Dublín, DUB, Dablin, Diblin, Difelin, Divlyn, Doublino, Dublin, Dublin city, Dublina, Dublinas, Dublini, Dublino, Dublinu, Dublín, Dublîn, Dueblin, Dulenn, Dulyn, Dyflinn, Düblin, Eblana, dabalina, dablin, dablina, daburin, dbln, dblyn, deobeullin, dou bai lin, dublini, dwblyn, taplin, Δουβλίνο, Даблин, Дублин, Дублін, Дъблин, Դուբլին, דבלין, דובלין, دبلن, دوبلين, دوبلین, دۇبلىن, ڈبلن, ډبلن, ܕܒܠܢ, डब्लिन, दब्लिन, ডাবলিন, ਡਬਲਿਨ, டப்லின், ಡಬ್ಲಿನ್, ഡബ്ലിൻ, ดับลิน, དུབ་ལིན།, ဒပ်ဗလင်မြို့, დუბლინი, ደብሊን, ダブリン, 都柏林, 더블린

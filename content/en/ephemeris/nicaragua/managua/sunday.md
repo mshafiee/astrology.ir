@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°11'29.12" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°12'9.73" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°3'41.91" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°24'5.39" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°29'19.14" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°32'33.61" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|8°6'27.67" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|21°3'36.85" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°23'57.68" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°29'12.46" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°32'28.96" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|7°30'2.47" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|21°24'5.39" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°29'19.14" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|2°32'33.61" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°6'27.67" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°30'2.47" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

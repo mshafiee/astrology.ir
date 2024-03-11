@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'52.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'6.56" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°46'51.94" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°2'24.28" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°2'31.26" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°51'22.81" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°41'25.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°8'6.07" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°46'56.65" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°2'31.99" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°2'35.73" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°51'23.40" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°50'6.46" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|13°8'6.07" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°46'56.65" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|21°2'31.99" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°2'37.57" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°51'27.74" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°26'25.46" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°2'35.73" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°51'23.40" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°50'6.46" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة

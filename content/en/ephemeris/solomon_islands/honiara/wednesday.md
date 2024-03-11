@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°28'13.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°38'34.93" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°51'32.46" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°42'35.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°21'4.90" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|6°52'29.79" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|12°2'27.86" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|11°28'13.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°38'33.31" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°51'28.30" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°42'23.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°20'58.42" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|6°52'19.21" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|10°48'24.23" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°28'13.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°38'34.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°51'32.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°42'35.93" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°21'4.90" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°52'29.79" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°2'27.86" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°38'33.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°51'28.30" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°42'23.83" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°20'58.42" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|6°52'19.21" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|10°48'24.23" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

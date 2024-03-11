@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°23'37.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°31'14.92" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°21'48.13" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°4'25.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°33'43.55" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°41'45.70" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°55'23.82" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°23'37.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°31'14.76" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°21'48.11" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°4'25.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°33'43.56" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°41'45.71" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°55'24.02" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°23'37.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°31'14.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°21'48.13" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°4'25.72" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°33'37.61" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°41'41.88" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°55'19.19" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|11°23'37.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°31'14.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°21'48.11" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°4'25.73" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°33'43.56" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°41'45.71" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°55'24.02" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

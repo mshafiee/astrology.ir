@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°18'14.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°22'43.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°47'1.12" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°19'39.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°38'20.46" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|4°18'6.33" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|20°47'24.15" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°18'14.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°22'44.43" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°47'7.11" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°19'53.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°38'29.12" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|4°18'17.17" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|22°7'35.80" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°18'14.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°22'44.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°47'7.02" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|22°19'53.57" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°18'14.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°22'44.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°47'7.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|22°19'53.58" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|0°38'29.05" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|4°18'17.17" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|22°7'35.70" |Aries|Butain|Venus|
+|☾ Moon|Direct|22°7'35.80" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

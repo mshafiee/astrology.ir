@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°12'19.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°13'26.10" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°9'0.18" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°30'47.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°37'46.17" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°45'31.36" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|8°19'27.10" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|11°12'19.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°13'27.99" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°9'4.65" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°31'1.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°37'53.30" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°45'43.22" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|10°0'46.57" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Aries|Moon|Jupiter|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°12'19.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°13'26.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°9'0.18" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°30'47.18" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°37'46.17" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°45'31.36" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°19'27.10" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°12'19.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°13'27.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°9'4.65" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°31'1.05" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°37'53.30" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°45'43.22" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|10°0'46.57" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Taurus|Sun|Mars|
-|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

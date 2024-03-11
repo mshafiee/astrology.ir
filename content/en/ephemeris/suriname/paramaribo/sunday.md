@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°10'51.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°11'10.32" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°59'37.73" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°18'43.58" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°22'43.17" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°22'30.27" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|6°9'29.16" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|11°10'51.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°11'10.48" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°59'37.75" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°18'51.78" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°22'50.12" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°22'35.34" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°50'57.97" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°10'51.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°11'10.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°59'32.52" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°18'43.58" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°22'43.17" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°22'30.27" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°9'29.34" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°10'51.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°11'11.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°59'33.60" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°18'46.19" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°22'44.77" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°22'32.29" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°26'54.75" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: PBM, Paramaribas, Paramaribo, Paramaribô, Paramarimpo, Paramaryba, Paramaríbó, ba la ma li bo, baramarybw, pa la ma li bo, pa rama ri bo, palamalibo, paramaribo, paramaripo, paramarybw, prmrybw, Παραμαρίμπο, Парамарибо, Парамарыба, Парамарібо, Պարամարիբո, פאראמאריבא, פרמריבו, باراماريبو, پاراماریبو, पारामरिबो, पारामारिबो, ਪਾਰਾਮਾਰੀਬੋ, પારામારિબો, பரமாரிபோ, ปารามารีโบ, པེ་ར་མེ་རི་བོ།, პარამარიბო, ፓራማሪቦ, パラマリボ, 巴拉馬利波, 帕拉马里博, 파라마리보

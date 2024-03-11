@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°10'38.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°10'51.01" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°58'17.33" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°17'8.96" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°20'41.96" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°19'18.03" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|6°32'12.24" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|13°10'51.88" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°58'13.62" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°17'4.15" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°20'37.21" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°19'15.54" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°12'30.24" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°10'38.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°10'50.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°58'17.31" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°17'8.97" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|13°10'51.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°58'17.33" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°17'8.96" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°20'41.96" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°19'18.04" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°32'12.05" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|2°19'18.03" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°32'12.24" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: SAO, Sampa, San Paolo, San Paul ed Brasil, San Paulas, San Paulo, San Paulu, San Paulu du Brasili, San Paulu dû Brasili, San Pauluw, San Pawlo, San Polo del Braxil, San Poulo, San Poło del Braxil, San Pàul ëd Brasil, San-Paulo, San-Paulu, San-Paŭlo, Sanpaulu, Sao Paolo, Sao Paulo, Sao Paulo capital, Saun Paulu, Sawo Palo, Sawo Pålo, São Paolo, São Paulo, São Paulo capital, Urbs Paulistana, cavo pavulo, sa'o pa'ulo, sa'o paulo, samu pa'ulu, sangpaollo, sangpaollu, sangpaullo, sangpaullu, sankt. paulos, sanpauro, savea pealea, savo palo, saw bawlw, saw palw, saw pwlw, saywpaywlw, sea pea lu, sheng bao luo, Σάο Πάολο, Сан Пауло, Сан Паулу, Сан-Паулу, Сан-Паўлу, Сао Паоло, Сао Пауло, Սան Պաուլու, סאו פאולא, סאו פאולו, ساؤ پالو, ساؤ پولو, سائوپائولو, ساو باولو, ܣܐܘ ܦܐܘܠܘ, ސައޮ ޕައުލޯ, साओ पाउलो, সাঁউ পাউলু, সাও পাউলো, சாவோ பாவுலோ, శఒ పౌలొ, ಸಾವೊ ಪಾಲೊ, സാവോ പോളോ, เซาเปาลู, ဆောပိုလိုမြို့, სან-პაულუ, ሳው ፓውሉ, サンパウロ, 聖保羅, 상파올로, 상파올루, 상파울로, 상파울루

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°24'0.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°31'52.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°24'19.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°7'37.24" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°37'44.08" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°47'47.28" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°18'55.00" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|13°31'50.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°24'19.62" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°7'34.41" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°37'44.14" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°47'43.50" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°30'52.72" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시
