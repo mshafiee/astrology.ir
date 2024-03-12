@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°23'27.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°30'59.46" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°20'38.72" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°2'53.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°31'54.42" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°39'6.56" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°11'20.11" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°23'27.42" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°30'59.18" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°20'44.16" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°3'3.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°32'1.71" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°39'12.76" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°31'23.82" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

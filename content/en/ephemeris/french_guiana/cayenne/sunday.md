@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°10'47.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°11'5.04" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°59'15.34" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°18'23.01" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°22'14.41" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|2°21'40.40" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|6°44'10.44" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|13°11'5.11" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°59'11.43" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°18'15.78" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°22'9.02" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|2°21'35.43" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°2'47.42" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°10'47.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°11'5.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°59'11.43" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°18'15.78" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°22'9.02" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°21'35.43" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°11'5.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°59'15.34" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°18'23.01" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°22'14.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°21'40.40" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|6°2'47.42" |Aries|Sharatain|Mars|
 
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°24'11.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°32'8.23" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°25'24.90" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°8'56.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°39'29.50" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|13°32'8.39" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°25'24.92" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°8'56.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°39'29.49" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|5°50'26.31" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°41'30.29" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°41'30.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°24'11.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°32'9.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°25'29.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|11°24'11.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°32'9.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°25'24.92" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|23°8'56.65" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°39'29.49" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°50'26.31" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ALG, Al Jazair, Al-jezair, Alcher, Alge, Algeirsborg, Alger, Algeri, Algero, Algier, Algiers, Algir, Alg·èr, Algê, Algír, Alje, Aljer, Aljir, Alse, Alxer, Alzer, Alzhir, Alzhir khot, Alzhir shaary, Alzhyr, Alziir, Alzir, Alzira, Alzirs, Alzyras, Alĝero, Alžiir, Alžir, Alžyras, Alžír, Alžěr, Alžīra, Alžīrs, Argel, Argier, Argièr, Arhel, Arjel, Arxel, Caesair, Cathair na hAilgeire, Cathair na hAilgéire, Cezayir, Cäsair, Icosium, Jazoir, Zzayer, a er ji er, ala-jaza'ira, alajiyarsa, alje, alji'ersa, aljiyars, aljiyarsa, aljyrz, aljzayr, aljzayr (mdynt), aljzayr alʿasmt, aljzyrh, alzhiri, aruje, jەzayyr, mdynt aljzayr, yaljyr, Əlcəzair, ʼlgyr, Αλγέρι, Алжир, Алжир хот, Алжир шаары, Алжыр, Алҷазоир, Ալժիր, אלגיר, אלזשירס, ئالجىر, الجزائر, الجزائر (مدينة), الجزائر العاصمة, الجزائر شہر, الجزيره, الجزیره, الجیرز, جەزائیر, مدينة الجزائر, ܓܙܐܐܪ, अल्जीएर्स, अल्जीयर्स, আলজিয়ার্স, ਅਲ-ਜਜ਼ਾਇਰ, அல்ஜியர்ஸ், അൾജിയേഴ്സ്, แอลเจียร์, ཨཱལ་ཇི་ཡར་སི།, အယ်လဂျီးယားမြို့, ალჟირი, አልጀርስ, アルジェ, 阿爾及爾, 알제

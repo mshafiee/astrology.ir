@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'23.81" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°8'54.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°50'18.24" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°6'46.71" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°7'58.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°59'38.47" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°50'36.73" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°50'14.07" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°6'43.87" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°7'53.15" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°59'38.46" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°47'49.36" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Birziminium, Padgoryca, Podgairitse, Podgairítse, Podgorica, Podgoricae, Podgoricja, Podgorico, Podgorika, Podgoritsa, Podgoritza, Podgorytsa, Podgòrica, Podqoritsa, Podugorica, Pontnkoritsa, TGD, Titograd, bo de ge li cha, bwdghwrytsa, padagoritasa, phx dk xrit sa, podagorika, podeugolicha, podogoritsu~a, potkorikka, pwdgwrytsa, pwdgwryzh, pۆdgۆrytsa, Ποντγκόριτσα, Падгорыца, Подгоритса, Подгорицæ, Подгорица, Подгориця, Подъгорица, Պոդգորիցա, פודגוריצה, بودغوريتسا, پودگوریتسا, پوڈگوریکا, پۆدگۆریتسا, पॉडगोरिका, ਪਾਡਗੋਰਿਤਸਾ, பொட்கொரிக்கா, พอดกอรีตซา, პოდგორიცა, ፖድጎሪጻ, ポドゴリツァ, 波德戈里察, 포드고리차

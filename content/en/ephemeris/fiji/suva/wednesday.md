@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|13°37'58.59" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°49'5.36" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|23°39'27.30" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°17'7.01" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°46'33.82" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°11'23.72" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°17'10.68" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|6°46'41.83" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°18'50.80" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°13'33.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°15'24.42" |Aries|Butain|Sun|
+|♄ Saturn|Direct|11°13'33.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°15'24.59" |Aries|Butain|Sun|
 |♂ Mars|Direct|21°17'3.53" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°41'16.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°50'36.18" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|3°5'13.19" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°34'13.75" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|21°41'16.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°50'35.27" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|3°5'13.41" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°38'43.43" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°13'33.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°15'24.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°17'3.53" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°41'16.46" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°50'36.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|3°5'13.19" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°34'13.75" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|11°13'33.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°15'25.02" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°17'2.72" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°41'16.09" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°50'35.27" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|3°5'13.41" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°38'43.43" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴

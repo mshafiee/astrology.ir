@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°8'17.11" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°7'11.00" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°43'9.08" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|20°57'30.13" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|28°56'29.81" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°41'59.38" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|0°10'50.25" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|20°57'40.13" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|28°56'34.91" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°42'7.85" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°22'49.04" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'16.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°7'10.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°43'9.06" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|11°8'17.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°7'11.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°43'9.08" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|20°57'40.13" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|28°56'34.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°42'7.86" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°22'48.75" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|1°42'7.85" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°22'49.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이

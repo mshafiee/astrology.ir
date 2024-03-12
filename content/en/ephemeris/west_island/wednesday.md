@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°29'29.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°40'36.26" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°59'41.86" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°53'4.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°34'4.33" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°11'45.79" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|14°36'55.27" |Aries|Butain|Sun|
+|♄ Saturn|Direct|11°29'29.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°40'36.07" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°59'42.19" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°52'52.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°33'55.97" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|7°11'37.13" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|14°11'3.89" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°29'29.83" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°40'36.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°59'41.85" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°53'4.24" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°34'4.34" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|7°11'45.79" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|14°36'55.51" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°59'35.80" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°52'52.33" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°33'55.97" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|7°11'37.13" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|14°11'3.89" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬

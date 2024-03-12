@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°11'5.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°11'33.00" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°1'11.21" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°20'51.78" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°25'19.07" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|11°11'5.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°11'33.16" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°1'11.23" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°20'51.77" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°25'19.06" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|2°26'24.50" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°18'46.60" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°18'46.77" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°11'5.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°11'33.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°1'11.21" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°20'51.78" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°25'19.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°26'24.50" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°18'46.60" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°11'5.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°11'33.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°1'11.23" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°20'40.93" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°25'13.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°26'14.93" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°56'37.75" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스

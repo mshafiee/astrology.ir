@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|21°41'4.79" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|29°50'22.47" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|3°4'52.29" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°24'13.54" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|12°24'13.60" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°13'32.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°15'22.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°16'54.91" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°41'4.79" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°50'22.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|3°4'52.29" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°24'13.60" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|11°13'32.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°15'20.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°16'49.01" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°40'48.98" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°50'13.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|3°4'39.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|10°35'47.39" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

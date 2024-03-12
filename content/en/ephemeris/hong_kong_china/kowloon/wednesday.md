@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°29'10.50" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°40'5.26" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°57'37.81" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°50'14.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°30'42.39" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°6'43.91" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|12°32'6.39" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|23°50'23.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°30'46.72" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|7°6'52.72" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|13°42'55.74" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Pisces|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°29'10.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°40'5.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°57'37.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°50'23.54" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°29'10.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°40'5.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°57'37.81" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°50'23.53" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|2°30'46.72" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|7°6'52.72" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°42'55.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°42'55.74" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

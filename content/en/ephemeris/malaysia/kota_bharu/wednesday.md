@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°29'24.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|11°29'24.18" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°40'25.54" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°59'5.85" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|23°52'13.09" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|2°33'6.07" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|7°10'15.24" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|13°19'30.23" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°15'47.21" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Pisces|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°29'24.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°40'25.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°59'5.84" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°52'13.10" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°33'6.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°40'25.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°59'5.85" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°52'13.09" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°33'6.07" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|7°10'15.24" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°19'30.50" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°19'30.23" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루

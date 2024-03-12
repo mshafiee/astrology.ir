@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'15.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'42.12" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°49'26.14" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°5'43.46" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°6'35.88" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°57'35.49" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°4'12.67" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°9'15.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'43.46" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°49'26.89" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°5'47.81" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°6'37.41" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°57'39.66" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°39'41.58" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'15.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'42.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°49'26.14" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°5'43.46" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°6'34.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°57'34.22" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°53'7.48" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°9'15.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°8'42.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°49'26.16" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°5'43.45" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°6'35.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°57'35.49" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°4'12.91" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티

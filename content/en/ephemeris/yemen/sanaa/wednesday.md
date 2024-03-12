@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°23'21.14" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°30'49.25" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°20'3.78" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°2'11.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°30'57.42" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°37'36.19" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°16'0.66" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|23°1'58.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°30'48.73" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°37'27.60" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|1°35'40.28" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: SAH, Sano, San'ah, San`a', Sana, Sana'a, Sana'a', Sanaa, Sanaà, Sanaá, San’ah, sa na, sana, sanua, snʿaʾ, Şana‘ā', Şan‘ā’, Σάνα, Сана, Санъо, צנעא, صنعاء, ሳና, サヌア, 萨那, 사나

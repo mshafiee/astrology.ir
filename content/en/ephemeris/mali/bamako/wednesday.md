@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°24'23.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°32'29.27" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°26'42.92" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°10'43.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°41'34.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|13°32'28.56" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°26'47.41" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°10'43.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°41'34.52" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|5°53'37.94" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|4°29'1.65" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°29'1.43" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°24'23.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°32'28.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°26'47.41" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°10'49.33" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°41'34.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°32'29.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°26'42.94" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°10'43.27" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°41'34.52" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°53'37.94" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°29'1.65" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°29'1.43" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

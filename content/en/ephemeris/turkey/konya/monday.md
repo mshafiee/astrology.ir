@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'7.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'29.84" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°48'32.14" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|21°4'34.93" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|29°5'10.13" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°55'24.81" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°51'48.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°8'29.42" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°48'33.09" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|21°4'35.72" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|29°5'11.17" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°55'25.05" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°54'16.69" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|21°4'35.65" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°5'11.26" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|1°55'24.90" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°53'3.05" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°54'16.69" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Conia, Iconio, Iconium, Ikonio, Ikoniow, KYA, Ko'niya, Kon'ja, Koni, Konia, Konieh, Konija, Konja, Konjao, Konya, Koʻniya, Kuniyah, Kuon'ja, Qonia, Qonya, Qonye, ke ni ya, kean'ya, kon'ya, konia, qwnyh, qwnyt, Ικόνιο, Кония, Конија, Конья, Къонья, Կոնիա, קוניה, قونية, قونیه, قونیہ, कोन्या, കോന്യ, კონია, コンヤ, 科尼亞, 코니아

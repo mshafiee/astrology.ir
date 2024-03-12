@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°43'2.73" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|20°57'31.13" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|28°56'24.87" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°41'52.63" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°9'1.96" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|1°41'51.09" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|0°57'2.34" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'16.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°7'9.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°43'3.13" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|20°57'32.43" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|28°56'25.54" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°41'53.72" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°18'20.09" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°7'9.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°43'2.73" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|20°57'31.13" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|28°56'24.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°41'52.63" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°9'1.96" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Caspira, SXR, Shrinagar, Srinagar, Srinagaras, Srinagaro, Srinankar, Srinigar, Srynagar, Srīnagar, Suryanagar, Szrinagar, cirinakar, seulinagaleu, shurinagaru, si li na jia, sirinagara, siry nagar, srinagar, srinagara, srinagaram, srinagari, srinkhr, sry nghr, sry ngr, srynaghar, srynghr, sryngr, Śrinagar, Šrinagaras, Šrínagar, Σριναγκάρ, Сринагар, Срынагар, Срінагар, Шринагар, Սրինագար, סרינגאר, جموں, سري نغر, سري نگر, سريناغار, سرينغر, سری نگر, سرینگر, سِری نَگَر, श्रीनगर, श्रीनगरम्, सिरीनगर, শ্রীনগর, ਸ੍ਰੀਨਗਰ, શ્રીનગર, ଶ୍ରୀନଗର, சிறிநகர், శ్రీనగర్, ಶ್ರೀನಗರ, ശ്രീനഗർ, ศรีนคร, სრინაგარი, シュリーナガル, 斯利那加, 스리나가르

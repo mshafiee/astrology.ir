@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'7.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'28.60" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°48'33.66" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|13°8'29.55" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°48'33.64" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|21°4'35.89" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|29°5'11.59" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|1°55'22.82" |Pisces|FarghAlMuqaddam|Saturn|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°9'7.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°8'28.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°48'33.66" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|21°4'35.89" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|13°8'29.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°48'33.64" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°4'38.30" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|29°5'11.59" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|1°55'22.82" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|2°58'10.61" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'25.47" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°7'24.09" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°44'2.33" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|20°58'45.72" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|28°57'59.79" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|1°44'18.75" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|1°4'36.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|20°44'3.16" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|20°58'48.66" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|28°58'1.17" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|1°44'21.33" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°26'21.58" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'25.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°7'23.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°44'2.33" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|20°58'45.72" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|28°57'59.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°44'18.75" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°4'36.39" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°7'24.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°44'3.16" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|20°58'48.66" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|28°58'1.17" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°44'21.33" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°26'21.58" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프

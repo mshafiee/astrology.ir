@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'45.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°29'52.25" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°16'12.58" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°57'13.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|11°22'45.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°29'52.42" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°16'12.59" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°57'13.25" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|1°24'49.34" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|5°28'22.76" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°53'9.35" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°53'9.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'45.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°29'52.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°16'12.58" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|22°57'13.26" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°22'45.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°29'52.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°16'12.59" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|22°57'13.25" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°24'49.34" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°28'22.76" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°53'9.35" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°53'9.15" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Caspira, SXR, Shrinagar, Srinagar, Srinagaras, Srinagaro, Srinankar, Srinigar, Srynagar, Srīnagar, Suryanagar, Szrinagar, cirinakar, seulinagaleu, shurinagaru, si li na jia, sirinagara, siry nagar, srinagar, srinagara, srinagaram, srinagari, srinkhr, sry nghr, sry ngr, srynaghar, srynghr, sryngr, Śrinagar, Šrinagaras, Šrínagar, Σριναγκάρ, Сринагар, Срынагар, Срінагар, Шринагар, Սրինագար, סרינגאר, جموں, سري نغر, سري نگر, سريناغار, سرينغر, سری نگر, سرینگر, سِری نَگَر, श्रीनगर, श्रीनगरम्, सिरीनगर, শ্রীনগর, ਸ੍ਰੀਨਗਰ, શ્રીનગર, ଶ୍ରୀନଗର, சிறிநகர், శ్రీనగర్, ಶ್ರೀನಗರ, ശ്രീനഗർ, ศรีนคร, სრინაგარი, シュリーナガル, 斯利那加, 스리나가르
