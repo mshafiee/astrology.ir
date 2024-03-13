@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°25'28.11" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°34'10.79" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°33'42.42" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°19'34.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°52'35.21" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|6°10'6.18" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°24'13.75" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|23°19'42.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°52'41.06" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|6°10'10.76" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|5°12'52.58" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|11°25'28.11" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°34'10.79" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°33'42.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°19'42.11" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°52'41.06" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°10'10.76" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°30'32.61" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|23°19'32.81" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°52'36.98" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|6°10'1.90" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°12'52.58" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Acalquixohuayan Caxtillan, City of Port-of-Spain, POS, Po of Espay, Port of Spain, Port of Spein, Port of Speinas, Port of Spejn, Port of Speyn, Port oph Spein, Port ov Spejn, Port uf Spejn, Port-Of-Spejn, Port-au-Spain, Port-d'Espagne, Port-of-Spain, Port-of-Spein, Port-of-Spejn, Port-of-speyn, Porto Espana, Porto España, Portofspeina, Portospeno, Portu de Spania, Puerto Espana, Puerto España, Pò of Espay, bwrt awf sbyn, phxrt-xxf-spen, porata afa sapena, port ahp speyn, porta aba spena, porta opha spena, poteu obeu seupein, poteuobeuseupein, potoobusupein, prt aw aspayn, xi ban ya gang, Πορτ οφ Σπέιν, Πορτ-οφ-Σπέιν, Порт ов Спејн, Порт оф Спейн, Порт оф Спејн, Порт ъф Спейн, Порт-Оф-Спейн, Порт-оф-Спейн, פורט אוף ספיין, بورت أوف سبين, پرت آو اسپاین, پورٹ آف اسپین, पोर्ट ऑफ स्पेन, পোর্ট অব স্পেন, ਪੋਰਟ ਆਫ਼ ਸਪੇਨ, போர்ட் ஆஃப் ஸ்பெய்ன், പോർട്ട് ഓഫ് സ്പെയിൻ, พอร์ต-ออฟ-สเปน, པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།, პორტ-ოვ-სპეინი, ፖርት ኦፍ ስፔን, ポートオブスペイン, 西班牙港, 포트 오브 스페인, 포트오브스페인

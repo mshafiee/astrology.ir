@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°58'1.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°27'5.45" |Aries|Butain|Sun|
-|♂ Mars|Direct|26°4'48.34" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|27°50'9.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|7°28'40.70" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|14°5'14.75" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|7°4'7.81" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|11°58'0.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°27'5.15" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°4'49.17" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|27°50'10.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°28'41.75" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|14°5'15.31" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|6°52'40.75" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Mercury|Moon|Sun|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°58'1.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°27'5.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°4'49.19" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|27°50'9.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°58'0.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°27'5.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°4'49.17" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|27°50'10.83" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|7°28'40.70" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|14°5'14.75" |Aries|Butain|Sun|
 |☾ Moon|Direct|7°4'7.81" |Cancer|Nathrah|Venus|

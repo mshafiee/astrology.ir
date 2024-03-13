@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°22'45.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°29'52.04" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°16'11.08" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°57'12.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°24'46.79" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°28'18.62" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°8'31.26" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°29'52.51" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°16'9.74" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°57'11.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°24'45.30" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°28'18.80" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|1°22'14.50" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'45.06" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°29'52.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°16'11.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|22°57'12.77" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°24'46.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°22'44.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°29'51.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°16'11.06" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|22°57'12.78" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°24'46.80" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|5°28'18.62" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°8'31.26" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|1°8'31.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

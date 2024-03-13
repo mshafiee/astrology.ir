@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'30.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°29'29.00" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°14'37.26" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°55'10.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°22'16.90" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°24'35.06" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°29'24.36" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°22'30.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°29'28.84" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°14'37.25" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°55'10.23" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°22'17.58" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°24'34.42" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°16'27.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'30.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°29'29.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°14'37.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|22°55'10.22" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°22'16.90" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°24'35.06" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°29'24.36" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|11°22'30.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°29'28.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°14'37.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|22°55'10.23" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°22'17.58" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°24'34.42" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°16'27.15" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Dikhua, OEremce, Ouroumtchi, Ouroumtsi, Ti-hua, Ti-hua-ch'eng, Ti-hua-ch’eng, Ti-hua-hsien, Ti-hua-shih, Tihwa, Tihwafu, Tikhua, Tikhva, UEruemchi-su, UEruemcsi, UEruemqi, UEruemqi-chhi, URC, Urumchi, Urumci, Urumcio, Urumcis, Urumczi, Urumptsi, Urumqi, Urumqi Shi, Urumtschi, Urumtsi, Urumutsi, Urumçi, Urumĉio, Urumči, Urumčis, Urunchi, Wu-lu-mu-ch'i, Wu-lu-mu-ch'i-shih, Wu-lu-mu-ch’i, Wu-lu-mu-ch’i-shih, Wulumuqi, Wurumch'ih, Wurumch’ih, arwmchy, awrwmchy, awrwmtshy, ulumuchi si, urumaci, urumaki, urumchi, urumucci, urumuchi, urumuchi shi, wu lu mu qi, wu lu mu qi shi, xu rum chi, Öremçe, Ürümchi, Ürümchi-sṳ, Ürümcsi, Ürümqi, Ürümqi Shi, Ürümqi-chhī, Ουρούμτσι, Урумчи, Урумчі, Урумћи, Үрімжі, Үрүмчи, Үрүмчү, Өрөмч хот, Ուրումչի, אורומצי, أورومتشي, ئۈرۈمچى, ئۈرۈمچى شەھىرى, ئۈرۈمچی, ارومچی, اورومچی, उरुमची, उरुम्छी, ਉਰੂਮਕੀ, உருமுச்சி, อุรุมชี, ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།, ウルムチ, ウルムチ市, 乌鲁木齐, 乌鲁木齐市, 烏魯木齊, 烏魯木齊市, 우루무치 시

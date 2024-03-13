@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°52'20.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°17'41.06" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°27'47.10" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|27°2'46.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|6°29'46.52" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|12°46'46.82" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|26°50'45.14" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|11°52'19.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°17'40.89" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°27'47.09" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|27°2'46.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|6°29'46.53" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|12°46'46.80" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|27°8'48.43" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Mercury|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Moon|Sun|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Mars|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°52'20.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°17'41.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°27'47.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|27°2'46.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|14°17'41.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°27'47.56" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|27°2'49.42" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|6°29'47.55" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|12°46'49.86" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|27°8'48.43" |Gemini|Dhira|Sun|

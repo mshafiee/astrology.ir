@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°27'24.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°37'16.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°46'14.65" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°35'48.25" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°12'38.86" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°39'57.57" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°27'9.59" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°37'17.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°46'9.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°35'41.19" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°12'32.71" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|6°39'53.50" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|10°34'52.01" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

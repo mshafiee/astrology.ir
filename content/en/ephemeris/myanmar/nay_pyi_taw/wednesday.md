@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°29'32.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°40'38.35" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°59'57.41" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°53'18.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°34'28.22" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°12'16.92" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|13°31'29.79" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°40'39.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°59'57.36" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°53'22.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°34'28.90" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|7°12'21.58" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|14°26'15.18" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°29'32.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°40'38.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°59'57.41" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°53'18.84" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°34'28.22" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|7°12'16.92" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°31'29.79" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°40'39.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°59'57.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°53'22.47" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°34'28.77" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|7°12'21.38" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|14°25'8.71" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도

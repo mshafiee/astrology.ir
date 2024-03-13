@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°27'58.83" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°38'10.77" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°49'54.76" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°40'30.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°18'29.35" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|6°48'26.29" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|9°58'34.36" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°49'53.52" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°40'24.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°18'26.99" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|6°48'33.02" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|10°39'20.26" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°27'58.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°38'10.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°49'54.76" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°40'30.29" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°18'29.35" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°27'58.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°38'10.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°49'54.74" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°40'30.30" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°18'29.36" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|6°48'38.78" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°30'30.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°30'30.31" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와

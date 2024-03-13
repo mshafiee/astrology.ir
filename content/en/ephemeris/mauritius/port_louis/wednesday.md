@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°23'2.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°30'20.29" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°18'5.90" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°59'40.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°27'49.63" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°32'53.66" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°49'7.91" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°30'18.13" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°18'4.36" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°59'32.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°27'46.57" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°32'45.66" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°34'5.78" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Bort Lois, Po-Loui, Por Loui, Por-Loui, Port Lois, Port Louis, Port Louis Town, Port Lui, Port Luis, Port Luisas, Port Luiz, Port-Louis, Port-Lui, Port-Luiso, Port-lui, Portlui, Portluī, Portus Ludovici, Puerto Louis, Pò-Loui, bwr lwys, lu yi gang, phxrt hluys, porata lu'i, port luyis, porta lu'i, porta lu'isa, poteulu-iseu, potoruisu, pwr lwʼy, Πορ Λουί, Πορ-Λουί, Порт Луи, Порт Луис, Порт-Луи, Порт-Луі, Порт-Луї, Պորտ Լուի, פור לואי, بور لويس, پورت‌لوئیس, پورٹ لوئس, پورٹ لوئی, پۆرت لویس, पोर्ट लुई, पोर्ट लुईस, পোর্ট লুইস, ਪੋਰਟ ਲੂਈ, ପୋର୍ଟ ଲୁଇସ, போர்ட் லூயிஸ், പോർട്ട് ലൂയിസ്, พอร์ตหลุยส์, ལོ་ཡི་སི་གྲུ་ཁ།, პორტ-ლუი, ፖርት ሉዊስ, ポートルイス, 路易港, 포트루이스

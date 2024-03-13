@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°27'45.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°37'48.71" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°48'25.43" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°38'20.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°15'58.66" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|6°44'53.45" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|9°28'16.22" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|11°27'44.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°37'48.55" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°48'25.41" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°38'36.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°16'7.10" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|6°45'7.30" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|11°6'18.41" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°27'45.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°37'46.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°48'20.06" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°38'20.18" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°15'58.66" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|6°44'53.45" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|9°28'16.22" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|11°27'44.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°37'48.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°48'25.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°38'36.01" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°16'7.10" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|6°45'7.30" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°6'18.41" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

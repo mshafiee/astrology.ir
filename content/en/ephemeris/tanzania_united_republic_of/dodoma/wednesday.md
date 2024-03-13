@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°23'30.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°31'3.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°21'1.44" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°3'26.01" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°32'29.26" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|5°39'54.36" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°44'2.14" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|13°31'3.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°21'1.55" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°3'25.98" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°32'29.36" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°39'54.23" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°41'37.99" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마

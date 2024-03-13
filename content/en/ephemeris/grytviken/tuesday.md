@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°24'52.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°33'13.72" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°29'50.34" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°14'44.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|11°24'51.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°33'13.55" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°29'50.33" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°14'44.44" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|1°46'31.56" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|6°0'57.84" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|5°20'17.45" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°20'17.67" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°24'52.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°33'13.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°29'50.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°14'44.43" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|11°24'51.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°33'13.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°29'50.33" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°14'44.44" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|1°46'31.56" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|6°0'57.84" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°20'17.45" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|5°20'17.67" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

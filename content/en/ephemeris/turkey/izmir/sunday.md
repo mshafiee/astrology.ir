@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:19:39 |
 | Sunset | 19:20:56 |
 | Maghrib | 19:22:53 |
-| Isha (Night) | 20:34:55 |
+| Isha (Night) | 20:34:56 |
 | Sharia Midnight | 00:42:14 |
 | Imum Coeli | 01:19:30 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°52'29.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°17'56.38" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°28'47.63" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|27°4'4.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|6°31'22.76" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|12°48'56.99" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|27°7'12.76" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|14°17'56.79" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°28'46.10" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|27°4'3.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|6°31'21.09" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|12°48'57.13" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|27°36'21.13" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Moon|Mars|
 |♀ Venus|Jupiter|Mars|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Venus|Leo|Moon|Jupiter|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}

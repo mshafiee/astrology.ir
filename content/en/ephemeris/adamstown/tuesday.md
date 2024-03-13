@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°26'48.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°36'19.02" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°42'17.72" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°30'36.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°6'21.54" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|11°26'48.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°36'18.86" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°42'17.70" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°30'36.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°6'21.55" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|6°30'33.95" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|7°43'52.63" |Aries|Sharatain|Mars|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°26'48.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°36'19.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°42'22.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|23°30'49.91" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°6'28.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|11°26'48.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°36'18.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°42'22.15" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|23°30'49.92" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°6'28.67" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|6°30'46.26" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|9°16'26.61" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|9°16'26.85" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운
