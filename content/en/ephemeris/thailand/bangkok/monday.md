@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:28:52 |
 | Maghrib | 18:29:46 |
 | Isha (Night) | 19:38:28 |
-| Sharia Midnight | 23:46:48 |
+| Sharia Midnight | 23:46:49 |
 | Imum Coeli | 00:25:49 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°5'19.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°39'16.66" |Aries|Butain|Sun|
-|♂ Mars|Direct|26°52'32.43" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|28°51'13.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|12°5'19.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°39'16.83" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°52'32.44" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|28°51'13.05" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|8°44'36.27" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|15°42'30.57" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|19°26'36.23" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|15°42'30.60" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|19°26'36.65" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°5'19.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°39'16.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°52'32.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|28°51'13.06" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°44'36.27" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|15°42'30.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°26'36.23" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|12°5'19.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°39'17.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°52'31.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|28°51'13.95" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°44'36.02" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|15°42'32.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°46'33.74" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
