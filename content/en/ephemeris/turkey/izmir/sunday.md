@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:19:39 |
 | Sunset | 19:20:56 |
 | Maghrib | 19:22:53 |
-| Isha (Night) | 20:34:56 |
+| Isha (Night) | 20:34:55 |
 | Sharia Midnight | 00:42:14 |
 | Imum Coeli | 01:19:30 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°52'29.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°17'56.30" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°28'47.37" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|27°4'4.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|6°31'22.49" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|12°48'56.96" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|27°11'29.95" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|14°17'56.38" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°28'47.63" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|27°4'4.85" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|6°31'22.76" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|12°48'56.99" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|27°7'12.76" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°52'29.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°17'56.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°28'47.61" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|27°4'4.86" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|6°31'22.77" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|12°48'56.98" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|11°52'29.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°17'56.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°28'47.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|27°4'4.85" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|6°31'22.76" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|12°48'56.99" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|27°7'12.76" |Gemini|Dhira|Sun|
 
 

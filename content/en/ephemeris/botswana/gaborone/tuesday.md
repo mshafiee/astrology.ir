@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°6'47.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°41'45.16" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°2'11.15" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|29°3'33.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°59'56.71" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|16°1'36.09" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|21°53'12.83" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°6'47.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°41'43.69" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°2'10.63" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|29°3'28.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|8°59'54.89" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|16°1'29.01" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|21°22'7.45" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Mars|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°6'47.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°41'45.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°2'11.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|29°3'33.62" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°59'56.71" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|14°41'43.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°2'10.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|29°3'28.05" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°59'54.89" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|16°1'29.01" |Aries|Butain|Sun|
 |☾ Moon|Direct|21°22'7.45" |Cancer|Tarf|Moon|
 

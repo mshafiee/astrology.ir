@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:28:52 |
 | Maghrib | 18:29:46 |
 | Isha (Night) | 19:38:28 |
-| Sharia Midnight | 23:46:49 |
+| Sharia Midnight | 23:46:48 |
 | Imum Coeli | 00:25:49 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°5'19.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°39'17.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°52'31.92" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|28°51'13.95" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°44'36.02" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|15°42'32.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°46'33.74" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|14°39'16.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°52'32.44" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|28°51'13.05" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°44'36.27" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|15°42'30.60" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°26'36.65" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

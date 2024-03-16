@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:18:29 |
 | Sunset | 18:19:42 |
 | Maghrib | 18:20:46 |
-| Isha (Night) | 19:29:46 |
+| Isha (Night) | 19:29:47 |
 | Sharia Midnight | 23:43:04 |
 | Imum Coeli | 00:18:20 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°57'33.04" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°26'18.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°1'46.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|27°46'16.68" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|7°23'50.55" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|13°58'53.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°3'32.10" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°26'18.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°1'45.69" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|27°46'16.13" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|7°23'50.00" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|13°58'52.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°10'22.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°58'16.29" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|14°27'30.49" |Aries|Butain|Sun|
 |♂ Mars|Direct|26°6'28.01" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|27°52'14.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|7°31'18.07" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|14°8'35.76" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|6°32'2.39" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|27°52'18.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°31'18.88" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|14°8'41.27" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|7°17'12.39" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Mercury|Moon|Sun|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Leo|Moon|Jupiter|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°58'16.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°27'30.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°6'28.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|11°58'16.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°27'30.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°6'28.01" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|27°52'18.05" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|7°31'18.88" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|14°8'41.27" |Aries|Butain|Sun|
