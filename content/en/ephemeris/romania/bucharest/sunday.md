@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°52'30.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°17'58.54" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°28'56.13" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|27°4'15.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|6°31'36.33" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|12°49'15.29" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|27°9'38.54" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|14°17'59.53" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°28'56.99" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|27°4'19.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|6°31'38.19" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|12°49'20.31" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|27°36'22.28" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Moon|Mars|
 |♀ Venus|Jupiter|Mars|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Venus|Leo|Moon|Jupiter|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°52'30.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°17'58.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°28'56.13" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|27°4'15.34" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|6°31'36.33" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|12°49'15.29" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|11°52'30.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°17'59.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°28'57.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|27°4'19.94" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|6°31'36.34" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|12°49'15.28" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|27°9'38.54" |Gemini|Dhira|Sun|
 
 
