@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°59'39.58" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|14°29'49.23" |Aries|Butain|Sun|
 |♂ Mars|Direct|26°15'32.46" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|28°3'57.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|7°45'47.04" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|14°27'35.05" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|10°6'22.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°3'52.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°45'45.14" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|14°27'29.86" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|9°46'39.52" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Mercury|Moon|Sun|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Leo|Moon|Jupiter|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -341,9 +341,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|11°59'39.58" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|14°29'49.23" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|26°15'32.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|28°3'57.56" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|7°45'47.04" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|14°27'35.05" |Aries|Butain|Sun|
+|☉ Sun|Direct|28°3'52.92" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|7°45'45.14" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|14°27'29.86" |Aries|Butain|Sun|
 |☾ Moon|Direct|9°46'39.52" |Cancer|Nathrah|Venus|
 
 

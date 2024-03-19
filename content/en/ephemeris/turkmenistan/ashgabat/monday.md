@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°59'1.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°28'44.68" |Aries|Butain|Sun|
-|♂ Mars|Direct|26°11'21.54" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|27°58'30.97" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|7°39'5.73" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|14°18'49.32" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|8°27'33.35" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|14°28'45.34" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°11'21.83" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|27°58'32.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°39'6.40" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|14°18'51.50" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|8°38'25.96" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Leo|Moon|Jupiter|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°59'1.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°28'45.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°11'21.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|11°59'1.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°28'45.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°11'21.83" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|27°58'32.81" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|7°39'6.40" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|14°18'51.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°38'25.81" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|14°18'51.50" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°38'25.96" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

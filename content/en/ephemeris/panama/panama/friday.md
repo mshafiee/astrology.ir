@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°37'8.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°33'49.61" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°22'26.91" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|3°18'58.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°18'20.94" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°46'42.30" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°53'30.10" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|15°33'51.73" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°22'30.75" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|3°19'10.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°18'27.46" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|21°46'57.03" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°53'51.07" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Aries|Moon|Jupiter|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°37'8.95" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°33'51.73" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°33'49.61" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°22'26.91" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|3°18'58.10" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°18'20.94" |Pisces|FarghAlMuakhar|Jupiter|
