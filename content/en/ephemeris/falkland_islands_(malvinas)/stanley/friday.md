@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°36'45.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°33'10.18" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°33'9.65" |Aries|Butain|Sun|
 |♂ Mars|Direct|0°19'52.57" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|3°15'49.51" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|14°14'16.10" |Aquarius|SaadAlAkhbia|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°36'45.15" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°33'10.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°19'52.57" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|3°15'49.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°14'16.10" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°43'6.82" |Aries|Butain|Venus|
-|☾ Moon|Direct|12°12'11.97" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|15°33'8.02" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°19'49.61" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|3°15'38.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°14'10.67" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|21°42'53.30" |Aries|Butain|Venus|
+|☾ Moon|Direct|13°0'27.72" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Moon|Sun|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
+|☾ Moon|Venus|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
