@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|0°0'41.75" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|2°51'21.97" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|13°43'46.85" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°14'32.63" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°31'29.15" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°14'32.81" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°22'53.58" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Aries|Moon|Jupiter|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°33'51.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°28'7.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°0'41.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|12°33'52.00" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°28'7.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°0'42.44" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|2°51'21.97" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°43'46.85" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°14'32.63" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°31'29.15" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|13°43'47.60" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|21°14'32.81" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°22'53.58" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

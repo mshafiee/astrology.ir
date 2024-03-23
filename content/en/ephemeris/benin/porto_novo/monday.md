@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'32.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°55'43.93" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°45'11.65" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°4'23.06" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|16°29'50.78" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|23°36'38.93" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°29'10.32" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|12°49'32.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|15°55'45.48" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°45'13.02" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°4'30.37" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|16°29'53.94" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|23°36'48.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°46'6.24" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Sun|Saturn|Leo|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'32.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°55'43.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°45'11.65" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|5°4'23.06" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|12°49'32.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°55'45.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°45'13.02" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|5°4'30.37" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|16°29'50.78" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|23°36'38.93" |Aries|Butain|Venus|
 |☾ Moon|Direct|4°29'10.32" |Libra|Ghafr|Moon|
