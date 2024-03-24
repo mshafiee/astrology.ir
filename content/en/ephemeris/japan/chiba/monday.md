@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:56:42 |
 | Isha (Night) | 19:17:30 |
 | Sharia Midnight | 23:01:33 |
-| Imum Coeli | 23:45:17 |
+| Imum Coeli | 23:45:18 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:56:42 |
 | Isha (Night) | 19:26:42 |
 | Sharia Midnight | 23:00:16 |
-| Imum Coeli | 23:45:17 |
+| Imum Coeli | 23:45:18 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°53'48.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°3'23.34" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°13'50.37" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°40'54.25" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°3'23.17" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°13'50.36" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°40'54.26" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|17°15'23.02" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|24°9'50.28" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°21'59.81" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|11°22'0.21" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°53'48.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°3'23.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°13'50.37" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|5°40'54.25" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|17°15'23.02" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|24°9'50.28" |Aries|Butain|Venus|
-|☾ Moon|Direct|11°21'59.81" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|12°53'48.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°3'23.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°13'46.25" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|5°40'42.59" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|17°15'16.53" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|24°9'36.71" |Aries|Butain|Venus|
+|☾ Moon|Direct|12°34'51.51" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}

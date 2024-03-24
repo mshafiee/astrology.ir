@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|16°10'32.15" |Aries|Butain|Sun|
 |♂ Mars|Direct|2°40'33.88" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|6°14'55.04" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|17°57'46.67" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|24°38'7.24" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°4'1.71" |Virgo|Simak|Venus|
+|♀ Venus|Direct|17°57'50.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|24°38'20.18" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|17°59'1.45" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

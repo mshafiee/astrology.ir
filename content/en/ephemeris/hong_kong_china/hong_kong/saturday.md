@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°40'22.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°39'31.91" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°44'0.35" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|12°40'22.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|15°39'31.75" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°44'0.33" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|3°46'33.19" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|14°52'37.23" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|22°17'29.51" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|18°26'30.65" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|22°17'29.50" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°55'59.11" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Venus|Jupiter|Sun|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°40'22.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°39'31.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°44'0.35" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|3°46'33.19" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|12°40'22.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°39'30.95" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°43'53.63" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|3°46'19.10" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°52'28.04" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|22°17'16.46" |Aries|Butain|Venus|
-|☾ Moon|Direct|19°55'59.11" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|22°17'16.45" |Aries|Butain|Venus|
+|☾ Moon|Direct|19°55'58.91" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
