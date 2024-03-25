@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°55'53.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°7'7.72" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°27'50.16" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°58'41.63" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|17°37'37.54" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|24°25'1.10" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|15°9'9.35" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|16°7'8.37" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°27'52.49" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°58'47.23" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|17°37'40.92" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|24°25'7.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°35'14.68" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
+|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°55'53.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°7'7.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°27'50.16" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|5°58'41.63" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|17°37'37.50" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|24°25'1.41" |Aries|Butain|Venus|
-|☾ Moon|Direct|15°8'2.98" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|16°7'8.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°27'52.49" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|5°58'47.23" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|17°37'40.92" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|24°25'1.10" |Aries|Butain|Venus|
+|☾ Moon|Direct|15°9'9.35" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -233,7 +233,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|18:35:54|19:31:58|Love, creating love and attracting hearts|
-|2|Sun|Servant|19:31:59|20:28:03|Attracting auspiciousness|
+|2|Sun|Servant|19:31:59|20:28:03|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Venus|Servant|20:28:04|21:24:08|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mercury|Servant|21:24:09|22:20:14|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|22:20:15|23:16:19|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°17'11.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°45'59.74" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°51'56.94" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|9°1'53.38" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|21°26'35.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|26°23'46.23" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|22°7'47.50" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|13°17'11.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°45'59.13" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°51'57.44" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|9°1'51.81" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|21°26'35.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|26°23'42.69" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|22°33'28.81" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Mercury|Mars|Libra|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Gemini|Moon|Moon|
+|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°17'11.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°45'58.97" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|13°17'11.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°45'59.13" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|4°51'57.44" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|9°1'51.81" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|21°26'35.47" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|26°23'42.69" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|22°33'28.97" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|22°33'28.81" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
