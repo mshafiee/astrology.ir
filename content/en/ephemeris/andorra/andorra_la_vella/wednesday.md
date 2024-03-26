@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°3'23.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°20'39.65" |Aries|Butain|Sun|
-|♂ Mars|Direct|3°18'17.44" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|7°2'46.75" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|18°57'47.92" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|25°14'22.08" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|16°20'40.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|3°18'21.76" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|7°2'57.35" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|18°57'54.24" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|25°14'34.15" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|28°0'0.99" |Virgo|Simak|Mercury|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|16°20'40.80" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°18'21.76" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|7°2'57.35" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°57'54.24" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|25°14'34.15" |Aries|Butain|Venus|
-|☾ Moon|Direct|28°0'0.99" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|18°57'56.93" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|25°14'40.16" |Aries|Butain|Venus|
+|☾ Moon|Direct|27°29'0.94" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Moon|Sun|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Sun|Mars|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
 
 
 {{< /tab >}}

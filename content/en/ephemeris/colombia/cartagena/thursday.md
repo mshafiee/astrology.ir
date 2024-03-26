@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°18'39.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°48'43.21" |Aries|Butain|Sun|
-|♂ Mars|Direct|5°2'1.21" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|13°18'39.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°48'43.38" |Aries|Butain|Sun|
+|♂ Mars|Direct|5°2'1.22" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|9°14'40.73" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|21°42'34.33" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|26°29'27.04" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|24°52'49.92" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°52'49.87" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°18'39.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°48'43.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°2'1.21" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|13°18'39.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°48'43.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°2'1.22" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|9°14'40.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°42'27.08" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|26°29'18.05" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|25°2'28.94" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|21°42'34.33" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|26°29'27.04" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|24°52'49.87" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Moon|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
 
 
 {{< /tab >}}

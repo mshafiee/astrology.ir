@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|18:11:04|19:09:54|Love, creating love and attracting hearts|
 |2|Sun|Servant|19:09:55|20:08:45|Attracting auspiciousness|
-|3|Venus|Servant|20:08:46|21:07:36|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|20:08:46|21:07:36|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mercury|Servant|21:07:37|22:06:27|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|22:06:28|23:05:18|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Saturn|Servant|23:05:19|00:04:10|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°16'56.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°45'31.44" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°16'56.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°45'31.61" |Aries|Butain|Sun|
 |♂ Mars|Direct|4°50'15.90" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|8°59'45.07" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|21°23'53.96" |Aquarius|SaadAlAkhbia|Moon|

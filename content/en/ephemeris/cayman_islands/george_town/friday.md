@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Mars|Servant|11:28:39|12:30:08|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|12:30:09|13:31:37|Promotion and attracting wealth|
 |8|Venus|Ruler|13:31:38|14:33:06|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|14:33:07|15:34:36|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Mercury|Servant|14:33:07|15:34:36|Causing separation and homelessness|
 |10|Moon|Servant|15:34:37|16:36:05|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Saturn|Servant|16:36:06|17:37:34|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Jupiter|Servant|17:37:35|18:39:04|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°25'35.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°1'36.02" |Aries|Butain|Sun|
-|♂ Mars|Direct|5°49'15.80" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°14'30.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|22°57'37.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|26°51'7.05" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|8°41'14.32" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Direct|17°1'38.07" |Aries|Butain|Sun|
+|♂ Mars|Direct|5°49'21.60" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°14'45.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|22°57'46.05" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|26°51'26.03" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|8°37'22.23" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°25'35.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°1'37.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°49'21.59" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|13°25'35.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°1'38.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°49'21.60" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|10°14'45.76" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|22°57'46.04" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|22°57'46.05" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|26°51'26.03" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|7°44'39.35" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°44'39.93" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

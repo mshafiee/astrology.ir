@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:30:27 |
-| Sunrise | 05:55:37 |
+| Sunrise | 05:55:38 |
 | Dhuhr (Noon) | 12:14:29 |
 | Medium Coeli | 12:14:29 |
 | Sunset | 18:34:04 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:36:11 |
-| Sunrise | 05:55:37 |
+| Sunrise | 05:55:38 |
 | Dhuhr (Noon) | 12:14:29 |
 | Medium Coeli | 12:14:29 |
 | Sunset | 18:34:04 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:10:04 |
-| Sunrise | 05:55:37 |
+| Sunrise | 05:55:38 |
 | Dhuhr (Noon) | 12:14:29 |
 | Medium Coeli | 12:14:29 |
 | Sunset | 18:34:04 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°23'45.69" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°58'12.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°36'51.83" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|9°58'52.87" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|22°37'55.27" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|26°46'19.27" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|4°31'1.23" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|13°23'45.81" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°58'11.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°36'52.23" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|9°58'48.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|22°37'54.31" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|26°46'11.50" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|5°26'1.14" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
