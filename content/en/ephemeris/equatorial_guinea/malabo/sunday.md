@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|02:27:05|03:26:16|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:26:17|04:25:28|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|04:25:29|05:24:40|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Mercury|Servant|05:24:41|06:23:53|Finding the fugitive and discovering the thief|
+|12|Mercury|Servant|05:24:41|06:23:53|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|13°30'42.74" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°11'15.99" |Aries|Butain|Sun|
 |♂ Mars|Direct|6°24'31.21" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°59'23.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|23°53'36.75" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°2'51.19" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|17°22'43.06" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|10°59'21.43" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|23°53'35.02" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°2'50.66" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|17°1'10.62" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°24'31.21" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|10°59'23.08" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|23°53'36.75" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|27°2'51.19" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|27°2'51.19" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|17°22'43.06" |Sagittarius|Baldah|Moon|
 
 

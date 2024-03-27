@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°16'56.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°45'32.40" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°50'18.58" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|8°59'49.29" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|21°23'58.16" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Direct|26°22'51.09" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°37'58.71" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|16°45'31.19" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°50'11.02" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|8°59'33.73" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|21°23'48.04" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|26°22'34.07" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|22°30'57.46" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Libra|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Gemini|Moon|Moon|
+|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|4°50'18.58" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|8°59'49.29" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|21°23'58.16" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|26°22'34.07" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|22°30'57.46" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|26°22'51.09" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|21°37'58.71" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}

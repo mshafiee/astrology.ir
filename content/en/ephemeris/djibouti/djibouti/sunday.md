@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°30'3.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°9'58.97" |Aries|Butain|Sun|
-|♂ Mars|Direct|6°19'56.25" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°53'26.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|23°46'18.81" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°1'19.62" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|17°22'38.55" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|13°30'2.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°10'1.04" |Aries|Butain|Sun|
+|♂ Mars|Direct|6°19'58.72" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°53'37.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|23°46'23.97" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°1'36.32" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|16°8'33.85" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°30'3.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°9'58.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°19'56.25" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|10°53'26.27" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|13°30'2.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°10'1.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°19'58.72" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|10°53'37.09" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|23°46'18.81" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|27°1'19.62" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|27°1'19.62" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|17°22'38.55" |Sagittarius|Baldah|Moon|
 
 

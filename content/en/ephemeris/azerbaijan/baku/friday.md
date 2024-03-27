@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|19:59:21|20:56:23|Attracting auspiciousness|
 |3|Venus|Servant|20:56:24|21:53:26|Attracting misfortune, no task is suitable|
 |4|Mercury|Servant|21:53:27|22:50:29|Unfortunate hour|
-|5|Moon|Servant|22:50:30|23:47:31|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Moon|Servant|22:50:30|23:47:31|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|23:47:32|00:44:34|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Jupiter|Servant|00:44:35|01:41:37|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mars|Ruler|01:41:38|02:38:40|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|4°45'23.82" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|8°53'32.56" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|21°16'10.14" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Direct|26°19'51.26" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°19'51.26" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|20°43'5.03" |Libra|Jubana|Jupiter|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|4°45'23.82" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|8°53'32.56" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|21°16'10.14" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|26°19'51.26" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|26°19'51.26" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|20°43'5.03" |Scorpio|Qalb|Venus|
 
 
