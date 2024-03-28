@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Jupiter|Ruler|01:48:09|02:45:05|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|02:45:06|03:42:01|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:42:02|04:38:58|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Venus|Servant|04:38:59|05:35:55|Performing promises|
+|11|Venus|Servant|04:38:59|05:35:55|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|05:35:56|06:32:52|Finding the fugitive and discovering the thief|
 
  
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°24'49.38" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|10°59'44.44" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|23°54'5.76" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°2'51.91" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°2'51.91" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|17°37'3.50" |Scorpio|Qalb|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°24'49.38" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|10°59'44.44" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|23°54'5.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|27°2'51.91" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|27°2'51.91" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|17°37'3.50" |Sagittarius|Baldah|Moon|
 
 

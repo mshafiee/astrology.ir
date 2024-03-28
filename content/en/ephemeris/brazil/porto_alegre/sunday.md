@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Sun|Servant|20:24:26|21:25:32|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|21:25:33|22:26:40|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|22:26:41|23:27:47|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Moon|Servant|23:27:48|00:28:55|Suitable for all good deeds|
+|6|Moon|Servant|23:27:48|00:28:55|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Saturn|Servant|00:28:56|01:30:03|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|01:30:04|02:31:10|Extremely auspicious and attracts happiness|
 |9|Mars|Servant|02:31:11|03:32:18|Summoning the person of interest, attracting hearts, heart tenderness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°38'39.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°26'21.83" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°19'22.57" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°8'57.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°20'44.31" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|13°38'39.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°26'21.66" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°19'22.56" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°8'57.63" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°20'44.30" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°12'19.26" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°53'35.17" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°53'33.84" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°38'39.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°26'21.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°19'22.57" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|12°8'57.64" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|25°20'44.31" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°12'19.26" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|2°53'35.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|13°38'39.81" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°26'21.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°19'22.56" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|12°8'57.63" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|25°20'43.87" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°12'18.82" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|2°48'55.66" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

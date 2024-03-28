@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|02:27:05|03:26:16|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:26:17|04:25:28|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|04:25:29|05:24:40|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Mercury|Servant|05:24:41|06:23:53|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Mercury|Servant|05:24:41|06:23:53|Finding the fugitive and discovering the thief|
 
  
  
@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°30'42.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°11'15.99" |Aries|Butain|Sun|
-|♂ Mars|Direct|6°24'31.21" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|17°11'16.34" |Aries|Butain|Sun|
+|♂ Mars|Direct|6°24'29.40" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|10°59'21.43" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|23°53'35.02" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°2'50.66" |Pisces|Rescha|Mars|

@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|06:03:46|07:04:59|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Saturn|Servant|07:05:00|08:06:14|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Jupiter|Servant|08:06:15|09:07:28|Marriage connection is good|
+|3|Jupiter|Servant|08:06:15|09:07:28|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|09:07:29|10:08:43|Repelling and destroying enemies and discharging enemy energy|
 |5|Sun|Servant|10:08:44|11:09:57|Answering needs, attracting love and wealth|
 |6|Venus|Servant|11:09:58|12:11:12|Summoning the person of interest, love and dominance|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°36'48.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°22'49.03" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°6'36.93" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|11°52'38.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°0'27.02" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°10'42.43" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°21'14.99" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|13°36'49.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°22'50.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°6'38.50" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|11°52'46.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°0'30.72" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°10'55.54" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°26'36.92" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°36'49.50" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°22'51.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°6'39.39" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|11°52'49.21" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|25°0'32.23" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°10'59.56" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|29°16'52.81" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|17°22'50.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°6'38.50" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|11°52'46.42" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|25°0'30.72" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°10'55.54" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|29°26'36.92" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

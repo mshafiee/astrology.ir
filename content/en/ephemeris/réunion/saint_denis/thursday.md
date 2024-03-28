@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°9'19.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°31'30.53" |Aries|Butain|Sun|
-|♂ Mars|Direct|3°58'33.86" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|7°54'1.62" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|20°1'45.83" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Retrograde|25°47'52.12" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|8°39'37.49" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|13°9'20.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°31'31.67" |Aries|Butain|Sun|
+|♂ Mars|Direct|3°58'35.76" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|7°54'7.95" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|20°1'49.14" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|25°48'0.42" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°57'45.36" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Libra|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°9'20.28" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|16°31'31.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°58'35.76" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|7°54'7.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|20°1'49.14" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|25°48'0.42" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|7°57'45.36" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|3°58'34.61" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|7°54'4.96" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|20°1'47.40" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|25°47'56.87" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|8°14'24.37" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°3'4.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°20'6.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|3°16'14.29" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|7°0'14.90" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|18°54'31.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°3'4.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°20'7.61" |Aries|Butain|Sun|
+|♂ Mars|Direct|3°16'11.47" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|7°0'13.58" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|18°54'29.32" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Retrograde|25°12'40.57" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|27°22'19.96" |Virgo|Simak|Mercury|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°3'4.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°20'7.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°16'11.47" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|7°0'13.58" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°54'29.32" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|25°12'40.57" |Aries|Butain|Venus|
-|☾ Moon|Direct|27°22'19.96" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|16°20'6.51" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°16'14.29" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|7°0'14.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|18°54'31.75" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|25°12'38.77" |Aries|Butain|Venus|
+|☾ Moon|Direct|27°31'56.91" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Sun|Mars|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
