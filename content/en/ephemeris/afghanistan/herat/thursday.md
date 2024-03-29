@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°9'8.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°31'9.84" |Aries|Butain|Sun|
-|♂ Mars|Direct|3°57'15.33" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|7°52'23.74" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|19°59'41.26" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|25°46'55.40" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°58'46.78" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|13°9'8.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°31'8.61" |Aries|Butain|Sun|
+|♂ Mars|Direct|3°57'14.81" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|7°52'19.17" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|19°59'39.76" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|25°46'48.19" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|8°40'14.17" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°9'8.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°31'9.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°57'15.06" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|7°52'23.47" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|13°9'8.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°31'9.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°57'15.33" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|7°52'23.74" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|19°59'41.53" |Pisces|Rescha|Jupiter|
 |☿ Mercury|Retrograde|25°46'55.48" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|7°59'11.84" |Scorpio|Akleel|Mars|

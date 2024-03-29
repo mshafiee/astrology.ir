@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°12'28.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°37'16.72" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°19'50.34" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|8°21'6.08" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|20°35'34.49" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Retrograde|26°3'21.90" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°53'38.89" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|13°12'27.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°37'16.26" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°19'50.64" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|8°21'5.70" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|20°35'28.25" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|26°3'13.64" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°18'31.17" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Jupiter|Venus|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°12'28.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°37'16.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°19'50.34" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|8°21'6.08" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|20°35'34.49" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°3'23.04" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|13°45'14.97" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|13°12'27.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°37'16.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°19'50.64" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|8°21'5.70" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|20°35'34.59" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°3'21.90" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|13°53'38.89" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
