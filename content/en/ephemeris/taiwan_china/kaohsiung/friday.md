@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Jupiter|Servant|00:03:07|01:01:24|Promotion and attracting wealth|
 |8|Mars|Ruler|01:01:25|01:59:43|Auspicious and ultimate happiness and fortune|
 |9|Sun|Servant|01:59:44|02:58:02|Causing separation and homelessness|
-|10|Venus|Servant|02:58:03|03:56:20|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Venus|Servant|02:58:03|03:56:20|Extremely unfortunate|
 |11|Mercury|Servant|03:56:21|04:54:39|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Moon|Servant|04:54:40|05:52:58|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°21'45.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°54'27.83" |Aries|Butain|Sun|
-|♂ Mars|Direct|5°23'9.77" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|9°41'26.65" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|22°16'8.49" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|26°40'4.53" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°23'23.64" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|16°54'29.06" |Aries|Butain|Sun|
+|♂ Mars|Direct|5°23'10.49" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|9°41'31.53" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|22°16'10.53" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|26°40'12.41" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°39'19.17" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|9°41'31.53" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|22°16'10.53" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|26°40'12.41" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|0°39'19.17" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°39'23.08" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:20:57|07:19:42|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Moon|Ruler|06:20:57|07:19:42|Repelling magic, attracting discharged energy|
 |2|Saturn|Servant|07:19:43|08:18:28|Outer and inner journey|
 |3|Jupiter|Servant|08:18:29|09:17:14|Marriage connection is good|
 |4|Mars|Servant|09:17:15|10:16:00|Repelling and destroying enemies and discharging enemy energy|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°37'11.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°37'11.36" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°23'32.92" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°9'10.16" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|11°56'1.16" |Pisces|FarghAlMuakhar|Jupiter|

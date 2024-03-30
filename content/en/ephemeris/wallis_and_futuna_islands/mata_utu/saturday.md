@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|05:49:10|06:49:07|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|06:49:08|07:49:06|Peace among people|
-|3|Mars|Servant|07:49:07|08:49:05|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Mars|Servant|07:49:07|08:49:05|Vengeful and evil deeds|
 |4|Sun|Servant|08:49:06|09:49:04|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|09:49:05|10:49:02|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|10:49:03|11:49:01|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°27'25.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°5'5.23" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°27'25.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°5'5.40" |Aries|Butain|Sun|
 |♂ Mars|Direct|6°1'59.10" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|10°30'48.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|23°17'49.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|23°17'49.15" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|26°56'2.97" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°5'12.76" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|11°5'13.51" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°27'25.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°5'5.23" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|13°27'25.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°5'5.40" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|6°1'59.10" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|10°30'48.07" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|23°17'49.14" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|23°17'49.15" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|26°56'2.97" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|11°5'13.51" |Sagittarius|NaAaem|Moon|
 

@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|9°53'9.49" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|22°30'44.62" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|26°44'23.09" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°12'11.48" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°14'32.81" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|13°23'6.24" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|16°56'59.16" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|5°32'20.75" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|9°53'9.49" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|22°30'44.62" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°44'23.09" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|3°12'11.48" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|9°53'9.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|22°30'44.41" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°44'22.53" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|3°14'32.81" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

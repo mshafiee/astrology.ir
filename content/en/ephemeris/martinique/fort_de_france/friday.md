@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Venus|Ruler|13:10:10|14:11:24|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:11:25|15:12:39|Causing separation and homelessness|
 |10|Moon|Servant|15:12:40|16:13:53|Extremely unfortunate|
-|11|Saturn|Servant|16:13:54|17:15:08|Creating an unfortunate horoscope for anyone|
+|11|Saturn|Servant|16:13:54|17:15:08|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Jupiter|Servant|17:15:09|18:16:23|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°25'12.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°0'55.62" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°25'12.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°0'55.78" |Aries|Butain|Sun|
 |♂ Mars|Direct|5°46'46.90" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|10°11'29.67" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|22°53'40.31" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|26°50'26.48" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°0'42.78" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°0'43.32" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°25'12.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°0'55.62" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|13°25'12.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°0'55.78" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|5°46'46.90" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|10°11'29.67" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|22°53'40.31" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|26°50'26.48" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|8°19'26.64" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°0'43.32" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Sun|Jupiter|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}

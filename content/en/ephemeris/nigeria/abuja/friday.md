@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°17'5.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°45'46.52" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°51'10.68" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|9°0'48.12" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|21°25'21.75" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Retrograde|26°23'6.71" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|23°4'40.72" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|16°45'48.07" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°51'16.46" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|9°1'2.08" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|21°25'30.13" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|26°23'23.53" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°59'56.68" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Libra|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
+|☾ Moon|Mars|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°17'5.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°45'46.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°51'10.68" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|9°0'48.12" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°25'21.75" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°23'6.71" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|16°45'48.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°51'16.46" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|9°1'2.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|21°25'30.13" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°23'23.53" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|21°59'56.68" |Scorpio|Shaulah|Venus|
 
 

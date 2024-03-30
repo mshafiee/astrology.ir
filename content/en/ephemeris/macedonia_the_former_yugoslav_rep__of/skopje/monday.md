@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:37:59 |
 | Medium Coeli | 12:37:59 |
 | Sunset | 19:00:20 |
-| Maghrib | 19:18:54 |
+| Maghrib | 19:18:55 |
 | Isha (Night) | 20:14:51 |
 | Sharia Midnight | 23:54:30 |
 | Imum Coeli | 00:37:50 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°37'9.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°23'29.58" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°8'59.21" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|11°55'44.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°4'14.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|13°37'9.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°23'29.75" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°8'59.22" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|11°55'44.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°4'14.48" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°11'11.66" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°2'0.16" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°2'1.46" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°37'9.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°23'29.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°8'59.21" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|11°55'44.78" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|25°4'14.47" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|13°37'9.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°23'29.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°8'59.22" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|11°55'44.79" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|25°4'14.48" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°11'11.66" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|0°2'0.16" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|0°2'1.46" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

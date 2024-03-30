@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°16'36.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°44'53.94" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°16'36.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°44'54.11" |Aries|Butain|Sun|
 |♂ Mars|Direct|4°47'57.92" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|8°56'49.69" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|21°20'14.79" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Retrograde|26°21'26.23" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°9'48.89" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|26°21'26.24" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°9'48.68" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°16'36.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°44'51.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°47'56.90" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|8°56'42.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°20'11.68" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°21'13.91" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|22°21'2.09" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|16°44'54.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°47'57.92" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|8°56'49.69" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|21°20'14.79" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°21'26.24" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|21°9'48.68" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
