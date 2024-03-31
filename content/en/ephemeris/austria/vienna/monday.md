@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:09 |
-| Sunrise | 06:31:53 |
+| Sunrise | 06:31:52 |
 | Dhuhr (Noon) | 12:58:13 |
 | Medium Coeli | 12:58:13 |
 | Sunset | 19:25:29 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:41:05 |
-| Sunrise | 06:31:53 |
+| Sunrise | 06:31:52 |
 | Dhuhr (Noon) | 12:58:13 |
 | Medium Coeli | 12:58:13 |
 | Sunset | 19:25:29 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:01:24 |
-| Sunrise | 06:31:53 |
+| Sunrise | 06:31:52 |
 | Dhuhr (Noon) | 12:58:13 |
 | Medium Coeli | 12:58:13 |
 | Sunset | 19:25:29 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°37'13.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°23'37.96" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°9'29.05" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|11°56'22.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°5'1.90" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°11'13.92" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°11'47.46" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|17°23'38.27" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°9'25.73" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|11°56'17.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°4'58.34" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°11'10.14" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°42'51.64" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}

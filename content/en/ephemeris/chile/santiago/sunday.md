@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Sun|Servant|21:41:00|22:42:24|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|22:42:25|23:43:48|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|23:43:49|00:45:12|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|00:45:13|01:46:37|Suitable for all good deeds|
+|6|Moon|Servant|00:45:13|01:46:37|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Saturn|Servant|01:46:38|02:48:01|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|02:48:02|03:49:25|Extremely auspicious and attracts happiness|
 |9|Mars|Servant|03:49:26|04:50:50|Summoning the person of interest, attracting hearts, heart tenderness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°39'2.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°27'4.45" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°21'56.96" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°12'13.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°24'49.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|13°39'2.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°27'4.28" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°21'56.95" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°12'13.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°24'49.51" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°12'30.98" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°38'8.13" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°38'6.80" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°39'2.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°39'2.12" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|17°27'4.45" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°21'56.96" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|12°12'13.34" |Aries|Sharatain|Sun|

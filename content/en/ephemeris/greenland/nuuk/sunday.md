@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°38'24.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°25'52.16" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°17'35.71" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°6'38.05" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°17'54.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°12'2.86" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°48'46.18" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|13°38'24.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°25'51.99" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°17'35.70" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°6'38.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°17'54.95" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°11'59.36" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°33'1.86" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°38'24.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°25'52.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°17'35.71" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|12°6'38.05" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|13°38'24.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°25'51.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°17'35.70" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|12°6'38.04" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|25°17'54.96" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°11'59.36" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|2°33'3.16" |Capricorn|SaadAlDhabib|Jupiter|

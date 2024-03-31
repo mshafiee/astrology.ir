@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:58:48 |
 | Sunrise | 06:07:52 |
-| Dhuhr (Noon) | 12:21:55 |
-| Medium Coeli | 12:21:55 |
+| Dhuhr (Noon) | 12:21:54 |
+| Medium Coeli | 12:21:54 |
 | Sunset | 18:36:20 |
 | Maghrib | 18:51:26 |
 | Isha (Night) | 19:36:25 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:40 |
 | Sunrise | 06:07:52 |
-| Dhuhr (Noon) | 12:21:55 |
-| Medium Coeli | 12:21:55 |
+| Dhuhr (Noon) | 12:21:54 |
+| Medium Coeli | 12:21:54 |
 | Sunset | 18:36:20 |
 | Maghrib | 18:37:19 |
 | Isha (Night) | 19:54:40 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:47:23 |
 | Sunrise | 06:07:52 |
-| Dhuhr (Noon) | 12:21:55 |
-| Medium Coeli | 12:21:55 |
+| Dhuhr (Noon) | 12:21:54 |
+| Medium Coeli | 12:21:54 |
 | Sunset | 18:36:20 |
 | Maghrib | 18:37:19 |
 | Isha (Night) | 20:07:19 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°50'0.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°48'12.31" |Aries|Butain|Sun|
-|♂ Mars|Direct|8°38'13.53" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|13°48'52.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|27°25'58.27" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°8'32.05" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°5'23.38" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|17°48'12.13" |Aries|Butain|Sun|
+|♂ Mars|Direct|8°38'13.51" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|13°48'52.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|27°25'58.24" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°8'32.03" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°5'12.65" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°50'0.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°50'0.52" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|17°48'12.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|8°38'13.53" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|13°48'52.12" |Aries|Butain|Sun|
