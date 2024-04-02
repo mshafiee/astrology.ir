@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°37'1.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°23'14.86" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°8'5.71" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|11°54'37.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°2'49.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°11'7.27" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°44'40.95" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|17°23'13.06" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°8'4.14" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|11°54'28.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°2'45.52" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°10'52.91" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°46'55.65" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°37'1.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°37'1.92" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|17°23'14.86" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°8'5.71" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|11°54'37.63" |Aries|Sharatain|Sun|

@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:43:42 |
+| Fajr (Dawn) | 05:43:41 |
 | Sunrise | 07:07:46 |
 | Dhuhr (Noon) | 13:23:04 |
 | Medium Coeli | 13:23:04 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°38'48.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°26'37.82" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°20'20.98" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°10'9.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°22'17.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°12'18.95" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°14'42.81" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|17°26'38.71" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°20'18.36" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°10'8.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°22'15.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°12'20.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°24'21.96" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°38'48.25" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°26'37.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°20'20.98" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|12°10'9.83" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|25°22'17.22" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°12'18.95" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|3°14'42.81" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|17°26'38.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°20'18.36" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|12°10'8.60" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|25°22'15.14" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°12'20.12" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|2°24'21.96" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Moon|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Aquarius|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}

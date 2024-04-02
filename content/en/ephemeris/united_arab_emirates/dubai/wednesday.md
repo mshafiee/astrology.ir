@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:51:03 |
 | Sunrise | 06:07:52 |
-| Dhuhr (Noon) | 12:21:55 |
-| Medium Coeli | 12:21:55 |
+| Dhuhr (Noon) | 12:21:54 |
+| Medium Coeli | 12:21:54 |
 | Sunset | 18:36:20 |
 | Maghrib | 18:53:40 |
 | Isha (Night) | 19:36:25 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:40 |
 | Sunrise | 06:07:52 |
-| Dhuhr (Noon) | 12:21:55 |
-| Medium Coeli | 12:21:55 |
+| Dhuhr (Noon) | 12:21:54 |
+| Medium Coeli | 12:21:54 |
 | Sunset | 18:36:20 |
 | Maghrib | 18:37:19 |
 | Isha (Night) | 19:50:05 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:47:23 |
 | Sunrise | 06:07:52 |
-| Dhuhr (Noon) | 12:21:54 |
-| Medium Coeli | 12:21:54 |
+| Dhuhr (Noon) | 12:21:55 |
+| Medium Coeli | 12:21:55 |
 | Sunset | 18:36:20 |
 | Maghrib | 18:37:19 |
 | Isha (Night) | 20:07:19 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°50'0.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°48'12.13" |Aries|Butain|Sun|
-|♂ Mars|Direct|8°38'13.51" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|13°48'52.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|27°25'58.24" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°8'32.03" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°5'12.65" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|13°50'0.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°48'12.03" |Aries|Butain|Sun|
+|♂ Mars|Direct|8°38'14.95" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|13°48'53.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|27°25'59.53" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°8'32.43" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°31'50.95" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°50'0.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°48'12.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°38'13.53" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|13°48'52.12" |Aries|Butain|Sun|
-|♀ Venus|Direct|27°25'58.27" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°8'32.05" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|26°5'23.38" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|17°48'12.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°38'13.52" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|13°48'52.10" |Aries|Butain|Sun|
+|♀ Venus|Direct|27°25'58.26" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°8'32.06" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°5'22.46" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

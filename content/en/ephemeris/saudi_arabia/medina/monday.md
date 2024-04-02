@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|06:13:06|07:15:08|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Saturn|Servant|07:15:09|08:17:11|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Saturn|Servant|07:15:09|08:17:11|Outer and inner journey|
 |3|Jupiter|Servant|08:17:12|09:19:15|Marriage connection is good|
 |4|Mars|Servant|09:19:16|10:21:18|Repelling and destroying enemies and discharging enemy energy|
 |5|Sun|Servant|10:21:19|11:23:22|Answering needs, attracting love and wealth|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°36'52.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°22'55.94" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°6'57.03" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|11°53'10.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|25°1'0.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°22'56.11" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°6'57.04" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|11°53'10.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|25°1'0.31" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°11'0.06" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°23'52.20" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|29°23'53.49" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°36'51.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°22'55.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°6'57.03" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|11°53'10.93" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|25°1'0.30" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|13°36'52.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°22'56.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°6'57.04" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|11°53'10.94" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|25°1'0.31" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°11'0.06" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|29°23'52.20" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°23'53.49" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

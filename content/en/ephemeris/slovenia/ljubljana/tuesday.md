@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°44'0.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°36'35.98" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°56'25.23" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°55'52.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|26°19'34.64" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°12'56.08" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°41'8.46" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|13°44'0.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°36'35.97" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°56'20.30" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°55'44.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|26°19'28.80" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°12'46.81" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°3'11.71" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Leo|Moon|Jupiter|
 |♀ Venus|Moon|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°44'0.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°36'35.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°56'25.23" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|12°55'52.36" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°44'0.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°36'36.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°56'25.24" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|12°55'52.37" |Aries|Butain|Sun|
 |♀ Venus|Direct|26°19'34.66" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°12'56.08" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|13°41'9.69" |Capricorn|SaadAlBula|Mars|

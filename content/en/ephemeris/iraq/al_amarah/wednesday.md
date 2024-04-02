@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:35:51|Night duration: 11:22:54|
+|Duration of the day: 12:35:52|Night duration: 11:22:53|
 |Every hour of day duration: 01:02:59|Every hour of night duration: 00:56:54|
 
  
@@ -218,26 +218,26 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|05:36:53|06:39:51|Acceptance of needs|
 |2|Moon|Servant|06:39:52|07:42:50|Unfortunate, no task is suitable|
-|3|Saturn|Servant|07:42:51|08:45:49|For overcoming diseases|
-|4|Jupiter|Servant|08:45:50|09:48:49|For all tasks, extremely auspicious|
+|3|Saturn|Servant|07:42:51|08:45:50|For overcoming diseases|
+|4|Jupiter|Servant|08:45:51|09:48:49|For all tasks, extremely auspicious|
 |5|Mars|Servant|09:48:50|10:51:48|Creating negative energy and disrupting peace|
-|6|Sun|Servant|10:51:49|11:54:47|Outer and inner journey|
-|7|Venus|Servant|11:54:48|12:57:46|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|12:57:47|14:00:46|Being invisible to the people|
-|9|Moon|Servant|14:00:47|15:03:45|Separation, causing enmity|
-|10|Saturn|Servant|15:03:46|16:06:44|Dominating the great ones|
-|11|Jupiter|Servant|16:06:45|17:09:43|Creating financial and emotional attraction and dominance|
-|12|Mars|Servant|17:09:44|18:12:43|Creating evil and hatred|
+|6|Sun|Servant|10:51:49|11:54:48|Outer and inner journey|
+|7|Venus|Servant|11:54:49|12:57:47|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|12:57:48|14:00:46|Being invisible to the people|
+|9|Moon|Servant|14:00:47|15:03:46|Separation, causing enmity|
+|10|Saturn|Servant|15:03:47|16:06:45|Dominating the great ones|
+|11|Jupiter|Servant|16:06:46|17:09:44|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|17:09:45|18:12:44|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|18:12:44|19:09:37|Acceptance of needs|
-|2|Venus|Servant|19:09:38|20:06:32|Unfortunate, no task is suitable|
-|3|Mercury|Servant|20:06:33|21:03:26|For overcoming diseases|
-|4|Moon|Servant|21:03:27|22:00:21|For all tasks, extremely auspicious|
-|5|Saturn|Servant|22:00:22|22:57:15|Creating negative energy and disrupting peace|
-|6|Jupiter|Servant|22:57:16|23:54:10|Outer and inner journey|
+|1|Sun|Ruler|18:12:45|19:09:38|Acceptance of needs|
+|2|Venus|Servant|19:09:39|20:06:32|Unfortunate, no task is suitable|
+|3|Mercury|Servant|20:06:33|21:03:27|For overcoming diseases|
+|4|Moon|Servant|21:03:28|22:00:21|For all tasks, extremely auspicious|
+|5|Saturn|Servant|22:00:22|22:57:16|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|22:57:17|23:54:10|Outer and inner journey|
 |7|Mars|Servant|23:54:11|00:51:04|Attracting love and hearts and fortune|
 |8|Sun|Ruler|00:51:05|01:47:59|Being invisible to the people|
 |9|Venus|Servant|01:48:00|02:44:53|Separation, causing enmity|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°50'8.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°48'27.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°39'9.64" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|13°50'2.81" |Aries|Butain|Sun|
-|♀ Venus|Direct|27°27'27.43" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|17°48'27.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°39'9.65" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|13°50'2.83" |Aries|Butain|Sun|
+|♀ Venus|Direct|27°27'27.45" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°8'21.08" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|26°21'9.17" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|26°21'10.08" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

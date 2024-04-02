@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:42:56|07:47:12|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Moon|Ruler|06:42:56|07:47:12|Repelling magic, attracting discharged energy|
 |2|Saturn|Servant|07:47:13|08:51:30|Outer and inner journey|
 |3|Jupiter|Servant|08:51:31|09:55:48|Marriage connection is good|
 |4|Mars|Servant|09:55:49|11:00:06|Repelling and destroying enemies and discharging enemy energy|
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°37'0.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°23'11.73" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°37'0.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°23'11.56" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°7'53.88" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|11°54'21.58" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|25°2'30.73" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°37'0.01" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|17°23'11.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°7'54.34" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|11°54'21.26" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|25°2'30.92" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°11'1.85" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|29°59'48.52" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|17°23'11.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°7'53.87" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|11°54'21.57" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|25°2'30.72" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°11'3.10" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|29°44'32.94" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
