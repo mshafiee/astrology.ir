@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:03:20|Night duration: 09:53:06|
+|Duration of the day: 14:03:20|Night duration: 09:53:07|
 |Every hour of day duration: 01:10:17|Every hour of night duration: 00:49:26|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|23:00:59|23:50:24|Unfortunate hour|
 |5|Moon|Servant|23:50:25|00:39:49|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|00:39:50|01:29:15|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|01:29:16|02:18:40|Promotion and attracting wealth|
-|8|Mars|Ruler|02:18:41|03:08:06|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|03:08:07|03:57:31|Causing separation and homelessness|
-|10|Venus|Servant|03:57:32|04:46:57|Extremely unfortunate|
-|11|Mercury|Servant|04:46:58|05:36:22|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:36:23|06:25:48|Suitable for asking for a need|
+|7|Jupiter|Servant|01:29:16|02:18:41|Promotion and attracting wealth|
+|8|Mars|Ruler|02:18:42|03:08:06|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|03:08:07|03:57:32|Causing separation and homelessness|
+|10|Venus|Servant|03:57:33|04:46:57|Extremely unfortunate|
+|11|Mercury|Servant|04:46:58|05:36:23|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:36:24|06:25:49|Suitable for asking for a need|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:03:20|Night duration: 09:53:07|
+|Duration of the day: 14:03:20|Night duration: 09:53:06|
 |Every hour duration: 02:00:29|Every hour duration: 01:24:44|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mars|Ruler|20:32:43|21:57:25|
 |Late evening|Sun|Servant|21:57:26|23:22:09|
 |Midnight|Venus|Servant|23:22:10|00:46:53|
-|Late at night|Mercury|Servant|00:46:54|02:11:37|
-|Rooster song|Moon|Servant|02:11:38|03:36:21|
-|False Dawn|Saturn|Servant|03:36:22|05:01:05|
-|Dawn|Jupiter|Servant|05:01:06|06:25:49|
+|Late at night|Mercury|Servant|00:46:54|02:11:36|
+|Rooster song|Moon|Servant|02:11:37|03:36:20|
+|False Dawn|Saturn|Servant|03:36:21|05:01:04|
+|Dawn|Jupiter|Servant|05:01:05|06:25:48|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°4'30.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°4'29.95" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|18°16'39.02" |Aries|Butain|Sun|
 |♂ Mars|Direct|10°20'2.38" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|15°57'45.58" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|0°7'41.23" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|26°35'24.08" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°8'57.25" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|27°8'57.52" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°4'30.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°16'39.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°20'2.38" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|15°57'45.58" |Aries|Butain|Sun|
-|♀ Venus|Direct|0°7'41.23" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|26°35'24.08" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|27°8'57.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|14°4'29.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°16'38.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°20'2.36" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|15°57'45.56" |Aries|Butain|Sun|
+|♀ Venus|Direct|0°7'41.20" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|26°35'24.10" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|27°8'57.52" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

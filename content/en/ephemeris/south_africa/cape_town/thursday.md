@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°57'28.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'47.46" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°30'32.48" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|14°55'9.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|28°49'3.66" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|26°55'25.40" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°11'8.21" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|18°2'47.59" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°30'30.73" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|14°55'8.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|28°49'2.10" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|26°55'24.70" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°38'36.49" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°57'28.95" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°2'47.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°30'32.48" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|14°55'9.43" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°57'28.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°2'47.29" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°30'32.47" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|14°55'9.41" |Aries|Butain|Sun|
 |♀ Venus|Direct|28°49'3.66" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|26°55'25.40" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|12°11'8.21" |Aquarius|SaadAlAkhbia|Mercury|

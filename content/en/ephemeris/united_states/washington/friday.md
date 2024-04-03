@@ -106,8 +106,8 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:10:37 |
 | Sunset | 19:36:21 |
 | Maghrib | 19:37:30 |
-| Isha (Night) | 21:07:14 |
-| Sharia Midnight | 00:19:05 |
+| Isha (Night) | 21:07:15 |
+| Sharia Midnight | 00:19:04 |
 | Imum Coeli | 01:10:28 |
 {{< /tab >}}
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°12'14.95" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°32'6.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°14'59.63" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|17°7'20.38" |Aries|Butain|Sun|
-|♀ Venus|Direct|1°34'58.53" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|26°5'54.58" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|14°58'5.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|11°14'59.64" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|17°7'20.40" |Aries|Butain|Sun|
+|♀ Venus|Direct|1°34'58.56" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|26°5'54.57" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|14°58'3.89" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

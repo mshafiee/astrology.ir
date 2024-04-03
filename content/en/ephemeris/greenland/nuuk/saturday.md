@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:24:40 |
 | Dhuhr (Noon) | 14:29:05 |
 | Medium Coeli | 14:29:05 |
-| Sunset | 21:35:28 |
+| Sunset | 21:35:27 |
 | Maghrib | 21:37:36 |
 | Isha (Night) | 01:22:42 |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:24:40 |
 | Dhuhr (Noon) | 14:29:05 |
 | Medium Coeli | 14:29:05 |
-| Sunset | 21:35:27 |
+| Sunset | 21:35:28 |
 | Maghrib | 21:37:36 |
 | Isha (Night) | 01:40:40 |
 | Sharia Midnight | 00:25:49 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 07:24:40 |
 | Dhuhr (Noon) | 14:29:05 |
 | Medium Coeli | 14:29:05 |
-| Sunset | 21:35:27 |
+| Sunset | 21:35:28 |
 | Maghrib | 21:37:36 |
 | Isha (Night) | 23:07:36 |
 | Sharia Midnight | 00:10:03 |
@@ -210,36 +210,36 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:10:48|Night duration: 09:45:38|
+|Duration of the day: 14:10:47|Night duration: 09:45:39|
 |Every hour of day duration: 01:10:54|Every hour of night duration: 00:48:48|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|07:24:40|08:35:33|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|08:35:34|09:46:27|Peace among people|
-|3|Mars|Servant|09:46:28|10:57:21|Vengeful and evil deeds|
-|4|Sun|Servant|10:57:22|12:08:15|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|12:08:16|13:19:09|Auspicious|
-|6|Mercury|Servant|13:19:10|14:30:03|Writing, swapping and making promises|
-|7|Moon|Servant|14:30:04|15:40:57|Not suitable for any task|
-|8|Saturn|Ruler|15:40:58|16:51:51|Destruction of enemies|
-|9|Jupiter|Servant|16:51:52|18:02:45|All good deeds|
-|10|Mars|Servant|18:02:46|19:13:39|Doing evil deeds|
-|11|Sun|Servant|19:13:40|20:24:33|Acceptance of reconciliation between couples|
-|12|Venus|Servant|20:24:34|21:35:27|For gaining dignity|
+|1|Saturn|Ruler|07:24:40|08:35:32|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|08:35:33|09:46:26|Peace among people|
+|3|Mars|Servant|09:46:27|10:57:20|Vengeful and evil deeds|
+|4|Sun|Servant|10:57:21|12:08:14|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|12:08:15|13:19:08|Auspicious|
+|6|Mercury|Servant|13:19:09|14:30:02|Writing, swapping and making promises|
+|7|Moon|Servant|14:30:03|15:40:56|Not suitable for any task|
+|8|Saturn|Ruler|15:40:57|16:51:50|Destruction of enemies|
+|9|Jupiter|Servant|16:51:51|18:02:44|All good deeds|
+|10|Mars|Servant|18:02:45|19:13:38|Doing evil deeds|
+|11|Sun|Servant|19:13:39|20:24:32|Acceptance of reconciliation between couples|
+|12|Venus|Servant|20:24:33|21:35:26|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|21:35:28|22:24:15|Related to talismans, amulets and responses|
-|2|Moon|Servant|22:24:16|23:13:03|Peace among people|
-|3|Saturn|Servant|23:13:04|00:01:51|Vengeful and evil deeds|
-|4|Jupiter|Servant|00:01:52|00:50:39|Dominance, judgment and issuing verdict|
+|1|Mercury|Ruler|21:35:27|22:24:14|Related to talismans, amulets and responses|
+|2|Moon|Servant|22:24:15|23:13:02|Peace among people|
+|3|Saturn|Servant|23:13:03|00:01:50|Vengeful and evil deeds|
+|4|Jupiter|Servant|00:01:51|00:50:39|Dominance, judgment and issuing verdict|
 |5|Mars|Servant|00:50:40|01:39:27|Auspicious|
-|6|Sun|Servant|01:39:28|02:28:16|Writing, swapping and making promises|
-|7|Venus|Servant|02:28:17|03:17:04|Not suitable for any task|
-|8|Mercury|Ruler|03:17:05|04:05:52|Destruction of enemies|
+|6|Sun|Servant|01:39:28|02:28:15|Writing, swapping and making promises|
+|7|Venus|Servant|02:28:16|03:17:03|Not suitable for any task|
+|8|Mercury|Ruler|03:17:04|04:05:52|Destruction of enemies|
 |9|Moon|Servant|04:05:53|04:54:40|All good deeds|
 |10|Saturn|Servant|04:54:41|05:43:28|Doing evil deeds|
 |11|Jupiter|Servant|05:43:29|06:32:16|Acceptance of reconciliation between couples|
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:10:48|Night duration: 09:45:38|
-|Every hour duration: 02:01:33|Every hour duration: 01:23:40|
+|Duration of the day: 14:10:47|Night duration: 09:45:39|
+|Every hour duration: 02:01:32|Every hour duration: 01:23:40|
 
  
  
@@ -265,20 +265,20 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Saturn|Ruler|07:24:40|09:26:11|
-|Mid-morning|Jupiter|Servant|09:26:12|11:27:44|
-|Late morning|Mars|Servant|11:27:45|13:29:16|
-|Noon|Sun|Servant|13:29:17|15:30:49|
-|Early afternoon|Venus|Servant|15:30:50|17:32:21|
-|Mid-afternoon|Mercury|Servant|17:32:22|19:33:54|
-|Late afternoon|Moon|Servant|19:33:55|21:35:27|
+|Mid-morning|Jupiter|Servant|09:26:12|11:27:43|
+|Late morning|Mars|Servant|11:27:44|13:29:16|
+|Noon|Sun|Servant|13:29:17|15:30:48|
+|Early afternoon|Venus|Servant|15:30:49|17:32:21|
+|Mid-afternoon|Mercury|Servant|17:32:22|19:33:53|
+|Late afternoon|Moon|Servant|19:33:54|21:35:26|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|21:35:28|22:59:06|
-|Late evening|Moon|Servant|22:59:07|00:22:46|
-|Midnight|Saturn|Servant|00:22:47|01:46:26|
-|Late at night|Jupiter|Servant|01:46:27|03:10:05|
+|Evening|Mercury|Ruler|21:35:27|22:59:05|
+|Late evening|Moon|Servant|22:59:06|00:22:45|
+|Midnight|Saturn|Servant|00:22:46|01:46:25|
+|Late at night|Jupiter|Servant|01:46:26|03:10:05|
 |Rooster song|Mars|Servant|03:10:06|04:33:45|
 |False Dawn|Sun|Servant|04:33:46|05:57:25|
 |Dawn|Venus|Servant|05:57:26|07:21:05|
