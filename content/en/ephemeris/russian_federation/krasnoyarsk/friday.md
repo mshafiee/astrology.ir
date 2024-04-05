@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:51:08 |
 | Medium Coeli | 12:51:08 |
 | Sunset | 19:35:33 |
-| Maghrib | 19:38:33 |
+| Maghrib | 19:38:34 |
 | Isha (Night) | 21:30:22 |
 | Sharia Midnight | 23:53:09 |
 | Imum Coeli | 00:50:59 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:51:08 |
 | Medium Coeli | 12:51:08 |
 | Sunset | 19:35:33 |
-| Maghrib | 19:38:33 |
+| Maghrib | 19:38:34 |
 | Isha (Night) | 21:53:56 |
 | Sharia Midnight | 23:31:06 |
 | Imum Coeli | 00:50:59 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:51:08 |
 | Medium Coeli | 12:51:08 |
 | Sunset | 19:35:33 |
-| Maghrib | 19:38:33 |
+| Maghrib | 19:38:34 |
 | Isha (Night) | 21:58:55 |
 | Sharia Midnight | 23:38:53 |
 | Imum Coeli | 00:50:59 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°25'43.71" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|10°52'20.03" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|16°38'38.69" |Aries|Butain|Sun|
-|♀ Venus|Direct|0°58'58.96" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|26°18'57.53" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|7°28'40.84" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|0°58'53.13" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|26°18'41.42" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|6°42'35.33" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

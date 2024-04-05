@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:17:35 |
 | Isha (Night) | 19:24:08 |
 | Sharia Midnight | 23:29:45 |
-| Imum Coeli | 00:08:19 |
+| Imum Coeli | 00:08:20 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°17'30.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°42'43.23" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°17'30.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°42'43.40" |Aries|Butain|Sun|
 |♂ Mars|Direct|11°52'32.20" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°54'51.94" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|2°34'36.73" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|25°41'39.06" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°27'33.55" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°54'52.07" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|2°34'36.79" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|25°41'39.24" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|27°27'40.74" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

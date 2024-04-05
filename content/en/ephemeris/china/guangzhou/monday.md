@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:02:33 |
 | Isha (Night) | 19:44:53 |
 | Sharia Midnight | 23:50:24 |
-| Imum Coeli | 00:28:38 |
+| Imum Coeli | 00:28:39 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:46:22 |
 | Isha (Night) | 19:58:26 |
 | Sharia Midnight | 23:49:43 |
-| Imum Coeli | 00:28:38 |
+| Imum Coeli | 00:28:39 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:46:22 |
 | Isha (Night) | 20:00:42 |
 | Sharia Midnight | 23:46:18 |
-| Imum Coeli | 00:28:38 |
+| Imum Coeli | 00:28:39 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°28'21.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°28'21.67" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|19°4'53.34" |Aries|Butain|Sun|
 |♂ Mars|Direct|13°10'36.19" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|19°33'34.69" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|4°38'38.60" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|24°41'51.38" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|22°30'33.35" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|22°30'31.50" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°28'21.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°4'53.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°10'36.18" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|19°33'34.66" |Aries|Butain|Sun|
-|♀ Venus|Direct|4°38'38.57" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|24°41'51.40" |Aries|Butain|Venus|
-|☾ Moon|Direct|22°30'33.35" |Aries|Butain|Venus|
+|♄ Saturn|Direct|14°28'21.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°4'53.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°10'36.19" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|19°33'34.69" |Aries|Butain|Sun|
+|♀ Venus|Direct|4°38'38.60" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|24°41'51.38" |Aries|Butain|Venus|
+|☾ Moon|Direct|22°30'31.50" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
