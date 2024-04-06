@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°56'14.82" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|20°31'17.68" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|5°51'10.21" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|24°2'27.23" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°16'18.55" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|24°2'9.13" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°59'7.87" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|19°17'55.10" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|13°56'14.82" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|20°31'17.68" |Aries|Butain|Venus|
-|♀ Venus|Direct|5°51'10.21" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|24°2'27.23" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°16'18.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|5°51'4.56" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|24°2'9.13" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°59'7.87" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
