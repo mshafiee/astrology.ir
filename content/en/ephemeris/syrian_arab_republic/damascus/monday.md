@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:36:33 |
 | Medium Coeli | 12:36:33 |
 | Sunset | 19:00:38 |
-| Maghrib | 19:05:12 |
+| Maghrib | 19:05:11 |
 | Isha (Night) | 20:22:43 |
 | Sharia Midnight | 23:52:34 |
 | Imum Coeli | 00:36:25 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:36:33 |
 | Medium Coeli | 12:36:33 |
 | Sunset | 19:00:38 |
-| Maghrib | 19:05:12 |
+| Maghrib | 19:05:11 |
 | Isha (Night) | 20:27:54 |
 | Sharia Midnight | 23:52:34 |
 | Imum Coeli | 00:36:25 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:36:33 |
 | Sunset | 19:00:38 |
 | Maghrib | 19:05:12 |
-| Isha (Night) | 20:35:12 |
+| Isha (Night) | 20:35:11 |
 | Sharia Midnight | 23:51:16 |
 | Imum Coeli | 00:36:25 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°23'14.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°54'23.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°33'42.39" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|18°46'54.77" |Aries|Butain|Sun|
-|♀ Venus|Direct|3°40'1.35" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|25°11'25.74" |Aries|Butain|Venus|
-|☾ Moon|Direct|10°26'44.92" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|18°54'23.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°33'42.57" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|18°46'55.10" |Aries|Butain|Sun|
+|♀ Venus|Direct|3°40'1.57" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|25°11'26.23" |Aries|Butain|Venus|
+|☾ Moon|Direct|9°48'54.08" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mars|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}

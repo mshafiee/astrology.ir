@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:32:03 |
 | Sunset | 19:55:54 |
 | Maghrib | 19:57:59 |
-| Isha (Night) | 21:17:23 |
+| Isha (Night) | 21:17:22 |
 | Sharia Midnight | 00:46:00 |
 | Imum Coeli | 01:31:56 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°44'51.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°39'20.30" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°44'51.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°39'20.13" |Aries|Butain|Sun|
 |♂ Mars|Direct|15°10'55.93" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|22°5'38.10" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|7°49'52.10" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°52'54.29" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°57'53.43" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°5'38.08" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|7°49'52.07" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|22°52'54.32" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°57'53.57" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°44'51.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°39'20.30" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°44'51.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°39'20.13" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°10'55.93" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|22°5'38.10" |Aries|Butain|Venus|
-|♀ Venus|Direct|7°49'52.10" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|22°52'54.29" |Aries|Butain|Venus|
-|☾ Moon|Direct|29°57'53.43" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°5'38.08" |Aries|Butain|Venus|
+|♀ Venus|Direct|7°49'52.07" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°52'54.32" |Aries|Butain|Venus|
+|☾ Moon|Direct|29°57'53.57" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

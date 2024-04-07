@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:24:40 |
 | Dhuhr (Noon) | 14:29:05 |
 | Medium Coeli | 14:29:05 |
-| Sunset | 21:35:28 |
+| Sunset | 21:35:27 |
 | Maghrib | 21:37:36 |
 | Isha (Night) | 01:40:40 |
 | Sharia Midnight | 00:25:49 |
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:10:48|Night duration: 09:45:38|
-|Every hour duration: 02:01:33|Every hour duration: 01:23:40|
+|Duration of the day: 14:10:47|Night duration: 09:45:39|
+|Every hour duration: 02:01:32|Every hour duration: 01:23:40|
 
  
  
@@ -265,20 +265,20 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Saturn|Ruler|07:24:40|09:26:11|
-|Mid-morning|Jupiter|Servant|09:26:12|11:27:44|
-|Late morning|Mars|Servant|11:27:45|13:29:16|
-|Noon|Sun|Servant|13:29:17|15:30:49|
-|Early afternoon|Venus|Servant|15:30:50|17:32:21|
-|Mid-afternoon|Mercury|Servant|17:32:22|19:33:54|
-|Late afternoon|Moon|Servant|19:33:55|21:35:27|
+|Mid-morning|Jupiter|Servant|09:26:12|11:27:43|
+|Late morning|Mars|Servant|11:27:44|13:29:16|
+|Noon|Sun|Servant|13:29:17|15:30:48|
+|Early afternoon|Venus|Servant|15:30:49|17:32:21|
+|Mid-afternoon|Mercury|Servant|17:32:22|19:33:53|
+|Late afternoon|Moon|Servant|19:33:54|21:35:26|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|21:35:28|22:59:06|
-|Late evening|Moon|Servant|22:59:07|00:22:46|
-|Midnight|Saturn|Servant|00:22:47|01:46:26|
-|Late at night|Jupiter|Servant|01:46:27|03:10:05|
+|Evening|Mercury|Ruler|21:35:27|22:59:05|
+|Late evening|Moon|Servant|22:59:06|00:22:45|
+|Midnight|Saturn|Servant|00:22:46|01:46:25|
+|Late at night|Jupiter|Servant|01:46:26|03:10:05|
 |Rooster song|Mars|Servant|03:10:06|04:33:45|
 |False Dawn|Sun|Servant|04:33:46|05:57:25|
 |Dawn|Venus|Servant|05:57:26|07:21:05|

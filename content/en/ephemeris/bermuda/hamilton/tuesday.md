@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°37'54.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°24'43.32" |Aries|Butain|Sun|
-|♂ Mars|Direct|14°20'1.35" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|21°1'18.74" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|6°28'57.35" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|23°40'25.28" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°14'7.41" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°37'54.60" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°24'43.15" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°20'1.34" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°1'18.72" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|6°28'57.31" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|23°40'45.81" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°20'35.25" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°37'54.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°24'43.32" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°24'43.15" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°19'54.93" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|21°1'6.46" |Aries|Butain|Venus|
 |♀ Venus|Direct|6°28'49.35" |Aries|Sharatain|Mars|

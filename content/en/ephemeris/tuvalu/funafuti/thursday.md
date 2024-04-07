@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:03:02 |
+| Fajr (Dawn) | 05:03:01 |
 | Sunrise | 06:05:46 |
 | Dhuhr (Noon) | 12:04:15 |
 | Medium Coeli | 12:04:15 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|19°42'41.01" |Aries|Butain|Sun|
 |♂ Mars|Direct|15°22'32.91" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|22°20'20.08" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°8'19.80" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°41'51.91" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°42'47.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|8°8'11.04" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|22°41'25.01" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°3'0.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°46'26.15" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°42'41.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°22'32.91" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|22°20'20.08" |Aries|Butain|Venus|
-|♀ Venus|Direct|8°8'19.80" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|22°41'51.91" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°42'47.34" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|14°46'26.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°42'38.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°22'27.74" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|22°20'4.36" |Aries|Butain|Venus|
+|♀ Venus|Direct|8°8'11.07" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°41'24.98" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°3'0.43" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
