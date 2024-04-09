@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:46:22 |
 | Isha (Night) | 19:49:23 |
 | Sharia Midnight | 23:56:30 |
-| Imum Coeli | 00:28:38 |
+| Imum Coeli | 00:28:39 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:46:22 |
 | Isha (Night) | 20:00:42 |
 | Sharia Midnight | 23:46:18 |
-| Imum Coeli | 00:28:38 |
+| Imum Coeli | 00:28:39 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:46:22 |
 | Isha (Night) | 20:16:22 |
 | Sharia Midnight | 23:48:34 |
-| Imum Coeli | 00:28:38 |
+| Imum Coeli | 00:28:39 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°28'21.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°4'53.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°10'35.70" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|19°33'33.28" |Aries|Butain|Sun|
-|♀ Venus|Direct|4°38'37.81" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|24°41'49.03" |Aries|Butain|Venus|
-|☾ Moon|Direct|22°20'48.24" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|19°4'53.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°10'36.19" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|19°33'34.69" |Aries|Butain|Sun|
+|♀ Venus|Direct|4°38'38.60" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|24°41'51.38" |Aries|Butain|Venus|
+|☾ Moon|Direct|22°30'31.50" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Sun|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}

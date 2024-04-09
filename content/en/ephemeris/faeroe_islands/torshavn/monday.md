@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 13:28:46 |
 | Medium Coeli | 13:28:46 |
 | Sunset | 20:34:46 |
-| Maghrib | 21:10:37 |
+| Maghrib | 21:10:38 |
 | Isha (Night) | 22:54:34 |
 | Sharia Midnight | 23:48:26 |
 | Imum Coeli | 01:28:38 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°23'49.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°55'35.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°37'56.55" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|18°52'14.25" |Aries|Butain|Sun|
-|♀ Venus|Direct|3°46'45.31" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|25°8'1.27" |Aries|Butain|Venus|
-|☾ Moon|Direct|11°22'55.56" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|18°55'37.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°37'57.80" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|18°52'20.40" |Aries|Butain|Sun|
+|♀ Venus|Direct|3°46'48.30" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|25°8'11.97" |Aries|Butain|Venus|
+|☾ Moon|Direct|12°0'23.14" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

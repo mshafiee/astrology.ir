@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°34'27.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°17'31.13" |Aries|Butain|Sun|
-|♂ Mars|Direct|13°54'51.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|20°29'30.39" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|5°48'57.67" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|24°3'33.28" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°22'37.87" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|19°17'29.58" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°54'48.42" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|20°29'21.08" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|5°48'52.74" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|24°3'18.08" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°19'0.88" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°34'27.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°17'31.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°54'51.43" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|20°29'30.39" |Aries|Butain|Venus|
-|♀ Venus|Direct|5°48'57.87" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|24°3'33.91" |Aries|Butain|Venus|
-|☾ Moon|Direct|6°25'20.82" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|19°17'29.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°54'48.42" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|20°29'21.08" |Aries|Butain|Venus|
+|♀ Venus|Direct|5°48'52.74" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|24°3'18.08" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°19'0.88" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

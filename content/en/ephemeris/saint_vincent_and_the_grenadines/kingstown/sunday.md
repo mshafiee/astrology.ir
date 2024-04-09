@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:31:17 |
 | Isha (Night) | 19:12:59 |
 | Sharia Midnight | 23:34:32 |
-| Imum Coeli | 00:06:41 |
+| Imum Coeli | 00:06:42 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:18:09 |
 | Isha (Night) | 19:17:11 |
 | Sharia Midnight | 23:36:38 |
-| Imum Coeli | 00:06:41 |
+| Imum Coeli | 00:06:42 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:18:09 |
 | Isha (Night) | 19:29:46 |
 | Sharia Midnight | 23:30:20 |
-| Imum Coeli | 00:06:41 |
+| Imum Coeli | 00:06:42 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:18:09 |
 | Isha (Night) | 19:48:09 |
 | Sharia Midnight | 23:29:17 |
-| Imum Coeli | 00:06:41 |
+| Imum Coeli | 00:06:42 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°25'3.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°58'4.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°46'44.78" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|19°3'17.81" |Aries|Butain|Sun|
-|♀ Venus|Direct|4°0'47.41" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|25°1'16.76" |Aries|Butain|Venus|
-|☾ Moon|Direct|14°57'40.03" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|18°58'6.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°46'46.81" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|19°3'27.89" |Aries|Butain|Sun|
+|♀ Venus|Direct|4°0'47.44" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|25°1'16.74" |Aries|Butain|Venus|
+|☾ Moon|Direct|14°57'38.03" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
