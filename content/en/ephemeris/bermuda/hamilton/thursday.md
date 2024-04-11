@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°53'10.64" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|22°58'59.38" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°57'1.25" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°12'4.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°4'52.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|22°12'6.02" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°29'43.20" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|19°51'30.65" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°53'10.64" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|22°58'59.38" |Aries|Butain|Venus|
-|♀ Venus|Direct|8°56'59.75" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|22°12'4.33" |Aries|Butain|Venus|
-|☾ Moon|Direct|13°4'52.02" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|8°57'1.25" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°12'6.02" |Aries|Butain|Venus|
+|☾ Moon|Direct|12°29'43.20" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Capricorn|Moon|Saturn|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}

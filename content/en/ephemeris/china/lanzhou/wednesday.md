@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:51:32 |
 | Isha (Night) | 20:43:29 |
 | Sharia Midnight | 00:25:19 |
-| Imum Coeli | 01:05:45 |
+| Imum Coeli | 01:05:44 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:39:06 |
 | Isha (Night) | 20:59:37 |
 | Sharia Midnight | 00:19:53 |
-| Imum Coeli | 01:05:45 |
+| Imum Coeli | 01:05:44 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:39:06 |
 | Isha (Night) | 21:09:06 |
 | Sharia Midnight | 00:18:31 |
-| Imum Coeli | 01:05:45 |
+| Imum Coeli | 01:05:44 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°41'16.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°31'47.80" |Aries|Butain|Sun|
-|♂ Mars|Direct|14°44'41.44" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|21°32'28.67" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|7°8'9.64" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|23°17'47.56" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°55'4.47" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|19°31'47.76" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°44'41.02" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°32'28.54" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|7°8'9.37" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|23°17'47.45" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°58'45.66" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°41'16.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°41'16.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|19°31'47.80" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°44'41.44" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|21°32'28.67" |Aries|Butain|Venus|

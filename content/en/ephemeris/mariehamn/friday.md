@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°48'54.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°47'56.13" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°40'47.31" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|22°43'18.67" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°37'19.82" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°23'58.74" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|8°32'50.59" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|19°47'57.19" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°40'50.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|22°43'26.34" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°37'24.23" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|22°24'11.94" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|9°12'39.86" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°48'54.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°47'56.13" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°48'54.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°47'55.96" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°40'47.31" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|22°43'18.67" |Aries|Butain|Venus|
-|♀ Venus|Direct|8°37'19.82" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|22°23'58.74" |Aries|Butain|Venus|
-|☾ Moon|Direct|8°32'50.59" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|22°43'18.64" |Aries|Butain|Venus|
+|♀ Venus|Direct|8°37'19.79" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°23'58.77" |Aries|Butain|Venus|
+|☾ Moon|Direct|8°32'50.55" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

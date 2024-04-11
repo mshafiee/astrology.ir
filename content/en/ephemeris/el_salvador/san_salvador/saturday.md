@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°3'32.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°19'32.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|17°29'57.70" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|25°1'11.47" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|11°30'54.38" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°38'39.53" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|9°55'57.93" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|20°19'32.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°29'52.20" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|25°1'4.32" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|11°30'48.99" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|20°38'25.68" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|10°38'36.65" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Jupiter|Moon|Sun|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°3'32.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°19'32.61" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°19'32.55" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|17°29'52.20" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|25°1'4.32" |Aries|Butain|Venus|
 |♀ Venus|Direct|11°30'48.99" |Aries|Sharatain|Sun|

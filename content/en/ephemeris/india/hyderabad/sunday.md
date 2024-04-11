@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:39:13 |
-| Sunrise | 06:00:51 |
+| Sunrise | 06:00:50 |
 | Dhuhr (Noon) | 12:16:22 |
 | Medium Coeli | 12:16:22 |
 | Sunset | 18:32:09 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:36 |
-| Sunrise | 06:00:51 |
+| Sunrise | 06:00:50 |
 | Dhuhr (Noon) | 12:16:22 |
 | Medium Coeli | 12:16:22 |
 | Sunset | 18:32:09 |
@@ -210,23 +210,23 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:31:18|Night duration: 11:27:59|
+|Duration of the day: 12:31:19|Night duration: 11:27:59|
 |Every hour of day duration: 01:02:37|Every hour of night duration: 00:57:20|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:00:51|07:03:26|Love and attraction of capital|
-|2|Venus|Servant|07:03:27|08:06:03|Unfortunate, no task is suitable|
-|3|Mercury|Servant|08:06:04|09:08:39|Operations of tenderness and attraction of love|
-|4|Moon|Servant|09:08:40|10:11:16|Unfortunate and repelling goodness|
-|5|Saturn|Servant|10:11:17|11:13:52|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|11:13:53|12:16:29|Suitable for all good deeds|
-|7|Mars|Servant|12:16:30|13:19:05|No task is suitable, causes misfortune|
-|8|Sun|Ruler|13:19:06|14:21:42|Extremely auspicious and attracts happiness|
-|9|Venus|Servant|14:21:43|15:24:18|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Mercury|Servant|15:24:19|16:26:55|Attracting happiness, solving financial problems|
-|11|Moon|Servant|16:26:56|17:29:31|Performing promises|
+|1|Sun|Ruler|06:00:50|07:03:25|Love and attraction of capital|
+|2|Venus|Servant|07:03:26|08:06:02|Unfortunate, no task is suitable|
+|3|Mercury|Servant|08:06:03|09:08:38|Operations of tenderness and attraction of love|
+|4|Moon|Servant|09:08:39|10:11:15|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:11:16|11:13:51|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:13:52|12:16:28|Suitable for all good deeds|
+|7|Mars|Servant|12:16:29|13:19:05|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:19:06|14:21:41|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|14:21:42|15:24:18|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|15:24:19|16:26:54|Attracting happiness, solving financial problems|
+|11|Moon|Servant|16:26:55|17:29:31|Performing promises|
 |12|Saturn|Servant|17:29:32|18:32:08|Finding the fugitive and discovering the thief|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°0'38.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°13'13.24" |Aries|Butain|Venus|
-|♂ Mars|Direct|17°8'11.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|24°33'42.57" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°56'17.06" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°59'25.42" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°56'22.58" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|15°0'38.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°13'13.06" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°8'11.37" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|24°33'42.53" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°56'16.98" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|20°59'25.48" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°56'21.78" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°0'38.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°13'13.24" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°8'11.40" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|24°33'42.57" |Aries|Butain|Venus|
-|♀ Venus|Direct|10°56'17.06" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°59'25.42" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°56'22.58" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|15°0'38.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°13'13.06" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°8'11.37" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|24°33'42.51" |Aries|Butain|Venus|
+|♀ Venus|Direct|10°56'16.98" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°59'25.48" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°56'21.78" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

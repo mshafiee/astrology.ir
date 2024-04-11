@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:09:22 |
+| Fajr (Dawn) | 05:09:21 |
 | Sunrise | 06:12:50 |
 | Dhuhr (Noon) | 12:08:57 |
 | Medium Coeli | 12:08:57 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°50'56.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°52'16.11" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°55'47.65" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|23°2'19.42" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°1'10.68" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°9'41.00" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°30'12.56" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°52'16.20" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°55'47.50" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|23°2'19.54" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°1'10.63" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|22°9'41.19" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°34'4.42" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°50'56.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°52'16.11" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°50'55.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°52'15.94" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°55'47.65" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|23°2'19.42" |Aries|Butain|Venus|
-|♀ Venus|Direct|9°1'10.68" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|22°9'41.00" |Aries|Butain|Venus|
-|☾ Moon|Direct|13°30'12.56" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°2'19.40" |Aries|Butain|Venus|
+|♀ Venus|Direct|9°1'10.65" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°9'41.03" |Aries|Butain|Venus|
+|☾ Moon|Direct|13°30'12.48" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

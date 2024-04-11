@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:06:40 |
 | Medium Coeli | 12:06:40 |
 | Sunset | 18:37:50 |
-| Maghrib | 18:43:09 |
+| Maghrib | 18:43:08 |
 | Isha (Night) | 19:51:53 |
 | Sharia Midnight | 23:29:18 |
 | Imum Coeli | 00:06:33 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°11'15.38" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|24°37'33.82" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|11°1'9.73" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°56'25.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°41'34.69" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|20°56'24.70" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°43'9.35" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°1'3.44" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°14'6.59" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°11'15.63" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|24°37'34.15" |Aries|Butain|Venus|
-|♀ Venus|Direct|11°1'9.98" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°56'25.33" |Aries|Butain|Venus|
-|☾ Moon|Direct|4°41'34.69" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|20°14'6.41" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°11'15.39" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|24°37'33.80" |Aries|Butain|Venus|
+|♀ Venus|Direct|11°1'9.70" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°56'24.73" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°43'9.31" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
