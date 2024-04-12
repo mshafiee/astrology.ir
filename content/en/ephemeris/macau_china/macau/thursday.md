@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°47'29.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°44'56.37" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°30'23.19" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|22°30'12.95" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°20'47.43" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°34'13.65" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°51'46.91" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|19°44'54.26" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°30'19.76" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|22°30'1.80" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°20'41.33" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|22°33'54.65" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°39'19.73" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°47'29.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°44'56.37" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°47'29.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°44'56.20" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°30'23.19" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|22°30'12.95" |Aries|Butain|Venus|
-|♀ Venus|Direct|8°20'47.43" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|22°34'13.65" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°30'12.93" |Aries|Butain|Venus|
+|♀ Venus|Direct|8°20'47.40" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°34'13.68" |Aries|Butain|Venus|
 |☾ Moon|Direct|5°51'46.91" |Gemini|HanAh|Jupiter|
 
 

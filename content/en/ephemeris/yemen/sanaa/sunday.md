@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°1'14.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°14'31.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|17°12'41.14" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|24°39'11.75" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|11°3'18.49" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°54'46.55" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°20'42.12" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|20°14'31.25" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°12'42.41" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|24°39'24.14" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|11°3'26.96" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|20°55'9.38" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°55'31.86" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°1'14.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°14'31.54" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|15°1'14.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°14'31.37" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|17°12'41.14" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|24°39'23.14" |Aries|Butain|Venus|
-|♀ Venus|Direct|11°3'26.00" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°55'7.18" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°11'27.40" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°39'23.12" |Aries|Butain|Venus|
+|♀ Venus|Direct|11°3'25.96" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°55'7.21" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°11'27.36" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

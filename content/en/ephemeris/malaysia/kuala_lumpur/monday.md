@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:04:52 |
 | Sunrise | 07:07:33 |
-| Dhuhr (Noon) | 13:13:13 |
-| Medium Coeli | 13:13:13 |
+| Dhuhr (Noon) | 13:13:14 |
+| Medium Coeli | 13:13:14 |
 | Sunset | 19:18:56 |
 | Maghrib | 19:32:44 |
 | Isha (Night) | 20:13:31 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:08:57 |
 | Sunrise | 07:07:33 |
-| Dhuhr (Noon) | 13:13:13 |
-| Medium Coeli | 13:13:13 |
+| Dhuhr (Noon) | 13:13:14 |
+| Medium Coeli | 13:13:14 |
 | Sunset | 19:18:56 |
 | Maghrib | 19:19:59 |
 | Isha (Night) | 20:17:36 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:50:34 |
 | Sunrise | 07:07:33 |
-| Dhuhr (Noon) | 13:13:13 |
-| Medium Coeli | 13:13:13 |
+| Dhuhr (Noon) | 13:13:14 |
+| Medium Coeli | 13:13:14 |
 | Sunset | 19:18:56 |
 | Maghrib | 19:19:59 |
 | Isha (Night) | 20:27:49 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:56:42 |
 | Sunrise | 07:07:33 |
-| Dhuhr (Noon) | 13:13:13 |
-| Medium Coeli | 13:13:13 |
+| Dhuhr (Noon) | 13:13:14 |
+| Medium Coeli | 13:13:14 |
 | Sunset | 19:18:56 |
 | Maghrib | 19:19:59 |
 | Isha (Night) | 20:29:51 |
@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°12'37.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°39'32.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|18°38'37.07" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°27'49.84" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|20°39'32.66" |Aries|Butain|Venus|
+|♂ Mars|Direct|18°38'37.09" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°27'49.71" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|13°20'6.54" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Retrograde|19°35'29.36" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|28°18'4.20" |Gemini|Dhira|Sun|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°55'32.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°2'8.96" |Aries|Butain|Venus|
-|♂ Mars|Direct|16°30'0.13" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|23°45'27.99" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°55'34.06" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|21°36'11.50" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|22°59'39.47" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|20°2'7.58" |Aries|Butain|Venus|
+|♂ Mars|Direct|16°29'59.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|23°45'21.74" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°55'31.30" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|21°36'1.27" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°57'31.07" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°55'32.15" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°2'9.13" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°2'8.96" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|16°30'0.13" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|23°45'28.01" |Aries|Butain|Venus|
 |♀ Venus|Direct|9°55'34.06" |Aries|Sharatain|Mars|

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:27:50|Night duration: 12:32:38|
+|Duration of the day: 11:27:50|Night duration: 12:32:39|
 |Every hour of day duration: 00:57:19|Every hour of night duration: 01:02:43|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|17:50:55|18:53:37|Repelling magic, attracting discharged energy|
 |2|Mercury|Servant|18:53:38|19:56:20|Outer and inner journey|
 |3|Moon|Servant|19:56:21|20:59:03|Marriage connection is good|
-|4|Saturn|Servant|20:59:04|22:01:46|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:01:47|23:04:29|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:04:30|00:07:13|Summoning the person of interest, love and dominance|
+|4|Saturn|Servant|20:59:04|22:01:47|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:01:48|23:04:30|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:04:31|00:07:13|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|00:07:14|01:09:56|Making promises|
-|8|Venus|Ruler|01:09:57|02:12:39|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:12:40|03:15:22|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:15:23|04:18:05|Good for any task|
-|11|Saturn|Servant|04:18:06|05:20:48|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:20:49|06:23:32|Heart tenderness|
+|8|Venus|Ruler|01:09:57|02:12:40|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:12:41|03:15:23|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:15:24|04:18:06|Good for any task|
+|11|Saturn|Servant|04:18:07|05:20:49|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:20:50|06:23:33|Heart tenderness|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°7'50.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°28'56.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|18°2'16.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|25°41'59.43" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|12°22'18.48" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°8'26.78" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|18°40'41.58" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|15°7'50.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°28'56.72" |Aries|Butain|Venus|
+|♂ Mars|Direct|18°2'13.45" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|25°41'54.69" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|12°22'15.02" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|20°8'17.49" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°10'41.87" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°7'50.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°28'56.76" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°2'16.91" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|25°41'59.43" |Aries|Butain|Venus|
-|♀ Venus|Direct|12°22'18.48" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°8'26.78" |Aries|Butain|Venus|
-|☾ Moon|Direct|18°40'41.58" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|15°7'50.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°28'56.93" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|18°2'13.45" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|25°41'54.69" |Aries|Butain|Venus|
+|♀ Venus|Direct|12°22'15.02" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°8'17.49" |Aries|Butain|Venus|
+|☾ Moon|Direct|19°10'41.87" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mercury|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Mercury|Jupiter|Saturn|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

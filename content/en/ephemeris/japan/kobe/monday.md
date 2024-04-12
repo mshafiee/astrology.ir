@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 11:59:16 |
 | Sunset | 18:31:37 |
 | Maghrib | 18:48:38 |
-| Isha (Night) | 19:40:12 |
+| Isha (Night) | 19:40:13 |
 | Sharia Midnight | 23:19:18 |
 | Imum Coeli | 23:59:09 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°11'56.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°38'0.78" |Aries|Butain|Venus|
-|♂ Mars|Direct|18°33'22.83" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°21'11.56" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°11'47.06" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|19°39'59.92" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|27°0'50.17" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°38'1.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|18°33'23.50" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°21'12.54" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°11'47.79" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|19°40'1.76" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|26°54'41.65" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°11'56.04" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°38'0.83" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|15°11'56.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°38'1.00" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|18°33'23.50" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|26°21'12.51" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°11'47.75" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|19°40'1.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°54'41.85" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°21'12.54" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°11'47.79" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|19°40'1.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°54'41.65" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

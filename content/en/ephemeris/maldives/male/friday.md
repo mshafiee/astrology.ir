@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°48'15.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°46'31.05" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°35'57.13" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|22°37'8.67" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°29'36.19" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°28'38.93" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°23'8.40" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|14°48'15.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°46'32.83" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°35'58.32" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|22°37'17.00" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°29'40.05" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|22°28'53.11" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°38'27.95" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°48'15.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°46'33.00" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°48'15.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°46'32.83" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°35'58.32" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|22°37'17.03" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°37'17.00" |Aries|Butain|Venus|
 |♀ Venus|Direct|8°29'40.09" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|22°28'53.08" |Aries|Butain|Venus|
 |☾ Moon|Direct|7°38'27.98" |Gemini|HanAh|Jupiter|
