@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°1'4.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°14'9.90" |Aries|Butain|Venus|
-|♂ Mars|Direct|17°11'24.23" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|24°37'37.63" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|11°1'22.41" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°55'56.06" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°44'29.49" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|15°1'5.08" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°14'10.07" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°11'27.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|24°37'49.42" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|11°1'28.62" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|20°56'15.72" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°48'46.44" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°1'4.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°14'9.90" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°11'27.31" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|24°37'49.40" |Aries|Butain|Venus|
-|♀ Venus|Direct|11°1'28.59" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°56'15.75" |Aries|Butain|Venus|
-|☾ Moon|Direct|4°48'46.41" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|15°1'5.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°14'10.07" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°11'27.30" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|24°37'49.42" |Aries|Butain|Venus|
+|♀ Venus|Direct|11°1'28.62" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°56'15.72" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°48'46.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

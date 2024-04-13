@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:43:27 |
+| Fajr (Dawn) | 04:43:28 |
 | Sunrise | 05:47:34 |
 | Dhuhr (Noon) | 11:58:59 |
 | Medium Coeli | 11:58:59 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°15'35.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°46'9.10" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|20°46'8.93" |Aries|Butain|Venus|
 |♂ Mars|Direct|19°1'13.95" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°56'21.03" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°56'5.15" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|19°15'41.96" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|4°10'24.68" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°56'21.01" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°56'5.11" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|19°15'41.98" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|4°10'25.03" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°15'35.42" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°46'9.10" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|15°15'35.30" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°46'8.93" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|19°1'13.95" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|26°56'21.03" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°56'5.15" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|19°15'41.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°10'24.68" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°56'21.01" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°56'5.11" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|19°15'41.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°10'25.03" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

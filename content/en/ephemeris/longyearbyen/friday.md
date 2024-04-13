@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°48'18.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°46'40.41" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°36'28.29" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|22°37'45.86" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°30'26.87" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°27'54.55" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°14'0.06" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|14°48'19.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°46'42.27" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°36'33.81" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|22°37'59.35" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°30'34.91" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|22°28'17.67" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°18'17.97" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°48'19.00" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|19°46'41.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°36'28.68" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|22°37'50.43" |Aries|Butain|Venus|
-|♀ Venus|Direct|8°30'28.89" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|22°28'2.22" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°0'33.71" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°36'33.81" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|22°37'59.35" |Aries|Butain|Venus|
+|♀ Venus|Direct|8°30'34.91" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°28'17.67" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°18'17.97" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

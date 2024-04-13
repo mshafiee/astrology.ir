@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:30:45 |
+| Fajr (Dawn) | 05:30:46 |
 | Sunrise | 06:41:00 |
 | Dhuhr (Noon) | 12:49:15 |
 | Medium Coeli | 12:49:15 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°14'17.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°43'15.67" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°43'15.51" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|18°51'20.63" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|26°43'52.78" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°40'21.18" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|19°24'16.77" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°35'55.77" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°43'52.76" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°40'21.15" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|19°24'16.79" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°35'56.06" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

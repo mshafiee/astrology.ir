@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:53:06 |
 | Medium Coeli | 12:53:06 |
 | Sunset | 19:16:59 |
-| Maghrib | 19:35:12 |
+| Maghrib | 19:35:11 |
 | Isha (Night) | 20:19:31 |
 | Sharia Midnight | 00:12:43 |
 | Imum Coeli | 00:52:59 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°12'27.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|15°12'27.47" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|20°39'10.48" |Aries|Butain|Venus|
 |♂ Mars|Direct|18°37'21.39" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|26°26'13.15" |Pisces|Rescha|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°12'27.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°39'10.55" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°37'21.54" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|26°26'13.57" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°18'6.39" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|19°36'32.69" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°57'48.98" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Direct|20°39'10.67" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|18°37'20.99" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|26°26'13.37" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°18'6.10" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|19°36'31.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°7'45.68" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°53'59.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°58'49.36" |Aries|Butain|Sun|
-|♂ Mars|Direct|16°18'29.14" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|23°30'57.65" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°37'15.25" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|21°47'25.54" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°28'56.05" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°58'49.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|16°18'26.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|23°30'56.57" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°37'13.71" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|21°47'30.11" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°27'9.39" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°53'59.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°53'59.34" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|19°58'49.36" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|16°18'29.14" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|23°30'57.65" |Aries|Butain|Venus|

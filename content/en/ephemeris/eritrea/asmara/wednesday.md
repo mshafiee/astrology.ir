@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°19'43.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°55'25.43" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|20°55'25.27" |Aries|Butain|Venus|
 |♂ Mars|Direct|19°32'55.15" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|27°36'21.80" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°46'34.00" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|18°49'3.84" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|12°22'0.43" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|27°36'16.01" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°46'30.57" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|18°48'53.79" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|12°32'8.02" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°19'43.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°55'26.29" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|15°19'43.74" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°55'26.12" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|19°32'57.56" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|27°36'21.82" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|14°46'34.04" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|18°49'3.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°21'59.88" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|27°36'21.80" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|14°46'34.00" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|18°49'3.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°22'0.43" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

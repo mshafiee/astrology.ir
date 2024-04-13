@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°50'55.08" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°50'54.97" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|19°52'13.98" |Aries|Butain|Sun|
 |♂ Mars|Direct|15°55'40.50" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|23°2'9.83" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°0'59.36" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|22°9'45.56" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°23'32.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°1'54.63" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°0'50.86" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|22°9'19.60" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°57'23.83" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°50'55.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°52'13.98" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°50'54.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°52'13.81" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°55'40.50" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|23°2'9.83" |Aries|Butain|Venus|
-|♀ Venus|Direct|9°0'52.28" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|22°9'22.97" |Aries|Butain|Venus|
-|☾ Moon|Direct|11°56'46.23" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°2'9.81" |Aries|Butain|Venus|
+|♀ Venus|Direct|9°0'50.89" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°9'19.57" |Aries|Butain|Venus|
+|☾ Moon|Direct|11°57'23.89" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

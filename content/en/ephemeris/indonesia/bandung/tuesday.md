@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:39:48 |
+| Fajr (Dawn) | 04:39:49 |
 | Sunrise | 05:51:01 |
 | Dhuhr (Noon) | 11:49:19 |
 | Medium Coeli | 11:49:19 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:56:30|Night duration: 12:03:26|
+|Duration of the day: 11:56:30|Night duration: 12:03:27|
 |Every hour of day duration: 00:59:43|Every hour of night duration: 01:00:17|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|17:47:31|18:47:47|Creating corruption, hatred and enmity|
 |2|Jupiter|Servant|18:47:48|19:48:04|Attracting misfortune, no task is suitable|
 |3|Mars|Servant|19:48:05|20:48:21|Attracting connection and suitors|
-|4|Sun|Servant|20:48:22|21:48:38|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|21:48:39|22:48:55|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|22:48:56|23:49:13|Repelling negative energy of evil eye|
+|4|Sun|Servant|20:48:22|21:48:39|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|21:48:40|22:48:56|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|22:48:57|23:49:13|Repelling negative energy of evil eye|
 |7|Moon|Servant|23:49:14|00:49:30|Attracting love and hearts|
-|8|Saturn|Ruler|00:49:31|01:49:47|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|01:49:48|02:50:04|Heart tenderness|
-|10|Mars|Servant|02:50:05|03:50:21|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|03:50:22|04:50:38|Attracting connection and suitors|
-|12|Venus|Servant|04:50:39|05:50:56|Hatred, corruption and creating negative energy for disruption|
+|8|Saturn|Ruler|00:49:31|01:49:48|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|01:49:49|02:50:05|Heart tenderness|
+|10|Mars|Servant|02:50:06|03:50:22|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|03:50:23|04:50:39|Attracting connection and suitors|
+|12|Venus|Servant|04:50:40|05:50:57|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°18'38.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°53'0.00" |Aries|Butain|Venus|
-|♂ Mars|Direct|19°24'37.94" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|27°25'52.44" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°33'18.97" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|18°55'58.02" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|10°11'25.71" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|15°18'38.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°52'59.92" |Aries|Butain|Venus|
+|♂ Mars|Direct|19°24'37.91" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|27°25'52.18" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°33'18.83" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|18°55'57.77" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|10°9'46.48" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°18'38.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°53'0.00" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°52'59.83" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|19°24'37.94" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|27°25'52.44" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|14°33'18.97" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|18°55'58.02" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°11'25.71" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|27°25'52.42" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|14°33'18.94" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|18°55'58.04" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°11'26.21" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
