@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:24:19 |
 | Sunset | 20:04:17 |
 | Maghrib | 20:06:19 |
-| Isha (Night) | 21:34:31 |
+| Isha (Night) | 21:34:32 |
 | Sharia Midnight | 00:35:54 |
 | Imum Coeli | 01:24:13 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°25'54.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°9'25.14" |Aries|Butain|Venus|
+|♄ Saturn|Direct|15°25'54.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°9'25.31" |Aries|Butain|Venus|
 |♂ Mars|Direct|20°20'37.16" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|28°36'26.46" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|16°2'25.01" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|18°11'47.69" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|24°37'41.30" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|28°36'26.48" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|16°2'25.05" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|18°11'47.68" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|24°37'40.53" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°25'54.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°9'25.14" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|20°20'37.16" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|28°36'26.46" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|16°2'25.01" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|18°11'47.69" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°37'41.30" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|15°25'54.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°9'24.08" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|20°20'34.83" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|28°36'19.29" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|16°2'21.03" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|18°11'36.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°45'22.68" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

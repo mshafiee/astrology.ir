@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°1'18.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°14'40.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|17°13'10.22" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|24°40'0.68" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|11°4'12.16" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°54'42.91" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°22'42.76" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|20°14'37.49" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°13'6.92" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|24°39'47.53" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|11°4'5.29" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|20°54'21.07" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°9'44.91" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°1'18.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°14'39.99" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°13'9.87" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|24°40'0.07" |Aries|Butain|Venus|
-|♀ Venus|Direct|11°4'11.75" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°54'41.80" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°23'47.72" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|20°14'40.06" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°13'10.22" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|24°40'0.68" |Aries|Butain|Venus|
+|♀ Venus|Direct|11°4'12.16" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°54'42.91" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°22'42.76" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

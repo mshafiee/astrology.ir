@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:47:06 |
-| Sunrise | 06:00:50 |
+| Sunrise | 06:00:51 |
 | Dhuhr (Noon) | 12:16:22 |
 | Medium Coeli | 12:16:22 |
 | Sunset | 18:32:09 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°0'38.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°13'13.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|17°8'11.37" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|24°33'42.51" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°56'16.98" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°59'25.48" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°56'21.78" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|15°0'38.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°13'13.24" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°8'11.40" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|24°33'41.52" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°56'16.45" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|20°59'23.60" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°53'24.71" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°0'38.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°13'13.32" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°8'11.53" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|24°33'42.97" |Aries|Butain|Venus|
-|♀ Venus|Direct|10°56'17.26" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°59'26.16" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°58'13.77" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|20°13'13.24" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°8'11.40" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|24°33'42.57" |Aries|Butain|Venus|
+|♀ Venus|Direct|10°56'17.06" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°59'25.42" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°56'22.58" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

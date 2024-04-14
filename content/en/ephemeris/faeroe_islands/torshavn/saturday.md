@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:24:36 |
+| Fajr (Dawn) | 03:24:37 |
 | Sunrise | 06:08:23 |
 | Dhuhr (Noon) | 13:27:28 |
 | Medium Coeli | 13:27:28 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°55'36.43" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|20°2'18.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|16°30'33.99" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|23°46'14.48" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°56'28.94" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|21°35'47.02" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|23°46'59.93" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|16°30'32.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|23°46'8.07" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°56'25.69" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|21°35'36.24" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°3'12.59" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°55'36.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°2'19.65" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°2'19.82" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|16°30'33.99" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|23°46'14.48" |Aries|Butain|Venus|
-|♀ Venus|Direct|9°56'28.94" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|21°35'47.02" |Aries|Butain|Venus|
+|☉ Sun|Direct|23°46'14.50" |Aries|Butain|Venus|
+|♀ Venus|Direct|9°56'28.97" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|21°35'46.99" |Aries|Butain|Venus|
 |☾ Moon|Direct|23°47'0.02" |Gemini|Dhira|Sun|
 
 
