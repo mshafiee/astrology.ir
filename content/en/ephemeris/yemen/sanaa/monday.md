@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°59'13.99" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|25°38'7.74" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|12°17'27.63" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|20°11'12.29" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|17°50'35.46" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|20°10'49.50" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|17°13'30.01" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°7'25.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°28'3.55" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°59'13.99" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|25°38'7.74" |Aries|Butain|Venus|
-|♀ Venus|Direct|12°17'27.63" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°11'12.29" |Aries|Butain|Venus|
-|☾ Moon|Direct|17°50'35.46" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|20°28'1.28" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°59'9.56" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|25°37'54.20" |Aries|Butain|Venus|
+|♀ Venus|Direct|12°17'20.08" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°10'49.50" |Aries|Butain|Venus|
+|☾ Moon|Direct|17°13'30.01" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}

@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|29°31'34.57" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|17°12'1.93" |Pisces|Rescha|Jupiter|
 |☿ Mercury|Retrograde|17°41'4.30" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|5°42'23.56" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°46'43.36" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
