@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:14:53 |
+| Fajr (Dawn) | 04:14:52 |
 | Sunrise | 06:01:13 |
 | Dhuhr (Noon) | 12:42:52 |
 | Medium Coeli | 12:42:52 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|25°41'0.89" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|12°21'8.06" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Retrograde|20°8'57.26" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|18°25'15.04" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|19°5'37.41" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°7'44.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°28'42.28" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°1'32.34" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|25°40'55.22" |Aries|Butain|Venus|
-|♀ Venus|Direct|12°21'5.66" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|20°8'48.87" |Aries|Butain|Venus|
-|☾ Moon|Direct|18°25'15.04" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|20°28'43.71" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|18°1'28.73" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|25°40'56.62" |Aries|Butain|Venus|
+|♀ Venus|Direct|12°21'4.63" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|20°8'48.55" |Aries|Butain|Venus|
+|☾ Moon|Direct|19°5'37.41" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mercury|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Mercury|Jupiter|Saturn|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

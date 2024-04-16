@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:26:24 |
 | Dhuhr (Noon) | 12:25:06 |
 | Medium Coeli | 12:25:06 |
-| Sunset | 18:23:44 |
+| Sunset | 18:23:43 |
 | Maghrib | 18:27:19 |
 | Isha (Night) | 19:32:54 |
-| Sharia Midnight | 23:46:20 |
+| Sharia Midnight | 23:46:19 |
 | Imum Coeli | 00:24:59 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:26:24 |
 | Dhuhr (Noon) | 12:25:06 |
 | Medium Coeli | 12:25:06 |
-| Sunset | 18:23:44 |
+| Sunset | 18:23:43 |
 | Maghrib | 18:27:19 |
 | Isha (Night) | 19:34:56 |
 | Sharia Midnight | 23:49:23 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:26:24 |
 | Dhuhr (Noon) | 12:25:06 |
 | Medium Coeli | 12:25:06 |
-| Sunset | 18:23:44 |
+| Sunset | 18:23:43 |
 | Maghrib | 18:27:19 |
 | Isha (Night) | 19:57:19 |
 | Sharia Midnight | 23:48:22 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°20'3.50" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|20°56'10.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|19°35'28.18" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|27°39'32.71" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°50'33.73" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|18°47'4.23" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|13°0'13.25" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°35'28.19" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|27°39'32.48" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°50'33.62" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|18°47'4.00" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|12°58'2.42" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Moon|Sun|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:36:35 |
+| Fajr (Dawn) | 04:36:34 |
 | Sunrise | 05:52:04 |
 | Dhuhr (Noon) | 12:05:21 |
 | Medium Coeli | 12:05:21 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|21°10'38.12" |Aries|Butain|Venus|
 |♂ Mars|Direct|20°24'44.55" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|28°41'39.83" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|16°8'58.66" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|18°8'50.95" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|25°32'14.74" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|16°8'58.62" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|18°8'50.97" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|25°32'15.51" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°26'26.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|15°26'26.21" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|21°10'38.12" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|20°24'43.55" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|28°41'40.36" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|16°8'58.50" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|18°8'50.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°53'29.84" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|20°24'44.55" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|28°41'39.83" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|16°8'58.66" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|18°8'50.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°32'14.74" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Mercury|Sun|Libra|Moon|Saturn|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
