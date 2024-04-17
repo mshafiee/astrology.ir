@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:05:45 |
-| Sunrise | 06:15:18 |
+| Sunrise | 06:15:17 |
 | Dhuhr (Noon) | 12:18:05 |
 | Medium Coeli | 12:18:05 |
 | Sunset | 18:20:52 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:32 |
-| Sunrise | 06:15:18 |
+| Sunrise | 06:15:17 |
 | Dhuhr (Noon) | 12:18:05 |
 | Medium Coeli | 12:18:05 |
 | Sunset | 18:20:52 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:16:45 |
-| Sunrise | 06:15:18 |
+| Sunrise | 06:15:17 |
 | Dhuhr (Noon) | 12:18:05 |
 | Medium Coeli | 12:18:05 |
 | Sunset | 18:20:52 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:26 |
-| Sunrise | 06:15:18 |
+| Sunrise | 06:15:17 |
 | Dhuhr (Noon) | 12:18:05 |
 | Medium Coeli | 12:18:05 |
 | Sunset | 18:20:52 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:32 |
-| Sunrise | 06:15:18 |
+| Sunrise | 06:15:17 |
 | Dhuhr (Noon) | 12:18:05 |
 | Medium Coeli | 12:18:05 |
 | Sunset | 18:20:52 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:02:30 |
-| Sunrise | 06:15:18 |
+| Sunrise | 06:15:17 |
 | Dhuhr (Noon) | 12:18:05 |
 | Medium Coeli | 12:18:05 |
 | Sunset | 18:20:52 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°24'47.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°6'52.24" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|20°11'55.67" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|28°25'31.14" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|15°48'34.80" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|18°18'25.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°25'32.22" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|15°24'47.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°6'52.42" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|20°11'55.40" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|28°25'31.15" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|15°48'34.85" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|18°18'25.81" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°15'3.84" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

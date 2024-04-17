@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:11:21 |
 | Medium Coeli | 12:11:21 |
 | Sunset | 18:48:05 |
-| Maghrib | 19:05:45 |
+| Maghrib | 19:05:44 |
 | Isha (Night) | 19:59:39 |
 | Sharia Midnight | 23:29:36 |
 | Imum Coeli | 00:11:14 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°13'22.52" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|20°41'12.93" |Aries|Butain|Venus|
-|♂ Mars|Direct|18°44'20.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°35'1.67" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°29'13.57" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|19°30'17.94" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|29°47'53.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°44'21.09" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°35'2.68" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°29'14.09" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|19°30'19.55" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|29°52'2.80" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°13'22.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°41'12.93" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°44'20.88" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|26°35'1.67" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°29'13.57" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|19°30'17.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°48'13.28" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Direct|20°41'12.98" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|18°44'21.09" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|26°35'2.68" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°29'14.06" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|19°30'19.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°52'3.06" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

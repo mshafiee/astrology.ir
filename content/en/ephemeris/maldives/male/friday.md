@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 12:13:47|Night duration: 11:45:54|
-|Every hour of day duration: 01:01:09|Every hour of night duration: 00:58:50|
+|Every hour of day duration: 01:01:09|Every hour of night duration: 00:58:49|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°31'11.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°21'31.63" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°1'45.16" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|29°28'19.69" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|17°7'53.48" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|17°42'54.76" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|4°50'19.27" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|21°21'29.25" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°1'38.34" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|29°28'3.03" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|17°7'43.61" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|17°42'26.64" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|5°50'26.37" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Jupiter|Virgo|Sun|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°31'11.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°21'31.63" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°1'45.16" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|29°28'19.69" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|17°7'53.48" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|17°42'54.76" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°50'19.27" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|21°21'29.25" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°1'38.34" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°28'3.03" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|17°7'43.61" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|17°42'26.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°50'26.37" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Mercury|Mercury|Libra|Moon|Saturn|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

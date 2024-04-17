@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:54:36 |
 | Medium Coeli | 11:54:36 |
 | Sunset | 17:42:23 |
-| Maghrib | 17:46:52 |
+| Maghrib | 17:46:53 |
 | Isha (Night) | 18:52:41 |
 | Sharia Midnight | 23:17:18 |
 | Imum Coeli | 23:54:30 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:54:36 |
 | Medium Coeli | 11:54:36 |
 | Sunset | 17:42:23 |
-| Maghrib | 17:46:52 |
+| Maghrib | 17:46:53 |
 | Isha (Night) | 18:54:48 |
 | Sharia Midnight | 23:14:08 |
 | Imum Coeli | 23:54:30 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 11:54:36 |
 | Sunset | 17:42:23 |
 | Maghrib | 17:46:53 |
-| Isha (Night) | 19:16:53 |
+| Isha (Night) | 19:16:52 |
 | Sharia Midnight | 23:16:15 |
 | Imum Coeli | 23:54:30 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°37'53.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°37'2.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°54'19.12" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|0°34'35.53" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°31'35.31" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°10'32.72" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|17°59'51.04" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|21°36'59.80" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°54'16.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|0°34'24.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|18°31'29.49" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°10'17.35" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|18°17'8.79" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Moon|Sun|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Mercury|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

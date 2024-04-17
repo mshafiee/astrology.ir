@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:55:34 |
 | Maghrib | 18:14:33 |
 | Isha (Night) | 19:00:48 |
-| Sharia Midnight | 22:43:24 |
+| Sharia Midnight | 22:43:23 |
 | Imum Coeli | 23:25:29 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°31'18.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°21'47.17" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°2'38.22" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|29°29'25.39" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|17°9'18.08" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°42'14.66" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|5°12'33.74" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|15°31'18.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°21'47.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°2'38.15" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|29°29'24.27" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|17°9'17.56" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°42'13.26" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|5°9'59.18" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°31'18.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°21'47.17" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°2'38.22" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|29°29'25.39" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|17°9'18.08" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|17°42'12.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°15'42.46" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|21°21'46.89" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°2'38.15" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°29'24.27" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|17°9'17.56" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|17°42'14.68" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°12'34.54" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
