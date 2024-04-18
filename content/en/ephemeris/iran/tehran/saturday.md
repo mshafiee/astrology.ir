@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:03:08 |
 | Sunset | 18:41:43 |
 | Maghrib | 18:59:35 |
-| Isha (Night) | 19:52:47 |
+| Isha (Night) | 19:52:48 |
 | Sharia Midnight | 23:21:44 |
 | Imum Coeli | 00:03:02 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°37'20.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°35'46.27" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°50'2.96" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|0°29'10.66" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|15°37'20.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°35'46.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°50'2.70" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|0°29'10.80" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|18°24'47.52" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°12'50.60" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|17°13'35.66" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°12'50.37" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|17°17'26.18" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°37'20.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°35'46.27" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°50'2.96" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|0°29'10.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°24'47.52" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|17°12'50.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°13'35.66" |Virgo|Simak|Venus|
+|♄ Saturn|Direct|15°37'20.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°35'46.44" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|21°50'2.95" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|0°29'10.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°24'47.57" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|17°12'50.59" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°13'35.00" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:06:38 |
 | Sunset | 17:46:19 |
 | Maghrib | 17:51:04 |
-| Isha (Night) | 18:51:54 |
+| Isha (Night) | 18:51:55 |
 | Sharia Midnight | 23:33:52 |
 | Imum Coeli | 00:06:32 |
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|21°37'13.78" |Aries|Butain|Venus|
 |♂ Mars|Direct|21°54'57.85" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|0°35'24.34" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°32'33.67" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°10'1.57" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|18°34'29.21" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|18°32'37.01" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°10'10.84" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|18°9'55.01" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°37'58.36" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|21°37'13.78" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°54'57.85" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|0°35'24.34" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°54'57.84" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|0°35'24.35" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|18°32'37.01" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|17°10'1.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°34'29.21" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|17°10'10.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°9'55.01" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

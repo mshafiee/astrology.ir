@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°25'32.71" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|21°8'36.15" |Aries|Butain|Venus|
-|♂ Mars|Direct|20°17'45.26" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|28°32'50.94" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|15°57'54.44" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|18°13'43.91" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|24°48'56.73" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°17'45.36" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|28°32'51.05" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|15°57'54.52" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|18°13'44.17" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|24°47'34.05" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°25'32.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°8'36.08" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|20°17'49.51" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|28°32'55.65" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|15°57'58.16" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|18°13'54.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°51'58.98" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|21°8'36.15" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|20°17'45.36" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|28°32'51.05" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|15°57'54.52" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|18°13'44.17" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°47'34.05" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mars|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

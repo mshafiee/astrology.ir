@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:09:52 |
 | Dhuhr (Noon) | 13:19:02 |
 | Medium Coeli | 13:19:02 |
-| Sunset | 20:29:25 |
+| Sunset | 20:29:26 |
 | Maghrib | 20:58:06 |
 | Isha (Night) | 22:16:45 |
-| Sharia Midnight | 00:06:11 |
+| Sharia Midnight | 00:06:12 |
 | Imum Coeli | 01:18:56 |
 {{< /tab >}}
 
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:09:52 |
 | Dhuhr (Noon) | 13:19:02 |
 | Medium Coeli | 13:19:02 |
-| Sunset | 20:29:25 |
+| Sunset | 20:29:26 |
 | Maghrib | 20:31:01 |
 | Isha (Night) | 22:46:35 |
-| Sharia Midnight | 00:04:30 |
+| Sharia Midnight | 00:04:31 |
 | Imum Coeli | 01:18:56 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:09:52 |
 | Dhuhr (Noon) | 13:19:02 |
 | Medium Coeli | 13:19:02 |
-| Sunset | 20:29:25 |
+| Sunset | 20:29:26 |
 | Maghrib | 20:31:01 |
 | Isha (Night) | 22:26:16 |
-| Sharia Midnight | 00:20:08 |
+| Sharia Midnight | 00:20:09 |
 | Imum Coeli | 01:18:56 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:09:52 |
 | Dhuhr (Noon) | 13:19:02 |
 | Medium Coeli | 13:19:02 |
-| Sunset | 20:29:25 |
+| Sunset | 20:29:26 |
 | Maghrib | 20:31:01 |
 | Isha (Night) | 22:51:59 |
 | Sharia Midnight | 23:55:34 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:09:52 |
 | Dhuhr (Noon) | 13:19:02 |
 | Medium Coeli | 13:19:02 |
-| Sunset | 20:29:25 |
+| Sunset | 20:29:26 |
 | Maghrib | 20:31:01 |
 | Isha (Night) | 22:01:01 |
-| Sharia Midnight | 00:01:38 |
+| Sharia Midnight | 00:01:39 |
 | Imum Coeli | 01:18:56 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:19:33|Night duration: 09:38:12|
+|Duration of the day: 14:19:34|Night duration: 09:38:11|
 |Every hour of day duration: 01:11:38|Every hour of night duration: 00:48:11|
 
  
@@ -220,19 +220,19 @@ Timetable of twelve day and night planetary hours
 |2|Mercury|Servant|07:21:29|08:33:06|Attracting auspiciousness|
 |3|Moon|Servant|08:33:07|09:44:44|Attracting misfortune, no task is suitable|
 |4|Saturn|Servant|09:44:45|10:56:22|Unfortunate hour|
-|5|Jupiter|Servant|10:56:23|12:07:59|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|12:08:00|13:19:37|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|13:19:38|14:31:15|Promotion and attracting wealth|
+|5|Jupiter|Servant|10:56:23|12:08:00|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|12:08:01|13:19:38|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|13:19:39|14:31:15|Promotion and attracting wealth|
 |8|Venus|Ruler|14:31:16|15:42:53|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|15:42:54|16:54:30|Causing separation and homelessness|
-|10|Moon|Servant|16:54:31|18:06:08|Extremely unfortunate|
-|11|Saturn|Servant|18:06:09|19:17:46|Creating an unfortunate horoscope for anyone|
-|12|Jupiter|Servant|19:17:47|20:29:24|Suitable for asking for a need|
+|9|Mercury|Servant|15:42:54|16:54:31|Causing separation and homelessness|
+|10|Moon|Servant|16:54:32|18:06:09|Extremely unfortunate|
+|11|Saturn|Servant|18:06:10|19:17:47|Creating an unfortunate horoscope for anyone|
+|12|Jupiter|Servant|19:17:48|20:29:25|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|20:29:25|21:17:35|Love, creating love and attracting hearts|
+|1|Mars|Ruler|20:29:26|21:17:35|Love, creating love and attracting hearts|
 |2|Sun|Servant|21:17:36|22:05:46|Attracting auspiciousness|
 |3|Venus|Servant|22:05:47|22:53:57|Attracting misfortune, no task is suitable|
 |4|Mercury|Servant|22:53:58|23:42:08|Unfortunate hour|
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°31'58.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°23'20.26" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°7'54.51" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|15°31'58.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°23'20.16" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°7'54.14" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|29°36'2.76" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|17°17'41.71" |Pisces|Rescha|Jupiter|
 |☿ Mercury|Retrograde|17°38'40.66" |Pisces|Rescha|Jupiter|

@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:05:00 |
 | Dhuhr (Noon) | 12:30:48 |
 | Medium Coeli | 12:30:48 |
-| Sunset | 18:56:56 |
+| Sunset | 18:56:57 |
 | Maghrib | 18:57:57 |
 | Isha (Night) | 20:15:18 |
-| Sharia Midnight | 23:46:33 |
+| Sharia Midnight | 23:46:34 |
 | Imum Coeli | 00:30:41 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:05:00 |
 | Dhuhr (Noon) | 12:30:48 |
 | Medium Coeli | 12:30:48 |
-| Sunset | 18:56:56 |
+| Sunset | 18:56:57 |
 | Maghrib | 18:57:57 |
 | Isha (Night) | 20:17:41 |
 | Sharia Midnight | 23:50:10 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°37'8.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°35'17.97" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°48'26.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|0°27'9.68" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°22'13.78" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°13'48.51" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|16°43'7.96" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|21°35'17.83" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°48'26.71" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|0°27'9.48" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|18°22'13.80" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°13'48.67" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|16°38'43.91" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Moon|Mercury|Aquarius|Moon|Venus|
+|☾ Moon|Moon|Sun|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}

@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:11:29 |
 | Maghrib | 18:16:26 |
 | Isha (Night) | 19:32:40 |
-| Sharia Midnight | 22:57:16 |
+| Sharia Midnight | 22:57:17 |
 | Imum Coeli | 23:40:37 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°31'21.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°21'54.97" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°3'5.78" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|29°29'59.29" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|17°10'1.75" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°41'54.35" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|5°20'44.32" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|21°21'55.36" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°3'6.04" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|29°30'0.41" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|17°10'2.38" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°41'55.97" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|5°19'57.40" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°31'21.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°21'55.14" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°3'5.78" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|29°29'59.31" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|17°10'1.79" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|17°41'54.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°20'44.32" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|15°31'21.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°21'55.36" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°3'6.04" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°30'0.41" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|17°10'2.38" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|17°41'55.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°19'57.40" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

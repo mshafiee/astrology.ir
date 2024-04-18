@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:31:13 |
+| Fajr (Dawn) | 03:31:14 |
 | Sunrise | 04:55:01 |
 | Dhuhr (Noon) | 11:25:23 |
 | Medium Coeli | 11:25:23 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°37'13.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°35'29.05" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°49'4.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|0°27'56.86" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°23'14.65" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°13'23.98" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|16°54'45.31" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|21°35'29.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°49'4.96" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|0°27'57.98" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|18°23'15.18" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°13'25.33" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|16°55'21.60" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°37'13.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°35'29.33" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°49'4.96" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|0°27'57.98" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°23'15.18" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|17°13'25.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°55'21.60" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|21°35'29.05" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|21°49'4.89" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|0°27'56.86" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°23'14.65" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|17°13'23.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°54'45.31" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

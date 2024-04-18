@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:24:06 |
 | Sunset | 18:30:34 |
 | Maghrib | 18:44:27 |
-| Isha (Night) | 19:25:25 |
+| Isha (Night) | 19:25:26 |
 | Sharia Midnight | 23:52:25 |
 | Imum Coeli | 00:23:59 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°26'17.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°10'18.48" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|21°10'18.65" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|20°23'38.19" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|28°40'16.46" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|16°7'12.97" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|18°9'41.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°13'36.77" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|28°40'16.48" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|16°7'13.01" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|18°9'41.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°13'36.00" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
