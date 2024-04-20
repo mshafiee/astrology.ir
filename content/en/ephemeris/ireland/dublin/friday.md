@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°32'14.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°23'58.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°10'0.36" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|29°38'44.19" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|17°21'3.85" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°37'18.73" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|7°33'8.89" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|15°32'14.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°23'57.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°10'0.87" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|29°38'41.70" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|17°21'2.92" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°37'16.53" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|7°17'9.71" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°32'14.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°23'58.34" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°10'0.36" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|29°38'44.19" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|15°32'14.73" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°23'57.34" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°10'0.87" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°38'41.70" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|17°21'3.85" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|17°37'18.73" |Aries|Butain|Sun|
 |☾ Moon|Direct|7°33'8.89" |Virgo|Awwa|Sun|

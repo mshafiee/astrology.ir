@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°55'0.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°17'38.08" |Aries|Butain|Venus|
-|♂ Mars|Direct|24°11'14.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°27'0.68" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|22°9'41.10" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°13'36.74" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|23°22'27.45" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|15°55'0.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|22°17'39.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|24°11'14.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°27'4.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|22°9'42.83" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°13'39.91" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|23°5'32.31" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Moon|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
+|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°55'0.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°17'39.24" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|24°11'13.99" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|3°27'4.87" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|15°55'0.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°17'39.08" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|24°11'14.00" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|3°27'4.85" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|22°9'42.88" |Aries|Butain|Venus|
 |☿ Mercury|Retrograde|16°13'39.92" |Aries|Butain|Sun|
 |☾ Moon|Direct|23°5'32.43" |Libra|Jubana|Jupiter|
