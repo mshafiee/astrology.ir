@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°39'29.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°40'47.91" |Aries|Butain|Venus|
-|♂ Mars|Direct|22°7'3.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|0°50'37.17" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°51'52.29" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°3'27.22" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|21°24'55.09" |Leo|Zubrah|Mars|
+|♄ Saturn|Direct|15°39'30.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°40'48.07" |Aries|Butain|Venus|
+|♂ Mars|Direct|22°6'56.71" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|0°50'26.76" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|18°51'45.32" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°3'6.68" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|22°45'8.69" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Venus|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°39'29.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°40'47.91" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|22°7'3.26" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|0°50'37.17" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|15°39'30.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°40'47.25" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|22°6'56.71" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|0°50'26.76" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|18°51'45.32" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|17°3'6.68" |Aries|Butain|Sun|
 |☾ Moon|Direct|22°45'8.69" |Virgo|Simak|Mercury|

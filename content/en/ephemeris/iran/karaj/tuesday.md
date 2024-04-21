@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:04:16 |
 | Sunset | 18:46:05 |
 | Maghrib | 18:51:30 |
-| Isha (Night) | 20:17:53 |
+| Isha (Night) | 20:17:54 |
 | Sharia Midnight | 23:12:13 |
 | Imum Coeli | 00:04:11 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°54'46.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°17'4.56" |Aries|Butain|Venus|
-|♂ Mars|Direct|24°9'18.24" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°24'38.35" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|22°6'38.41" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|15°54'46.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|22°17'4.72" |Aries|Butain|Venus|
+|♂ Mars|Direct|24°9'18.23" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°24'38.36" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|22°6'38.45" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|16°14'8.00" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|22°44'12.40" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|22°46'22.13" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°54'46.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°17'4.56" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|24°9'18.24" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|3°24'38.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|22°6'38.41" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|16°14'8.00" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°44'12.40" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|15°54'46.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°17'4.62" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|24°9'18.18" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|3°24'37.91" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|22°6'38.23" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|16°14'7.51" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°46'22.13" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

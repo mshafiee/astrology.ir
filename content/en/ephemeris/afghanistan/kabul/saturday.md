@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:52:09 |
 | Sunset | 18:28:55 |
 | Maghrib | 18:34:09 |
-| Isha (Night) | 20:00:51 |
+| Isha (Night) | 20:00:52 |
 | Sharia Midnight | 23:05:52 |
 | Imum Coeli | 23:52:03 |
 {{< /tab >}}
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|0°26'21.91" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|18°21'14.20" |Pisces|Rescha|Jupiter|
 |☿ Mercury|Retrograde|17°14'7.84" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|16°39'7.42" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|16°39'6.04" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°37'3.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°35'6.87" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|15°37'3.73" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°35'6.70" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|21°47'49.00" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|0°26'21.93" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°21'14.24" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|17°14'7.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°39'5.36" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|0°26'21.91" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°21'14.20" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|17°14'7.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°39'6.04" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

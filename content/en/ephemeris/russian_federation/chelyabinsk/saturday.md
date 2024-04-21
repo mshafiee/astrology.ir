@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°37'1.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°35'1.71" |Aries|Butain|Venus|
-|♂ Mars|Direct|21°47'32.41" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|0°25'59.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°20'47.94" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|17°14'11.66" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|16°48'36.61" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|21°35'1.65" |Aries|Butain|Venus|
+|♂ Mars|Direct|21°47'33.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|0°25'59.35" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|18°20'48.14" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|17°14'12.32" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|16°38'59.54" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Moon|Mercury|Aquarius|Moon|Venus|
+|☾ Moon|Moon|Sun|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°37'1.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°35'1.71" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°47'32.41" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|0°25'59.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°20'47.94" |Aries|Butain|Sun|
+|♄ Saturn|Direct|15°37'1.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°35'1.87" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|21°47'32.40" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|0°25'59.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°20'47.98" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|17°14'11.66" |Aries|Butain|Sun|
 |☾ Moon|Direct|16°48'36.61" |Virgo|Awwa|Venus|
 
