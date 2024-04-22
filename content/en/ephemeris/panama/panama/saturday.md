@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°45'26.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°54'46.95" |Aries|Butain|Venus|
-|♂ Mars|Direct|22°54'16.37" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|1°50'8.02" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|20°7'4.86" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°40'31.99" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|3°13'37.58" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|15°45'26.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°54'44.40" |Aries|Butain|Venus|
+|♂ Mars|Direct|22°54'11.26" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|1°49'52.65" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|20°6'56.18" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°40'8.76" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|4°25'40.56" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Venus|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°45'26.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°54'46.95" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|22°54'16.37" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|1°50'8.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°7'4.86" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|16°40'31.99" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|21°54'47.12" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|22°54'16.36" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|1°50'8.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°7'4.90" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|16°40'31.98" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°13'37.58" |Libra|Ghafr|Moon|
 
 

@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°13'22.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°2'53.09" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°42'31.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°37'39.35" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|16°13'22.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°2'53.26" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°42'31.70" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°37'39.37" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°10'58.74" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|16°0'50.88" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|3°10'51.60" |Scorpio|Akleel|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BEL, Belem, Belem do Para, Belem do Pará, Belen, Belena, Belenas, Belém, Belém do Pará, Bethlehem, Para, Pará, Santa Maria de Belem do Grao Para, Santa Maria de Belém do Grão Pará, Vele, Velẽ, bei lun, belem, belema, beleng, beleni, belleng, beren, blm, bylym, Μπελέμ, Белем, Белен, בלם, بلم, بيليم, بیلیم, बेलेम, বেলেঁ, বেলেম, เบเลง, ბელენი, ベレン, 贝伦, 벨렝

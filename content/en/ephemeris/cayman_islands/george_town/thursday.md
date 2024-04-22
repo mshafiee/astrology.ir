@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°13'47.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|16°13'47.90" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|23°3'56.83" |Aries|Butain|Venus|
 |♂ Mars|Direct|26°46'3.78" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°42'5.68" |Aries|Sharatain|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'47.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°3'56.83" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°46'3.78" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°42'5.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°16'37.21" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°1'8.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°18'12.73" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|23°3'54.49" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°45'57.81" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°41'50.49" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°16'28.31" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|16°0'46.66" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°46'23.94" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

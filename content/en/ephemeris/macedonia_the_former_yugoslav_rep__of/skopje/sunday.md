@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°43'39.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°50'33.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|22°40'0.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|1°32'8.19" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|21°50'33.78" |Aries|Butain|Venus|
+|♂ Mars|Direct|22°39'57.07" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|1°32'5.42" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|19°44'22.24" |Pisces|Rescha|Jupiter|
 |☿ Mercury|Retrograde|16°46'50.83" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|29°56'35.98" |Leo|Sarfrah|Mars|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°40'0.82" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|1°32'8.19" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|19°44'22.24" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|16°46'58.04" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°36'38.06" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|16°46'50.83" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°56'35.98" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

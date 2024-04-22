@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|16°11'54.31" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|22°59'12.08" |Aries|Butain|Venus|
 |♂ Mars|Direct|26°30'16.00" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°22'9.24" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|25°51'25.26" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|15°59'44.32" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|0°32'19.94" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|6°22'3.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|25°51'22.76" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|15°59'40.12" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|1°21'4.67" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°11'54.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°59'12.08" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°30'16.00" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°22'9.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|25°51'25.26" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|15°59'44.32" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°32'19.94" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|16°11'54.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°59'12.24" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°30'15.98" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°22'9.26" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|25°51'25.30" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|15°59'44.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°32'19.64" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

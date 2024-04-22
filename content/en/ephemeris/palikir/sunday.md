@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°47'25.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°59'28.84" |Aries|Butain|Venus|
-|♂ Mars|Direct|23°10'6.55" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|2°10'5.30" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|20°32'18.60" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°33'55.53" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|7°14'16.30" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|21°59'26.66" |Aries|Butain|Venus|
+|♂ Mars|Direct|23°10'2.77" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|2°9'52.36" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|20°32'11.51" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°33'36.95" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|8°13'32.51" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°47'25.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°59'28.84" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|23°10'6.55" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|2°10'5.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°32'18.60" |Aries|Butain|Venus|
+|♄ Saturn|Direct|15°47'25.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°59'29.01" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|23°10'6.54" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|2°10'5.32" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°32'18.64" |Aries|Butain|Venus|
 |☿ Mercury|Retrograde|16°33'55.53" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°14'16.30" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|7°14'16.07" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°12'33.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°0'48.58" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°35'40.26" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°28'55.07" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°0'0.54" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'8.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°19'53.36" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|23°0'50.20" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°35'41.67" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°29'2.76" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°0'4.56" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|16°0'16.43" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°21'6.93" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Borto-Novo, Porta-Nova, Porto Neuvo, Porto Nobo, Porto Novas, Porto Novo, Porto-Novo, Portonovo, Portus Novus, Poto-Novo, Pòrto Neuvo, Pòto-Novo, Pôrto-Novo, bo duo nuo fu, bo tu nu bu, bwrtw nwfw, poleutonobo, porato-novo, porto-novho, porutonobo, pwrtw nwbw, pwrtw nwww, pxr to-no wo, xin gang, Πόρτο Νόβο, Πόρτο-Νόβο, Порта-Нова, Порто Ново, Порто-Ново, Պորտո Նովո, פארטא-נאווא, פורטו נובו, بورتو نوفو, پورتو نووو, پورٹو نووو, پۆرتۆ نۆڤۆ, पोर्तो-नोव्हो, ਪੋਰਤੋ-ਨੋਵੋ, ปอร์โต-โนโว, པོར་ཊོ་-ནོ་བོ།, პორტო-ნოვო, ፖርቶ ኖቮ, ポルトノボ, 新港, 波圖奴埠, 波多诺伏, 포르토노보

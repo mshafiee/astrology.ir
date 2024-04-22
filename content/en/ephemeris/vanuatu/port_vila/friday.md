@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°15'38.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°8'33.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|27°1'21.74" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|7°1'18.96" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°41'5.61" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°2'34.97" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|9°13'37.48" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Direct|23°8'34.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|27°1'29.49" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|7°1'32.44" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°41'14.20" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°2'58.81" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|8°22'31.24" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

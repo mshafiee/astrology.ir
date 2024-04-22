@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°3'48.74" |Aries|Butain|Venus|
 |♂ Mars|Direct|26°45'37.28" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°41'32.66" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°15'54.86" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°1'7.20" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|4°6'17.58" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|26°15'54.81" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°1'7.18" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|4°6'17.91" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'44.77" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°3'48.91" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°45'37.26" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°41'32.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°15'54.86" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°1'7.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°6'17.58" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|26°45'32.19" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°41'26.71" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°15'50.51" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|16°0'53.54" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°17'2.87" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CTG, Caratagena de Indias, Cartagena, Cartagena das Indias, Cartagena das Índias, Cartagena de Indias, Cartaxena de Indias, Carthagene, Carthagene des Indes, Carthagène, Carthagène des Indes, Kartachena, Kartageno, Kartakhena, Kartakhena de Indijas, ka ta he na, kaleutahena, kartagyna, kartajyna, karutahena, qrtajnt  kwlwmbya, qrthnh, Картахена, Картахена де Индијас, קרטחנה, قرطاجنة، كولومبيا, کارتاجینا, کارتاگینا, კარტახენა, カルタヘナ, 卡塔赫纳, 카르타헤나

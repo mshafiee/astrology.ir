@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Moon|Ruler|01:29:15|02:20:14|Attraction of happiness and fortune|
 |9|Saturn|Servant|02:20:15|03:11:14|Reaching status and promotion|
 |10|Jupiter|Servant|03:11:15|04:02:14|Fulfilling needs|
-|11|Mars|Servant|04:02:15|04:53:14|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Mars|Servant|04:02:15|04:53:14|Attraction of love and hearts|
 |12|Sun|Servant|04:53:15|05:44:15|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°6'32.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°45'51.01" |Aries|Butain|Venus|
-|♂ Mars|Direct|25°45'44.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|5°26'3.41" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|24°40'21.19" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|15°59'22.71" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|18°23'43.34" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|22°45'51.77" |Aries|Butain|Venus|
+|♂ Mars|Direct|25°45'42.71" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|5°26'3.96" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|24°40'20.90" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|15°59'20.27" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|18°12'9.82" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|22°45'51.44" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|25°45'42.71" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|5°26'3.96" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|24°40'21.19" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|15°59'22.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°23'43.34" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|24°40'20.90" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|15°59'20.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°12'9.82" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

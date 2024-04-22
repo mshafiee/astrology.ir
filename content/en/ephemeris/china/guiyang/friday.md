@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°16'23.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°10'30.22" |Aries|Butain|Venus|
-|♂ Mars|Direct|27°7'54.36" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|7°9'35.74" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°51'28.51" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°3'49.18" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|10°24'32.05" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|16°16'23.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°10'30.39" |Aries|Butain|Venus|
+|♂ Mars|Direct|27°7'54.34" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|7°9'35.76" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°51'28.56" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°3'49.19" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|10°24'31.73" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°16'23.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°10'30.22" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|27°7'54.36" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|7°9'35.74" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°51'28.51" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°3'49.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°24'32.05" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|16°16'23.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°10'30.39" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|27°7'54.34" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|7°9'21.48" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°51'19.95" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|16°3'27.18" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°34'35.92" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Goi-iong, Guejang, Guejjan, Guijangas, Guijango, Guiyang, Guiyang Shi, Gujjan, Guyan, Guyyan, Gveiyangz, Gói-iòng, Gŭijango, KWE, Kuei-chu, Kuei-yang, Kuei-yang-shih, Kuej-jang, Kui-iong-chhi, Kweichu, Kweiyang, Kweiyangfu, Kùi-iông-chhī, Queiyanga, Quy Duong, Quý Dương, ghwyyangh, gu'iyanga, gu-iyang si, gui yang, gui yang shi, gwyyang, kuy hyang, Гуейян, Гуејанг, Гуйян, Ґуйян, Գույան, غوييانغ, گوئیانگ, گۇيياڭ شەھىرى, गुइयांग, ਗੁਈਯਾਂਗ, กุ้ยหยาง, ကွေ့ယန်မြို့, 貴陽, 貴陽市, 贵阳, 贵阳市, 구이양 시
