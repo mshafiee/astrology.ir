@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°22'0.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°24'47.15" |Aries|Butain|Venus|
-|♂ Mars|Direct|27°55'26.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|8°9'21.39" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°7'19.28" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°13'15.84" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|24°40'39.27" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|23°24'49.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|27°55'29.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|8°9'32.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|28°7'25.23" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°13'28.70" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|23°34'24.41" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Jupiter|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°22'0.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°24'47.31" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|27°55'26.08" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|8°9'21.39" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°7'19.28" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°13'15.84" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°40'39.27" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|23°24'49.11" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|27°55'29.20" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|8°9'32.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|28°7'25.23" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|16°13'28.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°34'24.41" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

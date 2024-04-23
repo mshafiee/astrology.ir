@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 02:50:34 |
 | Sunrise | 04:44:02 |
-| Dhuhr (Noon) | 11:37:11 |
-| Medium Coeli | 11:37:11 |
+| Dhuhr (Noon) | 11:37:10 |
+| Medium Coeli | 11:37:10 |
 | Sunset | 18:31:07 |
 | Maghrib | 18:34:01 |
 | Isha (Night) | 20:04:01 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°53'32.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°14'5.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|23°59'17.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°12'0.61" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°50'41.04" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°14'5.70" |Aries|Butain|Venus|
+|♂ Mars|Direct|23°59'17.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°12'1.12" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|21°50'41.00" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|16°16'54.12" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|20°9'36.75" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°9'36.69" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°53'32.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°14'5.76" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|23°59'17.16" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|3°12'0.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°50'40.54" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|16°16'52.40" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°15'39.07" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|15°53'31.96" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°14'5.70" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|23°59'17.92" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|3°12'1.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°50'41.00" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|16°16'54.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°9'36.69" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

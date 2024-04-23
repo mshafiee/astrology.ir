@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°0'53.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°31'55.87" |Aries|Butain|Venus|
-|♂ Mars|Direct|24°59'7.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°27'23.66" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|23°26'4.08" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°3'46.26" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|5°51'2.93" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|16°0'53.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|22°31'56.53" |Aries|Butain|Venus|
+|♂ Mars|Direct|24°59'4.60" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|4°27'22.19" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|23°26'2.41" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°3'39.48" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|6°0'57.86" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°0'53.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°31'55.87" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|24°59'7.82" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|4°27'23.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°26'4.08" |Aries|Butain|Venus|
+|♄ Saturn|Direct|16°0'53.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°31'56.03" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|24°59'7.80" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|4°27'23.67" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°26'4.12" |Aries|Butain|Venus|
 |☿ Mercury|Retrograde|16°3'46.26" |Aries|Butain|Sun|
 |☾ Moon|Direct|5°51'3.08" |Scorpio|Akleel|Mars|
 

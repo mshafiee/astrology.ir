@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:30:57 |
-| Sunrise | 05:47:11 |
+| Sunrise | 05:47:10 |
 | Dhuhr (Noon) | 13:13:51 |
 | Medium Coeli | 13:13:51 |
 | Sunset | 20:41:49 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:49:12 |
-| Sunrise | 05:47:11 |
+| Sunrise | 05:47:10 |
 | Dhuhr (Noon) | 13:13:51 |
 | Medium Coeli | 13:13:51 |
 | Sunset | 20:41:49 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°11'25.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°58'0.99" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°26'18.87" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°17'11.05" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|25°45'6.89" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|15°59'31.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°22'23.64" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|16°11'26.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°58'1.15" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°26'18.85" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°17'11.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|25°45'6.94" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|15°59'31.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°22'23.36" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

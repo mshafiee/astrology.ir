@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°13'30.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°3'12.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°43'37.13" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°39'1.22" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°12'43.20" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'55.27" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|3°35'19.68" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|16°13'30.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°3'12.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°43'37.16" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°38'56.75" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°12'40.99" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°0'51.29" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|4°13'29.11" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°3'12.83" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|26°43'37.13" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°39'1.22" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°12'43.20" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'55.27" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°35'19.68" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|26°12'40.99" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|16°0'51.29" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°13'29.11" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Arx Gallica, FDF, Fod Fwans, For d'o Frans, For de Frans, For de Fransas, For-de-Frans, For-nte-Frans, Fordefransa, Fort Royal, Fort Royale, Fort-de-France, Fort-de-Frans, Fort-deh-Frans, Fòd Fwans, Fôrt-de-France, Le Fort-de-France, f xr-dex-fr xngs, fa lan xi bao, foru=do=furansu, fwr dw frans, fwr-dw-frans, phorta-de-phransa, pirancuk kottai, poleudeupeulangseu, por-de-pransi, Φορ-ντε-Φρανς, Фор де Франс, Фор дьо Франс, Фор-де-Франс, Форт-де-Франс, Форт-дэ-Франс, Ֆոր դե Ֆրանս, פור-דה-פראנס, فور دو فرانس, فور-دو-فرانس, فورٹ ڈی فرانس, फोर्ट-दे-फ्रान्स, பிரான்சுக் கோட்டை, ฟอร์-เดอ-ฟร็องส์, ფორ-დე-ფრანსი, フォール＝ド＝フランス, 法兰西堡, 포르드프랑스

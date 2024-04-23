@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:04:11 |
 | Sunrise | 05:21:19 |
-| Dhuhr (Noon) | 12:02:22 |
-| Medium Coeli | 12:02:22 |
+| Dhuhr (Noon) | 12:02:23 |
+| Medium Coeli | 12:02:23 |
 | Sunset | 18:44:01 |
 | Maghrib | 18:47:46 |
 | Isha (Night) | 20:01:25 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:38:19 |
 | Sunrise | 05:21:19 |
-| Dhuhr (Noon) | 12:02:22 |
-| Medium Coeli | 12:02:22 |
+| Dhuhr (Noon) | 12:02:23 |
+| Medium Coeli | 12:02:23 |
 | Sunset | 18:44:01 |
 | Maghrib | 18:47:46 |
 | Isha (Night) | 20:15:43 |
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°49'7.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°3'32.51" |Aries|Butain|Venus|
-|♂ Mars|Direct|23°23'47.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|2°27'18.29" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|15°49'7.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|22°3'32.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|23°23'47.62" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|2°27'18.31" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|20°54'7.01" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|16°28'34.38" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|11°1'31.26" |Virgo|Awwa|Venus|

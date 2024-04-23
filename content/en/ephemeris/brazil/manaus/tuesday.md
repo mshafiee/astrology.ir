@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°2'22.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°35'35.08" |Aries|Butain|Venus|
-|♂ Mars|Direct|25°11'20.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°42'48.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|23°45'31.73" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°2'14.46" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|8°33'25.83" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|22°35'34.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|25°11'20.18" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|4°42'48.37" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|23°45'31.60" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°2'14.37" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|8°35'26.35" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°2'22.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°35'35.08" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|25°11'20.08" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|4°42'48.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°45'31.73" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|16°2'14.46" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|22°35'34.93" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|25°11'20.18" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|4°42'48.37" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°45'31.60" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|16°2'14.37" |Aries|Butain|Sun|
 |☾ Moon|Direct|8°33'25.83" |Scorpio|Akleel|Mars|
 
 
