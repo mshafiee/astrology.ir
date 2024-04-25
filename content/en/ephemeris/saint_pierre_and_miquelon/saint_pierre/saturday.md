@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 20:51:40 |
 | Isha (Night) | 22:29:27 |
 | Sharia Midnight | 00:52:17 |
-| Imum Coeli | 01:42:09 |
+| Imum Coeli | 01:42:10 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 20:51:40 |
 | Isha (Night) | 22:49:41 |
 | Sharia Midnight | 00:33:27 |
-| Imum Coeli | 01:42:09 |
+| Imum Coeli | 01:42:10 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -341,8 +341,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|16°24'10.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°30'23.49" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|28°13'59.18" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|8°32'47.50" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°36'57.74" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|8°32'47.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|28°36'57.79" |Aries|Thurayya|Venus|
 |☿ Mercury|Retrograde|16°18'28.48" |Aries|Butain|Sun|
 |☾ Moon|Direct|29°12'0.42" |Sagittarius|Baldah|Saturn|
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'31.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°3'15.97" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°43'43.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°39'9.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°12'57.27" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'43.62" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|3°49'39.77" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|23°3'16.30" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°43'48.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°39'15.86" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°13'1.52" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°0'56.82" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|3°36'32.99" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'31.80" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°3'16.30" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°43'48.63" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°39'15.86" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°13'1.52" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'56.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°36'32.99" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|26°43'46.56" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°39'5.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°12'55.85" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|16°0'45.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°0'21.47" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}

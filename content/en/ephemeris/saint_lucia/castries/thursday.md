@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'30.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°3'12.91" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°43'37.95" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°39'2.23" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°12'44.42" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'55.41" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|3°35'14.02" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|23°3'13.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°43'37.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°39'2.24" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°12'44.46" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°0'55.42" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|3°35'13.70" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°13'30.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|16°13'30.51" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°3'13.08" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|26°43'37.93" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°39'2.24" |Taurus|Thurayya|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Castries, Kastri, Kastrijs, Kastris, Kastrizo, Kastry, Kastrys, Port Castries, ka si te li, kaeseuteuliseu, kasatarisa, kastris, kastrys, kasutorizu, kestrijha, qstryz, Κάστρις, Кастри, Кастрийс, Кастрис, Кастры, Кастрі, קסטריז, كاستريس, کاستریس, कॅस्ट्रीझ, ਕਾਸਤਰੀਸ, காஸ்ட்ரீஸ், แคสตรีส์, ཁ་སི་ཐྲིས།, კასტრი, ካስትሪስ, カストリーズ, 卡斯特里, 캐스트리스

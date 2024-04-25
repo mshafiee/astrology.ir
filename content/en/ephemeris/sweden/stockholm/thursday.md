@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Moon|Ruler|01:27:43|02:10:22|Attraction of happiness and fortune|
 |9|Saturn|Servant|02:10:23|02:53:02|Reaching status and promotion|
 |10|Jupiter|Servant|02:53:03|03:35:42|Fulfilling needs|
-|11|Mars|Servant|03:35:43|04:18:22|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Mars|Servant|03:35:43|04:18:22|Attraction of love and hearts|
 |12|Sun|Servant|04:18:23|05:01:02|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°6'22.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°45'26.78" |Aries|Butain|Venus|
-|♂ Mars|Direct|25°44'20.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|5°24'19.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|24°38'10.11" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|15°59'19.43" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|18°7'58.58" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|22°45'27.76" |Aries|Butain|Venus|
+|♂ Mars|Direct|25°44'24.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|5°24'26.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|24°38'14.56" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|15°59'31.45" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|17°27'3.36" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}

@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Mars|Servant|22:12:31|23:09:40|Creating love, connection and marriage|
 |5|Sun|Servant|23:09:41|00:06:49|Indulgence|
 |6|Venus|Servant|00:06:50|01:03:59|Outer and inner journey|
-|7|Mercury|Servant|01:04:00|02:01:09|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Mercury|Servant|01:04:00|02:01:09|Achieving status and power|
 |8|Moon|Ruler|02:01:10|02:58:18|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Saturn|Servant|02:58:19|03:55:28|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|03:55:29|04:52:37|The moon is in Scorpio, Not suitable for doing anything.|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|16°7'15.61" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|22°47'37.10" |Aries|Butain|Venus|
 |♂ Mars|Direct|25°51'35.29" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|5°33'29.62" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|24°49'43.06" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|15°59'13.15" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|19°26'24.12" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|5°33'30.34" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|24°49'43.17" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|15°59'12.38" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|19°17'45.82" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

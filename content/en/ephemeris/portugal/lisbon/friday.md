@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°12'35.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°0'53.82" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°35'54.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°29'16.87" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°0'24.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'12.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|16°12'35.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°0'52.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°35'54.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°29'13.49" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°0'23.41" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°0'11.22" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|2°22'1.67" |Scorpio|Akleel|Mars|
 
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°35'54.22" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°29'16.87" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|26°0'24.76" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'12.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°44'46.78" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|16°0'11.22" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°22'1.67" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Felicitas Julia, Felicitas Julia Olissipo, LIS, Liospoin, Liospóin, Lisabon, Lisabona, Lisboa, Lisbon, Lisbona, Lisbonne, Lisbono, Lisbonum, Lisimba, Lisimbã, Lissabon, Lisszabon, Lizboa, Lizbon, Lizbona, Olisipo, Olissipo, li si ben, lisabana, lisaboni, lisbana, lisbxn, liseubon, lshbwnt, lysabwn, lysbwn, risubon, Λισαβώνα, Лисабон, Лиссабон, Лісабон, Լիսբոնա, ליסבון, لشبونة, لىسابون, لیسبون, ܠܫܒܘܢܐ, लिस्बन, লিসবন, ลิสบอน, ལ་ས་བན།, ལི་སི་བཱོན།, ლისაბონი, ሊዝቦን, リスボン, 里斯本, 리스본

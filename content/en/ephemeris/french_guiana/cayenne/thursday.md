@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'24.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°2'57.91" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°42'44.56" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°37'54.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°11'22.11" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'39.30" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°36'28.10" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|23°2'58.43" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°42'49.00" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°38'0.97" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°11'26.36" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|16°0'51.93" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°17'44.26" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌

@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|18:52:47|19:52:15|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|19:52:16|20:51:44|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Sun|Servant|20:51:45|21:51:13|Operations of tenderness and attraction of love|
+|3|Sun|Servant|20:51:45|21:51:13|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|21:51:14|22:50:42|Unfortunate and repelling goodness|
 |5|Mercury|Servant|22:50:43|23:50:11|Separation, vengeful and hostile deeds|
 |6|Moon|Servant|23:50:12|00:49:41|Suitable for all good deeds|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°26'29.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°36'20.86" |Aries|Butain|Venus|
-|♂ Mars|Direct|28°33'44.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|8°57'42.26" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|29°8'29.72" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°24'51.58" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|4°31'23.21" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|16°26'29.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°36'21.02" |Aries|Butain|Venus|
+|♂ Mars|Direct|28°33'44.13" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|8°57'42.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°8'29.77" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°24'51.60" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|4°31'23.30" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

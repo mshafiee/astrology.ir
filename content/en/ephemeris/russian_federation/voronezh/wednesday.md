@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°0'31.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°31'2.59" |Aries|Butain|Venus|
-|♂ Mars|Direct|24°56'9.49" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°23'38.37" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|23°21'19.84" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°4'11.34" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|5°12'49.80" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|16°0'31.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|22°31'3.17" |Aries|Butain|Venus|
+|♂ Mars|Direct|24°56'12.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|4°23'42.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|23°21'22.95" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|16°4'20.35" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|4°44'3.85" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°0'31.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°31'2.59" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|24°56'9.49" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|4°23'38.37" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°21'19.84" |Aries|Butain|Venus|
+|♄ Saturn|Direct|16°0'31.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°31'2.75" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|24°56'9.47" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|4°23'38.38" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°21'19.88" |Aries|Butain|Venus|
 |☿ Mercury|Retrograde|16°4'11.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°12'49.80" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°12'49.96" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

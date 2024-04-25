@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°11'43.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°58'45.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°28'46.57" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°20'17.30" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|25°49'2.50" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|15°59'40.97" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|29°59'36.00" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|16°11'43.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|22°58'45.46" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°28'46.55" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°20'17.32" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|25°49'2.54" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|15°59'40.98" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|29°59'35.71" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°11'43.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°58'45.30" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°28'46.57" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°20'17.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|25°49'2.50" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|15°59'40.97" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°59'36.00" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|16°11'43.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°58'45.46" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°28'46.55" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°20'17.32" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|25°49'2.54" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|15°59'40.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°59'35.71" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시
