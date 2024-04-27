@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'45.90" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|23°3'51.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°45'46.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°41'44.75" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°16'9.93" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°1'8.55" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|4°7'2.80" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|26°45'46.38" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°41'37.46" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°16'6.44" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|16°1'2.63" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|5°13'17.01" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|16°13'45.90" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°3'51.76" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|26°45'46.72" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°41'44.75" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°16'9.93" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°1'8.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°7'2.80" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|6°41'37.46" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°16'6.44" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°1'2.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°13'17.01" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MDE, Medegin, Medehl'in, Medel'in, Medelim, Medelin, Medeljina, Medeljinas, Medeljino, Medellin, Medellín, mai de lin, mdlyn, mdyyn, me de yin, medein, medejin, medelini, medeyina, meteyin, mydyllyn, mydylyn, Μεδεγίν, Меделин, Медельин, Медельїн, Медељин, Медэльін, מדיין, مدلین, ميديللين, ميديلين, میڈیلن, मेदेयीन, মেদেয়িন, ਮੇਦੇਯੀਨ, மெதெயின், เมเดยิน, მედელინი, ទីក្រុងមេឌេយីណ, メデジン, 麦德林, 메데인

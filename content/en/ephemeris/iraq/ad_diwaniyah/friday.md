@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:18:54|06:25:26|Love, creating love and attracting hearts|
+|1|Venus|Ruler|05:18:54|06:25:26|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mercury|Servant|06:25:27|07:32:00|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Moon|Servant|07:32:01|08:38:33|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|08:38:34|09:45:07|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°11'47.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|22°58'53.86" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°29'18.23" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°20'54.48" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|25°49'50.42" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|15°59'46.22" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|0°25'28.91" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|22°58'54.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°29'17.38" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°20'57.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|25°49'51.57" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|15°59'46.93" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|29°51'7.44" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Sun|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°29'17.38" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°20'57.53" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|25°49'51.57" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|15°59'46.93" |Aries|Butain|Sun|
+|☿ Mercury|Direct|15°59'46.93" |Aries|Butain|Sun|
 |☾ Moon|Direct|29°51'7.44" |Scorpio|Shaulah|Venus|
 
 

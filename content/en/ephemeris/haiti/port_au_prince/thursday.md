@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'39.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°3'36.40" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°44'55.71" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°40'39.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°14'48.59" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°1'2.15" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|3°59'4.08" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|23°3'35.78" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°44'50.23" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°40'32.23" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°14'43.31" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|16°0'46.48" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|4°22'39.76" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°13'39.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°3'36.19" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°44'56.28" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°40'39.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°14'48.61" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°1'2.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°7'11.25" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|16°13'39.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°3'36.40" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°44'55.71" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°40'39.99" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°14'48.59" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°1'2.15" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°59'4.08" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: PAP, Port au Prince, Port o Prens, Port o Prensas, Port-au-Prince, Port-o-Prehns, Port-o-Prens, Port-o-Prins, Porto Principe, Porto Príncipe, Portoprensa, Portoprinco, Portus Principis, Potoprens, Puerto Principe, Puerto Príncipe, Pòtoprens, Ville de Port-au-Prince, bwrt aw brans, poleutopeulaengseu, porata-o-prainsa, port-o-pirins, porta-a-prinsa, porta-au-prinsa, porta-o-prinsa, porutopuransu, pwrtw prns, pwrtwprns, tai zi gang, Πορτ-ο-Πρενς, Порт о Пренс, Порт-о-Пренс, Порт-о-Прэнс, Պորտ-օ-Պրենս, פורט או פרינס, פורט-או-פרנס, بورت أو برانس, پورتو پرنس, پورتوپرنس, پورٹ او پرنس, पोर्ट-ऑ-प्रिंस, पोर्ट-औ-प्रिन्स, পোর্ট-অ-প্রিন্স, ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ, போர்ட்-ஓ-பிரின்ஸ், പോർട്ട്-ഔ-പ്രിൻസ്, ปอร์โตแปรงซ์, པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།, პორტ-ო-პრენსი, ፖርቶፕሪንስ, ポルトープランス, 太子港, 포르토프랭스

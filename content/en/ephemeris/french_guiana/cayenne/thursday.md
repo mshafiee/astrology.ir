@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|26°42'49.00" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°38'0.97" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°11'26.36" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'51.93" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°0'51.93" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|3°17'44.26" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°42'49.00" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°38'0.97" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|26°11'26.36" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'51.93" |Aries|Butain|Sun|
+|☿ Mercury|Direct|16°0'51.93" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°17'44.26" |Sagittarius|Shaulah|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌

@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|26°43'37.93" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°39'2.24" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°12'44.46" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'55.42" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°0'55.42" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|3°35'13.70" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°43'37.93" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°39'2.24" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|26°12'44.46" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'55.42" |Aries|Butain|Sun|
+|☿ Mercury|Direct|16°0'55.42" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°35'13.70" |Sagittarius|Shaulah|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Castries, Kastri, Kastrijs, Kastris, Kastrizo, Kastry, Kastrys, Port Castries, ka si te li, kaeseuteuliseu, kasatarisa, kastris, kastrys, kasutorizu, kestrijha, qstryz, Κάστρις, Кастри, Кастрийс, Кастрис, Кастры, Кастрі, קסטריז, كاستريس, کاستریس, कॅस्ट्रीझ, ਕਾਸਤਰੀਸ, காஸ்ட்ரீஸ், แคสตรีส์, ཁ་སི་ཐྲིས།, კასტრი, ካስትሪስ, カストリーズ, 卡斯特里, 캐스트리스

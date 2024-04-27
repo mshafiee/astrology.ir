@@ -235,7 +235,7 @@ Timetable of twelve day and night planetary hours
 |1|Moon|Ruler|18:28:17|19:26:10|Attraction of material wealth, earning and prosperity|
 |2|Saturn|Servant|19:26:11|20:24:05|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Jupiter|Servant|20:24:06|21:22:00|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mars|Servant|21:22:01|22:19:55|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Mars|Servant|21:22:01|22:19:55|Creating love, connection and marriage|
 |5|Sun|Servant|22:19:56|23:17:50|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|23:17:51|00:15:45|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Mercury|Servant|00:15:46|01:13:40|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|26°46'11.00" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°42'15.22" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°16'48.69" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°1'10.66" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°1'10.66" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|4°14'56.70" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°46'11.00" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°42'15.22" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|26°16'48.69" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°1'10.66" |Aries|Butain|Sun|
+|☿ Mercury|Direct|16°1'10.66" |Aries|Butain|Sun|
 |☾ Moon|Direct|4°14'56.70" |Sagittarius|Shaulah|Mercury|
 
 

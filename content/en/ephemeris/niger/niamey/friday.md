@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°12'32.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°0'45.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°35'30.25" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°28'40.63" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°0'47.15" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°35'31.60" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°28'49.80" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|25°59'48.52" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'14.89" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°0'14.89" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|1°21'35.24" |Scorpio|Akleel|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°12'32.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°0'45.19" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°35'30.25" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°28'40.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|25°59'43.83" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'5.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°35'2.52" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|23°0'47.15" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°35'31.60" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°28'49.80" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|25°59'48.52" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°0'14.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°21'35.24" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메

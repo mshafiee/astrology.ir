@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|26°35'21.64" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°28'37.72" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|25°59'32.59" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'15.49" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°0'15.49" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|1°13'23.65" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°35'21.64" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°28'37.72" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|25°59'32.59" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'15.49" |Aries|Butain|Sun|
+|☿ Mercury|Direct|16°0'15.49" |Aries|Butain|Sun|
 |☾ Moon|Direct|1°13'23.65" |Sagittarius|Shaulah|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Salazar, San Tomas, San Tome, San Tomé, San Tomė, San-Tameh, San-Tome, Santo Tome, Santo Tomé, Santome, Sao Thome, Sao Tome, Sao Tomee, Sao Tomé, Sao-Tomeo, Soeo Tome, Svaety Tomas, Svätý Tomáš, Sào Thomé, São Tomé, Söo Tomé, TMS, Urbs Sancti Thomae, cavo tome, sa'o tome, sangtume, santome, savea team, saw twmy, saywtwmh, sea tu me, sheng duo mei, Σάο Τομέ, Сан-Тамэ, Сан-Томе, Сао Томе, Սան Տոմե, סאו טומה, ساؤ ٹومے, سائوتومه, ساو تومي, ساو تۆمێ, ساو ٹومے, साओ टोमे, সাও টোমে, ਸਾਓ ਤੋਮੇ, சாவோ தொமே, സാവോ ടോം, เซาตูเม, སའོ་ཊོ་མེ།, სან-ტომე, ሳን ቶሜ, サントメ, 圣多美, 聖多美, 상투메

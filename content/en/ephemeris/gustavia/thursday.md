@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|26°43'43.80" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°39'9.46" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°12'53.85" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'55.45" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°0'55.45" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|3°38'56.81" |Scorpio|Akleel|Mars|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|16°13'31.20" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°3'14.82" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|26°43'43.80" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°39'9.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°12'53.85" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'55.45" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°38'56.81" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|6°39'9.44" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°12'53.84" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°0'55.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°39'8.68" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아

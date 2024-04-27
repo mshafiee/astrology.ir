@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|05:43:07|06:45:36|Love, creating love and attracting hearts|
 |2|Mercury|Servant|06:45:37|07:48:06|Attracting auspiciousness|
-|3|Moon|Servant|07:48:07|08:50:37|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Moon|Servant|07:48:07|08:50:37|Attracting misfortune, no task is suitable|
 |4|Saturn|Servant|08:50:38|09:53:07|Unfortunate hour|
 |5|Jupiter|Servant|09:53:08|10:55:38|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|10:55:39|11:58:08|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°8'41.38" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|7°10'35.72" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°52'43.54" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°3'58.28" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°3'58.28" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|10°29'26.49" |Scorpio|Qalb|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°8'41.38" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|7°10'35.72" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|26°52'43.54" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°3'58.28" |Aries|Butain|Sun|
+|☿ Mercury|Direct|16°3'58.28" |Aries|Butain|Sun|
 |☾ Moon|Direct|10°29'26.49" |Sagittarius|NaAaem|Moon|
 
 

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|26°42'1.27" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°37'1.07" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°10'10.19" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'48.23" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|3°2'12.27" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|16°0'48.23" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|2°57'54.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°42'1.27" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|6°37'1.07" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|26°10'10.19" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'48.23" |Aries|Butain|Sun|
+|☿ Mercury|Direct|16°0'48.23" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°2'12.27" |Sagittarius|Shaulah|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Maranham, Maranhao, Maranhão, SLZ, San Luisas, San-Luis, Sao Louis, Sao Luis, Sao Luis do Maranhao, Sao Luiz, Sao Luiz de Maranhao, Sao Luiz do Maranhao, Saun Luis, Saun Luís, São Luis, São Luiz, São Luiz de Maranhão, São Luiz do Maranhão, São Luís, São Luís do Maranhão, cavo luyicu, sa'o lu'isa, san-luisi, sanglu-iseu, saw lwyys, saw lwyz, sayw lwyys  maranhaw, sheng lu yi si, Σάο Λουίς, Сан-Луис, Сан-Луіс, Сан-Луїс, Сао Луис, סאו לואיס, ساؤ لوئیس, ساؤ لوئیس، مارانہاؤ, سائو لوئیس، مارانهاو, ساو لويز, साओ लुईस, সাও লুইস, சாவோ லூயிசு, სან-ლუისი, サン・ルイス, 圣路易斯, 상루이스

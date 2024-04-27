@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|26°41'8.75" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°35'55.06" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°8'46.38" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'43.97" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|2°51'27.02" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|16°0'43.97" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|2°46'16.70" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°13'12.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°2'28.23" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°41'8.89" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°35'54.62" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°8'46.22" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'43.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°51'27.02" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|23°2'28.39" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°41'8.75" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°35'55.06" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°8'46.38" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°0'43.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°46'16.70" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MCZ, Macayo, Maceio, Maceió, Masejas, Masejo, Maseyo, Maçayó, ma sai yue, ma se xo, masayw, mase'i'o, maseio, masyyw, msyyʼw, Масейо, Масејо, מסייאו, ماسئیو, ماسايو, মাসেইও, มาเซโอ, მასეიო, マセイオ, 马塞约, 마세이오

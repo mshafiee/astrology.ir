@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°12'49.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°1'28.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|26°37'52.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|6°31'43.35" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°1'29.15" |Aries|Butain|Venus|
+|♂ Mars|Direct|26°37'51.58" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|6°31'46.15" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°3'30.73" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|16°0'24.95" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°0'24.95" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|2°30'24.26" |Scorpio|Akleel|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°12'49.15" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°1'29.15" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|26°37'51.58" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°31'46.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°3'31.84" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|16°0'25.85" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°59'7.24" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|23°1'29.20" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|26°37'52.22" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°31'43.35" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°3'30.73" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°0'24.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°30'24.26" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우
