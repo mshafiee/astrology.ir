@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:00:07 |
+| Fajr (Dawn) | 05:00:06 |
 | Sunrise | 06:13:15 |
 | Dhuhr (Noon) | 12:04:01 |
 | Medium Coeli | 12:04:01 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°9'15.40" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|0°22'33.22" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|11°14'45.73" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°2'22.20" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°14'24.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°45'27.88" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|2°2'21.57" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°14'24.35" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°11'12.26" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:34:38 |
 | Dhuhr (Noon) | 12:13:32 |
 | Medium Coeli | 12:13:32 |
-| Sunset | 18:52:50 |
+| Sunset | 18:52:49 |
 | Maghrib | 19:09:13 |
 | Isha (Night) | 19:59:03 |
 | Sharia Midnight | 23:35:03 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:34:38 |
 | Dhuhr (Noon) | 12:13:32 |
 | Medium Coeli | 12:13:32 |
-| Sunset | 18:52:50 |
+| Sunset | 18:52:49 |
 | Maghrib | 18:53:54 |
 | Isha (Night) | 20:14:35 |
-| Sharia Midnight | 23:29:49 |
+| Sharia Midnight | 23:29:48 |
 | Imum Coeli | 00:13:29 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:34:38 |
 | Dhuhr (Noon) | 12:13:32 |
 | Medium Coeli | 12:13:32 |
-| Sunset | 18:52:50 |
+| Sunset | 18:52:49 |
 | Maghrib | 18:53:54 |
 | Isha (Night) | 20:17:12 |
-| Sharia Midnight | 23:25:50 |
+| Sharia Midnight | 23:25:49 |
 | Imum Coeli | 00:13:29 |
 {{< /tab >}}
 
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:34:38 |
 | Dhuhr (Noon) | 12:13:32 |
 | Medium Coeli | 12:13:32 |
-| Sunset | 18:52:50 |
+| Sunset | 18:52:49 |
 | Maghrib | 18:53:54 |
 | Isha (Night) | 20:23:54 |
-| Sharia Midnight | 23:28:30 |
+| Sharia Midnight | 23:28:29 |
 | Imum Coeli | 00:13:29 |
 {{< /tab >}}
 
@@ -210,29 +210,29 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:18:12|Night duration: 10:40:59|
+|Duration of the day: 13:18:11|Night duration: 10:41:00|
 |Every hour of day duration: 01:06:31|Every hour of night duration: 00:53:25|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|05:34:38|06:41:08|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|06:41:09|07:47:39|Destruction of enemies|
-|3|Sun|Servant|07:47:40|08:54:10|Attraction of financial and emotional love|
-|4|Venus|Servant|08:54:11|10:00:41|Creating love, connection and marriage|
-|5|Mercury|Servant|10:00:42|11:07:12|Indulgence|
-|6|Moon|Servant|11:07:13|12:13:43|Outer and inner journey|
-|7|Saturn|Servant|12:13:44|13:20:14|Achieving status and power|
-|8|Jupiter|Ruler|13:20:15|14:26:45|Attraction of happiness and fortune|
-|9|Mars|Servant|14:26:46|15:33:16|Reaching status and promotion|
-|10|Sun|Servant|15:33:17|16:39:47|Fulfilling needs|
-|11|Venus|Servant|16:39:48|17:46:18|Attraction of love and hearts|
-|12|Mercury|Servant|17:46:19|18:52:49|Attracting misfortune, not suitable for any task|
+|1|Jupiter|Ruler|05:34:38|06:41:07|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|06:41:08|07:47:38|Destruction of enemies|
+|3|Sun|Servant|07:47:39|08:54:09|Attraction of financial and emotional love|
+|4|Venus|Servant|08:54:10|10:00:40|Creating love, connection and marriage|
+|5|Mercury|Servant|10:00:41|11:07:11|Indulgence|
+|6|Moon|Servant|11:07:12|12:13:42|Outer and inner journey|
+|7|Saturn|Servant|12:13:43|13:20:13|Achieving status and power|
+|8|Jupiter|Ruler|13:20:14|14:26:44|Attraction of happiness and fortune|
+|9|Mars|Servant|14:26:45|15:33:15|Reaching status and promotion|
+|10|Sun|Servant|15:33:16|16:39:46|Fulfilling needs|
+|11|Venus|Servant|16:39:47|17:46:17|Attraction of love and hearts|
+|12|Mercury|Servant|17:46:18|18:52:48|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|18:52:50|19:46:13|Attraction of material wealth, earning and prosperity|
+|1|Moon|Ruler|18:52:49|19:46:13|Attraction of material wealth, earning and prosperity|
 |2|Saturn|Servant|19:46:14|20:39:38|Destruction of enemies|
 |3|Jupiter|Servant|20:39:39|21:33:03|Attraction of financial and emotional love|
 |4|Mars|Servant|21:33:04|22:26:28|Creating love, connection and marriage|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:18:12|Night duration: 10:40:59|
+|Duration of the day: 13:18:11|Night duration: 10:41:00|
 |Every hour duration: 01:54:02|Every hour duration: 01:31:34|
 
  
@@ -266,19 +266,19 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Jupiter|Ruler|05:34:38|07:28:38|
 |Mid-morning|Mars|Servant|07:28:39|09:22:40|
-|Late morning|Sun|Servant|09:22:41|11:16:42|
-|Noon|Venus|Servant|11:16:43|13:10:43|
-|Early afternoon|Mercury|Servant|13:10:44|15:04:45|
-|Mid-afternoon|Moon|Servant|15:04:46|16:58:47|
-|Late afternoon|Saturn|Servant|16:58:48|18:52:49|
+|Late morning|Sun|Servant|09:22:41|11:16:41|
+|Noon|Venus|Servant|11:16:42|13:10:43|
+|Early afternoon|Mercury|Servant|13:10:44|15:04:44|
+|Mid-afternoon|Moon|Servant|15:04:45|16:58:46|
+|Late afternoon|Saturn|Servant|16:58:47|18:52:48|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|18:52:50|20:24:23|
-|Late evening|Saturn|Servant|20:24:24|21:55:57|
-|Midnight|Jupiter|Servant|21:55:58|23:27:31|
-|Late at night|Mars|Servant|23:27:32|00:59:05|
+|Evening|Moon|Ruler|18:52:49|20:24:22|
+|Late evening|Saturn|Servant|20:24:23|21:55:56|
+|Midnight|Jupiter|Servant|21:55:57|23:27:30|
+|Late at night|Mars|Servant|23:27:31|00:59:05|
 |Rooster song|Sun|Servant|00:59:06|02:30:39|
 |False Dawn|Venus|Servant|02:30:40|04:02:13|
 |Dawn|Mercury|Servant|04:02:14|05:33:48|

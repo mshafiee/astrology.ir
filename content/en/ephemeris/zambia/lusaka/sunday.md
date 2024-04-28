@@ -220,7 +220,7 @@ Timetable of twelve day and night planetary hours
 |2|Venus|Servant|07:14:54|08:12:44|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mercury|Servant|08:12:45|09:10:35|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Moon|Servant|09:10:36|10:08:27|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Saturn|Servant|10:08:28|11:06:18|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Saturn|Servant|10:08:28|11:06:18|Separation, vengeful and hostile deeds|
 |6|Jupiter|Servant|11:06:19|12:04:09|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Mars|Servant|12:04:10|13:02:00|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|13:02:01|13:59:52|Extremely auspicious and attracts happiness|
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|8°22'29.97" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|28°23'51.12" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|16°16'14.08" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|26°27'39.47" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|26°27'39.53" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°23'13.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°27'55.33" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|28°5'46.65" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|8°22'29.97" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°23'51.12" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|16°16'14.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°27'39.47" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|16°23'13.30" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°27'55.16" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|28°5'46.68" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|8°22'29.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|28°23'51.07" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°16'14.06" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°27'39.53" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

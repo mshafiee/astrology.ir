@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|17:17:30|18:23:22|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|18:23:23|19:29:15|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Sun|Servant|19:29:16|20:35:08|Operations of tenderness and attraction of love|
+|3|Sun|Servant|19:29:16|20:35:08|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|20:35:09|21:41:01|Unfortunate and repelling goodness|
 |5|Mercury|Servant|21:41:02|22:46:54|Separation, vengeful and hostile deeds|
 |6|Moon|Servant|22:46:55|23:52:47|Suitable for all good deeds|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°26'51.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°37'20.16" |Aries|Butain|Venus|
-|♂ Mars|Direct|28°36'59.92" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|9°1'48.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|29°13'42.50" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|16°25'58.89" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|5°27'37.70" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|16°26'51.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°37'20.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|28°36'57.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|9°1'39.86" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°13'37.56" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|16°25'49.30" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|6°28'6.01" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°26'51.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°37'20.16" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|28°36'59.92" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°1'48.95" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|29°13'42.50" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|16°25'58.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°27'37.70" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|16°26'51.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°37'20.00" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|28°36'59.95" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°1'39.84" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|29°13'37.56" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°25'49.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°28'6.01" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Venus|Moon|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mercury|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

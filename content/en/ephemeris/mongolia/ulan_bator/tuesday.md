@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°37'44.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|24°5'57.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|0°11'38.04" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|11°1'1.82" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|1°44'57.75" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°8'13.60" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|2°47'18.05" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|24°5'56.87" |Aries|Butain|Venus|
+|♂ Mars|Direct|0°11'38.90" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|11°0'58.81" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|1°44'56.49" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|17°8'13.47" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|3°32'44.43" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°37'44.36" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|24°5'56.87" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|0°11'38.04" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|11°1'1.82" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°44'57.75" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°8'13.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°47'18.05" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|0°11'38.90" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|11°0'58.81" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°44'56.49" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°8'13.47" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°32'44.43" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Mercury|Mercury|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
