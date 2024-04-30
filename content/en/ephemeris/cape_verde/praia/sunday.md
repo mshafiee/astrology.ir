@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:54:16 |
 | Sunrise | 06:12:07 |
-| Dhuhr (Noon) | 12:31:26 |
-| Medium Coeli | 12:31:26 |
+| Dhuhr (Noon) | 12:31:27 |
+| Medium Coeli | 12:31:27 |
 | Sunset | 18:50:58 |
 | Maghrib | 18:51:55 |
 | Isha (Night) | 20:21:55 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°29'15.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°43'33.13" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|28°57'40.44" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°27'45.51" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|29°46'41.58" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|16°33'31.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°24'57.92" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|23°43'34.56" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|28°57'40.63" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°27'50.85" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|29°46'44.19" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°33'35.16" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°32'17.96" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Venus|Moon|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

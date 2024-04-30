@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:18:01 |
-| Sunrise | 05:40:47 |
+| Sunrise | 05:40:48 |
 | Dhuhr (Noon) | 12:01:11 |
 | Medium Coeli | 12:01:11 |
 | Sunset | 18:21:46 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:22:29 |
-| Sunrise | 05:40:47 |
+| Sunrise | 05:40:48 |
 | Dhuhr (Noon) | 12:01:11 |
 | Medium Coeli | 12:01:11 |
 | Sunset | 18:21:46 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|13°26'49.25" |Aries|Butain|Sun|
 |♀ Venus|Direct|4°50'3.49" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|18°24'45.63" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|9°12'32.87" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|8°30'8.01" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Sun|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°50'40.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°41'5.65" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|2°7'23.10" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|13°26'49.25" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|4°50'3.49" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°24'26.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°30'28.78" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°41'5.82" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|2°7'20.58" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|13°26'47.87" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|4°50'2.23" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°24'40.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°30'8.01" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

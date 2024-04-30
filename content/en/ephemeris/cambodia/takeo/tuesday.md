@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°37'59.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|24°6'36.77" |Aries|Butain|Venus|
-|♂ Mars|Direct|0°13'50.56" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|11°3'46.76" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|1°48'26.60" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°9'30.52" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|4°8'4.36" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|16°37'59.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|24°6'34.87" |Aries|Butain|Venus|
+|♂ Mars|Direct|0°13'49.01" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|11°3'36.77" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|1°48'21.41" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|17°9'21.97" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|5°9'10.07" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°37'59.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°6'36.77" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|0°13'50.56" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|11°3'46.76" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|16°37'59.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°6'34.87" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|0°13'49.01" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|11°3'36.77" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|1°48'21.41" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|17°9'21.97" |Aries|Butain|Sun|
 |☾ Moon|Direct|5°9'10.07" |Aquarius|SaadAlSaud|Venus|

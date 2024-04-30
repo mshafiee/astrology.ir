@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 11:55:39 |
 | Sunset | 18:01:30 |
 | Maghrib | 18:17:39 |
-| Isha (Night) | 18:57:11 |
+| Isha (Night) | 18:57:12 |
 | Sharia Midnight | 23:19:59 |
 | Imum Coeli | 23:55:36 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°38'53.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|24°9'1.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|0°21'47.96" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|11°13'48.40" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|2°1'9.76" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°13'57.84" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|6°32'3.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|16°38'53.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|24°9'1.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|0°21'47.93" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|11°13'48.43" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|2°1'9.82" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|17°13'57.88" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|6°32'4.59" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°38'53.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°9'1.47" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|0°21'47.96" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|11°13'48.40" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°1'9.76" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°13'57.84" |Aries|Butain|Sun|
+|♄ Saturn|Direct|16°38'53.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°9'1.64" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|0°21'47.93" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|11°13'48.43" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°1'9.82" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°13'57.88" |Aries|Butain|Sun|
 |☾ Moon|Direct|6°32'4.59" |Aquarius|SaadAlSaud|Venus|
 
 

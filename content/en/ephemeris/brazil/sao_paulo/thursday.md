@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:11:18|Night duration: 12:49:08|
+|Duration of the day: 11:11:18|Night duration: 12:49:09|
 |Every hour of day duration: 00:55:57|Every hour of night duration: 01:04:06|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Moon|Ruler|17:38:58|18:43:02|Attraction of material wealth, earning and prosperity|
 |2|Saturn|Servant|18:43:03|19:47:08|Destruction of enemies|
 |3|Jupiter|Servant|19:47:09|20:51:14|Attraction of financial and emotional love|
-|4|Mars|Servant|20:51:15|21:55:19|Creating love, connection and marriage|
-|5|Sun|Servant|21:55:20|22:59:25|Indulgence|
+|4|Mars|Servant|20:51:15|21:55:20|Creating love, connection and marriage|
+|5|Sun|Servant|21:55:21|22:59:25|Indulgence|
 |6|Venus|Servant|22:59:26|00:03:31|Outer and inner journey|
-|7|Mercury|Servant|00:03:32|01:07:36|Achieving status and power|
-|8|Moon|Ruler|01:07:37|02:11:42|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:11:43|03:15:48|Reaching status and promotion|
-|10|Jupiter|Servant|03:15:49|04:19:53|Fulfilling needs|
-|11|Mars|Servant|04:19:54|05:23:59|Attraction of love and hearts|
-|12|Sun|Servant|05:24:00|06:28:05|Attracting misfortune, not suitable for any task|
+|7|Mercury|Servant|00:03:32|01:07:37|Achieving status and power|
+|8|Moon|Ruler|01:07:38|02:11:43|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:11:44|03:15:48|Reaching status and promotion|
+|10|Jupiter|Servant|03:15:49|04:19:54|Fulfilling needs|
+|11|Mars|Servant|04:19:55|05:24:00|Attraction of love and hearts|
+|12|Sun|Servant|05:24:01|06:28:06|Attracting misfortune, not suitable for any task|
 
  
  

@@ -1,6 +1,6 @@
 ---
-date: 2024-04-28T00:00:00+02:00
-lastmod: 2024-04-28T00:00:00+02:00
+date: 2024-05-05T00:00:00+02:00
+lastmod: 2024-05-05T00:00:00+02:00
 title: Longyearbyen Sunday
 slug: sunday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Sunday, 28 Apr 2024
+description: 🗓 Sunday, 05 May 2024
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -336,11 +336,11 @@ Position of planets based on tropical calculations at sunrise
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**♂ Mars**|<sub> |<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔

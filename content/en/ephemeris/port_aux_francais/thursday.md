@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:35:21 |
-| Sunrise | 07:25:32 |
+| Sunrise | 07:25:33 |
 | Dhuhr (Noon) | 12:16:03 |
 | Medium Coeli | 12:16:03 |
 | Sunset | 17:05:56 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:53:50 |
-| Sunrise | 07:25:32 |
+| Sunrise | 07:25:33 |
 | Dhuhr (Noon) | 12:16:03 |
 | Medium Coeli | 12:16:03 |
 | Sunset | 17:05:56 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:26:07 |
-| Sunrise | 07:25:32 |
+| Sunrise | 07:25:33 |
 | Dhuhr (Noon) | 12:16:03 |
 | Medium Coeli | 12:16:03 |
 | Sunset | 17:05:56 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:35:21 |
-| Sunrise | 07:25:32 |
+| Sunrise | 07:25:33 |
 | Dhuhr (Noon) | 12:16:03 |
 | Medium Coeli | 12:16:03 |
 | Sunset | 17:05:56 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 09:40:24|Night duration: 14:21:03|
+|Duration of the day: 09:40:23|Night duration: 14:21:03|
 |Every hour of day duration: 00:48:22|Every hour of night duration: 01:11:45|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|07:25:32|08:13:53|Attraction of material wealth, earning and prosperity|
+|1|Jupiter|Ruler|07:25:33|08:13:53|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|08:13:54|09:02:15|Destruction of enemies|
 |3|Sun|Servant|09:02:16|09:50:37|Attraction of financial and emotional love|
 |4|Venus|Servant|09:50:38|10:38:59|Creating love, connection and marriage|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 09:40:24|Night duration: 14:21:03|
+|Duration of the day: 09:40:23|Night duration: 14:21:03|
 |Every hour duration: 01:22:55|Every hour duration: 02:03:00|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|07:25:32|08:48:25|
-|Mid-morning|Mars|Servant|08:48:26|10:11:20|
-|Late morning|Sun|Servant|10:11:21|11:34:15|
-|Noon|Venus|Servant|11:34:16|12:57:10|
+|Early morning|Jupiter|Ruler|07:25:33|08:48:26|
+|Mid-morning|Mars|Servant|08:48:27|10:11:21|
+|Late morning|Sun|Servant|10:11:22|11:34:16|
+|Noon|Venus|Servant|11:34:17|12:57:10|
 |Early afternoon|Mercury|Servant|12:57:11|14:20:05|
 |Mid-afternoon|Moon|Servant|14:20:06|15:43:00|
 |Late afternoon|Saturn|Servant|15:43:01|17:05:55|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|12°11'2.57" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|3°13'49.69" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|17°41'45.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°5'43.40" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|20°26'13.10" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

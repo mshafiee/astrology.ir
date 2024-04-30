@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 14:04:28|Night duration: 09:54:18|
-|Every hour of day duration: 01:10:22|Every hour of night duration: 00:49:31|
+|Every hour of day duration: 01:10:22|Every hour of night duration: 00:49:32|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°49'15.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°37'10.29" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°37'10.22" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|1°54'29.78" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|13°10'33.59" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|4°29'26.17" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°14'55.24" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°0'7.42" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|13°10'33.31" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|4°29'26.03" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°14'55.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°1'45.74" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
