@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:07:46 |
+| Fajr (Dawn) | 04:07:45 |
 | Sunrise | 05:24:51 |
 | Dhuhr (Noon) | 11:42:00 |
 | Medium Coeli | 11:42:00 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|1°24'32.10" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|12°32'49.96" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|3°41'29.54" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°53'25.26" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|17°53'25.26" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|25°47'59.67" |Capricorn|SaadAlSaud|Sun|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°28'3.86" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|1°24'32.10" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|12°32'49.96" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°41'25.19" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°53'11.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°38'58.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|3°41'29.54" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|17°53'25.26" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°47'59.67" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Libra|Moon|Venus|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

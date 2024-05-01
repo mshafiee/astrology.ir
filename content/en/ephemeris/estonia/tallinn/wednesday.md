@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°38'46.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|24°8'43.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|0°20'48.48" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|11°12'30.11" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|1°59'35.14" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°13'16.62" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|6°19'0.51" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|16°38'46.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|24°8'42.15" |Aries|Butain|Venus|
+|♂ Mars|Direct|0°20'49.01" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|11°12'25.40" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|1°59'33.00" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|17°13'14.92" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|7°12'55.36" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|0°20'48.48" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|11°12'30.11" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|1°59'35.14" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°13'16.62" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|17°13'16.62" |Aries|Butain|Sun|
 |☾ Moon|Direct|6°19'0.51" |Aquarius|SaadAlSaud|Venus|
 
 

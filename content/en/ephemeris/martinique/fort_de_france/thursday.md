@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:37 |
-| Sunrise | 05:40:48 |
+| Sunrise | 05:40:47 |
 | Dhuhr (Noon) | 12:01:11 |
 | Medium Coeli | 12:01:11 |
 | Sunset | 18:21:46 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:26:04 |
-| Sunrise | 05:40:48 |
+| Sunrise | 05:40:47 |
 | Dhuhr (Noon) | 12:01:11 |
 | Medium Coeli | 12:01:11 |
 | Sunset | 18:21:46 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:18:01 |
-| Sunrise | 05:40:48 |
+| Sunrise | 05:40:47 |
 | Dhuhr (Noon) | 12:01:11 |
 | Medium Coeli | 12:01:11 |
 | Sunset | 18:21:46 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:22:29 |
-| Sunrise | 05:40:48 |
+| Sunrise | 05:40:47 |
 | Dhuhr (Noon) | 12:01:11 |
 | Medium Coeli | 12:01:11 |
 | Sunset | 18:21:46 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:40:58|Night duration: 11:18:35|
+|Duration of the day: 12:40:59|Night duration: 11:18:35|
 |Every hour of day duration: 01:03:25|Every hour of night duration: 00:56:33|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|05:40:48|06:44:11|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|06:44:12|07:47:36|Destruction of enemies|
-|3|Sun|Servant|07:47:37|08:51:01|Attraction of financial and emotional love|
-|4|Venus|Servant|08:51:02|09:54:26|Creating love, connection and marriage|
-|5|Mercury|Servant|09:54:27|10:57:51|Indulgence|
-|6|Moon|Servant|10:57:52|12:01:16|Outer and inner journey|
-|7|Saturn|Servant|12:01:17|13:04:40|Achieving status and power|
+|1|Jupiter|Ruler|05:40:47|06:44:10|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|06:44:11|07:47:35|Destruction of enemies|
+|3|Sun|Servant|07:47:36|08:51:00|Attraction of financial and emotional love|
+|4|Venus|Servant|08:51:01|09:54:25|Creating love, connection and marriage|
+|5|Mercury|Servant|09:54:26|10:57:50|Indulgence|
+|6|Moon|Servant|10:57:51|12:01:15|Outer and inner journey|
+|7|Saturn|Servant|12:01:16|13:04:40|Achieving status and power|
 |8|Jupiter|Ruler|13:04:41|14:08:05|Attraction of happiness and fortune|
 |9|Mars|Servant|14:08:06|15:11:30|Reaching status and promotion|
 |10|Sun|Servant|15:11:31|16:14:55|Fulfilling needs|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°50'40.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|24°41'5.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|2°7'23.10" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|13°26'49.25" |Aries|Butain|Sun|
-|♀ Venus|Direct|4°50'3.49" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°24'45.63" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|8°30'8.01" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|16°50'40.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|24°41'5.49" |Aries|Butain|Venus|
+|♂ Mars|Direct|2°7'23.13" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|13°26'49.22" |Aries|Butain|Sun|
+|♀ Venus|Direct|4°50'3.43" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|18°24'45.59" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|9°12'30.98" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Sun|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°50'40.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°41'5.82" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|2°7'20.58" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|13°26'47.87" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|4°50'2.23" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°24'40.30" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°30'8.01" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|16°50'40.74" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°41'5.49" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|2°7'23.13" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|13°26'49.22" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|4°49'57.94" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|18°24'30.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°5'13.82" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

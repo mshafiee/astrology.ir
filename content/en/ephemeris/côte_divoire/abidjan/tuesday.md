@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°34'20.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°56'54.45" |Aries|Butain|Venus|
-|♂ Mars|Direct|29°41'46.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|10°23'23.74" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|0°57'11.68" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|16°52'55.18" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|24°30'23.64" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|16°34'20.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°56'52.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|29°41'45.71" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|10°23'15.44" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|0°57'7.43" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|16°52'48.55" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|25°34'47.39" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°41'46.63" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°23'23.74" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|0°57'11.68" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|16°52'55.18" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°52'55.18" |Aries|Butain|Sun|
 |☾ Moon|Direct|24°30'23.64" |Capricorn|SaadAlBula|Sun|
 
 

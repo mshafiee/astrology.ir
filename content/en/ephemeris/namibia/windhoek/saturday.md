@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°54'47.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|24°52'32.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|2°44'58.48" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°14'12.16" |Aries|Butain|Sun|
-|♀ Venus|Direct|5°50'4.48" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°54'44.05" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|19°47'46.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|16°54'47.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|24°52'32.49" |Aries|Butain|Venus|
+|♂ Mars|Direct|2°44'58.51" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°14'12.13" |Aries|Butain|Sun|
+|♀ Venus|Direct|5°50'13.99" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|18°55'5.78" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|21°12'34.34" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Jupiter|Venus|Mercury|Moon|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|2°44'58.48" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|14°14'12.16" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|5°50'14.05" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°55'5.82" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|18°55'5.82" |Aries|Butain|Sun|
 |☾ Moon|Direct|21°12'35.84" |Pisces|Rescha|Mars|
 
 

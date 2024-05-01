@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°3'33.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°17'22.45" |Aries|Butain|Venus|
-|♂ Mars|Direct|4°6'22.65" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|15°56'42.02" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°0'37.83" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|20°9'15.48" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|16°23'57.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|17°3'33.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°17'23.84" |Aries|Butain|Venus|
+|♂ Mars|Direct|4°6'25.14" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|15°56'50.54" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°0'42.60" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|20°9'23.92" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|17°4'43.72" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°3'33.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°17'24.00" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|4°6'25.11" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|15°56'50.57" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|17°3'33.48" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°17'23.84" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|4°6'25.14" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|15°56'50.54" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|8°0'42.67" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|20°9'23.96" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|20°9'23.96" |Aries|Butain|Venus|
 |☾ Moon|Direct|17°4'43.09" |Aries|Butain|Sun|
 
 

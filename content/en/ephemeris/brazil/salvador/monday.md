@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:39:35|Night duration: 12:20:35|
+|Duration of the day: 11:39:34|Night duration: 12:20:36|
 |Every hour of day duration: 00:58:18|Every hour of night duration: 01:01:43|
 
  
@@ -222,17 +222,17 @@ Timetable of twelve day and night planetary hours
 |4|Mars|Servant|08:36:19|09:34:36|Repelling and destroying enemies and discharging enemy energy|
 |5|Sun|Servant|09:34:37|10:32:54|Answering needs, attracting love and wealth|
 |6|Venus|Servant|10:32:55|11:31:12|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|11:31:13|12:29:30|Making promises|
-|8|Moon|Ruler|12:29:31|13:27:48|Reconciliation of two persons, attracting love|
-|9|Saturn|Servant|13:27:49|14:26:06|Attracting and repelling enemies and causing separation|
-|10|Jupiter|Servant|14:26:07|15:24:24|Good for any task|
-|11|Mars|Servant|15:24:25|16:22:42|Creating enmity and negative energy|
-|12|Sun|Servant|16:22:43|17:21:00|Heart tenderness|
+|7|Mercury|Servant|11:31:13|12:29:29|Making promises|
+|8|Moon|Ruler|12:29:30|13:27:47|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|13:27:48|14:26:05|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|14:26:06|15:24:23|Good for any task|
+|11|Mars|Servant|15:24:24|16:22:41|Creating enmity and negative energy|
+|12|Sun|Servant|16:22:42|17:20:59|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|17:21:01|18:22:42|Repelling magic, attracting discharged energy|
+|1|Venus|Ruler|17:21:00|18:22:42|Repelling magic, attracting discharged energy|
 |2|Mercury|Servant|18:22:43|19:24:25|Outer and inner journey|
 |3|Moon|Servant|19:24:26|20:26:08|Marriage connection is good|
 |4|Saturn|Servant|20:26:09|21:27:51|Repelling and destroying enemies and discharging enemy energy|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°34'55.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|23°58'26.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|29°46'51.02" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|10°29'47.50" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|1°5'18.14" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|16°55'25.58" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|26°6'40.54" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|16°34'54.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°58'26.45" |Aries|Butain|Venus|
+|♂ Mars|Direct|29°46'51.04" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|10°29'47.47" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|1°5'18.04" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|16°55'25.06" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|25°59'50.77" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°34'55.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°58'26.61" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|29°46'51.02" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|10°29'47.50" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|16°34'54.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°58'26.45" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|29°46'51.04" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|10°29'47.47" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|1°5'18.10" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|16°55'25.09" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°55'25.09" |Aries|Butain|Sun|
 |☾ Moon|Direct|25°59'51.20" |Capricorn|SaadAlSaud|Sun|
 
 

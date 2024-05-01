@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|1°24'4.05" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|12°32'15.11" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|3°40'44.67" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°53'6.79" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|17°53'6.79" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|25°40'23.18" |Capricorn|SaadAlBula|Sun|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°45'53.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°27'55.45" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|1°24'4.05" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|12°32'15.11" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°40'44.67" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°53'6.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°40'23.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|16°45'53.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°27'55.29" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|1°24'4.08" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|12°32'15.08" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|3°40'44.61" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|17°52'46.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°34'2.58" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Libra|Moon|Venus|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}

@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:14:18 |
 | Dhuhr (Noon) | 12:57:15 |
 | Medium Coeli | 12:57:15 |
-| Sunset | 19:40:40 |
+| Sunset | 19:40:39 |
 | Maghrib | 19:57:32 |
 | Isha (Night) | 20:49:09 |
-| Sharia Midnight | 00:17:25 |
+| Sharia Midnight | 00:17:24 |
 | Imum Coeli | 00:57:12 |
 {{< /tab >}}
 
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:14:18 |
 | Dhuhr (Noon) | 12:57:15 |
 | Medium Coeli | 12:57:15 |
-| Sunset | 19:40:40 |
+| Sunset | 19:40:39 |
 | Maghrib | 20:00:03 |
 | Isha (Night) | 20:49:09 |
-| Sharia Midnight | 00:12:46 |
+| Sharia Midnight | 00:12:45 |
 | Imum Coeli | 00:57:12 |
 {{< /tab >}}
 
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:26:22|Night duration: 10:32:44|
-|Every hour duration: 01:55:12|Every hour duration: 01:30:23|
+|Duration of the day: 13:26:21|Night duration: 10:32:45|
+|Every hour duration: 01:55:12|Every hour duration: 01:30:24|
 
  
  
@@ -266,21 +266,21 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Jupiter|Ruler|06:14:18|08:09:28|
 |Mid-morning|Mars|Servant|08:09:29|10:04:40|
-|Late morning|Sun|Servant|10:04:41|11:59:52|
-|Noon|Venus|Servant|11:59:53|13:55:03|
-|Early afternoon|Mercury|Servant|13:55:04|15:50:15|
-|Mid-afternoon|Moon|Servant|15:50:16|17:45:27|
-|Late afternoon|Saturn|Servant|17:45:28|19:40:39|
+|Late morning|Sun|Servant|10:04:41|11:59:51|
+|Noon|Venus|Servant|11:59:52|13:55:03|
+|Early afternoon|Mercury|Servant|13:55:04|15:50:14|
+|Mid-afternoon|Moon|Servant|15:50:15|17:45:26|
+|Late afternoon|Saturn|Servant|17:45:27|19:40:38|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|19:40:40|21:11:02|
-|Late evening|Saturn|Servant|21:11:03|22:41:25|
-|Midnight|Jupiter|Servant|22:41:26|00:11:49|
-|Late at night|Mars|Servant|00:11:50|01:42:12|
-|Rooster song|Sun|Servant|01:42:13|03:12:36|
-|False Dawn|Venus|Servant|03:12:37|04:42:59|
+|Evening|Moon|Ruler|19:40:39|21:11:01|
+|Late evening|Saturn|Servant|21:11:02|22:41:25|
+|Midnight|Jupiter|Servant|22:41:26|00:11:48|
+|Late at night|Mars|Servant|00:11:49|01:42:12|
+|Rooster song|Sun|Servant|01:42:13|03:12:35|
+|False Dawn|Venus|Servant|03:12:36|04:42:59|
 |Dawn|Mercury|Servant|04:43:00|06:13:23|
 
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°23'16.87" |Aries|Butain|Venus|
 |♂ Mars|Direct|1°8'47.56" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|12°12'59.01" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|3°16'18.73" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°42'45.31" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|20°53'33.61" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|3°16'18.67" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|17°42'45.28" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|20°52'58.72" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°44'10.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°23'16.87" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|1°8'47.56" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|12°12'59.01" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°16'18.73" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°42'45.31" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°53'33.61" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Direct|24°23'16.71" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|1°8'47.58" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|12°12'58.98" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|3°16'18.67" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|17°42'45.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°52'58.72" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

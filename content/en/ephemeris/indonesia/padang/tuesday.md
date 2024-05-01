@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:13:37 |
-| Sunrise | 06:13:11 |
+| Sunrise | 06:13:10 |
 | Dhuhr (Noon) | 12:15:45 |
 | Medium Coeli | 12:15:45 |
 | Sunset | 18:18:19 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:01:11 |
-| Sunrise | 06:13:11 |
+| Sunrise | 06:13:10 |
 | Dhuhr (Noon) | 12:15:45 |
 | Medium Coeli | 12:15:45 |
 | Sunset | 18:18:19 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:59:06 |
-| Sunrise | 06:13:11 |
+| Sunrise | 06:13:10 |
 | Dhuhr (Noon) | 12:15:45 |
 | Medium Coeli | 12:15:45 |
 | Sunset | 18:18:19 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|0°14'50.31" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|11°5'2.46" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|1°50'2.19" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°10'4.35" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|17°10'4.35" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|4°25'26.28" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°38'6.25" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°6'55.09" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|0°14'50.31" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|11°5'2.46" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°50'2.19" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°10'4.35" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°25'26.28" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°6'55.07" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|0°14'50.05" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|11°5'2.71" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°50'2.20" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|17°10'3.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°16'57.08" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Moon|Mercury|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}

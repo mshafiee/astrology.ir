@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:39:10 |
 | Sunrise | 06:09:29 |
-| Dhuhr (Noon) | 13:08:06 |
-| Medium Coeli | 13:08:06 |
+| Dhuhr (Noon) | 13:08:05 |
+| Medium Coeli | 13:08:05 |
 | Sunset | 20:07:17 |
 | Maghrib | 20:26:13 |
 | Isha (Night) | 21:25:18 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:28:07 |
 | Sunrise | 06:09:29 |
-| Dhuhr (Noon) | 13:08:06 |
-| Medium Coeli | 13:08:06 |
+| Dhuhr (Noon) | 13:08:05 |
+| Medium Coeli | 13:08:05 |
 | Sunset | 20:07:17 |
 | Maghrib | 20:29:02 |
 | Isha (Night) | 21:25:18 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:45:32 |
 | Sunrise | 06:09:29 |
-| Dhuhr (Noon) | 13:08:06 |
-| Medium Coeli | 13:08:06 |
+| Dhuhr (Noon) | 13:08:05 |
+| Medium Coeli | 13:08:05 |
 | Sunset | 20:07:17 |
 | Maghrib | 20:09:23 |
 | Isha (Night) | 21:31:36 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:16:02 |
 | Sunrise | 06:09:29 |
-| Dhuhr (Noon) | 13:08:06 |
-| Medium Coeli | 13:08:06 |
+| Dhuhr (Noon) | 13:08:05 |
+| Medium Coeli | 13:08:05 |
 | Sunset | 20:07:17 |
 | Maghrib | 20:09:23 |
 | Isha (Night) | 21:47:47 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|3°27'8.73" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|15°7'19.27" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°57'46.76" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°32'5.07" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|19°32'5.07" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|4°22'21.03" |Pisces|FarghAlMuakhar|Saturn|
 
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|3°27'8.73" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|15°7'19.27" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|6°57'46.76" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|19°32'5.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°22'21.03" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|19°32'4.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°20'10.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
