@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°54'55.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|24°52'52.94" |Aries|Butain|Venus|
-|♂ Mars|Direct|2°46'5.31" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°15'36.00" |Aries|Butain|Sun|
-|♀ Venus|Direct|5°52'0.98" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|18°56'1.42" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|21°31'19.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°52'52.39" |Aries|Butain|Venus|
+|♂ Mars|Direct|2°46'2.67" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°15'31.78" |Aries|Butain|Sun|
+|♀ Venus|Direct|5°51'58.34" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°55'54.56" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|20°57'39.58" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°54'54.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°52'52.78" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|2°46'5.33" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|14°15'35.97" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|5°52'0.98" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|18°56'1.42" |Aries|Butain|Sun|
+|♄ Saturn|Direct|16°54'55.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°52'52.94" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|2°46'5.31" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|14°15'36.00" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|5°52'1.04" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°56'1.46" |Aries|Butain|Sun|
 |☾ Moon|Direct|21°31'21.12" |Pisces|Rescha|Mars|
 
 

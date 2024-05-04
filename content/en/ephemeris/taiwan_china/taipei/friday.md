@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:50:43 |
 | Sunset | 18:25:18 |
 | Maghrib | 18:26:20 |
-| Isha (Night) | 19:48:46 |
+| Isha (Night) | 19:48:47 |
 | Sharia Midnight | 23:08:47 |
 | Imum Coeli | 23:50:40 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°53'7.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|24°47'52.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|2°29'40.53" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|13°54'54.08" |Aries|Butain|Sun|
-|♀ Venus|Direct|5°25'44.40" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|18°42'24.56" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|16°11'53.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|16°53'7.42" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|24°47'52.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|2°29'40.55" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|13°54'54.05" |Aries|Butain|Sun|
+|♀ Venus|Direct|5°25'44.34" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°42'24.52" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|16°11'51.92" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°53'7.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°47'52.80" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|2°29'40.53" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|13°54'54.08" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|16°53'7.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°47'52.64" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|2°29'40.55" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|13°54'54.05" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|5°25'44.40" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|18°42'24.56" |Aries|Butain|Sun|
+|☿ Mercury|Direct|18°42'24.56" |Aries|Butain|Sun|
 |☾ Moon|Direct|16°11'53.65" |Pisces|FarghAlMuakhar|Jupiter|
 
 

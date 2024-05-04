@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:57:39 |
 | Isha (Night) | 20:16:20 |
 | Sharia Midnight | 23:38:43 |
-| Imum Coeli | 00:23:37 |
+| Imum Coeli | 00:23:38 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°3'12.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°16'22.08" |Aries|Butain|Venus|
-|♂ Mars|Direct|4°3'2.88" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|15°52'35.62" |Aries|Butain|Sun|
-|♀ Venus|Direct|7°55'18.71" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|20°6'5.38" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|15°56'54.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|17°3'12.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°16'22.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|4°3'3.30" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|15°52'36.37" |Aries|Butain|Sun|
+|♀ Venus|Direct|7°55'19.17" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|20°6'6.52" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|16°2'59.97" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°3'12.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|17°3'12.13" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°16'22.24" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|4°3'2.85" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|15°52'35.65" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|7°55'18.71" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|20°6'5.38" |Aries|Butain|Venus|
+|☿ Mercury|Direct|20°6'5.38" |Aries|Butain|Venus|
 |☾ Moon|Direct|15°56'54.77" |Aries|Butain|Sun|
 
 

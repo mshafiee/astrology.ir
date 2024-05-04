@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:26:14 |
-| Sunrise | 05:39:54 |
+| Sunrise | 05:39:55 |
 | Dhuhr (Noon) | 11:57:05 |
 | Medium Coeli | 11:57:05 |
 | Sunset | 18:14:23 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:24:55 |
-| Sunrise | 05:39:54 |
+| Sunrise | 05:39:55 |
 | Dhuhr (Noon) | 11:57:05 |
 | Medium Coeli | 11:57:05 |
 | Sunset | 18:14:23 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:24:55 |
-| Sunrise | 05:39:54 |
+| Sunrise | 05:39:55 |
 | Dhuhr (Noon) | 11:57:05 |
 | Medium Coeli | 11:57:05 |
 | Sunset | 18:14:23 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:34:29|Night duration: 11:25:11|
+|Duration of the day: 12:34:28|Night duration: 11:25:11|
 |Every hour of day duration: 01:02:52|Every hour of night duration: 00:57:06|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:39:54|06:42:45|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:42:46|07:45:37|Peace among people|
-|3|Mars|Servant|07:45:38|08:48:30|Vengeful and evil deeds|
-|4|Sun|Servant|08:48:31|09:51:22|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|09:51:23|10:54:15|Auspicious|
-|6|Mercury|Servant|10:54:16|11:57:07|Writing, swapping and making promises|
-|7|Moon|Servant|11:57:08|12:59:59|Not suitable for any task|
-|8|Saturn|Ruler|13:00:00|14:02:52|Destruction of enemies|
-|9|Jupiter|Servant|14:02:53|15:05:44|All good deeds|
-|10|Mars|Servant|15:05:45|16:08:37|Doing evil deeds|
+|1|Saturn|Ruler|05:39:55|06:42:46|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:42:47|07:45:38|Peace among people|
+|3|Mars|Servant|07:45:39|08:48:31|Vengeful and evil deeds|
+|4|Sun|Servant|08:48:32|09:51:23|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:51:24|10:54:15|Auspicious|
+|6|Mercury|Servant|10:54:16|11:57:08|Writing, swapping and making promises|
+|7|Moon|Servant|11:57:09|13:00:00|Not suitable for any task|
+|8|Saturn|Ruler|13:00:01|14:02:52|Destruction of enemies|
+|9|Jupiter|Servant|14:02:53|15:05:45|All good deeds|
+|10|Mars|Servant|15:05:46|16:08:37|Doing evil deeds|
 |11|Sun|Servant|16:08:38|17:11:29|Acceptance of reconciliation between couples|
 |12|Venus|Servant|17:11:30|18:14:22|For gaining dignity|
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|3°18'31.12" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|14°56'28.27" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°43'57.40" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|19°24'17.49" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|19°24'17.49" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|1°51'30.94" |Pisces|FarghAlMuqaddam|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|3°18'31.12" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|14°56'28.27" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|6°43'57.40" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|19°24'17.49" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°24'17.49" |Aries|Butain|Sun|
 |☾ Moon|Direct|1°51'30.94" |Aries|Sharatain|Mars|
 
 

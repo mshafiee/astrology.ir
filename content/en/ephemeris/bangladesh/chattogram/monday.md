@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:49:16 |
 | Sunset | 18:21:39 |
 | Maghrib | 18:22:40 |
-| Isha (Night) | 19:38:30 |
+| Isha (Night) | 19:38:31 |
 | Sharia Midnight | 23:08:14 |
 | Imum Coeli | 23:49:14 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°8'21.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°31'18.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|4°51'54.13" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|16°54'11.95" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°13'37.99" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|20°55'51.11" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°42'25.66" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|17°8'21.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°31'18.87" |Aries|Butain|Venus|
+|♂ Mars|Direct|4°51'54.07" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|16°54'11.80" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°13'37.96" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|20°55'51.01" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°41'27.86" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°8'21.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°31'18.75" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|4°51'54.13" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|16°54'11.95" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|9°13'37.99" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|20°55'51.16" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°42'6.94" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°8'21.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°31'18.91" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|4°51'54.07" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|16°54'11.80" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|9°13'37.96" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|20°55'51.01" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°41'27.86" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

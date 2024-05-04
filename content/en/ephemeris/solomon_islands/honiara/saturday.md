@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:09:11 |
+| Fajr (Dawn) | 05:09:10 |
 | Sunrise | 06:24:13 |
 | Dhuhr (Noon) | 12:16:58 |
 | Medium Coeli | 12:16:58 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°57'45.40" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|25°0'52.01" |Aries|Butain|Venus|
-|♂ Mars|Direct|3°12'16.24" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°48'36.29" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°33'56.88" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|19°18'42.86" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|29°31'37.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|3°12'10.49" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°48'20.83" |Aries|Butain|Sun|
+|♀ Venus|Direct|6°33'47.87" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°18'24.83" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|28°49'39.33" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|3°12'16.24" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|14°48'36.29" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|6°33'56.88" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|19°18'42.86" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°18'42.86" |Aries|Butain|Sun|
 |☾ Moon|Direct|29°56'26.63" |Pisces|Rescha|Mars|
 
 

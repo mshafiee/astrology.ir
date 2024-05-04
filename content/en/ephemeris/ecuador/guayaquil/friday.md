@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:15:13 |
 | Dhuhr (Noon) | 12:16:20 |
 | Medium Coeli | 12:16:20 |
-| Sunset | 18:17:25 |
+| Sunset | 18:17:26 |
 | Maghrib | 18:18:21 |
 | Isha (Night) | 19:25:39 |
-| Sharia Midnight | 23:40:04 |
+| Sharia Midnight | 23:40:05 |
 | Imum Coeli | 00:16:17 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:15:13 |
 | Dhuhr (Noon) | 12:16:20 |
 | Medium Coeli | 12:16:20 |
-| Sunset | 18:17:25 |
+| Sunset | 18:17:26 |
 | Maghrib | 18:18:21 |
 | Isha (Night) | 19:17:19 |
-| Sharia Midnight | 23:46:19 |
+| Sharia Midnight | 23:46:20 |
 | Imum Coeli | 00:16:17 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:15:13 |
 | Dhuhr (Noon) | 12:16:20 |
 | Medium Coeli | 12:16:20 |
-| Sunset | 18:17:25 |
+| Sunset | 18:17:26 |
 | Maghrib | 18:18:21 |
 | Isha (Night) | 19:27:44 |
 | Sharia Midnight | 23:36:57 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:15:13 |
 | Dhuhr (Noon) | 12:16:20 |
 | Medium Coeli | 12:16:20 |
-| Sunset | 18:17:25 |
+| Sunset | 18:17:26 |
 | Maghrib | 18:18:21 |
 | Isha (Night) | 19:48:21 |
 | Sharia Midnight | 23:39:02 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:02:12|Night duration: 11:57:45|
+|Duration of the day: 12:02:13|Night duration: 11:57:44|
 |Every hour of day duration: 01:00:11|Every hour of night duration: 00:59:49|
 
  
@@ -227,21 +227,21 @@ Timetable of twelve day and night planetary hours
 |9|Mercury|Servant|14:16:41|15:16:51|Causing separation and homelessness|
 |10|Moon|Servant|15:16:52|16:17:02|Extremely unfortunate|
 |11|Saturn|Servant|16:17:03|17:17:13|Creating an unfortunate horoscope for anyone|
-|12|Jupiter|Servant|17:17:14|18:17:24|Suitable for asking for a need|
+|12|Jupiter|Servant|17:17:14|18:17:25|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|18:17:25|19:17:12|Love, creating love and attracting hearts|
-|2|Sun|Servant|19:17:13|20:17:01|Attracting auspiciousness|
-|3|Venus|Servant|20:17:02|21:16:50|Attracting misfortune, no task is suitable|
-|4|Mercury|Servant|21:16:51|22:16:39|Unfortunate hour|
-|5|Moon|Servant|22:16:40|23:16:27|Achieving position and status and attracting job fortune|
-|6|Saturn|Servant|23:16:28|00:16:16|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:16:17|01:16:05|Promotion and attracting wealth|
+|1|Mars|Ruler|18:17:26|19:17:13|Love, creating love and attracting hearts|
+|2|Sun|Servant|19:17:14|20:17:02|Attracting auspiciousness|
+|3|Venus|Servant|20:17:03|21:16:51|Attracting misfortune, no task is suitable|
+|4|Mercury|Servant|21:16:52|22:16:39|Unfortunate hour|
+|5|Moon|Servant|22:16:40|23:16:28|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|23:16:29|00:16:17|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:16:18|01:16:05|Promotion and attracting wealth|
 |8|Mars|Ruler|01:16:06|02:15:54|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:15:55|03:15:42|Causing separation and homelessness|
-|10|Venus|Servant|03:15:43|04:15:31|Extremely unfortunate|
+|9|Sun|Servant|02:15:55|03:15:43|Causing separation and homelessness|
+|10|Venus|Servant|03:15:44|04:15:31|Extremely unfortunate|
 |11|Mercury|Servant|04:15:32|05:15:20|Creating an unfortunate horoscope for anyone|
 |12|Moon|Servant|05:15:21|06:15:09|Suitable for asking for a need|
 
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°56'3.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|16°56'3.55" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|24°56'5.13" |Aries|Butain|Venus|
 |♂ Mars|Direct|2°56'35.68" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|14°28'50.69" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°8'50.48" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|19°4'59.07" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|19°4'59.07" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|24°54'18.28" |Aquarius|FarghAlMuqaddam|Moon|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°56'3.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°56'5.13" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|2°56'35.68" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|14°28'50.69" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|6°8'50.48" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|19°4'59.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°54'18.28" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°56'5.14" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|2°56'35.57" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|14°28'50.63" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|6°8'50.43" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|19°4'58.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°52'32.26" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
