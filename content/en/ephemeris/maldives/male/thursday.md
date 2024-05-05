@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°27'5.08" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|18°54'16.86" |Aries|Butain|Sun|
 |♀ Venus|Direct|11°46'23.10" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°43'44.30" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°42'45.93" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°43'50.08" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°49'11.18" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'12.34" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°0'30.26" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°27'5.12" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°54'16.82" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°46'23.03" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°43'50.05" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°49'11.87" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|17°18'12.45" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°0'28.63" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°27'4.04" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°54'8.14" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°46'18.40" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°43'44.34" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°42'45.24" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°9'17.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°34'2.99" |Aries|Butain|Venus|
-|♂ Mars|Direct|5°0'50.02" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|17°5'28.83" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°27'57.42" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|17°9'18.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°34'3.15" |Aries|Butain|Venus|
+|♂ Mars|Direct|5°0'49.99" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|17°5'28.86" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°27'57.49" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|21°5'23.88" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|4°46'52.92" |Aries|Sharatain|Mars|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°9'17.98" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|25°34'2.99" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|5°0'50.02" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|17°5'28.83" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|9°27'53.77" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|21°5'12.80" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°55'19.51" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°9'18.09" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|25°34'3.15" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|5°0'49.99" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|17°5'28.86" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|9°27'57.49" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|21°5'23.88" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°46'52.92" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}

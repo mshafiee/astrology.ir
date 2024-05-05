@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'2.04" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°5'59.80" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°45'0.79" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°16'45.99" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°15'9.35" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°5'36.80" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°48'14.70" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|26°6'1.93" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°45'0.97" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°16'45.89" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°15'9.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°5'37.05" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°46'32.40" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트

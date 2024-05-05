@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:29:01 |
 | Sunrise | 04:55:17 |
-| Dhuhr (Noon) | 11:30:36 |
-| Medium Coeli | 11:30:36 |
+| Dhuhr (Noon) | 11:30:37 |
+| Medium Coeli | 11:30:37 |
 | Sunset | 18:06:16 |
 | Maghrib | 18:07:18 |
 | Isha (Night) | 19:37:18 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°54'6.24" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|24°50'36.58" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|2°38'38.17" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|14°6'11.55" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|5°40'5.07" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°49'45.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°2'14.79" |Pisces|Rescha|Jupiter|
+|♂ Mars|Direct|2°38'38.14" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|14°6'11.58" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|5°40'5.13" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°49'46.02" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°2'16.39" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

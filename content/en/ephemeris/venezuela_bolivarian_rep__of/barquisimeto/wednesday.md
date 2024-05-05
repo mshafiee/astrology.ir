@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'2.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°6'2.28" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°45'5.84" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°17'0.38" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°15'18.79" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°5'50.10" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°18'23.41" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°20'2.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°6'2.44" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°45'5.80" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°17'0.42" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°15'9.27" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°5'31.03" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°36'19.10" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'2.10" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°6'2.28" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°45'5.84" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°17'0.38" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°15'18.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°5'50.10" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°18'23.41" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|17°20'2.20" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°5'59.95" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°44'58.64" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°16'44.27" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°15'9.27" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°5'31.03" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°36'19.10" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|26°6'24.51" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|6°46'17.51" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°18'31.12" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°17'8.64" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°7'5.36" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°1'55.99" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°17'14.02" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°7'19.03" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°42'52.66" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'9.48" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°6'23.57" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°46'11.49" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°18'22.67" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°17'8.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°7'5.36" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°1'55.99" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|26°6'24.51" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°46'17.51" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°18'31.12" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°17'14.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°7'19.03" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°42'52.66" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: CLO, Cali, Calium, Cáli, Kali, Kalis, Santiago de Cali, ka li, kali, kalli, kaly, santiago・de・kari, Кали, Калі, סנטיאגו דה קאלי, كالي, کالی, กาลี, サンティアゴ・デ・カリ, 卡利, 칼리

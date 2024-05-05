@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'0.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°5'54.68" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°44'46.21" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°16'26.46" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°14'44.39" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°5'19.30" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°41'20.23" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°5'56.96" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°44'48.16" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°16'37.65" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°14'50.56" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°5'27.73" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°6'47.19" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'0.39" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°5'54.84" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°44'46.17" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°16'26.49" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°14'44.45" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|26°5'56.96" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°44'48.16" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°16'37.65" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°14'50.56" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|23°5'19.33" |Aries|Butain|Venus|
 |☾ Moon|Direct|5°41'19.65" |Gemini|HanAh|Jupiter|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'23.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°1'4.42" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°28'56.66" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|18°56'36.69" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°49'22.25" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°46'3.84" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°12'10.47" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°18'23.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°1'4.58" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°28'56.62" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|18°56'36.72" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°49'16.88" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°45'56.43" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°56'47.67" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'23.65" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°1'4.42" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°28'56.66" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°56'36.69" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°49'22.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°46'3.84" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°12'10.47" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|17°18'23.75" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°1'2.71" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°28'54.92" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°56'26.73" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°49'16.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°45'56.43" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°56'47.67" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Ad Dawha, Ad Dawhah, Ad Dawḩa, Ad Dawḩah, Ad Doha, Ad Dowhah, Ad-Dauha, Ad-Dawhah, Ad-Dawḩah, DOH, Daeuha, Dauha, Dauhá, Dawha, Dawhat al Qatar, Dawḥa, Dawḩat al Qaţar, Dewhe, Do'ha, Doh, Doha, Doho, Dokha, Dokhae, Dokho, Dooxa, Doʻha, Doḥa, Duoha, Däuha, Ntocha, aaldawhat, aldwhh, aldwht, deaha, do ha, doha, dohara, duo ha, dwhh, toka, Ντόχα, Дохæ, Доха, Дохо, Доҳа, Доһа, Դոհա, דאכא, דוחא, דוחה, الدوحة, الدوحه, اَلدَّوْحَة, دوحه, دوحہ, دوحە, دوھا, دەوحە, दोहा, দোহা, দোহার, ਦੋਹਾ, தோகா, ದೊಹಾ, ദോഹ, โดฮา, དྷོ་ཧ།, ဒိုဟာမြို့, დოჰა, ዶሃ, ドーハ, 多哈, 도하

@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:33:27 |
 | Medium Coeli | 12:33:27 |
 | Sunset | 19:36:45 |
-| Maghrib | 19:56:00 |
+| Maghrib | 19:56:01 |
 | Isha (Night) | 20:56:34 |
 | Sharia Midnight | 23:46:46 |
 | Imum Coeli | 00:33:26 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°17'20.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°57'54.36" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°18'38.08" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|18°43'35.32" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°32'49.03" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°33'38.49" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|28°49'41.45" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|17°17'20.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°57'54.52" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°18'38.04" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|18°43'35.35" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°32'49.10" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°33'38.53" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|28°49'40.68" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°17'20.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|25°57'54.36" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°18'38.08" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°43'35.32" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°32'50.62" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|17°17'20.62" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|25°57'54.52" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°18'38.04" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°43'35.35" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°32'49.10" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|22°33'38.53" |Aries|Butain|Venus|
 |☾ Moon|Direct|28°49'40.68" |Taurus|HaqAh|Saturn|
 

@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:39:24 |
 | Medium Coeli | 12:39:24 |
 | Sunset | 19:51:02 |
-| Maghrib | 19:52:27 |
+| Maghrib | 19:52:28 |
 | Isha (Night) | 21:24:35 |
 | Sharia Midnight | 23:52:23 |
 | Imum Coeli | 00:39:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°13'59.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°47'53.14" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|5°46'0.28" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|18°2'23.46" |Aries|Butain|Sun|
-|♀ Venus|Direct|10°40'24.87" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|21°55'27.08" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|18°29'39.86" |Aries|Butain|Sun|
+|♄ Saturn|Direct|17°13'59.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°47'53.42" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|5°45'59.58" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|18°2'24.26" |Aries|Butain|Sun|
+|♀ Venus|Direct|10°40'21.47" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|21°55'22.17" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|17°48'9.65" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°13'59.52" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|25°47'53.42" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|25°47'51.97" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|5°45'59.58" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|18°2'24.26" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°40'24.87" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|21°55'27.08" |Aries|Butain|Venus|
-|☾ Moon|Direct|18°29'39.86" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|10°40'25.15" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|21°55'26.28" |Aries|Butain|Venus|
+|☾ Moon|Direct|18°34'39.46" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

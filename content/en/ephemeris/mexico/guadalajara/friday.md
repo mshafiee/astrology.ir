@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:59:35 |
+| Fajr (Dawn) | 04:59:36 |
 | Sunrise | 06:22:18 |
 | Dhuhr (Noon) | 12:50:21 |
 | Medium Coeli | 12:50:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°56'17.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|16°56'17.31" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|24°56'43.86" |Aries|Butain|Venus|
 |♂ Mars|Direct|2°58'43.01" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|14°31'30.34" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°12'14.47" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°6'47.50" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|25°25'52.58" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|19°6'47.57" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|25°27'42.89" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°56'17.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°56'43.77" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|2°58'42.95" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|14°31'30.54" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|6°12'14.51" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|19°6'47.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°25'52.58" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°56'43.86" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|2°58'43.01" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|14°31'30.34" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|6°12'14.47" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|19°6'47.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°27'42.89" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

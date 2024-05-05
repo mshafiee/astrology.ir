@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°59'24.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°5'33.01" |Aries|Butain|Venus|
-|♂ Mars|Direct|3°27'37.91" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|15°7'57.28" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°58'33.26" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°32'33.95" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|4°45'4.88" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|16°59'24.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°5'33.17" |Aries|Butain|Venus|
+|♂ Mars|Direct|3°27'37.88" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|15°7'57.31" |Aries|Butain|Sun|
+|♀ Venus|Direct|6°58'33.32" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°32'33.99" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|4°45'5.31" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°59'24.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°5'33.01" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|3°27'37.91" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|15°7'57.28" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|6°58'33.26" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|19°32'33.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°45'4.88" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|16°59'24.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°5'33.44" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|3°27'35.63" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|15°7'56.63" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|6°58'32.52" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|19°32'29.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°13'1.74" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Mercury|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

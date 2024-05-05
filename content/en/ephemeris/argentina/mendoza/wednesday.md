@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'13.34" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°6'36.36" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°46'55.86" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°19'19.59" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°18'15.67" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°8'6.53" |Aries|Butain|Venus|
-|☾ Moon|Direct|6°25'4.60" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|26°6'34.58" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°46'48.33" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°19'6.93" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°18'7.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°7'48.49" |Aries|Butain|Venus|
+|☾ Moon|Direct|6°46'29.71" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사

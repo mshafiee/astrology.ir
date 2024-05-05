@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:24:00 |
 | Dhuhr (Noon) | 13:14:21 |
 | Medium Coeli | 13:14:21 |
-| Sunset | 21:05:52 |
+| Sunset | 21:05:53 |
 | Maghrib | 21:07:41 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'53.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°2'34.14" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|26°2'33.36" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|6°33'46.24" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°2'40.16" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|11°57'7.67" |Taurus|Dabaran|Moon|

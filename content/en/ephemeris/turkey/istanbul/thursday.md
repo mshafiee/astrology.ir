@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:52:04 |
 | Dhuhr (Noon) | 13:00:37 |
 | Medium Coeli | 13:00:37 |
-| Sunset | 20:09:48 |
+| Sunset | 20:09:49 |
 | Maghrib | 20:29:51 |
 | Isha (Night) | 21:33:36 |
 | Sharia Midnight | 00:11:29 |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:52:04 |
 | Dhuhr (Noon) | 13:00:37 |
 | Medium Coeli | 13:00:37 |
-| Sunset | 20:09:48 |
+| Sunset | 20:09:49 |
 | Maghrib | 20:32:52 |
 | Isha (Night) | 21:33:36 |
 | Sharia Midnight | 00:05:16 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:52:04 |
 | Dhuhr (Noon) | 13:00:37 |
 | Medium Coeli | 13:00:37 |
-| Sunset | 20:09:48 |
+| Sunset | 20:09:49 |
 | Maghrib | 20:11:07 |
 | Isha (Night) | 21:54:53 |
-| Sharia Midnight | 00:04:08 |
+| Sharia Midnight | 00:04:09 |
 | Imum Coeli | 01:00:36 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:52:04 |
 | Dhuhr (Noon) | 13:00:37 |
 | Medium Coeli | 13:00:37 |
-| Sunset | 20:09:48 |
+| Sunset | 20:09:49 |
 | Maghrib | 20:11:07 |
 | Isha (Night) | 21:40:33 |
-| Sharia Midnight | 00:15:01 |
+| Sharia Midnight | 00:15:02 |
 | Imum Coeli | 01:00:36 |
 {{< /tab >}}
 

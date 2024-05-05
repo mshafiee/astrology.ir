@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°22'3.51" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|26°12'11.87" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|7°4'59.80" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°42'2.82" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°47'20.69" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°30'33.55" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°8'35.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°5'7.46" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°42'17.04" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°47'29.35" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°30'52.41" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°24'5.95" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Virgo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

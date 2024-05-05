@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°57'27.76" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|25°0'2.28" |Aries|Butain|Venus|
-|♂ Mars|Direct|3°9'33.14" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°45'10.75" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°29'35.66" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°16'18.22" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|29°4'22.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|3°9'26.09" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°44'53.51" |Aries|Butain|Sun|
+|♀ Venus|Direct|6°29'25.49" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°15'56.94" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|27°41'34.12" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°57'27.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°0'2.28" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|3°9'33.14" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|14°45'10.75" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|6°29'35.66" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|19°16'18.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°4'22.36" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°59'59.55" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|3°9'26.09" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|14°44'53.51" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|6°29'25.49" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|19°15'56.94" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°41'34.12" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,13 +355,13 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Mercury|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Jupiter|Virgo|Sun|Jupiter|
-|♃ Jupiter|Mars|Sun|Pisces|Sun|Saturn|
+|♃ Jupiter|Mars|Sun|Aquarius|Sun|Saturn|
 |♂ Mars|Mars|Mars|Taurus|Sun|Mars|
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Mercury|Saturn|Cancer|Moon|Venus|

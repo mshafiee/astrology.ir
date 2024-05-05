@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'49.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°2'23.42" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°33'13.68" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°1'59.80" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°56'15.29" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°51'14.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°14'34.55" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°2'21.95" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°33'12.98" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°1'52.49" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°56'11.39" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°51'9.79" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°17'1.10" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'49.71" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°2'23.27" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|17°18'49.82" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°2'21.95" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|6°33'12.98" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°1'52.49" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°56'11.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°51'9.76" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°17'1.74" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|11°56'11.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°51'9.79" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°17'1.10" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린

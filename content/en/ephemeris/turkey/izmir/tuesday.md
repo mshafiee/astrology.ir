@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:42:43 |
 | Sunrise | 06:07:21 |
-| Dhuhr (Noon) | 13:07:57 |
-| Medium Coeli | 13:07:57 |
+| Dhuhr (Noon) | 13:07:58 |
+| Medium Coeli | 13:07:58 |
 | Sunset | 20:09:09 |
 | Maghrib | 20:11:15 |
 | Isha (Night) | 21:34:08 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:19:42 |
 | Sunrise | 06:07:21 |
-| Dhuhr (Noon) | 13:07:57 |
-| Medium Coeli | 13:07:57 |
+| Dhuhr (Noon) | 13:07:58 |
+| Medium Coeli | 13:07:58 |
 | Sunset | 20:09:09 |
 | Maghrib | 20:11:15 |
 | Isha (Night) | 21:41:15 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°9'8.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°33'34.22" |Aries|Butain|Venus|
-|♂ Mars|Direct|4°59'16.15" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|17°3'28.56" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°25'27.31" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|21°3'40.17" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°49'11.81" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|17°9'8.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°33'34.23" |Aries|Butain|Venus|
+|♂ Mars|Direct|4°59'16.31" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|17°3'28.69" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°25'27.40" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|21°3'40.50" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°50'38.46" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°33'34.23" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|4°59'16.31" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|17°3'28.69" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|9°25'27.34" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|21°3'40.46" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°50'39.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|9°25'27.40" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|21°3'40.50" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°50'38.46" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
