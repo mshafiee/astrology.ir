@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:41:33 |
 | Dhuhr (Noon) | 12:45:06 |
 | Medium Coeli | 12:45:06 |
-| Sunset | 19:49:16 |
+| Sunset | 19:49:15 |
 | Maghrib | 20:09:08 |
 | Isha (Night) | 21:10:41 |
 | Sharia Midnight | 23:57:27 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:41:33 |
 | Dhuhr (Noon) | 12:45:06 |
 | Medium Coeli | 12:45:06 |
-| Sunset | 19:49:16 |
+| Sunset | 19:49:15 |
 | Maghrib | 19:55:14 |
 | Isha (Night) | 21:38:01 |
 | Sharia Midnight | 23:50:29 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|17°9'2.96" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|25°33'19.03" |Aries|Butain|Venus|
 |♂ Mars|Direct|4°58'26.70" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|17°2'26.03" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°24'7.85" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|21°2'47.27" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°33'27.18" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|17°2'26.25" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°24'7.99" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|21°2'47.62" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°35'14.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°9'2.96" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|25°33'19.03" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|4°58'26.70" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|17°2'26.03" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|9°24'7.85" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|21°2'47.27" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°33'27.18" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|25°33'18.90" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|4°58'26.87" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|17°2'26.22" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|9°24'7.93" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|21°2'47.58" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°35'15.47" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

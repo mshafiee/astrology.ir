@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:39:10 |
 | Sunrise | 06:09:29 |
-| Dhuhr (Noon) | 13:08:06 |
-| Medium Coeli | 13:08:06 |
+| Dhuhr (Noon) | 13:08:05 |
+| Medium Coeli | 13:08:05 |
 | Sunset | 20:07:17 |
 | Maghrib | 20:26:13 |
 | Isha (Night) | 21:25:18 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:45:32 |
 | Sunrise | 06:09:29 |
-| Dhuhr (Noon) | 13:08:06 |
-| Medium Coeli | 13:08:06 |
+| Dhuhr (Noon) | 13:08:05 |
+| Medium Coeli | 13:08:05 |
 | Sunset | 20:07:17 |
 | Maghrib | 20:09:23 |
 | Isha (Night) | 21:31:36 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°59'21.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|16°59'21.38" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°5'24.15" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|3°27'8.73" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|15°7'19.27" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|6°57'46.76" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|19°32'5.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°22'21.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°27'8.57" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|15°7'19.13" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|6°57'46.66" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|19°32'4.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°20'10.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

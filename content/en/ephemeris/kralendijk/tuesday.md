@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|5°58'51.86" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|18°18'40.24" |Aries|Butain|Sun|
 |♀ Venus|Direct|11°1'4.55" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°10'20.58" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|22°59'54.90" |Aries|Butain|Venus|
+|☿ Mercury|Direct|22°10'7.57" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°57'36.49" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°51'50.53" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|5°58'51.86" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|18°18'40.24" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°1'4.55" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°10'20.58" |Aries|Butain|Venus|
-|☾ Moon|Direct|22°59'54.90" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|11°0'58.81" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°10'7.57" |Aries|Butain|Venus|
+|☾ Moon|Direct|21°57'36.49" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}

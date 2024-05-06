@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:34:18 |
 | Sunset | 18:27:36 |
 | Maghrib | 18:28:32 |
-| Isha (Night) | 19:38:35 |
+| Isha (Night) | 19:38:34 |
 | Sharia Midnight | 23:54:36 |
 | Imum Coeli | 00:34:16 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°8'2.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°30'23.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|4°48'51.48" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|16°50'22.68" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°8'45.09" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|20°52'39.75" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°56'55.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|25°30'22.61" |Aries|Butain|Venus|
+|♂ Mars|Direct|4°48'51.45" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|16°50'20.54" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°8'43.98" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|20°52'38.69" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°48'13.61" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|16°50'22.68" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|9°8'45.09" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Direct|20°52'39.75" |Aries|Butain|Venus|
-|☾ Moon|Direct|28°59'45.94" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|0°56'55.62" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mars|Mercury|Jupiter|Saturn|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}

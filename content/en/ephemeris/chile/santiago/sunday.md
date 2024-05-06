@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:39:13 |
 | Sunset | 17:58:01 |
 | Maghrib | 18:15:20 |
-| Isha (Night) | 19:04:43 |
+| Isha (Night) | 19:04:42 |
 | Sharia Midnight | 00:01:07 |
 | Imum Coeli | 00:39:11 |
 {{< /tab >}}
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°5'57.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°24'18.68" |Aries|Butain|Venus|
-|♂ Mars|Direct|4°29'0.52" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|16°25'20.73" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°36'55.42" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|25°24'15.88" |Aries|Butain|Venus|
+|♂ Mars|Direct|4°28'53.94" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|16°25'3.84" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°36'45.51" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|20°32'4.05" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|24°33'9.62" |Pisces|Rescha|Mars|
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°5'57.30" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°24'18.68" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|4°29'0.52" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|16°25'20.73" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|8°36'55.42" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|20°32'4.05" |Aries|Butain|Venus|
-|☾ Moon|Direct|24°33'9.62" |Aries|Butain|Venus|
+|♂ Mars|Direct|4°28'53.94" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|16°25'3.84" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|8°36'45.51" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|20°31'44.49" |Aries|Butain|Venus|
+|☾ Moon|Direct|22°48'0.76" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}

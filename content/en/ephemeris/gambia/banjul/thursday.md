@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|26°3'55.31" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|6°38'12.15" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°8'18.29" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°4'14.46" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|12°4'11.19" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|22°57'11.83" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|4°49'52.20" |Taurus|Thurayya|Mercury|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°19'20.26" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°3'55.31" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°38'12.15" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°8'18.29" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°4'14.46" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°57'21.17" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°10'11.00" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|26°3'54.86" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°38'7.80" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°8'13.43" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°4'11.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°57'11.83" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°49'52.20" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: BJL, Bandzhul, Bandzul, Bandzula, Bandzulis, Bandżul, Bandžula, Bandžulis, Banjoul, Banjul, Banjulo, Banyul, Banzhul, Banĵulo, Bathurst, Bathurstopolis, Mpanzoul, bajula, ban cul, ban zhu, ban zhu er, banjul, banjula, banjuli, banjuru, banjwl, bngwl, pancul, Μπανζούλ, Банджул, Банжул, Банџул, Банҷул, Բանջուլ, באנזשול, בנגול, بانجول, बंजुल, बाञ्जुल, ਬੰਜੁਲ, பஞ்சுல், บันจูล, བཱན་ཇཱུ་ལ།, ბანჯული, ባንጁል, バンジュール, 班珠尔, 班竹, 반줄

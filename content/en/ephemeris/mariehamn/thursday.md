@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|17°18'27.88" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|26°1'17.35" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|6°29'38.93" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°57'27.56" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°50'30.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°46'51.84" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°51'42.05" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|18°57'21.11" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°50'27.14" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°46'47.87" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°1'10.78" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함
