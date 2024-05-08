@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:38:24|Night duration: 12:21:47|
+|Duration of the day: 11:38:24|Night duration: 12:21:48|
 |Every hour of day duration: 00:58:12|Every hour of night duration: 01:01:49|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|17:52:38|18:54:25|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|18:54:26|19:56:14|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|19:56:15|20:58:03|Attracting connection and suitors|
-|4|Sun|Servant|20:58:04|21:59:52|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|21:59:53|23:01:41|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|23:01:42|00:03:30|Repelling negative energy of evil eye|
-|7|Moon|Servant|00:03:31|01:05:19|Attracting love and hearts|
-|8|Saturn|Ruler|01:05:20|02:07:08|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|02:07:09|03:08:57|Heart tenderness|
-|10|Mars|Servant|03:08:58|04:10:46|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|04:10:47|05:12:35|Attracting connection and suitors|
-|12|Venus|Servant|05:12:36|06:14:24|Hatred, corruption and creating negative energy for disruption|
+|1|Saturn|Ruler|17:52:38|18:54:26|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|18:54:27|19:56:15|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|19:56:16|20:58:04|Attracting connection and suitors|
+|4|Sun|Servant|20:58:05|21:59:53|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|21:59:54|23:01:42|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|23:01:43|00:03:31|Repelling negative energy of evil eye|
+|7|Moon|Servant|00:03:32|01:05:20|Attracting love and hearts|
+|8|Saturn|Ruler|01:05:21|02:07:09|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|02:07:10|03:08:58|Heart tenderness|
+|10|Mars|Servant|03:08:59|04:10:47|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|04:10:48|05:12:36|Attracting connection and suitors|
+|12|Venus|Servant|05:12:37|06:14:25|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°9'9.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°33'38.56" |Aries|Butain|Venus|
-|♂ Mars|Direct|4°59'31.77" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|17°3'47.97" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°25'50.38" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|21°3'59.74" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°18'29.00" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|25°33'39.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|4°59'31.13" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|17°3'49.39" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°25'50.99" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|21°3'59.32" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°21'35.75" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°9'9.73" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|25°33'38.84" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|4°59'31.16" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|17°3'49.35" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|9°25'50.92" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|21°3'59.28" |Aries|Butain|Venus|
-|☾ Moon|Direct|4°21'37.07" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°9'9.83" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|25°33'39.00" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|4°59'31.13" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|17°3'49.39" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|9°25'50.99" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|21°3'59.32" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°21'35.75" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

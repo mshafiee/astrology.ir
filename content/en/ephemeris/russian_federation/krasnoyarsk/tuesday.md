@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 20:44:06 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:45:01 |
+| Imum Coeli | 00:45:02 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|5°35'7.07" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|17°48'40.07" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|10°22'58.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|21°43'3.20" |Aries|Butain|Venus|
-|☾ Moon|Direct|14°54'20.16" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|21°43'1.31" |Aries|Butain|Venus|
+|☾ Moon|Direct|14°35'7.09" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

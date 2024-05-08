@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'6.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°6'16.41" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°45'49.60" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°17'57.13" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°16'30.60" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°6'44.15" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°39'51.66" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°6'14.89" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°45'44.04" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°17'46.98" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°16'24.35" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°6'30.45" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°42'18.68" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'6.77" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°6'16.41" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°45'49.60" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°17'57.13" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°16'30.60" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°6'44.15" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°39'51.66" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|26°6'14.89" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°45'44.04" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°17'46.98" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°16'24.35" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°6'30.45" |Aries|Butain|Venus|
+|☾ Moon|Direct|6°42'18.68" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: CBB, Ciudad Cochabamba, Cochabamba, Kocabamb, Kocabamba, Kochabamba, Kočabamb, Kočabamba, Kuchawampa, Quchapampa, ke qia ban ba, ko cha bam ba, kochabamba, kochabanba, kwchabamba, kwtshabamba, qwzbmbh, Кочабамба, קוצבמבה, كوتشابامبا, کوچابامبا, โกชาบัมบา, ཀོ་ཅ་བང་ལྦ་, კოჩაბამბა, コチャバンバ, 科恰班巴, 코차밤바

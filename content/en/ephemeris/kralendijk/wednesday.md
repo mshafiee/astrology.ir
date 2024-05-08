@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'0.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°5'56.76" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°44'46.46" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°16'33.27" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°14'50.48" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°5'19.84" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°21'14.18" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°5'58.09" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°44'51.69" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°16'42.52" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°14'56.19" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°5'32.60" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°13'4.26" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°19'59.75" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°5'56.76" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°44'46.46" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°16'33.27" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°14'50.48" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°5'19.84" |Aries|Butain|Venus|
-|☾ Moon|Direct|6°21'14.18" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|17°20'0.77" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°5'58.09" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°44'51.69" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°16'42.52" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°14'56.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°5'32.60" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°13'4.26" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Kralendajk, Kralendehjk, Kralendeikas, Kralendejk, Kralendijk, Kralendiyk, Kralentik, Playa, ke la lun dai ke, keulallendeikeu, kralndyk, kralyndayk, kurarendaiku, Κράλεντικ, Кралендайк, Кралендајк, Кралендейк, Кралендэйк, Կրալենդիյկ, كراليندايك, کرالندیک, کرالن‌دیک, კრალენდეიკი, クラレンダイク, 克拉伦代克, 크랄렌데이크

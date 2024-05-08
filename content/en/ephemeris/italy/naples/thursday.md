@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'46.83" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|26°2'14.35" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°32'44.06" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°1'22.74" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°55'27.69" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°50'38.68" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°9'28.37" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°32'43.86" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°1'21.92" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°55'27.23" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°50'37.97" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°3'34.15" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'46.83" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°2'14.35" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°32'44.06" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°1'22.74" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°55'27.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°50'38.68" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°9'28.37" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|26°2'14.20" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°32'43.86" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°1'21.92" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°55'27.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°50'37.97" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°3'34.15" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: NAP, Napels, Naples, Naplés, Napoles, Napoli, Napolo, Napols, Napoly, Nappoli, Napul, Napule, Napuli, Napulj, Napólí, Neapal', Neapel, Neapelj, Neapol, Neapol', Neapole, Neapolis, Noapels, Nàpoli, Nàpols, Nàpuli, Nàpułi, Nápoles, Nápoli, Nápols, Nápoly, Parthenope, na bu lei si, nabwly, napl, napoli, napolli, napori, napwly, nepalasa, nepalsa, nepeils, nyplz, Νάπολη, Напуљ, Неапаль, Неапол, Неаполь, Նեապոլ, נאפאלי, נאפולי, نابولي, ناپل, ناپولی, نیپلز, नापोलि, नापोली, नेपल्स, নেপলস, நாபொலி, เนเปิลส์, ნეაპოლი, ナポリ, 那不勒斯, 나폴리

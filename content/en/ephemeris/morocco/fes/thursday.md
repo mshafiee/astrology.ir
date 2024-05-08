@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°19'4.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°3'8.45" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°35'39.11" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°5'5.02" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°0'10.16" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°54'11.75" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°10'30.93" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°3'8.55" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°35'40.56" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°5'5.77" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°0'10.86" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°54'14.55" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°9'43.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°19'4.67" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°3'8.40" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°35'40.39" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°5'5.62" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°0'10.70" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°54'14.12" |Aries|Butain|Venus|
-|☾ Moon|Direct|4°9'43.94" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|17°19'4.77" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°3'8.55" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°35'40.56" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°5'5.77" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°0'10.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°54'14.55" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°9'43.45" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: FEZ, Fes, Fez, Fès, fas, fezu, Фес, فاس, フェズ

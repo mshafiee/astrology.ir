@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|17°20'6.53" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|26°6'15.62" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|6°45'48.38" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°17'38.08" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°16'17.24" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°6'22.79" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°56'24.57" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|19°17'54.65" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°16'27.25" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°6'43.32" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°37'6.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'6.43" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°6'15.46" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°45'48.42" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°17'54.62" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°16'27.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°6'43.29" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°37'6.69" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|17°20'6.53" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°6'15.62" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°45'48.38" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°17'54.65" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°16'27.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°6'43.32" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°37'6.13" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레

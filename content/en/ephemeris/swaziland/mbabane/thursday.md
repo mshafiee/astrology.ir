@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:19:29 |
 | Maghrib | 17:24:27 |
 | Isha (Night) | 18:38:02 |
-| Sharia Midnight | 23:08:08 |
+| Sharia Midnight | 23:08:09 |
 | Imum Coeli | 23:51:52 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'53.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°2'34.52" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°33'48.82" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°2'46.55" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°57'11.52" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°52'0.15" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°55'52.53" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°18'53.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°2'33.49" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°33'45.63" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°2'40.27" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°57'7.67" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°51'52.04" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°18'11.29" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

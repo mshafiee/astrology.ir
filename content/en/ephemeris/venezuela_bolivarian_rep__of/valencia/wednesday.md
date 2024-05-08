@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'1.12" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|26°5'59.15" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°44'55.10" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|6°44'55.08" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°16'46.91" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°15'1.67" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°5'36.91" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°15'3.73" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|23°5'36.88" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°15'13.31" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Balenzia, VLN, Valencia, Valencio, Valens, Valensi, Valensia, Valensii, Valensija, Valensiya, Valentia, Valentzia, Valincia, Valência, ba lun xi ya, balainsi'a, ballensia, barenshia, blnsyt, valensia, walnsya  wnzwyla, wlnsyh, Валенс, Валенси, Валенсия, Валенсија, Валенсія, Վալենսիա, ולנסיה, بلنسية, والنسیا، ونزوئلا, والیںسیا، کارابوبو, ਬਾਲੈਂਸੀਆ, ვალენსია, バレンシア, 巴伦西亚, 발렌시아

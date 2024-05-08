@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°19'5.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°3'12.22" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°35'52.91" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°5'21.10" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°0'30.84" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°54'29.01" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°6'9.51" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°19'6.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°3'12.37" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°35'52.87" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°5'21.14" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°0'30.91" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°54'29.04" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°9'31.09" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|26°3'12.37" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|6°35'52.87" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°5'21.14" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°0'30.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°54'22.01" |Aries|Butain|Venus|
-|☾ Moon|Direct|4°6'9.51" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|12°0'29.93" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°54'25.65" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°6'15.62" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Felicitas Julia, Felicitas Julia Olissipo, LIS, Liospoin, Liospóin, Lisabon, Lisabona, Lisboa, Lisbon, Lisbona, Lisbonne, Lisbono, Lisbonum, Lisimba, Lisimbã, Lissabon, Lisszabon, Lizboa, Lizbon, Lizbona, Olisipo, Olissipo, li si ben, lisabana, lisaboni, lisbana, lisbxn, liseubon, lshbwnt, lysabwn, lysbwn, risubon, Λισαβώνα, Лисабон, Лиссабон, Лісабон, Լիսբոնա, ליסבון, لشبونة, لىسابون, لیسبون, ܠܫܒܘܢܐ, लिस्बन, লিসবন, ลิสบอน, ལ་ས་བན།, ལི་སི་བཱོན།, ლისაბონი, ሊዝቦን, リスボン, 里斯本, 리스본
