@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°35'48.89" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°5'17.51" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°0'24.37" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°54'25.95" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°54'25.95" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|4°26'13.05" |Taurus|Thurayya|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°35'48.89" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°5'17.51" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°0'24.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°54'25.95" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|22°54'25.95" |Aries|Butain|Venus|
 |☾ Moon|Direct|4°26'13.05" |Gemini|HanAh|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메

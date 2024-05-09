@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'46.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°2'12.00" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°32'39.86" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°1'12.89" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°55'17.80" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°50'32.50" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°36'12.13" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°2'12.14" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°32'37.35" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°1'12.51" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°55'18.15" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|22°50'30.06" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°56'42.91" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'46.02" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°2'12.00" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°32'39.86" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°1'12.89" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°55'17.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°50'32.50" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°36'12.13" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|26°2'12.14" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°32'37.35" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°1'12.51" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°55'17.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°50'28.25" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°44'19.07" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Havn, THorshoefn, THunreshaefen, Thori Portus, Thorshavn, Torschavn, Torsgavn, Torshamn, Torshaunas, Torshavn, Torshgavn, Torshkhavn, Torskhaun, Torskhavn, Tourshavna, Touršhavna, Tórshavn, lei shen gang, thosa'una, thxrs hea n, toleuseuhaun, tosuhaun, tuo er si gang, twshhafn, twshhawn, tۆrshawn, Þunreshæfen, Þórshöfn, Τόρσχαβν, Торсгавн, Торсхавн, Торсхаўн, Торшгавн, Торшхавн, Տորսհավն, טורסהאבן, تورشھاون, توشهافن, توشهاون, تۆرشاون, ਥੋਸ਼ਾਊਨ, ทอร์สเฮาน์, ტორსჰავნი, トースハウン, 托爾斯港, 雷神港, 토르스하운

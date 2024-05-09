@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'15.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°6'42.16" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°47'15.16" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°19'43.37" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°18'46.68" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°8'29.77" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°54'11.33" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°20'15.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°6'42.01" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°47'15.20" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°19'43.34" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°18'46.62" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°8'29.74" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°54'11.88" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'15.28" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°6'41.72" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°47'9.92" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°19'37.74" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°18'42.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°8'18.65" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°34'0.93" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|17°20'15.18" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°6'42.01" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°47'15.20" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°19'43.34" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°18'46.62" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°8'29.74" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°54'11.88" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: BCV, Bel'mapan, Bel'mopan, Belmopan, Belmopana, Belmopanas, Belmopano, Belmopanum, Belmopán, Belmópan, Bèlmopan, Hattieville, Mopan, Mpelmopan, bailamopana, bei er mo bang, bei er mo pan, belmopan, belmopana, berumopan, blmwban, blmwpan, blmwpn, bylmwpan, pelmoppan, Μπελμοπάν, Белмопан, Бельмапан, Бельмопан, Բելմոպան, בלמופן, בעלמאפאן, بلموبان, بلموپان, بیلموپان, बेल्मोपान, ਬੈਲਮੋਪਾਨ, பெல்மோப்பான், เบลโมแพน, པེར་མོ་ཕན།, ბელმოპანი, ቤልሞፓን, ベルモパン, 貝爾墨邦, 貝爾莫潘, 벨모판

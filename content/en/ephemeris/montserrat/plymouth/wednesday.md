@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°43'53.22" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°15'28.55" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°13'22.29" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°4'20.21" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°4'20.21" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|6°52'50.14" |Taurus|Thurayya|Mercury|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°19'54.84" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|26°5'40.10" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°43'47.96" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°15'22.15" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°13'18.07" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°4'8.71" |Aries|Butain|Venus|
-|☾ Moon|Direct|6°25'23.50" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|6°43'45.73" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°15'15.11" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°13'14.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°4'1.82" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°35'24.17" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스

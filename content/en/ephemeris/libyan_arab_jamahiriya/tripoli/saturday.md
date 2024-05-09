@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:03:37 |
 | Sunset | 19:57:01 |
 | Maghrib | 20:14:39 |
-| Isha (Night) | 21:09:09 |
+| Isha (Night) | 21:09:08 |
 | Sharia Midnight | 00:21:37 |
 | Imum Coeli | 01:03:36 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:03:37 |
 | Sunset | 19:57:01 |
 | Maghrib | 20:17:17 |
-| Isha (Night) | 21:09:09 |
+| Isha (Night) | 21:09:08 |
 | Sharia Midnight | 00:16:37 |
 | Imum Coeli | 01:03:36 |
 {{< /tab >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°28'3.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°30'42.82" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|8°5'17.38" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|20°58'12.84" |Aries|Butain|Venus|
+|♄ Saturn|Direct|17°28'2.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°30'42.66" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|8°5'17.43" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|20°58'12.81" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°24'12.34" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°49'34.97" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|24°49'34.97" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|0°59'53.92" |Gemini|HaqAh|Jupiter|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|17°28'3.00" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|26°30'42.82" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|8°5'17.38" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|20°58'10.09" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|14°24'10.60" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°49'30.82" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°55'3.15" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°58'12.84" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|14°24'12.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°49'34.97" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°59'53.92" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

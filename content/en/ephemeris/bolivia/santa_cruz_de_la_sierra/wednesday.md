@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°45'27.76" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°17'28.62" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°15'54.11" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°6'17.84" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°6'17.84" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|7°30'48.73" |Taurus|Thurayya|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°45'27.76" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°17'28.62" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°15'54.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°6'17.84" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|23°6'17.84" |Aries|Butain|Venus|
 |☾ Moon|Direct|7°30'48.73" |Gemini|HanAh|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ciudad Santa Cruz, Ciudad de Santa Cruz de la Sierra, SRZ, Santa Cruz, Santa Cruz da Serra, Santa Cruz de la Sierra, Santa-Krus-de-la-Sierra, santakurusu, Санта-Крус-де-ла-Сиерра, سانتا کروز دلاسیه‌را, サンタクルス

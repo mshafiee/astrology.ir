@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 20:39:16 |
 | Maghrib | 21:09:26 |
 | Isha (Night) | 22:38:22 |
-| Sharia Midnight | 23:31:36 |
+| Sharia Midnight | 23:31:35 |
 | Imum Coeli | 00:56:52 |
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|7°19'28.99" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|20°0'21.86" |Aries|Butain|Venus|
 |♀ Venus|Direct|13°10'34.05" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°49'8.19" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°49'8.19" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|17°12'40.32" |Taurus|Dabaran|Moon|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|26°16'36.61" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|7°19'28.99" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|20°0'21.86" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|13°10'34.05" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°49'8.19" |Aries|Butain|Venus|
-|☾ Moon|Direct|17°12'40.32" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|13°10'35.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°49'9.34" |Aries|Butain|Venus|
+|☾ Moon|Direct|17°47'27.36" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Mars|Libra|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}

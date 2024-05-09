@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'10.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°6'25.28" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°46'22.80" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°18'28.95" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°17'22.83" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°7'15.42" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°55'8.83" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°6'28.18" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°46'29.27" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°18'46.25" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°17'32.92" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°7'33.90" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°49'40.39" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'10.67" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°6'25.28" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°46'22.80" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°18'28.95" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°17'22.83" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°7'15.42" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°55'8.83" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|26°6'28.18" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°46'29.27" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°18'46.25" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°17'32.92" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°7'33.90" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°49'40.39" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: AQP, Arecipa, Arehkipa, Arekip, Arekipa, Arekipo, Arequipa, Arikipa, Ariqipa, a lei ji pa, alekipa, arekipa, arekkippa, arkypa, arykyba, arykypa, xareki pa, Αρεκίπα, Арекипа, Арекіпа, Арэкіпа, ארקיפה, أريكيبا, ارکیپا, اریکیپا, अरेकिपा, அரேக்கிப்பா, อาเรกีปา, არეკიპა, アレキパ, 阿雷基帕, 아레키파

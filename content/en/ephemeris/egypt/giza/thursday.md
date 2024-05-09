@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'38.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°1'45.44" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°31'13.73" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|18°59'21.13" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°53'0.80" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°48'42.60" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°22'20.46" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°1'47.68" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°31'17.02" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|18°59'33.61" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°53'7.82" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|22°48'53.79" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°51'54.80" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'38.02" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°1'45.44" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°31'13.73" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°59'21.13" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°53'0.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°48'42.60" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°22'20.46" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|26°1'47.68" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°31'17.02" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°59'33.61" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°53'7.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°48'53.79" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°51'54.80" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ

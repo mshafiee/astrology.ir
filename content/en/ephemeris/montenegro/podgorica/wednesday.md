@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:39:24 |
 | Medium Coeli | 12:39:24 |
 | Sunset | 19:51:02 |
-| Maghrib | 19:52:28 |
+| Maghrib | 19:52:27 |
 | Isha (Night) | 21:22:28 |
 | Sharia Midnight | 23:39:00 |
 | Imum Coeli | 00:39:23 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|17°13'59.52" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|25°47'53.42" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|5°45'59.58" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|18°2'27.98" |Aries|Butain|Sun|
-|♀ Venus|Direct|10°40'27.58" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|21°55'32.46" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°0'2.54" |Aries|Butain|Sun|
+|☉ Sun|Direct|18°2'24.26" |Aries|Butain|Sun|
+|♀ Venus|Direct|10°40'22.81" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|21°55'18.45" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|18°10'45.21" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°13'59.52" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|25°47'53.42" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|5°45'59.58" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°2'24.26" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°40'25.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|21°55'32.46" |Aries|Butain|Venus|
-|☾ Moon|Direct|19°0'2.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°45'55.80" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°2'21.04" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|10°40'22.81" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|21°55'18.45" |Aries|Butain|Venus|
+|☾ Moon|Direct|18°10'45.21" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'13.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°6'37.33" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°46'59.31" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°19'23.66" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°18'21.19" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°8'10.50" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°53'5.77" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°20'13.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°6'37.17" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°46'59.34" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°19'23.63" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°18'21.12" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°8'10.47" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°53'6.32" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°46'59.31" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°19'23.66" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°18'21.19" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°8'10.50" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|23°8'10.50" |Aries|Butain|Venus|
 |☾ Moon|Direct|7°53'5.77" |Gemini|HanAh|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: SJO, San Chose, San Chosė, San Hose, San Jose, San Jose de Costa Rica, San Jose i Costa Rica, San José, San José de Costa Rica, San José i Costa Rica, San Joze, San Jozé, San Jusiy, San Khose, San Khoze, San Xose, San Xosé, San-Joseo, San-Khaseh, San-Khose, San-Xose, Sanhose, Sanhosē, Urbs Sancti Iosephi in Costarica, can hoce, san jwz, san khwsyh, san khwzh, san khwzے  kwsٹaryka, san-khose, sana hoje, sana hose, sana hoze, sanhose, sheng he xi, sn hwsh, syana hose, Σαν Χοσέ, Сан Хозе, Сан Хосе, Сан-Хасэ, Сан-Хосе, Սան Խոսե, סאן חוסה, סן חוסה, سان جوز, سان خوزه, سان خوزے، کوسٹاریکا, سان خوسيه, سان خوسې, सान होज़े, सान होजे, স্যান হোসে, ਸਾਨ ਹੋਸੇ, சான் ஹொசே, ซันโฮเซ, སན་ཇོ་སེ།, სან-ხოსე, ሳን ሆዜ, サンホセ, 聖荷西, 산호세

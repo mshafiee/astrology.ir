@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°43'55.46" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°15'31.31" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°13'25.90" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°4'22.89" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°4'22.89" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|6°52'39.26" |Taurus|Thurayya|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°43'55.46" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°15'31.31" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°13'25.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°4'22.89" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|23°4'22.89" |Aries|Butain|Venus|
 |☾ Moon|Direct|6°52'39.26" |Gemini|HanAh|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

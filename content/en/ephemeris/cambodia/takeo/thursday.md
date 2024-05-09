@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|7°8'47.07" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°46'54.09" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°53'22.23" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°35'30.64" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°35'30.64" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|14°28'49.45" |Taurus|Dabaran|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°8'47.07" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°46'54.09" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°53'22.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°35'30.64" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|23°35'30.64" |Aries|Butain|Venus|
 |☾ Moon|Direct|14°28'49.45" |Gemini|HanAh|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°31'37.13" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|18°59'57.99" |Aries|Butain|Sun|
 |♀ Venus|Direct|11°53'40.23" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°49'16.93" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°49'16.93" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|2°45'4.83" |Taurus|Thurayya|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°31'37.13" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|18°59'57.99" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|11°53'40.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°49'16.93" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|22°49'16.93" |Aries|Butain|Venus|
 |☾ Moon|Direct|2°45'4.83" |Gemini|HaqAh|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드

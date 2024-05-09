@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|17°17'40.30" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|25°58'53.65" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|6°21'50.35" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|18°47'39.20" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°37'58.05" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°37'30.34" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°2'22.36" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|18°47'38.79" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°37'57.80" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|22°37'29.88" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°59'37.06" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Venus|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°17'40.30" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|25°58'53.65" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°21'50.35" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°47'38.79" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°37'57.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°37'29.88" |Aries|Butain|Venus|
-|☾ Moon|Direct|29°59'37.06" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|25°58'51.38" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°21'43.86" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°47'24.55" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°37'49.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°37'12.51" |Aries|Butain|Venus|
+|☾ Moon|Direct|28°25'40.79" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

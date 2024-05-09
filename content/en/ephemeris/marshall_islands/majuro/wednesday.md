@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:13:04 |
 | Sunrise | 06:18:31 |
-| Dhuhr (Noon) | 12:30:58 |
-| Medium Coeli | 12:30:58 |
+| Dhuhr (Noon) | 12:30:57 |
+| Medium Coeli | 12:30:57 |
 | Sunset | 18:43:29 |
 | Maghrib | 18:57:49 |
 | Isha (Night) | 19:40:26 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:04:28 |
 | Sunrise | 06:18:31 |
-| Dhuhr (Noon) | 12:30:58 |
-| Medium Coeli | 12:30:58 |
+| Dhuhr (Noon) | 12:30:57 |
+| Medium Coeli | 12:30:57 |
 | Sunset | 18:43:29 |
 | Maghrib | 18:44:25 |
 | Isha (Night) | 19:53:19 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:17:21 |
 | Sunrise | 06:18:31 |
-| Dhuhr (Noon) | 12:30:58 |
-| Medium Coeli | 12:30:58 |
+| Dhuhr (Noon) | 12:30:57 |
+| Medium Coeli | 12:30:57 |
 | Sunset | 18:43:29 |
 | Maghrib | 18:44:25 |
 | Isha (Night) | 19:44:43 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°16'55.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|25°56'37.76" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°14'27.51" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|18°38'20.90" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°26'6.65" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°28'42.02" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°53'43.79" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|17°16'55.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|25°56'37.60" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°14'27.55" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|18°38'20.86" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°26'6.59" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|22°28'41.99" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|27°53'44.59" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°16'55.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|25°56'37.76" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°14'27.51" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°38'20.90" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°26'6.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°28'42.02" |Aries|Butain|Venus|
-|☾ Moon|Direct|27°53'43.79" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|17°16'55.01" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|25°56'37.60" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°14'27.55" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°38'20.86" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°26'6.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°28'41.99" |Aries|Butain|Venus|
+|☾ Moon|Direct|27°53'44.59" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

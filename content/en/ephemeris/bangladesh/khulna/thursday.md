@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°22'33.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°13'42.60" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|7°10'5.54" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°48'24.28" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°55'28.22" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°37'1.07" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°9'12.83" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|17°22'33.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°13'44.95" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|7°10'10.90" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°48'39.29" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°55'36.86" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°37'16.51" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°47'48.48" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Moon|Virgo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°22'33.97" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°13'45.10" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°10'10.86" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°48'39.32" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°55'36.93" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°37'16.53" |Aries|Butain|Venus|
-|☾ Moon|Direct|14°47'48.01" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|17°22'33.87" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°13'44.95" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°10'10.90" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°48'39.29" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°55'36.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°37'16.51" |Aries|Butain|Venus|
+|☾ Moon|Direct|14°47'48.48" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'21.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°7'1.84" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°48'19.33" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°21'3.93" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°20'29.80" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°9'48.76" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|8°8'29.71" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°20'21.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°7'1.68" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°48'19.62" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°21'4.60" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°20'30.21" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°9'49.54" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|8°12'38.48" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°48'19.33" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°21'3.93" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°20'29.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°9'48.76" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|23°9'48.76" |Aries|Butain|Venus|
 |☾ Moon|Direct|8°8'29.71" |Gemini|HanAh|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: MTY, Mantehrehj, Mons Regis, Monterej, Monterejo, Monterejus, Monterey, Monterrei, Monterrej, Monterreja, Monterrey, Monterrey City, Monterrey i Nuevo Leon, Monterrey i Nuevo León, Monterėjus, Tlahtoantepec, Tlahtoāntepēc, mamtere, meng te lei, montelei, montere'i, monterei, mwntry, mwntryy, mwntyry, mxn terrey, Μοντερρέι, Мантэрэй, Монтерей, Монтереј, Монтеррей, Մոնտերեյ, מונטריי, مونتری, مونتيري, مونتےرئی, माँतेरे, ਮੋਂਤੇਰੇਈ, มอนเตร์เรย์, མཱོན་ཊི་རེ།, მონტერეი, モンテレイ, 蒙特雷, 몬테레이

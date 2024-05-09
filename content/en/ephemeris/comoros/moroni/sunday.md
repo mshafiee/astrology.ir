@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:13:43 |
 | Sunrise | 06:15:14 |
-| Dhuhr (Noon) | 12:03:20 |
-| Medium Coeli | 12:03:20 |
+| Dhuhr (Noon) | 12:03:19 |
+| Medium Coeli | 12:03:19 |
 | Sunset | 17:51:19 |
 | Maghrib | 17:52:16 |
 | Isha (Night) | 18:52:51 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:54:37 |
 | Sunrise | 06:15:14 |
-| Dhuhr (Noon) | 12:03:20 |
-| Medium Coeli | 12:03:20 |
+| Dhuhr (Noon) | 12:03:19 |
+| Medium Coeli | 12:03:19 |
 | Sunset | 17:51:19 |
 | Maghrib | 17:52:16 |
 | Isha (Night) | 19:03:29 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°32'22.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|17°32'22.22" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|26°44'19.75" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|8°49'27.17" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|21°54'0.58" |Aries|Butain|Venus|
 |♀ Venus|Direct|15°35'15.02" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°50'40.24" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|25°50'40.24" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|13°50'59.40" |Gemini|HanAh|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°32'22.32" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°44'19.75" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|8°49'27.17" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°54'0.58" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|15°35'15.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°50'40.24" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|13°50'59.40" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|26°44'19.59" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|8°49'27.22" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°54'0.55" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°35'14.96" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|25°50'40.22" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|13°50'59.61" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

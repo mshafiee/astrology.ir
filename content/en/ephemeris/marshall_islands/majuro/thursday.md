@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°21'35.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°10'45.58" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|7°0'26.83" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°36'22.87" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°39'58.45" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°24'58.42" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°59'29.39" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|17°21'35.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°10'45.42" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|7°0'26.87" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°36'22.83" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°39'58.39" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°24'58.39" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°59'29.88" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°21'35.25" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°10'45.58" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°0'26.83" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°36'22.87" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°39'58.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°24'58.42" |Aries|Butain|Venus|
-|☾ Moon|Direct|11°59'29.39" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|17°21'35.15" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°10'45.42" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°0'26.87" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°36'22.83" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°39'58.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°24'58.39" |Aries|Butain|Venus|
+|☾ Moon|Direct|11°59'29.88" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로
