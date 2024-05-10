@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°33'37.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°48'21.05" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|9°2'29.53" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|22°10'27.65" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°56'14.40" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°9'11.76" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|17°21'25.09" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|17°33'37.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°48'20.09" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|9°2'30.89" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°10'24.15" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°56'12.72" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°9'12.20" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|16°27'41.10" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Mercury|Sun|Libra|Moon|Saturn|
 |☿ Mercury|Saturn|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°2'29.53" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|22°10'27.65" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|15°56'14.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°9'11.76" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|26°9'11.76" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|17°21'25.09" |Cancer|Tarf|Mercury|
 
 

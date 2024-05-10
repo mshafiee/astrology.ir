@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:16:29 |
-| Sunrise | 06:01:28 |
+| Sunrise | 06:01:27 |
 | Dhuhr (Noon) | 13:07:47 |
 | Medium Coeli | 13:07:47 |
 | Sunset | 20:14:39 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:14:24 |
-| Sunrise | 06:01:28 |
+| Sunrise | 06:01:27 |
 | Dhuhr (Noon) | 13:07:47 |
 | Medium Coeli | 13:07:47 |
 | Sunset | 20:14:39 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:48 |
-| Sunrise | 06:01:28 |
+| Sunrise | 06:01:27 |
 | Dhuhr (Noon) | 13:07:47 |
 | Medium Coeli | 13:07:47 |
 | Sunset | 20:14:39 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°36'44.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°58'20.17" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|9°34'51.49" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|22°51'20.02" |Aries|Butain|Venus|
-|♀ Venus|Direct|16°48'21.28" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°56'12.86" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°21'44.56" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|26°58'20.05" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|9°34'51.27" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°51'20.07" |Aries|Butain|Venus|
+|♀ Venus|Direct|16°48'21.01" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°56'12.54" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°18'22.56" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°34'51.49" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|22°51'20.02" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|16°48'21.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°56'12.84" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|26°56'12.84" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|26°14'13.14" |Cancer|Jabhah|Moon|
 
 

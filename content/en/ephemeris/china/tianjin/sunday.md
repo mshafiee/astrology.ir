@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:00:43 |
 | Dhuhr (Noon) | 12:07:38 |
 | Medium Coeli | 12:07:38 |
-| Sunset | 19:15:07 |
+| Sunset | 19:15:08 |
 | Maghrib | 19:37:33 |
 | Isha (Night) | 20:36:22 |
 | Sharia Midnight | 23:14:08 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:00:43 |
 | Dhuhr (Noon) | 12:07:38 |
 | Medium Coeli | 12:07:38 |
-| Sunset | 19:15:08 |
+| Sunset | 19:15:07 |
 | Maghrib | 19:16:23 |
 | Isha (Night) | 21:03:54 |
-| Sharia Midnight | 23:13:04 |
+| Sharia Midnight | 23:13:03 |
 | Imum Coeli | 00:07:38 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 14:14:25|Night duration: 09:44:38|
+|Duration of the day: 14:14:24|Night duration: 09:44:39|
 |Every hour of day duration: 01:11:12|Every hour of night duration: 00:48:43|
 
  
@@ -227,19 +227,19 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|14:30:19|15:41:30|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|15:41:31|16:52:42|Attracting happiness, solving financial problems|
 |11|Moon|Servant|16:52:43|18:03:54|Performing promises|
-|12|Saturn|Servant|18:03:55|19:15:07|Finding the fugitive and discovering the thief|
+|12|Saturn|Servant|18:03:55|19:15:06|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|19:15:08|20:03:50|Love and attraction of capital|
-|2|Mars|Servant|20:03:51|20:52:33|Unfortunate, no task is suitable|
-|3|Sun|Servant|20:52:34|21:41:16|Operations of tenderness and attraction of love|
-|4|Venus|Servant|21:41:17|22:29:59|Unfortunate and repelling goodness|
+|1|Jupiter|Ruler|19:15:07|20:03:49|Love and attraction of capital|
+|2|Mars|Servant|20:03:50|20:52:32|Unfortunate, no task is suitable|
+|3|Sun|Servant|20:52:33|21:41:15|Operations of tenderness and attraction of love|
+|4|Venus|Servant|21:41:16|22:29:59|Unfortunate and repelling goodness|
 |5|Mercury|Servant|22:30:00|23:18:42|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:18:43|00:07:26|Suitable for all good deeds|
-|7|Saturn|Servant|00:07:27|00:56:09|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|00:56:10|01:44:52|Extremely auspicious and attracts happiness|
+|6|Moon|Servant|23:18:43|00:07:25|Suitable for all good deeds|
+|7|Saturn|Servant|00:07:26|00:56:08|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|00:56:09|01:44:52|Extremely auspicious and attracts happiness|
 |9|Mars|Servant|01:44:53|02:33:35|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Sun|Servant|02:33:36|03:22:18|Attracting happiness, solving financial problems|
 |11|Venus|Servant|03:22:19|04:11:01|Performing promises|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|9°23'20.42" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|22°36'46.80" |Aries|Butain|Venus|
 |♀ Venus|Direct|16°29'48.04" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°39'18.80" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|26°39'18.80" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|23°3'37.67" |Gemini|Dhira|Sun|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°35'38.28" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°54'46.66" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°23'20.42" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°36'46.80" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|16°29'48.04" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°39'18.80" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|23°3'37.67" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|17°35'38.38" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°54'47.00" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°23'21.44" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°36'48.21" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|16°29'49.00" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|26°39'21.02" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|22°59'46.51" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

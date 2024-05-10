@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'48.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°2'19.35" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°33'4.56" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°1'42.72" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°55'57.34" |Aries|Sharatain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|22°51'1.07" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°28'28.23" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°18'48.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°2'20.33" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°33'3.72" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°1'46.78" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°55'59.35" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°51'1.63" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°5'34.17" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'48.67" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°2'20.17" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°33'3.76" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°1'46.75" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°55'59.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|22°51'1.60" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°5'34.81" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|17°18'48.77" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°2'20.33" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°33'3.72" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°1'46.78" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°55'59.35" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°51'1.63" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°5'34.17" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: An Bhruiseil, An Bhruiséil, BRU, Breissel, Brisel, Brisele, Briuselis, Brjuksel, Brjusel', Brjussel', Brueksel, Bruessel, Bruesszel, Bruiseal, Bruksel, Bruksela, Brukseli, Brukselo, Brusehl', Brusel, Brusela, Bruselas, Bruseles, Bruselj, Bruselo, Brusel·les, Brussel, Brussele, Brussels, Brussel·les, Bruxel, Bruxelas, Bruxellae, Bruxelles, Brwsel, Bryssel, Bryusel, Bryxelles, Bréissel, Brüksel, Brüssel, Brüsszel, Citta di Bruxelles, Città di Bruxelles, City of Brussels, Kota Brusel, beulwisel, braselasa, braselsa, brassels, briuseli, brwksl, brysl, bu lu sai er, buryusseru, Βρυξέλλες, Брисел, Брусэль, Брюксел, Брюсель, Брюссель, Բրյուսել, בריסל, بروكسل, بروکسل, بريۇسسېل, ܒܪܘܟܣܠ, ब्रसेल्स, ব্রাসেলস, บรัสเซลส์, ბრიუსელი, ブリュッセル, 布魯塞爾, 布鲁塞尔, 브뤼셀

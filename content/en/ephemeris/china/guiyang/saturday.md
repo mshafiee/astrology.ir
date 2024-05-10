@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:03 |
-| Sunrise | 06:08:26 |
+| Sunrise | 06:08:27 |
 | Dhuhr (Noon) | 12:49:30 |
 | Medium Coeli | 12:49:30 |
 | Sunset | 19:30:52 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:31 |
-| Sunrise | 06:08:26 |
+| Sunrise | 06:08:27 |
 | Dhuhr (Noon) | 12:49:30 |
 | Medium Coeli | 12:49:30 |
 | Sunset | 19:30:52 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:41:28 |
-| Sunrise | 06:08:26 |
+| Sunrise | 06:08:27 |
 | Dhuhr (Noon) | 12:49:30 |
 | Medium Coeli | 12:49:30 |
 | Sunset | 19:30:52 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°31'24.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°41'17.89" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|8°39'38.47" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|21°41'35.79" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°19'27.67" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°36'50.95" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°55'22.09" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|26°41'18.12" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|8°39'38.58" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|21°41'36.23" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°19'27.98" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°36'51.41" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|10°57'6.75" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|8°39'38.42" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°41'35.82" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|15°19'27.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°36'50.98" |Aries|Butain|Venus|
+|☿ Mercury|Direct|25°36'50.98" |Aries|Butain|Venus|
 |☾ Moon|Direct|10°55'21.80" |Cancer|Nathrah|Mercury|
 
 

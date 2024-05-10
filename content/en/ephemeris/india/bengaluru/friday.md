@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:38:57 |
+| Fajr (Dawn) | 04:38:58 |
 | Sunrise | 05:55:41 |
 | Dhuhr (Noon) | 12:16:01 |
 | Medium Coeli | 12:16:01 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:38:57 |
+| Fajr (Dawn) | 04:38:58 |
 | Sunrise | 05:55:41 |
 | Dhuhr (Noon) | 12:16:01 |
 | Medium Coeli | 12:16:01 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°22'45.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°14'22.01" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|17°22'46.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°14'22.03" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|7°12'9.86" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°51'10.49" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°58'49.06" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°39'48.08" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|23°39'48.08" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|15°30'44.30" |Taurus|Dabaran|Moon|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°22'46.04" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°14'22.01" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°12'9.86" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°51'10.49" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°58'49.06" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|23°39'48.05" |Aries|Butain|Venus|
-|☾ Moon|Direct|15°30'44.76" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|26°14'22.03" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°12'10.75" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°51'11.09" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°58'49.52" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°39'49.78" |Aries|Butain|Venus|
+|☾ Moon|Direct|15°29'13.23" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

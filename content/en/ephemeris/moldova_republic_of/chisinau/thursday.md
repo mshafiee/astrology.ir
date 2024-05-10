@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'32.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°1'30.06" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°30'20.55" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|18°58'21.11" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°51'37.14" |Aries|Sharatain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|22°47'43.67" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°19'15.64" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°18'32.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°1'30.21" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°30'20.51" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|18°58'21.15" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°51'30.51" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°47'31.49" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°0'4.28" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'32.09" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°1'30.06" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°30'20.55" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|18°58'21.11" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°51'37.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|22°47'43.67" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°19'15.64" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|17°18'31.40" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°1'28.31" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°30'16.34" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°58'9.57" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°51'30.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°47'31.49" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°0'4.28" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

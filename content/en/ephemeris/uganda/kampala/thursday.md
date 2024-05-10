@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'45.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°2'9.93" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°32'28.98" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°1'5.68" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°54'54.65" |Aries|Sharatain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|22°50'4.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°1'17.96" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|17°18'45.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°2'9.77" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°32'29.02" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°1'5.64" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°55'3.20" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°50'22.80" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°30'11.90" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°18'45.42" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°2'7.90" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°32'21.70" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°0'51.43" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|17°18'45.31" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°2'9.77" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°32'29.02" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°1'5.64" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|11°54'54.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|22°50'4.33" |Aries|Butain|Venus|
+|☿ Mercury|Direct|22°50'4.33" |Aries|Butain|Venus|
 |☾ Moon|Direct|2°1'17.96" |Gemini|HaqAh|Jupiter|
 
 

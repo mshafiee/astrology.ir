@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°33'24.94" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|19°2'14.85" |Aries|Butain|Sun|
 |♀ Venus|Direct|11°56'33.28" |Aries|Sharatain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|22°51'29.12" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|22°51'29.12" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|3°28'60.00" |Taurus|Thurayya|Mercury|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|26°2'26.96" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|6°33'24.94" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°2'14.85" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°56'33.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|22°51'29.09" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°29'0.64" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|11°56'33.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°51'29.12" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°28'60.00" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리

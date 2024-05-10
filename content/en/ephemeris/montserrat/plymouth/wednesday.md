@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°19'54.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°5'40.10" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|6°43'53.22" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°15'28.55" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°13'22.29" |Aries|Sharatain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°4'20.21" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°52'50.14" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°5'39.29" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|6°43'48.00" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°15'22.12" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°13'18.00" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°4'8.68" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°25'24.09" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°19'54.84" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°5'40.10" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°43'45.73" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|19°15'15.11" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°13'14.05" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|23°4'1.82" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°35'24.17" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|17°19'54.73" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°5'39.94" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°43'53.25" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|19°15'28.51" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°13'22.22" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°4'20.18" |Aries|Butain|Venus|
+|☾ Moon|Direct|6°52'50.71" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스

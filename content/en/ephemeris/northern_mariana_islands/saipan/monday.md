@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:13:19 |
 | Sunset | 18:38:01 |
 | Maghrib | 18:40:14 |
-| Isha (Night) | 19:53:51 |
+| Isha (Night) | 19:53:52 |
 | Sharia Midnight | 23:30:42 |
 | Imum Coeli | 00:13:19 |
 {{< /tab >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°39'47.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|17°39'47.25" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|27°8'14.64" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|10°6'55.80" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|23°31'52.79" |Aries|Butain|Venus|
 |♀ Venus|Direct|17°40'0.66" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°44'13.13" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°44'13.13" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|5°2'4.14" |Cancer|Nathrah|Venus|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|10°6'55.80" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|23°31'52.79" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|17°40'0.66" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°44'13.13" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|27°44'13.13" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|5°2'4.14" |Leo|Jabhah|Saturn|
 
 
