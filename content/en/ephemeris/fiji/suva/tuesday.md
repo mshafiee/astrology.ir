@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:16:50|Night duration: 12:43:31|
+|Duration of the day: 11:16:51|Night duration: 12:43:31|
 |Every hour of day duration: 00:56:24|Every hour of night duration: 01:03:38|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:24:05|07:20:28|Creating corruption, hatred and enmity|
-|2|Sun|Servant|07:20:29|08:16:52|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:16:53|09:13:16|Attracting connection and suitors|
-|4|Mercury|Servant|09:13:17|10:09:40|Attracting material wealth, earnings and business prosperity|
+|1|Mars|Ruler|06:24:04|07:20:27|Creating corruption, hatred and enmity|
+|2|Sun|Servant|07:20:28|08:16:51|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:16:52|09:13:15|Attracting connection and suitors|
+|4|Mercury|Servant|09:13:16|10:09:40|Attracting material wealth, earnings and business prosperity|
 |5|Moon|Servant|10:09:41|11:06:04|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:06:05|12:02:29|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|12:02:30|12:58:53|Attracting love and hearts|
-|8|Mars|Ruler|12:58:54|13:55:17|Creating corruption, destroying enemies, making enemies sick|
+|6|Saturn|Servant|11:06:05|12:02:28|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|12:02:29|12:58:52|Attracting love and hearts|
+|8|Mars|Ruler|12:58:53|13:55:17|Creating corruption, destroying enemies, making enemies sick|
 |9|Sun|Servant|13:55:18|14:51:41|Heart tenderness|
 |10|Venus|Servant|14:51:42|15:48:05|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|15:48:06|16:44:29|Attracting connection and suitors|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°43'49.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°21'32.25" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|10°49'58.30" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|24°26'10.57" |Aries|Butain|Venus|
-|♀ Venus|Direct|18°49'24.09" |Aries|Butain|Sun|
-|☿ Mercury|Direct|28°50'39.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|16°19'19.09" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|17°43'49.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°21'34.67" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|10°50'4.17" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|24°26'24.80" |Aries|Butain|Venus|
+|♀ Venus|Direct|18°49'32.49" |Aries|Butain|Sun|
+|☿ Mercury|Direct|28°50'54.01" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|16°29'23.77" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|27°21'34.67" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|10°50'4.17" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|24°26'24.80" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|18°49'32.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|28°50'54.01" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|16°29'23.77" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|18°49'32.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|28°50'54.03" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|16°29'24.00" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

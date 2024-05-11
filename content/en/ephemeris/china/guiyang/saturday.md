@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:22:26|Night duration: 10:36:59|
+|Duration of the day: 13:22:25|Night duration: 10:36:59|
 |Every hour of day duration: 01:06:52|Every hour of night duration: 00:53:05|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:08:26|07:15:17|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|07:15:18|08:22:09|Peace among people|
-|3|Mars|Servant|08:22:10|09:29:01|Vengeful and evil deeds|
-|4|Sun|Servant|09:29:02|10:35:53|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:35:54|11:42:45|Auspicious|
-|6|Mercury|Servant|11:42:46|12:49:38|Writing, swapping and making promises|
+|1|Saturn|Ruler|06:08:27|07:15:18|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:15:19|08:22:10|Peace among people|
+|3|Mars|Servant|08:22:11|09:29:02|Vengeful and evil deeds|
+|4|Sun|Servant|09:29:03|10:35:54|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:35:55|11:42:46|Auspicious|
+|6|Mercury|Servant|11:42:47|12:49:38|Writing, swapping and making promises|
 |7|Moon|Servant|12:49:39|13:56:30|Not suitable for any task|
 |8|Saturn|Ruler|13:56:31|15:03:22|Destruction of enemies|
 |9|Jupiter|Servant|15:03:23|16:10:14|All good deeds|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°31'24.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°41'18.12" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|8°39'38.58" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|21°41'36.23" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°19'27.98" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°36'51.41" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°57'6.75" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|17°31'25.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°41'18.04" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|8°39'38.42" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|21°41'35.82" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°19'27.74" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°36'50.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|10°55'21.80" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°31'25.01" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|26°41'18.04" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|8°39'38.42" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°41'35.82" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|15°19'27.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°36'50.98" |Aries|Butain|Venus|
-|☾ Moon|Direct|10°55'21.80" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|8°39'38.06" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°41'36.16" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°19'27.87" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°36'50.53" |Aries|Butain|Venus|
+|☾ Moon|Direct|11°4'33.18" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

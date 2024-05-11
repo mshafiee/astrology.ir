@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:55:27 |
-| Sunrise | 06:08:20 |
+| Sunrise | 06:08:19 |
 | Dhuhr (Noon) | 12:43:07 |
 | Medium Coeli | 12:43:07 |
 | Sunset | 19:18:12 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:47:04 |
-| Sunrise | 06:08:20 |
+| Sunrise | 06:08:19 |
 | Dhuhr (Noon) | 12:43:07 |
 | Medium Coeli | 12:43:07 |
 | Sunset | 19:18:12 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°26'54.39" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°27'9.01" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°53'43.54" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|20°43'37.31" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|14°5'36.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°34'3.33" |Aries|Butain|Venus|
-|☾ Moon|Direct|27°43'21.99" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|26°27'9.17" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°53'43.50" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|20°43'37.34" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|14°5'36.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°34'3.36" |Aries|Butain|Venus|
+|☾ Moon|Direct|27°43'21.55" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

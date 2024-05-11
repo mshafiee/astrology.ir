@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:01:28 |
 | Dhuhr (Noon) | 12:12:21 |
 | Medium Coeli | 12:12:21 |
-| Sunset | 18:23:16 |
+| Sunset | 18:23:17 |
 | Maghrib | 18:24:33 |
 | Isha (Night) | 19:54:33 |
 | Sharia Midnight | 23:34:01 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:21:48|Night duration: 11:38:06|
+|Duration of the day: 12:21:49|Night duration: 11:38:05|
 |Every hour of day duration: 01:01:49|Every hour of night duration: 00:58:10|
 
  
@@ -227,17 +227,17 @@ Timetable of twelve day and night planetary hours
 |9|Saturn|Servant|14:16:00|15:17:48|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:17:49|16:19:37|Good for any task|
 |11|Mars|Servant|16:19:38|17:21:26|Creating enmity and negative energy|
-|12|Sun|Servant|17:21:27|18:23:15|Heart tenderness|
+|12|Sun|Servant|17:21:27|18:23:16|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:23:16|19:21:25|Repelling magic, attracting discharged energy|
-|2|Mercury|Servant|19:21:26|20:19:36|Outer and inner journey|
-|3|Moon|Servant|20:19:37|21:17:46|Marriage connection is good|
-|4|Saturn|Servant|21:17:47|22:15:57|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:15:58|23:14:07|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:14:08|00:12:18|Summoning the person of interest, love and dominance|
+|1|Venus|Ruler|18:23:17|19:21:26|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|19:21:27|20:19:36|Outer and inner journey|
+|3|Moon|Servant|20:19:37|21:17:47|Marriage connection is good|
+|4|Saturn|Servant|21:17:48|22:15:57|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:15:58|23:14:08|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:14:09|00:12:18|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|00:12:19|01:10:28|Making promises|
 |8|Venus|Ruler|01:10:29|02:08:39|Reconciliation of two persons, attracting love|
 |9|Mercury|Servant|02:08:40|03:06:49|Attracting and repelling enemies and causing separation|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°37'17.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°0'6.78" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|9°40'36.73" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|22°58'37.75" |Aries|Butain|Venus|
-|♀ Venus|Direct|16°57'36.70" |Aries|Butain|Sun|
-|☿ Mercury|Direct|27°4'44.73" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°57'15.09" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|27°0'6.93" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|9°40'36.68" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°58'37.77" |Aries|Butain|Venus|
+|♀ Venus|Direct|16°57'36.77" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°4'44.75" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|27°57'15.31" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

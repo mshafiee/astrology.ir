@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°39'43.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°8'1.42" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|10°6'12.73" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|23°30'58.97" |Aries|Butain|Venus|
-|♀ Venus|Direct|17°38'51.21" |Aries|Butain|Sun|
-|☿ Mercury|Direct|27°43'8.31" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°52'49.74" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|27°7'59.04" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|10°6'9.38" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|23°30'45.63" |Aries|Butain|Venus|
+|♀ Venus|Direct|17°38'43.66" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°42'57.38" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°49'51.34" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°39'43.21" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°8'1.42" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|10°6'12.73" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|23°30'58.97" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|17°38'51.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°43'8.31" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|17°39'42.70" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°7'59.04" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|10°6'9.38" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|23°30'45.63" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|17°38'43.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°42'57.38" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|3°49'51.34" |Leo|Jabhah|Saturn|
 
 

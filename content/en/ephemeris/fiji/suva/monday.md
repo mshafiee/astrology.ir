@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:17:31|Night duration: 12:42:49|
-|Every hour duration: 01:36:47|Every hour duration: 01:48:58|
+|Duration of the day: 11:17:31|Night duration: 12:42:50|
+|Every hour duration: 01:36:47|Every hour duration: 01:48:59|
 
  
  
@@ -276,12 +276,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Venus|Ruler|17:41:15|19:30:12|
-|Late evening|Mercury|Servant|19:30:13|21:19:10|
-|Midnight|Moon|Servant|21:19:11|23:08:09|
-|Late at night|Saturn|Servant|23:08:10|00:57:07|
-|Rooster song|Jupiter|Servant|00:57:08|02:46:06|
-|False Dawn|Mars|Servant|02:46:07|04:35:04|
-|Dawn|Sun|Servant|04:35:05|06:24:03|
+|Late evening|Mercury|Servant|19:30:13|21:19:11|
+|Midnight|Moon|Servant|21:19:12|23:08:09|
+|Late at night|Saturn|Servant|23:08:10|00:57:08|
+|Rooster song|Jupiter|Servant|00:57:09|02:46:06|
+|False Dawn|Mars|Servant|02:46:07|04:35:05|
+|Dawn|Sun|Servant|04:35:06|06:24:04|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°39'32.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°7'24.95" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|10°4'15.17" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|23°28'30.33" |Aries|Butain|Venus|
-|♀ Venus|Direct|17°35'41.66" |Aries|Butain|Sun|
-|☿ Mercury|Direct|27°40'10.10" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°21'20.88" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|17°39'32.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°7'25.11" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|10°4'15.15" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|23°28'30.40" |Aries|Butain|Venus|
+|♀ Venus|Direct|17°35'41.77" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°40'10.17" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°21'21.94" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

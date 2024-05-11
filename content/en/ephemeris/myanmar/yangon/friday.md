@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:01:46 |
 | Medium Coeli | 12:01:46 |
 | Sunset | 18:27:54 |
-| Maghrib | 18:42:56 |
+| Maghrib | 18:42:55 |
 | Isha (Night) | 19:28:00 |
 | Sharia Midnight | 23:27:01 |
 | Imum Coeli | 00:01:45 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°27'5.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°27'43.25" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|7°55'34.07" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|20°45'57.23" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°8'34.24" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°36'31.46" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°23'53.13" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|17°27'5.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°27'43.09" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|7°55'34.12" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|20°45'57.20" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°8'34.17" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°36'31.44" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|28°18'38.27" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°27'5.45" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°27'43.25" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°55'34.07" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|20°45'57.23" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|14°8'34.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°36'31.46" |Aries|Butain|Venus|
-|☾ Moon|Direct|28°18'37.83" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|17°27'5.35" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°27'43.09" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°55'34.12" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|20°45'57.20" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|14°8'34.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°36'31.44" |Aries|Butain|Venus|
+|☾ Moon|Direct|28°18'38.27" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

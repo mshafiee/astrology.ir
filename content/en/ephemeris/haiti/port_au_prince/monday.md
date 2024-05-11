@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:45:42 |
 | Sunset | 19:15:40 |
 | Maghrib | 19:16:47 |
-| Isha (Night) | 20:21:41 |
+| Isha (Night) | 20:21:40 |
 | Sharia Midnight | 00:12:36 |
 | Imum Coeli | 00:45:42 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°42'22.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°16'46.10" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|10°34'30.76" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|24°6'44.25" |Aries|Butain|Venus|
-|♀ Venus|Direct|18°24'27.86" |Aries|Butain|Sun|
-|☿ Mercury|Direct|28°26'34.14" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°22'14.79" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|17°42'22.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°16'45.95" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|10°34'30.81" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|24°6'44.22" |Aries|Butain|Venus|
+|♀ Venus|Direct|18°24'27.79" |Aries|Butain|Sun|
+|☿ Mercury|Direct|28°26'34.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°22'14.47" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°42'22.58" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°16'46.10" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|10°34'30.76" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|24°6'44.25" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|18°24'27.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|28°26'34.14" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|12°22'14.79" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|17°42'22.48" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°16'45.95" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|10°34'30.81" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|24°6'44.22" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|18°24'27.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|28°26'34.12" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|12°22'14.47" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
