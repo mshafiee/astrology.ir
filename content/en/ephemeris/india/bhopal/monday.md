@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:15:59 |
-| Sunrise | 05:39:53 |
+| Sunrise | 05:39:52 |
 | Dhuhr (Noon) | 12:16:44 |
 | Medium Coeli | 12:16:44 |
 | Sunset | 18:53:51 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:08:23 |
-| Sunrise | 05:39:52 |
+| Sunrise | 05:39:53 |
 | Dhuhr (Noon) | 12:16:44 |
 | Medium Coeli | 12:16:44 |
 | Sunset | 18:53:51 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:15:59 |
-| Sunrise | 05:39:53 |
+| Sunrise | 05:39:52 |
 | Dhuhr (Noon) | 12:16:44 |
 | Medium Coeli | 12:16:44 |
 | Sunset | 18:53:51 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:13:59|Night duration: 10:45:33|
+|Duration of the day: 13:13:58|Night duration: 10:45:33|
 |Every hour of day duration: 01:06:10|Every hour of night duration: 00:53:48|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:39:52|06:46:00|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|06:46:01|07:52:10|Outer and inner journey|
-|3|Jupiter|Servant|07:52:11|08:58:20|Marriage connection is good|
-|4|Mars|Servant|08:58:21|10:04:30|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:04:31|11:10:40|Answering needs, attracting love and wealth|
-|6|Venus|Servant|11:10:41|12:16:50|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|12:16:51|13:23:00|Making promises|
+|1|Moon|Ruler|05:39:53|06:46:01|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|06:46:02|07:52:11|Outer and inner journey|
+|3|Jupiter|Servant|07:52:12|08:58:21|Marriage connection is good|
+|4|Mars|Servant|08:58:22|10:04:31|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:04:32|11:10:41|Answering needs, attracting love and wealth|
+|6|Venus|Servant|11:10:42|12:16:51|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|12:16:52|13:23:00|Making promises|
 |8|Moon|Ruler|13:23:01|14:29:10|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:29:11|15:35:20|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:35:21|16:41:30|Good for any task|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|26°56'39.12" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|9°29'24.44" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|22°44'27.64" |Aries|Butain|Venus|
-|♀ Venus|Direct|16°39'34.09" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°48'12.42" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|24°49'40.98" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|16°39'34.10" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°48'11.87" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|24°55'56.31" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°36'13.21" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°56'39.12" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°29'24.44" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°44'27.64" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|16°39'34.09" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|26°48'12.42" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|24°49'40.98" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|17°36'13.31" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°56'39.17" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°29'24.05" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°44'27.65" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|16°39'34.03" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|26°48'11.85" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|24°55'56.31" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

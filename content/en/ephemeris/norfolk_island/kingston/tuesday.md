@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:58:06 |
+| Fajr (Dawn) | 04:58:07 |
 | Sunrise | 06:23:27 |
 | Dhuhr (Noon) | 11:44:29 |
 | Medium Coeli | 11:44:29 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°44'0.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°22'9.67" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|10°51'57.55" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|24°28'47.13" |Aries|Butain|Venus|
-|♀ Venus|Direct|18°52'35.09" |Aries|Butain|Sun|
-|☿ Mercury|Direct|28°53'52.05" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|16°52'53.23" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|17°43'59.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°22'8.07" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|10°51'55.63" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|24°28'38.59" |Aries|Butain|Venus|
+|♀ Venus|Direct|18°52'30.26" |Aries|Butain|Sun|
+|☿ Mercury|Direct|28°53'45.45" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|16°18'48.17" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
+|☾ Moon|Mars|Mars|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}

@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:32:18 |
 | Medium Coeli | 12:32:18 |
 | Sunset | 20:22:11 |
-| Maghrib | 20:25:02 |
+| Maghrib | 20:25:03 |
 | Isha (Night) | 23:17:40 |
 | Sharia Midnight | 22:52:02 |
 | Imum Coeli | 00:32:18 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:32:18 |
 | Medium Coeli | 12:32:18 |
 | Sunset | 20:22:11 |
-| Maghrib | 20:25:02 |
+| Maghrib | 20:25:03 |
 | Isha (Night) | 22:43:33 |
 | Sharia Midnight | 23:21:21 |
 | Imum Coeli | 00:32:18 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:32:18 |
 | Medium Coeli | 12:32:18 |
 | Sunset | 20:22:11 |
-| Maghrib | 20:25:02 |
-| Isha (Night) | 21:55:02 |
+| Maghrib | 20:25:03 |
+| Isha (Night) | 21:55:03 |
 | Sharia Midnight | 22:42:44 |
 | Imum Coeli | 00:32:18 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°36'40.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°58'9.17" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|9°34'16.18" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|22°50'34.35" |Aries|Butain|Venus|
-|♀ Venus|Direct|16°47'24.27" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°55'19.81" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|25°58'35.30" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|26°58'9.43" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|9°34'13.22" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°50'34.21" |Aries|Butain|Venus|
+|♀ Venus|Direct|16°47'23.77" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°55'15.31" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°46'6.14" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Capricorn|Moon|Saturn|
 |♀ Venus|Mercury|Mercury|Libra|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°36'41.07" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°58'9.17" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°34'16.18" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°50'34.35" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|16°47'24.27" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|26°55'19.81" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|25°58'35.30" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|17°36'40.97" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°58'9.01" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°34'16.23" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°50'34.32" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|16°47'24.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|26°55'19.79" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°46'6.31" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Scorpio|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Aquarius|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

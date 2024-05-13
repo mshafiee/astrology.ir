@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°36'47.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°58'27.39" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|9°35'16.89" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|22°51'48.05" |Aries|Butain|Venus|
-|♀ Venus|Direct|16°49'1.72" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°56'46.95" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|25°55'26.28" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|26°58'28.80" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|9°35'19.44" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°51'55.36" |Aries|Butain|Venus|
+|♀ Venus|Direct|16°49'6.02" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°56'54.10" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°22'2.71" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°36'47.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°58'28.65" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°35'19.49" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°51'55.33" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|16°49'5.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|26°56'54.08" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|26°22'2.53" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|17°36'47.18" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|26°58'28.80" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°35'19.44" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°51'55.36" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|16°49'6.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|26°56'54.10" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°22'2.71" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

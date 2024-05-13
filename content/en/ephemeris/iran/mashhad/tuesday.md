@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:27:55 |
 | Sunset | 18:30:20 |
 | Maghrib | 18:36:08 |
-| Isha (Night) | 20:07:06 |
+| Isha (Night) | 20:07:05 |
 | Sharia Midnight | 22:36:05 |
 | Imum Coeli | 23:27:55 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°40'42.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°11'15.37" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|10°16'42.16" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|23°44'11.97" |Aries|Butain|Venus|
-|♀ Venus|Direct|17°55'45.02" |Aries|Butain|Sun|
-|☿ Mercury|Direct|27°59'5.39" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°28'46.39" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|17°40'42.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°11'15.47" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|10°16'41.98" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|23°44'12.34" |Aries|Butain|Venus|
+|♀ Venus|Direct|17°55'45.20" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°59'5.30" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°35'4.14" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}

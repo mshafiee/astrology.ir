@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 19:11:25 |
 | Maghrib | 19:12:32 |
 | Isha (Night) | 20:27:32 |
-| Sharia Midnight | 23:41:08 |
+| Sharia Midnight | 23:41:07 |
 | Imum Coeli | 00:19:19 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°52'40.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°51'41.13" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|12°27'19.92" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°29'23.61" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|21°26'29.99" |Aries|Butain|Venus|
-|☿ Mercury|Direct|1°29'56.32" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°39'9.56" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|17°52'40.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°51'40.98" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|12°27'19.98" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°29'23.59" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|21°26'29.93" |Aries|Butain|Venus|
+|☿ Mercury|Direct|1°29'56.30" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°39'10.35" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°52'40.80" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°51'41.13" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|17°52'40.70" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°51'40.98" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|12°27'19.98" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|26°29'23.59" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|21°26'29.99" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|1°29'56.32" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|11°39'9.56" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|21°26'29.93" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|1°29'56.30" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|11°39'10.35" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

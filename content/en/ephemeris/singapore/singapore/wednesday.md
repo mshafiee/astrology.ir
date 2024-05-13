@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:41:41 |
-| Sunrise | 06:55:29 |
+| Sunrise | 06:55:30 |
 | Dhuhr (Noon) | 13:00:57 |
 | Medium Coeli | 13:00:57 |
 | Sunset | 19:06:26 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:39:32 |
-| Sunrise | 06:55:29 |
+| Sunrise | 06:55:30 |
 | Dhuhr (Noon) | 13:00:57 |
 | Medium Coeli | 13:00:57 |
 | Sunset | 19:06:26 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:10:57|Night duration: 11:49:03|
+|Duration of the day: 12:10:56|Night duration: 11:49:03|
 |Every hour of day duration: 01:00:55|Every hour of night duration: 00:59:05|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:55:29|07:56:22|Acceptance of needs|
-|2|Moon|Servant|07:56:23|08:57:17|Unfortunate, no task is suitable|
-|3|Saturn|Servant|08:57:18|09:58:12|For overcoming diseases|
-|4|Jupiter|Servant|09:58:13|10:59:07|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:59:08|12:00:01|Creating negative energy and disrupting peace|
-|6|Sun|Servant|12:00:02|13:00:56|Outer and inner journey|
-|7|Venus|Servant|13:00:57|14:01:51|Attracting love and hearts and fortune|
+|1|Mercury|Ruler|06:55:30|07:56:23|Acceptance of needs|
+|2|Moon|Servant|07:56:24|08:57:18|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:57:19|09:58:13|For overcoming diseases|
+|4|Jupiter|Servant|09:58:14|10:59:07|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:59:08|12:00:02|Creating negative energy and disrupting peace|
+|6|Sun|Servant|12:00:03|13:00:57|Outer and inner journey|
+|7|Venus|Servant|13:00:58|14:01:51|Attracting love and hearts and fortune|
 |8|Mercury|Ruler|14:01:52|15:02:46|Being invisible to the people|
-|9|Moon|Servant|15:02:47|16:03:40|Separation, causing enmity|
-|10|Saturn|Servant|16:03:41|17:04:35|Dominating the great ones|
+|9|Moon|Servant|15:02:47|16:03:41|Separation, causing enmity|
+|10|Saturn|Servant|16:03:42|17:04:35|Dominating the great ones|
 |11|Jupiter|Servant|17:04:36|18:05:30|Creating financial and emotional attraction and dominance|
 |12|Mars|Servant|18:05:31|19:06:25|Creating evil and hatred|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°48'48.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°38'24.07" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|11°44'26.51" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|25°35'9.56" |Aries|Butain|Venus|
-|♀ Venus|Direct|20°17'15.07" |Aries|Butain|Venus|
-|☿ Mercury|Direct|0°18'20.57" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°35'42.22" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|17°48'49.08" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°38'24.23" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|11°44'26.45" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|25°35'9.58" |Aries|Butain|Venus|
+|♀ Venus|Direct|20°17'15.14" |Aries|Butain|Venus|
+|☿ Mercury|Direct|0°18'11.84" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°20'55.77" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°48'48.98" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°38'24.07" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|11°44'23.47" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|25°34'59.31" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|20°17'9.21" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|0°18'11.84" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|0°20'55.77" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|17°48'49.08" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°38'24.23" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|11°44'26.45" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|25°35'9.58" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|20°17'15.14" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|0°18'20.59" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°35'41.87" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
