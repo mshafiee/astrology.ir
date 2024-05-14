@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°39'43.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°7'58.84" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|10°6'10.18" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|23°30'46.10" |Aries|Butain|Venus|
-|♀ Venus|Direct|17°38'43.93" |Aries|Butain|Sun|
-|☿ Mercury|Direct|27°42'58.66" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°42'4.75" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|27°8'1.42" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|10°6'12.73" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|23°30'58.97" |Aries|Butain|Venus|
+|♀ Venus|Direct|17°38'51.21" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°43'8.31" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°52'49.74" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°39'43.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°8'1.27" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|10°6'12.78" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|23°30'58.94" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|17°38'51.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°43'8.29" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|4°52'49.39" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|17°39'43.21" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°8'1.42" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|10°6'12.73" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|23°30'58.97" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|17°38'41.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°42'51.45" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|4°52'49.74" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

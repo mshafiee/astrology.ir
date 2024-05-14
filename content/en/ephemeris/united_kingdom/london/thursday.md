@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 15:42:06|Night duration: 08:16:28|
-|Every hour of day duration: 01:18:30|Every hour of night duration: 00:41:22|
+|Every hour of day duration: 01:18:31|Every hour of night duration: 00:41:22|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°49'42.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°41'26.64" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|11°54'16.55" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|25°47'33.19" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|20°33'7.85" |Aries|Butain|Venus|
-|☿ Mercury|Direct|0°34'31.77" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°2'58.66" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|17°49'42.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°41'26.49" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|11°54'16.61" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|25°47'33.16" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|20°33'7.79" |Aries|Butain|Venus|
+|☿ Mercury|Direct|0°34'31.75" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°12'10.28" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°49'42.33" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|27°41'26.49" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|11°54'13.55" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|25°47'23.37" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|20°33'2.21" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|0°34'23.23" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°2'58.18" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|11°54'16.61" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|25°47'33.16" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|20°33'7.79" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|0°34'31.75" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°12'10.28" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

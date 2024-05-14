@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:42:57 |
-| Sunrise | 06:55:30 |
+| Sunrise | 06:55:29 |
 | Dhuhr (Noon) | 13:00:57 |
 | Medium Coeli | 13:00:57 |
 | Sunset | 19:06:26 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|11°44'26.45" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|25°35'9.58" |Aries|Butain|Venus|
 |♀ Venus|Direct|20°17'15.14" |Aries|Butain|Venus|
-|☿ Mercury|Direct|0°18'11.84" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°20'55.77" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|0°18'20.59" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°35'41.87" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|25°35'9.58" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|20°17'15.14" |Taurus|Dabaran|Saturn|
 |☿ Mercury|Direct|0°18'20.59" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|0°35'41.87" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|0°35'42.22" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

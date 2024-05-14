@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:34:17 |
+| Fajr (Dawn) | 03:34:16 |
 | Sunrise | 05:08:36 |
 | Dhuhr (Noon) | 12:01:14 |
 | Medium Coeli | 12:01:14 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°40'1.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°9'1.01" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|27°9'1.02" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|10°9'26.77" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|23°35'1.89" |Aries|Butain|Venus|
-|♀ Venus|Direct|17°44'3.54" |Aries|Butain|Sun|
-|☿ Mercury|Direct|27°48'1.37" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°31'58.13" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°35'2.60" |Aries|Butain|Venus|
+|♀ Venus|Direct|17°44'3.86" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°48'1.63" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°39'15.58" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°40'1.43" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°9'1.01" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|17°40'1.33" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°9'1.02" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|10°9'26.77" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|23°35'1.89" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|17°44'3.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°48'1.37" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|5°31'58.13" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°35'2.60" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|17°44'3.92" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°48'1.89" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|5°35'24.64" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

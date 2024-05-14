@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|27°13'58.41" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|10°25'27.87" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|23°55'18.59" |Aries|Butain|Venus|
-|♀ Venus|Direct|18°9'52.78" |Aries|Butain|Sun|
-|☿ Mercury|Direct|28°12'33.67" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°9'43.49" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|18°9'52.79" |Aries|Butain|Sun|
+|☿ Mercury|Direct|28°12'34.37" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|9°59'42.69" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Mars|Moon|
+|☾ Moon|Venus|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°41'31.80" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°13'58.41" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|10°25'27.87" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|23°55'18.59" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|18°9'52.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|28°12'34.37" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|9°59'42.69" |Leo|Zubrah|Saturn|
+|♃ Jupiter|Direct|27°13'58.26" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|10°25'27.92" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|23°55'18.56" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|18°9'52.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|28°12'34.35" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|9°59'42.34" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

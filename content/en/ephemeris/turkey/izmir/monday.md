@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:03:40 |
-| Sunrise | 06:01:27 |
+| Sunrise | 06:01:28 |
 | Dhuhr (Noon) | 13:07:47 |
 | Medium Coeli | 13:07:47 |
 | Sunset | 20:14:39 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°36'44.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|26°58'20.00" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|9°34'51.51" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|22°51'19.95" |Aries|Butain|Venus|
-|♀ Venus|Direct|16°48'20.90" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°56'12.78" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°14'12.26" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|17°36'44.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|26°58'20.17" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|9°34'51.49" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°51'20.02" |Aries|Butain|Venus|
+|♀ Venus|Direct|16°48'21.01" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°56'12.84" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°14'13.14" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°36'44.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|26°58'20.16" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°34'51.36" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°51'19.83" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|16°48'20.81" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|26°56'12.49" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|26°15'38.75" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Direct|26°58'20.17" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°34'51.49" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°51'20.02" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|16°48'21.01" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|26°56'12.84" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°14'13.14" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

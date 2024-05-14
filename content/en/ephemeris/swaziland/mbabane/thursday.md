@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:32:14 |
 | Isha (Night) | 18:18:55 |
 | Sharia Midnight | 23:15:43 |
-| Imum Coeli | 23:51:51 |
+| Imum Coeli | 23:51:52 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:34:36 |
 | Isha (Night) | 18:18:55 |
 | Sharia Midnight | 23:11:49 |
-| Imum Coeli | 23:51:52 |
+| Imum Coeli | 23:51:51 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:20:43 |
 | Isha (Night) | 18:23:32 |
 | Sharia Midnight | 23:18:01 |
-| Imum Coeli | 23:51:51 |
+| Imum Coeli | 23:51:52 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°49'46.47" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°41'40.34" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|11°54'59.68" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|25°48'30.53" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|20°34'17.21" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|0°35'45.02" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°18'31.47" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|17°49'46.37" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°41'40.19" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|11°54'59.73" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|25°48'30.50" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|20°34'17.14" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|0°35'45.00" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°18'31.94" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

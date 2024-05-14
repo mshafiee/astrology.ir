@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:02:53 |
 | Sunset | 18:15:58 |
 | Maghrib | 18:30:33 |
-| Isha (Night) | 19:13:41 |
+| Isha (Night) | 19:13:42 |
 | Sharia Midnight | 23:29:38 |
 | Imum Coeli | 00:02:54 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:02:53 |
 | Sunset | 18:15:58 |
 | Maghrib | 18:32:42 |
-| Isha (Night) | 19:13:41 |
+| Isha (Night) | 19:13:42 |
 | Sharia Midnight | 23:25:55 |
 | Imum Coeli | 00:02:54 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°50'0.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°42'28.49" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|11°57'35.95" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|25°51'47.88" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|20°38'29.28" |Aries|Butain|Venus|
-|☿ Mercury|Direct|0°40'3.82" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°58'48.14" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|17°50'0.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°42'28.64" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|11°57'35.90" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|25°51'47.90" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|20°38'29.35" |Aries|Butain|Venus|
+|☿ Mercury|Direct|0°40'3.84" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°58'47.64" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|27°42'28.64" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|11°57'35.90" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|25°51'47.90" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|20°38'27.73" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|0°40'0.83" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°7'11.55" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|20°38'29.35" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|0°40'3.84" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°58'47.64" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

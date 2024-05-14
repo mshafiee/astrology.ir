@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°50'39.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°44'43.25" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|12°4'46.27" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°0'52.63" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|20°50'8.62" |Aries|Butain|Venus|
-|☿ Mercury|Direct|0°51'58.81" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°44'50.65" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|17°50'39.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°44'43.41" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|12°4'51.22" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°0'58.11" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|20°50'12.14" |Aries|Butain|Venus|
+|☿ Mercury|Direct|0°52'7.84" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°51'22.22" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mars|Mercury|Jupiter|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Moon|Venus|Sagittarius|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°50'39.87" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|17°50'39.77" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|27°44'43.41" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|12°4'51.22" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|26°0'58.11" |Taurus|HaqAh|Saturn|

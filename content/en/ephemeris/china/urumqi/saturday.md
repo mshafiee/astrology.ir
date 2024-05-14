@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°0'57.12" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|28°27'52.38" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|23°57'49.39" |Aries|Butain|Venus|
-|☿ Mercury|Direct|4°14'5.99" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°46'51.19" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|4°14'6.00" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°46'49.90" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°0'52.48" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|28°20'42.77" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|14°0'56.77" |Aries|Butain|Sun|
-|☉ Sun|Direct|28°27'53.79" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°57'50.14" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|4°14'6.27" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|5°54'26.57" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|18°0'52.58" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|28°20'42.45" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°0'57.12" |Aries|Butain|Sun|
+|☉ Sun|Direct|28°27'52.38" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°57'49.39" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|4°14'6.00" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|6°40'8.63" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Saturn|Saturn|Saturn|Venus|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Sun|Aquarius|Sun|Saturn|
 |☿ Mercury|Venus|Saturn|Gemini|Moon|Venus|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
