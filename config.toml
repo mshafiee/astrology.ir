@@ -18,12 +18,13 @@ enableEmoji = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
-buildFuture=true
+buildFuture = true
 
 [params.assets]
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
-customJS = ["js/custom.js", "js/jquery-3.4.1.slim.min.js", "js/popper.min.js", "js/bootstrap.min.js", ]
+customJS = ["js/custom.js", "js/jquery-3.4.1.slim.min.js", "js/popper.min.js", "js/bootstrap.min.js"]
+
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
@@ -51,7 +52,7 @@ enable = true
 [params.widgets]
 header = ["breadcrumbs"]
 # homepage = ["recent_posts"]
-sidebar = ["about","language","search","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about", "language", "search", "sidebar_menu", "taxonomy_cloud"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -121,26 +122,29 @@ page = "/:slug/"
 hrefTargetBlank = true
 
 [languages]
+# edit this block for your own language
 [languages.en]
 contentDir = "content/en"
-lang = "en"
 languagedirection = "ltr"
 languageName = "English"
 weight = 1
 title = "Astrology"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = "© astrology.ir"
 [languages.en.params]
+  lang = "en"
   [languages.en.params.info]
   description = "Delving into the Mysteries of Persian Astrology: Investigating Astrological Phenomena through Research and Data Analysis"
   title404 = "Nothing's here!"
 
 [languages.fa]
 contentDir = "content/fa"
-lang = "fa"
 languagedirection = "rtl"
 languageName = "پارسی"
 weight = 2
 title = "آسترولوژی"
 [languages.fa.params]
+  lang = "fa"
   [languages.fa.params.info]
   description = "پژوهش و تحلیل داده‌ها در باب اختربینی با گرایش به سبک ایرانی"
   title404 = "Nothing's here!"
