@@ -1,11 +1,9 @@
-{{- template "_internal/google_analytics_async.html" . -}}
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RQL06NV6ED"></script>
+{{- if .Site.Params.googleAnalytics -}}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'G-RQL06NV6ED');
+  gtag('config', '{{ .Site.Params.googleAnalytics }}');
 </script>
+{{- end -}}

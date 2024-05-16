@@ -131,9 +131,10 @@ weight = 1
 title = "Astrology"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = "© astrology.ir"
-[languages.en.params.info]
-description = "Delving into the Mysteries of Persian Astrology: Investigating Astrological Phenomena through Research and Data Analysis"
-title404 = "Nothing's here!"
+[languages.en.params]
+  [languages.en.params.info]
+  description = "Delving into the Mysteries of Persian Astrology: Investigating Astrological Phenomena through Research and Data Analysis"
+  title404 = "Nothing's here!"
 
 [languages.fa]
 contentDir = "content/fa"
@@ -142,7 +143,7 @@ languagedirection = "rtl"
 languageName = "پارسی"
 weight = 2
 title = "آسترولوژی"
-[languages.fa.params.info]
-description = "پژوهش و تحلیل داده‌ها در باب اختربینی با گرایش به سبک ایرانی"
-title404 = "Nothing's here!"
-
+[languages.fa.params]
+  [languages.fa.params.info]
+  description = "پژوهش و تحلیل داده‌ها در باب اختربینی با گرایش به سبک ایرانی"
+  title404 = "Nothing's here!"
