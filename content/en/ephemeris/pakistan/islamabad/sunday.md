@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°1'6.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|28°21'32.62" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|14°3'35.54" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|28°31'16.83" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|24°2'8.97" |Aries|Butain|Venus|
-|☿ Mercury|Direct|4°18'54.86" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°52'43.00" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|28°21'32.27" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|14°3'37.55" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|28°31'16.22" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|24°2'8.83" |Aries|Butain|Venus|
+|☿ Mercury|Direct|4°18'57.03" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°22'50.84" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°1'6.28" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|28°21'32.13" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|14°3'37.61" |Aries|Butain|Sun|
-|☉ Sun|Direct|28°31'16.20" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|24°2'8.77" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|4°18'57.01" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|6°22'52.15" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|18°1'6.38" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|28°21'32.27" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°3'37.55" |Aries|Butain|Sun|
+|☉ Sun|Direct|28°31'16.22" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|24°2'8.83" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|4°18'57.03" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|6°22'50.84" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

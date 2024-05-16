@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:02:01 |
 | Sunrise | 06:28:02 |
-| Dhuhr (Noon) | 13:26:51 |
-| Medium Coeli | 13:26:51 |
+| Dhuhr (Noon) | 13:26:52 |
+| Medium Coeli | 13:26:52 |
 | Sunset | 20:26:05 |
 | Maghrib | 20:44:08 |
 | Isha (Night) | 21:40:22 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°54'2.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°56'24.73" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|12°42'35.70" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°48'42.01" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|21°51'9.05" |Aries|Butain|Venus|
-|☿ Mercury|Direct|1°55'58.09" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|15°34'34.75" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|17°54'2.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°56'24.88" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|12°42'35.64" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°48'42.03" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|21°51'9.12" |Aries|Butain|Venus|
+|☿ Mercury|Direct|1°55'58.11" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|15°34'33.86" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°54'2.19" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°56'24.73" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|12°42'35.70" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|26°48'42.01" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|21°51'9.11" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|1°55'58.04" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|15°35'16.20" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|17°54'2.29" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°56'24.88" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|12°42'35.64" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|26°48'42.03" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|21°51'9.12" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|1°55'58.11" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|15°34'33.86" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

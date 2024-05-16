@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:25:38 |
 | Sunset | 20:53:34 |
 | Maghrib | 20:57:06 |
-| Isha (Night) | 22:57:16 |
+| Isha (Night) | 22:57:17 |
 | Sharia Midnight | 00:18:42 |
 | Imum Coeli | 01:25:39 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°49'41.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°41'22.14" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|11°54'1.85" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|25°47'7.44" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|20°32'39.78" |Aries|Butain|Venus|
-|☿ Mercury|Direct|0°34'3.15" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°32'54.07" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|27°41'22.29" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|11°54'2.04" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|25°47'15.91" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|20°32'44.52" |Aries|Butain|Venus|
+|☿ Mercury|Direct|0°34'8.42" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°9'6.60" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°49'41.03" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°41'21.98" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|11°54'1.91" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|25°47'15.10" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|20°32'44.01" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|0°34'7.78" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°32'53.59" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|17°49'41.13" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°41'22.14" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|11°54'1.85" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|25°47'15.12" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|20°32'44.07" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|0°34'7.80" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°7'26.42" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

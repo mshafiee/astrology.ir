@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:26:15 |
 | Medium Coeli | 12:26:15 |
 | Sunset | 19:36:21 |
-| Maghrib | 19:59:02 |
+| Maghrib | 19:59:03 |
 | Isha (Night) | 20:57:49 |
 | Sharia Midnight | 23:32:40 |
 | Imum Coeli | 00:26:16 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|28°34'1.93" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|14°43'53.18" |Aries|Butain|Sun|
 |☉ Sun|Direct|29°22'15.42" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|25°7'18.11" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|5°32'56.17" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|16°52'10.36" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°7'18.60" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|5°32'56.90" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|16°49'1.93" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
