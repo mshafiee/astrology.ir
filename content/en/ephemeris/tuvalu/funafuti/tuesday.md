@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°11'33.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|29°0'27.35" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|16°8'59.51" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|1°9'58.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|27°25'9.26" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|8°15'37.70" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°32'40.06" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Direct|29°0'30.17" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|16°9'4.28" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|1°10'14.72" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|27°25'18.59" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|8°15'50.80" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°8'26.59" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

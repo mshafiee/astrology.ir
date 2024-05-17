@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:32:14 |
 | Isha (Night) | 18:18:55 |
 | Sharia Midnight | 23:15:43 |
-| Imum Coeli | 23:51:52 |
+| Imum Coeli | 23:51:51 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:20:43 |
 | Isha (Night) | 18:32:43 |
 | Sharia Midnight | 23:11:08 |
-| Imum Coeli | 23:51:52 |
+| Imum Coeli | 23:51:51 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°49'46.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°41'40.34" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|11°54'59.68" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|25°48'30.53" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|20°34'17.21" |Aries|Butain|Venus|
-|☿ Mercury|Direct|0°35'45.02" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°18'31.47" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|17°49'46.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°41'40.19" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|11°54'59.73" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|25°48'30.50" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|20°34'17.14" |Aries|Butain|Venus|
+|☿ Mercury|Direct|0°35'45.00" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°18'31.94" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°49'46.47" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°41'40.34" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|11°54'59.68" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|25°48'30.53" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|17°49'46.37" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°41'40.19" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|11°54'59.73" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|25°48'30.50" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|20°34'17.21" |Taurus|Dabaran|Saturn|
 |☿ Mercury|Direct|0°35'45.02" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|3°18'31.47" |Virgo|Sarfrah|Sun|

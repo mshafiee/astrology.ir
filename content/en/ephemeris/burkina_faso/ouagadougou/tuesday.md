@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'38.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|28°53'9.03" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|15°45'23.52" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°40'14.89" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°46'57.50" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°29'43.21" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°52'17.82" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|28°53'9.00" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|15°45'24.40" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°40'15.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°46'57.70" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°29'44.29" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°53'24.98" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'38.29" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|28°53'8.85" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°45'23.52" |Aries|Butain|Sun|
-|☉ Sun|Direct|0°40'14.89" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|26°46'57.50" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|7°29'43.21" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°1'36.72" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|15°45'24.67" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°40'14.56" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|26°46'57.38" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|7°29'44.29" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°53'24.98" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

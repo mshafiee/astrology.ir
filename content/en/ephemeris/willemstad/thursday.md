@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°54'50.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|27°59'12.16" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|12°51'27.58" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°59'49.53" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|22°5'30.82" |Aries|Butain|Venus|
-|☿ Mercury|Direct|2°11'9.81" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|18°39'11.89" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|17°54'50.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|27°59'12.01" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|12°51'35.00" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|27°0'5.50" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|22°5'40.22" |Aries|Butain|Venus|
+|☿ Mercury|Direct|2°11'26.62" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|17°47'52.50" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Jupiter|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°54'50.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|27°59'12.16" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|12°51'34.94" |Aries|Butain|Sun|
-|☉ Sun|Direct|27°0'5.52" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|22°5'40.28" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|17°54'50.01" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|27°59'12.01" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|12°51'35.00" |Aries|Butain|Sun|
+|☉ Sun|Direct|27°0'5.50" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|22°5'40.22" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|2°11'26.64" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|17°47'51.56" |Virgo|Simak|Venus|
 

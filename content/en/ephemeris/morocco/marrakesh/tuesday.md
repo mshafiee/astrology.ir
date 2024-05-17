@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'36.81" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|28°53'3.33" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|15°45'7.30" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°39'53.59" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°46'30.45" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°29'11.36" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°53'57.68" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|15°45'7.26" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°39'51.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°46'29.27" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°29'10.33" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°58'4.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'29.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|28°52'34.10" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|15°43'31.76" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°37'52.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°43'55.60" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°26'6.72" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°26'30.52" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|28°52'34.11" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|15°43'32.58" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°37'52.80" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°43'55.74" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°26'7.65" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°19'24.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'29.10" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|28°52'34.10" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°43'31.76" |Aries|Butain|Sun|
-|☉ Sun|Direct|0°37'52.70" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|26°43'55.60" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|7°26'6.72" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°26'30.52" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|28°52'34.11" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°43'32.58" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°37'52.80" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|26°43'55.74" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|7°26'7.65" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°19'24.96" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: E-Pitoli, IPitoli, PRY, Pitoli, Praetoria, Prehtoryja, Pretori, Pretoria, Pretoria/Pole tou Akroteriou, Pretoriae, Pretorii, Pretorija, Pretorio, Pretoriya, Pretoriye, Pretoriä, Pretoría, Pretòria, Pretória, Prétoriye, Pta, Tshwane, bi lei tuo li ya, brytwrya, peulitolia, phri thx reiy, pirittoriya, pritori'a, pritoriya, pritteariya, prtwrya, prtwryh, pu li tuo li ya, puretoria, Πρετόρια, Πρετόρια/Πόλη του Ακρωτηρίου, Претори, Претория, Преторија, Преторія, Прэторыя, Պրետորիա, פרטוריה, بريتوريا, پرتوریا, پریٹوریا, پرێتۆریا, प्रिटोरिया, ਪ੍ਰਿਟੋਰੀਆ, பிரிட்டோரியா, ప్రిటోరియా, പ്രിട്ടോറിയ, พริทอเรีย, ཕི་རི་ཐོ་རི་ཡ།, პრეტორია, ፕሪቶሪያ, プレトリア, 普利托里亞, 比勒陀利亞, 프리토리아
