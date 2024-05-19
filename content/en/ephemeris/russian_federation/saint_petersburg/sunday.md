@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:55:14 |
 | Medium Coeli | 12:55:14 |
 | Sunset | 21:40:45 |
-| Maghrib | 22:22:45 |
+| Maghrib | 22:22:46 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:55:16 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|18°1'17.03" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|28°22'11.10" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|14°5'43.40" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|28°33'53.48" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|24°5'32.68" |Aries|Butain|Venus|
-|☿ Mercury|Direct|4°22'44.45" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°12'6.97" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|28°33'54.87" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|24°5'33.50" |Aries|Butain|Venus|
+|☿ Mercury|Direct|4°22'45.89" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°5'29.69" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°12'19.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|29°3'25.16" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|16°18'27.76" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|1°22'8.52" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|18°12'19.42" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|29°3'25.22" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|16°18'27.35" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|1°22'8.69" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|27°40'31.55" |Aries|Thurayya|Venus|
 |☿ Mercury|Direct|8°34'19.35" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°38'36.81" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|11°38'35.83" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°12'19.32" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|29°3'25.08" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|16°18'27.76" |Aries|Butain|Sun|
-|☉ Sun|Direct|1°22'8.52" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|27°40'31.55" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|8°34'19.35" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|11°38'35.83" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|18°12'19.42" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|29°3'25.22" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|16°18'27.35" |Aries|Butain|Sun|
+|☉ Sun|Direct|1°22'8.69" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|27°40'31.62" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|8°34'19.00" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|11°40'39.92" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Flain-Fish-Kouv, Flaing Fish Kouv, Flajing Fish Kouv, Flajing-Fish-Kouv, Flayinq Fis Kouv, Flayinq Fiş Kouv, Flying Fish Cove, Kampong, The Settlement, fala'iga fisa kova, fei yu wan, flay xing fich khof, flayngh fysh kwf, flayyng fsh kww, peullaingpisikobeu, phla'inga phisa kova, pilaiyin pis kov, plaing-pishi, Флаинг Фиш Коув, Флайинг-Фиш-Коув, Флаін-Фіш-Коўв, Флајинг Фиш Коув, فلائینگ فش کوو, فلاينغ فيش كوف, फ्लाइंग फिश कोव, ਫ਼ਲਾਇੰਗ ਫ਼ਿਸ਼ ਕੋਵ, பிளையிங் பிஷ் கோவ், ฟลายอิงฟิชโคฟ, ფლაინგ-ფიში, フライング・フィッシュ・コーブ, 飞鱼湾, 플라잉피시코브
