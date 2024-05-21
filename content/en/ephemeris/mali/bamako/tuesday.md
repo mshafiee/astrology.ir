@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'42.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|28°53'23.84" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|15°46'12.90" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°41'15.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°48'15.54" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°31'17.62" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°5'17.19" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|28°53'23.25" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|15°46'7.91" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°41'10.77" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°48'12.48" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°31'9.81" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°58'10.28" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'42.23" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|28°53'23.84" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°46'12.90" |Aries|Butain|Sun|
-|☉ Sun|Direct|0°41'15.68" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|26°48'15.54" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|7°31'17.62" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°5'17.19" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|15°46'7.91" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°41'10.77" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|26°48'12.48" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|7°31'9.81" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°58'10.28" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Saturn|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

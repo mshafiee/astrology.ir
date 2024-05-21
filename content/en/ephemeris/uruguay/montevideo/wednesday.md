@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|03:00:28|04:09:50|Separation, causing enmity|
 |10|Mercury|Servant|04:09:51|05:19:14|Dominating the great ones|
 |11|Moon|Servant|05:19:15|06:28:37|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|06:28:38|07:38:01|Creating evil and hatred|
+|12|Saturn|Servant|06:28:38|07:38:01|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°25'45.58" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|2°47'31.02" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|29°29'44.52" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|10°49'48.85" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|0°19'9.26" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|10°49'48.84" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|0°20'43.74" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°17'39.76" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|29°24'21.15" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|17°25'45.47" |Aries|Butain|Sun|
-|☉ Sun|Direct|2°47'31.22" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|29°29'44.58" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|10°49'48.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°19'9.26" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|29°24'21.18" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|17°25'45.58" |Aries|Butain|Sun|
+|☉ Sun|Direct|2°47'31.02" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|29°29'44.52" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|10°49'48.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°20'43.74" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

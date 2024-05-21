@@ -222,7 +222,7 @@ Timetable of twelve day and night planetary hours
 |4|Venus|Servant|08:53:25|09:57:01|Creating love, connection and marriage|
 |5|Mercury|Servant|09:57:02|11:00:37|Indulgence|
 |6|Moon|Servant|11:00:38|12:04:13|Outer and inner journey|
-|7|Saturn|Servant|12:04:14|13:07:49|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Saturn|Servant|12:04:14|13:07:49|Achieving status and power|
 |8|Jupiter|Ruler|13:07:50|14:11:26|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|14:11:27|15:15:02|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|15:15:03|16:18:38|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°16'29.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|29°19'38.96" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|17°10'43.16" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|2°28'17.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|29°5'16.43" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|10°19'0.78" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|27°19'18.33" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|29°19'41.11" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|17°10'45.56" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|2°28'28.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|29°5'23.29" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|10°19'9.26" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|26°8'0.52" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
