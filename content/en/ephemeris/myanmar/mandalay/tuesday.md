@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|29°3'17.69" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|16°18'3.53" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|1°21'37.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|27°39'53.06" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|8°33'31.78" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°44'1.07" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|27°39'50.43" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|8°33'30.41" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°54'36.79" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|29°3'17.69" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|16°18'3.53" |Aries|Butain|Sun|
 |☉ Sun|Direct|1°21'37.65" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|27°39'53.06" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|8°33'31.78" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|11°44'1.07" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|27°39'50.43" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|8°33'30.41" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|11°54'36.79" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이

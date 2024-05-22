@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'15.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|28°51'41.56" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|15°40'43.48" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°34'18.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°39'21.66" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°20'41.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°33'6.27" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|28°51'40.79" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|15°40'41.84" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°34'14.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°39'19.24" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°20'37.39" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°55'1.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|0°34'18.55" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|26°39'21.66" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|7°20'41.16" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|1°33'6.27" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°55'1.65" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보

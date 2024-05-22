@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|03:00:28|04:09:50|Separation, causing enmity|
 |10|Mercury|Servant|04:09:51|05:19:14|Dominating the great ones|
 |11|Moon|Servant|05:19:15|06:28:37|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|06:28:38|07:38:01|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Saturn|Servant|06:28:38|07:38:01|Creating evil and hatred|
 
  
  
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°47'31.02" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|29°29'44.52" |Aries|Thurayya|Venus|
 |☿ Mercury|Direct|10°49'48.84" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|0°20'43.74" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°48'12.66" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°25'45.58" |Aries|Butain|Sun|
 |☉ Sun|Direct|2°47'31.02" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|29°29'44.52" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|10°49'48.84" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°20'43.74" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|10°49'34.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°48'12.66" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

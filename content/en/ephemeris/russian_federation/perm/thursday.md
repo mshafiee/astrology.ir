@@ -222,7 +222,7 @@ Timetable of twelve day and night planetary hours
 |4|Venus|Servant|08:53:32|10:19:48|Creating love, connection and marriage|
 |5|Mercury|Servant|10:19:49|11:46:06|Indulgence|
 |6|Moon|Servant|11:46:07|13:12:24|Outer and inner journey|
-|7|Saturn|Servant|13:12:25|14:38:41|Achieving status and power|
+|7|Saturn|Servant|13:12:25|14:38:41|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Jupiter|Ruler|14:38:42|16:04:59|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|16:05:00|17:31:17|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|17:31:18|18:57:34|The moon is in Scorpio, Not suitable for doing anything.|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°19'33.20" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|29°31'56.34" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|17°50'9.66" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|3°18'26.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|0°9'22.63" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|11°40'14.77" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|7°53'16.98" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|17°50'9.39" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|3°18'27.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|0°9'23.53" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|11°40'15.34" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|7°42'20.14" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°19'33.20" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|29°31'56.34" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|17°50'9.66" |Aries|Butain|Sun|
-|☉ Sun|Direct|3°18'26.36" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|0°9'22.63" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|11°40'14.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°53'16.98" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|18°19'33.06" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|29°31'56.66" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|17°50'9.39" |Aries|Butain|Sun|
+|☉ Sun|Direct|3°18'27.95" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|0°9'23.53" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|11°40'15.34" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°42'20.14" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

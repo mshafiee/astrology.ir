@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°10'13.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|28°55'19.15" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|15°52'22.68" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°49'1.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°58'19.45" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°43'14.93" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°18'57.53" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|28°55'20.30" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|15°52'24.80" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°49'7.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°58'23.27" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°43'20.47" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°45'33.52" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°10'13.10" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|28°55'21.20" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°52'30.42" |Aries|Butain|Sun|
-|☉ Sun|Direct|0°49'1.13" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|26°58'19.45" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|7°43'14.93" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|6°18'57.53" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|28°55'20.30" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°52'24.80" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°49'7.69" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|26°58'23.27" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|7°43'20.47" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|5°45'33.52" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Saturn|Mars|Saturn|Venus|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: PBM, Paramaribas, Paramaribo, Paramaribô, Paramarimpo, Paramaryba, Paramaríbó, ba la ma li bo, baramarybw, pa la ma li bo, pa rama ri bo, palamalibo, paramaribo, paramaripo, paramarybw, prmrybw, Παραμαρίμπο, Парамарибо, Парамарыба, Парамарібо, Պարամարիբո, פאראמאריבא, פרמריבו, باراماريبو, پاراماریبو, पारामरिबो, पारामारिबो, ਪਾਰਾਮਾਰੀਬੋ, પારામારિબો, பரமாரிபோ, ปารามารีโบ, པེ་ར་མེ་རི་བོ།, პარამარიბო, ፓራማሪቦ, パラマリボ, 巴拉馬利波, 帕拉马里博, 파라마리보

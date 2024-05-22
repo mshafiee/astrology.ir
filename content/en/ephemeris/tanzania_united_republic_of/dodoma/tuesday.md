@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|18°9'19.52" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|28°51'57.70" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|15°41'35.49" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°35'24.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°40'45.94" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°22'21.38" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°48'2.22" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|0°35'24.48" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°40'45.93" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°22'15.58" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°15'35.47" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°9'19.52" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|28°51'57.70" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°41'35.49" |Aries|Butain|Sun|
-|☉ Sun|Direct|0°35'24.48" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|26°40'45.93" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|7°22'21.53" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|1°46'43.31" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|15°41'34.43" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°35'14.82" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|26°40'40.46" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|7°22'15.58" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°15'35.47" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마

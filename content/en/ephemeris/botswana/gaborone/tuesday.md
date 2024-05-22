@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|18°9'30.20" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|28°52'38.27" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|15°43'45.97" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°38'4.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°44'14.63" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°26'31.85" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°26'18.07" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|0°38'9.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°44'17.43" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°26'33.53" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°22'43.28" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네

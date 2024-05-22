@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|18°9'10.75" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|28°51'24.56" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|15°39'48.80" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°33'9.22" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°37'53.05" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°18'55.69" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°18'47.53" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|0°33'3.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|26°37'49.57" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°18'48.40" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°6'2.50" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: RUN, Saint-Denis, Saint-Denis (Reunion), Saint-Denis (Réunion), Saint-Denis de la Reunion, Saint-Denis de la Réunion, Sen-Deni, St. Denis, saengdeuni, snt dnys, Сен-Дени, סנט דניס, サン・ドゥニ, 생드니
