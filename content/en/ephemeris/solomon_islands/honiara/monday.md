@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°32'20.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°25'58.89" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°43'46.62" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°58'59.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|4°51'50.16" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°59'13.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°11'16.23" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°32'20.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°26'1.15" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°43'48.90" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°59'12.30" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|4°51'57.55" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°59'22.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°40'59.73" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mercury|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°32'20.39" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°32'20.39" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°26'1.15" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|20°43'48.90" |Aries|Butain|Venus|
 |☉ Sun|Direct|6°59'12.30" |Gemini|HanAh|Jupiter|

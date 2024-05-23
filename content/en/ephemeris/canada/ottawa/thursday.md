@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°20'58.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|29°37'43.96" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|18°8'46.25" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|3°42'5.10" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|0°39'36.71" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°19'11.15" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|12°57'41.16" |Scorpio|Qalb|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|18°20'58.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|29°37'42.15" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|18°8'40.07" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|3°41'53.67" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|0°39'29.96" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|12°18'59.45" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|14°7'36.73" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Venus|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°20'58.92" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°20'58.92" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|29°37'43.96" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|18°8'46.25" |Aries|Butain|Sun|
 |☉ Sun|Direct|3°42'5.10" |Gemini|HaqAh|Jupiter|

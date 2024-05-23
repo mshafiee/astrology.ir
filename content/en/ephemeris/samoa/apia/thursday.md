@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|18:06:22|19:09:16|Attraction of material wealth, earning and prosperity|
 |2|Saturn|Servant|19:09:17|20:12:11|Destruction of enemies|
-|3|Jupiter|Servant|20:12:12|21:15:07|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Jupiter|Servant|20:12:12|21:15:07|Attraction of financial and emotional love|
 |4|Mars|Servant|21:15:08|22:18:02|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Sun|Servant|22:18:03|23:20:58|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|23:20:59|00:23:53|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°18'42.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°18'42.15" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|29°28'30.63" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|17°39'7.28" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|3°4'28.92" |Taurus|Thurayya|Mercury|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°18'42.15" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°18'42.15" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|29°28'30.63" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|17°39'7.28" |Aries|Butain|Sun|
 |☉ Sun|Direct|3°4'28.92" |Gemini|HaqAh|Jupiter|

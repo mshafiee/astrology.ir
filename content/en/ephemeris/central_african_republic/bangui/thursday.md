@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°16'45.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°16'45.63" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|29°20'45.80" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|17°14'13.43" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|2°32'52.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|29°11'0.71" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|10°26'12.76" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|27°3'21.80" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|29°10'54.09" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|10°26'4.74" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|28°11'56.18" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Venus|Venus|Sun|Jupiter|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°16'45.63" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|29°20'43.72" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|17°14'11.22" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|18°16'45.53" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|29°20'45.66" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|17°14'13.50" |Aries|Butain|Sun|
 |☉ Sun|Direct|2°32'41.51" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|29°10'54.14" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|10°26'4.74" |Taurus|Dabaran|Moon|

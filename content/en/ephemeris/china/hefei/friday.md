@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°22'40.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°22'40.27" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|29°44'39.42" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|18°31'0.65" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|4°10'20.65" |Taurus|Thurayya|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°22'40.27" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|29°44'39.42" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|18°31'0.65" |Aries|Butain|Sun|
-|☉ Sun|Direct|4°10'20.65" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|1°15'45.56" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|13°6'15.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°10'48.11" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|18°22'40.27" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|29°44'37.34" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|18°30'53.83" |Aries|Butain|Sun|
+|☉ Sun|Direct|4°10'7.53" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|1°15'37.85" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|13°6'2.04" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°27'33.28" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Mercury|Mercury|Mercury|Mercury|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Saturn|Mars|Libra|Moon|Venus|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

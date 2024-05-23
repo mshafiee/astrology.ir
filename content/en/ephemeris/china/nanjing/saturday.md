@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Saturn|Servant|20:42:08|21:32:02|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|21:32:03|22:21:56|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mars|Servant|22:21:57|23:11:51|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Sun|Servant|23:11:52|00:01:46|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Sun|Servant|23:11:52|00:01:46|Writing, swapping and making promises|
 |7|Venus|Servant|00:01:47|00:51:40|Not suitable for any task|
 |8|Mercury|Ruler|00:51:41|01:41:35|Destruction of enemies|
 |9|Moon|Servant|01:41:36|02:31:30|All good deeds|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°26'2.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|29°58'42.54" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|19°16'8.56" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|5°7'41.12" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°29'10.00" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|14°43'32.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°25'30.62" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°26'2.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|29°58'42.38" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|19°16'8.91" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|5°7'40.36" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°29'9.58" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|14°43'32.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°35'0.96" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°26'2.22" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°26'2.22" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|29°58'42.54" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|19°16'8.56" |Aries|Butain|Sun|
 |☉ Sun|Direct|5°7'41.12" |Gemini|HanAh|Jupiter|

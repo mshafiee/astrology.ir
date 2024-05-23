@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°24'30.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|29°52'18.16" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|18°55'33.75" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|4°41'32.92" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|1°55'40.97" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|13°58'52.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°9'28.73" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°24'30.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|29°52'15.58" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|18°55'27.04" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|4°41'17.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|1°55'31.82" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|13°58'38.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°42'46.55" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Venus|Sun|Jupiter|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°24'30.78" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°24'30.78" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|29°52'18.16" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|18°55'33.75" |Aries|Butain|Sun|
 |☉ Sun|Direct|4°41'32.92" |Gemini|HanAh|Jupiter|
