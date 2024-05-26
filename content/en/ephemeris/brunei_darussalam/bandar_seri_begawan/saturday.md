@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Jupiter|Servant|21:22:52|22:20:58|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mars|Servant|22:20:59|23:19:05|Auspicious|
 |6|Sun|Servant|23:19:06|00:17:12|Writing, swapping and making promises|
-|7|Venus|Servant|00:17:13|01:15:19|Not suitable for any task|
+|7|Venus|Servant|00:17:13|01:15:19|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mercury|Ruler|01:15:20|02:13:26|Destruction of enemies|
 |9|Moon|Servant|02:13:27|03:11:33|All good deeds|
 |10|Saturn|Servant|03:11:34|04:09:40|Doing evil deeds|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°26'11.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|29°59'21.00" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|18°26'11.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|29°59'20.86" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|19°18'11.60" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|5°10'18.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°32'30.05" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|14°48'1.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°48'25.12" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|2°32'30.10" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|14°48'1.22" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°48'25.56" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°26'11.23" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|29°59'20.86" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|19°18'11.68" |Aries|Butain|Sun|
+|♄ Saturn|Direct|18°26'11.32" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|29°59'21.00" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|19°18'11.60" |Aries|Butain|Sun|
 |☉ Sun|Direct|5°10'18.64" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|2°32'30.10" |Gemini|HaqAh|Jupiter|
 |☿ Mercury|Direct|14°48'1.22" |Taurus|Dabaran|Moon|

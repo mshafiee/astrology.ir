@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°30'5.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°16'6.27" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°11'59.71" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°18'43.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|4°0'6.02" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|16°47'15.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°58'3.92" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|18°30'5.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°16'3.41" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°11'54.24" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°18'26.76" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|3°59'56.46" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|16°47'1.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°29'25.64" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Mercury|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°30'5.23" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°30'5.23" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°16'6.27" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|20°11'59.71" |Aries|Butain|Venus|
 |☉ Sun|Direct|6°18'43.08" |Gemini|HanAh|Jupiter|
