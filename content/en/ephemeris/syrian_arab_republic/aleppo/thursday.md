@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°39'20.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°58'8.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°26'57.17" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°10'32.84" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°40'17.49" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°1'20.47" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°55'46.46" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°58'8.74" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°26'57.25" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°10'29.82" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°40'15.72" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°1'18.33" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°9'33.15" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'20.59" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°58'8.87" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°26'57.17" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°10'32.84" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°40'17.49" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°1'20.47" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°55'46.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|18°39'20.50" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°58'8.33" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°26'56.59" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°10'29.82" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|7°40'15.72" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°1'18.34" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|1°9'33.07" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포

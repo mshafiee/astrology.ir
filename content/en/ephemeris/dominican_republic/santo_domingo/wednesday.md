@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°40'18.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°2'42.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°41'34.71" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°29'12.55" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|8°4'11.40" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°36'39.80" |Aries|Butain|Venus|
+|♄ Saturn|Direct|18°40'17.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°2'42.38" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°41'34.69" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°29'12.56" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|8°4'11.46" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°36'39.78" |Aries|Butain|Venus|
 |☾ Moon|Direct|5°31'20.00" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°40'17.93" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°2'42.38" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°41'34.69" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°29'12.56" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|1°2'42.26" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°41'34.78" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°29'12.65" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|8°4'11.46" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°36'39.78" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°31'20.00" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|22°36'39.86" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°30'57.99" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고

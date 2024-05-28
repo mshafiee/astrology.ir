@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'31.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°59'1.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°29'46.65" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°14'8.18" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°44'49.59" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°8'3.26" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°38'15.39" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|18°39'31.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°59'1.58" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°29'46.57" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°14'8.19" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°44'54.38" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°8'8.61" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°50'21.18" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린

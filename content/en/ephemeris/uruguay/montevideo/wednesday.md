@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|1°3'6.14" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°42'50.60" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°30'49.49" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|8°6'14.43" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°39'41.98" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°45'11.87" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°6'15.61" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°39'43.87" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°54'50.14" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°40'22.84" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°3'6.00" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°42'50.68" |Aries|Butain|Venus|
+|♄ Saturn|Direct|18°40'22.94" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°3'6.14" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°42'50.60" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°30'49.49" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°6'15.56" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°39'43.88" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°54'50.04" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|8°6'15.61" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°39'43.87" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°54'50.14" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ciudad de Montevideo, MVD, Mantehvideha, Montebideo, Montevidejas, Montevideo, Montevideu, Montevidiejos, Montevidéu, Montevidėjas, Montevídeó, Muntivideu, Muntividew, Muntividèu, Muntividëw, Urbs Montis Videi, mantibhiri'o, meantevidiyea, meng de wei de ya, meng te wei duo, montebide'o, montebide-o, montebideo, montevide'o, montevidi'o, montevidiyo, montevitiyo, mwntfydw, mwnth wydyw, mwntybydyw, mxn te wi de xo, Μοντεβιδέο, Мантэвідэа, Монтевидео, Монтевідео, Մոնտևիդեո, מאנטעווידעא, מונטווידאו, مونتفيدو, مونته ویدئو, مونته‌ویدئ, مونته‌ویدئو, مونتیبیدیو, مونتېۋىدېئو, मोण्टेवीडियो, मोन्तेविदेओ, মোন্তেবিদেও, ਮੋਂਤੇਵੀਦਿਓ, ମଣ୍ଟିଭିଡ଼ିଓ, மொண்டேவீடியோ, മൊണ്ടേവീഡിയോ, มอนเตวิเดโอ, མཱོན་ཊི་ཝི་ཌོ།, မွန်တီဗစ်ဒီအိုမြို့, მონტევიდეო, ሞንቴቪዴዎ, モンテビデオ, 蒙得维的亚, 蒙特維多, 몬테비데오

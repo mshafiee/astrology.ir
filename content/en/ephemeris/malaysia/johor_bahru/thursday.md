@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'52.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°10'15.91" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°5'50.08" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|10°0'9.42" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|8°43'51.00" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|23°35'48.28" |Aries|Butain|Venus|
-|☾ Moon|Direct|13°12'44.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°41'51.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°10'15.77" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°5'50.15" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|10°0'9.41" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|8°43'50.94" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|23°35'48.30" |Aries|Butain|Venus|
+|☾ Moon|Direct|13°12'43.91" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'52.03" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°10'15.91" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°5'50.08" |Aries|Butain|Venus|
-|☉ Sun|Direct|10°0'9.42" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|18°41'51.93" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°10'15.77" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°5'50.15" |Aries|Butain|Venus|
+|☉ Sun|Direct|10°0'9.41" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|8°43'51.00" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|23°35'48.28" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|13°38'48.94" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|13°50'7.32" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루

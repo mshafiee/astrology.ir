@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:14:57 |
-| Dhuhr (Noon) | 12:20:28 |
-| Medium Coeli | 12:20:28 |
+| Dhuhr (Noon) | 12:20:27 |
+| Medium Coeli | 12:20:27 |
 | Sunset | 20:26:43 |
 | Maghrib | 20:30:15 |
 | Isha (Night) | Circumpolar Angle |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°29'54.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°15'17.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°9'24.31" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°15'22.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|3°55'53.30" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|16°41'26.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°37'47.30" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Direct|0°15'17.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°9'24.26" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°15'23.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|3°55'53.51" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|16°41'26.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°33'43.05" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|0°15'17.68" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|20°9'24.31" |Aries|Butain|Venus|
 |☉ Sun|Direct|6°15'22.85" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|3°55'53.30" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|16°41'26.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°37'47.30" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|3°55'53.51" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|16°41'26.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°33'43.05" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

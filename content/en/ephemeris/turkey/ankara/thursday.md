@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'21.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°58'12.73" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°27'10.15" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°10'49.04" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°40'38.55" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°1'51.59" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°0'21.08" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|18°39'21.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°58'12.67" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°27'10.13" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°10'48.72" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°40'38.36" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°1'51.39" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°2'42.01" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라

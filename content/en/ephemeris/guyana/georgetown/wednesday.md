@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°40'14.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°2'26.56" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°40'44.43" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°28'7.74" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|8°2'48.60" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°34'37.23" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°23'20.07" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°2'26.79" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°40'44.44" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°28'8.92" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|8°2'49.31" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°34'37.93" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°14'33.92" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°40'14.77" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°2'26.56" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°40'44.43" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°28'7.74" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°2'48.60" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°34'37.23" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°23'20.07" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°2'26.79" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°40'44.44" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°28'8.92" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°2'49.31" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°34'37.93" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°14'33.92" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Demerara, Dzhordzhtaun, Dzordztaun, Dzordztauna, Dzordztaunas, Dzordztauns, Džordžtaun, Džordžtauna, Džordžtaunas, Džordžtauns, GEO, Georgetown, Georgetown i Guyana, Georgiopolis, Georgurbo, Jojton, Jòjtòn, Tzortztaoun, Zhorzhtaun, cxrc thawn, gwrgtʼwn, jarajata'una, jarj ٹawn  gyana, jarjata'una, jojitaun, jorjata'una, jorjtavun, jrj‌tawn, jwrj tawn, jwrj twghn, qiao zhi dui, qiao zhi dun, zuo zhi cheng, Τζορτζτάουν, Τζώρτζταουν, Џорџтаун, Джорджтаун, Джорджтаўн, Жоржтаун, Ջորջթաուն, גורגטאון, جارج ٹاؤن، گیانا, جرج‌تاون, جورج تاون, جورج توغن, جورج‌تاو, जॉर्जटाउन, ਜਾਰਜਟਾਊਨ, ଜର୍ଜଟାଉନ, ஜோர்ஜ்டவுண், ജോർജ്ജ് ടൗൺ, จอร์จทาวน์, ཅོར་ཅི་ཐོན།, ჯორჯტაუნი, ጆርጅታውን, ジョージタウン, 乔治敦, 佐治城, 조지타운

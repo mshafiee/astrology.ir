@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°42'27.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°13'7.86" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°15'4.46" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|1°13'7.72" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°15'3.02" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°11'48.71" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|8°58'53.30" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|23°58'26.50" |Aries|Butain|Venus|
-|☾ Moon|Direct|16°55'3.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|8°58'53.35" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|23°58'26.49" |Aries|Butain|Venus|
+|☾ Moon|Direct|16°55'3.86" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°42'27.24" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°13'7.86" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°15'2.94" |Aries|Butain|Venus|
-|☉ Sun|Direct|10°11'52.48" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|8°58'55.55" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|23°58'27.85" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|16°6'17.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°13'7.24" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°15'4.38" |Aries|Butain|Venus|
+|☉ Sun|Direct|10°11'48.71" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|8°58'53.35" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|23°58'26.49" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|16°55'3.86" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}

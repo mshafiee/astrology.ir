@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°30'36.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°18'22.08" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°19'16.05" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|6°27'57.60" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|4°11'56.94" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°3'37.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°15'40.40" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|18°30'36.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°18'22.22" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°19'16.58" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|6°27'54.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|4°11'54.95" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°3'36.25" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°57'36.17" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Mercury|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°30'36.31" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°18'22.08" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|20°19'16.05" |Aries|Butain|Venus|
+|♄ Saturn|Direct|18°30'36.41" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°18'22.22" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|20°19'15.97" |Aries|Butain|Venus|
 |☉ Sun|Direct|6°27'57.60" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|4°11'56.94" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|17°3'37.75" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|4°11'57.00" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|17°3'37.74" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|21°15'41.05" |Capricorn|SaadAlBula|Sun|
 
 

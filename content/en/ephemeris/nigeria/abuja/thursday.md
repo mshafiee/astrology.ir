@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°39'42.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°59'48.20" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°32'17.92" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°17'14.89" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°49'2.13" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°14'14.62" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°52'59.09" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°59'50.85" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°32'23.96" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°17'30.72" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°49'11.36" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°14'27.73" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°36'12.57" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°32'23.96" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°17'30.72" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|7°49'11.36" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°14'14.62" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°52'59.09" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|22°14'27.73" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°36'12.57" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

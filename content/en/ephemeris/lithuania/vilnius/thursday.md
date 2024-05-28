@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°39'17.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°57'53.59" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°26'8.62" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°9'29.50" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°38'58.33" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|21°59'23.97" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°43'51.95" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°57'53.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°26'9.60" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°9'30.44" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°38'58.89" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|21°59'25.16" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°53'35.80" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|0°57'53.59" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°26'8.62" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°9'29.50" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°38'58.33" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|21°59'23.97" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°43'51.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|7°38'58.89" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|21°59'25.16" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°53'35.80" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: IVilnyusi, VNO, Vil'njus, Vil'no, Vil'nyus, Viln', Vilna, Vilnia, Vilnias, Vilniaus miestas, Vilnious, Vilnis, Vilnius, Vilnjus, Vilnjûs, Vilnues, Vilnus, Vilnyus, Vilníus, Vilnüs, Viļņa, Vílnius, Wilna, Wilnius, Wilno, Wilnus, Wilñus, bhilani'usa, bilnyuseu, fylnyws, vhilniyasa, vilniusi, vilniyas, vu~irinyusu, vylnyws, wei er niu si, wi lni xus, wlnys, wylnh, wylnyws, Βίλνα, Βίλνιους, Βιλνιους, Вилниус, Вилнус, Вилнюс, Вилн҄ь, Вильнюс, Вилњус, Виљнус, Вільнюс, Վիլնյուս, ווילנע, וילנה, فيلنيوس, ولنیس, ویلنیوس, ڤیلنیوس, व्हिल्नियस, ভিলনিউস, வில்னியஸ், วิลนีอุส, ལྦེ་ནི་སུ་ནི།, ვილნიუსი, ቪልኒውስ, ᕕᓪᓂᐅᔅ/vilnius, ヴィリニュス, 维尔纽斯, 빌뉴스
