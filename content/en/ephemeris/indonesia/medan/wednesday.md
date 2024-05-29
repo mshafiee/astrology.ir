@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:55:29 |
+| Fajr (Dawn) | 04:55:28 |
 | Sunrise | 06:13:16 |
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°38'58.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°56'22.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°21'14.84" |Pisces|Rescha|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|18°38'58.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°56'22.38" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°21'14.76" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°3'17.72" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°30'57.84" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|21°47'37.21" |Aries|Butain|Venus|
-|☾ Moon|Direct|29°4'32.32" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|7°30'57.89" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|21°47'37.20" |Aries|Butain|Venus|
+|☾ Moon|Direct|29°4'32.40" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°38'58.00" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°56'22.24" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°21'14.84" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°38'58.10" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°56'22.38" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°21'14.76" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°3'17.72" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°30'57.84" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|21°47'37.21" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|29°4'32.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°30'57.89" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|21°47'37.20" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|29°4'32.40" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

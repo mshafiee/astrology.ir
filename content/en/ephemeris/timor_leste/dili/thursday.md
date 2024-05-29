@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'43.47" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°41'43.47" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°9'34.36" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|23°3'36.65" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°57'19.28" |Taurus|Dabaran|Mercury|
 |♀ Venus|Direct|8°40'12.78" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Direct|23°30'21.20" |Aries|Butain|Venus|
-|☾ Moon|Direct|12°30'15.36" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|13°8'51.78" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Venus|Moon|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Venus|Venus|Mercury|Moon|
+|☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'43.47" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°9'34.36" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°3'36.65" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°57'19.28" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°40'12.78" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|23°30'21.20" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|12°30'15.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°41'43.37" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°9'31.78" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°3'33.64" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°57'5.32" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°40'4.54" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|23°30'11.09" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|13°8'51.78" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: DIL, Delhi, Dilhi, Dili, Dili khot, Dilis, Dilli, Dilly, Dilo, Dily, Dyli, Díli, Nova Dili, Ntili, di li, dili, dilli, diri, dyly, tili, Ντίλι, Дили, Дили хот, Дылі, Ділі, Դիլի, דילי, دىلى, ديلي, دیلی, ڈلی, दिली, দিলি, ਦੀਲੀ, டிலி, ಡಿಲಿ, ദിലി, ดิลี, དྷི་ལི།, ဒီလီမြို့, დილი, ディリ, 帝力, 딜리

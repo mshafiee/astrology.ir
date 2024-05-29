@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'20.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°58'7.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°26'53.50" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°10'25.80" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°40'10.41" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°1'10.61" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°10'59.86" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'20.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°58'7.56" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°26'53.22" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°10'27.03" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°40'11.13" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°1'11.15" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°56'19.15" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'20.30" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'20.30" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°58'7.56" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°26'53.22" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°10'27.03" |Gemini|HanAh|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

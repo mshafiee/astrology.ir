@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°34'17.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°34'45.52" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°11'57.02" |Pisces|Rescha|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|18°34'17.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°34'48.37" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°12'1.24" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|7°34'50.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|5°37'48.22" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|19°4'6.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°45'9.37" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|5°37'48.28" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|19°4'17.93" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°25'4.81" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Mercury|Saturn|Cancer|Moon|Venus|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°34'17.88" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°34'48.23" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|21°12'1.31" |Aries|Butain|Venus|
-|☉ Sun|Direct|7°35'6.30" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|5°37'57.28" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°34'17.98" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°34'45.66" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|21°11'56.95" |Aries|Butain|Venus|
+|☉ Sun|Direct|7°34'50.80" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|5°37'48.28" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|19°4'6.07" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|8°45'9.83" |Aquarius|SaadAlAkhbia|Venus|
 

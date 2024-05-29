@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:27:31 |
+| Fajr (Dawn) | 05:27:32 |
 | Sunrise | 06:43:38 |
 | Dhuhr (Noon) | 13:27:02 |
 | Medium Coeli | 13:27:02 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°40'23.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°3'5.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°42'45.95" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°30'43.73" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|8°6'13.53" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°39'39.11" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°3'58.05" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°40'22.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°3'6.28" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°42'51.98" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°30'50.88" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|8°6'17.66" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°39'47.09" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°55'37.77" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°40'23.05" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°3'6.42" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°42'51.90" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°30'50.89" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°6'17.71" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°39'47.08" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°55'37.86" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|18°40'22.95" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°3'6.28" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°42'51.98" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°30'50.88" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°6'17.66" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°39'47.09" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°55'37.77" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

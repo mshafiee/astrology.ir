@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'12.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°57'29.27" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°24'51.26" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°7'50.20" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°36'51.82" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|21°56'17.86" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°21'1.06" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'12.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°57'29.40" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°24'51.18" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°7'41.03" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°36'46.55" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|21°56'11.17" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°57'31.14" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'12.12" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°57'29.27" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°24'51.26" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'12.22" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°57'29.40" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°24'51.18" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°7'50.20" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|7°36'51.87" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|21°56'17.85" |Taurus|HaqAh|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Elsin'ki, Elsinki, Elzinki, Gel'sinki, HEL, Heilsinci, Heilsincí, Hel'sinki, Helsenkis, Helsingfors, Helsingi, Helsingia, Helsinki, Helsinkis, Helsinkium, Helsinko, Helsinky, Helsinqui, Helsinquia, Helsset, Helsínquia, Helsînkî, Helsėnkis, Hèlsinki, Khel'sinki, Khel'sinki osh, Khelsinki, Khelzinki, Lungsod ng Helsinki, Stadi, Xelsinki, Xélsinki, elcinki, hailasiki, he er xin ji, helasinki, helsingki, helsinki, herushinki, hlsnky, hlsnqy, hlsynky, hlsynqy, hylsynky, Èlzinki, Ħelsinki, Ελσίνκι, Гельсінкі, Хелзинки, Хелсинки, Хельсинки, Хельсинки ош, Хельсінкі, Ҳелсинкӣ, Һel'sinki, Һельсинки, Հելսինկի, הלסינקי, העלסינקי, هلسنكي, هلسنڪي, هلسینکی, هيلسينكى, هیلسینکی, ھێلسینکی, ہلسنکی, ہیلسنکی, ܗܠܣܢܩܝ, हेलसिंकी, हेल्सिन्की, হেলসিঙ্কি, ਹੈਲਸਿੰਕੀ, எல்சிங்கி, ಹೆಲ್ಸಿಂಕಿ, ഹെൽസിങ്കി, เฮลซิงกิ, ཧེལ་སིན་ཀི།, ဟယ်လ်ဆင်ကီမြို့, ჰელსინკი, ሄልሲንኪ, Ḥélsinki, ヘルシンキ, 赫尔辛基, 赫爾辛基, 헬싱키

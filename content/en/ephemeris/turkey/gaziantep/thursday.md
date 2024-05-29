@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'20.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°58'7.09" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°26'51.45" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°10'25.50" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°40'8.16" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°1'6.72" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°54'4.18" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'20.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°58'6.89" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°26'51.57" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°10'25.15" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°40'7.90" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°1'6.56" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°57'26.82" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'20.22" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°58'7.09" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°26'51.45" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°10'25.50" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°40'8.16" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°1'6.72" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°54'4.18" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'20.12" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°58'6.95" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°26'51.53" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°10'25.49" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|7°40'8.10" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°1'6.73" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°54'4.09" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프

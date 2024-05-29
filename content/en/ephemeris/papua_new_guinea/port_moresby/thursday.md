@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'33.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°41'33.24" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°8'44.71" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|23°0'57.27" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°53'55.97" |Taurus|Dabaran|Mercury|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'33.24" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°8'44.71" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°0'57.27" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°53'55.97" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°35'52.16" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|23°23'51.01" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|18°41'33.24" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°8'42.18" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°0'50.72" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°53'40.89" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°35'43.36" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|23°23'38.08" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|11°26'27.19" |Pisces|FarghAlMuakhar|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비

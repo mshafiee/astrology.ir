@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'13.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°41'13.72" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°7'10.58" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°55'55.67" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°47'31.12" |Taurus|Dabaran|Mercury|
 |♀ Venus|Direct|8°27'38.80" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|23°11'33.75" |Aries|Butain|Venus|
-|☾ Moon|Direct|10°3'32.93" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|23°11'33.76" |Aries|Butain|Venus|
+|☾ Moon|Direct|10°3'32.80" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'13.81" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°7'10.72" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°55'55.59" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°47'31.13" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°27'38.85" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|23°11'33.75" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|10°3'32.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°41'13.72" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°7'10.58" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°55'55.67" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°47'31.12" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°27'38.80" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|23°11'33.76" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|9°45'31.90" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Saturn|Venus|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

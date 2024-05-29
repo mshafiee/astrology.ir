@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°40'21.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°3'1.51" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°42'36.47" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°30'31.57" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|8°5'52.25" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°39'9.35" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°50'10.25" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°40'22.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°3'1.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°42'36.39" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°30'31.58" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|8°5'52.31" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°39'9.34" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°50'10.34" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°40'21.96" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°3'1.51" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°42'36.47" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°30'31.57" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°5'52.25" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°39'9.35" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°50'10.25" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|18°40'22.05" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°3'1.65" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°42'36.39" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°30'31.58" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°5'52.31" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°39'9.38" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°51'5.53" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: BAQ, Barankil'ja, Barankila, Barankilija, Barankilja, Barran'kigia, Barrancas de San Nicolas, Barrancas de San Nicolás, Barrankil'ja, Barrankilya, Barranquilha, Barranquilla, Killa, La Arenosa, Quilla, ba lan ji ya, ba leng ji ye, balangkiya, bar rang ki ya, baranakiya, barankija, barankwla, barankwyla, brnqyyh, byarenkvila, Μπαρρανκίγια, Баранкиля, Баранкиља, Баранкілья, Барранкилья, Барранкілья, ברנקייה, بارانكويلا, بارانکولا, ब्यारेन्क्विला, ਬਾਰਾਙਕੀਯਾ, บาร์รังกียา, ბარანკილია, バランキージャ, 巴兰基亚, 巴冷基也, 바랑키야

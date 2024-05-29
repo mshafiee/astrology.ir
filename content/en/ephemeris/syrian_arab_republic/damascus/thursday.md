@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'21.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'20.92" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|0°58'14.63" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°27'12.56" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°10'55.23" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°40'48.01" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°2'3.45" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°8'41.62" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|7°40'49.80" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°2'8.05" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°8'41.70" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'21.80" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°58'14.92" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°27'17.03" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'21.90" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°58'15.06" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°27'16.95" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°10'55.23" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|7°40'48.06" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|22°2'3.44" |Taurus|HaqAh|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Al-Sham, Al-Shām, An Damaisc, Cham, DAM, Damas, Damasc, Damasch, Damasco, Damascu, Damascus, Damasek, Damashq, Damasiko, Damask, Damask, Damaska, Damaskas, Damasko, Damaskos, Damaskosy, Damasku, Damaskus, Damaszek, Damaszkusz, Damašek, Dameski, Dammeseq, Damsyik, Dimaejk, Dimaesq, Dimashk, Dimashk al-Sham, Dimashk al-Shām, Dimashku, Dimashq, Dimeshki esh Sham, Dimishiq, Dimishku, Dimishq, Dimäjk, Dimäşq, Domas, Domás, Dàmáskù, Dəməşq, Esh Sham, Esh Shām, Kamakeko, Ndamako, Ndamáko, Sam, d mshq, da ma shi ge, damasaka, damasakasa, damaseukuseu, damaskas, damaskasa, damasukasu, dameska, damiska, dimisqu, dmshq, dmsq, drmswq, timisku, Şam, Δαμασκός, Дамаск, Дамаскус, Дамаскъ, Димашкъ, Димишкъ, Димишқ, Դամասկոս, דמשק, د مشق, دمشق, دیمەشق, دەمەشىق, ܕܪܡܣܘܩ, ދިމިޝްޤު, दमास्कस, दमिश्क, দামেস্ক, ਦਮਸ਼ਕ, ଡାମାସକସ, திமிஷ்கு, ಡಮಾಸ್ಕಸ್, ദമാസ്കസ്, ดามัสกัส, དྷ་མ་སི་ཁོ་སི།, ဒမားစကပ်မြို့, დამასკი, ደማስቆ, ダマスカス, 大馬士革, 大马士革, 다마스쿠스, 𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko

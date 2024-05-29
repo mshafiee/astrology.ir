@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'25.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°58'32.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°28'13.08" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°12'8.48" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°42'21.20" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°4'22.98" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°24'8.19" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'25.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°58'32.36" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°28'13.00" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°12'8.49" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°42'21.25" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°4'22.96" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°24'8.27" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'25.43" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°58'32.21" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°28'12.90" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°12'8.41" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°42'21.15" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°4'22.82" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|1°21'27.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'25.53" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°58'32.36" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°28'13.00" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°12'8.49" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|7°42'21.25" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°4'22.96" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|1°24'8.27" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: An Bhrataslaiv, An Bhratasláiv, BTS, Baratislawa, Bracislava, Bratislav, Bratislava, Bratislava osh, Bratislavae, Bratislavo, Bratislawa, Bratisllava, Bratisława, Bratyslawa, Bratysława, Bratîslava, Mpratislaba, Posonium, Pozsony, Presburg, Presporok, Prespurk, Pressburg, Preszburg, Preßburg, Prešporok, Prešpurk, beulatiseullaba, bra ti sla wa, bratisalava, bratislabha, bratislava, bratislavha, bratslawa, bratsylava, bratyslafa, bratyslava, bratyslaw, bratyslawa, bu la di si la fa, burachisuravu~a, pirattislava, Μπρατισλάβα, Братислав, Братиславæ, Братислава, Братислава ош, Братіслава, Братїслава, Браціслава, Բրատիսլավա, בראטיסלאווא, ברטיסלאבה, براتسلاوا, براتسیلاڤا, براتىسلاۋا, براتيسلافا, براتیسلاو, براتیسلاوا, براٹیسلاوا, ܒܪܛܝܣܠܐܒܐ, ब्रातिस्लाभा, ब्रातिस्लाव्हा, ব্রাতিস্লাভা, ਬ੍ਰਾਤਿਸਲਾਵਾ, பிராத்திஸ்லாவா, ಬ್ರಾಟಿಸ್ಲಾವಾ, ബ്രാട്ടിസ്‌ലാവ, บราติสลาวา, བ་ར་ཏིསི་ལ་བ།, ბრატისლავა, ብራቲስላቫ, ブラチスラヴァ, 布拉迪斯拉发, 布拉迪斯拉發, 브라티슬라바

@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'24.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°41'24.69" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°8'3.34" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°58'44.47" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°51'6.51" |Taurus|Dabaran|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°41'24.69" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°8'3.34" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°58'44.47" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°51'6.51" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°32'15.00" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|23°18'26.25" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|10°57'15.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°41'24.13" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°8'0.72" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°58'39.17" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°50'51.73" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°32'6.31" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|23°18'14.28" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|11°5'13.49" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

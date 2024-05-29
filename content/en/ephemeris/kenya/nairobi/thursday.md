@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'29.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'29.75" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|0°58'52.26" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°29'15.79" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|22°29'15.87" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°13'31.03" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°44'3.86" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°6'53.96" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°36'12.22" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|7°44'3.81" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°6'53.97" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°36'12.13" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'29.65" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'29.65" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°58'52.13" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°29'15.87" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°13'31.03" |Gemini|HanAh|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: NBO, Nairoba, Nairobi, Nairobia, Nairobis, Nairobo, Nairoby, Nairobî, Nairompi, Nairòbi, Nairóbi, Najrobi, Najrobo, Nayrobi, Nayroobi, Naíróbí, Naýrobi, na'irobi, nai luo bi, nailobi, nairobi, nairopi, nayreabi, nayrwby, nei luo bi, nirobi, nyrwby, nyyrwby, Ναϊρόμπι, Найроби, Найробі, Најроби, Նայրոբի, נייראבי, ניירובי, نايروبى, نایروبی, نایرۆبی, نيروبي, نیروبی, नैरोबी, নাইরোবি, ਨੈਰੋਬੀ, நைரோபி, ನೈರೋಬಿ, നയ്റോബി, ไนโรบี, ནའི་རོ་བི།, နိုင်ရိုဘီမြို့, ნაირობი, ናይሮቢ, ナイロビ, 内罗毕, 奈洛比, 나이로비

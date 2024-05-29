@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'43.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'43.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|0°59'59.58" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°32'51.77" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°18'6.31" |Taurus|Dabaran|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'43.89" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'43.89" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°59'59.58" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°32'51.77" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°17'50.26" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°49'47.44" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°15'20.64" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°36'54.44" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|9°18'6.31" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|7°49'56.84" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°15'34.85" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°44'41.34" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Gouintchouk, Vindguk, Vindhuk, Vindhuka, Vindhukas, Vindhuko, Vindkhuk, Vinduque, Vindxuk, Vintchouk, WDH, Windhoek, Windhuk, Windoek, Windoèk, Wynhoeke, binteuhukeu, u~intofukku, vatahuka, vindahoka, vintok, wen de he ke, wen he ke, win dhuk, wwynthwq, wyndhwk, wyndhwq, wyndھwk, wynٹہwk, Βίντχουκ, Γουίντχουκ, Виндхук, Віндгук, Віндхук, Վինդհուկ, ווינטהוק, וינדהוק, ونڈہوک, ويندهوك, ویندهوک, ویندھوک, وینٹہوک, विंडहोक, ਵੰਟਹੁਕ, விந்தோக், วินด์ฮุก, ཝིན་ཌི་ཧོཡིཀ།, ვინდჰუკი, ዊንድሁክ, ウィントフック, 温得和克, 溫得和克, 溫荷克, 빈트후크

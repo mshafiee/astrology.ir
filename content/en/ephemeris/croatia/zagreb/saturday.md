@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°45'11.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°26'45.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°58'46.68" |Pisces|Rescha|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|18°45'11.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°26'45.17" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°58'46.76" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|11°7'41.98" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°10'29.72" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°47'18.00" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|0°8'9.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|10°10'29.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°47'18.02" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|29°59'30.05" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°45'11.70" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°45'11.70" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|1°26'45.17" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|23°58'46.76" |Aries|Butain|Venus|
 |☉ Sun|Direct|11°7'41.98" |Gemini|HanAh|Mars|

@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'43.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'43.69" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|0°59'58.96" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°32'50.05" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°18'3.85" |Taurus|Dabaran|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'43.79" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°59'58.96" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°32'48.94" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°17'54.21" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°49'48.36" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°15'24.41" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°39'38.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'43.79" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°59'58.82" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°32'50.13" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°18'3.85" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|7°49'53.95" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°15'30.75" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°44'43.95" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메

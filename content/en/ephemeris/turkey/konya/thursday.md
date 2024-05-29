@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'22.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'22.36" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|0°58'17.28" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°27'24.19" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°11'7.19" |Taurus|Dabaran|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'22.36" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°58'17.28" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°27'24.19" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°11'7.19" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°41'1.66" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°2'25.54" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|1°4'27.96" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'22.36" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°58'17.20" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°27'24.13" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°11'7.49" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|7°41'1.84" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°2'25.68" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|1°1'0.06" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Conia, Iconio, Iconium, Ikonio, Ikoniow, KYA, Ko'niya, Kon'ja, Koni, Konia, Konieh, Konija, Konja, Konjao, Konya, Koʻniya, Kuniyah, Kuon'ja, Qonia, Qonya, Qonye, ke ni ya, kean'ya, kon'ya, konia, qwnyh, qwnyt, Ικόνιο, Кония, Конија, Конья, Къонья, Կոնիա, קוניה, قونية, قونیه, قونیہ, कोन्या, കോന്യ, კონია, コンヤ, 科尼亞, 코니아

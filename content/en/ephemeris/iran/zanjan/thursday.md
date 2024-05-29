@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:47:48 |
 | Isha (Night) | 20:50:03 |
 | Sharia Midnight | 23:25:29 |
-| Imum Coeli | 00:13:40 |
+| Imum Coeli | 00:13:41 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:50:44 |
 | Isha (Night) | 20:50:03 |
 | Sharia Midnight | 23:19:24 |
-| Imum Coeli | 00:13:40 |
+| Imum Coeli | 00:13:41 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 19:33:32 |
 | Isha (Night) | 21:14:29 |
 | Sharia Midnight | 23:12:39 |
-| Imum Coeli | 00:13:40 |
+| Imum Coeli | 00:13:41 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:33:32 |
 | Isha (Night) | 21:03:32 |
 | Sharia Midnight | 23:16:27 |
-| Imum Coeli | 00:13:40 |
+| Imum Coeli | 00:13:41 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'14.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'14.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|0°57'41.85" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°25'30.45" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°8'42.26" |Taurus|Dabaran|Mercury|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°39'14.89" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°39'14.89" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°57'41.85" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°25'30.45" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°8'42.26" |Gemini|HanAh|Jupiter|

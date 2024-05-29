@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°48'51.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°48'51.63" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°45'38.58" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|24°59'23.85" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|12°25'11.44" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°49'49.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|28°21'49.96" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|19°34'52.92" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|12°25'0.56" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°49'43.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|28°21'39.52" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|18°3'32.17" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Mars|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°48'51.72" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°45'38.44" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|24°59'23.93" |Aries|Butain|Venus|
-|☉ Sun|Direct|12°25'11.43" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|11°49'49.85" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|28°21'49.98" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|19°34'52.20" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|18°48'51.72" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°45'38.58" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|24°59'23.85" |Aries|Butain|Venus|
+|☉ Sun|Direct|12°25'11.44" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|11°49'43.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|28°21'39.50" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|18°3'32.87" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
