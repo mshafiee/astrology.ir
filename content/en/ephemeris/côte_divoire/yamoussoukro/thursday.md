@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'48.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°0'22.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°34'3.95" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°19'38.68" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°51'57.56" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°18'32.35" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°42'53.76" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|18°39'48.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°0'22.92" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°34'6.85" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°19'41.97" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°51'59.51" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°18'36.14" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°8'40.18" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'48.82" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°0'22.92" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°34'6.85" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°19'41.97" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°51'59.51" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°18'36.14" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°8'40.18" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|18°39'48.82" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°0'21.33" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°34'6.46" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°19'33.79" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|7°51'54.66" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°18'31.08" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°3'16.63" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: ASK, Giamoussoukro, Jamusukra, Jamusukras, Jamusukro, Jamusukro khot, Yamosukro, Yamousoukro, Yamoussokro, Yamoussoukro, Yamoussoukrou, Yamussukro, Yamusukro, ya mu su ke lei, ya mu su ke luo, ya mussu kor, yamucukro, yamusasutro, yamusukaro, yamusukeulo, yamusukro, yamusukuro, yamwsswkrw, yamwswkrw, yamwwswwkrۆ, ywmwswkrw, Γιαμουσσούκρο, Јамусукро, Ямусукра, Ямусукро, Ямусукро хот, Յամուսուկրո, יאמוסאקרא, יאמוסוקרו, ياموسوكرو, يامۇسسۇكرو, یاموسسوکرو, یاموسوکرو, یامووسووکرۆ, یوموسوکرو, यामूसूक्रो, ਯਾਮੂਸੂਕਰੋ, ୟାମୁସସୁତ୍ରୋ, யாமூசூக்ரோ, ยามุสซุโกร, ཡམ་སོ་ཁེ་རོ།, იამუსუკრო, ያሙሱክሮ, ヤムスクロ, 亚穆苏克罗, 雅穆蘇克雷, 야무수크로

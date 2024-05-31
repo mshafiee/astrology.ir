@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°41'49.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°41'49.25" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°10'2.62" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°5'8.57" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°59'13.58" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|8°42'43.43" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|23°34'7.30" |Aries|Butain|Venus|
-|☾ Moon|Direct|12°58'17.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|23°5'8.54" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°59'12.09" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|8°42'42.55" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|23°34'6.40" |Aries|Butain|Venus|
+|☾ Moon|Direct|13°7'47.93" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Venus|Moon|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Venus|Venus|Mercury|Moon|
+|☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°41'49.25" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°10'2.36" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°5'8.54" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°59'12.09" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|18°41'49.25" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°10'2.62" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°5'8.57" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°59'13.58" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|8°42'42.55" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|23°34'6.40" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|13°7'47.93" |Pisces|FarghAlMuakhar|Jupiter|

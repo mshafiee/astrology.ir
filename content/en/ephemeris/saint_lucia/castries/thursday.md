@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°43'8.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°43'8.28" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°16'29.30" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|23°25'48.71" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°25'38.58" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|9°16'31.81" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Direct|24°25'2.06" |Aries|Butain|Venus|
-|☾ Moon|Direct|19°34'26.13" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|18°57'50.30" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°43'8.28" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°16'29.30" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°25'48.71" |Aries|Butain|Venus|
-|☉ Sun|Direct|10°25'38.58" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|9°16'31.81" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|24°25'2.06" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|19°34'25.82" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°43'8.28" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°16'29.11" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°25'46.14" |Aries|Butain|Venus|
+|☉ Sun|Direct|10°25'37.02" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|9°16'30.96" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|24°24'59.61" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|18°57'50.30" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Saturn|Venus|
-|☾ Moon|Mars|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

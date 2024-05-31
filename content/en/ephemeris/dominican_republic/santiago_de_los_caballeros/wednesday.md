@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°40'18.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°40'18.21" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°2'43.25" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°41'37.46" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°29'16.13" |Taurus|Dabaran|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°40'18.21" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°40'18.21" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|1°2'43.25" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°41'37.46" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°29'16.13" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|8°4'16.02" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°36'46.62" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°31'30.35" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|22°36'46.54" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°31'52.49" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: STI, Sant'jago-de-los-Kabal'eros, Sant'jago-de-los-Trejnta-Kabal'eros, Santiago, Santiago de los Caballeros, Santiago de los Kampagieros, Santjago de los Kabaljerosas, santiagodeloseukabayeloseu, sheng de ya ge, Σαντιάγο δε λος Καμπαγιέρος, Сантьяго-де-лос-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальєрос, סנטיאגו דה לוס קביירוס, سانتیاغو دے لوس کابائیروس, サンティアゴ・デ・ロス・カバリェロス, 聖地牙哥, 산티아고데로스카바예로스

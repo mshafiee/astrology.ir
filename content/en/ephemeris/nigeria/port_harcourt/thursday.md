@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'43.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°59'55.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°32'35.77" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°17'47.18" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°49'35.68" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°15'1.91" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°54'20.48" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|18°39'43.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°59'56.05" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°32'40.59" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°17'52.02" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°49'38.52" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°15'7.84" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°41'18.51" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'43.17" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°39'43.17" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°59'56.05" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°32'40.59" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°17'52.02" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°49'35.62" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°15'1.92" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|1°54'20.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|7°49'38.52" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°15'7.84" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°41'18.51" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: PHC, Port Harcourt, Port Harkortas, Port Kharkurt, Port-Kharkort, Ugwu Ocha, Ugwu Ọcha, bwrt harkwrt, ha ke te gang, poteuhakeoteu, potohakoto, pwrt hrqwrt, Порт Харкурт, Порт-Харкорт, פורט הרקורט, بورت هاركورت, ポートハーコート, 哈科特港, 포트하커트

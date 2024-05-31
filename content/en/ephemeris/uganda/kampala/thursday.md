@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'31.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°59'0.59" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°29'42.54" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|18°39'31.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°59'0.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°29'42.62" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°14'5.11" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°44'47.57" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°7'58.43" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°32'31.95" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|7°44'47.52" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°7'58.44" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°44'44.47" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'31.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°59'0.45" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°29'42.62" |Aries|Butain|Venus|
+|♄ Saturn|Direct|18°39'31.41" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°59'0.59" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°29'42.54" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°14'5.11" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°44'47.52" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°7'58.44" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|1°44'44.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|7°44'47.57" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°7'58.43" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|1°44'44.55" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라

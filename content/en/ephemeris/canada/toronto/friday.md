@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 20:52:25 |
 | Maghrib | 21:18:40 |
 | Isha (Night) | 22:31:56 |
-| Sharia Midnight | 00:07:45 |
+| Sharia Midnight | 00:07:44 |
 | Imum Coeli | 01:15:32 |
 {{< /tab >}}
 
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°45'56.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°30'32.72" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|24°10'57.13" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|18°45'56.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°30'32.86" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|24°10'57.05" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|11°23'14.98" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|10°30'25.87" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|26°17'59.53" |Aries|Thurayya|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°45'56.72" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°45'56.72" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|1°30'32.86" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|24°10'57.05" |Aries|Butain|Venus|
-|☉ Sun|Direct|11°23'14.98" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|10°30'25.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|26°17'59.53" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°53'1.61" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°10'53.85" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°23'14.32" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|10°30'25.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|26°17'57.36" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|3°0'38.24" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Sun|Pisces|Sun|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

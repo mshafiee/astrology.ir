@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'29.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°39'29.81" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|0°58'52.66" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°29'17.98" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°13'31.58" |Taurus|Dabaran|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'29.81" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°39'29.81" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°58'52.66" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°29'17.98" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°13'31.58" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°44'7.52" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°6'59.07" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|1°29'24.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|7°44'7.68" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°6'59.76" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|1°41'42.08" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bantouz, QVU, Vaduc, Vaducas, Vaduz, Vaduzo, fado~utsu, paducheu, vadutsi, wa dou zi, Βαντούζ, Вадуц, פאדוץ, ვადუცი, ፋዱጽ, ファドゥーツ, 瓦都茲, 파두츠

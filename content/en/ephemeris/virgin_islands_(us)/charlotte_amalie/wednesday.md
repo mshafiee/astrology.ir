@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°40'15.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°2'30.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°40'57.94" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°28'25.67" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|8°3'11.23" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°35'10.57" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°19'18.03" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|18°40'15.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°2'28.19" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°40'50.46" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°28'10.32" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|8°3'2.27" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°34'56.83" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°2'43.56" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°40'15.54" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°40'15.54" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|1°2'30.78" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°40'57.94" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°28'25.67" |Gemini|HanAh|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Amalienborg, Amalienburg, Carlota Amalia, Carlotamalio, Charlotte Amalia, Charlotte Amalie, Charlotte Amalie pa Dei amerikanske Jomfruoyane, Charlotte Amalie på Dei amerikanske Jomfruøyane, Di Dorp, Dorp, Het Dorp, Saint Thomas, Saint Thomas City, Sanct Thomas, Sarlot Amali, Sarlote Amalija, Sarlotta Amaliya, Savan, Scharlotte Amelia, Sharlot Amali, Sharlota Amalija, Sharlota-Amalija, Sharlotta-Amalija, Tap House, Tap Hus, Taphuis, Taphus, Taphuus, Taphys, Tappus, Wirtshaus, Zapfhaus, charlxttxa mali, sarlata ameli, sharlwt amaly, srlwt ʼmʼly, syalleos-amallie, xia luo te a ma li ya, Ĉarlotamalio, Şarlotta Amaliya, Šarlotė Amalija, Σαρλότ Αμαλί, Шарлот Амали, Шарлота Амалия, Шарлота Амалија, Шарлота-Амалія, Шарлотта-Амалия, Шарлотта-Амалія, שרלוט אמאלי, شارلوت آمالی, شارلوت أمالي, شارلٹ ایملی, शार्लट आमेली, ชาร์ลอตต์อะมาลี, შარლოტა-ამალია, シャーロット・アマリー, 夏洛特阿马利亚, 샬럿아말리에

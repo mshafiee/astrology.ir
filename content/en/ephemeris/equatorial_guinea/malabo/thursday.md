@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'42.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°39'42.51" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|0°59'52.89" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°32'30.45" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°17'39.12" |Taurus|Dabaran|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'42.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|0°59'52.75" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|22°32'30.53" |Aries|Butain|Venus|
-|☉ Sun|Direct|9°17'39.11" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°49'21.90" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°14'43.38" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°38'3.36" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|18°39'42.51" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|0°59'52.89" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|22°32'30.45" |Aries|Butain|Venus|
+|☉ Sun|Direct|9°17'39.12" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|7°49'21.95" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°14'43.37" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°38'3.44" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

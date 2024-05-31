@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°41'53.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°41'53.37" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°10'22.43" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°6'11.33" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|10°0'35.89" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|8°44'25.81" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|23°36'40.58" |Aries|Butain|Venus|
-|☾ Moon|Direct|13°19'12.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|23°6'5.72" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|10°0'20.24" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|8°44'16.67" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|23°36'27.92" |Aries|Butain|Venus|
+|☾ Moon|Direct|13°23'31.48" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°41'53.37" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°10'22.26" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°6'11.38" |Aries|Butain|Venus|
-|☉ Sun|Direct|10°0'35.72" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|8°44'25.66" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|23°36'40.49" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|13°19'48.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|18°41'53.37" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°10'22.43" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°6'11.33" |Aries|Butain|Venus|
+|☉ Sun|Direct|10°0'35.89" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|8°44'25.81" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|23°36'40.58" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|13°19'12.77" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: CGP, Cattagram, Caṭṭagrām, Cetagons, Chattogram, Chitagong, Chittagong, Chittagong Ghat, Chottogram, Chôţţogram, Citagaon, Citagong, Citagonga, Citagongas, Citagongo, Cittaqonq, Cottogram, Csittagong, Islamabad, Tsitankon'nk, catagamva, cattagrama, chitagong, chittagon, chytagwng, cirragean, cit ta kxng, citagonga, cittagang, cittagonga, cittakon, ji da gang, ji da gang shi, shytaghwngh, shytajwnj, zytgwng, Çitagong, Çittaqonq, Ćottogram, Ĉitagongo, Čattagrám, Čitagonga, Čitagongas, Čitágáon, Čėtagons, Τσιταγκόνγκ, Читагонг, Читтагонг, Читтаґонґ, טשיטאגאנג, ציטגונג, شيتاجونج, شيتاغونغ, چٹاگانگ, چیتاگونگ, चटगाँव, चट्टग्राम, चिटागोंग, চট্টগ্রাম, ચિત્તાગોંગ, சிட்டகொங், చిట్టగాంగ్, ಚಿತ್ತಗಾಂಗ್, ചിറ്റഗോങ്, จิตตะกอง, စစ်တကောင်းမြို့, ჩიტაგონგი, チッタゴン, 吉大港, 吉大港市, 치타공

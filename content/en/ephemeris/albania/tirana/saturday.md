@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°45'11.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°26'45.61" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°58'47.54" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|11°7'43.42" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°10'31.09" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°47'20.05" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|0°1'11.55" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|18°45'11.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°26'43.79" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°58'41.75" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|11°7'32.09" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|10°10'24.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°47'9.97" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|29°12'45.70" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°45'11.86" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°45'11.86" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|1°26'45.61" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|23°58'47.54" |Aries|Butain|Venus|
 |☉ Sun|Direct|11°7'43.42" |Gemini|HanAh|Mars|

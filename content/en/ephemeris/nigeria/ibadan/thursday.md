@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'44.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°39'44.09" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°0'0.71" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|22°32'56.10" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°18'11.64" |Taurus|Dabaran|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'44.09" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°39'44.09" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|1°0'0.71" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°32'56.10" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°18'11.64" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°50'3.69" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°15'45.12" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°46'17.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|7°49'55.07" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°15'32.20" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°46'52.87" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: IBA, Ibadan, Ibadan shaary, Ibadana, Ibadanas, Ibadano, Ibadán, abadan, aybadan, ibadan, ibadana, yi ba dan, Ìbàdàn, İbadan, Ібадан, Ибадан, Ибадан шаары, איבדאן, إبادان, إيبادان, ابادان, ਇਬਾਦਾਨ, イバダン, 伊巴丹, 이바단

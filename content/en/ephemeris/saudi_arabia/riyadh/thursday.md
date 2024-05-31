@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'19.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|0°58'2.21" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°26'35.53" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°10'5.91" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|7°39'42.06" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°0'28.25" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°47'27.66" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|18°39'19.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|0°58'2.19" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°26'35.91" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°10'5.82" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|7°39'42.01" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°0'28.44" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°54'52.17" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°39'19.20" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°39'19.20" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|0°58'2.21" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|22°26'35.53" |Aries|Butain|Venus|
 |☉ Sun|Direct|9°10'5.91" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|7°39'42.06" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°0'28.25" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°47'27.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|7°39'42.01" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°0'28.44" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°54'52.17" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>□ Square|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Al-Riad, Al-Riyad, Ar Riyadh, Ar Riyādh, Ar-Riaad, Ar-Rijad, Ar-Riyad, Ar-Riyod, Ar-Riyāḑ, Ehr-Rijad, Ehr-Ryjad, Er-Rijad, Er-riyad, RUH, Riaad, Riad, Riade, Riadi, Riado, Riadum, Riant, Rihad, Rijad, Rijada, Rijadas, Rijád, Rijāda, Riyad, Riyadh, Riyaḍ, Ríad, alryad, er-riadi, li ya de, liyadeu, raiyadha, ri'ada, ri'adha, riyad, riyada, riyadh, riyadha, riyado, riyat, ryad, ryyad, Ər-Riyad, Ριάντ, Ар-Рияд, Ер-Ріяд, Рияд, Ријад, Эр-Рияд, Эр-Рыяд, Ալ-Ռիադ, ריאד, الرياض, رىياد, رياض, ریاض, ڕیاز, रियाद, रियाध, রিয়াদ, ৰিয়াধ, ਰਿਆਧ, ରିଆଦ, ரியாத், ರಿಯಾಧ್, റിയാദ്, ริยาด, རིས་ཡག, ერ-რიადი, ሪያድ, リヤド, 利雅得, 利雅德, 리야드
