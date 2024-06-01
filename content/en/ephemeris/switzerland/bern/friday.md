@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°42'25.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°42'25.81" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°13'0.83" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|23°14'40.31" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°11'23.75" |Taurus|Dabaran|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°42'26.20" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°12'59.86" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°14'41.34" |Aries|Butain|Venus|
-|☉ Sun|Direct|10°11'18.77" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|8°58'15.54" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|23°57'29.70" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|16°47'5.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°42'25.81" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°13'0.83" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°14'40.31" |Aries|Butain|Venus|
+|☉ Sun|Direct|10°11'23.75" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|8°58'18.50" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|23°57'32.05" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|15°59'16.32" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Saturn|Venus|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}

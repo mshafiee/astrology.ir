@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°53'7.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°53'7.80" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|2°8'45.72" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|26°13'38.05" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|13°59'58.10" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|13°51'34.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|1°36'37.38" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|11°46'10.30" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|14°0'9.59" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|13°51'41.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|1°36'47.22" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|13°7'55.38" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Jupiter|Venus|Mercury|Moon|
 |♃ Jupiter|Venus|Venus|Venus|Moon|
 |♂ Mars|Mars|Saturn|Mars|Mars|
-|☉ Sun|Mercury|Mercury|Mercury|Mercury|
+|☉ Sun|Jupiter|Mercury|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Taurus|Moon|Venus|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°53'7.80" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°53'7.80" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|2°8'45.72" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|26°13'38.05" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|14°0'9.59" |Gemini|HanAh|Mars|

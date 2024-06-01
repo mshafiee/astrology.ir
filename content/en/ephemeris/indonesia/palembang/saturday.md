@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°47'28.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°47'28.11" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|1°38'21.89" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|24°36'1.82" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|11°55'19.55" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|11°11'31.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°21'45.44" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|12°6'22.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|24°36'1.05" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|11°55'19.47" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°11'31.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°21'44.99" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|11°54'20.99" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°47'28.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°38'21.77" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|24°36'1.85" |Aries|Butain|Venus|
-|☉ Sun|Direct|11°55'19.60" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|11°11'31.24" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|18°47'28.11" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°38'21.89" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|24°36'1.82" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°55'19.55" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|11°11'31.26" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|27°21'45.44" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|12°6'22.71" |Aries|Sharatain|Sun|
 

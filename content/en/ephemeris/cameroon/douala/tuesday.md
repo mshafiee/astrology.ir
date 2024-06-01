@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°53'20.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°9'55.17" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°17'18.37" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|14°4'53.67" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|13°57'49.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|1°46'44.25" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|13°17'33.12" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|18°53'20.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|2°9'56.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°17'25.07" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|14°5'1.98" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|13°57'54.01" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|1°46'52.36" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|14°38'39.53" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Mercury|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Taurus|Moon|Venus|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°53'20.52" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°53'20.52" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|2°9'56.63" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|26°17'25.07" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|14°5'1.98" |Gemini|HanAh|Mars|

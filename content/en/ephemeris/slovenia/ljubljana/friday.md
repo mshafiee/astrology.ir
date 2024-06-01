@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:59:44 |
 | Sunset | 20:45:05 |
 | Maghrib | 20:49:15 |
-| Isha (Night) | 22:44:09 |
+| Isha (Night) | 22:44:10 |
 | Sharia Midnight | 00:00:08 |
 | Imum Coeli | 00:59:48 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°42'22.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°12'46.18" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°13'53.79" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|10°10'24.37" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|18°42'22.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°12'46.30" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°13'53.52" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|10°10'24.28" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|8°57'2.22" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|23°55'37.31" |Aries|Butain|Venus|
-|☾ Moon|Direct|15°44'37.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|23°55'37.13" |Aries|Butain|Venus|
+|☾ Moon|Direct|15°41'49.74" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°42'22.75" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°12'46.18" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|23°13'53.79" |Aries|Butain|Venus|
-|☉ Sun|Direct|10°10'24.37" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|18°42'22.84" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°12'46.30" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|23°13'53.52" |Aries|Butain|Venus|
+|☉ Sun|Direct|10°10'24.28" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|8°57'2.22" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|23°55'37.31" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|15°44'37.54" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|23°55'37.13" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|15°41'49.74" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

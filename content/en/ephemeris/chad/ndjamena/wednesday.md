@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 11:58:25 |
 | Medium Coeli | 11:58:25 |
 | Sunset | 18:22:47 |
-| Maghrib | 18:38:02 |
+| Maghrib | 18:38:03 |
 | Isha (Night) | 19:23:29 |
 | Sharia Midnight | 23:23:29 |
 | Imum Coeli | 23:58:30 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°55'44.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°23'34.03" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°1'10.77" |Pisces|Rescha|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|18°55'44.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|2°23'34.17" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°1'10.69" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|15°1'6.02" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|15°9'53.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|3°44'47.96" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|28°31'25.62" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|15°9'53.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|3°44'47.94" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|28°31'26.77" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°55'44.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|2°23'34.03" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°1'10.77" |Aries|Thurayya|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°55'44.21" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|2°23'34.17" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°1'10.69" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|15°1'6.02" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|15°9'53.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|3°44'47.96" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|28°31'25.62" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°9'53.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|3°44'47.94" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|28°31'26.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

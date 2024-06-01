@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°57'34.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°34'20.35" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°35'46.68" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|15°45'27.69" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°6'49.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|5°19'27.95" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|9°15'22.26" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|18°57'34.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|2°34'17.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°35'40.75" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|15°45'13.10" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°6'41.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|5°19'16.29" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|7°36'39.21" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°57'34.17" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°57'34.17" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|2°34'20.35" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|27°35'46.68" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|15°45'27.69" |Gemini|HanAh|Mars|
