@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°59'38.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°46'53.70" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°16'7.03" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°37'0.09" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°13'9.04" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|7°11'7.74" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|20°14'39.10" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|18°59'38.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|2°46'53.56" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°16'7.11" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°37'14.86" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|17°13'17.48" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|7°11'20.10" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|21°52'47.44" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Jupiter|Mercury|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°59'38.31" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|2°46'53.70" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|28°16'7.03" |Aries|Thurayya|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°59'38.21" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|2°46'53.56" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|28°16'7.11" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|16°37'14.86" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°13'17.53" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|7°11'20.08" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|21°52'48.13" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|17°13'17.48" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|7°11'20.10" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|21°52'47.44" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

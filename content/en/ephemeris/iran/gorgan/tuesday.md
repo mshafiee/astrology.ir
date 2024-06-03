@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:50:37 |
 | Sunset | 19:08:03 |
 | Maghrib | 19:10:24 |
-| Isha (Night) | 20:59:55 |
+| Isha (Night) | 20:59:54 |
 | Sharia Midnight | 22:54:41 |
 | Imum Coeli | 23:50:42 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|18°52'54.76" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|2°7'33.07" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°9'44.72" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|13°55'11.00" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|13°45'17.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|1°26'25.10" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|11°57'21.15" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|26°9'44.67" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|13°55'11.04" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|13°45'17.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|1°26'25.11" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|11°56'57.78" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|18°52'54.76" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|2°7'33.07" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|26°9'44.81" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|13°55'11.63" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|13°45'18.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°26'25.54" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|11°59'25.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°9'44.67" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|13°55'11.04" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|13°45'17.80" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°26'25.11" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|11°56'57.78" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

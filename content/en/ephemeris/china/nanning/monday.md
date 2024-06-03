@@ -302,9 +302,9 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|18°52'35.63" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|2°5'47.00" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|26°4'3.77" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|13°47'55.31" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|13°35'57.78" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|1°11'18.01" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|13°47'54.97" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|13°35'57.58" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|1°11'17.72" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|10°16'39.34" |Aries|Sharatain|Sun|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|18°52'35.63" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|2°5'47.00" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|26°3'56.76" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|13°47'39.79" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|13°35'48.76" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°11'5.12" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|8°39'2.82" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|26°4'3.77" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|13°47'55.31" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|13°35'57.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°11'18.01" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|10°16'39.34" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
