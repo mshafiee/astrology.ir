@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:30:10 |
 | Medium Coeli | 12:30:10 |
 | Sunset | 19:18:32 |
-| Maghrib | 19:37:40 |
+| Maghrib | 19:37:41 |
 | Isha (Night) | 20:26:15 |
 | Sharia Midnight | 23:46:23 |
 | Imum Coeli | 00:30:15 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°50'18.79" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°53'21.50" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|25°24'10.21" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|18°50'18.69" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°53'21.36" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|25°24'10.28" |Aries|Butain|Venus|
 |☉ Sun|Direct|12°56'51.93" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|12°30'28.24" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|29°26'12.07" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|27°28'32.56" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|12°30'28.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|29°26'12.01" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|27°32'45.21" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}

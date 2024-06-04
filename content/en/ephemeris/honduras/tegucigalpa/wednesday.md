@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|18°58'44.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°41'26.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°58'35.38" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°14'44.58" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°44'24.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|6°22'31.85" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|16°27'17.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|2°41'23.58" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°58'27.80" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°14'29.11" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°44'15.30" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|6°22'19.11" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|14°41'12.68" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|18°58'44.92" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|2°41'26.41" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°58'35.38" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|2°41'26.28" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°58'35.46" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|16°14'44.58" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|16°44'24.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°22'31.85" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°44'24.26" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|6°22'31.87" |Gemini|HanAh|Jupiter|
 |☾ Moon|Direct|16°27'17.19" |Gemini|HanAh|Mars|
 
 

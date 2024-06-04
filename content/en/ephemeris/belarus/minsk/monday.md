@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:07:58 |
 | Medium Coeli | 13:07:58 |
 | Sunset | 21:33:42 |
-| Maghrib | 21:38:27 |
+| Maghrib | 21:38:28 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:08:03 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:07:58 |
 | Medium Coeli | 13:07:58 |
 | Sunset | 21:33:42 |
-| Maghrib | 21:38:27 |
+| Maghrib | 21:38:28 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:08:03 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:07:58 |
 | Medium Coeli | 13:07:58 |
 | Sunset | 21:33:42 |
-| Maghrib | 21:38:27 |
+| Maghrib | 21:38:28 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:08:03 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:07:58 |
 | Medium Coeli | 13:07:58 |
 | Sunset | 21:33:42 |
-| Maghrib | 21:38:27 |
-| Isha (Night) | 23:08:27 |
+| Maghrib | 21:38:28 |
+| Isha (Night) | 23:08:28 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:08:03 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°50'25.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|1°53'56.17" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°26'2.78" |Pisces|Rescha|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|18°50'25.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°53'56.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°26'2.70" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|12°59'13.85" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°33'33.03" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|29°31'6.97" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|27°45'38.95" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|12°33'33.09" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|29°31'6.95" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|27°45'39.69" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°50'25.14" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|1°53'56.17" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|18°50'25.24" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|1°53'56.31" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|25°26'2.70" |Aries|Butain|Venus|
 |☉ Sun|Direct|12°59'13.85" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|12°33'33.09" |Gemini|HanAh|Mars|
