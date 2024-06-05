@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°3'44.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|3°13'13.82" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°40'50.33" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|18°26'0.75" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|19°33'8.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|11°11'16.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°44'11.71" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|19°3'44.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|3°13'16.53" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°40'56.43" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|18°26'16.33" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|19°33'17.77" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|11°11'28.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°14'19.23" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Mercury|Mercury|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°3'44.64" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°3'44.64" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|3°13'16.53" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|29°40'56.43" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|18°26'16.33" |Gemini|Dhira|Mars|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°57'34.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°34'20.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°35'48.37" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|15°45'26.60" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°6'52.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|5°19'33.10" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|8°41'3.96" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|18°57'34.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|2°34'20.24" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°35'47.78" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|15°45'25.40" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°6'51.57" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|5°19'32.11" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|8°32'54.44" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°57'34.09" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|2°34'20.49" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°35'48.44" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|15°45'27.68" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|18°57'34.19" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|2°34'20.62" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°35'48.37" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|15°45'27.69" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|16°6'52.93" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|5°19'33.82" |Gemini|HanAh|Jupiter|
 |☾ Moon|Direct|8°47'24.95" |Gemini|HanAh|Jupiter|

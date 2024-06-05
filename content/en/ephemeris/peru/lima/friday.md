@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°3'8.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|3°9'15.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°28'2.21" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|18°9'34.15" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|19°11'59.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|10°34'36.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°13'6.66" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|19°3'8.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|3°9'17.46" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°28'7.25" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|18°9'46.97" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|19°12'6.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|10°34'46.92" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°30'10.00" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°3'8.69" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°3'8.69" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|3°9'17.46" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|29°28'7.25" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|18°9'46.97" |Gemini|Dhira|Mars|

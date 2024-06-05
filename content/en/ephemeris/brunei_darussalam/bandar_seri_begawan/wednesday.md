@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°57'28.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°33'46.12" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°33'56.36" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|15°43'6.93" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°3'48.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|5°14'23.83" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|8°50'53.95" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|18°57'28.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|2°33'43.30" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°33'48.50" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|15°42'50.74" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°3'38.78" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|5°14'10.45" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|6°57'24.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°57'28.43" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|18°57'28.43" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|2°33'46.12" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|27°33'56.36" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|15°43'6.93" |Gemini|HanAh|Mars|

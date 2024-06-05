@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 19:06:23 |
 | Maghrib | 19:07:28 |
 | Isha (Night) | 20:33:34 |
-| Sharia Midnight | 23:27:36 |
+| Sharia Midnight | 23:27:35 |
 | Imum Coeli | 00:16:50 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°52'57.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°52'57.30" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|2°7'47.18" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|26°10'29.73" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|13°56'9.39" |Taurus|Dabaran|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|18°52'57.30" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|2°7'47.19" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|26°10'29.81" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|13°56'9.41" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|13°46'31.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°28'24.85" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|12°19'33.04" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|18°52'57.30" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|2°7'47.18" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|26°10'29.73" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|13°56'9.39" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|13°46'31.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°28'24.79" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|12°18'42.62" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

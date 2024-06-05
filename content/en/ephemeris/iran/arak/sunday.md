@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:27:07 |
 | Sunrise | 04:59:43 |
-| Dhuhr (Noon) | 12:10:32 |
-| Medium Coeli | 12:10:32 |
+| Dhuhr (Noon) | 12:10:33 |
+| Medium Coeli | 12:10:33 |
 | Sunset | 19:21:31 |
 | Maghrib | 19:41:09 |
 | Isha (Night) | 20:41:10 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:15:36 |
 | Sunrise | 04:59:43 |
-| Dhuhr (Noon) | 12:10:32 |
-| Medium Coeli | 12:10:32 |
+| Dhuhr (Noon) | 12:10:33 |
+| Medium Coeli | 12:10:33 |
 | Sunset | 19:21:31 |
 | Maghrib | 19:44:00 |
 | Isha (Night) | 20:41:10 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:02:54 |
 | Sunrise | 04:59:43 |
-| Dhuhr (Noon) | 12:10:32 |
-| Medium Coeli | 12:10:32 |
+| Dhuhr (Noon) | 12:10:33 |
+| Medium Coeli | 12:10:33 |
 | Sunset | 19:21:31 |
 | Maghrib | 19:27:16 |
 | Isha (Night) | 21:04:25 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:13:32 |
 | Sunrise | 04:59:43 |
-| Dhuhr (Noon) | 12:10:32 |
-| Medium Coeli | 12:10:32 |
+| Dhuhr (Noon) | 12:10:33 |
+| Medium Coeli | 12:10:33 |
 | Sunset | 19:21:31 |
 | Maghrib | 19:27:16 |
 | Isha (Night) | 21:07:52 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°4'21.60" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|19°4'21.60" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|3°17'25.67" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°54'18.46" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|18°43'27.33" |Taurus|Dabaran|Moon|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°4'21.60" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°4'21.60" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|3°17'25.67" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|29°54'18.46" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|18°43'27.33" |Gemini|Dhira|Mars|
