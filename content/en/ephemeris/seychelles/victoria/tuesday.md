@@ -1,6 +1,6 @@
 ---
-date: 2024-06-04T00:00:00+04:00
-lastmod: 2024-06-04T00:00:00+04:00
+date: 2024-06-11T00:00:00+04:00
+lastmod: 2024-06-11T00:00:00+04:00
 title: Victoria Tuesday
 slug: tuesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Tuesday, 04 Jun 2024
+description: 🗓 Tuesday, 11 Jun 2024
 
 toc: false
 ---
@@ -336,11 +336,11 @@ Position of planets based on tropical calculations at sunrise
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>□ Square|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**♂ Mars**|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아
