@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°8'26.53" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|3°46'31.10" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°27'58.87" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|20°44'8.84" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|22°30'27.96" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|16°22'24.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°20'3.57" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°27'58.06" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|20°44'7.30" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|22°30'27.02" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|16°22'22.79" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°18'21.23" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°8'26.53" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|3°46'31.10" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°27'58.87" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|20°44'5.19" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|22°30'26.13" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|16°22'20.80" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|17°50'54.05" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|19°8'26.43" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|3°46'30.97" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°27'58.95" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|20°44'8.83" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|22°30'27.91" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|16°22'24.02" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|17°20'4.21" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Sun|Mars|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}

@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:55:59 |
 | Medium Coeli | 12:55:59 |
 | Sunset | 20:47:36 |
-| Maghrib | 20:49:11 |
+| Maghrib | 20:49:10 |
 | Isha (Night) | 23:34:50 |
 | Sharia Midnight | 23:32:22 |
 | Imum Coeli | 00:56:04 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:55:59 |
 | Sunset | 20:47:36 |
 | Maghrib | 20:49:11 |
-| Isha (Night) | 22:19:11 |
+| Isha (Night) | 22:19:10 |
 | Sharia Midnight | 23:27:49 |
 | Imum Coeli | 00:56:04 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°0'8.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°49'58.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°26'3.37" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|19°0'8.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|2°49'58.86" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°26'3.45" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°49'58.76" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°29'40.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|7°39'9.61" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|24°30'2.70" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|17°29'40.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|7°39'9.62" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|24°30'2.17" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°0'8.15" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|2°49'58.99" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|28°26'3.37" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|19°0'8.06" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|2°49'58.86" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|28°26'3.45" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|16°49'58.76" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|17°29'40.99" |Gemini|Dhira|Mars|
 |☿ Mercury|Direct|7°39'9.61" |Gemini|HanAh|Jupiter|

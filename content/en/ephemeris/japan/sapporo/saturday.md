@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:33:41 |
 | Medium Coeli | 11:33:41 |
 | Sunset | 19:12:28 |
-| Maghrib | 19:13:56 |
+| Maghrib | 19:13:55 |
 | Isha (Night) | 21:20:40 |
 | Sharia Midnight | 22:24:15 |
 | Imum Coeli | 23:33:47 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 11:33:41 |
 | Medium Coeli | 11:33:41 |
 | Sunset | 19:12:28 |
-| Maghrib | 19:13:56 |
+| Maghrib | 19:13:55 |
 | Isha (Night) | 21:31:23 |
 | Sharia Midnight | 22:24:15 |
 | Imum Coeli | 23:33:47 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 11:33:41 |
 | Sunset | 19:12:28 |
 | Maghrib | 19:13:56 |
-| Isha (Night) | 20:43:56 |
+| Isha (Night) | 20:43:55 |
 | Sharia Midnight | 22:21:25 |
 | Imum Coeli | 23:33:47 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°3'47.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|3°13'37.25" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°42'4.27" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|18°27'41.86" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|19°35'9.89" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|11°14'43.63" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°15'46.33" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|19°3'47.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|3°13'37.38" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°42'4.19" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|18°27'42.31" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|19°35'10.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|11°14'44.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°15'1.90" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|18°27'41.86" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|19°35'9.94" |Gemini|Dhira|Mars|
 |☿ Mercury|Direct|11°14'43.63" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|17°15'2.47" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|17°15'45.75" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

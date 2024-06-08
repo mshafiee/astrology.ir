@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°0'16.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|2°50'51.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°28'51.95" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°53'35.52" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°34'18.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|7°47'1.79" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|25°25'50.79" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|2°50'50.30" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°28'51.56" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°53'28.21" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|17°34'14.41" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|7°46'56.78" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|24°33'2.65" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°0'16.47" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|2°50'51.32" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|28°28'51.95" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|19°0'16.56" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|2°50'51.45" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|28°28'51.87" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|16°53'35.52" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°34'18.75" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|7°47'1.79" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|25°25'50.79" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|17°34'18.80" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|7°47'1.77" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|25°25'51.28" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:10:02 |
 | Sunrise | 04:59:43 |
-| Dhuhr (Noon) | 12:10:33 |
-| Medium Coeli | 12:10:33 |
+| Dhuhr (Noon) | 12:10:32 |
+| Medium Coeli | 12:10:32 |
 | Sunset | 19:21:31 |
 | Maghrib | 19:27:16 |
 | Isha (Night) | 20:57:16 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|3°17'25.67" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°54'18.46" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|18°43'27.33" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|19°55'24.06" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|11°49'53.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°3'30.02" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|19°55'23.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|11°49'52.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°55'58.09" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°54'18.46" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|18°43'27.33" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|19°55'23.56" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|11°49'53.02" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|21°3'30.02" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°49'52.48" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|20°55'58.09" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
