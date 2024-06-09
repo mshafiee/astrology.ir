@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°5'12.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|3°23'14.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°13'1.69" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|19°5'12.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|3°23'14.74" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°13'1.77" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|19°7'33.80" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|20°26'20.95" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|12°43'51.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°24'46.20" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|20°26'14.31" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|12°43'42.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°51'13.54" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mercury|Mercury|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°5'12.53" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|3°23'14.87" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|0°13'1.69" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|19°7'33.80" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|20°26'20.95" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|19°5'11.41" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|3°23'12.65" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|0°12'54.23" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|19°7'22.18" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|20°26'14.31" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|12°43'42.06" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|25°51'13.54" |Cancer|Jabhah|Moon|
 

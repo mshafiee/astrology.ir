@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:22:33 |
+| Fajr (Dawn) | 02:22:34 |
 | Sunrise | 04:24:12 |
 | Dhuhr (Noon) | 11:40:52 |
 | Medium Coeli | 11:40:52 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°7'46.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|3°41'35.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°12'5.93" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|19°7'46.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|3°41'35.21" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°12'6.00" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|20°23'39.72" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|22°4'8.59" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|15°35'48.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°50'47.73" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|22°4'8.54" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|15°35'48.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°56'8.11" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Mars|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Venus|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°7'46.76" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|3°41'35.34" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°12'5.93" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|19°7'46.66" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|3°41'35.21" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°12'6.00" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|20°23'39.72" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|22°4'8.59" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|15°35'48.78" |Gemini|HanAh|Mars|

@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 21:03:11 |
 | Maghrib | 21:29:23 |
 | Isha (Night) | 22:41:51 |
-| Sharia Midnight | 00:18:54 |
+| Sharia Midnight | 00:18:55 |
 | Imum Coeli | 01:25:57 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°2'23.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|3°4'18.54" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°12'7.19" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°49'10.56" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|18°45'41.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|9°49'9.94" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|8°34'9.89" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|3°4'18.74" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°12'9.08" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°49'10.35" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|18°45'41.14" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|9°49'12.08" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|8°14'17.94" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°2'23.15" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|3°4'18.29" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|29°12'3.54" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|17°49'9.27" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|18°45'40.81" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|9°49'9.95" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|8°34'10.13" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|3°4'18.67" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|29°12'7.11" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|17°49'10.56" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|18°45'41.37" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|9°49'11.72" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|8°26'20.69" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

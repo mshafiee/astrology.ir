@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:56:28 |
-| Sunrise | 06:06:12 |
+| Sunrise | 06:06:13 |
 | Dhuhr (Noon) | 12:24:58 |
 | Medium Coeli | 12:24:58 |
 | Sunset | 18:43:45 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:47:18 |
-| Sunrise | 06:06:12 |
+| Sunrise | 06:06:13 |
 | Dhuhr (Noon) | 12:24:58 |
 | Medium Coeli | 12:24:58 |
 | Sunset | 18:43:45 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:37:33|Night duration: 11:22:37|
+|Duration of the day: 12:37:32|Night duration: 11:22:37|
 |Every hour of day duration: 01:03:08|Every hour of night duration: 00:56:53|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:06:12|07:09:18|Acceptance of needs|
-|2|Moon|Servant|07:09:19|08:12:26|Unfortunate, no task is suitable|
-|3|Saturn|Servant|08:12:27|09:15:34|For overcoming diseases|
-|4|Jupiter|Servant|09:15:35|10:18:42|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:18:43|11:21:49|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:21:50|12:24:57|Outer and inner journey|
-|7|Venus|Servant|12:24:58|13:28:05|Attracting love and hearts and fortune|
+|1|Mercury|Ruler|06:06:13|07:09:19|Acceptance of needs|
+|2|Moon|Servant|07:09:20|08:12:27|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:12:28|09:15:35|For overcoming diseases|
+|4|Jupiter|Servant|09:15:36|10:18:42|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:18:43|11:21:50|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:21:51|12:24:58|Outer and inner journey|
+|7|Venus|Servant|12:24:59|13:28:05|Attracting love and hearts and fortune|
 |8|Mercury|Ruler|13:28:06|14:31:13|Being invisible to the people|
-|9|Moon|Servant|14:31:14|15:34:20|Separation, causing enmity|
-|10|Saturn|Servant|15:34:21|16:37:28|Dominating the great ones|
+|9|Moon|Servant|14:31:14|15:34:21|Separation, causing enmity|
+|10|Saturn|Servant|15:34:22|16:37:28|Dominating the great ones|
 |11|Jupiter|Servant|16:37:29|17:40:36|Creating financial and emotional attraction and dominance|
 |12|Mars|Servant|17:40:37|18:43:44|Creating evil and hatred|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°10'10.20" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|3°59'48.80" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°10'50.22" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|21°39'28.23" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|23°41'33.31" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|18°28'43.65" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|29°3'7.86" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|3°59'48.22" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°10'49.22" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|21°39'25.03" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|23°41'31.39" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|18°28'41.19" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|28°52'6.57" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
