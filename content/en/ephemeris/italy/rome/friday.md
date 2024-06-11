@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|23°35'11.75" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|26°10'23.51" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|22°54'47.04" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|22°47'21.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|22°47'19.21" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

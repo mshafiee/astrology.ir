@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 22:13:49 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:48:33 |
+| Imum Coeli | 00:48:34 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 22:20:08 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:48:33 |
+| Imum Coeli | 00:48:34 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°11'26.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|4°10'3.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°43'56.96" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°22'8.90" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|24°36'31.51" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|20°6'51.72" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|7°26'59.58" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|4°10'4.37" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°43'57.38" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°22'12.50" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|24°36'33.74" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|20°6'54.46" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|7°45'39.05" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Mars|Sun|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°11'26.53" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|4°10'4.24" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°43'57.46" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|22°22'12.49" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|24°36'33.69" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°6'54.43" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|7°45'39.72" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|19°11'26.63" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|4°10'4.37" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°43'57.38" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|22°22'12.50" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|24°36'33.74" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°6'54.46" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|7°45'39.05" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

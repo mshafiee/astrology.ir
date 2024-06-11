@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°7'6.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|3°36'43.48" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°56'25.22" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|20°3'27.60" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|21°38'10.20" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|14°49'57.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°38'56.48" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|19°7'6.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|3°36'41.22" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°56'17.95" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|20°3'16.58" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|21°38'3.88" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|14°49'48.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°26'40.39" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Mars|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°7'6.78" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|3°36'43.48" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|0°56'25.22" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|19°7'6.68" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|3°36'43.35" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|0°56'25.30" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|20°3'27.60" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|21°38'10.20" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|21°38'10.14" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|14°49'57.24" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|8°38'56.48" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|8°38'57.14" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
