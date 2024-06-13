@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°10'40.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|4°3'47.13" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°23'38.90" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|19°10'40.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|4°3'47.00" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°23'38.97" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°56'1.04" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|24°2'49.46" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|19°6'38.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°29'21.66" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°2'49.41" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|19°6'38.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°29'22.37" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°10'40.16" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|4°3'47.13" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°23'38.90" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|19°10'40.06" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|4°3'47.00" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°23'38.97" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|21°56'1.04" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|24°2'49.46" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|19°6'38.15" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°44'31.20" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|19°6'38.70" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°29'21.66" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}

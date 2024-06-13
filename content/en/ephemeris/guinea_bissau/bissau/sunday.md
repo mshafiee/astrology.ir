@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°16'34.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|19°16'33.94" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|4°56'38.86" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°14'30.98" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|25°37'11.59" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|28°47'18.03" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|27°35'25.94" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|17°38'59.60" |Virgo|Simak|Venus|
+|♂ Mars|Direct|5°14'31.13" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|25°37'4.57" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|28°47'13.56" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|27°35'20.30" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|17°16'33.08" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|4°56'38.86" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|5°14'30.98" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|25°37'11.59" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|28°47'18.03" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|27°35'25.94" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°38'59.60" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°47'13.56" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|27°35'20.30" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|17°16'32.23" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}

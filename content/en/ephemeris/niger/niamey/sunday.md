@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°16'29.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|4°55'56.05" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°12'12.16" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|25°34'11.20" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|28°43'28.98" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|27°28'38.34" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|17°31'7.50" |Virgo|Simak|Venus|
+|♄ Saturn|Direct|19°16'29.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|4°55'56.91" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°12'15.13" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|25°34'15.31" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|28°43'31.26" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|27°28'41.40" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|17°2'58.56" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Saturn|
-|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
+|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|5°12'15.13" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|25°34'15.31" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|28°43'31.26" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|27°28'38.32" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°31'6.66" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|27°28'41.40" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|17°2'58.56" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Saturn|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}

@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:47:18 |
-| Sunrise | 06:06:13 |
+| Sunrise | 06:06:12 |
 | Dhuhr (Noon) | 12:24:58 |
 | Medium Coeli | 12:24:58 |
 | Sunset | 18:43:45 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:24 |
-| Sunrise | 06:06:12 |
+| Sunrise | 06:06:13 |
 | Dhuhr (Noon) | 12:24:58 |
 | Medium Coeli | 12:24:58 |
 | Sunset | 18:43:45 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:45:00 |
-| Sunrise | 06:06:12 |
+| Sunrise | 06:06:13 |
 | Dhuhr (Noon) | 12:24:58 |
 | Medium Coeli | 12:24:58 |
 | Sunset | 18:43:45 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:37:32|Night duration: 11:22:37|
+|Duration of the day: 12:37:33|Night duration: 11:22:37|
 |Every hour duration: 01:48:13|Every hour duration: 01:37:31|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|06:06:13|07:54:25|
-|Mid-morning|Moon|Servant|07:54:26|09:42:38|
-|Late morning|Saturn|Servant|09:42:39|11:30:51|
-|Noon|Jupiter|Servant|11:30:52|13:19:04|
+|Early morning|Mercury|Ruler|06:06:12|07:54:24|
+|Mid-morning|Moon|Servant|07:54:25|09:42:37|
+|Late morning|Saturn|Servant|09:42:38|11:30:50|
+|Noon|Jupiter|Servant|11:30:51|13:19:04|
 |Early afternoon|Mars|Servant|13:19:05|15:07:17|
 |Mid-afternoon|Sun|Servant|15:07:18|16:55:30|
 |Late afternoon|Venus|Servant|16:55:31|18:43:44|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|3°59'48.80" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|2°10'50.22" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|21°39'28.23" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|23°41'33.31" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|18°28'43.65" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|29°3'7.86" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°41'32.47" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|18°28'42.53" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|29°1'50.18" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
