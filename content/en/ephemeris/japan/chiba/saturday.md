@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°15'55.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|4°50'12.60" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°53'42.39" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|25°10'5.84" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|28°12'36.09" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|26°33'32.74" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|12°41'2.16" |Virgo|Awwa|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|19°15'55.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|4°50'14.66" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°53'47.30" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|25°10'17.88" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|28°12'43.08" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|26°33'41.95" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|12°12'5.96" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Sun|Pisces|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°15'55.66" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|4°50'14.58" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|4°53'47.57" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|25°10'17.87" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|28°12'43.03" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|26°33'41.93" |Gemini|Dhira|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|19°15'55.66" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|4°50'14.71" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|4°53'47.50" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|25°10'17.88" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|28°12'43.08" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|26°33'41.95" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|12°12'5.96" |Libra|Ghafr|Saturn|
 
 

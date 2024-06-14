@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°16'49.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|4°59'15.49" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°22'56.57" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|25°48'9.30" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|29°1'28.61" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|28°0'43.74" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|20°56'35.12" |Virgo|Simak|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°16'49.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|4°59'16.68" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°23'2.18" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|25°48'14.90" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|29°1'31.48" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|28°0'47.71" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|19°55'19.83" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Mars|Mars|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Saturn|Venus|
-|☾ Moon|Jupiter|Saturn|Venus|Moon|
+|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°16'49.45" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°16'49.45" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|4°59'16.68" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|5°23'2.18" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|25°48'14.90" |Gemini|Dhira|Sun|
