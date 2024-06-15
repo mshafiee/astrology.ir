@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°18'52.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°21'41.91" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°35'45.42" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|27°22'40.26" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|1°3'5.48" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|1°36'31.37" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|9°57'30.52" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°21'41.78" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°35'44.99" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|27°22'39.61" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|1°3'5.12" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|1°36'30.90" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|10°2'17.90" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|5°21'41.91" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|6°35'45.42" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|27°22'40.26" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|1°3'6.85" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|1°36'33.17" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°50'28.54" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|1°3'5.48" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|1°36'31.37" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|9°57'30.52" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

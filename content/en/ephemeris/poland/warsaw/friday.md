@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:36:20 |
 | Sunset | 20:59:02 |
 | Maghrib | 21:30:22 |
-| Isha (Night) | 00:11:44 |
+| Isha (Night) | 00:11:43 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:36:27 |
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°13'24.39" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|4°26'46.79" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|3°37'54.45" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°13'24.29" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|4°26'46.66" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|3°37'54.52" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|23°31'58.97" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|26°6'16.71" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|22°47'25.54" |Gemini|Dhira|Sun|

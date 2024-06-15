@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'18.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°39'26.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°33'16.80" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|28°37'26.56" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|2°39'29.69" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|4°25'48.28" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|27°33'51.35" |Libra|Akleel|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°20'18.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°39'26.66" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°33'24.31" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|28°37'42.93" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|2°39'39.06" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|4°26'0.62" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|25°54'23.56" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mercury|Venus|Cancer|Sun|Mercury|
 |☿ Mercury|Moon|Mars|Cancer|Sun|Mercury|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Sun|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'18.45" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°39'26.78" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°33'24.24" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°37'42.92" |Gemini|Dhira|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|19°20'18.35" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°39'26.66" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°33'24.31" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°37'42.93" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|2°39'39.06" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|4°26'0.62" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|25°54'23.56" |Scorpio|Shaulah|Venus|

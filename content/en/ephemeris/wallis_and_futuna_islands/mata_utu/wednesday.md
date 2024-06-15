@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|01:52:43|02:55:58|Separation, causing enmity|
 |10|Mercury|Servant|02:55:59|03:59:14|Dominating the great ones|
 |11|Moon|Servant|03:59:15|05:02:30|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|05:02:31|06:05:47|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Saturn|Servant|05:02:31|06:05:47|Creating evil and hatred|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'38.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°43'50.47" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°47'41.75" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|28°56'19.84" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|3°3'37.17" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|5°7'46.17" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|0°1'54.77" |Scorpio|Akleel|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|19°20'38.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°43'50.35" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°47'41.81" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|28°56'19.85" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|3°3'37.13" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|5°7'46.16" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°1'55.22" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'38.28" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°43'47.98" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°47'38.12" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°56'5.28" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°3'28.34" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|5°7'34.53" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°10'34.56" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°20'38.18" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°43'50.35" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°47'41.81" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°56'19.85" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°3'37.13" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|5°7'46.16" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°1'55.22" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

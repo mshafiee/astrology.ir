@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 03:30:09 |
 | Dhuhr (Noon) | 12:49:12 |
 | Medium Coeli | 12:49:12 |
-| Sunset | 22:08:19 |
+| Sunset | 22:08:20 |
 | Maghrib | 22:11:17 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 03:30:09 |
 | Dhuhr (Noon) | 12:49:12 |
 | Medium Coeli | 12:49:12 |
-| Sunset | 22:08:19 |
+| Sunset | 22:08:20 |
 | Maghrib | 22:11:17 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 18:38:10|Night duration: 05:21:57|
+|Duration of the day: 18:38:11|Night duration: 05:21:56|
 |Every hour of day duration: 01:33:11|Every hour of night duration: 00:26:50|
 
  
@@ -222,26 +222,26 @@ Timetable of twelve day and night planetary hours
 |4|Jupiter|Servant|08:09:41|09:42:51|For all tasks, extremely auspicious|
 |5|Mars|Servant|09:42:52|11:16:02|Creating negative energy and disrupting peace|
 |6|Sun|Servant|11:16:03|12:49:13|Outer and inner journey|
-|7|Venus|Servant|12:49:14|14:22:23|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|14:22:24|15:55:34|Being invisible to the people|
-|9|Moon|Servant|15:55:35|17:28:45|Separation, causing enmity|
-|10|Saturn|Servant|17:28:46|19:01:56|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Jupiter|Servant|19:01:57|20:35:07|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Mars|Servant|20:35:08|22:08:18|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Venus|Servant|12:49:14|14:22:24|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|14:22:25|15:55:35|Being invisible to the people|
+|9|Moon|Servant|15:55:36|17:28:46|Separation, causing enmity|
+|10|Saturn|Servant|17:28:47|19:01:57|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Jupiter|Servant|19:01:58|20:35:08|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Mars|Servant|20:35:09|22:08:19|The moon is in Scorpio, Not suitable for doing anything.|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|22:08:19|22:35:07|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Venus|Servant|22:35:08|23:01:57|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Mercury|Servant|23:01:58|23:28:47|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Moon|Servant|23:28:48|23:55:37|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Saturn|Servant|23:55:38|00:22:26|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Jupiter|Servant|00:22:27|00:49:16|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mars|Servant|00:49:17|01:16:06|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Sun|Ruler|22:08:20|22:35:08|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Venus|Servant|22:35:09|23:01:58|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Mercury|Servant|23:01:59|23:28:48|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Moon|Servant|23:28:49|23:55:37|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Saturn|Servant|23:55:38|00:22:27|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Jupiter|Servant|00:22:28|00:49:17|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Mars|Servant|00:49:18|01:16:06|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|01:16:07|01:42:56|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Venus|Servant|01:42:57|02:09:45|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mercury|Servant|02:09:46|02:36:35|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Venus|Servant|01:42:57|02:09:46|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mercury|Servant|02:09:47|02:36:35|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Moon|Servant|02:36:36|03:03:25|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Saturn|Servant|03:03:26|03:30:15|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°19'55.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°34'28.35" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°17'15.71" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|19°19'55.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°34'28.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°17'15.64" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|28°16'38.94" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|2°12'35.81" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|3°38'44.43" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|21°47'56.99" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|2°12'35.86" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|3°38'44.45" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|21°47'56.52" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°19'55.18" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°34'28.35" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°17'15.71" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°19'55.29" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°34'28.47" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°17'15.64" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|28°16'38.94" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|2°12'35.81" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|3°38'44.43" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°47'56.99" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|2°12'35.86" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|3°38'44.45" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|21°47'56.52" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

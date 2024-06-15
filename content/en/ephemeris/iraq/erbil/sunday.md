@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:42:30 |
+| Fajr (Dawn) | 02:42:29 |
 | Sunrise | 04:46:14 |
 | Dhuhr (Noon) | 12:04:45 |
 | Medium Coeli | 12:04:45 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°16'17.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|4°53'52.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°5'32.52" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|25°25'32.04" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|28°32'19.26" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|27°8'42.71" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|15°19'55.83" |Virgo|Awwa|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|19°16'17.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|4°53'52.44" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°5'32.45" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|25°25'32.16" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|28°32'19.38" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|27°8'42.82" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|15°20'19.23" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°16'17.47" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|4°53'52.31" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|5°5'32.52" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°16'17.57" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|4°53'52.44" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|5°5'32.45" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|25°25'32.04" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|28°32'19.31" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|27°8'42.73" |Gemini|Dhira|Sun|

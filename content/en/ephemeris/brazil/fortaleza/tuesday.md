@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'14.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°38'30.90" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°30'22.94" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|19°20'14.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°38'30.78" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°30'23.01" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|28°33'45.72" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|2°34'33.87" |Gemini|HaqAh|Jupiter|
 |☿ Mercury|Direct|4°17'7.86" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|24°58'8.30" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°58'8.77" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'14.16" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°38'30.90" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°30'22.42" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°20'14.06" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°38'30.78" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°30'22.49" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|28°33'46.25" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|2°34'33.87" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|4°17'7.86" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|24°58'8.30" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|2°34'34.22" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|4°17'8.40" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|25°1'19.63" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Moon|Leo|Moon|Moon|
 |☿ Mercury|Moon|Sun|Leo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
