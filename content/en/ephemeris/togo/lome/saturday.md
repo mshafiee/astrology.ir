@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°15'7.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|19°15'7.27" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|4°42'27.27" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|4°28'34.25" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|24°37'37.52" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|27°30'39.08" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|25°18'28.08" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°55'18.17" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|27°30'39.54" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|25°18'28.87" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°28'16.29" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°15'7.27" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|4°42'26.98" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|4°28'32.05" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|24°37'36.38" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°30'39.08" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|25°18'28.08" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|5°55'18.17" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|19°15'7.27" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|4°42'27.27" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|4°28'26.74" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|24°37'25.07" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|27°30'32.59" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|25°18'19.45" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|6°22'56.74" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

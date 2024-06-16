@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 13:25:02 |
 | Medium Coeli | 13:25:02 |
 | Sunset | 22:21:42 |
-| Maghrib | 23:10:19 |
+| Maghrib | 23:10:18 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:25:09 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°19'55.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°34'27.61" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°17'12.73" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|19°19'55.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°34'27.48" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°17'12.80" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|28°16'35.43" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|2°12'30.95" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|3°38'35.72" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|21°47'6.39" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|2°12'30.91" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|3°38'35.71" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|21°44'16.43" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°19'55.22" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°34'27.61" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°17'12.73" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|19°19'55.12" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°34'27.48" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°17'12.80" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|28°16'35.43" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|2°12'30.95" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|3°38'39.10" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°47'6.39" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°38'35.72" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|21°44'15.97" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

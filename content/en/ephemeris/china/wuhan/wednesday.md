@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Saturn|Servant|22:45:45|23:35:05|Creating negative energy and disrupting peace|
 |6|Jupiter|Servant|23:35:06|00:24:26|Outer and inner journey|
 |7|Mars|Servant|00:24:27|01:13:47|Attracting love and hearts and fortune|
-|8|Sun|Ruler|01:13:48|02:03:08|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Sun|Ruler|01:13:48|02:03:08|Being invisible to the people|
 |9|Venus|Servant|02:03:09|02:52:29|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mercury|Servant|02:52:30|03:41:50|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Moon|Servant|03:41:51|04:31:11|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'46.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|19°20'46.35" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|5°45'39.75" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°53'37.74" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|29°4'3.00" |Taurus|HaqAh|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'46.35" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°20'46.35" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|5°45'39.75" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|7°53'37.74" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°4'2.69" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°13'34.20" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|5°25'4.44" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°52'43.00" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|29°4'3.00" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°13'34.67" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|5°25'5.05" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°48'10.12" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

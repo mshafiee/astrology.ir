@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Venus|Servant|21:34:21|22:14:15|Unfortunate, no task is suitable|
 |3|Mercury|Servant|22:14:16|22:54:11|For overcoming diseases|
 |4|Moon|Servant|22:54:12|23:34:06|For all tasks, extremely auspicious|
-|5|Saturn|Servant|23:34:07|00:14:02|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Saturn|Servant|23:34:07|00:14:02|Creating negative energy and disrupting peace|
 |6|Jupiter|Servant|00:14:03|00:53:57|Outer and inner journey|
 |7|Mars|Servant|00:53:58|01:33:52|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|01:33:53|02:13:48|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'45.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°45'24.14" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°52'47.40" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|29°2'56.33" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|3°12'5.23" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|5°22'32.35" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|2°29'19.25" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|19°20'45.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°45'22.67" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°52'44.82" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°2'47.24" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|3°12'4.67" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|5°22'31.66" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|2°37'41.33" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mercury|Venus|Cancer|Sun|Mercury|
 |☿ Mercury|Moon|Mars|Leo|Sun|Mercury|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'45.21" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°45'22.75" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°52'45.55" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°2'48.22" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°12'5.23" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|5°22'32.35" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°29'19.25" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|19°20'45.21" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°45'24.14" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°52'47.40" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°2'56.33" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°12'10.12" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|5°22'38.84" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°50'45.95" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
