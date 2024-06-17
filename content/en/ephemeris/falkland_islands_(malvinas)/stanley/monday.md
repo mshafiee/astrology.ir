@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°19'18.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°19'18.20" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|5°26'50.94" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°52'22.84" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|27°44'19.87" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|1°31'1.87" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|2°25'46.69" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|15°35'25.62" |Libra|Jubana|Saturn|
+|♂ Mars|Direct|6°52'28.26" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|27°44'24.58" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|1°31'4.25" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|2°25'49.75" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|14°36'59.73" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°19'18.20" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°19'18.20" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|5°26'50.94" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|6°52'28.26" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|27°44'19.87" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|1°31'1.87" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|2°25'46.69" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|15°35'25.62" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|6°52'23.64" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|27°44'20.36" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|1°31'2.06" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|2°25'46.95" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|15°26'32.64" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

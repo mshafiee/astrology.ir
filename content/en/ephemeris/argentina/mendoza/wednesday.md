@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'20.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'20.57" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|5°53'41.70" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°19'46.24" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|29°38'7.57" |Taurus|HaqAh|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'20.57" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°53'41.70" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|8°19'46.24" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°38'7.57" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°57'27.11" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|6°41'3.15" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°34'11.46" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'20.57" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°53'39.42" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°19'38.90" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°37'56.52" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°57'21.03" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|6°40'55.34" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°58'13.60" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Mars|Jupiter|Moon|Saturn|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Sun|Leo|Moon|Moon|
 |☿ Mercury|Saturn|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'58.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°3'12.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°50'45.64" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°18'34.11" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°49'30.80" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|8°10'31.63" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|18°40'43.37" |Scorpio|Qalb|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'58.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°3'9.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°50'39.67" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°18'17.43" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°49'21.02" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|8°10'18.67" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|20°28'16.24" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'58.52" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'58.52" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°3'12.40" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|8°50'45.64" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|0°18'34.11" |Cancer|Nathrah|Venus|

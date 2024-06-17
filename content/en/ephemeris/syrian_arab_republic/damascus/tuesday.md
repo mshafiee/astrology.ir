@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:39:30 |
+| Fajr (Dawn) | 03:39:31 |
 | Sunrise | 05:24:53 |
 | Dhuhr (Noon) | 12:36:04 |
 | Medium Coeli | 12:36:04 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:39:30 |
+| Fajr (Dawn) | 03:39:31 |
 | Sunrise | 05:24:53 |
 | Dhuhr (Noon) | 12:36:04 |
 | Medium Coeli | 12:36:04 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°18'50.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°18'50.95" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|5°21'27.03" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°34'56.66" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|27°21'34.57" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|1°1'42.20" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|1°34'4.41" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|10°28'33.93" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|27°21'37.99" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|1°1'43.74" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|1°34'6.49" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|10°28'34.09" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°18'50.95" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°21'27.03" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|6°34'56.66" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|27°21'37.99" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|1°1'43.74" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|1°34'6.49" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°34'10.14" |Scorpio|Qalb|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|19°18'50.95" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°21'26.06" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|6°34'51.88" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|27°21'34.57" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|1°1'42.15" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|1°34'4.40" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°28'34.09" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Aries|Moon|Jupiter|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Venus|Venus|Pisces|Moon|Mars|
 
 
 {{< /tab >}}
