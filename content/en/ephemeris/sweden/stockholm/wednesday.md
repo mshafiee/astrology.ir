@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 03:30:09 |
 | Dhuhr (Noon) | 12:49:12 |
 | Medium Coeli | 12:49:12 |
-| Sunset | 22:08:19 |
+| Sunset | 22:08:20 |
 | Maghrib | 23:10:19 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 03:30:09 |
 | Dhuhr (Noon) | 12:49:12 |
 | Medium Coeli | 12:49:12 |
-| Sunset | 22:08:19 |
+| Sunset | 22:08:20 |
 | Maghrib | 22:11:17 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 03:30:09 |
 | Dhuhr (Noon) | 12:49:12 |
 | Medium Coeli | 12:49:12 |
-| Sunset | 22:08:19 |
+| Sunset | 22:08:20 |
 | Maghrib | 22:11:17 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 03:30:09 |
 | Dhuhr (Noon) | 12:49:12 |
 | Medium Coeli | 12:49:12 |
-| Sunset | 22:08:19 |
+| Sunset | 22:08:20 |
 | Maghrib | 22:11:17 |
 | Isha (Night) | 23:41:17 |
 | Sharia Midnight | Circumpolar Angle |
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 18:38:10|Night duration: 05:21:57|
-|Every hour duration: 02:39:44|Every hour duration: 00:46:00|
+|Duration of the day: 18:38:11|Night duration: 05:21:56|
+|Every hour duration: 02:39:44|Every hour duration: 00:45:59|
 
  
  
@@ -266,21 +266,21 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Mercury|Ruler|03:30:09|06:09:52|
 |Mid-morning|Moon|Servant|06:09:53|08:49:36|
-|Late morning|Saturn|Servant|08:49:37|11:29:20|
-|Noon|Jupiter|Servant|11:29:21|14:09:05|
-|Early afternoon|Mars|Servant|14:09:06|16:48:49|
-|Mid-afternoon|Sun|Servant|16:48:50|19:28:33|
-|Late afternoon|Venus|Servant|19:28:34|22:08:18|
+|Late morning|Saturn|Servant|08:49:37|11:29:21|
+|Noon|Jupiter|Servant|11:29:22|14:09:05|
+|Early afternoon|Mars|Servant|14:09:06|16:48:50|
+|Mid-afternoon|Sun|Servant|16:48:51|19:28:34|
+|Late afternoon|Venus|Servant|19:28:35|22:08:19|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|22:08:19|22:54:17|
-|Late evening|Venus|Servant|22:54:18|23:40:17|
-|Midnight|Mercury|Servant|23:40:18|00:26:16|
-|Late at night|Moon|Servant|00:26:17|01:12:16|
-|Rooster song|Saturn|Servant|01:12:17|01:58:15|
-|False Dawn|Jupiter|Servant|01:58:16|02:44:15|
+|Evening|Sun|Ruler|22:08:20|22:54:18|
+|Late evening|Venus|Servant|22:54:19|23:40:17|
+|Midnight|Mercury|Servant|23:40:18|00:26:17|
+|Late at night|Moon|Servant|00:26:18|01:12:16|
+|Rooster song|Saturn|Servant|01:12:17|01:58:16|
+|False Dawn|Jupiter|Servant|01:58:17|02:44:15|
 |Dawn|Mars|Servant|02:44:16|03:30:15|
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°19'55.18" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°34'28.35" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°17'15.71" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°19'55.29" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°34'28.47" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°17'15.64" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|28°16'38.94" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|2°12'35.81" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|3°38'44.43" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°8'9.27" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|2°12'35.86" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|3°38'44.45" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|21°47'56.52" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Moon|Sun|Leo|Moon|Moon|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}

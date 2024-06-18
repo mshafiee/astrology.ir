@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'51.07" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°17'48.54" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°38'24.86" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°20'48.44" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°9'40.38" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°26'46.38" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|3°19'55.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'51.17" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°17'48.66" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°38'24.79" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°20'44.08" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°9'38.33" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°26'43.97" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|3°48'35.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BJL, Bandzhul, Bandzul, Bandzula, Bandzulis, Bandżul, Bandžula, Bandžulis, Banjoul, Banjul, Banjulo, Banyul, Banzhul, Banĵulo, Bathurst, Bathurstopolis, Mpanzoul, bajula, ban cul, ban zhu, ban zhu er, banjul, banjula, banjuli, banjuru, banjwl, bngwl, pancul, Μπανζούλ, Банджул, Банжул, Банџул, Банҷул, Բանջուլ, באנזשול, בנגול, بانجول, बंजुल, बाञ्जुल, ਬੰਜੁਲ, பஞ்சுல், บันจูล, བཱན་ཇཱུ་ལ།, ბანჯული, ባንጁል, バンジュール, 班珠尔, 班竹, 반줄

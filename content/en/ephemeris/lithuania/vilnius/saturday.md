@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'41.63" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°15'0.73" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°29'15.10" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°8'52.62" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°54'20.89" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°0'53.27" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|0°51'7.66" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|9°29'17.47" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°8'50.88" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°54'19.39" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°0'50.01" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°6'40.50" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'41.63" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°15'0.73" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°29'17.47" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°8'50.88" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°54'19.39" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°0'51.00" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|1°0'18.23" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|9°29'17.81" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°8'49.87" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°54'18.69" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°0'50.01" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°6'40.50" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: IVilnyusi, VNO, Vil'njus, Vil'no, Vil'nyus, Viln', Vilna, Vilnia, Vilnias, Vilniaus miestas, Vilnious, Vilnis, Vilnius, Vilnjus, Vilnjûs, Vilnues, Vilnus, Vilnyus, Vilníus, Vilnüs, Viļņa, Vílnius, Wilna, Wilnius, Wilno, Wilnus, Wilñus, bhilani'usa, bilnyuseu, fylnyws, vhilniyasa, vilniusi, vilniyas, vu~irinyusu, vylnyws, wei er niu si, wi lni xus, wlnys, wylnh, wylnyws, Βίλνα, Βίλνιους, Βιλνιους, Вилниус, Вилнус, Вилнюс, Вилн҄ь, Вильнюс, Вилњус, Виљнус, Вільнюс, Վիլնյուս, ווילנע, וילנה, فيلنيوس, ولنیس, ویلنیوس, ڤیلنیوس, व्हिल्नियस, ভিলনিউস, வில்னியஸ், วิลนีอุส, ལྦེ་ནི་སུ་ནི།, ვილნიუსი, ቪልኒውስ, ᕕᓪᓂᐅᔅ/vilnius, ヴィリニュス, 维尔纽斯, 빌뉴스

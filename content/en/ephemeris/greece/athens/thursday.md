@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:48:35|Night duration: 09:11:37|
+|Duration of the day: 14:48:36|Night duration: 09:11:37|
 |Every hour of day duration: 01:14:03|Every hour of night duration: 00:45:58|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:02:29|07:16:30|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Jupiter|Ruler|06:02:28|07:16:30|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|07:16:31|08:30:33|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|08:30:34|09:44:36|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|09:44:37|10:58:39|The moon is in Scorpio, Not suitable for doing anything.|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°17'37.74" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|3°31'4.06" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|5°55'25.91" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°0'16.80" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°40'23.64" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

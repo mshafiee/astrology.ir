@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'44.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°15'53.57" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°32'11.25" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°12'32.28" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°59'6.27" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°8'56.63" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|2°13'57.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'44.62" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°15'53.69" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°32'9.67" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°12'36.46" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°59'9.18" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°9'0.81" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|2°13'57.14" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

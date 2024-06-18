@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'40.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'40.36" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°14'38.87" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°28'6.28" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°7'17.34" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°52'19.63" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|9°57'28.53" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|0°45'9.50" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|1°7'18.93" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°52'21.06" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|9°57'30.73" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°37'8.99" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°28'6.28" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|1°7'17.34" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|5°52'19.63" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|9°57'28.52" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°45'9.99" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|9°57'28.53" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°45'9.50" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Castrum Danorum, Kallinn, Kolyvan, Lindanaes, Lindanäs, Raeaeveli, Reval, Revel, Revel', Rääveli, TLL, Taillinn, Talin, Talinas, Talini, Talino, Talins, Tallidn, Tallin, Tallin osh, Tallina, Tallinn, Tallinna, Talín, Tàllin, ta lin, talin, talina, tallin, tallina, tallyn, talyn, tarin, thallin n, Ταλίν, Ταλιν, Ταλλίν, Талин, Таллин, Таллин ош, Таллинн, Таллінн, Талін, Տալլին, טאלין, تاللىن, تالين, تالین, تاڵین, ٹالن, तालिन, ताल्लिन, তাল্লিন, ਤਾਲਿਨ, தாலின், ടാലിൻ, ทาลลินน์, ཏཱལ་་ལིན།, ტალინი, ታሊን, タリン, 塔林, 탈린

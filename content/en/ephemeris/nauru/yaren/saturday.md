@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|6°24'36.77" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°0'37.94" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|1°49'51.71" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°47'0.65" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°29'34.88" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°11'57.59" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°47'5.59" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°29'41.69" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°15'54.86" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|10°0'37.94" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°49'51.71" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|6°47'5.59" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°29'41.69" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°15'54.86" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|11°29'34.88" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°11'57.59" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

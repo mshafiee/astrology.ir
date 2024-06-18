@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'0.96" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°3'50.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°52'43.93" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°20'59.43" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°52'49.60" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|8°16'15.60" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|21°5'59.47" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|8°52'49.74" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°21'16.08" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°52'59.40" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|8°16'28.57" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|19°18'18.93" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'0.96" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°3'50.45" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|8°52'43.93" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|0°20'59.43" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|4°52'49.60" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|8°52'49.74" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|0°21'16.08" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|4°52'49.64" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|8°16'15.60" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|21°5'59.08" |Sagittarius|Baldah|Saturn|
 

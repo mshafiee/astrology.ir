@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|28°15'20.01" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|2°10'51.33" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|3°35'40.30" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°11'30.09" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|21°8'36.75" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

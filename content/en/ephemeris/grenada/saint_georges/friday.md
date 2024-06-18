@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'56.88" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°19'31.07" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°43'53.75" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°27'49.27" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°18'53.82" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°42'22.82" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|6°54'8.69" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Direct|9°43'59.24" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°28'5.64" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°19'3.50" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°42'35.73" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|5°3'52.43" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Fort Royal, Georgetown, Grenada City, Lewis, Port Louis, Port Royal, Saint George, Saint George's, Saint George.s, Saint-Georges, Sent Dzordzas, Sent Džordžas, Sent Tzortzes, Sent-Dzhorzhes, St Georges, St. George's, seinteujojiseu, sentojojizu, snt g'wrg', Σεντ Τζόρτζες, Сент-Джоржес, סנט ג'ורג', セントジョージズ, 세인트조지스

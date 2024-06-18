@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:15:18|Night duration: 09:44:56|
+|Duration of the day: 14:15:18|Night duration: 09:44:55|
 |Every hour of day duration: 01:11:17|Every hour of night duration: 00:48:45|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|19:12:09|20:00:52|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|20:00:53|20:49:37|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Venus|Servant|20:49:38|21:38:22|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mercury|Servant|21:38:23|22:27:06|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Moon|Servant|22:27:07|23:15:51|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Saturn|Servant|23:15:52|00:04:36|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Jupiter|Servant|00:04:37|00:53:20|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Mars|Ruler|00:53:21|01:42:05|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Sun|Servant|01:42:06|02:30:50|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Venus|Servant|02:30:51|03:19:34|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Mercury|Servant|03:19:35|04:08:19|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|04:08:20|04:57:04|Suitable for asking for a need|
+|3|Venus|Servant|20:49:38|21:38:21|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Mercury|Servant|21:38:22|22:27:06|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Moon|Servant|22:27:07|23:15:50|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Saturn|Servant|23:15:51|00:04:35|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Jupiter|Servant|00:04:36|00:53:20|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Mars|Ruler|00:53:21|01:42:04|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Sun|Servant|01:42:05|02:30:49|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Venus|Servant|02:30:50|03:19:33|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Mercury|Servant|03:19:34|04:08:18|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|04:08:19|04:57:03|Suitable for asking for a need|
 
  
  
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|19°21'52.83" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°1'43.66" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°45'56.83" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°12'16.32" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°41'25.40" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|7°56'40.81" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|17°24'9.75" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|0°12'16.37" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°41'25.47" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|7°56'40.86" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|17°23'46.68" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°21'52.73" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°1'43.54" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|8°45'56.90" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|0°12'16.38" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|4°41'25.44" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|7°56'40.86" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|17°23'47.04" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'52.83" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°1'43.66" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°45'56.83" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|0°12'16.37" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|4°41'25.47" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|7°56'40.72" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|17°25'53.72" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

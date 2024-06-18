@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:42:17 |
+| Fajr (Dawn) | 02:42:16 |
 | Sunrise | 05:03:55 |
 | Dhuhr (Noon) | 12:58:55 |
 | Medium Coeli | 12:58:55 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|19°21'53.07" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°1'47.29" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°46'9.04" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°12'31.41" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°41'46.07" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|7°57'16.64" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|17°39'12.25" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|0°12'31.40" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°41'46.10" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|7°57'16.65" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|17°39'57.65" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°21'52.96" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°1'47.17" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|8°46'9.11" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|0°12'31.41" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|4°41'46.07" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|7°57'16.64" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|17°39'12.25" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'53.07" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°1'47.27" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°46'8.82" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|0°12'31.42" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|4°41'46.15" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|7°57'16.72" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|17°39'57.65" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

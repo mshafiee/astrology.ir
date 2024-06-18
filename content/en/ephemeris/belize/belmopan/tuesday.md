@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°20'21.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°40'2.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°35'21.47" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|28°40'15.33" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|2°42'55.52" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|4°31'43.47" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|26°29'48.34" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|5°40'1.36" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°35'15.24" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|28°40'8.67" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|2°42'52.17" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|4°31'39.12" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|27°36'13.89" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mercury|Venus|Cancer|Sun|Mercury|
 |☿ Mercury|Moon|Mars|Cancer|Sun|Mercury|
-|☾ Moon|Sun|Venus|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'21.10" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°40'2.66" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°35'21.47" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°20'21.20" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°40'2.78" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°35'21.40" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|28°40'15.33" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|2°42'55.52" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|4°31'43.47" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|2°42'55.56" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|4°31'43.48" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|26°29'47.87" |Scorpio|Shaulah|Venus|
 
 

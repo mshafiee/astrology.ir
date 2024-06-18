@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|6°25'2.55" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°2'2.70" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°51'41.61" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°49'28.22" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°33'41.25" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°58'6.73" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|6°49'28.26" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°33'41.26" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|10°58'6.16" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: NGO, Nagoia, Nagoja, Nagojo, Nagoya, Nagoya City, Nagoya-shi, ming gu wu, ming gu wu shi, na ngoa ya, naghwya, nagoya si, nagoyashi, nagwya  aychy, Нагоя, ناغويا, ناگویا، آیچی, นะโงะยะ, なごやし, 名古屋, 名古屋市, 나고야 시

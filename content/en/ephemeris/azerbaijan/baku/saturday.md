@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'40.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°14'43.75" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°28'17.51" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°7'26.01" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°52'37.52" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|9°58'0.83" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|1°54'24.26" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°14'43.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°28'21.20" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°7'36.00" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°52'43.35" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|9°58'8.57" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°47'4.77" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'40.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°14'41.65" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°28'17.51" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°7'26.01" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°52'37.52" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|9°58'0.83" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°54'24.26" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|6°14'43.31" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°28'21.20" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°7'36.00" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°52'43.35" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|9°58'8.57" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°47'4.77" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠

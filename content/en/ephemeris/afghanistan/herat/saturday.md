@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'39.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°14'25.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°27'25.25" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°6'20.63" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°51'7.70" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|9°55'27.08" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|0°43'56.02" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°14'25.90" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°27'25.22" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°6'20.89" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°51'7.87" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|9°55'27.32" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°42'13.96" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'39.66" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°14'25.87" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°27'25.25" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°6'20.63" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°51'7.70" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|9°55'27.08" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°43'56.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|6°14'26.72" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°27'25.85" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°6'26.51" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°51'11.38" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|9°55'32.11" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°5'51.24" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特
