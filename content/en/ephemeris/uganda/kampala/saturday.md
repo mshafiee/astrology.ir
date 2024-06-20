@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'45.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°16'11.43" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°33'7.19" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°13'53.41" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°0'47.97" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°11'47.84" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°0'24.90" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°16'12.14" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°33'9.49" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°13'56.50" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°0'49.65" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°11'49.93" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°7'25.18" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라

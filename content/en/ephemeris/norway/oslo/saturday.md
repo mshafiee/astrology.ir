@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'42.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°15'8.12" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°29'40.44" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°9'23.54" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°54'58.65" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°1'56.54" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|0°40'8.63" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°15'7.22" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°29'38.87" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°9'18.28" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°54'55.47" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°1'52.31" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°14'38.55" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Asloa, Christiania, Kristiania, OSL, Ohoro, Osla, Oslas, Oslo, Oslo osh, Oslu, Osló, ajalo, ao si lu, asalo, aslw, awslw, osalo, oseullo, oslea, oslo, osuro, xxslo, ywslw, Òslo, Ósló, Ōhoro, Όσλο, Осла, Осло, Осло ош, Օսլո, אוסלו, أوسلو, ئوسلو, ئۆسلۆ, اسلو, اوسلو, ܐܘܣܠܘ, ओस्लो, অজলো, ওসলো, ਓਸਲੋ, ଅସଲୋ, ஒஸ்லோ, ഓസ്ലൊ, ออสโล, ཨོ་སི་ལོ།, အော့စလိုမြို့, ოსლო, ኦስሎ, オスロ, 奥斯陆, 오슬로

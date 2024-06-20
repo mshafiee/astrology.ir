@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°23'23.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°27'50.70" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°11'12.35" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|2°3'40.75" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°4'54.73" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°59'30.42" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|13°48'34.67" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|6°27'50.18" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°11'12.18" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|2°3'37.05" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°4'52.38" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°59'27.14" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|14°16'16.98" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°23'23.36" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°27'49.89" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°11'11.74" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°3'35.15" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|7°4'51.23" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°59'25.57" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|14°29'37.57" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|6°27'50.18" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°11'12.18" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°3'37.05" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|7°4'52.38" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°59'27.14" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|14°16'16.98" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

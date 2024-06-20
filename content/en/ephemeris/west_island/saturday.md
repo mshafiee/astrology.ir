@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°23'22.01" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°27'24.50" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°9'39.24" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°1'34.68" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|7°2'21.42" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°55'16.89" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|14°39'58.83" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Direct|10°9'40.98" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°1'44.14" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|7°2'27.19" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°55'24.81" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|13°32'59.37" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬

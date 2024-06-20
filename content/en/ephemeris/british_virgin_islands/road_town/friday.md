@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'56.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°19'30.64" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°43'57.93" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°28'3.78" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°19'1.31" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°42'19.58" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|6°55'45.36" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'56.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°19'30.53" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°43'57.99" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°28'3.79" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°19'1.28" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°42'32.12" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|5°5'30.74" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'56.86" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°19'30.64" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°43'50.85" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°27'47.25" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°18'51.79" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°42'19.58" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|5°5'30.20" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'56.75" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°19'30.53" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°43'57.99" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°28'3.79" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°19'1.28" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°42'32.12" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|5°5'30.74" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

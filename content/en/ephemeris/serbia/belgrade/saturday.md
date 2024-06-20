@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'43.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°15'41.08" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°31'27.81" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°11'44.11" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°57'59.27" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°7'1.90" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°9'28.29" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°15'40.51" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°31'27.02" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°11'40.99" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°57'57.33" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°6'59.33" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°29'24.74" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드

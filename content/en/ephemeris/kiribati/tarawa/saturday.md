@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°23'12.53" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°24'21.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°59'47.86" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°48'46.21" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°45'41.23" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°27'20.32" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|10°0'7.75" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Direct|9°59'47.62" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°48'42.65" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°45'38.95" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°27'17.18" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°25'20.88" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°48'46.21" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|6°45'41.23" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|11°27'20.32" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°0'7.75" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|10°25'20.88" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와

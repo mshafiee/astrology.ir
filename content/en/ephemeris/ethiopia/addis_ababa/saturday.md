@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'44.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°15'49.96" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°31'57.15" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°12'21.89" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|6°15'48.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°31'54.77" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°12'17.59" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|5°58'47.89" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|10°8'24.13" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|1°18'20.20" |Sagittarius|Shaulah|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

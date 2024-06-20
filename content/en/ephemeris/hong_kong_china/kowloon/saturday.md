@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°23'18.24" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°26'10.69" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°5'42.58" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|1°56'23.59" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°55'37.47" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°44'0.74" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|13°3'59.83" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Direct|10°5'45.15" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|1°56'33.19" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°55'43.27" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°44'8.55" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|11°57'59.56" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|19°23'18.24" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°26'10.69" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°5'45.15" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°56'23.59" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°55'37.47" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°44'0.74" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|13°3'59.83" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|1°56'33.19" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°55'43.27" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°44'8.55" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°57'59.56" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

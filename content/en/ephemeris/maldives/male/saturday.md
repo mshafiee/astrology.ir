@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'40.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°14'35.55" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°27'57.68" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°7'1.06" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°51'59.81" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|9°56'55.29" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|0°55'9.96" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°14'36.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°27'57.76" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°7'9.10" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°52'4.96" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|9°57'2.39" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°3'30.67" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'40.22" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°14'35.55" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°27'57.68" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°7'1.06" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°51'59.81" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|9°56'55.29" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°55'9.96" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|6°14'36.64" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°27'57.76" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°7'9.10" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°52'4.96" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|9°57'2.39" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°3'30.67" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

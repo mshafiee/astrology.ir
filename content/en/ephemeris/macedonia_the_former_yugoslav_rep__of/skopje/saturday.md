@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'44.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°15'44.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°31'39.39" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°11'57.35" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°58'18.14" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°7'34.43" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°30'37.63" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°15'43.86" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°31'35.69" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°11'56.28" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°58'18.03" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°7'34.60" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°39'45.12" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Escopia, Escópia, SKP, Scopia, Scupi, Shkup, Shkupi, Skop'e, Skope, Skopeia, Skopia, Skopie, Skopiye, Skopje, Skopjo, Skopjė, Skople, Skoplie, Skoplje, Skopye, Szkopje, UEskuep, Uskub, Usküb, askwbyt, askwpyh, s ko peiy, sakopi'e, seukope, si ke pu li, skopje, skopye, skwbyh, sqwpyh, sukopie, Üsküp, Σκόπια, Скоп'е, Скоп'є, Скопе, Скопие, Скопье, Скопје, Скопље, Съкопиѥ, Սկոպյե, סקאפיע, סקופיה, إسكوبية, اسکوپیه, اسکوپیہ, سكوبيه, سكوپليې, سکوپ جے, स्कोप्ये, ਸਕੋਪੀਏ, ஸ்கோப்ஜே, สโกเปีย, སི་ཀོཔ་ཇི།, სკოპიე, ስኮፕዬ, スコピエ, 斯科普里, 스코페

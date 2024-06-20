@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'43.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°15'24.96" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°30'34.05" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°10'35.40" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°56'34.94" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°4'40.58" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°30'56.92" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°15'25.90" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°30'39.02" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°10'38.96" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°56'36.47" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°4'42.25" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°5'5.46" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°10'38.96" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|5°56'36.47" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|10°4'42.25" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|1°30'56.92" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|1°5'5.46" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Al-Sham, Al-Shām, An Damaisc, Cham, DAM, Damas, Damasc, Damasch, Damasco, Damascu, Damascus, Damasek, Damashq, Damasiko, Damask, Damask, Damaska, Damaskas, Damasko, Damaskos, Damaskosy, Damasku, Damaskus, Damaszek, Damaszkusz, Damašek, Dameski, Dammeseq, Damsyik, Dimaejk, Dimaesq, Dimashk, Dimashk al-Sham, Dimashk al-Shām, Dimashku, Dimashq, Dimeshki esh Sham, Dimishiq, Dimishku, Dimishq, Dimäjk, Dimäşq, Domas, Domás, Dàmáskù, Dəməşq, Esh Sham, Esh Shām, Kamakeko, Ndamako, Ndamáko, Sam, d mshq, da ma shi ge, damasaka, damasakasa, damaseukuseu, damaskas, damaskasa, damasukasu, dameska, damiska, dimisqu, dmshq, dmsq, drmswq, timisku, Şam, Δαμασκός, Дамаск, Дамаскус, Дамаскъ, Димашкъ, Димишкъ, Димишқ, Դամասկոս, דמשק, د مشق, دمشق, دیمەشق, دەمەشىق, ܕܪܡܣܘܩ, ދިމިޝްޤު, दमास्कस, दमिश्क, দামেস্ক, ਦਮਸ਼ਕ, ଡାମାସକସ, திமிஷ்கு, ಡಮಾಸ್ಕಸ್, ദമാസ്കസ്, ดามัสกัส, དྷ་མ་སི་ཁོ་སི།, ဒမားစကပ်မြို့, დამასკი, ደማስቆ, ダマスカス, 大馬士革, 大马士革, 다마스쿠스, 𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko

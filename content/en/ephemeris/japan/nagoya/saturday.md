@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°23'14.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°25'2.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°2'2.04" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|1°51'41.08" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°49'28.26" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°33'41.26" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|10°58'6.16" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|6°25'2.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°2'2.70" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|1°51'41.61" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°49'28.50" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°33'41.53" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°55'28.16" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|6°25'2.55" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°2'2.70" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°51'41.61" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°49'28.26" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°33'41.26" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°58'6.16" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|6°49'28.50" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°33'41.53" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|10°55'28.16" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: NGO, Nagoia, Nagoja, Nagojo, Nagoya, Nagoya City, Nagoya-shi, ming gu wu, ming gu wu shi, na ngoa ya, naghwya, nagoya si, nagoyashi, nagwya  aychy, Нагоя, ناغويا, ناگویا، آیچی, นะโงะยะ, なごやし, 名古屋, 名古屋市, 나고야 시

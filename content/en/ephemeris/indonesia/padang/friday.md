@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:15:24 |
-| Sunrise | 06:18:13 |
+| Sunrise | 06:18:14 |
 | Dhuhr (Noon) | 12:20:26 |
 | Medium Coeli | 12:20:26 |
 | Sunset | 18:22:39 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:00:02 |
-| Sunrise | 06:18:13 |
+| Sunrise | 06:18:14 |
 | Dhuhr (Noon) | 12:20:26 |
 | Medium Coeli | 12:20:26 |
 | Sunset | 18:22:39 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:04:26|Night duration: 11:55:47|
+|Duration of the day: 12:04:25|Night duration: 11:55:47|
 |Every hour of day duration: 01:00:22|Every hour of night duration: 00:59:39|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:18:13|07:18:34|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mercury|Servant|07:18:35|08:18:56|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Moon|Servant|08:18:57|09:19:18|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Saturn|Servant|09:19:19|10:19:40|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Jupiter|Servant|10:19:41|11:20:02|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mars|Servant|11:20:03|12:20:25|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Venus|Ruler|06:18:14|07:18:35|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mercury|Servant|07:18:36|08:18:57|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Moon|Servant|08:18:58|09:19:19|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Saturn|Servant|09:19:20|10:19:41|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Jupiter|Servant|10:19:42|11:20:03|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mars|Servant|11:20:04|12:20:25|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Sun|Servant|12:20:26|13:20:47|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Venus|Ruler|13:20:48|14:21:09|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mercury|Servant|14:21:10|15:21:31|The moon is in Scorpio, Not suitable for doing anything.|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:04:26|Night duration: 11:55:47|
+|Duration of the day: 12:04:25|Night duration: 11:55:47|
 |Every hour duration: 01:43:29|Every hour duration: 01:42:15|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|06:18:13|08:01:41|
-|Mid-morning|Mercury|Servant|08:01:42|09:45:10|
-|Late morning|Moon|Servant|09:45:11|11:28:40|
-|Noon|Saturn|Servant|11:28:41|13:12:09|
-|Early afternoon|Jupiter|Servant|13:12:10|14:55:39|
+|Early morning|Venus|Ruler|06:18:14|08:01:42|
+|Mid-morning|Mercury|Servant|08:01:43|09:45:11|
+|Late morning|Moon|Servant|09:45:12|11:28:40|
+|Noon|Saturn|Servant|11:28:41|13:12:10|
+|Early afternoon|Jupiter|Servant|13:12:11|14:55:39|
 |Mid-afternoon|Mars|Servant|14:55:40|16:39:08|
 |Late afternoon|Sun|Servant|16:39:09|18:22:38|
 

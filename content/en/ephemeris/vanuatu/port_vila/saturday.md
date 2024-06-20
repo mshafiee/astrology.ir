@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°23'14.06" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°24'50.74" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°1'23.58" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°50'51.17" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°48'22.53" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°31'50.66" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°33'44.79" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|6°24'48.09" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°1'15.47" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°50'37.54" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°48'14.99" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°31'41.01" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°57'58.82" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

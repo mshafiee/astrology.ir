@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:52:18 |
 | Sunset | 21:58:03 |
 | Maghrib | 21:59:47 |
-| Isha (Night) | 01:16:20 |
+| Isha (Night) | 01:16:19 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:52:24 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°21'2.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°49'16.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°5'23.33" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|29°19'21.40" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|3°33'18.60" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|5°59'19.36" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|5°32'57.92" |Scorpio|Akleel|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'1.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°49'16.29" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°5'23.40" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°19'21.41" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|3°33'18.56" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|5°59'19.35" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|5°32'58.32" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°21'2.01" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|5°49'16.41" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|8°5'23.33" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°19'21.40" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°33'18.60" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|5°59'19.36" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°32'57.92" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'1.90" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|5°49'16.29" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°5'23.40" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°19'21.41" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°33'18.56" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|5°59'19.35" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|5°32'58.32" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

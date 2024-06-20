@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:51:48 |
 | Sunrise | 07:00:37 |
-| Dhuhr (Noon) | 12:18:41 |
-| Medium Coeli | 12:18:41 |
+| Dhuhr (Noon) | 12:18:42 |
+| Medium Coeli | 12:18:42 |
 | Sunset | 17:36:47 |
 | Maghrib | 17:41:56 |
 | Isha (Night) | 18:45:35 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'30.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°30'16.10" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°19'7.37" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|2°14'2.79" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°18'15.38" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°21'45.30" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|16°13'58.66" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'30.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°30'15.98" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°19'7.44" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|2°14'2.80" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°18'15.35" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°21'45.29" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|16°13'59.21" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'30.61" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°30'16.10" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°19'7.37" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°14'2.79" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'30.51" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°30'15.98" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°19'7.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°14'2.80" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|7°18'15.38" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|12°21'45.30" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|16°13'58.66" |Capricorn|SaadAlBula|Mars|
