@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:53:04 |
+| Fajr (Dawn) | 01:53:05 |
 | Sunrise | 04:52:17 |
 | Dhuhr (Noon) | 12:40:15 |
 | Medium Coeli | 12:40:15 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'43.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°15'40.51" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°31'27.02" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°11'40.99" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°57'57.33" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°6'59.33" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°29'24.74" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|19°22'43.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°15'40.39" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°31'27.08" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°11'41.00" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°57'57.30" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°6'59.32" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°29'25.24" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'43.91" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°15'40.51" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°31'27.02" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°11'40.99" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°57'57.33" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°6'59.33" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|1°29'24.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|19°22'43.81" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°15'40.39" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°31'27.08" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°11'41.00" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°57'57.30" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°6'59.32" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°29'25.24" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드

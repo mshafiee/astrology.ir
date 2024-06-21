@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'48.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°16'54.98" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°35'29.80" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|19°22'48.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°16'55.10" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°35'29.74" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|1°16'59.77" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°4'45.71" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°18'28.78" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°23'45.91" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|6°4'45.26" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°18'28.36" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°31'34.98" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'48.14" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°22'48.14" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°16'55.10" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|9°35'29.74" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|1°16'59.77" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°4'45.71" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°18'28.78" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|2°23'45.91" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|6°4'45.26" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°18'28.36" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|2°31'34.98" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌

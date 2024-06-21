@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'31.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°30'36.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°20'13.48" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|2°15'29.75" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°20'6.77" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°24'50.63" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|16°28'52.06" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|19°23'31.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°30'35.38" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°20'12.99" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|2°15'23.40" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°20'2.74" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°24'45.03" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|17°16'47.10" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'31.63" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°23'31.63" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°30'36.31" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°20'13.48" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°15'29.75" |Cancer|Nathrah|Venus|

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 16:14:47|Night duration: 07:45:25|
+|Duration of the day: 16:14:47|Night duration: 07:45:26|
 |Every hour of day duration: 01:21:14|Every hour of night duration: 00:38:47|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Jupiter|Servant|22:35:05|23:13:51|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|23:13:52|23:52:38|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Sun|Servant|23:52:39|00:31:25|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Venus|Servant|00:31:26|01:10:12|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mercury|Servant|01:10:13|01:48:59|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Moon|Ruler|01:49:00|02:27:46|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Saturn|Servant|02:27:47|03:06:33|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Jupiter|Servant|03:06:34|03:45:20|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Mars|Servant|03:45:21|04:24:07|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Sun|Servant|04:24:08|05:02:55|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Venus|Servant|00:31:26|01:10:13|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Mercury|Servant|01:10:14|01:49:00|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Moon|Ruler|01:49:01|02:27:47|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Saturn|Servant|02:27:48|03:06:34|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Jupiter|Servant|03:06:35|03:45:21|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Mars|Servant|03:45:22|04:24:08|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Sun|Servant|04:24:09|05:02:56|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 16:14:47|Night duration: 07:45:25|
+|Duration of the day: 16:14:47|Night duration: 07:45:26|
 |Every hour duration: 02:19:15|Every hour duration: 01:06:29|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Moon|Ruler|21:17:31|22:23:59|
 |Late evening|Saturn|Servant|22:24:00|23:30:28|
-|Midnight|Jupiter|Servant|23:30:29|00:36:57|
-|Late at night|Mars|Servant|00:36:58|01:43:27|
-|Rooster song|Sun|Servant|01:43:28|02:49:56|
-|False Dawn|Venus|Servant|02:49:57|03:56:25|
-|Dawn|Mercury|Servant|03:56:26|05:02:55|
+|Midnight|Jupiter|Servant|23:30:29|00:36:58|
+|Late at night|Mars|Servant|00:36:59|01:43:27|
+|Rooster song|Sun|Servant|01:43:28|02:49:57|
+|False Dawn|Venus|Servant|02:49:58|03:56:26|
+|Dawn|Mercury|Servant|03:56:27|05:02:56|
 
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°21'2.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|19°21'2.65" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|5°49'25.49" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°5'52.90" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|29°19'59.90" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°21'2.65" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°21'2.65" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|5°49'25.49" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|8°5'52.90" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|29°19'59.90" |Gemini|Dhira|Sun|

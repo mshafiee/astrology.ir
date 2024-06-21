@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'15.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°25'20.13" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°3'0.61" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|1°52'57.30" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°51'5.93" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°36'24.73" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°13'40.15" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|19°23'15.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°25'20.25" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°3'0.54" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|1°52'48.15" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°51'0.60" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°36'17.60" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|12°14'24.75" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Jupiter|Venus|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'15.52" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°25'20.13" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°3'0.61" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°52'57.30" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°51'5.93" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|19°23'15.63" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°25'20.25" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°3'0.54" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°52'57.29" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°51'5.97" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|11°36'24.73" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|11°13'40.15" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|11°13'39.58" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시

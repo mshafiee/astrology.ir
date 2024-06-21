@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'21.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°49'23.52" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°21'44.95" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|3°36'5.43" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|9°3'56.77" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|15°15'52.09" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|6°25'37.96" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|19°24'21.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°49'21.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°21'42.41" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|3°35'52.69" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|9°3'48.97" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|15°15'41.28" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|7°57'8.13" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Venus|Mars|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'21.29" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°24'21.29" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°49'23.52" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°21'44.95" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|3°36'5.43" |Cancer|Nathrah|Venus|

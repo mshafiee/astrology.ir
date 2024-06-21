@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:55:50 |
 | Sunset | 21:34:41 |
 | Maghrib | 21:41:38 |
-| Isha (Night) | 23:53:25 |
+| Isha (Night) | 23:53:26 |
 | Sharia Midnight | 00:46:34 |
 | Imum Coeli | 01:55:56 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°21'57.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°3'1.86" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°50'9.41" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°17'48.98" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°48'35.31" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|8°8'57.47" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|19°1'15.52" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|19°21'57.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°3'1.98" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°50'12.39" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°17'49.29" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°48'35.07" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|8°8'56.95" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|18°48'59.30" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°21'57.77" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°21'57.87" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°3'1.86" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|8°50'12.45" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|0°17'49.30" |Cancer|Nathrah|Venus|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'56.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°19'30.53" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°43'57.99" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°28'3.79" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°19'1.28" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°42'32.12" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|5°5'30.74" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|19°22'56.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°19'30.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°43'57.93" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°28'3.78" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°19'1.31" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°42'32.13" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|5°5'30.20" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'56.75" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°22'56.75" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°19'30.53" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|9°43'57.99" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|1°28'3.79" |Cancer|Nathrah|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

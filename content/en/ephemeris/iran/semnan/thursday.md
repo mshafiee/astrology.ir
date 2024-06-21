@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:52:42 |
+| Fajr (Dawn) | 02:52:43 |
 | Sunrise | 04:41:19 |
 | Dhuhr (Noon) | 11:58:06 |
 | Medium Coeli | 11:58:06 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'55.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|5°47'49.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°0'39.99" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|29°13'12.92" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|3°25'22.83" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|5°45'34.41" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|3°59'2.31" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|19°20'55.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|5°47'49.37" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°0'40.27" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°13'13.05" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|3°25'22.87" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|5°45'34.46" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|3°56'43.39" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°20'55.67" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°20'55.67" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|5°47'49.33" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|8°0'39.99" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|29°13'12.92" |Gemini|Dhira|Sun|

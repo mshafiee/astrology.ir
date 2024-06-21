@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'0.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°20'39.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°47'42.64" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°32'56.99" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°25'19.80" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°53'9.50" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|6°24'10.89" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|19°22'59.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°20'37.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°47'35.72" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°32'48.66" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°25'15.46" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°53'4.18" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|7°15'54.20" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'0.60" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°20'39.46" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°47'42.64" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°32'56.99" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°25'11.72" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°52'58.76" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|7°54'48.77" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|19°23'0.50" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°20'39.34" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°47'42.71" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°32'57.00" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°25'19.77" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°53'9.49" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|6°24'11.44" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Ciles Santjagas, CiudadSantiago, SCL, Sanctiacobi, Sant'jago, Santiago, Santiago de Chile, Santiago de Xile, Santiago del Cile, Santiago do Chile, Santiago du Chili, Santiago du Ch·ili, Santianko, Santjago, Santjago de Chile, Santjago de Chili, Stgo., santiago, santixako, santiyago, santyaghw, santyagw, santyyagw, sheng de ya ge, Čilės Santjagas, Σαντιάγκο, Σαντιάγο, Сантьяго, Сантяго де Чиле, Сантяго де Чили, סנטיאגו דה צ'ילה, سانتىياگو, سانتياغو, سانتیاگو, সান্টিয়াগো, ซันติอาโก, სანტიაგო დე ჩილე, ሳንቲያጎ, サンティアゴ, 圣地亚哥, 산티아고

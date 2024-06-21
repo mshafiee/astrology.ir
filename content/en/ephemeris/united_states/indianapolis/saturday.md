@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'39.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|19°23'39.20" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°33'12.03" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°28'43.50" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|2°26'36.17" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'39.20" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°33'9.97" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°28'36.55" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°26'25.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|7°34'21.27" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°48'33.86" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|20°21'51.11" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|19°23'39.20" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°33'12.03" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°28'43.50" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°26'36.17" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|7°34'26.86" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°48'40.90" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|19°27'7.34" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Sagittarius|Moon|Moon|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
 
 
 {{< /tab >}}

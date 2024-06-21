@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'48.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°17'1.80" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°35'51.66" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°17'28.41" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°5'22.60" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°19'31.10" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°30'30.90" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|19°22'48.42" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°17'1.40" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°35'49.23" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°17'27.34" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°5'22.27" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°19'30.87" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°38'0.76" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'48.52" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°17'1.28" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°35'49.29" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°17'27.35" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°5'22.24" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°19'30.87" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|2°38'1.27" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|19°22'48.52" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°17'1.80" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°35'51.66" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°17'28.41" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°5'22.60" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°19'31.10" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|2°30'30.90" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

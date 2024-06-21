@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'18.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°26'12.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°5'51.75" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|1°56'37.13" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°55'49.84" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°44'19.88" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|12°23'4.56" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|19°23'18.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°26'10.35" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°5'46.99" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|1°56'29.19" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°55'45.39" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°44'14.26" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°11'33.62" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'18.32" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°26'12.07" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°5'51.75" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°56'37.13" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°55'49.84" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°44'19.88" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|12°23'4.56" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|19°23'18.21" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°26'12.11" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°5'50.26" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°56'39.81" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°55'51.73" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°44'22.76" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°59'33.24" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Aomen, Aomin', Au-mun, Aumwnz, Aumyn, Cidade de Macau, Cidade do Santo Nome de Deus de Macau, MFM, Ma Cao, Macao, Macau, Macaum, Makaa, Makaaw, Makao, Makaou, Makau, Makaw, Makawo, Makaó, Makee, Makèë, Màkáù, O-muong, ao men, maka, maka'o, maka'u, makao, makavu, makaw, makayw, makkavu, mkaw, Àu-mûn, Ó̤-muòng, Μακάου, Аоминь, Аумын, Макаа, Макао, מקאו, ئاۋمېن, ماكاو, ماکائو, مکاؤ, މަކާއޫ, मकाउ, मकाओ, মাকাউ, ਮਕਾਉ, મકાઉ, மக்காவு, మకావు, ಮಕಾವು, മകൗ, เขตบริหารพิเศษมาเก๊า, မကာအို, მაკაო, マカオ, 澳門, 澳门, 마카오

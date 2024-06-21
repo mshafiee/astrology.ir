@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:01:00 |
-| Sunrise | 05:14:33 |
+| Sunrise | 05:14:32 |
 | Dhuhr (Noon) | 13:04:58 |
 | Medium Coeli | 13:04:58 |
 | Sunset | 20:55:21 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:33:32 |
-| Sunrise | 05:14:33 |
+| Sunrise | 05:14:32 |
 | Dhuhr (Noon) | 13:04:58 |
 | Medium Coeli | 13:04:58 |
 | Sunset | 20:55:21 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:33:32 |
-| Sunrise | 05:14:32 |
+| Sunrise | 05:14:33 |
 | Dhuhr (Noon) | 13:04:58 |
 | Medium Coeli | 13:04:58 |
 | Sunset | 20:55:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'37.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°32'37.15" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°26'49.53" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|2°24'6.59" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°31'14.72" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°43'22.00" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|18°55'44.31" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|19°23'37.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°32'37.40" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°26'48.57" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|2°24'8.92" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°31'16.40" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°43'24.46" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|18°34'2.07" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'37.53" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°23'37.53" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°32'37.15" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°26'49.53" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°24'6.59" |Cancer|Nathrah|Venus|

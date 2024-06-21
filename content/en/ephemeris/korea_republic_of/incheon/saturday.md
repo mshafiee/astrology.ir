@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 19:57:56 |
 | Maghrib | 19:59:15 |
 | Isha (Night) | 21:49:57 |
-| Sharia Midnight | 23:31:07 |
+| Sharia Midnight | 23:31:08 |
 | Imum Coeli | 00:35:20 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'15.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|19°23'15.59" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°25'21.46" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°3'5.03" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|1°53'2.95" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'15.59" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|19°23'15.59" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°25'21.46" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°3'5.05" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°53'3.23" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°51'13.62" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°36'37.53" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|11°14'51.21" |Capricorn|SaadAlDhabib|Mars|
+|♂ Mars|Direct|10°3'5.03" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°53'2.95" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°51'13.40" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°36'37.29" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°16'51.25" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
