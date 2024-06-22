@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'18.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°26'8.04" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°5'37.49" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|1°56'18.72" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°55'35.33" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°43'58.44" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|13°30'26.08" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'18.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°26'10.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°5'45.37" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|1°56'33.47" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°55'43.63" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°44'9.15" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|11°58'3.02" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'18.14" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°26'10.63" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°5'45.43" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°56'33.48" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°55'43.59" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°44'9.14" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|11°58'3.60" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'18.24" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°26'10.75" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°5'45.37" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°56'33.47" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°55'43.63" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°44'9.15" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°58'3.02" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang‌kang, hankam, heankean, hng kng, hon'ga kon'ga, hong-kʼongi, hongakonga, hongkong, honkongu, hwng kwng, hwng qwng, hwngh kwngh, hwnj kwnj, hxngkng, hʼng qʼng, shyanggang, xiang gang, Χονγκ Κονγκ, Ганконг, Гонконг, Хонгконг, Хонконг, Һoң Koң, Һоң Коң, Հոնկոնգ, האנג קאנג, הונג קונג, شياڭگاڭ, هانگ کانگ, هنگ کنگ, هونج كونج, هونغ كونغ, هونگ کونگ, ھwng kwng, ھونگ کونگ, ھۆng kۆng, ھۆنگ کۆنگ, ہang kang, ہانگ کانگ, ހޮންކޮންގު, हङकङ, हाँग काँग, हांगकांग, हांग् कांग् नगरम्, हॉन्ग कॉन्ग, হংকং, ਹਾਂਗਕਾਂਗ, હોંગકોંગ, ହଂକଂ, ஆங்காங், హాంగ్‌కాంగ్, ಹಾಂಗ್ ಕಾಂಗ್, ഹോങ്കോങ്, හොංකොං, ฮ่องกง, ཧང་ཀང་།, ཧོང་ཀོང་།, ဟောငကောင, ဟောင်ကောင်, ჰონგ-კონგი, ሆንግ ኮንግ, ហងកង, ហុងកុង, 香港, 홍콩

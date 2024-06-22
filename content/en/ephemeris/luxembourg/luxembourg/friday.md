@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Venus|Servant|23:03:37|23:42:04|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mercury|Servant|23:42:05|00:20:33|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|00:20:34|00:59:01|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Saturn|Servant|00:59:02|01:37:29|Creating attraction and acceptance among dignitaries|
+|6|Saturn|Servant|00:59:02|01:37:29|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Jupiter|Servant|01:37:30|02:15:57|Promotion and attracting wealth|
 |8|Mars|Ruler|02:15:58|02:54:26|Auspicious and ultimate happiness and fortune|
 |9|Sun|Servant|02:54:27|03:32:54|Causing separation and homelessness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'56.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°2'34.27" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°48'42.72" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°15'51.65" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°46'4.27" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|8°4'39.08" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|18°28'48.15" |Scorpio|Qalb|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'56.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°2'34.22" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°48'41.97" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°15'51.85" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°46'4.51" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|8°4'39.45" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|18°30'29.84" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'56.00" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'56.00" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°2'34.27" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|8°48'42.72" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|0°15'51.65" |Cancer|Nathrah|Venus|

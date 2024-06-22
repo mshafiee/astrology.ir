@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'38.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°32'50.07" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°27'31.62" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|2°25'3.00" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°32'25.39" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°45'18.85" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|18°50'57.82" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'38.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°32'48.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°27'25.73" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|2°24'56.94" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°32'22.39" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°45'15.36" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|19°16'16.77" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Saturn|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'38.04" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°32'50.07" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°27'31.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°25'3.00" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'38.15" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°32'50.19" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°27'31.56" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°25'2.99" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|7°32'25.42" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|12°45'18.86" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|18°50'57.30" |Capricorn|SaadAlBula|Mars|

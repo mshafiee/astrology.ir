@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 15:41:17|Night duration: 08:18:58|
+|Duration of the day: 15:41:17|Night duration: 08:18:57|
 |Every hour of day duration: 01:18:26|Every hour of night duration: 00:41:35|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|21:57:21|22:38:55|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Venus|Servant|22:38:56|23:20:30|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mercury|Servant|23:20:31|00:02:05|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Moon|Servant|00:02:06|00:43:40|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Saturn|Servant|00:43:41|01:25:15|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Jupiter|Servant|01:25:16|02:06:49|Promotion and attracting wealth|
+|5|Moon|Servant|00:02:06|00:43:39|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Saturn|Servant|00:43:40|01:25:14|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Jupiter|Servant|01:25:15|02:06:49|Promotion and attracting wealth|
 |8|Mars|Ruler|02:06:50|02:48:24|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:48:25|03:29:59|Causing separation and homelessness|
-|10|Venus|Servant|03:30:00|04:11:34|Extremely unfortunate|
-|11|Mercury|Servant|04:11:35|04:53:09|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|04:53:10|05:34:44|Suitable for asking for a need|
+|9|Sun|Servant|02:48:25|03:29:58|Causing separation and homelessness|
+|10|Venus|Servant|03:29:59|04:11:33|Extremely unfortunate|
+|11|Mercury|Servant|04:11:34|04:53:08|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|04:53:09|05:34:43|Suitable for asking for a need|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 15:41:17|Night duration: 08:18:58|
+|Duration of the day: 15:41:17|Night duration: 08:18:57|
 |Every hour duration: 02:14:28|Every hour duration: 01:11:17|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mars|Ruler|21:15:47|22:27:02|
 |Late evening|Sun|Servant|22:27:03|23:38:19|
 |Midnight|Venus|Servant|23:38:20|00:49:36|
-|Late at night|Mercury|Servant|00:49:37|02:00:53|
-|Rooster song|Moon|Servant|02:00:54|03:12:10|
-|False Dawn|Saturn|Servant|03:12:11|04:23:27|
-|Dawn|Jupiter|Servant|04:23:28|05:34:44|
+|Late at night|Mercury|Servant|00:49:37|02:00:52|
+|Rooster song|Moon|Servant|02:00:53|03:12:09|
+|False Dawn|Saturn|Servant|03:12:10|04:23:26|
+|Dawn|Jupiter|Servant|04:23:27|05:34:43|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'56.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°2'37.98" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°48'54.70" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°16'7.59" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°46'24.36" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|8°5'13.32" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|18°28'13.68" |Scorpio|Qalb|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'56.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°2'38.10" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°48'54.63" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°16'7.58" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°46'24.39" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|8°5'13.33" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|18°28'13.32" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'56.34" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'56.34" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°2'38.10" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|8°48'54.63" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|0°16'7.58" |Cancer|Nathrah|Venus|

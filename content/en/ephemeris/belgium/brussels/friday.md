@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:21:34 |
+| Fajr (Dawn) | 02:21:33 |
 | Sunrise | 05:28:34 |
 | Dhuhr (Noon) | 13:44:31 |
 | Medium Coeli | 13:44:31 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'56.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'56.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°2'34.50" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°48'43.53" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|0°15'52.59" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°21'56.02" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°21'56.02" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°2'34.50" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|8°48'43.53" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|0°15'52.59" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|4°46'5.63" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|8°4'41.45" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|18°30'24.72" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|4°46'5.67" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|8°4'41.46" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|18°30'24.36" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

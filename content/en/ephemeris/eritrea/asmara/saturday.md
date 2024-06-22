@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°22'44.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'44.04" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°15'42.99" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°31'34.48" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|1°11'52.15" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°58'9.76" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°7'19.71" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°12'54.97" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|5°58'7.40" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°7'16.68" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°40'32.33" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°22'44.04" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'44.04" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°15'42.99" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|9°31'34.48" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|1°11'52.15" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°58'9.76" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°7'19.71" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|1°12'54.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|5°58'7.40" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°7'16.68" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°40'32.33" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: ASM, Asmar, Asmara, Asmaro, Asmehra, Asmera, Aszmara, a si ma la, asamara, aseumala, asmara, asmera, asmrh, asmrt, asumara, yەsmەrە, Əsməra, Ασμάρα, Асмара, Асмэра, Асмєра, Ասմարա, אסמרה, أسمرة, ئەسمەرە, اسمارا, اسمره, अस्मारा, ਅਸਮਾਰਾ, அஸ்மாரா, അസ്മാറ, แอสมารา, ཨཱ་སི་མི་ར།, ასმერა, አስመራ, ኣስመራ, アスマラ, 阿斯馬拉, 아스마라

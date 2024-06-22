@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°22'56.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°19'25.21" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°43'40.10" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°27'40.60" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°18'31.28" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'56.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°19'25.09" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°43'40.16" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°27'40.62" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°18'31.24" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|10°41'41.46" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|4°58'10.91" |Sagittarius|NaAaem|Mercury|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°22'56.45" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'56.45" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°19'25.09" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°43'33.99" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°27'33.34" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°18'27.46" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°41'36.83" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|5°44'39.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|9°43'40.16" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°27'40.62" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°18'31.24" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°41'41.46" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|4°58'10.91" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°22'56.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°19'21.03" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°43'26.25" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°27'22.08" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°18'12.83" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°41'12.03" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|5°42'52.16" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'56.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°19'20.94" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°43'24.83" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°27'22.02" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°18'13.00" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°41'12.38" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|5°41'51.87" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°22'56.30" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°19'22.48" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°43'31.56" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°27'29.48" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°18'16.74" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°41'16.97" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|4°54'3.79" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|19°22'56.40" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°19'22.60" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°43'31.49" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°27'29.46" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°18'16.78" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°41'16.98" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|4°54'3.25" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: PBM, Paramaribas, Paramaribo, Paramaribô, Paramarimpo, Paramaryba, Paramaríbó, ba la ma li bo, baramarybw, pa la ma li bo, pa rama ri bo, palamalibo, paramaribo, paramaripo, paramarybw, prmrybw, Παραμαρίμπο, Парамарибо, Парамарыба, Парамарібо, Պարամարիբո, פאראמאריבא, פרמריבו, باراماريبو, پاراماریبو, पारामरिबो, पारामारिबो, ਪਾਰਾਮਾਰੀਬੋ, પારામારિબો, பரமாரிபோ, ปารามารีโบ, པེ་ར་མེ་རི་བོ།, პარამარიბო, ፓራማሪቦ, パラマリボ, 巴拉馬利波, 帕拉马里博, 파라마리보

@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'53.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'53.38" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°38'17.52" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°45'23.24" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|2°48'25.57" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'53.38" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°38'15.33" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°45'15.75" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°48'14.52" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|8°2'27.33" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|13°35'4.68" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|25°36'23.29" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'53.38" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°38'17.52" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°45'23.24" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°48'25.57" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|8°2'33.24" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|13°35'12.10" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|24°44'25.04" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
