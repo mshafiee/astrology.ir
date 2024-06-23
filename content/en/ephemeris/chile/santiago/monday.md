@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:45:11 |
 | Medium Coeli | 12:45:11 |
 | Sunset | 17:43:20 |
-| Maghrib | 18:01:43 |
+| Maghrib | 18:01:44 |
 | Isha (Night) | 18:53:29 |
 | Sharia Midnight | 00:05:09 |
 | Imum Coeli | 00:45:18 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'45.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|7°0'39.77" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°58'44.27" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|4°24'37.28" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|10°6'28.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|16°57'2.30" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|18°36'16.82" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|19°24'45.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|7°0'37.17" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°58'38.80" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|4°24'22.10" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|10°6'19.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|16°56'50.27" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|19°52'39.93" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Venus|Mars|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Saturn|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'45.43" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°24'45.43" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|7°0'39.77" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°58'44.27" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|4°24'37.28" |Cancer|Nathrah|Venus|

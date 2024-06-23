@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'17.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|19°23'17.79" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°26'3.99" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°5'23.61" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|1°56'5.16" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°55'6.80" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°43'7.50" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°48'14.33" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°54'57.80" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°42'55.63" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°30'42.19" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Jupiter|Venus|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'17.79" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°26'3.99" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°5'23.61" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°56'5.16" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°55'6.91" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°43'7.70" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|11°47'44.16" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Retrograde|19°23'17.90" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°26'4.11" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°5'16.36" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°55'49.31" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°54'57.80" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°42'55.63" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|13°30'42.19" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: City of Manila, Dakbayan sa Manila, Lungsod ng Maynila, MNL, Mainile, Manila, Manilae, Manilla, Manillah, Manille, Manilo, Manyl, Maníla, Maynila, Menila, ma ni la, manila, manilla, manira, manyl, manyla, mnila, mnylh, myanila, Μανίλα, Манилæ, Манила, Маніла, מנילה, مانىلا, مانيلا, مانیل, مانیلا, मनिला, मनीला, ম্যানিলা, மணிலா, ಮನಿಲ, මැනිලා, มนิลา, มะนิลา, མ་ནི་ལ།, မနီလာမြို့, მანილა, ማኒላ, マニラ, 马尼拉, 마닐라

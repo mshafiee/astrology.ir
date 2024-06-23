@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'19.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°26'36.19" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°7'9.37" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|1°58'21.35" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°58'5.42" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°48'7.13" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|12°51'44.28" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|19°23'19.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°26'36.07" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°7'9.44" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|1°58'21.36" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°58'4.44" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°48'5.74" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°3'18.09" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'19.57" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°23'19.57" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°26'36.19" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°7'9.37" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°58'21.35" |Cancer|Nathrah|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: OMS, Om'sku, Omby, Omium, Oms'k, Omsc, Omsk, Omska, Omskas, Omszk, Omva, amsk, awmsk, e mu si ke, omseukeu, omska, omusuku, xxm skh, Ομσκ, Омбы, Омва, Омск, Омськ, Омьскъ, Օմսկ, אומסק, أومسك, امسک, اومسک, ओम्स्क, ออมสค์, ომსკი, オムスク, 鄂木斯克, 옴스크

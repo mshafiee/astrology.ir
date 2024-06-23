@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'44.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°15'49.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°31'55.33" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°12'18.22" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°58'44.96" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°8'18.94" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°39'36.08" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°15'49.10" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°31'53.94" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°12'19.22" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°58'45.78" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°8'21.07" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°29'29.29" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|19°22'44.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°15'49.22" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°31'55.33" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°12'18.22" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°58'44.96" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°8'19.77" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|1°34'58.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|6°15'49.10" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°31'53.94" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°12'19.22" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°58'45.78" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°8'21.07" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°29'29.78" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: TIA, Terana, Theranda, Tiorana, Tiorána, Tiran, Tiran khot, Tiran-a, Tirana, Tiranae, Tirane, Tirano, Tiranë, Tirāna, Trnava, Tyrana, Tyranna, Tírana, Tîrana, Tėrana, de la na, tilana, tirana, tyrana, tyrnh, Τίρανα, Тиран хот, Тиранæ, Тирана, Тиране, Трнава, Тырана, Տիրանա, טיראנא, טירנה, تىرانا, تيرانا, تیرانا, तिराना, তিরানা, ਤਿਰਾਨਾ, ଟିରାନା, டிரானா, ടിറാന, ติรานา, ཐིས་རན།, ტირანა, ቲራና, ティラナ, 地拉那, 티라나

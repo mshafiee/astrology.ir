@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'55.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°19'13.48" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|19°22'55.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°19'12.90" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°43'2.11" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°26'50.26" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°17'27.39" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°39'45.40" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|6°16'48.74" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|1°26'49.00" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°17'27.08" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°39'54.06" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|5°3'17.71" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'55.91" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°22'55.91" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°19'13.48" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|9°43'2.11" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|1°26'50.26" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°17'27.39" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°39'45.40" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|6°16'48.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|6°17'27.12" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°39'54.06" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|5°3'17.71" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BDA, Chamilton, Gamil'tan, Gamil'ton, Hamilton, Hamilton pa Bermuda, Hamilton på Bermuda, Hamiltonas, Hamiltono, Khamilton, Khamiltun, amiltan, ha mi er dun, haemilteon, hamiruton, hamyltwn, hemiltana, hmyltwn, Χάμιλτον, Гамильтон, Гамільтан, Гамільтон, Хамилтон, Хамилтън, המילטון, هاميلتون, همیلتون, ہیملٹن, हॅमिल्टन, ஆமில்டன், แฮมิลตัน, ჰამილტონი, ハミルトン, 哈密尔顿, 해밀턴

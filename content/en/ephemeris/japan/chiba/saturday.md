@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'14.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|19°23'14.30" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°24'54.71" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°1'37.10" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|1°51'8.11" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'14.30" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°23'14.30" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°24'54.71" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°1'37.10" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°51'8.11" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|6°48'45.38" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|11°32'29.30" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°47'42.48" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|10°48'43.23" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

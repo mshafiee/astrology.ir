@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:04:32 |
 | Sunset | 20:57:13 |
 | Maghrib | 21:01:29 |
-| Isha (Night) | 23:45:05 |
+| Isha (Night) | 23:45:06 |
 | Sharia Midnight | 23:40:43 |
 | Imum Coeli | 01:04:38 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'4.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°42'35.80" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°59'29.85" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|3°6'54.02" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|8°26'22.02" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°14'24.65" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|29°25'34.02" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|19°24'4.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°42'35.92" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°59'30.78" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|3°6'57.31" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|8°26'24.07" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|14°14'27.34" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|29°4'5.99" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'4.61" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°42'35.80" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°59'29.85" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|3°6'54.02" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|8°26'22.02" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|19°24'4.71" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°42'35.92" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°59'29.78" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|3°6'54.01" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|8°26'22.06" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|14°14'24.65" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|29°25'34.02" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|29°25'33.78" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

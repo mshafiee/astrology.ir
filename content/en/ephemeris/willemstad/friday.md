@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'57.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|19°22'57.76" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°19'47.05" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°44'51.43" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|1°29'13.88" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|6°20'31.39" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|10°45'3.76" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|6°30'27.26" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°20'12.01" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'57.76" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°19'44.98" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°44'44.37" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°29'3.13" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°20'25.59" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°44'56.37" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|6°30'27.26" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|19°22'57.76" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°19'45.38" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°44'44.93" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°29'6.43" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°20'27.56" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°44'59.11" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|6°7'24.74" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Vilemstad, Vilemstadas, Vilemstade, Vilemstado, Villemstad, Villemstant, Villemştad, Willemstad, Willemsted, Willemstêd, billemseutateu, u~iremusutatto, vilemastada, villemstatu, wei lian si ta de, willems tad, wylmstad, Βίλλεμσταντ, Вилемстад, Виллемстад, Вілемстад, Віллемстад, וילמסטאד, ويلمستاد, ویلمستاد, ویلمسٹیڈ, विलेमश्टाड, வில்லெம்ஸ்டாடு, วิลเลมสตัด, ვილემსტადი, ウィレムスタット, 威廉斯塔德, 빌렘스타트

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'18.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°26'12.11" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°5'50.26" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|1°56'39.81" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°55'51.73" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°44'22.76" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°59'33.24" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|19°23'18.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°26'12.23" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°5'50.20" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|1°56'39.79" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°55'51.77" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°44'22.77" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|11°59'32.67" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'18.32" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°23'18.32" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°26'12.23" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°5'50.20" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°56'39.79" |Cancer|Nathrah|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Aomen, Aomin', Au-mun, Aumwnz, Aumyn, Cidade de Macau, Cidade do Santo Nome de Deus de Macau, MFM, Ma Cao, Macao, Macau, Macaum, Makaa, Makaaw, Makao, Makaou, Makau, Makaw, Makawo, Makaó, Makee, Makèë, Màkáù, O-muong, ao men, maka, maka'o, maka'u, makao, makavu, makaw, makayw, makkavu, mkaw, Àu-mûn, Ó̤-muòng, Μακάου, Аоминь, Аумын, Макаа, Макао, מקאו, ئاۋمېن, ماكاو, ماکائو, مکاؤ, މަކާއޫ, मकाउ, मकाओ, মাকাউ, ਮਕਾਉ, મકાઉ, மக்காவு, మకావు, ಮಕಾವು, മകൗ, เขตบริหารพิเศษมาเก๊า, မကာအို, მაკაო, マカオ, 澳門, 澳门, 마카오

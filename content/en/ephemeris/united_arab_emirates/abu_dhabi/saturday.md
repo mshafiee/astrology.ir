@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'41.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|19°22'41.44" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°14'57.57" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°29'6.34" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|1°8'38.25" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°54'0.39" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|5°54'0.43" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|10°0'18.06" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|0°31'3.11" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°30'51.52" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'41.33" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°14'57.45" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°29'6.40" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°8'38.27" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°54'0.39" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°0'18.06" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|0°30'52.01" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|19°22'41.44" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°14'56.64" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°29'4.92" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°8'32.59" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°53'56.99" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°0'13.44" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°8'0.08" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: A-pu-that-pi, AEbu Saby, AUH, Aboe Dhabi, Abou Dabi, Abu Dabi, Abu Dabis, Abu Daby, Abu Daibi, Abu Dhabi, Abu Dhabi Island and Internal Islands City, Abu Dhabi emiraat, Abu Zabi, Abu Zaby, Abu Zabye, Abu Zabyo, Abu Ḍabi, Abu Ḑabi, Abu-Dabi, Abu-Dabi khot, Abu-Dabio, Abu-Dzabi, Abú Dabí, Abú Daibí, Abú Zabí, Abû Daby, Abū Dabī, Abū Z̧aby, Abū Z̧abye, Abū Z̧abyo, Abū Z̧abī, Ampou Ntampi, Ebu Dabi, Ebu Dhabi, a bu zha bi, abu dhabi, abu-dabi, abudabi, abudhabi, abw zby, abwzby, aputapi, jzyrt abwzby wjzr dakhlyt akhry, xa bud abi, Â-pu-tha̍t-pí, Äbu Saby, Əbu-Dabi, Άμπου Ντάμπι, Αμπου Νταμπι, Αμπού Ντάμπι, Абу Даби, Абу-Даби, Абу-Даби хот, Абу-Дабі, Әбу-Даби, Աբու Դաբի, אבו דאבי, أبوظبي, ئەبووزەبی, ابو ظبى, ابوظبی, ابوظہبی, جزيرة أبوظبي وجزر داخلية اخرى, अबु धाबी, अबू धाबी, আবুধাবি, ਅਬੂ ਧਾਬੀ, ଆବୁଧାବି, அபுதாபி, ಅಬು ಧಾಬಿ, അബുദാബി, අබුඩාබි, อาบูดาบี, ཨ་པོའུ་དྷ་པེ།, အဘူဒါဘီမြို့, აბუ-დაბი, አቡ ዳቢ, アブダビ, 阿布扎比, 아부다비

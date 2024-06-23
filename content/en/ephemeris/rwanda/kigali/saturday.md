@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:46:48 |
+| Fajr (Dawn) | 04:46:47 |
 | Sunrise | 06:01:53 |
 | Dhuhr (Noon) | 12:01:52 |
 | Medium Coeli | 12:01:52 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'46.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°16'19.12" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°33'32.47" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°14'26.92" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°1'31.26" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|10°13'1.13" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°9'38.73" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|19°22'46.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°16'20.03" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°33'35.25" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°14'30.16" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°1'33.01" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|10°13'3.20" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°48'0.89" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'46.04" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°16'19.24" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°33'32.41" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°14'26.91" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°1'31.30" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°13'1.14" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|2°9'38.23" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|19°22'46.15" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°16'20.03" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°33'35.25" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°14'30.16" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°1'33.01" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°13'3.20" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°48'0.89" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리

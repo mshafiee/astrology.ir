@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:30:03 |
+| Fajr (Dawn) | 03:30:04 |
 | Sunrise | 05:07:46 |
 | Dhuhr (Noon) | 12:03:30 |
 | Medium Coeli | 12:03:30 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'20.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°26'59.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°8'24.83" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|2°0'1.83" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°0'12.24" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°51'38.42" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|12°51'3.76" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|19°23'20.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°26'56.97" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°8'18.94" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|1°59'47.21" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°0'3.78" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°51'27.17" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|14°26'55.78" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'20.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°26'59.36" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°8'24.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°0'1.83" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|7°0'12.24" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|19°23'20.75" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°26'59.48" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°8'24.76" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°0'1.82" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|7°0'12.27" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|11°51'38.42" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|12°51'3.76" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|12°51'3.19" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

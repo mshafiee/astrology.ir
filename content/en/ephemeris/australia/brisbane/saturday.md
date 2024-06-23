@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°54'3.68" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|6°52'30.96" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|11°38'46.78" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°24'57.05" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|11°31'22.89" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'16.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°25'35.83" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°3'51.01" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°54'3.68" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°52'30.96" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|19°23'16.30" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°25'35.71" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°3'51.07" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°54'3.69" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°52'30.93" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|11°38'46.78" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|11°24'57.05" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|11°24'57.63" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'40.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°14'39.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°28'8.85" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°7'22.54" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|5°52'23.74" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|19°22'40.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°14'39.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°28'8.91" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°7'22.55" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°52'23.71" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|9°57'34.68" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|0°21'3.75" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°21'4.24" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°22'40.42" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°14'39.87" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°28'8.85" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°7'22.54" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|5°52'23.74" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|19°22'40.31" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°14'39.75" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°28'8.91" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°7'22.55" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°52'23.71" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|9°57'34.68" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°44'12.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|0°21'4.24" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Asterabad, Asterābād, GBT, Gorgan, Gorgān, Gurgan, Gurgon, Gūrgān, Hirkanio, aastir abad, grgan, gwrgan, Горган, Гургон, اَستِر آباد, گرگان, گورگان

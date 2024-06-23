@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'17.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|19°23'17.76" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°26'1.49" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°5'14.90" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|1°55'53.96" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'17.76" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°26'1.37" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°5'14.97" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°55'53.98" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°54'52.22" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°42'43.04" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|11°43'50.33" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Retrograde|19°23'17.76" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°26'1.49" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°5'14.90" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°55'53.96" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°54'52.25" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°42'43.05" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|12°53'40.13" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오

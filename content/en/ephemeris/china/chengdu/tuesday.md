@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'55.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|7°6'19.82" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°17'21.82" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|4°49'5.37" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|10°37'59.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|17°47'29.58" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|24°41'27.79" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|19°24'55.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|7°6'18.58" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°17'21.19" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|4°48'55.80" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|10°37'53.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|17°47'20.81" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|25°58'5.01" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'55.99" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°24'55.99" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|7°6'19.82" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|12°17'21.82" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|4°49'5.37" |Cancer|Nathrah|Venus|

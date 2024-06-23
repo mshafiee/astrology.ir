@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'14.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|19°23'14.77" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°25'4.48" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°2'8.55" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|1°51'49.58" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°49'38.34" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|11°33'57.79" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|10°53'32.52" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°49'38.77" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|11°33'58.39" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°47'23.28" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°23'14.77" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°23'14.77" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°25'4.48" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°2'8.55" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°51'49.58" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|6°49'38.34" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°33'57.79" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°53'32.52" |Capricorn|SaadAlDhabib|Mars|
+|♂ Mars|Direct|10°2'8.95" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°51'50.43" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°49'38.77" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°33'58.39" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|10°47'23.28" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴
