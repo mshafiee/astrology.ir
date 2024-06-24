@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 17:39:18|Night duration: 06:21:25|
+|Duration of the day: 17:39:18|Night duration: 06:21:24|
 |Every hour duration: 02:31:20|Every hour duration: 00:54:29|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mars|Ruler|20:56:49|21:51:17|
 |Late evening|Sun|Servant|21:51:18|22:45:46|
 |Midnight|Venus|Servant|22:45:47|23:40:15|
-|Late at night|Mercury|Servant|23:40:16|00:34:45|
-|Rooster song|Moon|Servant|00:34:46|01:29:14|
-|False Dawn|Saturn|Servant|01:29:15|02:23:43|
-|Dawn|Jupiter|Servant|02:23:44|03:18:13|
+|Late at night|Mercury|Servant|23:40:16|00:34:44|
+|Rooster song|Moon|Servant|00:34:45|01:29:13|
+|False Dawn|Saturn|Servant|01:29:14|02:23:42|
+|Dawn|Jupiter|Servant|02:23:43|03:18:12|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'31.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|7°33'57.08" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°48'20.99" |Aries|Butain|Sun|
-|☉ Sun|Direct|6°48'48.95" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|13°12'17.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|21°49'8.77" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|24°43'29.41" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°33'57.02" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°48'21.21" |Aries|Butain|Sun|
+|☉ Sun|Direct|6°48'48.21" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°12'16.80" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|21°49'7.94" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°51'56.34" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°48'21.21" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|6°48'48.21" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|13°12'16.80" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°49'7.93" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|24°51'55.69" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|21°49'7.94" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|24°51'56.34" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

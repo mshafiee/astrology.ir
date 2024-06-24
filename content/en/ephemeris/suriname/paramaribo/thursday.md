@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'35.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|7°38'58.86" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°4'56.57" |Aries|Butain|Sun|
-|☉ Sun|Direct|7°10'42.53" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|13°40'32.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°32'26.30" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|29°44'4.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°39'0.30" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°5'2.09" |Aries|Butain|Sun|
+|☉ Sun|Direct|7°10'50.26" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°40'36.86" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°32'31.11" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°16'18.65" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Sun|Mercury|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mars|Pisces|Moon|Jupiter|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'35.22" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|7°39'0.42" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|19°25'35.11" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|7°39'0.30" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|14°5'2.04" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|7°10'50.25" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|13°40'36.90" |Cancer|Tarf|Mercury|

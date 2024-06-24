@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°23'30.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°30'22.77" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°19'29.66" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|2°14'32.34" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°18'52.75" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°22'47.42" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|16°14'39.44" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|19°23'30.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|6°30'22.89" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°19'29.60" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|2°14'32.33" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°18'48.29" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°22'41.96" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|16°59'4.90" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°23'30.86" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°30'22.77" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°19'29.66" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°14'32.34" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|19°23'30.97" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°30'22.89" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°19'29.60" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°14'32.33" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|7°18'52.78" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|12°22'47.43" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|16°14'38.89" |Capricorn|SaadAlBula|Mars|

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 14:26:25|Night duration: 09:33:54|
+|Duration of the day: 14:26:25|Night duration: 09:33:55|
 |Every hour of day duration: 01:12:12|Every hour of night duration: 00:47:50|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Sun|Servant|22:00:34|22:48:23|Attracting material wealth, earnings and business prosperity|
 |5|Venus|Servant|22:48:24|23:36:12|Attracting misfortune, no task is suitable|
 |6|Mercury|Servant|23:36:13|00:24:02|Repelling negative energy of evil eye|
-|7|Moon|Servant|00:24:03|01:11:51|Attracting love and hearts|
-|8|Saturn|Ruler|01:11:52|01:59:41|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|01:59:42|02:47:30|Heart tenderness|
-|10|Mars|Servant|02:47:31|03:35:20|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|03:35:21|04:23:09|Attracting connection and suitors|
-|12|Venus|Servant|04:23:10|05:10:59|Hatred, corruption and creating negative energy for disruption|
+|7|Moon|Servant|00:24:03|01:11:52|Attracting love and hearts|
+|8|Saturn|Ruler|01:11:53|01:59:41|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|01:59:42|02:47:31|Heart tenderness|
+|10|Mars|Servant|02:47:32|03:35:20|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|03:35:21|04:23:10|Attracting connection and suitors|
+|12|Venus|Servant|04:23:11|05:11:00|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'32.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|19°24'32.72" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|6°54'30.80" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|11°38'33.79" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|3°58'8.38" |Gemini|HaqAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|19°24'32.72" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°24'32.72" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|6°54'30.80" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°38'33.79" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|3°58'8.38" |Cancer|Nathrah|Venus|

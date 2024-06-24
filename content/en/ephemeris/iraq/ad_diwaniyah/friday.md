@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:13:57|Night duration: 09:46:26|
+|Duration of the day: 14:13:57|Night duration: 09:46:25|
 |Every hour of day duration: 01:11:10|Every hour of night duration: 00:48:52|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Venus|Servant|20:48:19|21:37:10|Attracting misfortune, no task is suitable|
 |4|Mercury|Servant|21:37:11|22:26:02|Unfortunate hour|
 |5|Moon|Servant|22:26:03|23:14:54|Achieving position and status and attracting job fortune|
-|6|Saturn|Servant|23:14:55|00:03:47|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:03:48|00:52:39|Promotion and attracting wealth|
-|8|Mars|Ruler|00:52:40|01:41:31|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|01:41:32|02:30:23|Causing separation and homelessness|
-|10|Venus|Servant|02:30:24|03:19:15|Extremely unfortunate|
-|11|Mercury|Servant|03:19:16|04:08:07|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|04:08:08|04:57:00|Suitable for asking for a need|
+|6|Saturn|Servant|23:14:55|00:03:46|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:03:47|00:52:38|Promotion and attracting wealth|
+|8|Mars|Ruler|00:52:39|01:41:30|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|01:41:31|02:30:22|Causing separation and homelessness|
+|10|Venus|Servant|02:30:23|03:19:14|Extremely unfortunate|
+|11|Mercury|Servant|03:19:15|04:08:06|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|04:08:07|04:56:59|Suitable for asking for a need|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'32.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|7°34'51.80" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°51'21.78" |Aries|Butain|Sun|
-|☉ Sun|Direct|6°52'47.87" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|13°17'23.19" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|21°56'58.22" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|25°46'22.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|19°25'32.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|7°34'51.91" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°51'21.73" |Aries|Butain|Sun|
+|☉ Sun|Direct|6°52'47.86" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°17'23.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|21°56'58.23" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°46'23.53" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'32.19" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|7°34'51.80" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|13°51'21.78" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|6°52'47.87" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|13°17'23.19" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°56'58.22" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|25°46'22.90" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|19°25'32.30" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|7°34'51.91" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|13°51'21.73" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|6°52'47.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|13°17'23.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|21°56'58.17" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|25°46'36.45" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
