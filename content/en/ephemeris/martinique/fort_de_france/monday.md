@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°24'43.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|6°59'27.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°54'48.89" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|4°19'28.93" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|9°59'50.31" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|16°46'21.66" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|17°10'52.98" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|6°59'28.09" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°54'48.84" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|4°19'14.40" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|9°59'41.50" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|16°46'9.38" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|18°46'12.44" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°24'42.99" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|6°59'25.78" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|11°54'45.64" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|4°19'14.41" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|9°59'41.46" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|19°24'43.10" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|6°59'25.90" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|11°54'45.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|4°19'14.40" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|9°59'41.50" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|16°46'9.38" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|18°46'12.44" |Aquarius|SaadAlAkhbia|Mercury|
 

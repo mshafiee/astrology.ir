@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'41.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|7°56'58.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°4'28.67" |Aries|Butain|Sun|
-|☉ Sun|Direct|8°29'15.86" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|15°21'42.58" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°4'49.51" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|20°7'8.00" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|19°25'40.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|7°56'58.35" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°4'28.72" |Aries|Butain|Sun|
+|☉ Sun|Direct|8°29'19.82" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|15°21'45.09" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°4'53.28" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|19°56'10.31" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'41.06" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|7°56'58.46" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|19°25'40.95" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|7°56'58.35" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|15°4'28.67" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|8°29'19.81" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|15°21'45.13" |Cancer|Tarf|Mercury|

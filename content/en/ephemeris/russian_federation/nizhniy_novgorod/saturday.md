@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:18:14 |
+| Sunrise | 03:18:13 |
 | Dhuhr (Noon) | 12:07:33 |
 | Medium Coeli | 12:07:33 |
 | Sunset | 20:56:28 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:18:14 |
+| Sunrise | 03:18:13 |
 | Dhuhr (Noon) | 12:07:33 |
 | Medium Coeli | 12:07:33 |
 | Sunset | 20:56:28 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 17:38:14|Night duration: 06:22:32|
+|Duration of the day: 17:38:15|Night duration: 06:22:32|
 |Every hour of day duration: 01:28:11|Every hour of night duration: 00:31:53|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|03:18:14|04:46:24|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|04:46:25|06:14:35|Peace among people|
-|3|Mars|Servant|06:14:36|07:42:46|Vengeful and evil deeds|
-|4|Sun|Servant|07:42:47|09:10:57|Dominance, judgment and issuing verdict|
+|1|Saturn|Ruler|03:18:13|04:46:23|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|04:46:24|06:14:34|Peace among people|
+|3|Mars|Servant|06:14:35|07:42:45|Vengeful and evil deeds|
+|4|Sun|Servant|07:42:46|09:10:57|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|09:10:58|10:39:08|Auspicious|
-|6|Mercury|Servant|10:39:09|12:07:20|Writing, swapping and making promises|
-|7|Moon|Servant|12:07:21|13:35:31|Not suitable for any task|
-|8|Saturn|Ruler|13:35:32|15:03:42|Destruction of enemies|
+|6|Mercury|Servant|10:39:09|12:07:19|Writing, swapping and making promises|
+|7|Moon|Servant|12:07:20|13:35:30|Not suitable for any task|
+|8|Saturn|Ruler|13:35:31|15:03:42|Destruction of enemies|
 |9|Jupiter|Servant|15:03:43|16:31:53|All good deeds|
 |10|Mars|Servant|16:31:54|18:00:04|Doing evil deeds|
 |11|Sun|Servant|18:00:05|19:28:15|Acceptance of reconciliation between couples|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'39.16" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|7°47'4.76" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|14°31'44.66" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|7°46'2.71" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°26'2.06" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|23°41'26.54" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°7'4.02" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|19°25'39.27" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|7°47'4.86" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|14°31'44.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|7°46'2.66" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|14°26'2.01" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|23°41'26.47" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°7'3.53" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

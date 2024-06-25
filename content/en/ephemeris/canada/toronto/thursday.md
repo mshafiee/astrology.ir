@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:20:53 |
 | Medium Coeli | 13:20:53 |
 | Sunset | 21:03:41 |
-| Maghrib | 21:06:45 |
+| Maghrib | 21:06:44 |
 | Isha (Night) | 23:17:05 |
 | Sharia Midnight | 00:08:31 |
 | Imum Coeli | 01:21:00 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:20:53 |
 | Medium Coeli | 13:20:53 |
 | Sunset | 21:03:41 |
-| Maghrib | 21:06:45 |
+| Maghrib | 21:06:44 |
 | Isha (Night) | 23:22:47 |
 | Sharia Midnight | 23:58:38 |
 | Imum Coeli | 01:21:00 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:20:53 |
 | Medium Coeli | 13:20:53 |
 | Sunset | 21:03:41 |
-| Maghrib | 21:06:45 |
+| Maghrib | 21:06:44 |
 | Isha (Night) | 23:28:43 |
 | Sharia Midnight | 00:08:31 |
 | Imum Coeli | 01:21:00 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:20:53 |
 | Medium Coeli | 13:20:53 |
 | Sunset | 21:03:41 |
-| Maghrib | 21:06:45 |
+| Maghrib | 21:06:44 |
 | Isha (Night) | 22:36:44 |
 | Sharia Midnight | 00:05:24 |
 | Imum Coeli | 01:21:00 |
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'35.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|7°39'4.44" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°5'16.00" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|7°39'4.32" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°5'16.05" |Aries|Butain|Sun|
 |☉ Sun|Direct|7°11'7.32" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|13°41'0.77" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|13°41'0.73" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|22°33'7.84" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|0°23'32.62" |Pisces|FarghAlMuqaddam|Saturn|
 
