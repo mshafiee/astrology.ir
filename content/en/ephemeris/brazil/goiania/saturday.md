@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:20:38 |
 | Sunset | 17:54:56 |
 | Maghrib | 18:12:54 |
-| Isha (Night) | 18:55:33 |
+| Isha (Night) | 18:55:32 |
 | Sharia Midnight | 23:42:11 |
 | Imum Coeli | 00:20:44 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'39.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|8°5'18.67" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°32'7.13" |Aries|Butain|Sun|
-|☉ Sun|Direct|9°5'54.32" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|16°8'53.40" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|26°14'33.29" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|28°46'22.40" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|8°5'18.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°32'8.17" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°5'54.44" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°8'53.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|26°14'32.84" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|29°1'21.77" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'39.82" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|8°5'18.84" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°32'8.21" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|9°5'54.45" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°8'53.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|26°14'32.83" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|29°1'22.13" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|19°25'39.93" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|8°5'18.96" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°32'8.17" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°5'54.44" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°8'53.33" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°14'32.84" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°1'21.77" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
