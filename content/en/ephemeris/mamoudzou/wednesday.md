@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'7.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|8°40'42.53" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°30'0.12" |Aries|Butain|Sun|
-|☉ Sun|Direct|11°42'5.73" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|19°30'15.18" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|1°2'20.15" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|6°47'46.99" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|8°40'43.84" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|17°30'1.22" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°42'16.70" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|19°30'22.19" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|1°2'31.08" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|7°21'37.83" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'7.56" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|8°40'42.53" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|17°30'0.16" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°42'5.75" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|19°30'15.14" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°2'20.14" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|6°47'46.98" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|8°40'43.84" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|17°30'1.22" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°42'16.70" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|19°30'22.19" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°2'31.08" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|7°21'37.83" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

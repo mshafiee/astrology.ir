@@ -53,12 +53,12 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:36:32 |
-| Sunrise | 05:11:51 |
+| Sunrise | 05:11:52 |
 | Dhuhr (Noon) | 13:00:36 |
 | Medium Coeli | 13:00:36 |
 | Sunset | 20:49:02 |
 | Maghrib | 21:17:11 |
-| Isha (Night) | 22:39:04 |
+| Isha (Night) | 22:39:05 |
 | Sharia Midnight | 23:43:30 |
 | Imum Coeli | 01:00:42 |
 {{< /tab >}}
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:32:04 |
-| Sunrise | 05:11:52 |
+| Sunrise | 05:11:51 |
 | Dhuhr (Noon) | 13:00:36 |
 | Medium Coeli | 13:00:36 |
 | Sunset | 20:49:02 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:24:08 |
-| Sunrise | 05:11:51 |
+| Sunrise | 05:11:52 |
 | Dhuhr (Noon) | 13:00:36 |
 | Medium Coeli | 13:00:36 |
 | Sunset | 20:49:02 |
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|12°39'4.97" |Cancer|Nathrah|Mercury|
 |♀ Venus|Direct|20°43'35.38" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|2°43'13.72" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|20°44'7.09" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|20°32'2.95" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

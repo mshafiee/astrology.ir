@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 21:21:17 |
 | Maghrib | 21:26:50 |
 | Isha (Night) | 00:10:50 |
-| Sharia Midnight | 23:26:13 |
+| Sharia Midnight | 23:26:14 |
 | Imum Coeli | 01:25:47 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'40.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|8°1'53.84" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°20'48.54" |Aries|Butain|Sun|
-|☉ Sun|Direct|8°50'54.00" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|15°49'34.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°46'7.34" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|25°13'41.80" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|8°1'53.72" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°20'48.59" |Aries|Butain|Sun|
+|☉ Sun|Direct|8°50'54.01" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|15°49'34.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°46'7.33" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°13'42.06" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'40.72" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|8°1'53.84" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°20'48.54" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|8°50'54.00" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°49'34.87" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°46'7.34" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°13'41.80" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|19°25'40.61" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|8°1'53.72" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°20'48.59" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|8°50'54.01" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°49'34.83" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°46'7.33" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°13'42.06" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

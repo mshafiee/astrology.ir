@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'26.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|8°25'56.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|16°40'43.75" |Aries|Butain|Sun|
-|☉ Sun|Direct|10°36'48.28" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|18°5'52.45" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|29°3'41.79" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|20°5'5.39" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|19°25'26.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|8°25'57.08" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|16°40'43.70" |Aries|Butain|Sun|
+|☉ Sun|Direct|10°36'48.15" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|18°6'0.50" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|29°3'52.68" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|21°19'34.78" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Mars|Venus|Venus|Mars|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'26.59" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|8°25'57.08" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|16°40'43.70" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|10°36'48.27" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|18°6'0.45" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|29°3'52.42" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|20°5'5.89" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|8°25'56.98" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|16°40'43.05" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|10°36'48.15" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|18°6'0.50" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|29°3'52.68" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|21°19'34.78" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

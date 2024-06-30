@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:19:45 |
-| Sunrise | 06:27:30 |
+| Sunrise | 06:27:29 |
 | Dhuhr (Noon) | 12:11:18 |
 | Medium Coeli | 12:11:18 |
 | Sunset | 17:55:09 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:27:39|Night duration: 12:32:26|
+|Duration of the day: 11:27:40|Night duration: 12:32:26|
 |Every hour duration: 01:38:14|Every hour duration: 01:47:29|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|06:27:30|08:05:43|
-|Mid-morning|Moon|Servant|08:05:44|09:43:57|
-|Late morning|Saturn|Servant|09:43:58|11:22:11|
-|Noon|Jupiter|Servant|11:22:12|13:00:25|
+|Early morning|Mercury|Ruler|06:27:29|08:05:42|
+|Mid-morning|Moon|Servant|08:05:43|09:43:56|
+|Late morning|Saturn|Servant|09:43:57|11:22:10|
+|Noon|Jupiter|Servant|11:22:11|13:00:25|
 |Early afternoon|Mars|Servant|13:00:26|14:38:39|
 |Mid-afternoon|Sun|Servant|14:38:40|16:16:53|
 |Late afternoon|Venus|Servant|16:16:54|17:55:08|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|8°40'47.17" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|17°30'11.92" |Aries|Butain|Sun|
 |☉ Sun|Direct|11°42'31.00" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|19°30'40.60" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|19°30'40.64" |Gemini|Dhira|Mars|
 |☿ Mercury|Direct|1°2'56.67" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|7°25'22.77" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|7°25'22.79" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'7.48" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|8°40'47.18" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|17°30'11.95" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°42'31.04" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|19°30'40.69" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°2'56.74" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|7°25'23.22" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|19°25'7.59" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|8°40'47.17" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|17°30'11.92" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°42'31.00" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|19°30'40.64" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°2'56.67" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|7°25'22.79" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

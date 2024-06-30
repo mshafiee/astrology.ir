@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:06:35 |
-| Sunrise | 04:59:25 |
+| Sunrise | 04:59:24 |
 | Dhuhr (Noon) | 12:07:39 |
 | Medium Coeli | 12:07:39 |
 | Sunset | 19:15:47 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:16:46 |
-| Sunrise | 04:59:25 |
+| Sunrise | 04:59:24 |
 | Dhuhr (Noon) | 12:07:39 |
 | Medium Coeli | 12:07:39 |
 | Sunset | 19:15:47 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 14:16:23|Night duration: 09:44:02|
+|Duration of the day: 14:16:22|Night duration: 09:44:02|
 |Every hour of day duration: 01:11:22|Every hour of night duration: 00:48:40|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|04:59:24|06:10:44|Love and attraction of capital|
-|2|Venus|Servant|06:10:45|07:22:06|Unfortunate, no task is suitable|
-|3|Mercury|Servant|07:22:07|08:33:28|Operations of tenderness and attraction of love|
-|4|Moon|Servant|08:33:29|09:44:50|Unfortunate and repelling goodness|
-|5|Saturn|Servant|09:44:51|10:56:12|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|10:56:13|12:07:34|Suitable for all good deeds|
-|7|Mars|Servant|12:07:35|13:18:56|No task is suitable, causes misfortune|
+|1|Sun|Ruler|04:59:25|06:10:45|Love and attraction of capital|
+|2|Venus|Servant|06:10:46|07:22:07|Unfortunate, no task is suitable|
+|3|Mercury|Servant|07:22:08|08:33:29|Operations of tenderness and attraction of love|
+|4|Moon|Servant|08:33:30|09:44:51|Unfortunate and repelling goodness|
+|5|Saturn|Servant|09:44:52|10:56:13|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|10:56:14|12:07:35|Suitable for all good deeds|
+|7|Mars|Servant|12:07:36|13:18:56|No task is suitable, causes misfortune|
 |8|Sun|Ruler|13:18:57|14:30:18|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|14:30:19|15:41:40|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|15:41:41|16:53:02|Attracting happiness, solving financial problems|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'40.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|8°1'4.98" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°18'6.17" |Aries|Butain|Sun|
-|☉ Sun|Direct|8°47'20.08" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|15°44'58.03" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°39'18.34" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|24°23'25.93" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|19°25'40.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|8°1'4.87" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°18'6.25" |Aries|Butain|Sun|
+|☉ Sun|Direct|8°47'20.13" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|15°44'58.05" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°39'18.40" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°23'26.59" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'40.83" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|8°1'4.98" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°18'6.09" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|8°47'20.25" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°44'58.16" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°39'18.54" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|24°21'43.07" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|19°25'40.72" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|8°1'4.87" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°18'6.25" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|8°47'20.13" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°44'58.12" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°39'18.45" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|24°23'34.59" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

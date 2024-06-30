@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 15:38:09|Night duration: 08:22:31|
+|Duration of the day: 15:38:09|Night duration: 08:22:30|
 |Every hour duration: 02:14:01|Every hour duration: 01:11:47|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Sun|Ruler|20:49:21|22:01:07|
 |Late evening|Venus|Servant|22:01:08|23:12:54|
 |Midnight|Mercury|Servant|23:12:55|00:24:41|
-|Late at night|Moon|Servant|00:24:42|01:36:29|
-|Rooster song|Saturn|Servant|01:36:30|02:48:16|
-|False Dawn|Jupiter|Servant|02:48:17|04:00:03|
-|Dawn|Mars|Servant|04:00:04|05:11:51|
+|Late at night|Moon|Servant|00:24:42|01:36:28|
+|Rooster song|Saturn|Servant|01:36:29|02:48:15|
+|False Dawn|Jupiter|Servant|02:48:16|04:00:02|
+|Dawn|Mars|Servant|04:00:03|05:11:50|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'7.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|8°40'37.93" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°29'41.53" |Aries|Butain|Sun|
-|☉ Sun|Direct|11°41'49.28" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|19°29'48.85" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|1°1'44.81" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|6°59'35.97" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|8°40'37.48" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|17°29'40.53" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°41'48.58" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|19°29'48.59" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|1°1'44.69" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|6°49'23.81" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'7.87" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|8°40'37.71" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|17°29'41.53" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°41'49.27" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|19°29'48.89" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°1'44.81" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|6°59'35.97" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|19°25'7.75" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|8°40'37.60" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|17°29'40.49" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°41'48.57" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|19°29'48.62" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°1'44.70" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|6°49'23.82" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

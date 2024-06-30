@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 23:01:16 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:27:26 |
+| Imum Coeli | 01:27:27 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 23:08:04 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:27:26 |
+| Imum Coeli | 01:27:27 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 22:23:02 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:27:26 |
+| Imum Coeli | 01:27:27 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 22:23:02 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:27:26 |
+| Imum Coeli | 01:27:27 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 22:23:02 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:27:26 |
+| Imum Coeli | 01:27:27 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 22:23:02 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:27:26 |
+| Imum Coeli | 01:27:27 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 22:23:02 |
 | Isha (Night) | 23:53:02 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:27:26 |
+| Imum Coeli | 01:27:27 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'40.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|8°0'50.89" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°17'20.01" |Aries|Butain|Sun|
-|☉ Sun|Direct|8°46'17.69" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|15°43'38.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°37'20.10" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|24°16'28.12" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|19°25'40.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|8°0'50.24" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°17'18.43" |Aries|Butain|Sun|
+|☉ Sun|Direct|8°46'15.20" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|15°43'36.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°37'18.44" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°2'5.76" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'40.88" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|8°0'50.36" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°17'18.38" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|8°46'15.19" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|19°25'40.77" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|8°0'50.24" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°17'18.43" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|8°46'15.20" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|15°43'36.79" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|25°37'18.45" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|24°2'5.54" |Aries|Butain|Venus|
