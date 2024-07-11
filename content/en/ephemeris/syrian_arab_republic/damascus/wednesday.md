@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°20'23.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|10°9'4.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°27'55.96" |Aries|Butain|Venus|
-|☉ Sun|Direct|18°20'56.49" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|28°4'3.64" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|19°20'23.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|10°9'4.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°27'56.18" |Aries|Butain|Venus|
+|☉ Sun|Direct|18°20'56.64" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|28°4'3.65" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|12°4'27.43" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|6°57'17.51" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|6°56'37.88" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°20'23.58" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|10°9'4.97" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°27'56.16" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|10°9'4.86" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°27'56.18" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|18°20'56.64" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|28°4'3.70" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|12°4'27.45" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°56'37.27" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|28°4'3.65" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|12°4'27.43" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|7°16'37.88" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

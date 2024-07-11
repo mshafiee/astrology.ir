@@ -38,13 +38,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | Circumpolar Angle |
-| Dhuhr (Noon) | 11:59:27 |
-| Medium Coeli | 11:59:27 |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 14:49:33 |
+| Isha (Night) | 14:39:05 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 23:59:40 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -54,13 +54,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | Circumpolar Angle |
-| Dhuhr (Noon) | 11:59:27 |
-| Medium Coeli | 11:59:27 |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 14:49:33 |
+| Isha (Night) | 14:39:05 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 23:59:40 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -70,13 +70,13 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | Circumpolar Angle |
-| Dhuhr (Noon) | 11:59:27 |
-| Medium Coeli | 11:59:27 |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 16:07:51 |
+| Isha (Night) | 15:57:23 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 23:59:40 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -86,13 +86,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | Circumpolar Angle |
-| Dhuhr (Noon) | 11:59:27 |
-| Medium Coeli | 11:59:27 |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 15:18:14 |
+| Isha (Night) | 15:07:46 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 23:59:40 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -102,13 +102,13 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | Circumpolar Angle |
-| Dhuhr (Noon) | 11:59:27 |
-| Medium Coeli | 11:59:27 |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 16:19:13 |
+| Isha (Night) | 16:08:46 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 23:59:40 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -118,13 +118,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | Circumpolar Angle |
-| Dhuhr (Noon) | 11:59:27 |
-| Medium Coeli | 11:59:27 |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 16:30:19 |
+| Isha (Night) | 16:19:51 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 23:59:40 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -134,13 +134,13 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | Circumpolar Angle |
-| Dhuhr (Noon) | 11:59:27 |
-| Medium Coeli | 11:59:27 |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 23:59:40 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< /tabs >}}

@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:09:15 |
+| Fajr (Dawn) | 06:09:14 |
 | Sunrise | 07:32:51 |
 | Dhuhr (Noon) | 12:26:04 |
 | Medium Coeli | 12:26:04 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°8'1.17" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|25°50'30.11" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|22°55'4.97" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°57'17.86" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°37'38.85" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°13'7.10" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|3°57'10.01" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°37'26.35" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°28'25.69" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

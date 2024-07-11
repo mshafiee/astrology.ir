@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:22:29 |
 | Medium Coeli | 13:22:29 |
 | Sunset | 22:31:04 |
-| Maghrib | 22:33:54 |
+| Maghrib | 22:33:55 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:22:33 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:22:29 |
 | Medium Coeli | 13:22:29 |
 | Sunset | 22:31:04 |
-| Maghrib | 22:33:54 |
+| Maghrib | 22:33:55 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:22:33 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:22:29 |
 | Medium Coeli | 13:22:29 |
 | Sunset | 22:31:04 |
-| Maghrib | 22:33:54 |
+| Maghrib | 22:33:55 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:22:33 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:22:29 |
 | Medium Coeli | 13:22:29 |
 | Sunset | 22:31:04 |
-| Maghrib | 22:33:54 |
-| Isha (Night) | 00:03:54 |
+| Maghrib | 22:33:55 |
+| Isha (Night) | 00:03:55 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:22:33 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°20'24.43" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|10°8'53.61" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°27'18.60" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|19°20'24.55" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|10°8'53.73" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°27'18.58" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|18°20'4.21" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|28°2'58.61" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|12°3'9.61" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°31'37.39" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|28°2'58.65" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|12°3'9.63" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°31'36.79" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
