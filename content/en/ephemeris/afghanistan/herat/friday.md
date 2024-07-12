@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:26:55 |
 | Sunset | 19:34:53 |
 | Maghrib | 19:40:42 |
-| Isha (Night) | 21:15:44 |
+| Isha (Night) | 21:15:45 |
 | Sharia Midnight | 23:29:47 |
 | Imum Coeli | 00:26:58 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°18'14.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|10°32'58.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°49'39.91" |Aries|Butain|Venus|
-|☉ Sun|Direct|20°11'11.07" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|0°26'8.36" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|14°48'51.39" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|29°13'30.83" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|10°32'58.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°49'39.68" |Aries|Butain|Venus|
+|☉ Sun|Direct|20°11'14.39" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|0°26'10.66" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|14°48'55.59" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|29°37'33.79" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°18'14.12" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|10°32'58.68" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°49'39.91" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|20°11'11.07" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|10°32'58.96" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°49'39.68" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|20°11'14.39" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|0°26'8.36" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|14°48'51.39" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|29°13'30.83" |Virgo|Simak|Mercury|

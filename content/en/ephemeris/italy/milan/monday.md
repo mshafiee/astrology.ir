@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:29:18 |
 | Medium Coeli | 13:29:18 |
 | Sunset | 21:08:43 |
-| Maghrib | 21:32:12 |
+| Maghrib | 21:32:13 |
 | Isha (Night) | 22:52:11 |
 | Sharia Midnight | 00:27:54 |
 | Imum Coeli | 01:29:20 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'58.60" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°11'11.62" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°1'31.09" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|23°10'4.63" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°16'36.65" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°57'37.29" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°19'23.57" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|19°13'58.73" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°11'11.75" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°1'31.10" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|23°10'4.64" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°16'36.31" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°57'36.71" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°19'23.47" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

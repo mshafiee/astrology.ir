@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:09:14 |
+| Fajr (Dawn) | 06:09:15 |
 | Sunrise | 07:32:51 |
 | Dhuhr (Noon) | 12:26:04 |
 | Medium Coeli | 12:26:04 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°14'22.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°8'1.17" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°14'22.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°8'1.29" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|25°50'30.11" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°55'4.97" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°57'17.86" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|18°37'38.85" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°13'7.10" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°55'4.98" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°57'17.91" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|18°37'38.88" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°13'7.91" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°14'22.12" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°8'1.17" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|19°14'22.25" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°8'1.29" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|25°50'30.11" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°55'4.97" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°57'10.01" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°37'26.35" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°28'25.69" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|22°55'4.98" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°57'17.91" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°37'38.88" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°13'7.91" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

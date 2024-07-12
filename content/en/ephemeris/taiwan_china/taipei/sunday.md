@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:45:48 |
 | Sunrise | 05:12:47 |
-| Dhuhr (Noon) | 11:59:47 |
-| Medium Coeli | 11:59:47 |
+| Dhuhr (Noon) | 11:59:48 |
+| Medium Coeli | 11:59:48 |
 | Sunset | 18:46:36 |
 | Maghrib | 19:05:37 |
 | Isha (Night) | 19:53:46 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:00:15 |
 | Sunrise | 05:12:47 |
-| Dhuhr (Noon) | 11:59:47 |
-| Medium Coeli | 11:59:47 |
+| Dhuhr (Noon) | 11:59:48 |
+| Medium Coeli | 11:59:48 |
 | Sunset | 18:46:36 |
 | Maghrib | 18:47:41 |
 | Isha (Night) | 19:59:01 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°14'23.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°7'51.78" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°14'23.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°7'51.90" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|25°49'57.43" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°54'21.92" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°56'20.54" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|18°36'40.23" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°0'29.51" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°54'21.93" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°56'20.59" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|18°36'40.26" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°0'30.31" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°14'23.24" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|19°14'23.37" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|11°7'51.90" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|25°49'57.43" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|22°54'21.93" |Cancer|Tarf|Moon|

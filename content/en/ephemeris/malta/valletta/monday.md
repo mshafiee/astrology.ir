@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'58.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°11'15.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°1'45.03" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°10'24.08" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°17'0.64" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|18°58'2.10" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|6°21'52.94" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|19°13'58.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°11'16.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°1'46.95" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°10'23.45" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°16'59.77" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|18°57'59.58" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|5°56'41.06" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'58.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°11'15.70" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°1'45.03" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|23°10'24.08" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°17'0.64" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|19°13'58.21" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°11'15.82" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°1'45.04" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|23°10'24.09" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°17'0.69" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|18°58'2.10" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|6°21'52.94" |Scorpio|Akleel|Mars|
 
