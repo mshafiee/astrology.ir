@@ -233,7 +233,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|20:58:52|21:45:25|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Jupiter|Servant|21:45:26|22:32:00|Attracting misfortune, no task is suitable|
+|2|Jupiter|Servant|21:45:26|22:32:00|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|22:32:01|23:18:35|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|23:18:36|00:05:10|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Venus|Servant|00:05:11|00:51:44|The moon is in Scorpio, Not suitable for doing anything.|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°10'18.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°38'30.88" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°36'46.10" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|19°10'18.77" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°38'31.00" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°36'46.11" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|25°19'59.24" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|7°3'56.85" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°43'35.40" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|4°12'58.52" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|7°3'56.90" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°43'35.43" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|4°12'59.57" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

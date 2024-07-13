@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|04:59:38|06:08:42|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mercury|Ruler|04:59:38|06:08:42|Acceptance of needs|
 |2|Moon|Servant|06:08:43|07:17:47|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Saturn|Servant|07:17:48|08:26:53|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|08:26:54|09:35:58|The moon is in Scorpio, Not suitable for doing anything.|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°34'22.76" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°22'17.06" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|25°0'12.07" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°38'27.12" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°19'8.14" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|29°47'53.77" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°38'27.05" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|21°19'8.95" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°10'34.70" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°22'17.06" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|25°0'12.07" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|6°38'27.12" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°19'8.11" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|29°47'52.78" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|21°19'8.14" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|29°47'53.77" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°10'9.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°39'37.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°40'38.78" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|25°25'17.64" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°10'46.59" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°50'5.61" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|5°21'18.27" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|11°39'37.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°40'38.79" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|25°25'18.05" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°10'47.08" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|21°50'6.75" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°27'25.56" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°10'9.04" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°39'37.34" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°40'38.78" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°25'17.64" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|7°10'46.59" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°50'5.61" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°21'18.27" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|19°10'9.17" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°39'37.38" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°40'38.17" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°25'18.05" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|7°10'47.08" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°50'6.75" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|5°27'25.56" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스

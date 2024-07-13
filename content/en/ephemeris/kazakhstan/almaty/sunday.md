@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:58:13 |
 | Sunset | 19:30:38 |
 | Maghrib | 19:37:03 |
-| Isha (Night) | 21:44:07 |
+| Isha (Night) | 21:44:08 |
 | Sharia Midnight | 22:51:39 |
 | Imum Coeli | 23:58:16 |
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°8'58.86" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|25°53'49.97" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|22°59'37.46" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°3'8.74" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°43'44.60" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°38'2.03" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|4°3'8.13" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°43'42.39" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°8'6.89" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:07:40 |
+| Fajr (Dawn) | 05:07:41 |
 | Sunrise | 06:22:07 |
 | Dhuhr (Noon) | 12:59:39 |
 | Medium Coeli | 12:59:39 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°11'50.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°27'34.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°58'29.96" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°27'43.95" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|5°56'37.29" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|20°38'21.33" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|22°43'11.09" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|11°27'34.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°58'29.97" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°27'43.96" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|5°56'37.34" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|20°38'21.36" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|22°43'11.99" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°11'50.53" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°27'34.18" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°58'29.96" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°27'43.95" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|5°56'37.29" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|20°38'21.33" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|22°43'11.09" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|19°11'50.66" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°27'34.30" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°58'29.97" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°27'43.96" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|5°56'37.34" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|20°38'21.36" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|22°43'11.99" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

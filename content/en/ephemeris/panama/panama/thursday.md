@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°17'42.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|10°38'15.70" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°17'42.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|10°38'15.82" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|24°7'47.29" |Aries|Butain|Venus|
-|☉ Sun|Direct|20°35'46.17" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|0°57'46.22" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°24'21.61" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°39'2.96" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|20°35'30.38" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|0°57'36.57" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°24'5.97" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°51'19.09" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|10°38'15.82" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|24°7'47.29" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|20°35'46.17" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|0°57'36.57" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°24'5.97" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°51'19.09" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°57'46.22" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°24'21.61" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°39'2.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Sun|Mars|Leo|Sun|Sun|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

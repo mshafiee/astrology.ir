@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°15'27.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|10°58'50.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°18'42.57" |Aries|Butain|Venus|
-|☉ Sun|Direct|22°11'57.19" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°1'43.96" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|17°39'19.92" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|24°51'25.50" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|10°58'51.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°18'46.09" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°11'59.21" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°1'44.41" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|17°39'19.27" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|24°15'44.89" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°15'27.75" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|10°58'51.44" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°18'42.57" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°11'57.19" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°1'43.96" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|17°39'19.92" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°51'25.50" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|10°58'50.73" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°18'46.61" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°11'50.25" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°1'38.21" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|17°39'7.70" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°30'22.42" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

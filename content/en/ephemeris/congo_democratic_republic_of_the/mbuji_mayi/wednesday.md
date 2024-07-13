@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°10'42.91" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|11°35'41.80" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°26'47.70" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°6'12.77" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°46'23.25" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°26'40.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°10'56.64" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|27°26'53.29" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°6'29.58" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°46'33.18" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°26'56.52" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°9'51.52" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи
