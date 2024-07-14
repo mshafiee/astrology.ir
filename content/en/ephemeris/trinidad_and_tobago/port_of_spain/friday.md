@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|10°49'54.09" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|24°47'50.76" |Aries|Butain|Venus|
 |☉ Sun|Direct|21°30'1.83" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|2°7'40.96" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|16°41'1.51" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|14°45'38.17" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|2°7'38.87" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|16°41'15.13" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|16°27'10.49" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mars|Jupiter|Capricorn|Sun|Mars|
-|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°16'28.44" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|10°49'52.81" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°47'49.92" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°29'49.04" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°7'32.54" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|16°41'1.51" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|14°45'38.17" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|10°49'52.49" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°47'44.89" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°29'56.56" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°7'38.87" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|16°41'15.13" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|16°27'10.49" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Sun|Mars|Leo|Sun|Sun|
 |☿ Mercury|Moon|Mercury|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
 
 
 {{< /tab >}}

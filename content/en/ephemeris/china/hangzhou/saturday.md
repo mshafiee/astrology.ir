@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:05:10 |
 | Sunset | 19:03:29 |
 | Maghrib | 19:04:38 |
-| Isha (Night) | 20:36:22 |
+| Isha (Night) | 20:36:21 |
 | Sharia Midnight | 23:12:46 |
 | Imum Coeli | 00:05:13 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°15'49.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|10°55'38.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°7'39.16" |Aries|Butain|Venus|
-|☉ Sun|Direct|21°56'53.51" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|2°42'18.01" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|17°18'35.26" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|21°10'14.96" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|19°15'49.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|10°55'38.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°7'38.36" |Aries|Butain|Venus|
+|☉ Sun|Direct|21°56'52.82" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|2°42'17.73" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|17°18'35.10" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|21°16'56.20" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°15'49.95" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|10°55'38.38" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°7'39.16" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°56'53.51" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°42'18.01" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|17°18'35.26" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°10'14.96" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|10°55'38.04" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°7'38.36" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°56'52.82" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°42'17.73" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|17°18'35.07" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|21°16'55.78" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'51.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°12'12.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°4'59.90" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°14'49.74" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°22'43.96" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°3'55.12" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°29'48.18" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|11°12'9.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°4'54.12" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°14'35.38" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°22'35.66" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°3'42.28" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|8°0'11.53" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Saturn|Sun|Leo|Moon|Moon|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'51.17" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°12'12.08" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°4'59.90" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|23°14'49.74" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°22'43.96" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°3'55.12" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|7°29'48.18" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|19°13'51.04" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°12'12.20" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°5'0.64" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|23°14'49.47" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°22'43.59" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°3'54.12" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|7°20'5.93" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

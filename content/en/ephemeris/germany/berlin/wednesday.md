@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:04:22 |
 | Dhuhr (Noon) | 13:12:35 |
 | Medium Coeli | 13:12:35 |
-| Sunset | 21:19:58 |
+| Sunset | 21:19:57 |
 | Maghrib | 21:53:49 |
 | Isha (Night) | 23:48:51 |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:04:22 |
 | Dhuhr (Noon) | 13:12:35 |
 | Medium Coeli | 13:12:35 |
-| Sunset | 21:19:58 |
+| Sunset | 21:19:57 |
 | Maghrib | 21:21:49 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:04:22 |
 | Dhuhr (Noon) | 13:12:35 |
 | Medium Coeli | 13:12:35 |
-| Sunset | 21:19:58 |
+| Sunset | 21:19:57 |
 | Maghrib | 21:21:49 |
 | Isha (Night) | 22:51:49 |
 | Sharia Midnight | Circumpolar Angle |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|25°2'44.09" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|6°41'44.57" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|21°22'17.69" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°30'28.41" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|0°30'19.02" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°10'49.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°34'54.65" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°24'9.19" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°2'43.84" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°41'44.40" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°22'17.38" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|0°30'28.41" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|11°34'54.67" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°24'9.21" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°2'44.09" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°41'44.57" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°22'17.69" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|0°30'19.02" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

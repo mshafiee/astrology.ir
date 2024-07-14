@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°15'14.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°0'45.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°25'21.43" |Aries|Butain|Venus|
-|☉ Sun|Direct|22°20'56.10" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°13'16.13" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|17°51'32.29" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|26°5'58.04" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|11°0'45.63" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°25'21.03" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°20'51.67" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°13'13.20" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|17°51'27.11" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|25°52'18.44" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°15'14.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°0'45.55" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°25'22.63" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°20'51.57" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°13'12.74" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|17°51'25.57" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°32'8.03" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|11°0'45.75" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°25'21.03" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°20'51.66" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°13'13.14" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|17°51'27.08" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|25°52'17.79" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Sun|Mars|Virgo|Sun|Sun|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mars|Venus|Leo|Moon|Moon|
+|☾ Moon|Sun|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}

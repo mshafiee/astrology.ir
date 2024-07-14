@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°9'31.63" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|11°43'54.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°55'39.82" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|25°45'49.03" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°37'14.09" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°15'3.27" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|10°6'22.08" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|27°55'38.34" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|25°45'41.78" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°37'9.47" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|22°14'55.16" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°27'29.63" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°9'31.63" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°43'54.58" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°55'40.52" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°45'49.32" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|7°37'14.09" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°15'2.97" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|9°59'22.26" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|11°43'54.42" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°55'38.34" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°45'41.78" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|7°37'9.47" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°14'55.16" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°27'29.63" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Venus|Mercury|Sun|Venus|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}

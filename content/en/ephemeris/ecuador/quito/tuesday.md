@@ -235,7 +235,7 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|18:22:50|19:22:23|Creating corruption, hatred and enmity|
 |2|Jupiter|Servant|19:22:24|20:21:58|Attracting misfortune, no task is suitable|
 |3|Mars|Servant|20:21:59|21:21:33|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Sun|Servant|21:21:34|22:21:08|Attracting material wealth, earnings and business prosperity|
+|4|Sun|Servant|21:21:34|22:21:08|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Venus|Servant|22:21:09|23:20:42|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|23:20:43|00:20:17|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|00:20:18|01:19:52|The moon is in Scorpio, Not suitable for doing anything.|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°39'1.14" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°38'31.23" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|25°22'23.62" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°6'56.95" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°46'26.20" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°4'52.65" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|7°7'1.93" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|21°46'32.23" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|4°38'23.29" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
