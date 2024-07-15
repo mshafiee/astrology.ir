@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:09:56 |
 | Medium Coeli | 12:09:56 |
 | Sunset | 19:05:58 |
-| Maghrib | 19:11:18 |
+| Maghrib | 19:11:17 |
 | Isha (Night) | 20:38:56 |
 | Sharia Midnight | 23:17:33 |
 | Imum Coeli | 00:09:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°9'11.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°46'11.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°3'40.32" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|25°56'47.84" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°51'21.12" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°28'15.63" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°24'14.04" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|19°9'11.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°46'11.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°3'40.31" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|25°56'47.83" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°51'21.06" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|22°28'15.60" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°24'12.90" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°9'11.26" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°46'11.30" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°3'40.32" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°56'47.84" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|7°51'21.12" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°28'15.63" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°24'14.04" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|19°9'11.13" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°46'11.18" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°3'40.31" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°56'47.83" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|7°51'21.06" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°28'15.60" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°24'12.90" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

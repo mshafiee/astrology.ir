@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:48:04 |
 | Dhuhr (Noon) | 12:28:43 |
 | Medium Coeli | 12:28:43 |
-| Sunset | 18:09:26 |
+| Sunset | 18:09:27 |
 | Maghrib | 18:26:45 |
 | Isha (Night) | 19:08:30 |
-| Sharia Midnight | 23:51:08 |
+| Sharia Midnight | 23:51:09 |
 | Imum Coeli | 00:28:46 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:48:04 |
 | Dhuhr (Noon) | 12:28:43 |
 | Medium Coeli | 12:28:43 |
-| Sunset | 18:09:26 |
+| Sunset | 18:09:27 |
 | Maghrib | 18:11:17 |
 | Isha (Night) | 19:12:52 |
 | Sharia Midnight | 23:57:01 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:48:04 |
 | Dhuhr (Noon) | 12:28:43 |
 | Medium Coeli | 12:28:43 |
-| Sunset | 18:09:26 |
+| Sunset | 18:09:27 |
 | Maghrib | 18:11:17 |
 | Isha (Night) | 19:41:17 |
 | Sharia Midnight | 23:49:24 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°14'35.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°6'8.09" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°43'57.43" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°46'12.25" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°45'49.95" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|18°25'43.81" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|1°19'29.27" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|11°6'5.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°43'51.27" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°45'58.26" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|3°45'42.01" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|18°25'31.84" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°46'29.18" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°14'35.99" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|11°6'8.09" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°43'51.30" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°45'58.92" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°45'42.44" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°25'32.63" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°48'20.12" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|25°43'57.43" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°46'12.25" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°45'49.95" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°25'43.81" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°19'29.27" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

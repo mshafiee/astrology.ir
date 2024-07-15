@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:04:22 |
 | Dhuhr (Noon) | 13:12:35 |
 | Medium Coeli | 13:12:35 |
-| Sunset | 21:19:57 |
+| Sunset | 21:19:58 |
 | Maghrib | 21:53:49 |
 | Isha (Night) | 23:48:51 |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:04:22 |
 | Dhuhr (Noon) | 13:12:35 |
 | Medium Coeli | 13:12:35 |
-| Sunset | 21:19:57 |
+| Sunset | 21:19:58 |
 | Maghrib | 21:21:49 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:04:22 |
 | Dhuhr (Noon) | 13:12:35 |
 | Medium Coeli | 13:12:35 |
-| Sunset | 21:19:57 |
+| Sunset | 21:19:58 |
 | Maghrib | 21:21:49 |
 | Isha (Night) | 22:51:49 |
 | Sharia Midnight | Circumpolar Angle |

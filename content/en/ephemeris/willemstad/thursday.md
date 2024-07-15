@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Saturn|Servant|02:34:37|03:30:52|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|03:30:53|04:27:07|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Mars|Servant|04:27:08|05:23:22|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Sun|Servant|05:23:23|06:19:38|Attracting misfortune, not suitable for any task|
+|12|Sun|Servant|05:23:23|06:19:38|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°6'41.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°2'17.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°0'23.56" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|19°6'41.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°2'17.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°0'23.57" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|27°14'33.57" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°31'29.57" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|23°59'3.73" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°19'15.70" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|9°31'29.62" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|23°59'3.77" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°19'16.46" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°6'41.10" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°2'17.43" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|19°6'41.24" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°2'17.55" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|29°0'23.57" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|27°14'33.57" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|9°31'29.62" |Leo|Zubrah|Saturn|
 |☿ Mercury|Direct|23°59'3.77" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°19'15.70" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|0°19'16.46" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
