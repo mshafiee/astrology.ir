@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Mars|Servant|12:10:18|13:11:17|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Sun|Servant|13:11:18|14:12:17|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Venus|Ruler|14:12:18|15:13:16|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Mercury|Servant|15:13:17|16:14:16|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Mercury|Servant|15:13:17|16:14:16|Causing separation and homelessness|
 |10|Moon|Servant|16:14:17|17:15:15|Extremely unfortunate|
 |11|Saturn|Servant|17:15:16|18:16:15|Creating an unfortunate horoscope for anyone|
 |12|Jupiter|Servant|18:16:16|19:17:15|Suitable for asking for a need|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°5'39.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°8'33.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°22'33.22" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|27°45'0.00" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°10'41.66" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°33'15.17" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|7°35'10.95" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|12°8'33.35" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°22'33.21" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|27°44'59.99" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°10'32.10" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°32'58.62" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°15'1.52" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°5'39.78" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°8'33.48" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°22'33.22" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°45'0.00" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|10°10'40.41" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°33'12.10" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|7°31'50.34" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°8'30.99" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°22'28.02" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°44'43.91" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|10°10'32.04" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|24°32'58.58" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|9°15'1.13" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}

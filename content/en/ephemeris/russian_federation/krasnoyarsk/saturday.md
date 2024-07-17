@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:54:56 |
 | Medium Coeli | 12:54:56 |
 | Sunset | 21:17:38 |
-| Maghrib | 21:51:25 |
+| Maghrib | 21:51:26 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:54:57 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°3'48.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°19'31.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°1'27.93" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°38'30.65" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°19'37.93" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|25°31'26.90" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|20°58'41.22" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|12°19'30.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°1'28.12" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°38'27.49" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°19'35.70" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|25°31'22.39" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|21°17'13.92" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°3'48.09" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°19'31.08" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|0°1'27.93" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|28°38'30.65" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|11°19'37.93" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|12°19'30.88" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|0°1'28.12" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|28°38'27.49" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|11°19'35.70" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|25°31'22.39" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|21°17'13.92" |Capricorn|SaadAlBula|Sun|
 

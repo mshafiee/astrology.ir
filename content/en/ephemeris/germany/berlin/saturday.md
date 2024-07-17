@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:12:46 |
 | Medium Coeli | 13:12:46 |
 | Sunset | 21:16:14 |
-| Maghrib | 21:18:05 |
+| Maghrib | 21:18:04 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:12:48 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:12:46 |
 | Medium Coeli | 13:12:46 |
 | Sunset | 21:16:14 |
-| Maghrib | 21:18:05 |
+| Maghrib | 21:18:04 |
 | Isha (Night) | 23:58:10 |
 | Sharia Midnight | 23:52:02 |
 | Imum Coeli | 01:12:48 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:12:46 |
 | Medium Coeli | 13:12:46 |
 | Sunset | 21:16:14 |
-| Maghrib | 21:18:05 |
+| Maghrib | 21:18:04 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:12:48 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:12:46 |
 | Medium Coeli | 13:12:46 |
 | Sunset | 21:16:14 |
-| Maghrib | 21:18:05 |
+| Maghrib | 21:18:04 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:12:48 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°5'20.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|19°5'19.96" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°10'31.97" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|29°29'33.78" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|27°54'36.79" |Gemini|Dhira|Sun|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|12°10'31.97" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|29°29'33.78" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|27°54'36.79" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|10°23'6.28" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°43'53.58" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|10°11'42.04" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|10°23'6.30" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|24°43'53.98" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°16'39.12" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

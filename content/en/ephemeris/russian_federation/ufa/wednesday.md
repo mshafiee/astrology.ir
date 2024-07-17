@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:22:21 |
 | Sunset | 21:41:48 |
 | Maghrib | 22:14:12 |
-| Isha (Night) | 01:22:19 |
+| Isha (Night) | 01:22:20 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:22:23 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°11'2.47" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|11°33'23.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°18'51.21" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°55'28.45" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°32'23.62" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°13'15.15" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|28°49'4.31" |Libra|Akleel|Jupiter|
+|♂ Mars|Direct|27°18'50.58" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°55'28.67" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°32'23.93" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|21°13'16.02" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|28°55'53.16" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

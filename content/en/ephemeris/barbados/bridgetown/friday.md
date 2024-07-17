@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:40:47|06:44:46|Love, creating love and attracting hearts|
+|1|Venus|Ruler|05:40:47|06:44:46|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mercury|Servant|06:44:47|07:48:46|Attracting auspiciousness|
 |3|Moon|Servant|07:48:47|08:52:46|Attracting misfortune, no task is suitable|
 |4|Saturn|Servant|08:52:47|09:56:46|Unfortunate hour|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|19°4'47.60" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°13'44.48" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|29°40'55.78" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|28°10'9.48" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°43'11.05" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|25°0'59.44" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°38'14.90" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|28°10'16.21" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°43'12.18" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|25°1'1.25" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°24'6.89" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|19°4'47.60" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|12°13'44.48" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|29°40'55.78" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|28°10'16.21" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|10°43'13.94" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°1'2.44" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°41'3.66" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|28°10'11.53" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|10°43'12.18" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|25°1'1.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°24'6.89" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Venus|Mercury|Jupiter|Sun|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
