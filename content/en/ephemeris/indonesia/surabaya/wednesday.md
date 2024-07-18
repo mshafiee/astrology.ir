@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:36:27 |
-| Sunrise | 05:42:42 |
+| Sunrise | 05:42:41 |
 | Dhuhr (Noon) | 11:35:12 |
 | Medium Coeli | 11:35:12 |
 | Sunset | 17:27:45 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:29:10 |
-| Sunrise | 05:42:42 |
+| Sunrise | 05:42:41 |
 | Dhuhr (Noon) | 11:35:12 |
 | Medium Coeli | 11:35:12 |
 | Sunset | 17:27:45 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:45 |
-| Sunrise | 05:42:42 |
+| Sunrise | 05:42:41 |
 | Dhuhr (Noon) | 11:35:12 |
 | Medium Coeli | 11:35:12 |
 | Sunset | 17:27:45 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:45:03|Night duration: 12:14:55|
+|Duration of the day: 11:45:04|Night duration: 12:14:55|
 |Every hour of day duration: 00:58:45|Every hour of night duration: 01:01:15|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|05:42:42|06:41:26|Acceptance of needs|
-|2|Moon|Servant|06:41:27|07:40:11|Unfortunate, no task is suitable|
-|3|Saturn|Servant|07:40:12|08:38:56|For overcoming diseases|
-|4|Jupiter|Servant|08:38:57|09:37:42|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Mars|Servant|09:37:43|10:36:27|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Sun|Servant|10:36:28|11:35:12|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mercury|Ruler|05:42:41|06:41:25|Acceptance of needs|
+|2|Moon|Servant|06:41:26|07:40:10|Unfortunate, no task is suitable|
+|3|Saturn|Servant|07:40:11|08:38:56|For overcoming diseases|
+|4|Jupiter|Servant|08:38:57|09:37:41|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Mars|Servant|09:37:42|10:36:26|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Sun|Servant|10:36:27|11:35:12|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Venus|Servant|11:35:13|12:33:57|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Mercury|Ruler|12:33:58|13:32:43|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Moon|Servant|13:32:44|14:31:28|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Mercury|Ruler|12:33:58|13:32:42|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Moon|Servant|13:32:43|14:31:28|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Saturn|Servant|14:31:29|15:30:13|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Jupiter|Servant|15:30:14|16:28:58|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mars|Servant|16:28:59|17:27:44|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°9'24.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°44'41.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°58'25.20" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|25°49'36.62" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°42'5.51" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°19'36.91" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|10°41'44.57" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|19°9'24.47" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°44'41.51" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°58'25.19" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|25°49'36.61" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°42'5.46" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°19'37.21" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°45'40.63" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°9'24.60" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°44'41.63" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°58'25.20" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°49'36.62" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|7°42'5.43" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°19'36.91" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|10°41'44.57" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|19°9'24.47" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°44'41.51" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°58'25.19" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°49'36.61" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|7°42'5.46" |Leo|Jabhah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°19'37.21" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°45'40.63" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

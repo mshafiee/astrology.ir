@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°48'16.37" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|26°57'55.14" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°10'4.31" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|23°40'2.84" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|26°29'1.60" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|23°39'49.48" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|27°3'50.69" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aries|Moon|Jupiter|
 |♀ Venus|Jupiter|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°7'14.05" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°58'51.46" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°48'16.37" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°57'55.14" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|9°10'4.31" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|23°40'2.84" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|26°29'1.60" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|19°7'14.18" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°58'51.59" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°48'16.39" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°57'55.15" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|9°10'4.36" |Leo|Zubrah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|23°40'2.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|26°29'2.52" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

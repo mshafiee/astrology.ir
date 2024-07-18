@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:03:42 |
 | Dhuhr (Noon) | 12:12:24 |
 | Medium Coeli | 12:12:24 |
-| Sunset | 18:21:04 |
+| Sunset | 18:21:05 |
 | Maghrib | 18:25:38 |
 | Isha (Night) | 19:34:17 |
-| Sharia Midnight | 23:31:29 |
+| Sharia Midnight | 23:31:30 |
 | Imum Coeli | 00:12:26 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:03:42 |
 | Dhuhr (Noon) | 12:12:24 |
 | Medium Coeli | 12:12:24 |
-| Sunset | 18:21:04 |
+| Sunset | 18:21:05 |
 | Maghrib | 18:25:38 |
 | Isha (Night) | 19:36:28 |
 | Sharia Midnight | 23:34:46 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:03:42 |
 | Dhuhr (Noon) | 12:12:24 |
 | Medium Coeli | 12:12:24 |
-| Sunset | 18:21:04 |
+| Sunset | 18:21:05 |
 | Maghrib | 18:25:38 |
 | Isha (Night) | 19:55:38 |
-| Sharia Midnight | 23:33:40 |
+| Sharia Midnight | 23:33:41 |
 | Imum Coeli | 00:12:26 |
 {{< /tab >}}
 
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:17:23|Night duration: 11:42:44|
-|Every hour duration: 01:45:20|Every hour duration: 01:40:23|
+|Duration of the day: 12:17:22|Night duration: 11:42:45|
+|Every hour duration: 01:45:20|Every hour duration: 01:40:24|
 
  
  
@@ -266,21 +266,21 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Jupiter|Ruler|06:03:42|07:49:01|
 |Mid-morning|Mars|Servant|07:49:02|09:34:21|
-|Late morning|Sun|Servant|09:34:22|11:19:42|
-|Noon|Venus|Servant|11:19:43|13:05:02|
-|Early afternoon|Mercury|Servant|13:05:03|14:50:23|
-|Mid-afternoon|Moon|Servant|14:50:24|16:35:43|
-|Late afternoon|Saturn|Servant|16:35:44|18:21:04|
+|Late morning|Sun|Servant|09:34:22|11:19:41|
+|Noon|Venus|Servant|11:19:42|13:05:02|
+|Early afternoon|Mercury|Servant|13:05:03|14:50:22|
+|Mid-afternoon|Moon|Servant|14:50:23|16:35:42|
+|Late afternoon|Saturn|Servant|16:35:43|18:21:03|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|18:21:05|20:01:27|
-|Late evening|Saturn|Servant|20:01:28|21:41:50|
-|Midnight|Jupiter|Servant|21:41:51|23:22:14|
-|Late at night|Mars|Servant|23:22:15|01:02:37|
-|Rooster song|Sun|Servant|01:02:38|02:43:01|
-|False Dawn|Venus|Servant|02:43:02|04:23:24|
+|Evening|Moon|Ruler|18:21:04|20:01:26|
+|Late evening|Saturn|Servant|20:01:27|21:41:50|
+|Midnight|Jupiter|Servant|21:41:51|23:22:13|
+|Late at night|Mars|Servant|23:22:14|01:02:37|
+|Rooster song|Sun|Servant|01:02:38|02:43:00|
+|False Dawn|Venus|Servant|02:43:01|04:23:24|
 |Dawn|Mercury|Servant|04:23:25|06:03:48|
 
 {{< /tab >}}
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°1'40.29" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|27°16'18.87" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°33'45.26" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|24°1'3.31" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|24°1'3.31" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|0°44'35.20" |Sagittarius|Shaulah|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°6'37.73" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°2'36.94" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°1'34.71" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°16'4.65" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|9°33'37.06" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|24°0'49.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°13'1.39" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°2'39.28" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°1'40.29" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°16'18.87" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|9°33'45.26" |Leo|Zubrah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|24°1'3.31" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°44'35.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'10.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°23'1.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°13'56.73" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°55'43.39" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°41'46.34" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|25°49'38.25" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°2'7.41" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|19°3'11.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°23'1.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°13'57.01" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°55'43.84" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°41'46.56" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|25°49'38.62" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°58'59.42" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Mars|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|0°13'57.00" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|28°55'43.83" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|11°41'46.51" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°49'38.58" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|25°49'38.58" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|24°58'59.88" |Capricorn|SaadAlBula|Sun|
 
 

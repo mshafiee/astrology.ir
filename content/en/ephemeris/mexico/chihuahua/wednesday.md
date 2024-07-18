@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°8'23.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°51'25.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°22'6.15" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|26°22'2.86" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°23'52.20" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°58'17.15" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|18°9'42.99" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|19°8'24.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°51'23.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°22'1.76" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°21'46.52" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°23'42.31" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°57'59.87" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|19°24'20.42" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°8'23.66" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|11°51'25.94" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°22'6.15" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°22'2.86" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|8°23'52.20" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°58'17.15" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°9'42.99" |Sagittarius|Baldah|Moon|
+|♂ Mars|Direct|28°22'6.35" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°22'2.63" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|8°23'52.03" |Leo|Jabhah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°58'16.69" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|18°8'37.66" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

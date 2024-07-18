@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°2'36.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°26'18.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°25'36.86" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°11'33.74" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|12°2'19.44" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|26°6'7.60" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°40'6.76" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|19°2'35.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°26'18.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°25'36.84" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°11'48.76" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|12°2'28.56" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|26°6'24.05" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°57'37.72" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|0°25'36.84" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|29°11'48.76" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|12°2'28.56" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°6'24.05" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|26°6'24.05" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|28°57'37.72" |Capricorn|SaadAlSaud|Sun|
 
 

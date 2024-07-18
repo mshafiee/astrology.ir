@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:30:13 |
+| Fajr (Dawn) | 01:30:14 |
 | Sunrise | 05:23:05 |
 | Dhuhr (Noon) | 13:14:43 |
 | Medium Coeli | 13:14:43 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°8'59.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°47'29.96" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°8'17.46" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|26°3'6.34" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°59'29.83" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°35'48.91" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°58'46.17" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|19°8'59.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°47'30.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°8'17.47" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°3'6.35" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°59'29.88" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°35'48.94" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°58'47.31" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°8'59.36" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°47'29.96" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°8'17.46" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°3'6.34" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|7°59'29.83" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°35'48.91" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°58'46.17" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|19°8'59.49" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°47'30.08" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°8'17.47" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°3'6.35" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|7°59'29.88" |Leo|Jabhah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°35'48.94" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°58'47.31" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:59:21 |
 | Isha (Night) | 20:59:09 |
 | Sharia Midnight | 23:28:51 |
-| Imum Coeli | 00:23:15 |
+| Imum Coeli | 00:23:16 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:42:10 |
 | Isha (Night) | 21:20:08 |
 | Sharia Midnight | 23:27:44 |
-| Imum Coeli | 00:23:15 |
+| Imum Coeli | 00:23:16 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°5'27.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°9'48.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°27'0.79" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|27°51'7.29" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°18'35.36" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°40'2.18" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°10'36.79" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|19°5'27.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°9'48.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°27'0.81" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|27°51'7.30" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°18'35.41" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|24°40'2.21" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°8'2.90" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°5'27.12" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°9'48.78" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°27'0.79" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°51'7.29" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|10°18'35.36" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°40'2.18" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|9°10'36.79" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|19°5'27.26" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°9'48.90" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°27'0.81" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°51'7.30" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|10°18'35.41" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|24°40'2.21" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|9°10'37.10" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

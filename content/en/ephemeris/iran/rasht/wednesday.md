@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|05:04:28|06:16:39|Acceptance of needs|
+|1|Mercury|Ruler|05:04:28|06:16:39|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Moon|Servant|06:16:40|07:28:51|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Saturn|Servant|07:28:52|08:41:03|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|08:41:04|09:53:15|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°21'32.91" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|24°59'11.46" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|6°37'9.45" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°17'52.92" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|21°17'52.92" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|29°36'51.85" |Libra|Akleel|Jupiter|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°10'55.89" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°34'10.21" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°21'33.29" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°59'11.78" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°37'9.57" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°17'52.98" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|29°32'55.90" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|19°10'55.76" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°34'9.98" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°21'32.90" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°59'11.45" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°37'9.40" |Leo|Jabhah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|21°17'52.89" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|29°36'50.86" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

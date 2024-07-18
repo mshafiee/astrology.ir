@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:18:55 |
 | Dhuhr (Noon) | 12:20:29 |
 | Medium Coeli | 12:20:29 |
-| Sunset | 18:22:04 |
+| Sunset | 18:22:03 |
 | Maghrib | 18:38:38 |
 | Isha (Night) | 19:19:10 |
-| Sharia Midnight | 23:44:03 |
+| Sharia Midnight | 23:44:02 |
 | Imum Coeli | 00:20:30 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:18:55 |
 | Dhuhr (Noon) | 12:20:29 |
 | Medium Coeli | 12:20:29 |
-| Sunset | 18:22:04 |
+| Sunset | 18:22:03 |
 | Maghrib | 18:23:00 |
 | Isha (Night) | 19:32:00 |
 | Sharia Midnight | 23:43:24 |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:18:55 |
 | Dhuhr (Noon) | 12:20:29 |
 | Medium Coeli | 12:20:29 |
-| Sunset | 18:22:04 |
+| Sunset | 18:22:03 |
 | Maghrib | 18:23:00 |
 | Isha (Night) | 19:23:26 |
 | Sharia Midnight | 23:49:49 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:18:55 |
 | Dhuhr (Noon) | 12:20:29 |
 | Medium Coeli | 12:20:29 |
-| Sunset | 18:22:04 |
+| Sunset | 18:22:03 |
 | Maghrib | 18:23:00 |
 | Isha (Night) | 19:34:08 |
-| Sharia Midnight | 23:40:12 |
+| Sharia Midnight | 23:40:11 |
 | Imum Coeli | 00:20:30 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:18:55 |
 | Dhuhr (Noon) | 12:20:29 |
 | Medium Coeli | 12:20:29 |
-| Sunset | 18:22:04 |
+| Sunset | 18:22:03 |
 | Maghrib | 18:23:00 |
 | Isha (Night) | 19:36:16 |
 | Sharia Midnight | 23:43:24 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|1°3'20.44" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|0°3'53.93" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|13°9'31.17" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|26°59'4.69" |Cancer|Jabhah|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|26°59'4.69" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|12°1'34.61" |Capricorn|SaadAlDhabib|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|1°3'20.44" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|0°3'53.93" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|13°9'31.17" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°59'4.69" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|26°59'4.69" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|12°1'34.61" |Aquarius|SaadAlAkhbia|Mercury|
 
 

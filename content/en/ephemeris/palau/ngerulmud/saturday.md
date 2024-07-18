@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'51.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°19'10.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°0'18.15" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°36'45.38" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°17'28.85" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|25°29'32.53" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|21°39'29.31" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|19°3'51.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°19'12.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°0'20.17" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°36'58.98" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°17'37.60" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|25°29'49.08" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|20°13'33.68" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|0°0'20.17" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|28°36'58.98" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|11°17'37.60" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°29'49.08" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|25°29'49.08" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|20°13'33.68" |Capricorn|SaadAlBula|Sun|
 
 
