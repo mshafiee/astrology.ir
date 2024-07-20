@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|07:30:43|08:25:15|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mercury|Servant|08:25:16|09:19:49|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Moon|Servant|09:19:50|10:14:23|Attracting misfortune, no task is suitable|
+|3|Moon|Servant|09:19:50|10:14:23|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|10:14:24|11:08:57|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|11:08:58|12:03:31|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|12:03:32|12:58:05|Creating attraction and acceptance among dignitaries|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°52'1.01" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|27°3'2.96" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°16'41.32" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|23°45'56.23" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°45'56.23" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|27°46'4.29" |Scorpio|Shaulah|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°7'4.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°59'55.21" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°52'1.01" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°3'2.96" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|9°16'41.32" |Leo|Zubrah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|23°45'56.23" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|27°46'4.29" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|11°59'53.24" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°51'54.18" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°2'56.46" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|9°16'38.74" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|23°45'54.21" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°53'2.57" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

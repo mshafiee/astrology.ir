@@ -221,7 +221,7 @@ Timetable of twelve day and night planetary hours
 |3|Moon|Servant|07:19:37|08:30:48|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|08:30:49|09:42:00|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|09:42:01|10:53:12|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mars|Servant|10:53:13|12:04:25|Creating attraction and acceptance among dignitaries|
+|6|Mars|Servant|10:53:13|12:04:25|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Sun|Servant|12:04:26|13:15:37|Promotion and attracting wealth|
 |8|Venus|Ruler|13:15:38|14:26:49|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:26:50|15:38:01|Causing separation and homelessness|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°45'49.98" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|26°54'34.21" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°5'45.77" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|23°36'11.67" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°36'11.67" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|25°43'18.42" |Scorpio|Shaulah|Venus|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|28°45'49.98" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|26°54'34.21" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|9°5'45.77" |Leo|Zubrah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|23°36'11.67" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°36'11.67" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|25°43'18.42" |Sagittarius|Baldah|Saturn|
 
 

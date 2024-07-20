@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:46:23|06:51:44|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Venus|Ruler|05:46:23|06:51:44|Love, creating love and attracting hearts|
 |2|Mercury|Servant|06:51:45|07:57:06|Attracting auspiciousness|
 |3|Moon|Servant|07:57:07|09:02:29|Attracting misfortune, no task is suitable|
 |4|Saturn|Servant|09:02:30|10:07:51|Unfortunate hour|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°41'5.60" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|28°10'29.68" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°43'31.34" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°1'17.12" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°1'17.12" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|13°44'51.42" |Sagittarius|NaAaem|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°41'5.60" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|28°10'29.68" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|10°43'31.34" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°1'17.12" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°1'17.12" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|13°44'51.42" |Capricorn|SaadAlBula|Mars|
 
 

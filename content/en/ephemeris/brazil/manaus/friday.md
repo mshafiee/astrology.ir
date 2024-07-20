@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°4'45.42" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°13'57.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°41'40.79" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|28°11'17.30" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°44'33.96" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°2'9.19" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°9'22.38" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Direct|29°41'41.46" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|28°11'18.91" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°44'34.85" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|25°2'10.70" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°58'7.97" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°4'45.28" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°13'57.25" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°41'41.45" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|28°11'18.90" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|10°44'34.80" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°2'10.66" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°58'7.93" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|19°4'45.42" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°13'57.37" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°41'41.46" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|28°11'18.91" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|10°44'34.85" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|25°2'10.70" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°58'7.97" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

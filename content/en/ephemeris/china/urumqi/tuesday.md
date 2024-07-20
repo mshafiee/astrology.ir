@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°57'9.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°54'49.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°7'59.26" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|1°33'25.44" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°4'44.90" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|28°23'43.21" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|4°51'12.13" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|18°57'9.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°54'49.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°8'0.32" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°33'24.72" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°4'44.03" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°23'41.04" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|5°4'26.03" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°57'10.06" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°54'49.82" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°7'59.26" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|1°33'25.44" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|18°57'9.92" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°54'49.87" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°8'0.32" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|1°33'24.72" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|15°4'44.90" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|28°23'43.21" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|28°23'43.21" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|4°51'12.13" |Pisces|FarghAlMuakhar|Saturn|
 
 

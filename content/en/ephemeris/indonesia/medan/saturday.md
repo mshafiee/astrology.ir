@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:57:31 |
 | Isha (Night) | 19:38:27 |
 | Sharia Midnight | 23:54:58 |
-| Imum Coeli | 00:31:45 |
+| Imum Coeli | 00:31:46 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:41:48 |
 | Isha (Night) | 19:53:38 |
 | Sharia Midnight | 23:51:02 |
-| Imum Coeli | 00:31:45 |
+| Imum Coeli | 00:31:46 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'38.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°20'25.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°4'39.01" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°42'55.71" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°25'17.35" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°36'8.69" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|21°46'0.56" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|19°3'38.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°20'25.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°4'39.51" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°42'56.15" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°25'17.50" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|25°36'8.89" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|21°47'52.51" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'38.45" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°20'25.05" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|0°4'39.50" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|28°42'56.14" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|11°25'17.45" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°36'8.75" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|21°42'6.42" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|19°3'38.58" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°20'25.17" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|0°4'39.51" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|28°42'56.15" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|11°25'17.50" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|25°36'8.78" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°42'6.08" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

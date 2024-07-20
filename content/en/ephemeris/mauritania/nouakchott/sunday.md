@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'1.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°23'57.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°17'14.08" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°0'15.94" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°47'36.20" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°54'23.52" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°59'55.58" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|19°3'1.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°23'55.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°17'8.87" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°0'9.86" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°47'33.56" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|25°54'20.42" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|26°45'16.15" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Mars|Sun|Venus|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|0°17'14.08" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|29°0'15.94" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|11°47'36.20" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°54'23.52" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°54'23.52" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|25°59'55.58" |Capricorn|SaadAlSaud|Sun|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°5'22.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°10'17.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°28'42.08" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|27°53'30.37" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°21'43.12" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|24°42'44.52" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|10°25'50.12" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|19°5'22.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°10'18.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°28'47.45" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|27°53'34.10" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°21'44.14" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°42'44.22" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°43'45.19" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°28'47.45" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|27°53'34.10" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|10°21'44.14" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|24°42'44.22" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|24°42'44.22" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|9°43'45.19" |Capricorn|SaadAlDhabib|Jupiter|
 
 
