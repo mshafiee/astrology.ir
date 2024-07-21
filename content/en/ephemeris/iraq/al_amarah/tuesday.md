@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:01:13 |
 | Dhuhr (Noon) | 11:57:56 |
 | Medium Coeli | 11:57:56 |
-| Sunset | 18:54:19 |
+| Sunset | 18:54:18 |
 | Maghrib | 19:11:58 |
 | Isha (Night) | 20:06:40 |
-| Sharia Midnight | 23:16:06 |
+| Sharia Midnight | 23:16:05 |
 | Imum Coeli | 23:57:57 |
 {{< /tab >}}
 
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:01:13 |
 | Dhuhr (Noon) | 11:57:56 |
 | Medium Coeli | 11:57:56 |
-| Sunset | 18:54:19 |
+| Sunset | 18:54:18 |
 | Maghrib | 19:14:36 |
 | Isha (Night) | 20:06:40 |
 | Sharia Midnight | 23:11:03 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:01:13 |
 | Dhuhr (Noon) | 11:57:56 |
 | Medium Coeli | 11:57:56 |
-| Sunset | 18:54:19 |
+| Sunset | 18:54:18 |
 | Maghrib | 18:55:27 |
 | Isha (Night) | 20:12:26 |
-| Sharia Midnight | 23:19:01 |
+| Sharia Midnight | 23:19:00 |
 | Imum Coeli | 23:57:57 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:01:13 |
 | Dhuhr (Noon) | 11:57:56 |
 | Medium Coeli | 11:57:56 |
-| Sunset | 18:54:19 |
+| Sunset | 18:54:18 |
 | Maghrib | 18:55:27 |
 | Isha (Night) | 20:27:09 |
 | Sharia Midnight | 23:05:34 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:01:13 |
 | Dhuhr (Noon) | 11:57:56 |
 | Medium Coeli | 11:57:56 |
-| Sunset | 18:54:19 |
+| Sunset | 18:54:18 |
 | Maghrib | 18:55:27 |
 | Isha (Night) | 20:30:09 |
 | Sharia Midnight | 23:10:09 |
@@ -210,38 +210,38 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:53:06|Night duration: 10:07:32|
+|Duration of the day: 13:53:05|Night duration: 10:07:33|
 |Every hour of day duration: 01:09:25|Every hour of night duration: 00:50:38|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|05:01:13|06:10:37|Creating corruption, hatred and enmity|
-|2|Sun|Servant|06:10:38|07:20:03|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|07:20:04|08:29:28|Attracting connection and suitors|
-|4|Mercury|Servant|08:29:29|09:38:54|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|09:38:55|10:48:19|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|10:48:20|11:57:45|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|11:57:46|13:07:10|Attracting love and hearts|
-|8|Mars|Ruler|13:07:11|14:16:36|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|14:16:37|15:26:01|Heart tenderness|
-|10|Venus|Servant|15:26:02|16:35:27|Attracting misfortune, no task is suitable|
-|11|Mercury|Servant|16:35:28|17:44:52|Attracting connection and suitors|
-|12|Moon|Servant|17:44:53|18:54:18|Hatred, corruption and creating negative energy for disruption|
+|2|Sun|Servant|06:10:38|07:20:02|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|07:20:03|08:29:28|Attracting connection and suitors|
+|4|Mercury|Servant|08:29:29|09:38:53|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|09:38:54|10:48:19|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|10:48:20|11:57:44|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|11:57:45|13:07:09|Attracting love and hearts|
+|8|Mars|Ruler|13:07:10|14:16:35|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|14:16:36|15:26:00|Heart tenderness|
+|10|Venus|Servant|15:26:01|16:35:26|Attracting misfortune, no task is suitable|
+|11|Mercury|Servant|16:35:27|17:44:51|Attracting connection and suitors|
+|12|Moon|Servant|17:44:52|18:54:17|Hatred, corruption and creating negative energy for disruption|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|18:54:19|19:44:55|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|19:44:56|20:35:33|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|20:35:34|21:26:11|Attracting connection and suitors|
-|4|Sun|Servant|21:26:12|22:16:48|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|22:16:49|23:07:26|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|23:07:27|23:58:04|Repelling negative energy of evil eye|
-|7|Moon|Servant|23:58:05|00:48:41|Attracting love and hearts|
+|1|Saturn|Ruler|18:54:18|19:44:54|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|19:44:55|20:35:32|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|20:35:33|21:26:10|Attracting connection and suitors|
+|4|Sun|Servant|21:26:11|22:16:48|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|22:16:49|23:07:25|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|23:07:26|23:58:03|Repelling negative energy of evil eye|
+|7|Moon|Servant|23:58:04|00:48:41|Attracting love and hearts|
 |8|Saturn|Ruler|00:48:42|01:39:19|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|01:39:20|02:29:57|Heart tenderness|
-|10|Mars|Servant|02:29:58|03:20:34|Attracting misfortune, no task is suitable|
+|9|Jupiter|Servant|01:39:20|02:29:56|Heart tenderness|
+|10|Mars|Servant|02:29:57|03:20:34|Attracting misfortune, no task is suitable|
 |11|Sun|Servant|03:20:35|04:11:12|Attracting connection and suitors|
 |12|Venus|Servant|04:11:13|05:01:50|Hatred, corruption and creating negative energy for disruption|
 

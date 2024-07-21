@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:59:16 |
-| Sunrise | 06:03:37 |
+| Sunrise | 06:03:36 |
 | Dhuhr (Noon) | 12:27:31 |
 | Medium Coeli | 12:27:31 |
 | Sunset | 18:51:18 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:45:31 |
-| Sunrise | 06:03:37 |
+| Sunrise | 06:03:36 |
 | Dhuhr (Noon) | 12:27:31 |
 | Medium Coeli | 12:27:31 |
 | Sunset | 18:51:18 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:47:41|Night duration: 11:12:34|
+|Duration of the day: 12:47:42|Night duration: 11:12:34|
 |Every hour of day duration: 01:03:58|Every hour of night duration: 00:56:03|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:03:37|07:07:34|Creating corruption, hatred and enmity|
-|2|Sun|Servant|07:07:35|08:11:32|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:11:33|09:15:31|Attracting connection and suitors|
-|4|Mercury|Servant|09:15:32|10:19:29|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:19:30|11:23:28|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:23:29|12:27:26|Repelling negative energy of evil eye|
+|1|Mars|Ruler|06:03:36|07:07:33|Creating corruption, hatred and enmity|
+|2|Sun|Servant|07:07:34|08:11:32|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:11:33|09:15:30|Attracting connection and suitors|
+|4|Mercury|Servant|09:15:31|10:19:29|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:19:30|11:23:27|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|11:23:28|12:27:26|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|12:27:27|13:31:24|Attracting love and hearts|
 |8|Mars|Ruler|13:31:25|14:35:23|Creating corruption, destroying enemies, making enemies sick|
 |9|Sun|Servant|14:35:24|15:39:21|Heart tenderness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°57'25.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°53'31.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°3'14.71" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|1°26'49.41" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°56'14.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°17'43.45" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|3°13'14.78" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|18°57'25.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°53'30.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°3'14.68" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°26'49.40" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|14°56'14.23" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°17'43.40" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|3°13'15.08" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°57'25.92" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°53'31.00" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°3'14.71" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|1°26'49.41" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|14°56'14.29" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°17'43.45" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°13'14.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|18°57'25.78" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°53'30.87" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°3'14.68" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|1°26'49.40" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|14°56'14.23" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°17'43.40" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°13'15.08" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

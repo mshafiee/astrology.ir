@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:56:23 |
 | Isha (Night) | 20:59:09 |
 | Sharia Midnight | 23:34:59 |
-| Imum Coeli | 00:23:16 |
+| Imum Coeli | 00:23:15 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:42:10 |
 | Isha (Night) | 21:20:08 |
 | Sharia Midnight | 23:27:44 |
-| Imum Coeli | 00:23:16 |
+| Imum Coeli | 00:23:15 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°5'27.26" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|12°9'48.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°27'0.81" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|27°51'7.30" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°18'35.41" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°40'2.21" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°10'37.10" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Direct|29°27'0.87" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|27°51'7.85" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°18'35.77" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°40'2.89" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°7'49.97" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

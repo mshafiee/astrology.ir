@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:18:27 |
 | Sunset | 19:27:18 |
 | Maghrib | 19:28:33 |
-| Isha (Night) | 21:06:43 |
+| Isha (Night) | 21:06:42 |
 | Sharia Midnight | 23:25:27 |
 | Imum Coeli | 00:18:29 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°1'45.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|12°30'59.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°42'20.74" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°34'53.76" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|12°32'11.71" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|26°30'3.01" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|4°46'49.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|19°1'45.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|12°30'59.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°42'20.76" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°34'53.77" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|12°32'11.76" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|26°30'3.05" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|4°46'49.16" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°1'45.07" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°30'59.10" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|0°42'20.74" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|29°34'53.76" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|12°32'11.71" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|19°1'45.21" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°30'59.22" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|0°42'20.76" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|29°34'53.77" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|12°32'11.76" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|26°30'3.05" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|4°46'49.16" |Aquarius|SaadAlSaud|Venus|
 
