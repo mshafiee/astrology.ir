@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:43:05 |
+| Fajr (Dawn) | 04:43:06 |
 | Sunrise | 05:53:43 |
 | Dhuhr (Noon) | 12:22:43 |
 | Medium Coeli | 12:22:43 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°52'12.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°18'16.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°33'6.05" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|3°31'44.66" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°36'56.46" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|0°3'19.67" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|5°15'34.19" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|13°18'16.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°33'6.28" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°31'44.95" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|17°36'56.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|0°3'19.92" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°15'45.00" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°52'12.72" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|13°18'16.28" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|3°33'6.25" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|3°31'44.93" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|17°36'56.60" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|0°3'19.87" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|5°15'44.84" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|18°52'12.86" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|13°18'16.41" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|3°33'6.28" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|3°31'44.95" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|17°36'56.66" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|0°3'19.92" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|5°15'45.00" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

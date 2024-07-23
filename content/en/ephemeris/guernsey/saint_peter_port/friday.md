@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:52:44 |
-| Sunrise | 05:33:34 |
+| Sunrise | 05:33:35 |
 | Dhuhr (Noon) | 13:16:41 |
 | Medium Coeli | 13:16:41 |
 | Sunset | 20:58:56 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:28:16 |
-| Sunrise | 05:33:34 |
+| Sunrise | 05:33:35 |
 | Dhuhr (Noon) | 13:16:41 |
 | Medium Coeli | 13:16:41 |
 | Sunset | 20:58:56 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:20:01 |
-| Sunrise | 05:33:34 |
+| Sunrise | 05:33:35 |
 | Dhuhr (Noon) | 13:16:41 |
 | Medium Coeli | 13:16:41 |
 | Sunset | 20:58:56 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:48:03 |
-| Sunrise | 05:33:34 |
+| Sunrise | 05:33:35 |
 | Dhuhr (Noon) | 13:16:41 |
 | Medium Coeli | 13:16:41 |
 | Sunset | 20:58:56 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:39:42 |
-| Sunrise | 05:33:34 |
+| Sunrise | 05:33:35 |
 | Dhuhr (Noon) | 13:16:41 |
 | Medium Coeli | 13:16:41 |
 | Sunset | 20:58:56 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 15:25:22|Night duration: 08:35:57|
+|Duration of the day: 15:25:21|Night duration: 08:35:57|
 |Every hour of day duration: 01:17:07|Every hour of night duration: 00:43:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:33:34|06:50:39|Love, creating love and attracting hearts|
-|2|Mercury|Servant|06:50:40|08:07:46|Attracting auspiciousness|
-|3|Moon|Servant|08:07:47|09:24:53|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:24:54|10:42:00|Unfortunate hour|
-|5|Jupiter|Servant|10:42:01|11:59:07|Achieving position and status and attracting job fortune|
+|1|Venus|Ruler|05:33:35|06:50:40|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:50:41|08:07:47|Attracting auspiciousness|
+|3|Moon|Servant|08:07:48|09:24:54|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:24:55|10:42:01|Unfortunate hour|
+|5|Jupiter|Servant|10:42:02|11:59:07|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|11:59:08|13:16:14|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|13:16:15|14:33:20|Promotion and attracting wealth|
-|8|Venus|Ruler|14:33:21|15:50:27|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|15:50:28|17:07:34|Causing separation and homelessness|
+|7|Sun|Servant|13:16:15|14:33:21|Promotion and attracting wealth|
+|8|Venus|Ruler|14:33:22|15:50:28|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|15:50:29|17:07:34|Causing separation and homelessness|
 |10|Moon|Servant|17:07:35|18:24:41|Extremely unfortunate|
 |11|Saturn|Servant|18:24:42|19:41:48|Creating an unfortunate horoscope for anyone|
 |12|Jupiter|Servant|19:41:49|20:58:55|Suitable for asking for a need|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 15:25:22|Night duration: 08:35:57|
+|Duration of the day: 15:25:21|Night duration: 08:35:57|
 |Every hour duration: 02:12:12|Every hour duration: 01:13:42|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|05:33:34|07:45:44|
-|Mid-morning|Mercury|Servant|07:45:45|09:57:56|
-|Late morning|Moon|Servant|09:57:57|12:10:08|
-|Noon|Saturn|Servant|12:10:09|14:22:19|
-|Early afternoon|Jupiter|Servant|14:22:20|16:34:31|
+|Early morning|Venus|Ruler|05:33:35|07:45:45|
+|Mid-morning|Mercury|Servant|07:45:46|09:57:57|
+|Late morning|Moon|Servant|09:57:58|12:10:08|
+|Noon|Saturn|Servant|12:10:09|14:22:20|
+|Early afternoon|Jupiter|Servant|14:22:21|16:34:31|
 |Mid-afternoon|Mars|Servant|16:34:32|18:46:43|
 |Late afternoon|Sun|Servant|18:46:44|20:58:55|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°51'47.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°20'13.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°40'15.98" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|3°41'40.18" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°49'42.41" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|0°10'58.28" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°18'10.81" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|13°20'13.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°40'16.01" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°41'40.20" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|17°49'42.47" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|0°10'58.33" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°18'11.03" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°51'46.88" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|13°20'13.08" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|3°40'13.42" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|3°41'39.46" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|17°49'42.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|0°10'59.87" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|7°53'51.69" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|18°51'47.03" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|13°20'13.22" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|3°40'13.48" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|3°41'39.52" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|17°49'42.74" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|0°10'59.95" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|7°53'52.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

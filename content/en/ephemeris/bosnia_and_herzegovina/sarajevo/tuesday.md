@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:34:15 |
 | Sunrise | 05:26:02 |
-| Dhuhr (Noon) | 12:53:05 |
-| Medium Coeli | 12:53:05 |
+| Dhuhr (Noon) | 12:53:06 |
+| Medium Coeli | 12:53:06 |
 | Sunset | 20:19:32 |
 | Maghrib | 20:41:41 |
 | Isha (Night) | 21:53:56 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:15:55 |
 | Sunrise | 05:26:02 |
-| Dhuhr (Noon) | 12:53:05 |
-| Medium Coeli | 12:53:05 |
+| Dhuhr (Noon) | 12:53:06 |
+| Medium Coeli | 12:53:06 |
 | Sunset | 20:19:32 |
 | Maghrib | 20:24:34 |
 | Isha (Night) | 22:19:34 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|1°34'35.33" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|0°47'6.47" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|14°5'8.91" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|27°40'50.52" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|23°21'15.80" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|27°40'52.37" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|23°12'14.16" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°59'0.14" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|12°45'33.47" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°34'35.31" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|0°47'6.45" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|14°5'8.85" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|27°40'52.32" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|23°12'14.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|18°59'0.28" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|12°45'33.60" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°34'35.33" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|0°47'6.47" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|14°5'8.91" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|27°40'52.37" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°12'14.16" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
