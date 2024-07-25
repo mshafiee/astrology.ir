@@ -1,6 +1,6 @@
 ---
-date: 2024-07-22T00:00:00+04:00
-lastmod: 2024-07-22T00:00:00+04:00
+date: 2024-07-29T00:00:00+04:00
+lastmod: 2024-07-29T00:00:00+04:00
 title: Victoria Monday
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Monday, 22 Jul 2024
+description: 🗓 Monday, 29 Jul 2024
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -337,10 +337,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>□ Square|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

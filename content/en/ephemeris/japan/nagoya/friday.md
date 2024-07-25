@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:01:52 |
 | Isha (Night) | 20:35:22 |
 | Sharia Midnight | 23:08:29 |
-| Imum Coeli | 23:58:55 |
+| Imum Coeli | 23:58:54 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 19:01:52 |
 | Isha (Night) | 20:22:49 |
 | Sharia Midnight | 23:17:59 |
-| Imum Coeli | 23:58:55 |
+| Imum Coeli | 23:58:54 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°50'9.60" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|13°27'25.09" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°6'34.21" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|4°18'26.87" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|18°37'0.61" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|0°38'35.09" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|17°2'22.48" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°27'25.28" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°6'34.87" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|4°18'27.29" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°37'0.66" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|0°38'34.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|17°9'1.02" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Virgo|Sun|Sun|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
