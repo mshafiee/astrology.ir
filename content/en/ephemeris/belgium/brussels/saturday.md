@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:49:35 |
+| Fajr (Dawn) | 02:49:36 |
 | Sunrise | 06:01:55 |
 | Dhuhr (Noon) | 13:49:08 |
 | Medium Coeli | 13:49:08 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°49'17.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|18°49'17.67" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|13°31'10.03" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|4°20'22.35" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|4°37'33.50" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|19°1'41.10" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|0°52'10.53" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|22°53'18.06" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|0°52'24.62" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°0'43.69" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Sun|Leo|Moon|Moon|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°49'17.81" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|13°31'10.65" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°20'22.47" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|4°37'43.02" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|19°1'47.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|0°52'24.67" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|22°0'44.32" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|13°31'10.52" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°20'22.43" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|4°37'43.00" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|19°1'47.57" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|0°52'24.62" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|22°0'43.69" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

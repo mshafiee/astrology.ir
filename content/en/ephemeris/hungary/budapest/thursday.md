@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:06:49 |
+| Fajr (Dawn) | 03:06:48 |
 | Sunrise | 05:13:11 |
 | Dhuhr (Noon) | 12:50:23 |
 | Medium Coeli | 12:50:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°54'22.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°8'17.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°56'46.97" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|2°41'9.47" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°31'53.76" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|29°22'29.47" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|22°28'51.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|18°54'22.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°8'17.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°56'46.95" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°41'9.45" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°31'53.70" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|29°22'29.42" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|22°28'51.55" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°54'22.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|13°8'17.93" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°56'46.97" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|2°41'9.47" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|18°54'22.50" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|13°8'17.80" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°56'46.95" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|2°41'9.45" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|16°31'53.76" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|29°22'29.47" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|22°28'51.52" |Pisces|Rescha|Mars|

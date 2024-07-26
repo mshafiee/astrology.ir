@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 19:03:52 |
 | Maghrib | 19:07:36 |
 | Isha (Night) | 20:12:51 |
-| Sharia Midnight | 23:52:28 |
+| Sharia Midnight | 23:52:27 |
 | Imum Coeli | 00:26:51 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°44'23.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°51'37.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°35'54.94" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°23'35.45" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|21°17'50.74" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|2°0'50.43" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|18°9'22.39" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|18°44'22.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°51'37.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°35'54.90" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|6°23'35.43" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|21°17'50.68" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°0'50.38" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|18°9'21.43" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°44'23.09" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|13°51'37.93" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°35'54.94" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|6°23'35.45" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|18°44'22.95" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|13°51'37.80" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°35'54.90" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|6°23'35.43" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|21°17'50.74" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|2°0'50.43" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|18°9'22.39" |Taurus|Dabaran|Moon|

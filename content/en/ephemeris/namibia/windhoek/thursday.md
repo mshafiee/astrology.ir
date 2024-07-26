@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:58:12 |
 | Medium Coeli | 12:58:12 |
 | Sunset | 18:27:58 |
-| Maghrib | 18:32:48 |
+| Maghrib | 18:32:47 |
 | Isha (Night) | 19:43:00 |
 | Sharia Midnight | 00:18:23 |
 | Imum Coeli | 00:58:12 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:58:12 |
 | Medium Coeli | 12:58:12 |
 | Sunset | 18:27:58 |
-| Maghrib | 18:32:47 |
+| Maghrib | 18:32:48 |
 | Isha (Night) | 19:47:28 |
 | Sharia Midnight | 00:18:23 |
 | Imum Coeli | 00:58:12 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:58:12 |
 | Medium Coeli | 12:58:12 |
 | Sunset | 18:27:58 |
-| Maghrib | 18:32:47 |
-| Isha (Night) | 20:02:47 |
+| Maghrib | 18:32:48 |
+| Isha (Night) | 20:02:48 |
 | Sharia Midnight | 00:17:16 |
 | Imum Coeli | 00:58:12 |
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|2°46'33.13" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|16°38'49.88" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|29°26'58.37" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|24°37'42.52" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°50'31.83" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
