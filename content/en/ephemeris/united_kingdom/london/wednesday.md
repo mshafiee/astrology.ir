@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°38'15.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°15'15.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°4'15.30" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°28'1.41" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|23°57'41.91" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|3°3'36.44" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°49'22.38" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|18°38'15.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°15'15.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°4'15.34" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°28'1.42" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|23°57'35.40" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°3'21.98" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°22'6.00" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Libra|Moon|Moon|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°38'15.67" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°15'15.74" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°4'15.30" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°28'1.41" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°57'41.91" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°3'36.44" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|18°38'15.82" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|14°15'14.87" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°4'13.54" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°27'51.13" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°57'35.40" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°3'21.98" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|17°22'6.00" |Gemini|Dhira|Mars|
 
 

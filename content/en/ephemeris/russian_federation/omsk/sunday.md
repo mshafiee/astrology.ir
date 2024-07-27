@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°44'31.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°51'5.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°33'55.89" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°20'46.94" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|21°14'16.00" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|1°59'10.37" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°25'39.71" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°51'5.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°33'56.38" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|6°20'45.79" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|21°14'15.04" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|1°59'8.09" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°35'6.32" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Sun|Virgo|Moon|Moon|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|13°51'5.70" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|5°33'55.89" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|6°20'46.94" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°14'16.00" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|1°59'10.37" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|17°25'39.71" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|21°14'15.04" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|1°59'8.09" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|17°35'6.32" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
