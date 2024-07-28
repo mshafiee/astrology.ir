@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:33:57 |
 | Medium Coeli | 13:33:57 |
 | Sunset | 22:33:15 |
-| Maghrib | 22:36:19 |
+| Maghrib | 22:36:18 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:33:55 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:33:57 |
 | Medium Coeli | 13:33:57 |
 | Sunset | 22:33:15 |
-| Maghrib | 22:36:19 |
+| Maghrib | 22:36:18 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:33:55 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:33:57 |
 | Medium Coeli | 13:33:57 |
 | Sunset | 22:33:15 |
-| Maghrib | 22:36:19 |
+| Maghrib | 22:36:18 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:33:55 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°38'14.84" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°15'19.89" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°4'30.20" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°28'24.12" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°58'10.88" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°3'47.67" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|17°48'44.43" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|14°15'19.04" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°4'26.80" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°28'22.45" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°58'10.84" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°3'48.51" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|17°13'13.41" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}

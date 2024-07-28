@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:16:18 |
 | Sunset | 19:14:52 |
 | Maghrib | 19:20:33 |
-| Isha (Night) | 20:37:28 |
+| Isha (Night) | 20:37:27 |
 | Sharia Midnight | 23:35:08 |
 | Imum Coeli | 00:16:16 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'38.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°24'51.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°40'27.40" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|9°19'14.84" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|25°3'26.80" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|3°23'33.19" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|29°50'40.35" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|18°35'37.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°24'51.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°40'27.35" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°19'14.83" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|25°3'26.75" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°23'33.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|29°50'41.04" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'38.14" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°24'51.52" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°40'27.40" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|9°19'14.84" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|18°35'37.99" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|14°24'51.39" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°40'27.35" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|9°19'14.94" |Leo|Zubrah|Saturn|
 |♀ Venus|Direct|25°3'26.80" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°23'33.19" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|29°50'40.35" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°23'33.11" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|29°52'42.38" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

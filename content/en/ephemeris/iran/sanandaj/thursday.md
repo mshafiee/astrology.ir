@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:31:19 |
 | Dhuhr (Noon) | 12:28:19 |
 | Medium Coeli | 12:28:19 |
-| Sunset | 19:24:51 |
+| Sunset | 19:24:50 |
 | Maghrib | 19:46:18 |
 | Isha (Night) | 20:40:05 |
-| Sharia Midnight | 23:39:34 |
+| Sharia Midnight | 23:39:33 |
 | Imum Coeli | 00:28:17 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:31:19 |
 | Dhuhr (Noon) | 12:28:19 |
 | Medium Coeli | 12:28:19 |
-| Sunset | 19:24:51 |
+| Sunset | 19:24:50 |
 | Maghrib | 19:30:25 |
 | Isha (Night) | 21:04:30 |
 | Sharia Midnight | 23:38:37 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:31:19 |
 | Dhuhr (Noon) | 12:28:19 |
 | Medium Coeli | 12:28:19 |
-| Sunset | 19:24:51 |
+| Sunset | 19:24:50 |
 | Maghrib | 19:30:25 |
 | Isha (Night) | 21:00:25 |
-| Sharia Midnight | 23:37:03 |
+| Sharia Midnight | 23:37:02 |
 | Imum Coeli | 00:28:17 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'36.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|18°35'36.23" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|14°24'57.82" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°40'51.20" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|9°19'48.60" |Cancer|Nathrah|Venus|
