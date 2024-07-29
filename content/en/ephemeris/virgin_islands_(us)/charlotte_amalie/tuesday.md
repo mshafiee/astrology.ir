@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:34:48 |
+| Fajr (Dawn) | 04:34:49 |
 | Sunrise | 05:57:01 |
 | Dhuhr (Noon) | 12:26:08 |
 | Medium Coeli | 12:26:08 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°37'34.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°17'46.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°13'41.83" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°41'23.19" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|24°14'49.91" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|3°9'10.72" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°5'43.60" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|18°37'35.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°17'46.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°13'41.87" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°41'23.20" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|24°14'49.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°9'10.76" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°5'43.13" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°37'34.86" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°17'46.33" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°13'41.83" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°41'23.19" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|24°14'49.91" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°9'10.72" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|21°5'43.60" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|18°37'35.01" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|14°17'46.46" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°13'41.87" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°41'23.20" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|24°14'49.97" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°9'10.76" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°5'43.13" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

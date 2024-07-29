@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°46'55.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°41'12.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°57'19.02" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|5°29'25.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°8'16.06" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|1°27'28.60" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°47'34.32" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°41'12.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°57'19.19" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|5°29'25.53" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°8'15.39" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|1°27'25.96" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°24'33.52" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Sun|Virgo|Moon|Moon|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°46'55.97" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|13°41'12.44" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°57'19.23" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|5°29'25.55" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|20°8'15.82" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|1°27'28.01" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|4°51'21.07" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|18°46'55.83" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|13°41'12.32" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°57'19.19" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|5°29'25.53" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|20°8'15.77" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|1°27'27.96" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|4°51'20.09" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°45'2.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|13°48'57.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°25'58.36" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°9'37.70" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°59'54.26" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|1°52'34.71" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|14°44'32.80" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|18°45'2.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|13°48'57.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°25'56.41" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|6°9'23.23" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°59'44.84" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|1°52'14.55" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|15°6'30.33" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Sun|Virgo|Moon|Moon|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°45'2.75" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|13°48'57.07" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°25'58.36" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|6°9'37.70" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|20°59'52.26" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|1°52'30.03" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|15°1'45.77" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°48'55.84" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°25'56.44" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|6°9'23.25" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|20°59'44.84" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|1°52'14.55" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|15°6'30.33" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

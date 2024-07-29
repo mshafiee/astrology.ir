@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°39'20.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°11'15.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°49'11.98" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°6'45.82" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|23°30'23.72" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|2°54'18.23" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°49'55.35" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|18°39'20.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°11'15.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°49'11.27" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°6'43.56" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|23°30'22.40" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°54'15.39" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|11°26'45.24" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Libra|Moon|Moon|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°39'20.27" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°11'15.53" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|6°49'11.93" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°6'45.80" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°30'23.66" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|2°54'18.19" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|12°49'55.49" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|14°11'13.17" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|6°49'4.15" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°6'35.64" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°30'22.40" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|2°54'15.39" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|12°41'32.38" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

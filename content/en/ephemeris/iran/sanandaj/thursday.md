@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:31:19 |
 | Dhuhr (Noon) | 12:28:19 |
 | Medium Coeli | 12:28:19 |
-| Sunset | 19:24:50 |
+| Sunset | 19:24:51 |
 | Maghrib | 19:46:18 |
 | Isha (Night) | 20:40:05 |
-| Sharia Midnight | 23:39:33 |
+| Sharia Midnight | 23:39:34 |
 | Imum Coeli | 00:28:17 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:31:19 |
 | Dhuhr (Noon) | 12:28:19 |
 | Medium Coeli | 12:28:19 |
-| Sunset | 19:24:51 |
+| Sunset | 19:24:50 |
 | Maghrib | 19:30:25 |
 | Isha (Night) | 21:01:22 |
-| Sharia Midnight | 23:33:51 |
+| Sharia Midnight | 23:33:50 |
 | Imum Coeli | 00:28:17 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:53:32|Night duration: 10:07:14|
+|Duration of the day: 13:53:31|Night duration: 10:07:15|
 |Every hour of day duration: 01:09:28|Every hour of night duration: 00:50:36|
 
  
@@ -218,28 +218,28 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|05:31:19|06:40:45|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|06:40:46|07:50:13|Destruction of enemies|
-|3|Sun|Servant|07:50:14|08:59:41|Attraction of financial and emotional love|
-|4|Venus|Servant|08:59:42|10:09:08|Creating love, connection and marriage|
-|5|Mercury|Servant|10:09:09|11:18:36|Indulgence|
-|6|Moon|Servant|11:18:37|12:28:04|Outer and inner journey|
-|7|Saturn|Servant|12:28:05|13:37:31|Achieving status and power|
-|8|Jupiter|Ruler|13:37:32|14:46:59|Attraction of happiness and fortune|
-|9|Mars|Servant|14:47:00|15:56:27|Reaching status and promotion|
-|10|Sun|Servant|15:56:28|17:05:54|Fulfilling needs|
-|11|Venus|Servant|17:05:55|18:15:22|Attraction of love and hearts|
-|12|Mercury|Servant|18:15:23|19:24:50|Attracting misfortune, not suitable for any task|
+|3|Sun|Servant|07:50:14|08:59:40|Attraction of financial and emotional love|
+|4|Venus|Servant|08:59:41|10:09:08|Creating love, connection and marriage|
+|5|Mercury|Servant|10:09:09|11:18:35|Indulgence|
+|6|Moon|Servant|11:18:36|12:28:03|Outer and inner journey|
+|7|Saturn|Servant|12:28:04|13:37:31|Achieving status and power|
+|8|Jupiter|Ruler|13:37:32|14:46:58|Attraction of happiness and fortune|
+|9|Mars|Servant|14:46:59|15:56:26|Reaching status and promotion|
+|10|Sun|Servant|15:56:27|17:05:53|Fulfilling needs|
+|11|Venus|Servant|17:05:54|18:15:21|Attraction of love and hearts|
+|12|Mercury|Servant|18:15:22|19:24:49|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|19:24:51|20:15:26|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|20:15:27|21:06:02|Destruction of enemies|
-|3|Jupiter|Servant|21:06:03|21:56:38|Attraction of financial and emotional love|
-|4|Mars|Servant|21:56:39|22:47:14|Creating love, connection and marriage|
+|1|Moon|Ruler|19:24:50|20:15:25|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|20:15:26|21:06:01|Destruction of enemies|
+|3|Jupiter|Servant|21:06:02|21:56:37|Attraction of financial and emotional love|
+|4|Mars|Servant|21:56:38|22:47:14|Creating love, connection and marriage|
 |5|Sun|Servant|22:47:15|23:37:50|Indulgence|
-|6|Venus|Servant|23:37:51|00:28:27|Outer and inner journey|
-|7|Mercury|Servant|00:28:28|01:19:03|Achieving status and power|
-|8|Moon|Ruler|01:19:04|02:09:39|Attraction of happiness and fortune|
+|6|Venus|Servant|23:37:51|00:28:26|Outer and inner journey|
+|7|Mercury|Servant|00:28:27|01:19:02|Achieving status and power|
+|8|Moon|Ruler|01:19:03|02:09:39|Attraction of happiness and fortune|
 |9|Saturn|Servant|02:09:40|03:00:15|Reaching status and promotion|
 |10|Jupiter|Servant|03:00:16|03:50:51|Fulfilling needs|
 |11|Mars|Servant|03:50:52|04:41:27|Attraction of love and hearts|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°35'36.39" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°24'57.82" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°40'51.20" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|9°19'48.60" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|25°4'10.09" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°23'45.18" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|29°58'45.74" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|14°24'57.68" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°40'51.16" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|9°19'48.59" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|25°4'10.04" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°23'45.14" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|29°58'46.43" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

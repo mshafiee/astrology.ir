@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:02:16|Night duration: 12:57:12|
+|Duration of the day: 11:02:16|Night duration: 12:57:11|
 |Every hour of day duration: 00:55:11|Every hour of night duration: 01:04:46|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|17:44:09|18:48:54|Acceptance of needs|
-|2|Venus|Servant|18:48:55|19:53:40|Unfortunate, no task is suitable|
-|3|Mercury|Servant|19:53:41|20:58:26|For overcoming diseases|
-|4|Moon|Servant|20:58:27|22:03:12|For all tasks, extremely auspicious|
-|5|Saturn|Servant|22:03:13|23:07:58|Creating negative energy and disrupting peace|
-|6|Jupiter|Servant|23:07:59|00:12:44|Outer and inner journey|
-|7|Mars|Servant|00:12:45|01:17:30|Attracting love and hearts and fortune|
-|8|Sun|Ruler|01:17:31|02:22:16|Being invisible to the people|
-|9|Venus|Servant|02:22:17|03:27:02|Separation, causing enmity|
-|10|Mercury|Servant|03:27:03|04:31:48|Dominating the great ones|
-|11|Moon|Servant|04:31:49|05:36:34|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|05:36:35|06:41:20|Creating evil and hatred|
+|1|Sun|Ruler|17:44:09|18:48:53|Acceptance of needs|
+|2|Venus|Servant|18:48:54|19:53:39|Unfortunate, no task is suitable|
+|3|Mercury|Servant|19:53:40|20:58:25|For overcoming diseases|
+|4|Moon|Servant|20:58:26|22:03:11|For all tasks, extremely auspicious|
+|5|Saturn|Servant|22:03:12|23:07:57|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|23:07:58|00:12:43|Outer and inner journey|
+|7|Mars|Servant|00:12:44|01:17:29|Attracting love and hearts and fortune|
+|8|Sun|Ruler|01:17:30|02:22:15|Being invisible to the people|
+|9|Venus|Servant|02:22:16|03:27:01|Separation, causing enmity|
+|10|Mercury|Servant|03:27:02|04:31:47|Dominating the great ones|
+|11|Moon|Servant|04:31:48|05:36:33|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|05:36:34|06:41:19|Creating evil and hatred|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°34'39.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°28'22.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°53'47.30" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|9°38'7.96" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|25°27'42.24" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|3°29'58.25" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°2'39.83" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|18°34'38.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|14°28'22.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°53'47.51" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°38'7.94" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|25°27'42.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°29'57.98" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°4'49.07" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°34'39.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°28'22.75" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°53'47.58" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|9°38'7.99" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|25°27'42.24" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°29'58.25" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|4°2'39.83" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|18°34'38.91" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|14°28'21.01" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°53'41.82" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|9°38'1.34" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|25°27'39.41" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°29'53.13" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°3'16.43" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
