@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:25:20 |
-| Sunrise | 06:32:44 |
+| Sunrise | 06:32:45 |
 | Dhuhr (Noon) | 12:12:30 |
 | Medium Coeli | 12:12:30 |
 | Sunset | 17:52:27 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:40 |
-| Sunrise | 06:32:44 |
+| Sunrise | 06:32:45 |
 | Dhuhr (Noon) | 12:12:30 |
 | Medium Coeli | 12:12:30 |
 | Sunset | 17:52:27 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:10:12 |
-| Sunrise | 06:32:44 |
+| Sunrise | 06:32:45 |
 | Dhuhr (Noon) | 12:12:30 |
 | Medium Coeli | 12:12:30 |
 | Sunset | 17:52:27 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:16:41 |
-| Sunrise | 06:32:44 |
+| Sunrise | 06:32:45 |
 | Dhuhr (Noon) | 12:12:30 |
 | Medium Coeli | 12:12:30 |
 | Sunset | 17:52:27 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°30'27.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|18°30'27.85" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|14°42'54.25" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|8°49'8.41" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|10°56'45.25" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°8'35.30" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|3°51'18.03" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°55'32.61" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°56'31.30" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|27°8'27.87" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|3°51'1.84" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°20'19.42" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Venus|Virgo|Sun|Sun|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}

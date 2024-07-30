@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |9|Mercury|Servant|15:13:01|16:25:04|Causing separation and homelessness|
 |10|Moon|Servant|16:25:05|17:37:09|Extremely unfortunate|
 |11|Saturn|Servant|17:37:10|18:49:14|Creating an unfortunate horoscope for anyone|
-|12|Jupiter|Servant|18:49:15|20:01:18|Suitable for asking for a need|
+|12|Jupiter|Servant|18:49:15|20:01:19|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°32'23.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°36'19.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°24'0.36" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|10°21'1.23" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|26°22'44.04" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|3°42'43.13" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|13°55'46.65" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|14°36'19.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°24'0.41" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|10°21'1.24" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|26°22'44.09" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|3°42'43.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|13°55'45.84" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°32'22.96" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°36'19.30" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|8°24'0.36" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|10°21'1.23" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°22'44.04" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°42'43.13" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|13°55'46.65" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|18°32'23.11" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|14°36'19.43" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|8°24'0.41" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|10°21'1.24" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°22'43.03" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°42'41.86" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|13°8'31.74" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Mars|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
