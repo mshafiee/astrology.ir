@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:09:32 |
+| Fajr (Dawn) | 04:09:31 |
 | Sunrise | 05:30:48 |
 | Dhuhr (Noon) | 11:43:59 |
 | Medium Coeli | 11:43:59 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°39'5.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°12'10.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°52'38.20" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°11'37.85" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|23°36'37.50" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|2°56'30.64" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|14°5'48.21" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°12'9.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°52'36.74" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°11'29.57" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|23°36'32.18" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|2°56'19.02" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|13°47'59.33" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Saturn|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|14°12'10.61" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|6°52'38.20" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|8°11'37.85" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°36'37.50" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|2°56'30.64" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|14°5'48.21" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°36'32.18" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|2°56'19.02" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|13°47'59.33" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

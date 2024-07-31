@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°36'35.31" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|14°21'24.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°27'26.11" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|9°0'48.47" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|24°39'46.72" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|3°16'47.29" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|25°32'38.05" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°27'18.06" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°0'37.85" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|24°39'41.94" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|3°16'38.47" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|24°3'23.19" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Libra|Moon|Moon|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|18°36'35.31" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|14°21'24.94" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|7°27'26.11" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|9°0'48.47" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|24°39'46.72" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°16'47.29" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|25°32'38.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°0'37.85" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|24°39'41.94" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|3°16'38.47" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|24°3'23.19" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
