@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|11°35'4.92" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|27°57'45.05" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|3°58'25.58" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|0°29'50.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°31'52.64" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

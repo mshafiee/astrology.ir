@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:31:19 |
 | Dhuhr (Noon) | 12:28:19 |
 | Medium Coeli | 12:28:19 |
-| Sunset | 19:24:50 |
+| Sunset | 19:24:51 |
 | Maghrib | 19:46:18 |
 | Isha (Night) | 20:40:05 |
-| Sharia Midnight | 23:39:33 |
+| Sharia Midnight | 23:39:34 |
 | Imum Coeli | 00:28:17 |
 {{< /tab >}}
 
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:31:19 |
 | Dhuhr (Noon) | 12:28:19 |
 | Medium Coeli | 12:28:19 |
-| Sunset | 19:24:50 |
+| Sunset | 19:24:51 |
 | Maghrib | 19:30:25 |
 | Isha (Night) | 21:00:25 |
-| Sharia Midnight | 23:37:02 |
+| Sharia Midnight | 23:37:03 |
 | Imum Coeli | 00:28:17 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°35'36.39" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°24'57.82" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°40'51.20" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|9°19'48.60" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|25°4'10.09" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|3°23'45.18" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|29°58'45.74" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|14°24'57.76" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°40'50.99" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|9°19'48.61" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|25°4'10.17" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|3°23'45.41" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|29°57'4.77" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

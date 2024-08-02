@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|15°0'26.37" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°56'40.41" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|12°33'6.80" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|29°12'1.87" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|4°4'40.54" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|11°53'24.49" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|29°12'9.91" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|4°4'59.33" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|13°15'35.54" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Venus|Jupiter|Mars|Moon|
+|☾ Moon|Mercury|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Sagittarius|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Venus|Virgo|Sun|Sun|
-|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°25'8.22" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°0'24.74" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|9°56'37.04" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|12°32'53.76" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|29°12'1.87" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|4°4'40.54" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|11°53'24.49" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|18°25'8.38" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|15°0'26.37" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|9°56'40.41" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|12°33'6.80" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|29°12'1.93" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|4°4'40.57" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|11°53'23.70" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
