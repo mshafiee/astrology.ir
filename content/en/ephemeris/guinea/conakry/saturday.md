@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°28'52.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°48'14.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°9'38.45" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|11°25'59.39" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°46'6.22" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|3°56'57.03" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|28°20'58.84" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|14°48'13.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°9'32.92" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|11°25'52.78" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|27°46'3.43" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|3°56'51.41" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|27°28'14.81" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Venus|Virgo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°28'52.16" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°48'15.53" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|9°9'40.55" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|11°26'0.93" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|27°46'6.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|3°56'57.53" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|28°34'57.45" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|18°28'52.00" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|14°48'15.40" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|9°9'40.51" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|11°26'0.91" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|27°46'6.56" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|3°56'57.51" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|28°34'58.30" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

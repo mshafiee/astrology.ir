@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°19'15.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°18'45.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°8'8.13" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|14°15'32.85" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|1°23'30.95" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|4°3'38.33" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°42'9.13" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|15°18'45.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°8'7.36" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|14°15'33.29" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|1°23'31.52" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|4°3'39.77" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°47'57.36" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°19'15.31" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°18'43.32" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°8'1.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|14°15'19.62" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°23'23.88" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|4°3'21.24" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°30'46.80" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|15°18'45.57" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°8'8.13" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|14°15'32.85" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°23'30.95" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|4°3'38.33" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|4°42'9.13" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Mercury|Saturn|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}

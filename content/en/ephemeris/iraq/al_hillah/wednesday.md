@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:54:52 |
 | Maghrib | 19:12:04 |
 | Isha (Night) | 20:04:51 |
-| Sharia Midnight | 23:27:39 |
+| Sharia Midnight | 23:27:38 |
 | Imum Coeli | 00:08:00 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°16'18.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°27'32.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°42'44.54" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|15°5'23.44" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|2°27'21.02" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°57'2.11" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|15°19'22.60" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|18°16'18.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|15°27'32.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°42'44.48" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|15°5'23.41" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|2°27'20.95" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°57'2.08" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|15°19'22.49" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°16'18.61" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°27'30.92" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°42'38.78" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|15°5'18.35" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|2°27'19.49" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|3°56'58.18" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|15°13'8.83" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|18°16'18.45" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|15°27'32.40" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°42'44.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|15°5'23.41" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|2°27'20.95" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|3°57'2.08" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|15°19'22.49" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

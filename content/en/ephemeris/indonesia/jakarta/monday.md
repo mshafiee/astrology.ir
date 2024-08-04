@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:50:57 |
 | Sunrise | 06:02:33 |
-| Dhuhr (Noon) | 11:58:37 |
-| Medium Coeli | 11:58:37 |
+| Dhuhr (Noon) | 11:58:36 |
+| Medium Coeli | 11:58:36 |
 | Sunset | 17:54:43 |
 | Maghrib | 18:11:03 |
 | Isha (Night) | 18:50:49 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:41 |
 | Sunrise | 06:02:33 |
-| Dhuhr (Noon) | 11:58:37 |
-| Medium Coeli | 11:58:37 |
+| Dhuhr (Noon) | 11:58:36 |
+| Medium Coeli | 11:58:36 |
 | Sunset | 17:54:43 |
 | Maghrib | 17:55:39 |
 | Isha (Night) | 19:03:22 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:43:25 |
 | Sunrise | 06:02:33 |
-| Dhuhr (Noon) | 11:58:37 |
-| Medium Coeli | 11:58:37 |
+| Dhuhr (Noon) | 11:58:36 |
+| Medium Coeli | 11:58:36 |
 | Sunset | 17:54:43 |
 | Maghrib | 17:55:39 |
 | Isha (Night) | 19:05:27 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|13°59'57.46" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|1°3'30.34" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|4°4'58.43" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°41'34.35" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°41'10.82" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°28'26.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|14°49'39.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°15'4.91" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|11°33'43.34" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°55'59.76" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|3°58'13.77" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°17'19.59" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°49'37.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°14'57.98" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|11°33'27.90" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|27°55'51.25" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|3°57'54.81" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|28°34'59.56" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Mars|Mars|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Venus|Virgo|Sun|Sun|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°28'26.77" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|14°49'39.90" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|18°28'26.61" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|14°49'39.76" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|9°15'4.91" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|11°33'43.34" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|27°55'59.76" |Leo|Sarfrah|Mars|

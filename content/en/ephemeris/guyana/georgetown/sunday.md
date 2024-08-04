@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 11:58:40 |
 | Sunset | 18:10:38 |
 | Maghrib | 18:27:03 |
-| Isha (Night) | 19:07:24 |
+| Isha (Night) | 19:07:23 |
 | Sharia Midnight | 23:22:22 |
 | Imum Coeli | 23:58:37 |
 {{< /tab >}}
@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°22'0.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°10'18.86" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°10'19.95" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|10°35'8.45" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|13°28'12.08" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|13°28'10.03" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|0°22'47.59" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|4°6'22.31" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|24°55'52.55" |Cancer|Tarf|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°22'0.17" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°10'19.95" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°10'18.86" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|10°35'4.49" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|13°28'10.03" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|0°22'47.59" |Virgo|Sarfrah|Sun|
