@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:05:30 |
 | Sunrise | 06:18:34 |
-| Dhuhr (Noon) | 12:26:54 |
-| Medium Coeli | 12:26:54 |
+| Dhuhr (Noon) | 12:26:55 |
+| Medium Coeli | 12:26:55 |
 | Sunset | 18:35:12 |
 | Maghrib | 18:36:08 |
 | Isha (Night) | 19:43:58 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:18:11 |
 | Sunrise | 06:18:34 |
-| Dhuhr (Noon) | 12:26:54 |
-| Medium Coeli | 12:26:54 |
+| Dhuhr (Noon) | 12:26:55 |
+| Medium Coeli | 12:26:55 |
 | Sunset | 18:35:12 |
 | Maghrib | 18:36:08 |
 | Isha (Night) | 19:35:32 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:03:23 |
 | Sunrise | 06:18:34 |
-| Dhuhr (Noon) | 12:26:54 |
-| Medium Coeli | 12:26:54 |
+| Dhuhr (Noon) | 12:26:55 |
+| Medium Coeli | 12:26:55 |
 | Sunset | 18:35:12 |
 | Maghrib | 18:36:08 |
 | Isha (Night) | 20:06:08 |
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|18°15'53.16" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|15°28'47.33" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|11°47'40.16" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|15°12'24.18" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|2°36'22.34" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|3°55'34.53" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|15°58'49.73" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|15°12'29.66" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|2°36'26.92" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|3°55'45.76" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|16°48'6.07" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
+|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}

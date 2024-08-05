@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°10'7.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°45'13.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°53'20.53" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°47'25.42" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|4°38'1.81" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°30'31.18" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|5°34'3.71" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|15°45'16.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°53'20.60" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°47'25.46" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|4°38'1.88" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°30'51.38" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|6°9'56.75" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°10'7.42" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°45'13.53" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|12°53'12.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|16°47'10.48" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|4°37'54.15" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|3°30'31.14" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|5°34'3.31" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|15°45'16.34" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|12°53'20.60" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|16°47'25.46" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|4°38'1.88" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|3°30'51.38" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|6°9'56.75" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

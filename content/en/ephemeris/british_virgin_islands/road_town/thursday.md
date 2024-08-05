@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:33:01 |
+| Fajr (Dawn) | 04:33:02 |
 | Sunrise | 05:58:24 |
 | Dhuhr (Noon) | 12:24:03 |
 | Medium Coeli | 12:24:03 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°8'10.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°50'38.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°14'56.32" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|17°18'44.76" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°18'7.83" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°19'27.86" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°30'33.01" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|18°8'11.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|15°50'38.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°14'56.39" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|17°18'44.80" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|5°18'7.91" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°19'27.91" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°30'33.43" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°8'10.85" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°50'38.47" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|13°14'56.32" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|17°18'44.76" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°18'7.83" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|3°19'27.86" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|12°30'33.01" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|18°8'11.01" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|15°50'38.62" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°14'56.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|17°18'44.80" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°17'58.36" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|3°19'27.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|12°30'33.43" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

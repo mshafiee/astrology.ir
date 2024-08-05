@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:08:28 |
 | Sunset | 18:54:30 |
 | Maghrib | 18:57:03 |
-| Isha (Night) | 20:20:19 |
+| Isha (Night) | 20:20:20 |
 | Sharia Midnight | 23:22:51 |
 | Imum Coeli | 00:08:24 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°19'58.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°16'33.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°59'29.03" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|14°3'8.55" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|1°7'35.02" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|4°4'45.19" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°23'8.88" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|18°19'58.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|15°16'33.32" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°59'29.09" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|14°3'8.58" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|1°7'35.09" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|4°4'45.22" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°23'8.61" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°19'58.60" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°16'33.18" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°59'29.03" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|14°3'8.55" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°7'34.84" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|4°4'44.56" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|2°20'49.75" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|18°19'58.76" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|15°16'33.32" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°59'29.09" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|14°3'8.58" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°7'35.09" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|4°4'45.22" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°23'8.61" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

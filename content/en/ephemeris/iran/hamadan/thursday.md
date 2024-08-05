@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:39:15|Night duration: 10:21:30|
+|Duration of the day: 13:39:15|Night duration: 10:21:31|
 |Every hour duration: 01:57:02|Every hour duration: 01:28:47|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Moon|Ruler|19:10:55|20:39:41|
 |Late evening|Saturn|Servant|20:39:42|22:08:28|
 |Midnight|Jupiter|Servant|22:08:29|23:37:15|
-|Late at night|Mars|Servant|23:37:16|01:06:02|
-|Rooster song|Sun|Servant|01:06:03|02:34:49|
-|False Dawn|Venus|Servant|02:34:50|04:03:36|
-|Dawn|Mercury|Servant|04:03:37|05:32:24|
+|Late at night|Mars|Servant|23:37:16|01:06:03|
+|Rooster song|Sun|Servant|01:06:04|02:34:50|
+|False Dawn|Venus|Servant|02:34:51|04:03:37|
+|Dawn|Mercury|Servant|04:03:38|05:32:25|
 
 {{< /tab >}}
 
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°12'53.70" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|15°37'26.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°22'3.51" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°2'8.57" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|3°40'2.93" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°44'32.41" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|26°56'39.43" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|12°22'3.57" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°2'8.60" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|3°40'3.00" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°44'32.45" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|26°56'39.73" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°12'53.54" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°37'26.68" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|12°22'3.51" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|16°2'8.57" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|3°40'2.93" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|3°44'32.41" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|26°56'39.43" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|18°12'53.70" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|15°37'26.82" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|12°22'3.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|16°2'8.60" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|3°40'3.00" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|3°44'32.45" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|26°56'39.73" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
