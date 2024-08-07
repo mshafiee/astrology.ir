@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°9'49.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°46'6.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°56'42.17" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°52'17.16" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|4°44'18.90" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°29'5.32" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|6°57'56.65" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|15°46'5.92" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°56'40.78" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°52'16.62" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|4°44'18.94" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°29'4.32" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|7°10'46.62" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°9'49.39" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°46'6.44" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|12°56'42.17" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|16°52'17.16" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|4°44'18.90" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|3°29'4.24" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|7°3'24.98" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|18°9'49.23" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|15°46'6.07" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|12°56'40.85" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|16°52'16.66" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|4°44'19.02" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|3°29'4.36" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|7°10'47.03" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

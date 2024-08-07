@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|11°35'14.06" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|14°54'34.02" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|2°13'29.25" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°58'48.87" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|13°2'53.31" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|3°58'48.11" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°57'51.34" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°16'57.23" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°25'38.57" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°35'14.06" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|14°54'34.02" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|2°13'29.25" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|3°58'48.87" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|13°2'53.31" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|15°25'38.92" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°35'15.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|14°54'34.32" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|2°13'28.92" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|3°58'48.11" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|12°57'51.34" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

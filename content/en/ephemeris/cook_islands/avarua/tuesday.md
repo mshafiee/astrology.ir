@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:51:39 |
-| Sunrise | 07:07:16 |
+| Sunrise | 07:07:15 |
 | Dhuhr (Noon) | 12:44:54 |
 | Medium Coeli | 12:44:54 |
 | Sunset | 18:22:45 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:50:20 |
-| Sunrise | 07:07:16 |
+| Sunrise | 07:07:15 |
 | Dhuhr (Noon) | 12:44:54 |
 | Medium Coeli | 12:44:54 |
 | Sunset | 18:22:45 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:15:29|Night duration: 12:43:55|
+|Duration of the day: 11:15:30|Night duration: 12:43:55|
 |Every hour of day duration: 00:56:17|Every hour of night duration: 01:03:40|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|07:07:16|08:03:32|Creating corruption, hatred and enmity|
-|2|Sun|Servant|08:03:33|08:59:49|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:59:50|09:56:07|Attracting connection and suitors|
-|4|Mercury|Servant|09:56:08|10:52:24|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:52:25|11:48:42|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:48:43|12:44:59|Repelling negative energy of evil eye|
+|1|Mars|Ruler|07:07:15|08:03:31|Creating corruption, hatred and enmity|
+|2|Sun|Servant|08:03:32|08:59:49|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:59:50|09:56:06|Attracting connection and suitors|
+|4|Mercury|Servant|09:56:07|10:52:24|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:52:25|11:48:41|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|11:48:42|12:44:59|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|12:45:00|13:41:16|Attracting love and hearts|
 |8|Mars|Ruler|13:41:17|14:37:34|Creating corruption, destroying enemies, making enemies sick|
 |9|Sun|Servant|14:37:35|15:33:51|Heart tenderness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°14'11.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°33'43.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°7'15.72" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|15°40'44.96" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|3°12'39.81" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°49'49.32" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|22°27'40.86" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|18°14'11.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|15°33'43.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°7'15.66" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|15°40'44.93" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|3°12'39.74" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°49'49.28" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°27'40.62" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°14'11.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°33'43.73" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|12°7'15.72" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|15°40'44.96" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|3°12'39.81" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|3°49'49.32" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|22°27'40.86" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|18°14'11.25" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|15°33'43.59" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|12°7'15.66" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|15°40'44.93" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|3°12'30.62" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|3°49'26.31" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°6'36.20" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
+|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}

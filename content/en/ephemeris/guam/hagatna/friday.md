@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:26:31 |
 | Sunset | 18:45:37 |
 | Maghrib | 18:46:34 |
-| Isha (Night) | 19:47:59 |
+| Isha (Night) | 19:47:58 |
 | Sharia Midnight | 23:55:20 |
 | Imum Coeli | 00:26:26 |
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|17°43'4.41" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|5°49'16.31" |Virgo|Awwa|Sun|
 |☿ Mercury|Retrograde|3°9'32.69" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|17°27'33.85" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|17°25'33.77" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

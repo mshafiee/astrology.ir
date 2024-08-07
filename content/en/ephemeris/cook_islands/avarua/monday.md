@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:14:34|Night duration: 12:44:52|
+|Duration of the day: 11:14:34|Night duration: 12:44:51|
 |Every hour duration: 01:36:22|Every hour duration: 01:49:16|
 
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|18:22:24|20:11:39|
-|Late evening|Mercury|Servant|20:11:40|22:00:55|
-|Midnight|Moon|Servant|22:00:56|23:50:11|
-|Late at night|Saturn|Servant|23:50:12|01:39:27|
-|Rooster song|Jupiter|Servant|01:39:28|03:28:43|
-|False Dawn|Mars|Servant|03:28:44|05:17:59|
-|Dawn|Sun|Servant|05:18:00|07:07:15|
+|Evening|Venus|Ruler|18:22:24|20:11:38|
+|Late evening|Mercury|Servant|20:11:39|22:00:54|
+|Midnight|Moon|Servant|22:00:55|23:50:10|
+|Late at night|Saturn|Servant|23:50:11|01:39:26|
+|Rooster song|Jupiter|Servant|01:39:27|03:28:42|
+|False Dawn|Mars|Servant|03:28:43|05:17:58|
+|Dawn|Sun|Servant|05:17:59|07:07:14|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°17'37.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°23'39.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°27'23.39" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|14°43'15.64" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|1°58'59.20" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|4°0'23.59" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|10°27'29.98" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|15°23'37.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°27'19.25" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|14°43'0.46" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|1°58'51.55" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|4°0'4.72" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|9°7'19.61" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Venus|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sagittarius|Moon|Moon|
 |♀ Venus|Sun|Mars|Leo|Sun|Sun|
 |☿ Mercury|Sun|Venus|Virgo|Sun|Sun|
-|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}

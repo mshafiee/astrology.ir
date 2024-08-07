@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:52:02 |
 | Medium Coeli | 12:52:02 |
 | Sunset | 19:58:59 |
-| Maghrib | 20:03:46 |
+| Maghrib | 20:03:45 |
 | Isha (Night) | 21:55:28 |
 | Sharia Midnight | 23:53:57 |
 | Imum Coeli | 00:51:57 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°9'6.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°48'4.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°4'37.35" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|17°3'46.10" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|4°58'58.14" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°25'4.47" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|9°25'3.43" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|18°9'6.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|15°48'4.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°4'37.28" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|17°3'45.00" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|4°58'57.06" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°25'1.81" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|9°10'40.91" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°9'6.85" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°48'4.75" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|13°4'37.35" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|17°3'46.10" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|4°58'58.14" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|3°25'4.47" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|9°25'3.43" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|15°48'5.05" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°4'38.31" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|17°3'44.96" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|4°58'56.99" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|3°25'1.77" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|9°10'40.91" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

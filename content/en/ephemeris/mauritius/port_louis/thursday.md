@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:15:37 |
 | Medium Coeli | 12:15:37 |
 | Sunset | 17:55:28 |
-| Maghrib | 18:10:30 |
+| Maghrib | 18:10:29 |
 | Isha (Night) | 18:54:21 |
 | Sharia Midnight | 23:41:40 |
 | Imum Coeli | 00:15:33 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|16°3'29.55" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|3°41'47.56" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|3°44'8.53" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|27°7'6.34" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°56'9.07" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Capricorn|Sun|Mars|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Sun|Venus|Virgo|Sun|Sun|
-|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
+|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°12'48.79" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°37'41.04" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|12°23'0.13" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|16°3'29.55" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|3°41'47.56" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|3°44'8.53" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|27°7'6.34" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|15°37'39.77" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|12°22'57.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|16°3'16.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|3°41'39.48" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|3°43'48.28" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|25°56'9.07" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
+|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
