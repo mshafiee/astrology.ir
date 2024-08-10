@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:07:46 |
 | Medium Coeli | 12:07:46 |
 | Sunset | 18:05:35 |
-| Maghrib | 18:06:30 |
+| Maghrib | 18:06:31 |
 | Isha (Night) | 19:05:27 |
 | Sharia Midnight | 23:37:45 |
 | Imum Coeli | 00:07:42 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:07:46 |
 | Medium Coeli | 12:07:46 |
 | Sunset | 18:05:35 |
-| Maghrib | 18:06:30 |
+| Maghrib | 18:06:31 |
 | Isha (Night) | 19:17:55 |
 | Sharia Midnight | 23:31:31 |
 | Imum Coeli | 00:07:42 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:07:46 |
 | Sunset | 18:05:35 |
 | Maghrib | 18:06:31 |
-| Isha (Night) | 19:36:31 |
+| Isha (Night) | 19:36:30 |
 | Sharia Midnight | 23:30:29 |
 | Imum Coeli | 00:07:42 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°6'21.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°55'37.71" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°55'37.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|13°35'4.18" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|17°47'57.15" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°55'31.04" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°7'24.48" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|18°12'10.53" |Virgo|Simak|Venus|
+|♀ Venus|Direct|5°55'30.96" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°7'24.43" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|18°12'10.12" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°6'21.45" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°55'37.71" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|18°6'21.29" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|15°55'37.71" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|13°35'4.18" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|17°47'57.15" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|5°55'31.04" |Virgo|Awwa|Sun|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°6'35.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°55'0.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°32'33.04" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|17°44'16.70" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°50'51.21" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°8'54.08" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°24'37.56" |Virgo|Simak|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°54'57.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°32'25.92" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|17°44'5.19" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|5°50'45.64" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°8'38.75" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°19'12.55" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°6'35.31" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°55'0.18" |Gemini|HanAh|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|15°55'0.18" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|13°32'32.62" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|17°44'16.70" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°50'51.21" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|3°8'54.08" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|17°24'37.56" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|17°44'17.05" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°50'51.60" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|3°8'54.99" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|17°30'27.01" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}

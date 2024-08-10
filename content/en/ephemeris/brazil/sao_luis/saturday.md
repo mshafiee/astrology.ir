@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°1'2.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°9'42.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°32'26.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°11'34.28" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|7°42'31.22" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°25'46.17" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|5°11'13.26" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|18°1'2.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°9'42.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°32'26.38" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°11'34.32" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|7°42'31.30" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|2°25'46.23" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°22'33.80" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°1'2.50" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|16°9'42.87" |Gemini|HanAh|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|16°9'42.87" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|14°32'26.38" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|19°11'34.32" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|7°42'31.30" |Virgo|Awwa|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Maranham, Maranhao, Maranhão, SLZ, San Luisas, San-Luis, Sao Louis, Sao Luis, Sao Luis do Maranhao, Sao Luiz, Sao Luiz de Maranhao, Sao Luiz do Maranhao, Saun Luis, Saun Luís, São Luis, São Luiz, São Luiz de Maranhão, São Luiz do Maranhão, São Luís, São Luís do Maranhão, cavo luyicu, sa'o lu'isa, san-luisi, sanglu-iseu, saw lwyys, saw lwyz, sayw lwyys  maranhaw, sheng lu yi si, Σάο Λουίς, Сан-Луис, Сан-Луіс, Сан-Луїс, Сао Луис, סאו לואיס, ساؤ لوئیس, ساؤ لوئیس، مارانہاؤ, سائو لوئیس، مارانهاو, ساو لويز, साओ लुईस, সাও লুইস, சாவோ லூயிசு, სან-ლუისი, サン・ルイス, 圣路易斯, 상루이스

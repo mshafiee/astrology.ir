@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:07:28 |
 | Medium Coeli | 12:07:28 |
 | Sunset | 18:27:17 |
-| Maghrib | 18:31:47 |
+| Maghrib | 18:31:48 |
 | Isha (Night) | 19:30:28 |
 | Sharia Midnight | 23:35:53 |
 | Imum Coeli | 00:07:23 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°4'17.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°1'9.73" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|16°1'9.73" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|13°57'31.26" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|18°20'39.32" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|6°37'22.19" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|2°52'24.66" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|25°27'35.47" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|25°1'57.90" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°4'17.62" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|16°1'9.73" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|13°57'24.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|18°20'33.00" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|6°37'20.00" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°52'17.63" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|25°27'35.47" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°1'9.73" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°57'31.26" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|18°20'39.32" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|6°37'22.19" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°52'24.66" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|25°1'57.90" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

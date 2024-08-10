@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°1'31.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|16°8'27.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°27'18.60" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°4'5.33" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|7°32'56.55" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°29'56.36" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°51'33.19" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|18°1'31.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°8'27.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°27'18.68" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°4'5.38" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|7°32'56.63" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|2°29'56.42" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°51'33.28" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°1'31.18" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|16°8'27.60" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°27'18.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|19°4'5.33" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°32'56.63" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°29'56.42" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°51'33.28" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|18°1'31.34" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°8'27.02" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°27'15.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|19°4'3.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°32'56.48" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°29'55.18" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|4°11'32.02" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

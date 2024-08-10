@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:26:30|Night duration: 10:34:09|
+|Duration of the day: 13:26:30|Night duration: 10:34:10|
 |Every hour duration: 01:55:13|Every hour duration: 01:30:36|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|18:40:52|20:11:26|
 |Late evening|Moon|Servant|20:11:27|21:42:02|
-|Midnight|Saturn|Servant|21:42:03|23:12:37|
-|Late at night|Jupiter|Servant|23:12:38|00:43:13|
-|Rooster song|Mars|Servant|00:43:14|02:13:48|
-|False Dawn|Sun|Servant|02:13:49|03:44:24|
-|Dawn|Venus|Servant|03:44:25|05:15:00|
+|Midnight|Saturn|Servant|21:42:03|23:12:38|
+|Late at night|Jupiter|Servant|23:12:39|00:43:13|
+|Rooster song|Mars|Servant|00:43:14|02:13:49|
+|False Dawn|Sun|Servant|02:13:50|03:44:25|
+|Dawn|Venus|Servant|03:44:26|05:15:01|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°5'48.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|15°57'4.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°40'56.91" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|17°56'32.11" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|6°6'30.30" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|3°3'38.78" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|20°8'7.65" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|18°5'49.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|15°57'4.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°40'57.14" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|17°56'31.85" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|6°6'30.04" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|3°3'38.17" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°4'31.62" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°5'48.91" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|15°57'4.63" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|13°40'56.91" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|17°56'32.11" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|6°6'30.30" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|3°3'38.78" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|20°8'7.65" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|15°57'4.63" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°40'57.22" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|17°56'31.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|6°6'30.12" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|3°3'38.22" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°4'32.02" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
