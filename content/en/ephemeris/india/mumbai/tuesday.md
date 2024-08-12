@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:48:34|Night duration: 11:11:43|
+|Duration of the day: 12:48:34|Night duration: 11:11:42|
 |Every hour of day duration: 01:04:03|Every hour of night duration: 00:55:59|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Sun|Servant|21:55:22|22:51:20|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Venus|Servant|22:51:21|23:47:18|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|23:47:19|00:43:17|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Moon|Servant|00:43:18|01:39:16|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Saturn|Ruler|01:39:17|02:35:14|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Jupiter|Servant|02:35:15|03:31:13|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mars|Servant|03:31:14|04:27:11|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Sun|Servant|04:27:12|05:23:10|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Venus|Servant|05:23:11|06:19:09|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Moon|Servant|00:43:18|01:39:15|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Saturn|Ruler|01:39:16|02:35:14|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Jupiter|Servant|02:35:15|03:31:12|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mars|Servant|03:31:13|04:27:11|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Sun|Servant|04:27:12|05:23:09|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Venus|Servant|05:23:10|06:19:08|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°37'39.14" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|20°47'3.41" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|9°44'37.57" |Leo|Zubrah|Saturn|
-|☿ Mercury|Retrograde|1°25'59.32" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|25°16'16.89" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|1°25'59.26" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|25°10'14.79" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

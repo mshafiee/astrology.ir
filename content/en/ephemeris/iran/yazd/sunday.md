@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:00:23 |
-| Sunrise | 05:15:01 |
+| Sunrise | 05:15:02 |
 | Dhuhr (Noon) | 11:57:41 |
 | Medium Coeli | 11:57:41 |
 | Sunset | 18:39:53 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:35:32 |
-| Sunrise | 05:15:01 |
+| Sunrise | 05:15:02 |
 | Dhuhr (Noon) | 11:57:41 |
 | Medium Coeli | 11:57:41 |
 | Sunset | 18:39:53 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:41:09 |
-| Sunrise | 05:15:02 |
+| Sunrise | 05:15:01 |
 | Dhuhr (Noon) | 11:57:41 |
 | Medium Coeli | 11:57:41 |
 | Sunset | 18:39:53 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:24:51|Night duration: 10:35:48|
+|Duration of the day: 13:24:52|Night duration: 10:35:48|
 |Every hour of day duration: 01:07:04|Every hour of night duration: 00:52:59|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:15:02|06:22:05|Love and attraction of capital|
-|2|Venus|Servant|06:22:06|07:29:09|Unfortunate, no task is suitable|
-|3|Mercury|Servant|07:29:10|08:36:13|Operations of tenderness and attraction of love|
-|4|Moon|Servant|08:36:14|09:43:18|Unfortunate and repelling goodness|
-|5|Saturn|Servant|09:43:19|10:50:22|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|10:50:23|11:57:26|Suitable for all good deeds|
+|1|Sun|Ruler|05:15:01|06:22:04|Love and attraction of capital|
+|2|Venus|Servant|06:22:05|07:29:08|Unfortunate, no task is suitable|
+|3|Mercury|Servant|07:29:09|08:36:13|Operations of tenderness and attraction of love|
+|4|Moon|Servant|08:36:14|09:43:17|Unfortunate and repelling goodness|
+|5|Saturn|Servant|09:43:18|10:50:21|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|10:50:22|11:57:26|Suitable for all good deeds|
 |7|Mars|Servant|11:57:27|13:04:30|No task is suitable, causes misfortune|
-|8|Sun|Ruler|13:04:31|14:11:35|Extremely auspicious and attracts happiness|
-|9|Venus|Servant|14:11:36|15:18:39|Summoning the person of interest, attracting hearts, heart tenderness|
+|8|Sun|Ruler|13:04:31|14:11:34|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|14:11:35|15:18:39|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|15:18:40|16:25:43|Attracting happiness, solving financial problems|
 |11|Moon|Servant|16:25:44|17:32:47|Performing promises|
 |12|Saturn|Servant|17:32:48|18:39:52|Finding the fugitive and discovering the thief|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°2'9.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°6'47.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°20'29.32" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|18°54'7.28" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|7°20'11.72" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°35'19.36" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°45'40.10" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|18°2'9.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°6'47.63" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°20'29.28" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|18°54'7.30" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|7°20'11.70" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|2°35'19.43" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°46'21.25" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°2'9.52" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°6'47.63" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°20'29.29" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|18°54'7.24" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°20'11.67" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°35'19.32" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|1°45'39.43" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|16°6'47.44" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°20'28.98" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|18°54'7.44" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°20'11.85" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°35'19.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|1°49'16.99" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

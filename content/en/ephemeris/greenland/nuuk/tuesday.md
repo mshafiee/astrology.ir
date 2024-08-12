@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|06:12:40|07:35:37|Creating corruption, hatred and enmity|
 |2|Sun|Servant|07:35:38|08:58:35|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:58:36|10:21:33|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Venus|Servant|08:58:36|10:21:33|Attracting connection and suitors|
 |4|Mercury|Servant|10:21:34|11:44:32|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|11:44:33|13:07:30|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Saturn|Servant|13:07:31|14:30:28|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°49'57.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°37'22.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°27'23.18" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|22°0'3.63" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|11°17'58.01" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|0°32'20.91" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|10°17'19.49" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|17°49'57.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°37'21.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°27'19.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|22°0'5.70" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|11°18'0.75" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|0°32'25.94" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|10°56'52.49" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|16°37'21.87" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|16°27'19.53" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°0'5.75" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|11°17'58.01" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|0°32'20.91" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|10°17'19.49" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|11°18'0.83" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|0°32'26.00" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|10°56'52.15" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

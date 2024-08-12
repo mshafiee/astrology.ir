@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°1'32.90" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|16°8'23.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°27'2.14" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°3'41.15" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|14°26'59.90" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°3'40.13" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|7°32'25.72" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°30'9.46" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°46'24.85" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|2°30'9.01" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°3'4.36" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°1'32.90" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°8'23.72" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°27'2.14" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|19°3'41.15" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°8'22.92" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°26'59.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|19°3'40.13" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|7°32'25.72" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°30'9.46" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°46'24.85" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|2°30'9.01" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|4°3'4.36" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Borto-Novo, Porta-Nova, Porto Neuvo, Porto Nobo, Porto Novas, Porto Novo, Porto-Novo, Portonovo, Portus Novus, Poto-Novo, Pòrto Neuvo, Pòto-Novo, Pôrto-Novo, bo duo nuo fu, bo tu nu bu, bwrtw nwfw, poleutonobo, porato-novo, porto-novho, porutonobo, pwrtw nwbw, pwrtw nwww, pxr to-no wo, xin gang, Πόρτο Νόβο, Πόρτο-Νόβο, Порта-Нова, Порто Ново, Порто-Ново, Պորտո Նովո, פארטא-נאווא, פורטו נובו, بورتو نوفو, پورتو نووو, پورٹو نووو, پۆرتۆ نۆڤۆ, पोर्तो-नोव्हो, ਪੋਰਤੋ-ਨੋਵੋ, ปอร์โต-โนโว, པོར་ཊོ་-ནོ་བོ།, პორტო-ნოვო, ፖርቶ ኖቮ, ポルトノボ, 新港, 波圖奴埠, 波多诺伏, 포르토노보

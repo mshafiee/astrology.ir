@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 20:42:51 |
 | Maghrib | 20:45:52 |
 | Isha (Night) | 22:19:30 |
-| Sharia Midnight | 00:57:54 |
+| Sharia Midnight | 00:57:55 |
 | Imum Coeli | 01:49:16 |
 {{< /tab >}}
 
@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 20:42:51 |
 | Maghrib | 20:45:52 |
 | Isha (Night) | 22:26:01 |
-| Sharia Midnight | 00:57:54 |
+| Sharia Midnight | 00:57:55 |
 | Imum Coeli | 01:49:16 |
 {{< /tab >}}
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|16°38'47.14" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|16°33'19.10" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°8'57.24" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|11°29'18.24" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|0°25'39.48" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°47'49.65" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|11°29'18.32" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|0°25'39.55" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°47'49.37" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°49'21.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°38'47.14" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°33'19.10" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°8'57.24" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|11°29'13.03" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|0°25'21.89" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|13°58'42.79" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|17°49'21.58" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°38'47.30" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°33'19.19" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°8'57.29" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|11°29'18.32" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|0°25'39.55" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|12°47'49.37" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aries|Moon|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}

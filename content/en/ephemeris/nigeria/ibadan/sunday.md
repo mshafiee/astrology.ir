@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|16°8'21.26" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°26'52.06" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|19°3'26.46" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|7°32'7.13" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°30'17.99" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°48'34.54" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|7°32'6.91" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|2°30'17.57" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°43'27.81" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|16°8'21.26" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|14°26'52.06" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|19°3'26.46" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°32'7.05" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°30'17.94" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°48'34.43" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|7°32'6.91" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°30'17.57" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°47'18.38" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: IBA, Ibadan, Ibadan shaary, Ibadana, Ibadanas, Ibadano, Ibadán, abadan, aybadan, ibadan, ibadana, yi ba dan, Ìbàdàn, İbadan, Ібадан, Ибадан, Ибадан шаары, איבדאן, إبادان, إيبادان, ابادان, ਇਬਾਦਾਨ, イバダン, 伊巴丹, 이바단

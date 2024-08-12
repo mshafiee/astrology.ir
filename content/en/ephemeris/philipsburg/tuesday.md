@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°49'31.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°38'21.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°31'32.49" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|22°6'24.16" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|11°26'7.28" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|0°27'30.01" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|13°10'15.63" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|17°49'31.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°38'23.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°31'38.43" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|22°6'29.12" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|11°26'8.50" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|0°27'36.53" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°13'41.39" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Venus|Venus|Pisces|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°49'31.53" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°38'23.49" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°31'38.51" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°6'29.17" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°49'31.36" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°38'23.34" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°31'38.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°6'29.12" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|11°26'8.58" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|0°27'36.59" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|12°13'41.10" |Sagittarius|NaAaem|Moon|

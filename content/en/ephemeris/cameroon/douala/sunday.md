@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°26'19.85" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|19°2'39.38" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|7°31'6.75" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°30'43.15" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°33'41.79" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|2°30'31.44" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°37'18.68" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°1'36.86" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°8'13.23" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°26'19.25" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|19°2'39.53" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°31'7.07" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°30'43.79" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°40'21.41" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|16°8'13.93" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°26'22.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|19°2'33.76" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°31'1.76" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°30'31.44" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°37'18.68" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라

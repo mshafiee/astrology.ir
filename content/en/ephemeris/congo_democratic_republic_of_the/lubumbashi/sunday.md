@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°1'45.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°7'51.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°24'51.47" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°0'29.88" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|7°28'21.69" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°31'51.94" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°6'1.60" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|18°1'45.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°7'52.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°24'52.46" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°0'30.32" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|7°28'21.63" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|2°31'52.12" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°58'6.43" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: E'ville, Elisabethville, Elizabethstad, Elizabethville, E’ville, FBM, Lubumbashi, Lubumbashi shaary, Lubumbashy, Lubumbasi, Lubumbasis, Lubumbaši, Lubumbašis, Lumumbashi, lu ben ba xi, lubumabasi, lubumbasi, lubumbasi si, lwbmbashy, lwbwmbashy, rubunbashi, Élisabethville, Лубумбаши, Лубумбаши шаары, Лубумбашы, Лубумбаші, לובומבאשי, لوبمباشی, لوبومباشي, لوبومباشی, ਲੂਬੁਮਬਾਸ਼ੀ, ルブンバシ, 盧本巴希, 루붐바시, 루붐바시 시

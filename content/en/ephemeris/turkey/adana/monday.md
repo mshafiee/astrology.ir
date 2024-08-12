@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:40:39|Night duration: 10:20:11|
+|Duration of the day: 13:40:39|Night duration: 10:20:10|
 |Every hour of day duration: 01:08:23|Every hour of night duration: 00:51:41|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Saturn|Servant|22:08:45|23:00:25|Repelling and destroying enemies and discharging enemy energy|
 |5|Jupiter|Servant|23:00:26|23:52:06|Answering needs, attracting love and wealth|
 |6|Mars|Servant|23:52:07|00:43:47|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:43:48|01:35:28|Making promises|
-|8|Venus|Ruler|01:35:29|02:27:09|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:27:10|03:18:50|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:18:51|04:10:31|Good for any task|
-|11|Saturn|Servant|04:10:32|05:02:12|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:02:13|05:53:53|Heart tenderness|
+|7|Sun|Servant|00:43:48|01:35:27|Making promises|
+|8|Venus|Ruler|01:35:28|02:27:08|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:27:09|03:18:49|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:18:50|04:10:30|Good for any task|
+|11|Saturn|Servant|04:10:31|05:02:11|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:02:12|05:53:52|Heart tenderness|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°58'16.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°16'50.35" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|17°58'15.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°16'50.19" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°1'44.79" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|19°54'25.22" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|8°37'19.69" |Leo|Zubrah|Saturn|
 |☿ Mercury|Retrograde|2°0'27.52" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|14°7'46.57" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|14°11'9.03" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

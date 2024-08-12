@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°53'17.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°29'15.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°53'18.24" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°10'0.52" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°13'57.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|1°9'49.02" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|29°49'10.93" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|17°53'17.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°29'15.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°53'17.14" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°10'1.24" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°13'58.89" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|1°9'50.79" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°2'6.88" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Venus|Mercury|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°53'17.96" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°29'15.20" |Gemini|HanAh|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|16°29'15.50" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|15°53'18.24" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|21°10'0.52" |Leo|Zubrah|Mars|
 |♀ Venus|Direct|10°13'57.99" |Virgo|Awwa|Venus|

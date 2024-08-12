@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°58'50.87" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|16°15'21.89" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°55'40.11" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°45'31.33" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|8°25'57.21" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°5'54.54" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°20'38.20" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|19°45'24.14" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|8°25'51.17" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|2°5'40.25" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|11°22'37.40" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°58'50.87" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|17°58'52.16" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|16°15'21.89" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°55'40.11" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|19°45'31.33" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|8°25'57.21" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°5'54.54" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|12°31'23.35" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|14°55'42.87" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|19°45'24.14" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|8°25'51.17" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°5'40.25" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|11°22'37.40" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Venus|Venus|Aries|Moon|Mars|
+|☾ Moon|Venus|Venus|Pisces|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Dikhua, OEremce, Ouroumtchi, Ouroumtsi, Ti-hua, Ti-hua-ch'eng, Ti-hua-ch’eng, Ti-hua-hsien, Ti-hua-shih, Tihwa, Tihwafu, Tikhua, Tikhva, UEruemchi-su, UEruemcsi, UEruemqi, UEruemqi-chhi, URC, Urumchi, Urumci, Urumcio, Urumcis, Urumczi, Urumptsi, Urumqi, Urumqi Shi, Urumtschi, Urumtsi, Urumutsi, Urumçi, Urumĉio, Urumči, Urumčis, Urunchi, Wu-lu-mu-ch'i, Wu-lu-mu-ch'i-shih, Wu-lu-mu-ch’i, Wu-lu-mu-ch’i-shih, Wulumuqi, Wurumch'ih, Wurumch’ih, arwmchy, awrwmchy, awrwmtshy, ulumuchi si, urumaci, urumaki, urumchi, urumucci, urumuchi, urumuchi shi, wu lu mu qi, wu lu mu qi shi, xu rum chi, Öremçe, Ürümchi, Ürümchi-sṳ, Ürümcsi, Ürümqi, Ürümqi Shi, Ürümqi-chhī, Ουρούμτσι, Урумчи, Урумчі, Урумћи, Үрімжі, Үрүмчи, Үрүмчү, Өрөмч хот, Ուրումչի, אורומצי, أورومتشي, ئۈرۈمچى, ئۈرۈمچى شەھىرى, ئۈرۈمچی, ارومچی, اورومچی, उरुमची, उरुम्छी, ਉਰੂਮਕੀ, உருமுச்சி, อุรุมชี, ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།, ウルムチ, ウルムチ市, 乌鲁木齐, 乌鲁木齐市, 烏魯木齊, 烏魯木齊市, 우루무치 시

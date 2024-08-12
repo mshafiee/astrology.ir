@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:54:25 |
 | Maghrib | 19:08:58 |
 | Isha (Night) | 19:52:00 |
-| Sharia Midnight | 00:03:59 |
+| Sharia Midnight | 00:03:58 |
 | Imum Coeli | 00:37:03 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°1'27.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°8'37.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°28'0.59" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°5'6.63" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|7°34'14.96" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°29'22.65" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°4'4.02" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|18°1'27.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°8'38.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°28'0.67" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°5'6.67" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|7°34'15.04" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|2°29'22.70" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°4'4.11" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°1'27.24" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°8'37.86" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°28'0.59" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|19°5'6.63" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°34'14.96" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°29'22.65" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|18°1'27.41" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°8'38.01" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°28'0.67" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|19°5'6.67" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°34'15.04" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°29'22.70" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|4°4'4.11" |Scorpio|Akleel|Mars|
 
 

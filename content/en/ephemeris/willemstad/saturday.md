@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:58:01 |
 | Maghrib | 18:58:58 |
 | Isha (Night) | 20:28:58 |
-| Sharia Midnight | 00:02:30 |
+| Sharia Midnight | 00:02:29 |
 | Imum Coeli | 00:40:55 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°0'49.73" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°10'15.93" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°34'33.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|19°14'40.32" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°46'38.97" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°23'38.71" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°30'47.99" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|16°10'13.74" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°34'35.15" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|19°14'45.87" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°46'42.29" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°23'47.76" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|6°41'36.16" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}

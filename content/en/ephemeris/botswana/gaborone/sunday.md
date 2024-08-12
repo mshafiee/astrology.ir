@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:21:31 |
 | Sunset | 17:56:54 |
 | Maghrib | 18:12:43 |
-| Isha (Night) | 18:57:48 |
+| Isha (Night) | 18:57:47 |
 | Sharia Midnight | 23:46:24 |
 | Imum Coeli | 00:21:25 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°1'41.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°8'0.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°25'26.67" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°1'20.57" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|7°29'23.27" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|2°31'12.57" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°21'26.10" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|18°1'41.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°8'0.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°25'26.59" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°1'20.53" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|7°29'27.29" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|2°31'21.70" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°14'35.05" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Venus|Mercury|Libra|Sun|Sun|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°1'41.79" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°8'1.06" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°25'29.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|19°1'16.56" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°29'23.35" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|2°31'12.62" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|2°21'26.10" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|16°8'1.08" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°25'30.01" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|19°1'17.01" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°29'23.65" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|2°31'13.40" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°23'21.19" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네

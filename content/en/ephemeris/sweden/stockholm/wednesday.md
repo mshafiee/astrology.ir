@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°50'38.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°35'44.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°20'28.24" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°50'0.05" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|11°5'6.26" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|0°40'11.90" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°30'45.46" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|17°50'37.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°35'44.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°20'28.15" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°50'0.00" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|11°5'6.34" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|0°40'11.58" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°42'56.24" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°50'38.03" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°35'44.18" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°20'28.24" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|21°50'0.05" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°50'37.86" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°35'44.03" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°20'28.15" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|21°50'0.00" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|11°5'6.42" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|0°40'11.64" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|8°42'55.84" |Sagittarius|NaAaem|Mercury|
