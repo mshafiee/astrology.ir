@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:02:13 |
 | Dhuhr (Noon) | 12:44:53 |
 | Medium Coeli | 12:44:53 |
-| Sunset | 18:27:48 |
+| Sunset | 18:27:47 |
 | Maghrib | 18:42:43 |
 | Isha (Night) | 19:26:23 |
-| Sharia Midnight | 00:11:03 |
+| Sharia Midnight | 00:11:02 |
 | Imum Coeli | 00:44:46 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:02:13 |
 | Dhuhr (Noon) | 12:44:53 |
 | Medium Coeli | 12:44:53 |
-| Sunset | 18:27:48 |
+| Sunset | 18:27:47 |
 | Maghrib | 18:28:46 |
 | Isha (Night) | 19:39:23 |
 | Sharia Midnight | 00:06:43 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:02:13 |
 | Dhuhr (Noon) | 12:44:53 |
 | Medium Coeli | 12:44:53 |
-| Sunset | 18:27:48 |
+| Sunset | 18:27:47 |
 | Maghrib | 18:28:46 |
 | Isha (Night) | 19:41:33 |
-| Sharia Midnight | 00:03:29 |
+| Sharia Midnight | 00:03:28 |
 | Imum Coeli | 00:44:46 |
 {{< /tab >}}
 
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°36'17.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°8'39.27" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|18°41'27.41" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|25°18'55.11" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°36'17.23" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°8'39.11" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°41'27.32" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|25°18'55.06" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|15°31'51.78" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|27°44'16.83" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|27°7'1.99" |Capricorn|SaadAlSaud|Sun|

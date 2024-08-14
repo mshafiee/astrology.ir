@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 12:33:24|Night duration: 11:26:42|
-|Every hour of day duration: 01:02:47|Every hour of night duration: 00:57:13|
+|Every hour of day duration: 01:02:47|Every hour of night duration: 00:57:14|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°49'21.35" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°1'26.67" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|13°52'57.90" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|28°52'37.85" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|8°17'38.78" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|28°52'37.79" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|8°17'38.64" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°41'41.15" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°56'38.14" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°49'21.44" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°1'26.72" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|13°52'57.99" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|28°52'37.85" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|8°17'38.78" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|17°41'40.98" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°56'37.98" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°49'21.35" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°1'20.70" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|13°52'55.98" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|28°52'28.68" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|9°18'16.25" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Aquarius|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}

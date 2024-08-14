@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:34:10|Night duration: 11:25:58|
+|Duration of the day: 12:34:10|Night duration: 11:25:57|
 |Every hour duration: 01:47:44|Every hour duration: 01:38:00|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Moon|Ruler|18:18:05|19:56:03|
 |Late evening|Saturn|Servant|19:56:04|21:34:03|
-|Midnight|Jupiter|Servant|21:34:04|23:12:03|
-|Late at night|Mars|Servant|23:12:04|00:50:02|
-|Rooster song|Sun|Servant|00:50:03|02:28:02|
-|False Dawn|Venus|Servant|02:28:03|04:06:02|
-|Dawn|Mercury|Servant|04:06:03|05:44:02|
+|Midnight|Jupiter|Servant|21:34:04|23:12:02|
+|Late at night|Mars|Servant|23:12:03|00:50:02|
+|Rooster song|Sun|Servant|00:50:03|02:28:01|
+|False Dawn|Venus|Servant|02:28:02|04:06:01|
+|Dawn|Mercury|Servant|04:06:02|05:44:01|
 
 {{< /tab >}}
 
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|24°6'9.89" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|13°58'59.45" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|28°48'32.30" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|9°24'12.16" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|9°24'12.03" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:30:46 |
 | Sunset | 18:05:29 |
 | Maghrib | 18:10:31 |
-| Isha (Night) | 19:32:04 |
+| Isha (Night) | 19:32:05 |
 | Sharia Midnight | 22:47:32 |
 | Imum Coeli | 23:30:39 |
 {{< /tab >}}
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|16°53'29.38" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°35'50.68" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|23°41'24.15" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|13°27'22.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°27'22.18" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|29°9'51.89" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|3°37'45.16" |Sagittarius|Shaulah|Mercury|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°43'4.05" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°53'29.38" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°35'50.68" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|23°41'24.15" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|13°27'22.75" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|29°9'51.89" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°37'45.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°53'29.51" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°35'51.25" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|23°41'23.66" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|13°27'22.18" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|29°9'50.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°33'27.54" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

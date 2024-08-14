@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:48:34|Night duration: 11:11:43|
-|Every hour duration: 01:49:48|Every hour duration: 01:35:58|
+|Duration of the day: 12:48:34|Night duration: 11:11:42|
+|Every hour duration: 01:49:48|Every hour duration: 01:35:57|
 
  
  
@@ -276,12 +276,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|19:07:27|20:43:23|
-|Late evening|Jupiter|Servant|20:43:24|22:19:21|
-|Midnight|Mars|Servant|22:19:22|23:55:18|
-|Late at night|Sun|Servant|23:55:19|01:31:16|
-|Rooster song|Venus|Servant|01:31:17|03:07:13|
-|False Dawn|Mercury|Servant|03:07:14|04:43:11|
-|Dawn|Moon|Servant|04:43:12|06:19:09|
+|Late evening|Jupiter|Servant|20:43:24|22:19:20|
+|Midnight|Mars|Servant|22:19:21|23:55:18|
+|Late at night|Sun|Servant|23:55:19|01:31:15|
+|Rooster song|Venus|Servant|01:31:16|03:07:13|
+|False Dawn|Mercury|Servant|03:07:14|04:43:10|
+|Dawn|Moon|Servant|04:43:11|06:19:08|
 
 {{< /tab >}}
 
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|20°47'3.41" |Leo|Zubrah|Mars|
 |♀ Venus|Direct|9°44'37.57" |Virgo|Awwa|Sun|
 |☿ Mercury|Retrograde|1°25'59.26" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|25°10'14.79" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°16'17.44" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

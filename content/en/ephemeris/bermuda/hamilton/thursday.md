@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:23:29 |
 | Medium Coeli | 13:23:29 |
 | Sunset | 20:03:04 |
-| Maghrib | 20:04:10 |
+| Maghrib | 20:04:09 |
 | Isha (Night) | 21:27:17 |
 | Sharia Midnight | 00:38:44 |
 | Imum Coeli | 01:23:23 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:23:29 |
 | Medium Coeli | 13:23:29 |
 | Sunset | 20:03:04 |
-| Maghrib | 20:04:09 |
+| Maghrib | 20:04:10 |
 | Isha (Night) | 21:16:32 |
 | Sharia Midnight | 00:46:49 |
 | Imum Coeli | 01:23:23 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:23:29 |
 | Medium Coeli | 13:23:29 |
 | Sunset | 20:03:04 |
-| Maghrib | 20:04:10 |
+| Maghrib | 20:04:09 |
 | Isha (Night) | 21:30:00 |
 | Sharia Midnight | 00:34:36 |
 | Imum Coeli | 01:23:23 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:23:29 |
 | Medium Coeli | 13:23:29 |
 | Sunset | 20:03:04 |
-| Maghrib | 20:04:10 |
+| Maghrib | 20:04:09 |
 | Isha (Night) | 21:32:43 |
 | Sharia Midnight | 00:38:44 |
 | Imum Coeli | 01:23:23 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:23:29 |
 | Medium Coeli | 13:23:29 |
 | Sunset | 20:03:04 |
-| Maghrib | 20:04:09 |
-| Isha (Night) | 21:34:09 |
+| Maghrib | 20:04:10 |
+| Isha (Night) | 21:34:10 |
 | Sharia Midnight | 00:37:22 |
 | Imum Coeli | 01:23:23 |
 {{< /tab >}}
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°41'41.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°56'37.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°49'17.90" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°1'21.46" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|17°41'41.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°56'37.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°49'17.98" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°1'21.51" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|13°52'51.51" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|28°52'41.75" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|8°17'30.29" |Sagittarius|NaAaem|Mercury|

@@ -221,7 +221,7 @@ Timetable of twelve day and night planetary hours
 |3|Venus|Servant|08:10:31|09:22:35|Attracting connection and suitors|
 |4|Mercury|Servant|09:22:36|10:34:39|Attracting material wealth, earnings and business prosperity|
 |5|Moon|Servant|10:34:40|11:46:44|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:46:45|12:58:49|Repelling negative energy of evil eye|
+|6|Saturn|Servant|11:46:45|12:58:49|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Jupiter|Servant|12:58:50|14:10:53|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mars|Ruler|14:10:54|15:22:58|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Sun|Servant|15:22:59|16:35:03|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°54'21.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°26'39.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°42'28.71" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|20°54'7.98" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|9°53'41.25" |Leo|Zubrah|Saturn|
-|☿ Mercury|Retrograde|1°21'1.68" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|26°40'59.20" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°26'37.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°42'22.10" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|20°53'56.05" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°53'35.35" |Leo|Zubrah|Saturn|
+|☿ Mercury|Retrograde|1°20'43.66" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|27°21'53.79" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°42'28.71" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|20°54'7.98" |Leo|Zubrah|Mars|
 |♀ Venus|Direct|9°53'41.25" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|1°21'1.68" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|26°40'59.20" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|1°20'43.72" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|27°21'53.21" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

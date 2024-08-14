@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:11:10 |
+| Fajr (Dawn) | 03:11:09 |
 | Sunrise | 05:15:16 |
 | Dhuhr (Noon) | 12:13:50 |
 | Medium Coeli | 12:13:50 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°39'26.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°1'41.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°11'9.97" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°33'52.75" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|14°34'23.11" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|28°24'16.97" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|16°14'32.43" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|17°1'41.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°11'11.60" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°33'52.52" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|14°34'22.33" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|28°24'16.35" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|16°3'29.02" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°39'26.30" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°1'41.58" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°11'11.60" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°33'52.52" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°34'22.33" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|28°24'16.35" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|16°3'29.02" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|17°1'40.99" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°11'9.88" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°33'52.70" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°34'23.02" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|28°24'16.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|16°14'32.39" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 19:13:10 |
 | Maghrib | 19:19:19 |
 | Isha (Night) | 21:02:14 |
-| Sharia Midnight | 23:12:10 |
+| Sharia Midnight | 23:12:09 |
 | Imum Coeli | 00:13:56 |
 {{< /tab >}}
 
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°43'25.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°52'39.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°32'17.57" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°36'10.52" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|17°43'25.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°52'39.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°32'19.18" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°36'10.28" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|13°20'42.51" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|29°14'17.65" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|2°28'16.18" |Sagittarius|Shaulah|Mercury|
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°43'25.65" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°52'39.99" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°32'19.18" |Gemini|Dhira|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|16°52'39.57" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°32'17.57" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|23°36'10.52" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|13°20'43.29" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|29°14'18.44" |Leo|Sarfrah|Mars|

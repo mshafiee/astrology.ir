@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:46:44 |
+| Fajr (Dawn) | 04:46:43 |
 | Sunrise | 06:00:04 |
 | Dhuhr (Noon) | 11:49:34 |
 | Medium Coeli | 11:49:34 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°52'5.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°52'4.98" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|16°32'13.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|16°5'42.17" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|21°28'16.08" |Cancer|Tarf|Moon|

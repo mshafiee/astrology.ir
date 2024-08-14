@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|06:12:40|07:35:37|Creating corruption, hatred and enmity|
 |2|Sun|Servant|07:35:38|08:58:35|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:58:36|10:21:33|Attracting connection and suitors|
+|3|Venus|Servant|08:58:36|10:21:33|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mercury|Servant|10:21:34|11:44:32|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|11:44:33|13:07:30|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Saturn|Servant|13:07:31|14:30:28|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°49'57.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°37'21.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°27'19.44" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|22°0'5.70" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|11°18'0.75" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|0°32'25.94" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|10°56'52.49" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|17°49'57.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°37'21.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°27'16.32" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|22°0'6.56" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|11°18'2.61" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|0°32'28.63" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|11°31'6.91" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Venus|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°49'57.40" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°37'21.87" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°27'19.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°0'5.75" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|11°18'0.83" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|0°32'26.00" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|10°56'52.15" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|16°37'21.07" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°27'16.32" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°0'6.56" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|11°18'2.61" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|0°32'28.63" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|11°31'6.91" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
