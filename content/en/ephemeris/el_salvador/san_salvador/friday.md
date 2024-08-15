@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:37:48 |
-| Sunrise | 05:44:02 |
+| Sunrise | 05:44:03 |
 | Dhuhr (Noon) | 12:00:53 |
 | Medium Coeli | 12:00:53 |
 | Sunset | 18:17:32 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:22:31 |
-| Sunrise | 05:44:02 |
+| Sunrise | 05:44:03 |
 | Dhuhr (Noon) | 12:00:53 |
 | Medium Coeli | 12:00:53 |
 | Sunset | 18:17:32 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:33:30|Night duration: 11:26:38|
+|Duration of the day: 12:33:29|Night duration: 11:26:38|
 |Every hour of day duration: 01:02:47|Every hour of night duration: 00:57:13|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:44:02|06:46:48|Love, creating love and attracting hearts|
-|2|Mercury|Servant|06:46:49|07:49:36|Attracting auspiciousness|
-|3|Moon|Servant|07:49:37|08:52:23|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|08:52:24|09:55:11|Unfortunate hour|
-|5|Jupiter|Servant|09:55:12|10:57:58|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|10:57:59|12:00:46|Creating attraction and acceptance among dignitaries|
+|1|Venus|Ruler|05:44:03|06:46:49|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:46:50|07:49:36|Attracting auspiciousness|
+|3|Moon|Servant|07:49:37|08:52:24|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|08:52:25|09:55:11|Unfortunate hour|
+|5|Jupiter|Servant|09:55:12|10:57:59|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|10:58:00|12:00:46|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|12:00:47|13:03:33|Promotion and attracting wealth|
 |8|Venus|Ruler|13:03:34|14:06:21|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:06:22|15:09:08|Causing separation and homelessness|
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:33:30|Night duration: 11:26:38|
-|Every hour duration: 01:47:39|Every hour duration: 01:38:05|
+|Duration of the day: 12:33:29|Night duration: 11:26:38|
+|Every hour duration: 01:47:38|Every hour duration: 01:38:05|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|05:44:02|07:31:39|
-|Mid-morning|Mercury|Servant|07:31:40|09:19:18|
-|Late morning|Moon|Servant|09:19:19|11:06:56|
-|Noon|Saturn|Servant|11:06:57|12:54:35|
-|Early afternoon|Jupiter|Servant|12:54:36|14:42:13|
-|Mid-afternoon|Mars|Servant|14:42:14|16:29:52|
+|Early morning|Venus|Ruler|05:44:03|07:31:40|
+|Mid-morning|Mercury|Servant|07:31:41|09:19:18|
+|Late morning|Moon|Servant|09:19:19|11:06:57|
+|Noon|Saturn|Servant|11:06:58|12:54:35|
+|Early afternoon|Jupiter|Servant|12:54:36|14:42:14|
+|Mid-afternoon|Mars|Servant|14:42:15|16:29:52|
 |Late afternoon|Sun|Servant|16:29:53|18:17:31|
 
  
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°37'20.63" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°6'19.68" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°31'19.32" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|25°3'50.30" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°12'35.90" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|27°57'47.65" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|24°38'56.65" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|17°37'20.80" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°6'19.85" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°31'19.41" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|25°3'50.35" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|15°12'35.99" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|27°57'47.70" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°12'48.27" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}

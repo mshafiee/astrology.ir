@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 14:05:30|Night duration: 09:55:47|
-|Every hour of day duration: 01:10:28|Every hour of night duration: 00:49:39|
+|Every hour of day duration: 01:10:27|Every hour of night duration: 00:49:39|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|17°14'4.51" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|19°5'13.37" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°54'23.87" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|16°17'6.56" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|27°12'39.08" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°38'5.58" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|16°17'6.62" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|27°12'37.95" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|5°48'16.41" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:58:09 |
 | Sunrise | 06:25:24 |
-| Dhuhr (Noon) | 13:04:56 |
-| Medium Coeli | 13:04:56 |
+| Dhuhr (Noon) | 13:04:57 |
+| Medium Coeli | 13:04:57 |
 | Sunset | 19:44:02 |
 | Maghrib | 20:03:10 |
 | Isha (Night) | 20:51:25 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°50'34.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°35'52.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°21'4.94" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°50'55.48" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|11°6'15.67" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°35'53.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°21'5.02" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°50'55.53" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|11°6'15.76" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|0°39'34.92" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°50'59.57" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|8°51'2.44" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°50'34.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°35'52.91" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°21'4.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|21°50'55.42" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|11°6'15.61" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|0°39'34.74" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|8°50'25.67" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|17°50'34.25" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°35'53.07" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°21'5.07" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|21°50'55.47" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|11°6'15.70" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|0°39'34.80" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|8°50'25.28" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

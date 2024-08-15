@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:39:52 |
 | Sunset | 19:06:48 |
 | Maghrib | 19:11:35 |
-| Isha (Night) | 20:26:43 |
+| Isha (Night) | 20:26:44 |
 | Sharia Midnight | 00:57:14 |
 | Imum Coeli | 01:39:46 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°45'24.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°48'5.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°12'45.65" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°7'11.18" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|12°43'43.31" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|29°38'34.53" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°58'56.55" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|17°45'24.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°48'5.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°12'45.74" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°7'11.23" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|12°43'43.39" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|29°38'34.59" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°58'56.63" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°45'24.58" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°48'5.24" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°12'45.65" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|23°7'11.18" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°45'24.75" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°48'5.40" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°12'45.74" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|23°7'11.23" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°43'43.39" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|29°38'34.59" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|25°58'56.63" |Sagittarius|Baldah|Saturn|

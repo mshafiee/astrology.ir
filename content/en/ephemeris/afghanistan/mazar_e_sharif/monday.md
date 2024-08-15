@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:25:13|Night duration: 10:35:35|
+|Duration of the day: 13:25:14|Night duration: 10:35:34|
 |Every hour duration: 01:55:02|Every hour duration: 01:30:48|
 
  
@@ -264,21 +264,21 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|05:22:12|07:17:12|
-|Mid-morning|Saturn|Servant|07:17:13|09:12:14|
-|Late morning|Jupiter|Servant|09:12:15|11:07:16|
-|Noon|Mars|Servant|11:07:17|13:02:18|
-|Early afternoon|Sun|Servant|13:02:19|14:57:20|
-|Mid-afternoon|Venus|Servant|14:57:21|16:52:22|
-|Late afternoon|Mercury|Servant|16:52:23|18:47:24|
+|Early morning|Moon|Ruler|05:22:12|07:17:13|
+|Mid-morning|Saturn|Servant|07:17:14|09:12:15|
+|Late morning|Jupiter|Servant|09:12:16|11:07:17|
+|Noon|Mars|Servant|11:07:18|13:02:19|
+|Early afternoon|Sun|Servant|13:02:20|14:57:21|
+|Mid-afternoon|Venus|Servant|14:57:22|16:52:23|
+|Late afternoon|Mercury|Servant|16:52:24|18:47:25|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|18:47:25|20:18:11|
-|Late evening|Mercury|Servant|20:18:12|21:48:59|
-|Midnight|Moon|Servant|21:49:00|23:19:47|
-|Late at night|Saturn|Servant|23:19:48|00:50:35|
+|Evening|Venus|Ruler|18:47:26|20:18:12|
+|Late evening|Mercury|Servant|20:18:13|21:49:00|
+|Midnight|Moon|Servant|21:49:01|23:19:48|
+|Late at night|Saturn|Servant|23:19:49|00:50:35|
 |Rooster song|Jupiter|Servant|00:50:36|02:21:23|
 |False Dawn|Mars|Servant|02:21:24|03:52:11|
 |Dawn|Sun|Servant|03:52:12|05:22:59|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°31'2.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°19'56.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°31'5.66" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|26°33'5.74" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|17°6'27.11" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°38'9.91" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|15°29'10.84" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|17°19'56.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°31'5.61" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|26°33'5.87" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|17°6'27.22" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°38'10.16" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|15°28'36.43" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 20:37:42 |
 | Isha (Night) | 21:31:08 |
 | Sharia Midnight | 00:41:07 |
-| Imum Coeli | 01:29:10 |
+| Imum Coeli | 01:29:11 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 20:18:48 |
 | Isha (Night) | 21:48:48 |
 | Sharia Midnight | 00:38:39 |
-| Imum Coeli | 01:29:10 |
+| Imum Coeli | 01:29:11 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°42'41.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°54'20.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°39'30.15" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°46'49.42" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|17°42'41.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°54'20.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°39'30.24" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°46'49.47" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|13°34'18.37" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|29°5'12.48" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|4°54'55.43" |Sagittarius|NaAaem|Mercury|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|16°54'20.53" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|17°39'30.24" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|23°46'49.47" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|13°34'14.87" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|29°5'3.50" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°9'8.10" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|13°34'18.37" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|29°5'12.48" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|4°54'55.43" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Aquarius|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

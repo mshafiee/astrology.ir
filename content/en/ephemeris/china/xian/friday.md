@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:24:08|Night duration: 10:36:36|
+|Duration of the day: 13:24:08|Night duration: 10:36:35|
 |Every hour of day duration: 01:07:01|Every hour of night duration: 00:53:03|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|19:30:20|20:23:22|Love, creating love and attracting hearts|
-|2|Sun|Servant|20:23:23|21:16:25|Attracting auspiciousness|
-|3|Venus|Servant|21:16:26|22:09:28|Attracting misfortune, no task is suitable|
-|4|Mercury|Servant|22:09:29|23:02:31|Unfortunate hour|
-|5|Moon|Servant|23:02:32|23:55:34|Achieving position and status and attracting job fortune|
-|6|Saturn|Servant|23:55:35|00:48:37|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:48:38|01:41:40|Promotion and attracting wealth|
-|8|Mars|Ruler|01:41:41|02:34:43|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:34:44|03:27:46|Causing separation and homelessness|
-|10|Venus|Servant|03:27:47|04:20:49|Extremely unfortunate|
-|11|Mercury|Servant|04:20:50|05:13:52|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:13:53|06:06:55|Suitable for asking for a need|
+|1|Mars|Ruler|19:30:20|20:23:21|Love, creating love and attracting hearts|
+|2|Sun|Servant|20:23:22|21:16:24|Attracting auspiciousness|
+|3|Venus|Servant|21:16:25|22:09:27|Attracting misfortune, no task is suitable|
+|4|Mercury|Servant|22:09:28|23:02:30|Unfortunate hour|
+|5|Moon|Servant|23:02:31|23:55:33|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|23:55:34|00:48:36|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:48:37|01:41:39|Promotion and attracting wealth|
+|8|Mars|Ruler|01:41:40|02:34:42|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:34:43|03:27:45|Causing separation and homelessness|
+|10|Venus|Servant|03:27:46|04:20:48|Extremely unfortunate|
+|11|Mercury|Servant|04:20:49|05:13:51|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:13:52|06:06:54|Suitable for asking for a need|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°39'37.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°1'15.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°9'18.23" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°31'5.81" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|14°30'49.85" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|28°26'43.68" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|15°30'55.41" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|17°1'15.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°9'19.42" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°31'6.30" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|14°30'49.96" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|28°26'44.42" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|15°24'56.91" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°39'37.85" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°1'15.20" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°9'18.17" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°31'5.80" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°30'49.82" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|28°26'43.59" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|15°30'56.06" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|17°1'15.40" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°9'18.81" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°31'6.29" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°30'49.92" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|28°26'44.33" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|15°24'57.58" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

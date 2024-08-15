@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:55:27 |
 | Sunrise | 05:44:22 |
-| Dhuhr (Noon) | 12:39:19 |
-| Medium Coeli | 12:39:19 |
+| Dhuhr (Noon) | 12:39:18 |
+| Medium Coeli | 12:39:18 |
 | Sunset | 19:33:30 |
 | Maghrib | 19:38:27 |
 | Isha (Night) | 21:14:55 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:55:27 |
 | Sunrise | 05:44:22 |
-| Dhuhr (Noon) | 12:39:19 |
-| Medium Coeli | 12:39:19 |
+| Dhuhr (Noon) | 12:39:18 |
+| Medium Coeli | 12:39:18 |
 | Sunset | 19:33:30 |
 | Maghrib | 19:38:27 |
 | Isha (Night) | 21:21:50 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°38'41.44" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|17°3'21.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°18'24.57" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°44'27.71" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|14°47'57.25" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|28°14'33.28" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|18°55'7.95" |Sagittarius|Baldah|Moon|
+|♂ Mars|Direct|18°18'25.03" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°44'35.67" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|14°48'3.43" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|28°14'46.96" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|18°38'42.22" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°38'41.44" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|17°3'21.49" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|18°18'24.57" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°44'27.71" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°47'57.25" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|28°14'33.28" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°55'7.95" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|24°44'36.54" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°48'4.19" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|28°14'48.54" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|18°37'46.66" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

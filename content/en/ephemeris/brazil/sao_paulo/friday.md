@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:31:08 |
 | Dhuhr (Noon) | 12:10:42 |
 | Medium Coeli | 12:10:42 |
-| Sunset | 17:50:32 |
+| Sunset | 17:50:33 |
 | Maghrib | 18:06:01 |
 | Isha (Night) | 18:50:25 |
-| Sharia Midnight | 23:36:07 |
+| Sharia Midnight | 23:36:08 |
 | Imum Coeli | 00:10:35 |
 {{< /tab >}}
 
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:19:24|Night duration: 12:39:47|
-|Every hour duration: 01:37:03|Every hour duration: 01:48:32|
+|Duration of the day: 11:19:25|Night duration: 12:39:46|
+|Every hour duration: 01:37:04|Every hour duration: 01:48:32|
 
  
  
@@ -265,21 +265,21 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Venus|Ruler|06:31:08|08:08:10|
-|Mid-morning|Mercury|Servant|08:08:11|09:45:13|
-|Late morning|Moon|Servant|09:45:14|11:22:17|
-|Noon|Saturn|Servant|11:22:18|12:59:20|
-|Early afternoon|Jupiter|Servant|12:59:21|14:36:24|
-|Mid-afternoon|Mars|Servant|14:36:25|16:13:27|
-|Late afternoon|Sun|Servant|16:13:28|17:50:31|
+|Mid-morning|Mercury|Servant|08:08:11|09:45:14|
+|Late morning|Moon|Servant|09:45:15|11:22:17|
+|Noon|Saturn|Servant|11:22:18|12:59:21|
+|Early afternoon|Jupiter|Servant|12:59:22|14:36:24|
+|Mid-afternoon|Mars|Servant|14:36:25|16:13:28|
+|Late afternoon|Sun|Servant|16:13:29|17:50:32|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|17:50:32|19:39:03|
-|Late evening|Sun|Servant|19:39:04|21:27:35|
-|Midnight|Venus|Servant|21:27:36|23:16:08|
-|Late at night|Mercury|Servant|23:16:09|01:04:40|
-|Rooster song|Moon|Servant|01:04:41|02:53:13|
+|Evening|Mars|Ruler|17:50:33|19:39:04|
+|Late evening|Sun|Servant|19:39:05|21:27:36|
+|Midnight|Venus|Servant|21:27:37|23:16:08|
+|Late at night|Mercury|Servant|23:16:09|01:04:41|
+|Rooster song|Moon|Servant|01:04:42|02:53:13|
 |False Dawn|Saturn|Servant|02:53:14|04:41:45|
 |Dawn|Jupiter|Servant|04:41:46|06:30:18|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°37'43.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°5'30.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°27'42.78" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°58'26.39" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|15°5'44.18" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|28°2'29.60" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|22°7'55.95" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|17°37'43.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°5'29.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°27'42.69" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°58'26.34" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|15°5'44.09" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|28°2'29.54" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|22°7'55.98" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°37'43.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°5'30.04" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°27'42.78" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°58'26.39" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°5'44.18" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|28°2'29.60" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|22°7'55.95" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|17°37'43.34" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°5'29.88" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°27'42.69" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°58'26.34" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|15°5'44.09" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|28°2'29.54" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|22°7'55.98" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

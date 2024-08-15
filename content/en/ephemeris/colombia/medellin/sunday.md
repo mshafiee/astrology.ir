@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:31:12 |
 | Isha (Night) | 19:10:35 |
 | Sharia Midnight | 23:30:12 |
-| Imum Coeli | 00:05:49 |
+| Imum Coeli | 00:05:50 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:19:00 |
 | Isha (Night) | 19:27:16 |
 | Sharia Midnight | 23:29:35 |
-| Imum Coeli | 00:05:49 |
+| Imum Coeli | 00:05:50 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°29'18.58" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|17°23'35.08" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|19°47'16.41" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°57'20.52" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°37'21.59" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|26°16'44.18" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|21°38'13.71" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|26°57'20.39" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°37'21.44" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|26°16'43.97" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°38'56.02" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

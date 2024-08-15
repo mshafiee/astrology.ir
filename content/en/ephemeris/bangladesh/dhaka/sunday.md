@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:02:10 |
 | Sunset | 18:29:00 |
 | Maghrib | 18:30:00 |
-| Isha (Night) | 19:49:17 |
+| Isha (Night) | 19:49:18 |
 | Sharia Midnight | 23:22:02 |
 | Imum Coeli | 00:02:03 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°31'15.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°19'28.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°29'2.36" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|26°30'1.40" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|17°2'31.76" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°40'54.67" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|14°39'33.79" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|17°31'15.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°19'28.65" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°29'2.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|26°30'1.46" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|17°2'31.86" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°40'54.72" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|14°39'33.95" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°31'15.45" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°19'28.48" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°29'2.36" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°30'1.40" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°31'15.62" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°19'28.65" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°29'2.44" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|26°30'1.46" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|17°2'31.86" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|26°40'54.72" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|14°39'33.95" |Aquarius|SaadAlAkhbia|Mercury|

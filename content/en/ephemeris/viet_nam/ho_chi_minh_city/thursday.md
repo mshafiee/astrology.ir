@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Sun|Servant|22:02:42|23:00:16|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|23:00:17|23:57:52|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Mercury|Servant|23:57:53|00:55:28|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Moon|Ruler|00:55:29|01:53:04|Attraction of happiness and fortune|
+|8|Moon|Ruler|00:55:29|01:53:04|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Saturn|Servant|01:53:05|02:50:39|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|02:50:40|03:48:15|Fulfilling needs|
 |11|Mars|Servant|03:48:16|04:45:51|Attraction of love and hearts|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°43'30.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°52'26.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°31'22.74" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°34'38.54" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|13°18'55.94" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|29°14'57.17" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|3°17'27.78" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|17°43'30.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|16°52'25.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°31'21.13" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°34'47.38" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|13°19'2.79" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|29°15'12.87" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|3°17'26.85" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
