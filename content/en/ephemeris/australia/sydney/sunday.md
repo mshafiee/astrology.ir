@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°31'47.78" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|17°18'20.84" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°24'2.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|26°22'30.60" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|16°52'59.38" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°47'26.78" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|14°0'30.55" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|26°22'30.20" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|16°52'58.93" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°47'26.12" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|13°11'30.46" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Saturn|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Moon|Mercury|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Taurus|Sun|Mars|
-|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
+|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°31'47.78" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|17°18'20.84" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°24'2.62" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°22'30.60" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|16°52'53.77" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|26°47'13.18" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°0'30.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|19°24'3.04" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|26°22'30.20" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|16°52'58.93" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|26°47'26.12" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°11'30.46" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

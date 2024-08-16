@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°22'55.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°22'55.98" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|17°36'39.81" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°46'1.72" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|28°25'40.90" |Cancer|Jabhah|Moon|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|17°36'39.81" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°46'1.72" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|28°25'40.90" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°29'55.27" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°1'3.67" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°29'11.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|19°29'55.37" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°1'3.73" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°29'12.09" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

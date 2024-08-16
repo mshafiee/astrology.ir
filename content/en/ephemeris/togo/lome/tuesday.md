@@ -36,10 +36,10 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:45:49 |
+| Fajr (Dawn) | 04:45:50 |
 | Sunrise | 05:49:31 |
-| Dhuhr (Noon) | 11:58:22 |
-| Medium Coeli | 11:58:22 |
+| Dhuhr (Noon) | 11:58:23 |
+| Medium Coeli | 11:58:23 |
 | Sunset | 18:07:10 |
 | Maghrib | 18:21:08 |
 | Isha (Night) | 19:02:29 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:37:30 |
 | Sunrise | 05:49:31 |
-| Dhuhr (Noon) | 11:58:22 |
-| Medium Coeli | 11:58:22 |
+| Dhuhr (Noon) | 11:58:23 |
+| Medium Coeli | 11:58:23 |
 | Sunset | 18:07:10 |
 | Maghrib | 18:08:17 |
 | Isha (Night) | 19:14:56 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:59 |
 | Sunrise | 05:49:31 |
-| Dhuhr (Noon) | 11:58:22 |
-| Medium Coeli | 11:58:22 |
+| Dhuhr (Noon) | 11:58:23 |
+| Medium Coeli | 11:58:23 |
 | Sunset | 18:07:10 |
 | Maghrib | 18:08:17 |
 | Isha (Night) | 19:06:37 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:31:15 |
 | Sunrise | 05:49:31 |
-| Dhuhr (Noon) | 11:58:22 |
-| Medium Coeli | 11:58:22 |
+| Dhuhr (Noon) | 11:58:23 |
+| Medium Coeli | 11:58:23 |
 | Sunset | 18:07:10 |
 | Maghrib | 18:08:17 |
 | Isha (Night) | 19:17:01 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:37:30 |
 | Sunrise | 05:49:31 |
-| Dhuhr (Noon) | 11:58:22 |
-| Medium Coeli | 11:58:22 |
+| Dhuhr (Noon) | 11:58:23 |
+| Medium Coeli | 11:58:23 |
 | Sunset | 18:07:10 |
 | Maghrib | 18:08:17 |
 | Isha (Night) | 19:19:06 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'2.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°30'20.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°17'30.33" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°42'44.12" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°35'12.79" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°37'14.27" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°21'6.08" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°26'2.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°30'20.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°17'30.41" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°42'44.19" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°35'12.88" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°37'14.33" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°21'6.84" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'2.55" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°30'20.51" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°17'30.33" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°42'44.12" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°35'12.79" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°37'14.27" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°21'6.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°26'2.73" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°30'20.68" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°17'30.41" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°42'44.19" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°35'12.88" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°37'14.33" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°21'6.84" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

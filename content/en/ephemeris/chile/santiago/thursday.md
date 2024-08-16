@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:55:11 |
+| Fajr (Dawn) | 05:55:12 |
 | Sunrise | 07:20:14 |
 | Dhuhr (Noon) | 12:46:57 |
 | Medium Coeli | 12:46:57 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°41'26.01" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|16°57'12.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°51'50.98" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°5'6.69" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|13°57'41.15" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|28°49'18.53" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|9°26'39.08" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Direct|17°51'43.91" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°5'1.16" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|13°57'39.91" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|28°49'10.41" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|10°34'56.43" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°41'26.01" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|16°57'12.82" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|17°51'50.98" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°5'6.69" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|13°57'41.15" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|28°49'18.53" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|9°26'39.08" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|24°5'1.16" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|13°57'39.91" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|28°49'10.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°34'56.43" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Mars|Mars|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Aquarius|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}

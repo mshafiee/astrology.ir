@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°23'6.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°36'17.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°44'20.63" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|28°23'8.57" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°26'41.32" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°3'9.62" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°49'26.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°23'7.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°36'17.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°44'20.71" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|28°23'8.64" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°26'41.43" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°3'9.68" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°49'27.55" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°23'6.88" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°36'17.36" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°44'20.63" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°23'8.57" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°26'41.32" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°3'9.62" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°49'26.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°23'7.05" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°36'15.96" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°44'16.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°22'53.15" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°26'32.34" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°2'44.68" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|15°33'2.64" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Venus|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이

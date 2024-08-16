@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'57.41" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|17°28'28.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°9'5.93" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°30'5.95" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°19'6.64" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°48'7.60" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°4'40.56" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|20°9'8.68" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°30'3.58" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°19'3.90" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°48'4.15" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°21'37.60" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'57.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'28.26" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°9'5.93" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°30'5.95" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°19'6.64" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°48'7.60" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°4'40.56" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|17°28'28.95" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°9'8.68" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°30'3.58" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°19'3.90" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°48'4.15" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°21'37.60" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

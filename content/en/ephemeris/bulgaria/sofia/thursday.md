@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:31:06 |
 | Medium Coeli | 13:31:06 |
 | Sunset | 20:27:56 |
-| Maghrib | 20:47:59 |
+| Maghrib | 20:47:58 |
 | Isha (Night) | 21:50:04 |
 | Sharia Midnight | 00:43:28 |
 | Imum Coeli | 01:31:00 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°46'39.41" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|16°45'10.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°0'21.29" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|22°48'52.00" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|12°20'17.69" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|29°53'46.22" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|21°40'36.11" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|17°0'14.47" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|22°48'45.94" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|12°20'16.08" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|29°53'37.70" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|22°49'25.79" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°46'39.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°45'10.29" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°0'21.29" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°48'52.00" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|12°20'17.69" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|29°53'46.22" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|21°40'36.11" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|17°46'39.58" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°45'8.32" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°0'14.38" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°48'45.89" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|12°20'16.00" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|29°53'37.64" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|22°49'25.82" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}

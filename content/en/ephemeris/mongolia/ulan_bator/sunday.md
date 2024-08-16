@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:49:09 |
+| Fajr (Dawn) | 03:49:08 |
 | Sunrise | 05:52:01 |
 | Dhuhr (Noon) | 12:56:16 |
 | Medium Coeli | 12:56:16 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°31'33.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°18'51.45" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°26'18.19" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|26°25'55.02" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|16°57'18.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°44'30.94" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|13°44'59.72" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|17°31'33.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°18'51.29" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°26'18.10" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|26°25'54.96" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|16°57'18.33" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°44'30.88" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|13°44'59.60" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°31'33.21" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°18'51.45" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°26'18.19" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°25'55.02" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|16°57'18.42" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|26°44'30.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°44'59.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°31'33.03" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°18'51.29" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°26'18.10" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|26°25'54.96" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|16°57'18.33" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|26°44'30.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°44'59.60" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

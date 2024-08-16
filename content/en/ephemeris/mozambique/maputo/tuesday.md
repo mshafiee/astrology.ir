@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|27°38'50.56" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|18°30'16.84" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|25°40'28.95" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°38'20.13" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|2°53'7.46" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'19.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'46.26" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°14'55.97" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°38'50.56" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°30'16.84" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°40'28.95" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°38'20.13" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°26'19.47" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°29'44.51" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°14'50.03" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°38'47.85" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°30'17.17" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°40'23.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°53'7.46" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투

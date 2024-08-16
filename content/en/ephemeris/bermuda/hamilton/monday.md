@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:17:10 |
 | Sunrise | 06:46:03 |
-| Dhuhr (Noon) | 13:22:35 |
-| Medium Coeli | 13:22:35 |
+| Dhuhr (Noon) | 13:22:36 |
+| Medium Coeli | 13:22:36 |
 | Sunset | 19:58:39 |
 | Maghrib | 19:59:44 |
 | Isha (Night) | 21:21:53 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:33:10 |
 | Sunrise | 06:46:03 |
-| Dhuhr (Noon) | 13:22:35 |
-| Medium Coeli | 13:22:35 |
+| Dhuhr (Noon) | 13:22:36 |
+| Medium Coeli | 13:22:36 |
 | Sunset | 19:58:39 |
 | Maghrib | 19:59:44 |
 | Isha (Night) | 21:11:19 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:17:10 |
 | Sunrise | 06:46:03 |
-| Dhuhr (Noon) | 13:22:36 |
-| Medium Coeli | 13:22:36 |
+| Dhuhr (Noon) | 13:22:35 |
+| Medium Coeli | 13:22:35 |
 | Sunset | 19:58:39 |
 | Maghrib | 19:59:44 |
 | Isha (Night) | 21:27:14 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°25'21.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°31'44.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°23'49.63" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°52'14.68" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°47'19.78" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°29'6.65" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|5°48'57.74" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°25'21.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°31'42.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°23'42.57" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°52'1.49" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°47'13.33" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°28'44.72" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|7°15'48.65" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Venus|Jupiter|Sun|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°25'21.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°31'44.80" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°23'49.63" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°52'14.68" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°47'19.78" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°29'6.65" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°48'57.74" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|17°25'22.46" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°31'42.75" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°23'42.57" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°52'1.49" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°47'13.33" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°29'6.71" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|5°48'58.54" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BDA, Chamilton, Gamil'tan, Gamil'ton, Hamilton, Hamilton pa Bermuda, Hamilton på Bermuda, Hamiltonas, Hamiltono, Khamilton, Khamiltun, amiltan, ha mi er dun, haemilteon, hamiruton, hamyltwn, hemiltana, hmyltwn, Χάμιλτον, Гамильтон, Гамільтан, Гамільтон, Хамилтон, Хамилтън, המילטון, هاميلتون, همیلتون, ہیملٹن, हॅमिल्टन, ஆமில்டன், แฮมิลตัน, ჰამილტონი, ハミルトン, 哈密尔顿, 해밀턴

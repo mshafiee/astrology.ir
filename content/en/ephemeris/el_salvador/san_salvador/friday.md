@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:37:48 |
-| Sunrise | 05:44:03 |
+| Sunrise | 05:44:02 |
 | Dhuhr (Noon) | 12:00:53 |
 | Medium Coeli | 12:00:53 |
 | Sunset | 18:17:32 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°37'20.80" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|17°6'19.85" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°31'19.41" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|25°3'50.35" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°12'35.99" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|27°57'47.70" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|23°12'48.27" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Direct|18°31'11.24" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|25°3'40.93" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|15°12'32.39" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|27°57'32.62" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°38'56.65" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}

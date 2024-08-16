@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:07:52 |
 | Dhuhr (Noon) | 11:38:05 |
 | Medium Coeli | 11:38:05 |
-| Sunset | 18:07:58 |
+| Sunset | 18:07:57 |
 | Maghrib | 18:25:52 |
 | Isha (Night) | 19:10:33 |
 | Sharia Midnight | 22:57:53 |
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°42'57.06" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|16°53'45.37" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°36'59.19" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|23°43'5.75" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|13°29'32.40" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|29°8'25.31" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°42'56.88" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|16°53'45.21" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°36'59.10" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|23°43'5.70" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|13°29'32.31" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|29°8'25.25" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|4°0'47.14" |Capricorn|SaadAlDhabib|Jupiter|
 
 

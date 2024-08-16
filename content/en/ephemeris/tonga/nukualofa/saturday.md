@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:02:13 |
 | Dhuhr (Noon) | 12:44:53 |
 | Medium Coeli | 12:44:53 |
-| Sunset | 18:27:47 |
+| Sunset | 18:27:48 |
 | Maghrib | 18:42:43 |
 | Isha (Night) | 19:26:23 |
-| Sharia Midnight | 00:11:02 |
+| Sharia Midnight | 00:11:03 |
 | Imum Coeli | 00:44:46 |
 {{< /tab >}}
 
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:02:13 |
 | Dhuhr (Noon) | 12:44:53 |
 | Medium Coeli | 12:44:53 |
-| Sunset | 18:27:47 |
+| Sunset | 18:27:48 |
 | Maghrib | 18:44:55 |
 | Isha (Night) | 19:26:23 |
-| Sharia Midnight | 00:07:21 |
+| Sharia Midnight | 00:07:22 |
 | Imum Coeli | 00:44:46 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:02:13 |
 | Dhuhr (Noon) | 12:44:53 |
 | Medium Coeli | 12:44:53 |
-| Sunset | 18:27:47 |
+| Sunset | 18:27:48 |
 | Maghrib | 18:28:46 |
 | Isha (Night) | 19:41:33 |
-| Sharia Midnight | 00:03:28 |
+| Sharia Midnight | 00:03:29 |
 | Imum Coeli | 00:44:46 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 07:02:13 |
 | Dhuhr (Noon) | 12:44:53 |
 | Medium Coeli | 12:44:53 |
-| Sunset | 18:27:47 |
+| Sunset | 18:27:48 |
 | Maghrib | 18:28:46 |
 | Isha (Night) | 19:58:46 |
 | Sharia Midnight | 00:05:38 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:25:34|Night duration: 12:33:42|
+|Duration of the day: 11:25:35|Night duration: 12:33:41|
 |Every hour of day duration: 00:57:08|Every hour of night duration: 01:02:48|
 
  
@@ -222,22 +222,22 @@ Timetable of twelve day and night planetary hours
 |4|Sun|Servant|09:53:36|10:50:43|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|10:50:44|11:47:51|Auspicious|
 |6|Mercury|Servant|11:47:52|12:44:59|Writing, swapping and making promises|
-|7|Moon|Servant|12:45:00|13:42:06|Not suitable for any task|
-|8|Saturn|Ruler|13:42:07|14:39:14|Destruction of enemies|
-|9|Jupiter|Servant|14:39:15|15:36:22|All good deeds|
-|10|Mars|Servant|15:36:23|16:33:30|Doing evil deeds|
-|11|Sun|Servant|16:33:31|17:30:38|Acceptance of reconciliation between couples|
-|12|Venus|Servant|17:30:39|18:27:46|For gaining dignity|
+|7|Moon|Servant|12:45:00|13:42:07|Not suitable for any task|
+|8|Saturn|Ruler|13:42:08|14:39:15|Destruction of enemies|
+|9|Jupiter|Servant|14:39:16|15:36:23|All good deeds|
+|10|Mars|Servant|15:36:24|16:33:31|Doing evil deeds|
+|11|Sun|Servant|16:33:32|17:30:39|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:30:40|18:27:47|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:27:47|19:30:34|Related to talismans, amulets and responses|
-|2|Moon|Servant|19:30:35|20:33:23|Peace among people|
-|3|Saturn|Servant|20:33:24|21:36:11|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:36:12|22:39:00|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:39:01|23:41:48|Auspicious|
-|6|Sun|Servant|23:41:49|00:44:37|Writing, swapping and making promises|
+|1|Mercury|Ruler|18:27:48|19:30:35|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:30:36|20:33:23|Peace among people|
+|3|Saturn|Servant|20:33:24|21:36:12|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:36:13|22:39:00|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:39:01|23:41:49|Auspicious|
+|6|Sun|Servant|23:41:50|00:44:37|Writing, swapping and making promises|
 |7|Venus|Servant|00:44:38|01:47:25|Not suitable for any task|
 |8|Mercury|Ruler|01:47:26|02:50:14|Destruction of enemies|
 |9|Moon|Servant|02:50:15|03:53:02|All good deeds|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|18°41'27.41" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|25°18'55.11" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|15°31'51.78" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|27°44'16.77" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|27°7'2.06" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|27°44'16.83" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|27°7'1.99" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°36'17.23" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|17°36'17.41" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|17°8'39.27" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|18°41'27.41" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°18'55.11" |Leo|Sarfrah|Mars|

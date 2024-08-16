@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:45:06 |
 | Medium Coeli | 12:45:06 |
 | Sunset | 18:55:53 |
-| Maghrib | 19:10:02 |
+| Maghrib | 19:10:01 |
 | Isha (Night) | 19:51:40 |
 | Sharia Midnight | 00:12:57 |
 | Imum Coeli | 00:44:58 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'5.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°30'15.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°17'5.65" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°42'7.43" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°34'26.10" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°37'46.04" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°10'45.66" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|17°30'15.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°17'5.84" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°42'7.36" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°34'25.88" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°37'46.01" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°11'0.09" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'5.38" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°30'15.23" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°17'5.93" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°42'7.42" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°34'25.98" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|17°26'5.21" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°30'15.06" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°17'5.84" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°42'7.36" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°34'25.88" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|25°37'46.07" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|3°11'0.84" |Pisces|FarghAlMuqaddam|Saturn|
 

@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:57:34 |
 | Sunrise | 05:44:22 |
-| Dhuhr (Noon) | 12:39:18 |
-| Medium Coeli | 12:39:18 |
+| Dhuhr (Noon) | 12:39:19 |
+| Medium Coeli | 12:39:19 |
 | Sunset | 19:33:30 |
 | Maghrib | 19:56:21 |
 | Isha (Night) | 20:54:54 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:55:27 |
 | Sunrise | 05:44:22 |
-| Dhuhr (Noon) | 12:39:18 |
-| Medium Coeli | 12:39:18 |
+| Dhuhr (Noon) | 12:39:19 |
+| Medium Coeli | 12:39:19 |
 | Sunset | 19:33:30 |
 | Maghrib | 19:38:27 |
 | Isha (Night) | 21:14:55 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:55:27 |
 | Sunrise | 05:44:22 |
-| Dhuhr (Noon) | 12:39:18 |
-| Medium Coeli | 12:39:18 |
+| Dhuhr (Noon) | 12:39:19 |
+| Medium Coeli | 12:39:19 |
 | Sunset | 19:33:30 |
 | Maghrib | 19:38:27 |
 | Isha (Night) | 21:21:50 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:51:55 |
 | Sunrise | 05:44:22 |
-| Dhuhr (Noon) | 12:39:18 |
-| Medium Coeli | 12:39:18 |
+| Dhuhr (Noon) | 12:39:19 |
+| Medium Coeli | 12:39:19 |
 | Sunset | 19:33:30 |
 | Maghrib | 19:38:27 |
 | Isha (Night) | 21:08:27 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°38'41.44" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|17°3'21.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°18'25.03" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°44'35.67" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|14°48'3.43" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|28°14'46.96" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|18°38'42.22" |Sagittarius|Baldah|Moon|
+|♂ Mars|Direct|18°18'24.57" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°44'36.54" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|14°48'4.19" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|28°14'48.54" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|18°37'46.66" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

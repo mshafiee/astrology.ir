@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'45.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'52.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°10'56.94" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°32'51.89" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°22'39.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°45'40.46" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°57'3.49" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°26'45.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°28'52.72" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°10'56.86" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°32'51.83" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°22'39.22" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°45'39.78" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°59'50.20" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'45.52" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'52.88" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|17°26'45.34" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°28'52.72" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°10'56.86" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°32'52.28" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°22'39.63" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°45'40.46" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°57'3.49" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|27°32'51.83" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°22'39.22" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°45'39.78" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°59'50.20" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: GOJ, Gor'kij, Gor'kiy, Gorkey, Gorki, Gorkii, Gorkij, Gorky, Nijni Novgorod, Nijnii Novgorod, Nischni Nowgorod, Nishni-Nowgorod, Nishnii Nowgorod, Nishnij Nowgorod, Nizhni Novgorod, Nizhnii Novgorod, Nizhnij Novgorod, Nizhniy Novgorod, Nizhny Novgorod, Nizjnij Novgorod, Nizni Novgorod, Niznij Nowgorod, Nižni Novgorod, Nižnij Nowgorod, Горький, Нижний Новгород

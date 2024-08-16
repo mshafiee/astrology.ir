@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'43.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'57.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°11'16.85" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°33'11.24" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°23'9.22" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°44'58.76" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|2°19'10.15" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°26'43.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°28'57.23" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°11'16.76" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°33'22.44" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°23'17.34" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°45'16.60" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°58'23.69" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'43.27" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'57.39" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°11'16.85" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°33'22.50" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°23'17.44" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°45'16.66" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°58'24.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°26'43.10" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|17°28'57.23" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°11'16.76" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°33'10.28" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°23'9.23" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°44'57.02" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°25'1.18" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠

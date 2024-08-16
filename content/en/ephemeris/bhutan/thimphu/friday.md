@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:23:26 |
-| Sunrise | 05:33:24 |
+| Sunrise | 05:33:23 |
 | Dhuhr (Noon) | 12:05:40 |
 | Medium Coeli | 12:05:40 |
 | Sunset | 18:37:33 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:04:10|Night duration: 10:56:20|
+|Duration of the day: 13:04:09|Night duration: 10:56:20|
 |Every hour of day duration: 01:05:21|Every hour of night duration: 00:54:42|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:33:23|06:38:42|Love, creating love and attracting hearts|
-|2|Mercury|Servant|06:38:43|07:44:03|Attracting auspiciousness|
-|3|Moon|Servant|07:44:04|08:49:24|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|08:49:25|09:54:45|Unfortunate hour|
-|5|Jupiter|Servant|09:54:46|11:00:06|Achieving position and status and attracting job fortune|
+|1|Venus|Ruler|05:33:24|06:38:43|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:38:44|07:44:04|Attracting auspiciousness|
+|3|Moon|Servant|07:44:05|08:49:25|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|08:49:26|09:54:46|Unfortunate hour|
+|5|Jupiter|Servant|09:54:47|11:00:06|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|11:00:07|12:05:27|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:05:28|13:10:47|Promotion and attracting wealth|
-|8|Venus|Ruler|13:10:48|14:16:08|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|14:16:09|15:21:29|Causing separation and homelessness|
+|7|Sun|Servant|12:05:28|13:10:48|Promotion and attracting wealth|
+|8|Venus|Ruler|13:10:49|14:16:09|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|14:16:10|15:21:29|Causing separation and homelessness|
 |10|Moon|Servant|15:21:30|16:26:50|Extremely unfortunate|
 |11|Saturn|Servant|16:26:51|17:32:11|Creating an unfortunate horoscope for anyone|
 |12|Jupiter|Servant|17:32:12|18:37:32|Suitable for asking for a need|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:04:09|Night duration: 10:56:20|
+|Duration of the day: 13:04:10|Night duration: 10:56:20|
 |Every hour duration: 01:52:01|Every hour duration: 01:33:46|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|05:33:24|07:25:24|
-|Mid-morning|Mercury|Servant|07:25:25|09:17:25|
-|Late morning|Moon|Servant|09:17:26|11:09:26|
-|Noon|Saturn|Servant|11:09:27|13:01:28|
-|Early afternoon|Jupiter|Servant|13:01:29|14:53:29|
+|Early morning|Venus|Ruler|05:33:23|07:25:23|
+|Mid-morning|Mercury|Servant|07:25:24|09:17:24|
+|Late morning|Moon|Servant|09:17:25|11:09:26|
+|Noon|Saturn|Servant|11:09:27|13:01:27|
+|Early afternoon|Jupiter|Servant|13:01:28|14:53:29|
 |Mid-afternoon|Mars|Servant|14:53:30|16:45:30|
 |Late afternoon|Sun|Servant|16:45:31|18:37:32|
 
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|24°34'35.38" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|14°35'16.47" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|28°23'40.66" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|17°25'26.56" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|16°9'30.91" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Mercury|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}

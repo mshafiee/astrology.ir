@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°45'27.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|16°47'58.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°12'15.88" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°6'28.88" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|12°42'47.16" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|29°39'17.57" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°37'27.46" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|16°47'56.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°12'10.77" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°6'13.93" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|12°42'38.54" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|29°38'53.01" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|26°35'43.34" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}

@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:48:54 |
+| Fajr (Dawn) | 03:48:53 |
 | Sunrise | 05:28:28 |
 | Dhuhr (Noon) | 12:14:24 |
 | Medium Coeli | 12:14:24 |
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°46'54.88" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|16°44'33.97" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|16°57'46.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°45'4.10" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|12°15'26.31" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|29°56'52.88" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|20°48'11.30" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|22°45'4.15" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|12°15'26.39" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|29°56'52.95" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|20°48'11.27" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

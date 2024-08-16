@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°23'31.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°35'27.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°40'35.95" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|28°17'29.74" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°19'29.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°7'50.24" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°23'36.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°35'27.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°40'35.34" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|28°17'29.39" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°19'29.98" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°7'49.60" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°24'44.24" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: NGO, Nagoia, Nagoja, Nagojo, Nagoya, Nagoya City, Nagoya-shi, ming gu wu, ming gu wu shi, na ngoa ya, naghwya, nagoya si, nagoyashi, nagwya  aychy, Нагоя, ناغويا, ناگویا، آیچی, นะโงะยะ, なごやし, 名古屋, 名古屋市, 나고야 시

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°23'8.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°36'15.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°44'10.66" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|28°22'52.52" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°26'22.19" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°3'18.45" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°58'16.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°23'8.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°36'15.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°44'10.58" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|28°22'52.45" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°26'22.09" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°3'18.39" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°58'15.18" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|17°36'15.20" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°44'10.66" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|28°22'52.52" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°26'22.19" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°3'18.45" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°58'16.06" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|19°26'19.91" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°3'15.03" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°19'32.85" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: KJA, Krasnoiarsk, Krasnojarsk, Krasnoyarsk, Krasnoïarsk, Krsk, keulaseunoyaleuseukeu, Красноярск, 크라스노야르스크

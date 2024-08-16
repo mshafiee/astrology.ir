@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:31:12|Night duration: 10:29:41|
+|Duration of the day: 13:31:12|Night duration: 10:29:40|
 |Every hour duration: 01:55:53|Every hour duration: 01:29:57|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Jupiter|Ruler|19:05:53|20:35:49|
 |Late evening|Mars|Servant|20:35:50|22:05:46|
 |Midnight|Sun|Servant|22:05:47|23:35:43|
-|Late at night|Venus|Servant|23:35:44|01:05:41|
-|Rooster song|Mercury|Servant|01:05:42|02:35:38|
-|False Dawn|Moon|Servant|02:35:39|04:05:35|
-|Dawn|Saturn|Servant|04:05:36|05:35:33|
+|Late at night|Venus|Servant|23:35:44|01:05:40|
+|Rooster song|Mercury|Servant|01:05:41|02:35:37|
+|False Dawn|Moon|Servant|02:35:38|04:05:34|
+|Dawn|Saturn|Servant|04:05:35|05:35:32|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°34'55.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°11'37.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°54'26.38" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|25°38'18.05" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|15°56'34.32" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|27°27'2.59" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|1°44'2.14" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|17°34'55.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|17°11'37.32" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°54'26.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|25°38'18.13" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|15°56'34.35" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|27°27'2.66" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|1°43'25.61" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°34'55.56" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|17°34'55.39" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|17°11'37.30" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|18°54'26.38" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°38'18.05" |Leo|Sarfrah|Mars|
