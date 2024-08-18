@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 14:05:30|Night duration: 09:55:47|
-|Every hour of day duration: 01:10:27|Every hour of night duration: 00:49:39|
+|Every hour of day duration: 01:10:28|Every hour of night duration: 00:49:39|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°33'47.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°14'4.68" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|17°33'47.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°14'4.68" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°5'13.46" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|25°54'23.92" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|16°17'6.71" |Leo|Zubrah|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°33'47.38" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°14'4.68" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°5'13.46" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|25°54'23.92" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|16°17'6.71" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|27°12'38.00" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°48'16.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|17°14'5.19" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°5'15.13" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|25°54'24.61" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|16°17'6.56" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|27°12'39.08" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|5°38'5.58" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

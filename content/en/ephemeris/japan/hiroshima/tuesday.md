@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°23'28.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°35'34.53" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°35'34.53" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°41'6.11" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|28°18'15.21" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|19°20'27.89" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°7'12.47" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°35'12.29" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|25°7'12.36" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°33'51.94" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°23'28.40" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°35'34.32" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°41'5.37" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°18'15.09" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°20'28.10" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°7'12.16" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°34'16.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°35'34.53" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°41'6.11" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°18'15.21" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°20'27.89" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°7'12.47" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°35'12.29" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Chirosima, HIJ, Hiroshima, Hiroshima-shi, Hiroshimashi, Hirosima, Hirosimo, Hiroszima, Hiroxima, Hiroxima - guang dao shi, Hiroxima - 広島市, Hiroŝimo, Hiroşima, Hirošima, Hiroșima, Khiroshima, Khirosima, canghwad hi roa chi ma, guang dao, guang dao shi, hi ro chi ma, hilosima si, hiroshima, hiroshimashi, hirosima, hyrwshyma, hyrwsymh, Χιροσίμα, Хиросима, Хирошима, Хіросіма, הירושימה, هيروشيما, هیروشیما, हिरोशिमा, จังหวัดฮิโระชิมะ, ฮิโรชิมา, ჰიროსიმა, ჰიროშიმა, ひろしま, ひろしまし, ヒロシマ, ヒロシマシ, 広島, 広島市, 廣島市, 히로시마 시

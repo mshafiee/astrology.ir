@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:20:18 |
 | Maghrib | 18:24:26 |
 | Isha (Night) | 19:20:07 |
-| Sharia Midnight | 23:47:46 |
+| Sharia Midnight | 23:47:47 |
 | Imum Coeli | 00:17:40 |
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°29'15.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°23'41.55" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°23'41.55" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°47'45.20" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|26°58'3.39" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|17°38'16.46" |Leo|Zubrah|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°29'15.50" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°23'41.55" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°47'37.37" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°57'53.98" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°38'12.76" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|26°15'49.69" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|23°2'16.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°23'41.55" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°47'45.20" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|26°58'3.39" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°38'16.46" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|26°16'5.40" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°52'1.34" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Gemini|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Venus|
-|☾ Moon|Mercury|Mars|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}

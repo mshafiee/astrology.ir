@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°23'4.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°36'22.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°44'44.97" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|17°36'22.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°44'42.63" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|28°23'32.35" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|19°27'16.02" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|25°2'28.21" |Cancer|Tarf|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°23'4.66" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°36'22.38" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°36'22.38" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°44'42.63" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|28°23'41.60" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°27'23.46" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°2'42.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°58'44.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|19°27'16.02" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°2'28.21" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|15°15'37.48" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Venus|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'17.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'49.94" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°29'49.94" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°15'12.66" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|27°39'16.89" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|18°30'49.09" |Leo|Zubrah|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'17.72" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'49.94" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°15'12.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°39'16.89" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°30'49.09" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°40'11.12" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°30'46.29" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°29'47.92" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°15'5.57" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°39'9.39" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°30'46.59" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°39'58.23" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°19'47.73" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

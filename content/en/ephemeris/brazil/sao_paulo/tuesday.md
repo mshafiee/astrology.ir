@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:09:46 |
 | Sunset | 17:52:00 |
 | Maghrib | 17:56:23 |
-| Isha (Night) | 19:09:09 |
+| Isha (Night) | 19:09:10 |
 | Sharia Midnight | 23:30:57 |
 | Imum Coeli | 00:09:39 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°21'13.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°40'5.51" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°40'5.51" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°1'36.67" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|28°49'10.02" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|19°59'51.59" |Leo|Zubrah|Jupiter|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°21'13.32" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°40'5.51" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°40'5.51" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|21°1'36.67" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|28°49'10.02" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°59'51.59" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|24°41'49.00" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°59'51.71" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|24°41'48.93" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|20°51'44.89" |Pisces|Rescha|Mars|
 
 

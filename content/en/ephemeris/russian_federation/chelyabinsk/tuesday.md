@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'56.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'29.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°9'11.11" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°30'12.99" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°19'16.73" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°47'57.35" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°17'54.79" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|17°28'29.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°9'12.53" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°30'12.64" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°19'16.02" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°47'56.91" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°21'4.23" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'56.78" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'29.14" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°9'11.11" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°30'12.99" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°19'16.73" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°47'57.35" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°17'54.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°26'56.96" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°28'29.30" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°9'11.19" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°30'13.06" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°19'16.83" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°47'57.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°17'55.45" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: CEK, Celabinsk, Celabinska, Celaebinsk, Celeabinsk, Celiabinsc, Celiabinsca, Celiabinskas, Celjabinsk, Celyabinsk, Chaljabinsk, Chelepi, Cheliabinsk, Cheliábinsk, Cheljaba, Cheljaba osh, Cheljabe, Cheljabi, Cheljabins'k, Cheljabinsk, Chelyabinsk, Cseljabinszk, Czelabinsk, Czelabińsk, Tcheliabinsk, Tchelyabinsk, Tchéliabïnsk, Tjeljabinsk, Tscheljabinsk, Tseliampinsk, Tseljabinsk, Tsjeljabinsk, Tsyelyabinsk, Txeliabinsk, Txeliàbinsk, Tšeljabinsk, celiyabinska, celyabinska, che li ya bin si ke, chellyabinseukeu, cheryabinsuku, chlyabnsk, chlyabynsk, chylyabnsk, tshylyabnsk, zlyʼbynsq, Çelyabinsk, Ĉeljabinsk, Čeliabinskas, Čeljabinsk, Čeläbinsk, Čeļabinska, Čeľabinsk, Τσελιάμπινσκ, Силәбе, Чалябінск, Челепи, Челяба, Челяба ош, Челябе, Челябинск, Челябі, Челябінськ, Чељабинск, Чиләбе, Чєлѣбиньскъ, Չելյաբինսկ, טשעליאבינסק, צליאבינסק, تشيليابنسك, چلیابنسک, چلیابینسک, چیلیابنسک, चेलियाबिन्स्क, चेल्याबिंस्क, চেলিয়াবিন্‌স্ক, ჩელიაბინსკი, チェリャビンスク, 車里雅賓斯克, 첼랴빈스크

@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:40:11 |
+| Fajr (Dawn) | 04:40:12 |
 | Sunrise | 05:54:45 |
 | Dhuhr (Noon) | 12:05:06 |
 | Medium Coeli | 12:05:06 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°27'35.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°27'9.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°3'14.23" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°21'17.75" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°7'53.47" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°55'45.74" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|27°48'10.03" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Retrograde|17°27'35.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°27'9.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°3'14.32" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°21'17.81" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°7'53.57" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°55'45.80" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|27°48'10.61" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°27'35.25" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°27'9.57" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°3'14.23" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°21'17.75" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°7'53.47" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°55'45.74" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|27°48'10.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|17°27'35.43" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°27'9.73" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°3'6.61" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°21'3.08" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°7'46.18" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°55'21.38" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°30'42.87" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

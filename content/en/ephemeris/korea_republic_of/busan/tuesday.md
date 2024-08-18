@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°23'26.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°35'39.03" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°35'39.03" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°41'26.46" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|28°18'45.86" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|19°21'6.95" |Leo|Zubrah|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°23'25.99" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°35'38.86" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°41'26.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°18'45.79" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°21'6.85" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°6'46.84" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°43'22.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°23'26.17" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°35'39.03" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°41'26.46" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°18'45.86" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°21'6.95" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°6'46.90" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°43'23.58" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시

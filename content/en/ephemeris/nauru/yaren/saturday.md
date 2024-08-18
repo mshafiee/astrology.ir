@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:59:23 |
 | Maghrib | 19:00:17 |
 | Isha (Night) | 20:08:48 |
-| Sharia Midnight | 00:17:26 |
+| Sharia Midnight | 00:17:27 |
 | Imum Coeli | 00:56:15 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°36'8.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°8'58.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°42'53.28" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|25°20'55.25" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|15°34'26.31" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|27°42'19.25" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|27°39'38.32" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|17°36'8.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°8'57.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°42'49.14" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|25°20'45.12" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|15°34'20.79" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|27°42'2.51" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°48'54.13" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°36'8.55" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°8'58.46" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°8'58.46" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|18°42'51.12" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°21'0.84" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|15°34'31.09" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|27°42'28.77" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|27°39'38.40" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|27°27'52.05" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

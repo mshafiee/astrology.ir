@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'29.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'26.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°13'27.18" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°36'38.61" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°27'26.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°42'28.79" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°45'43.69" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|17°29'24.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°13'20.09" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°36'31.74" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°27'24.90" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°42'17.00" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°30'28.84" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'29.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'26.51" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°13'27.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°36'38.61" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°27'26.99" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°42'28.79" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°45'43.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°29'24.39" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°13'20.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°36'31.74" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°27'24.90" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°42'17.00" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°30'28.84" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

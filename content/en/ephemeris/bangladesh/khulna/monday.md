@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:30:33 |
 | Maghrib | 18:31:32 |
 | Isha (Night) | 19:35:58 |
-| Sharia Midnight | 23:32:36 |
+| Sharia Midnight | 23:32:37 |
 | Imum Coeli | 00:05:11 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°27'6.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'8.88" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°28'8.88" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°7'39.21" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|27°27'55.80" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|18°16'20.67" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°49'36.19" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|1°15'36.20" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|25°50'0.73" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°29'37.14" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Venus|Jupiter|Sun|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°27'6.61" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°28'8.88" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|17°27'6.79" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°28'8.88" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°7'39.21" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|27°27'55.80" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°16'20.67" |Virgo|Simak|Venus|

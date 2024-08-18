@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:20:52 |
+| Fajr (Dawn) | 04:20:53 |
 | Sunrise | 05:54:13 |
 | Dhuhr (Noon) | 12:36:09 |
 | Medium Coeli | 12:36:09 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°31'43.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°18'30.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°24'44.57" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|26°23'35.36" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|16°54'19.87" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°46'37.03" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|13°4'50.38" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|17°18'30.33" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°24'44.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|26°23'35.41" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|16°54'19.90" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°46'37.11" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|13°4'32.05" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°31'43.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°18'30.35" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°24'44.66" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°23'35.46" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|16°54'19.87" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|26°46'37.03" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°4'50.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°18'30.33" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°24'44.58" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|26°23'35.41" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|16°54'19.90" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|26°46'37.11" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°4'32.05" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

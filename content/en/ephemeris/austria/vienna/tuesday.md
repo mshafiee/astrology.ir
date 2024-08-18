@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:08:14 |
+| Fajr (Dawn) | 04:08:15 |
 | Sunrise | 05:55:57 |
 | Dhuhr (Noon) | 12:57:47 |
 | Medium Coeli | 12:57:47 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'22.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'39.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°14'28.27" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°38'9.98" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°29'24.13" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°41'7.42" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°16'43.10" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°26'22.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°29'40.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°14'28.35" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°38'10.04" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°29'24.22" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°41'7.48" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°16'43.82" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'22.38" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'39.88" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°14'28.27" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°38'9.98" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°26'22.56" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°29'40.04" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°14'28.35" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°38'10.04" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°29'24.22" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|25°41'7.48" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|2°16'43.82" |Pisces|FarghAlMuqaddam|Saturn|

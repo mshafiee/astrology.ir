@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'12.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°30'0.80" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°30'0.80" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°16'1.63" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°40'30.12" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|27°40'29.87" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|18°32'24.10" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|25°39'5.48" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|2°54'45.71" |Aquarius|SaadAlSaud|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'12.46" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°30'0.80" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°15'58.16" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°40'29.87" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°32'24.10" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°39'5.48" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°54'45.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°30'0.80" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°16'1.63" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°40'30.12" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°32'22.91" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°39'6.35" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°55'1.65" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: ILondon, LON, Lakana, Landan, Landen, Ljondan, Llundain, Lodoni, Londain, Londan, Londar, Londe, Londen, Londin, Londinium, Londino, Londn, London, London osh, Londona, Londonas, Londoni, Londono, Londons, Londonu, Londra, Londres, Londrez, Londri, Londro, Londye, Londyn, Londýn, Lonn, Lontoo, Loundres, Luan GJon, Lun-tun, Lunden, Lundra, Lundun, Lundunir, Lundúnir, Lung-dung, Lunnainn, Lunnin, Lunnon, Luân Đôn, Lùn-tûn, Lùng-dŭng, Lûn-tun, Lākana, Lůndůn, Lọndọnu, Ranana, Rānana, ilantan, ladana, landan, landana, leondeon, lndn, london, londoni, lun dui, lun dun, lwndwn, lxndxn, rondon, Łondra, Λονδίνο, Лондан, Лондон, Лондон ош, Лондонъ, Лёндан, Լոնդոն, לאנדאן, לונדון, لأندأن, لندن, لوندون, لەندەن, ܠܘܢܕܘܢ, लंडन, लंदन, लण्डन, लन्डन्, लन्दन, লন্ডন, ਲੰਡਨ, લંડન, ଲଣ୍ଡନ, இலண்டன், లండన్, ಲಂಡನ್, ലണ്ടൻ, ලන්ඩන්, ลอนดอน, ລອນດອນ, ལོན་ཊོན།, လန်ဒန်မြို့, ლონდონი, ለንደን, ᎫᎴ ᏗᏍᎪᏂᎯᏱ, ロンドン, 伦敦, 倫敦, 런던

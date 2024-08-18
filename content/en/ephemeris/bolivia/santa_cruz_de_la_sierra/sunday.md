@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°29'23.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°23'24.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°46'31.01" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|26°56'11.36" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|17°35'54.52" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°17'40.77" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|21°32'43.44" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|17°23'22.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°46'24.77" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|26°55'59.02" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|17°35'48.23" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°17'20.40" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|23°0'41.23" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Saturn|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°29'23.55" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°23'24.87" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°23'24.87" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|19°46'31.01" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|26°56'11.36" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|17°35'54.52" |Virgo|Simak|Venus|

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:29:15 |
-| Sunrise | 05:35:42 |
+| Sunrise | 05:35:43 |
 | Dhuhr (Noon) | 11:53:09 |
 | Medium Coeli | 11:53:09 |
 | Sunset | 18:10:23 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:37 |
-| Sunrise | 05:35:42 |
+| Sunrise | 05:35:43 |
 | Dhuhr (Noon) | 11:53:09 |
 | Medium Coeli | 11:53:09 |
 | Sunset | 18:10:23 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:34:41|Night duration: 11:25:28|
+|Duration of the day: 12:34:40|Night duration: 11:25:28|
 |Every hour duration: 01:47:49|Every hour duration: 01:37:55|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|05:35:42|07:23:29|
-|Mid-morning|Sun|Servant|07:23:30|09:11:18|
-|Late morning|Venus|Servant|09:11:19|10:59:07|
-|Noon|Mercury|Servant|10:59:08|12:46:55|
-|Early afternoon|Moon|Servant|12:46:56|14:34:44|
+|Early morning|Mars|Ruler|05:35:43|07:23:30|
+|Mid-morning|Sun|Servant|07:23:31|09:11:19|
+|Late morning|Venus|Servant|09:11:20|10:59:07|
+|Noon|Mercury|Servant|10:59:08|12:46:56|
+|Early afternoon|Moon|Servant|12:46:57|14:34:44|
 |Mid-afternoon|Saturn|Servant|14:34:45|16:22:33|
 |Late afternoon|Jupiter|Servant|16:22:34|18:10:22|
 
@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'25.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'33.01" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°29'33.01" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°13'56.37" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°37'22.55" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|27°37'19.95" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|18°28'22.89" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|25°41'51.26" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|1°56'11.80" |Aquarius|SaadAlSaud|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'25.94" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|17°29'33.01" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°29'33.01" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°13'56.37" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|27°37'22.55" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°28'22.89" |Virgo|Simak|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼
