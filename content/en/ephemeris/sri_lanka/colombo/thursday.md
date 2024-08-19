@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|17°45'21.45" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°25'41.83" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|29°25'35.72" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°46'12.89" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°13'17.61" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°7'3.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|20°46'10.11" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°13'14.82" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°40'37.54" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

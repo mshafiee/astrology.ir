@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°17'49.23" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°46'47.34" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°32'17.05" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°35'33.73" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°58'52.98" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°5'32.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°52'34.08" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°46'47.71" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°32'18.35" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°35'33.68" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°58'53.96" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°5'42.35" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°53'55.18" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MCM, Monaco, Monaco-Ville, Monako, Mònaco, Mónaco, Mónakó, monako, Μονακό, Монако, 모나코

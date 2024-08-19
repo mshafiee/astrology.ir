@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|17°46'33.67" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°31'13.79" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|29°33'57.90" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°56'51.25" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°6'44.30" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°22'51.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|20°56'52.45" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°6'54.60" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°20'38.13" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

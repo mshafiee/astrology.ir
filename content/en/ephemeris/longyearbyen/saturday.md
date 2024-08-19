@@ -1,6 +1,6 @@
 ---
-date: 2024-08-17T00:00:00+02:00
-lastmod: 2024-08-17T00:00:00+02:00
+date: 2024-08-24T00:00:00+02:00
+lastmod: 2024-08-24T00:00:00+02:00
 title: Longyearbyen Saturday
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Saturday, 17 Aug 2024
+description: 🗓 Saturday, 24 Aug 2024
 
 toc: false
 ---
@@ -210,8 +210,8 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour of day duration: 00:00:00|Every hour of night duration: 213503:58:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|00:00:00|23:59:59|Related to talismans, amulets and responses|
-|2|Moon|Servant|00:00:00|23:59:59|Peace among people|
-|3|Saturn|Servant|00:00:00|23:59:59|Vengeful and evil deeds|
-|4|Jupiter|Servant|00:00:00|23:59:59|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|00:00:00|23:59:59|Auspicious|
-|6|Sun|Servant|00:00:00|23:59:59|Writing, swapping and making promises|
-|7|Venus|Servant|00:00:00|23:59:59|Not suitable for any task|
-|8|Mercury|Ruler|00:00:00|23:59:59|Destruction of enemies|
-|9|Moon|Servant|00:00:00|23:59:59|All good deeds|
-|10|Saturn|Servant|00:00:00|23:59:59|Doing evil deeds|
-|11|Jupiter|Servant|00:00:00|23:59:59|Acceptance of reconciliation between couples|
-|12|Mars|Servant|00:00:00|23:59:59|For gaining dignity|
+|1|Mercury|Ruler|00:00:00|23:58:55|Related to talismans, amulets and responses|
+|2|Moon|Servant|23:58:56|23:57:51|Peace among people|
+|3|Saturn|Servant|23:57:52|23:56:48|Vengeful and evil deeds|
+|4|Jupiter|Servant|23:56:49|23:55:44|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|23:55:45|23:54:41|Auspicious|
+|6|Sun|Servant|23:54:42|23:53:37|Writing, swapping and making promises|
+|7|Venus|Servant|23:53:38|23:52:33|Not suitable for any task|
+|8|Mercury|Ruler|23:52:34|23:51:30|Destruction of enemies|
+|9|Moon|Servant|23:51:31|23:50:26|All good deeds|
+|10|Saturn|Servant|23:50:27|23:49:23|Doing evil deeds|
+|11|Jupiter|Servant|23:49:24|23:48:19|Acceptance of reconciliation between couples|
+|12|Mars|Servant|23:48:20|23:47:15|For gaining dignity|
 
  
  
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour duration: 00:00:00|Every hour duration: 00:00:00|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour duration: 00:00:00|Every hour duration: 366006:49:37|
 
  
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|00:00:00|23:59:59|
-|Late evening|Moon|Servant|00:00:00|23:59:59|
-|Midnight|Saturn|Servant|00:00:00|23:59:59|
-|Late at night|Jupiter|Servant|00:00:00|23:59:59|
-|Rooster song|Mars|Servant|00:00:00|23:59:59|
-|False Dawn|Sun|Servant|00:00:00|23:59:59|
-|Dawn|Venus|Servant|00:00:00|23:59:59|
+|Evening|Mercury|Ruler|00:00:00|06:49:35|
+|Late evening|Moon|Servant|06:49:36|13:39:12|
+|Midnight|Saturn|Servant|13:39:13|20:28:49|
+|Late at night|Jupiter|Servant|20:28:50|03:18:25|
+|Rooster song|Mars|Servant|03:18:26|10:08:02|
+|False Dawn|Sun|Servant|10:08:03|16:57:39|
+|Dawn|Venus|Servant|16:57:40|23:47:15|
 
 {{< /tab >}}
 
@@ -299,14 +299,35 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Retrograde|17°5'48.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°9'25.89" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°18'24.54" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°17'3.38" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°24'20.46" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°22'57.83" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°38'46.65" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
+|♄ Saturn|Jupiter|Venus|Mercury|Moon|
+|♃ Jupiter|Jupiter|Jupiter|Mercury|Mercury|
+|♂ Mars|Saturn|Saturn|Saturn|Venus|
+|☉ Sun|Jupiter|Saturn|Sun|Venus|
+|♀ Venus|Mars|Jupiter|Mars|Mars|
+|☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Sun|Jupiter|Leo|Moon|Mars|
+|♃ Jupiter|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|♂ Mars|Mars|Moon|Aquarius|Sun|Saturn|
+|☉ Sun|Sun|Mars|Leo|Sun|Sun|
+|♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
+|☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -317,14 +338,35 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Retrograde|17°5'48.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°9'25.89" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°18'24.54" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°17'3.38" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°24'20.46" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°22'57.83" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°2'33.96" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
+|♄ Saturn|Mercury|Mercury|Moon|Sun|
+|♃ Jupiter|Mars|Venus|Venus|Mars|
+|♂ Mars|Mars|Mars|Saturn|Jupiter|
+|☉ Sun|Mercury|Mercury|Mercury|Jupiter|
+|♀ Venus|Mars|Mars|Venus|Moon|
+|☿ Mercury|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Venus|Jupiter|Virgo|Sun|Jupiter|
+|♃ Jupiter|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|♂ Mars|Sun|Mars|Pisces|Moon|Jupiter|
+|☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
+|♀ Venus|Sun|Sun|Gemini|Sun|Moon|
+|☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -337,10 +379,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>□ Square|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔

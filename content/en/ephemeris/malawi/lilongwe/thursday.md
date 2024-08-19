@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|21°31'2.69" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|29°33'40.62" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|20°56'30.99" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°6'57.35" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°17'30.10" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|24°7'5.82" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°21'3.93" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°17'57.55" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°46'29.34" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°30'56.17" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°33'36.15" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°56'30.41" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°6'57.35" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°17'30.10" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°46'31.25" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°31'2.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°33'40.62" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°56'30.99" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°7'5.82" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°21'3.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LLW, Lilon'nkoue, Lilonguee, Lilongve, Lilongveh, Lilongvo, Lilongvė, Lilongwe, Lilongüe, Lilonhue, Lilonqve, Lílongve, li lang wei, li long gui, li lxng we, lilamgve, lilangave, lillong-gwe, lilongve, lilonve, lylwnghwy, lylwngwh, lylwngwwh, rironguu~e, Λιλόνγκουε, Лилонгве, Лілонгве, Лілонгвэ, Լիլոնգվե, לילאנגווע, לילונגווה, ليلونغوي, لیلونگوه, لیلونگوے, لیلۆنگوێ, لیلیونگوے, लिलाँग्वे, ਲਿਲਾਂਗਵੇ, லிலொங்வே, ลิลองเว, ལི་ལོང་ཀུའེ།, ლილონგვე, ሊሎንጔ, リロングウェ, 利隆圭, 里朗威, 릴롱궤

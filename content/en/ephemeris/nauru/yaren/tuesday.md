@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°23'46.39" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°34'58.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°38'21.71" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°14'7.30" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°15'12.23" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°10'38.65" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|11°32'24.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°34'58.74" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°38'24.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°14'1.75" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°15'7.38" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°10'30.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°19'27.78" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

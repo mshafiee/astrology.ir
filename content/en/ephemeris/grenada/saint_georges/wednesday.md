@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°16'53.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°48'34.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°40'32.70" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°47'53.84" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|21°14'45.60" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|23°55'57.36" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|7°32'48.31" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|17°48'35.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°40'35.38" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°48'8.95" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|21°14'55.19" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|23°56'20.61" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°57'37.37" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°16'53.58" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°48'35.54" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°40'35.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°48'8.95" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°14'55.19" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°56'20.61" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°57'37.37" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°48'34.85" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°40'33.28" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°48'6.54" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°14'54.31" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°56'16.46" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°2'33.48" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Fort Royal, Georgetown, Grenada City, Lewis, Port Louis, Port Royal, Saint George, Saint George's, Saint George.s, Saint-Georges, Sent Dzordzas, Sent Džordžas, Sent Tzortzes, Sent-Dzhorzhes, St Georges, St. George's, seinteujojiseu, sentojojizu, snt g'wrg', Σεντ Τζόρτζες, Сент-Джоржес, סנט ג'ורג', セントジョージズ, 세인트조지스

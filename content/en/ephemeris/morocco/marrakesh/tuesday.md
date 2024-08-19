@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'0.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°30'23.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°17'44.84" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°43'6.90" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°35'45.11" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°36'45.54" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°51'46.42" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|17°30'22.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°17'39.94" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°43'1.85" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°35'43.45" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°36'36.92" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|4°23'8.08" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'0.84" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°30'23.71" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°17'44.84" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°43'6.90" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°35'45.11" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°36'45.54" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°51'46.42" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°30'24.53" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°17'47.89" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°43'10.53" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°35'46.46" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°36'51.78" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°27'40.53" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什

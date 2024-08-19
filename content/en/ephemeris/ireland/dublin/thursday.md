@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°17'43.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°46'59.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°33'12.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°36'56.62" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|21°0'40.54" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°4'37.89" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°12'10.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°46'57.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°33'5.16" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°36'46.93" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|21°0'36.45" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°4'21.46" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°43'55.69" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°17'43.16" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°46'59.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°33'12.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°36'56.62" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°0'40.54" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°4'37.89" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°12'10.49" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°46'57.20" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°33'5.16" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°36'46.93" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°0'36.45" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°4'21.46" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°43'55.69" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Baile Atha Cliath, Baile Átha Cliath, Ciuda de Dublin, Ciudá de Dublín, DUB, Dablin, Diblin, Difelin, Divlyn, Doublino, Dublin, Dublin city, Dublina, Dublinas, Dublini, Dublino, Dublinu, Dublín, Dublîn, Dueblin, Dulenn, Dulyn, Dyflinn, Düblin, Eblana, dabalina, dablin, dablina, daburin, dbln, dblyn, deobeullin, dou bai lin, dublini, dwblyn, taplin, Δουβλίνο, Даблин, Дублин, Дублін, Дъблин, Դուբլին, דבלין, דובלין, دبلن, دوبلين, دوبلین, دۇبلىن, ڈبلن, ډبلن, ܕܒܠܢ, डब्लिन, दब्लिन, ডাবলিন, ਡਬਲਿਨ, டப்லின், ಡಬ್ಲಿನ್, ഡബ്ലിൻ, ดับลิน, དུབ་ལིན།, ဒပ်ဗလင်မြို့, დუბლინი, ደብሊን, ダブリン, 都柏林, 더블린

@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°25'17.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°31'52.35" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°24'22.83" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°53'4.66" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°48'23.31" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°28'24.82" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°0'17.10" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|27°53'3.15" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°48'21.80" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°28'22.57" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|6°12'59.04" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°25'17.89" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°31'52.35" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°24'22.83" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°53'4.66" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°48'23.31" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°28'24.82" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°0'17.10" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|20°24'24.02" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°53'3.15" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°48'21.80" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°28'22.57" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°12'59.04" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환

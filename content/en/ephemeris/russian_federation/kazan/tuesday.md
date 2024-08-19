@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|27°32'6.60" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|18°21'41.57" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|25°46'19.09" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°45'33.85" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|0°47'44.48" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°26'48.78" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°28'46.16" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°10'26.79" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°32'6.88" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°21'42.21" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°46'19.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°45'33.85" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|27°32'6.60" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°21'41.57" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°46'19.09" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°47'44.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔

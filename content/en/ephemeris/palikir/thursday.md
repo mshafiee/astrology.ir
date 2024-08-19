@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°15'13.18" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°51'49.61" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°55'33.25" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°10'47.48" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°43'44.17" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°39'56.10" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°7'41.92" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|17°51'49.33" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°55'32.01" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°10'48.61" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°43'45.47" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°39'57.33" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|11°50'16.81" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르

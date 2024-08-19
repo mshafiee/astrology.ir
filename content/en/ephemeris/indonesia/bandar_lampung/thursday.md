@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|17°53'5.00" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°1'23.36" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|0°19'41.58" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°55'1.75" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°33'39.93" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°41'52.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|21°55'4.01" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°33'42.06" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°11'7.84" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍

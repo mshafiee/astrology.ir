@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°26'55.81" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°28'31.56" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°9'20.99" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°30'28.46" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°19'35.58" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°47'47.31" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°12'38.86" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|27°30'26.35" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°19'32.98" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°47'44.24" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°28'21.27" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베

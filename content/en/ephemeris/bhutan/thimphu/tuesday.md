@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

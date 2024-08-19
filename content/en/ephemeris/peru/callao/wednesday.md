@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°16'39.24" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°49'1.45" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°42'37.98" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°51'12.63" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|17°49'3.49" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°42'44.44" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°51'23.77" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|21°19'3.98" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|23°53'54.37" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|6°55'38.70" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오
