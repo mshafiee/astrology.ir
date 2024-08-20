@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:31:28 |
 | Medium Coeli | 12:31:28 |
 | Sunset | 18:36:08 |
-| Maghrib | 18:37:03 |
+| Maghrib | 18:37:02 |
 | Isha (Night) | 19:35:07 |
 | Sharia Midnight | 00:01:53 |
 | Imum Coeli | 00:31:21 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:31:28 |
 | Medium Coeli | 12:31:28 |
 | Sunset | 18:36:08 |
-| Maghrib | 18:37:03 |
+| Maghrib | 18:37:02 |
 | Isha (Night) | 19:45:23 |
 | Sharia Midnight | 23:52:38 |
 | Imum Coeli | 00:31:21 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:31:28 |
 | Medium Coeli | 12:31:28 |
 | Sunset | 18:36:08 |
-| Maghrib | 18:37:03 |
+| Maghrib | 18:37:02 |
 | Isha (Night) | 20:07:03 |
 | Sharia Midnight | 23:54:41 |
 | Imum Coeli | 00:31:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°23'50.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°34'49.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°37'42.09" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|28°13'4.17" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°13'51.77" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°11'29.19" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|11°27'29.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°23'50.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°34'49.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°37'40.53" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|28°13'5.32" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°13'53.21" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°11'30.69" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|11°15'35.31" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|17°52'55.49" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°0'39.72" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|0°18'34.93" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°53'37.72" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°34'23.42" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°26'13.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|21°53'39.90" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°34'26.26" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°58'56.05" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'38.73" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°52'55.86" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°0'41.19" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°18'32.67" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°53'37.72" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°34'23.42" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°26'13.82" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|17°52'55.49" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°0'39.72" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°18'34.93" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°53'39.90" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°34'26.26" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°58'56.05" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: KJA, Krasnoiarsk, Krasnojarsk, Krasnoyarsk, Krasnoïarsk, Krsk, keulaseunoyaleuseukeu, Красноярск, 크라스노야르스크

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'22.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°26'22.48" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°29'39.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°14'27.10" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°38'8.04" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°29'21.09" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°41'9.65" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°16'4.94" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|20°14'23.93" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°38'7.71" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°29'22.46" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°41'8.64" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°15'45.33" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|17°29'39.79" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°14'27.10" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|27°38'8.41" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°29'21.09" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°41'9.65" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°16'4.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°29'21.81" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°41'10.11" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°12'47.06" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: TIA, Terana, Theranda, Tiorana, Tiorána, Tiran, Tiran khot, Tiran-a, Tirana, Tiranae, Tirane, Tirano, Tiranë, Tirāna, Trnava, Tyrana, Tyranna, Tírana, Tîrana, Tėrana, de la na, tilana, tirana, tyrana, tyrnh, Τίρανα, Тиран хот, Тиранæ, Тирана, Тиране, Трнава, Тырана, Տիրանա, טיראנא, טירנה, تىرانا, تيرانا, تیرانا, तिराना, তিরানা, ਤਿਰਾਨਾ, ଟିରାନା, டிரானா, ടിറാന, ติรานา, ཐིས་རན།, ტირანა, ቲራና, ティラナ, 地拉那, 티라나

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'57.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°28'27.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°9'4.57" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°30'3.92" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°19'4.14" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°48'9.11" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°4'40.57" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°26'57.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°28'27.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°9'4.49" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°30'3.86" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°19'4.04" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°48'9.05" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°4'39.91" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'57.57" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°28'26.45" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°8'59.32" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°30'0.63" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°19'3.88" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°48'9.11" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°4'40.57" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°26'57.40" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°28'27.74" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°9'4.49" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°30'3.86" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°19'4.04" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°48'9.05" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°4'39.91" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: ISB, Islamabad, Islamabada, Islamabadas, Islamabade, Islamabadi, Islamabado, Islamahbad, Islamampant, Islàmabad, Islámábád, Islāmābād, Islāmābāda, Iszlamabad, Iszlámábád, aslam abad, isalamabada, iseullamabadeu, islamabad, islamabada, islamabadi, islamapat, isuramabado, xislamabad, yi si lan bao, yyslamabad, yyslamyabad, Îslamabad, İslamabad, Ισλαμαμπάντ, Ісламабад, Исламабад, Իսլամաբադ, איסלאמאבאד, איסלמבאד, إسلام آباد, ئىسلامئاباد, ئیسلاماباد, اسلام آباد, اسلام اباد, اسلام‌آباد, އިސްލާމްއާބާދު, इस्लामाबाद, ইসলামাবাদ, ਇਸਲਾਮਾਬਾਦ, ઇસ્લામાબાદ, ଇସଲାମାବାଦ, இஸ்லாமாபாத், ಇಸ್ಲಾಮಾಬಾದ್, ഇസ്ലാമബാദ്, อิสลามาบัด, ཨི་སི་ལམ་བོ།, ისლამაბადი, ኢስላማባድ, イスラマバード, 伊斯兰堡, 伊斯蘭堡, 이슬라마바드

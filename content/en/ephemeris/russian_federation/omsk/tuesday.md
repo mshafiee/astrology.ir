@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°22'54.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°36'43.96" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°46'20.94" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°26'6.84" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°30'29.91" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°0'35.76" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°58'6.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°36'43.78" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°46'20.20" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°26'7.85" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°30'30.91" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°0'37.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°48'22.20" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: OMS, Om'sku, Omby, Omium, Oms'k, Omsc, Omsk, Omska, Omskas, Omszk, Omva, amsk, awmsk, e mu si ke, omseukeu, omska, omusuku, xxm skh, Ομσκ, Омбы, Омва, Омск, Омськ, Омьскъ, Օմսկ, אומסק, أومسك, امسک, اومسک, ओम्स्क, ออมสค์, ომსკი, オムスク, 鄂木斯克, 옴스크

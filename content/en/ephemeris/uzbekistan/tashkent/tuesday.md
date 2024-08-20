@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'56.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°28'29.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°9'10.98" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°30'13.35" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°19'16.43" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°47'59.98" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°9'52.98" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°26'56.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°28'29.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°9'10.90" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°30'13.29" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°19'6.55" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°47'36.80" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|1°52'32.52" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Daskent, Daşkent, Daşkənd, Lithopolis, TAS, Tachkent, Tachkènt, Taixkent, Taschkent, Tashken, Tashkend, Tashkent, Tashkent osh, Tashkenti, Tasjkent, Taskende, Taskent, Taskenta, Taskentas, Taskento, Taszkent, Taxkent, Taŝkento, Taşkent, Taškent, Taškenta, Taškentas, Tașkent, Tochkent, Toshkand, Toshkent, Toshkent shahri, ta shen gan, tasakada, tasakanda, tasakhanda, tashknd, tashqnd, tashukento, taskanda, taskanr, taskantu, taskent, tasyukenteu, thach khen t, tshqnd, tsqnt, Τασκένδη, Ташкен, Ташкент, Ташкент ош, Тошканд, Տաշքենդ, טאשקענט, טשקנט, تاشقند, تاشكند, تاشكەنت, تاشکند, تاشکەند, طشقند, ताशकन्द, ताश्कंद, তাশখন্দ, ਤਾਸ਼ਕੰਦ, தாஷ்கந்து, తాష్కెంట్, ತಾಷ್ಕೆಂಟ್, താഷ്കന്റ്, ทาชเคนต์, ཐ་ཧྲི་ཀན།, ტაშკენტი, ታሽኬንት, タシュケント, 塔什干, 타슈켄트

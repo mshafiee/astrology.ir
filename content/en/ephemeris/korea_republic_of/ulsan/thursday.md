@@ -341,7 +341,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°14'57.70" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°52'19.02" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|21°57'49.99" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°14'18.03" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|0°14'17.97" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|21°48'12.04" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|23°37'29.35" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|12°44'54.51" |Aries|Sharatain|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

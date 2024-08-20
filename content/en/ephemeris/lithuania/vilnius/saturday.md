@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:18:12|Night duration: 09:43:39|
+|Duration of the day: 14:18:12|Night duration: 09:43:38|
 |Every hour duration: 02:02:36|Every hour duration: 01:23:23|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|20:29:35|21:52:56|
 |Late evening|Moon|Servant|21:52:57|23:16:19|
-|Midnight|Saturn|Servant|23:16:20|00:39:42|
-|Late at night|Jupiter|Servant|00:39:43|02:03:04|
-|Rooster song|Mars|Servant|02:03:05|03:26:27|
-|False Dawn|Sun|Servant|03:26:28|04:49:50|
-|Dawn|Venus|Servant|04:49:51|06:13:13|
+|Midnight|Saturn|Servant|23:16:20|00:39:41|
+|Late at night|Jupiter|Servant|00:39:42|02:03:04|
+|Rooster song|Mars|Servant|02:03:05|03:26:26|
+|False Dawn|Sun|Servant|03:26:27|04:49:49|
+|Dawn|Venus|Servant|04:49:50|06:13:12|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'31.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'34.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°45'51.17" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°27'26.86" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°21'18.66" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°49'56.77" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°56'40.21" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°2'35.72" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°45'56.73" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°27'29.70" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°21'18.41" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°50'2.96" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°31'22.78" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: IVilnyusi, VNO, Vil'njus, Vil'no, Vil'nyus, Viln', Vilna, Vilnia, Vilnias, Vilniaus miestas, Vilnious, Vilnis, Vilnius, Vilnjus, Vilnjûs, Vilnues, Vilnus, Vilnyus, Vilníus, Vilnüs, Viļņa, Vílnius, Wilna, Wilnius, Wilno, Wilnus, Wilñus, bhilani'usa, bilnyuseu, fylnyws, vhilniyasa, vilniusi, vilniyas, vu~irinyusu, vylnyws, wei er niu si, wi lni xus, wlnys, wylnh, wylnyws, Βίλνα, Βίλνιους, Βιλνιους, Вилниус, Вилнус, Вилнюс, Вилн҄ь, Вильнюс, Вилњус, Виљнус, Вільнюс, Վիլնյուս, ווילנע, וילנה, فيلنيوس, ولنیس, ویلنیوس, ڤیلنیوس, व्हिल्नियस, ভিলনিউস, வில்னியஸ், วิลนีอุส, ལྦེ་ནི་སུ་ནི།, ვილნიუსი, ቪልኒውስ, ᕕᓪᓂᐅᔅ/vilnius, ヴィリニュス, 维尔纽斯, 빌뉴스

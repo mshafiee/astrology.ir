@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 20:24:17 |
 | Maghrib | 20:48:37 |
 | Isha (Night) | 21:51:18 |
-| Sharia Midnight | 00:35:38 |
+| Sharia Midnight | 00:35:37 |
 | Imum Coeli | 01:32:18 |
 {{< /tab >}}
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°3'5.33" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°48'16.42" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°31'3.15" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°25'49.33" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°47'59.42" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°22'42.80" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|23°25'49.14" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°47'57.71" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°17'42.48" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°48'16.42" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|1°31'3.15" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|23°25'49.33" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°47'59.19" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°3'18.53" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|22°47'59.42" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°22'42.80" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

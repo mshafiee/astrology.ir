@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°8'6.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°5'12.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°58'19.54" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°46'22.07" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°45'19.15" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°39'11.55" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°21'55.71" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°8'6.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°5'10.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°58'13.14" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°46'15.57" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°45'17.03" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°39'0.08" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°58'59.42" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°8'6.33" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°5'12.83" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°58'19.54" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°46'22.07" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°45'15.18" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°38'56.71" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°16'41.05" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°58'13.14" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°46'15.57" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°45'17.03" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°39'0.08" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|5°58'59.42" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사

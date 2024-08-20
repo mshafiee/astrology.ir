@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°14'27.54" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°53'16.74" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°2'18.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°21'5.20" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°56'49.88" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°32'45.75" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°28'19.31" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°20'51.67" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°56'41.51" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°32'25.04" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|15°41'1.51" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'27.54" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°53'16.74" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°2'18.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°21'5.20" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|17°14'27.36" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°53'16.57" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°2'14.99" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°20'51.73" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|21°56'41.61" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|23°32'25.09" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|15°41'1.36" |Aries|Butain|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

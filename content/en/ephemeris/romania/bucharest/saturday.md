@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'27.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'41.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°46'24.97" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°28'13.23" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°22'13.18" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°49'39.13" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°39'16.12" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°9'27.60" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°2'41.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°46'23.83" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°28'12.47" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°22'13.10" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°49'37.63" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°33'19.57" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'27.78" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°2'41.74" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°46'24.97" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°28'13.23" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°22'13.18" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°49'39.13" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°39'16.12" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|18°2'41.22" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°46'23.74" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°28'12.41" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°22'13.00" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°49'37.59" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°33'20.11" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티

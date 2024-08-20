@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°6'18.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°8'30.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°13'57.52" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°10'17.57" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|24°15'41.46" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°26'32.35" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°10'6.47" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|17°6'18.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°8'29.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°13'57.43" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°10'17.52" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°15'41.37" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°26'32.31" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°10'6.74" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°6'18.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°8'30.12" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°13'57.52" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°10'17.57" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°15'41.46" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°26'32.35" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°10'6.47" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|17°6'18.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°8'29.94" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°13'57.43" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°10'17.52" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°15'41.37" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°26'32.31" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°10'6.74" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Hanyang, SEL, Seoel, Seol, Seoul, Seoul-si, Seuel, Seul, Seula, Seulas, Seulo, Seulum, Seúl, Seül, Siul, Soeul, Sol, Soul, Sye-ul, Syou-ouen, Szoeul, Szöul, Séoul, Sêûl, Söul, Sŏul, Wang-ching, Wo-jo, Wō-jō, ciyol, han-yang, saul, seoul, seoulsi, seoulteugbyeolsi, seuli, shou er, shou er te bie shi, si'ula, siyola, sol, sola, souru, souru te bie shi, sywl, Σεούλ, Сеул, Соул, Сөүл, Սեուլ, סאול, סיאול, סעאל, سئول, سيول, سیول, سێئول, سېئول, सियोल, सोल, সিউল, சியோல், ಸೌಲ್, സോൾ, โซล, སེ་ཨུལ།, ဆိုးလ်မြို့, სეული, ሶል, សេអ៊ូល, ソウル, ソウル特別市, 首尔, 首尔特别市, 서울, 서울시, 서울특별시, 한양

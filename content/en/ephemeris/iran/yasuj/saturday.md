@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'42.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'13.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°44'13.63" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°24'53.58" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°17'59.10" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°51'37.92" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°44'29.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°2'14.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°44'14.35" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°24'53.51" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°17'58.76" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°51'38.10" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°51'40.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°44'13.92" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|1°24'53.73" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|23°17'59.08" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°51'38.23" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°46'16.51" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|22°51'38.10" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°51'40.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Jasudz, Jasudzh, Jasudż, Jasudž, Jásúdž, YES, Yasooj, Yasuc, Yasudsch, Yasuj, Yasûc, Yesuj, Yesūj, Yāsūj, ya su ji, yasuj, yasuja, yasujeu, yasuju, yaswj, yiswj, yswj, Ёсӯҷ, Ясудж, Յասուջ, ياسوج, يَسُّج, يِسوج, یاسوج, یسوج, यासूज, ヤースージュ, 亞蘇季, 야수즈

@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:16:07 |
 | Maghrib | 18:32:28 |
 | Isha (Night) | 19:12:46 |
-| Sharia Midnight | 23:25:10 |
+| Sharia Midnight | 23:25:09 |
 | Imum Coeli | 00:01:19 |
 {{< /tab >}}
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°16'55.26" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°48'32.28" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°40'20.34" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°47'46.17" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°14'26.20" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°56'37.47" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°51'35.66" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°16'56.16" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°48'29.84" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°40'12.94" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°47'32.26" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°14'19.23" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°56'14.69" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°48'3.64" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
 
 
 {{< /tab >}}

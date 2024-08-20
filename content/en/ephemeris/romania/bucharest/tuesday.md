@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|17°29'28.85" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°13'38.04" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|27°36'54.56" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°27'47.84" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°42'13.17" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°55'8.69" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|18°27'47.21" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°42'10.44" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°5'52.12" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'27.99" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°29'28.85" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°13'38.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°36'54.56" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°27'47.84" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°42'13.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°55'8.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°26'27.82" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°29'28.68" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°13'37.95" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°36'54.49" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°27'47.74" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°42'13.11" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°55'7.98" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티

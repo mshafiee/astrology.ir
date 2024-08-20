@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:08:15 |
+| Fajr (Dawn) | 04:08:14 |
 | Sunrise | 05:55:57 |
 | Dhuhr (Noon) | 12:57:47 |
 | Medium Coeli | 12:57:47 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'22.56" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°29'40.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°14'28.35" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°38'10.04" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°29'24.22" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°41'7.48" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°16'43.82" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|20°14'21.58" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°37'57.56" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°29'18.11" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°40'46.69" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°41'31.92" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'22.56" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°29'40.04" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°14'28.35" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°38'10.04" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°29'24.22" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°41'7.48" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°16'43.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°29'38.06" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°14'21.58" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°37'57.56" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°29'18.11" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°40'46.69" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°41'31.92" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

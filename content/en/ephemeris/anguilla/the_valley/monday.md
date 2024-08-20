@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°25'19.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°31'48.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°24'3.72" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°52'35.91" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°47'46.68" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°28'49.28" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|5°52'49.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|17°31'46.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°23'59.47" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°52'22.29" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°47'38.73" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°28'27.14" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|7°26'27.76" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Venus|Jupiter|Sun|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°25'19.97" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°31'48.11" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°24'3.72" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°52'35.91" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°47'46.68" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°28'49.28" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°52'49.70" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|17°31'46.64" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°23'59.47" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°52'22.29" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°47'38.73" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°28'27.14" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|7°26'27.76" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Venus|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

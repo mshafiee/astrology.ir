@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 19:11:58 |
 | Maghrib | 19:17:11 |
 | Isha (Night) | 20:44:07 |
-| Sharia Midnight | 23:39:12 |
+| Sharia Midnight | 23:39:11 |
 | Imum Coeli | 00:28:04 |
 {{< /tab >}}
 
@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 19:11:58 |
 | Maghrib | 19:17:11 |
 | Isha (Night) | 20:50:10 |
-| Sharia Midnight | 23:39:12 |
+| Sharia Midnight | 23:39:11 |
 | Imum Coeli | 00:28:04 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'55.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°28'31.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°9'20.99" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°30'28.46" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°19'35.58" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°47'47.31" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°12'38.86" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°26'55.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°28'31.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°9'20.90" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°30'28.40" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°19'35.48" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°47'47.25" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°12'38.19" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'55.81" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°28'31.56" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°9'20.99" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°30'26.35" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°19'32.98" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°47'44.24" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°28'21.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°26'55.64" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°28'31.39" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°9'20.90" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°30'28.40" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°19'35.48" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°47'47.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°12'38.19" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베

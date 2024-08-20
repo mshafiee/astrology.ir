@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'28.28" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°45'31.03" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°26'25.82" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°26'42.22" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°47'37.61" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°12'26.51" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°25'1.59" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°45'31.71" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°26'28.75" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°26'35.74" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°47'31.88" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°12'17.54" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°30'57.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

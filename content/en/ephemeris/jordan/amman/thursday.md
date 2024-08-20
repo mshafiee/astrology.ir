@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'6.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°46'12.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°29'39.29" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°31'38.78" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°53'57.25" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°8'36.66" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|17°46'13.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°29'42.68" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°31'40.32" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°53'57.00" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°8'39.88" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|1°41'40.18" |Pisces|FarghAlMuqaddam|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: 'Amman, AMM, Ama, Aman, Amanas, Amani, Amano, Amans, Amman, Ammana, Ammon, Ammán, Ammān, Ammāna, Amàn, Amán, Amã, Philadelphia, Rabbah, Rabbath Ammon, am'man, am'mana, aman, amana, amani, amman, an man, anman, xam man, yamman, ʻmʼn, ʿman, ʿmʾn, Αμμάν, Аман, Амман, Аммон, Ամման, אמאן, עמאן, ئاممان, امان, عمان, عمان شہر, عمّان, عَمّان, عەممان, ܥܡܐܢ, अम्मान, আম্মান, ਅਮਾਨ, அம்மான், ಅಮ್ಮಾನ್, അമ്മാൻ, อัมมาน, ཨམ་མན།, ამანი, አማን, ‘Ammān, アンマン, 安曼, 암만

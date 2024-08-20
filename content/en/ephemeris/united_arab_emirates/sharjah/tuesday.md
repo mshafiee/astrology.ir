@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'43.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°28'56.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°11'13.53" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|27°33'17.79" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°23'11.03" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°45'22.17" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°53'5.13" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|17°26'43.42" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°28'56.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°11'13.44" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|27°33'17.73" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°23'10.93" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°45'22.11" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°53'4.44" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°26'43.59" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°28'56.69" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°11'13.53" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°33'17.79" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°23'11.03" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°45'22.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°53'5.13" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°26'43.42" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°28'56.53" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°11'13.44" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°33'17.73" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°23'10.93" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°45'22.11" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°53'4.44" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Al Sharjah, Ash 'Mariqah, Ash Shariqa, Ash Shariqah, Ash Shāriqa, Ash Shāriqah, Ash ’Mariqah, Ash-Shariqah emiraat, Ash-Shāriqah emiraat, Charjah, Ch·ardj·a, SHJ, Sardza, Sardzsa, Sarika, Sarja, Sarjo, Sarza, Schardscha, Shardza, Shardzha, Shardzha kuorat, Sharga, Sharijah, Shariqah, Sharja, Sharjah, Sharjah city, Shārijah, Shāriqah, Shārja, Szardza, Szardża, Xarja, Xarjah, alsharqt, amart alsharqt, carja, charc ah, mdynt alsharqt, saraja, sarajaha, sarja, sharja, sharjh, sharuja, syaleuja, sʼrgh, xia er jia, Ŝarĵo, Şarika, Şarja, Šardža, Šardžá, Шарджа, Шарджа куорат, Шарџа, Шарҗә, Շարժա, שארגה, إمارة الشارقة, الشارقة, شارجه, شارجہ, مدينة الشارقة, शारजा, शारजाह, ਸ਼ਾਰਜਾ, சார்ஜா, షార్జా, ಶಾರ್ಜ, ഷാർജ, ชาร์จาห์, შარჯა, シャールジャ, 夏尔迦, 샤르자

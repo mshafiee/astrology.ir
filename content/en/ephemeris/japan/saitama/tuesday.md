@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°23'33.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°35'23.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°40'17.48" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|28°17'0.68" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|17°23'33.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°35'23.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°40'17.32" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|28°17'0.66" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|19°18'52.81" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°8'14.13" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°19'4.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|25°8'14.10" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°18'23.94" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°23'33.80" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°35'23.63" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°40'16.78" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°17'0.83" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°18'53.19" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°8'14.23" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°16'18.65" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°35'23.61" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°40'17.23" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°17'0.72" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°18'52.91" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°8'14.16" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°18'23.94" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Saitama, saitama, Саитама, さいたま

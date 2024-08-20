@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'19.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'56.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°47'34.14" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°29'58.67" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°24'27.31" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°48'37.16" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°6'14.96" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°2'54.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°47'26.44" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°29'44.78" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°24'20.62" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°48'14.62" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°17'22.00" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°2'56.38" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°47'34.14" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|1°29'58.67" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°24'20.62" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°48'14.62" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°17'22.00" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°24'27.31" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°48'37.16" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°6'14.96" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Aemona, Jubaljana, LJU, Laibach, Laiboch, Lioumpliana, Liubliana, Liublianne, Liublijana, Liuibleana, Liúibleána, Ljubljan, Ljubljana, Ljubljana osh, Ljubljanae, Ljubljano, Lubian-a, Lubiana, Lubiane, Lubiann-a, Lubjana, Lublan, Lublana, Lublaň, Lubliano, Lubljana, Luebiana, Lueblaen, Lueblana, Lyoubyana, Lyublyana, Lübiana, Lüblâna, Lüblän, li'ubali'ana, li'ubliyana, liubliana, liyubliyana, liyupliyana, lu bu er ya na, lub li ya na, lyubeullyana, lywblyana, ryuburyana, Ļubļana, Ľubľana, Łubiana, Λιουμπλιάνα, Љубљана, Люблян, Люблянæ, Любляна, Любляна ош, Люблꙗна, Լյուբլյանա, ליובליאנה, ليوبليانا, ليۇبليانا, لیوبلیانا, लियुब्लियाना, লিউব্লিয়ানা, ਲਿਊਬਲਿਆਨਾ, லியுப்லியானா, ลูบลิยานา, ལི་པོ་ཡ་ན།, ლიუბლიანა, ልዩብልያና, リュブリャナ, 卢布尔雅那, 盧布爾雅那, 류블랴나
