@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°15'22.63" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°51'31.18" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°54'7.85" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°8'28.07" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°40'55.09" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°41'8.16" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°29'41.59" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°8'40.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°41'2.97" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°41'27.91" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|11°17'16.54" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°15'22.63" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°51'31.18" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°54'4.92" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°8'28.07" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°40'55.09" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°41'8.16" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°29'41.59" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|21°54'7.85" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°8'40.90" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°41'2.97" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°41'27.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|11°17'16.54" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

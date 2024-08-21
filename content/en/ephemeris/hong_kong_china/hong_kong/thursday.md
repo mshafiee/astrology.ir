@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'44.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'42.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°59'42.56" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°17'4.67" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°51'55.20" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|17°52'44.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°59'49.62" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°17'19.80" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°52'3.06" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|23°35'22.76" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|13°29'59.47" |Pisces|FarghAlMuakhar|Jupiter|
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°14'44.23" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°52'44.81" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|21°59'49.62" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°17'19.80" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°52'3.06" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°35'22.76" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°29'59.47" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°17'4.60" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°51'55.10" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°34'58.27" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°25'55.14" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang‌kang, hankam, heankean, hng kng, hon'ga kon'ga, hong-kʼongi, hongakonga, hongkong, honkongu, hwng kwng, hwng qwng, hwngh kwngh, hwnj kwnj, hxngkng, hʼng qʼng, shyanggang, xiang gang, Χονγκ Κονγκ, Ганконг, Гонконг, Хонгконг, Хонконг, Һoң Koң, Һоң Коң, Հոնկոնգ, האנג קאנג, הונג קונג, شياڭگاڭ, هانگ کانگ, هنگ کنگ, هونج كونج, هونغ كونغ, هونگ کونگ, ھwng kwng, ھونگ کونگ, ھۆng kۆng, ھۆنگ کۆنگ, ہang kang, ہانگ کانگ, ހޮންކޮންގު, हङकङ, हाँग काँग, हांगकांग, हांग् कांग् नगरम्, हॉन्ग कॉन्ग, হংকং, ਹਾਂਗਕਾਂਗ, હોંગકોંગ, ହଂକଂ, ஆங்காங், హాంగ్‌కాంగ్, ಹಾಂಗ್ ಕಾಂಗ್, ഹോങ്കോങ്, හොංකොං, ฮ่องกง, ཧང་ཀང་།, ཧོང་ཀོང་།, ဟောငကောင, ဟောင်ကောင်, ჰონგ-კონგი, ሆንግ ኮንግ, ហងកង, ហុងកុង, 香港, 홍콩

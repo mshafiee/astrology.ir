@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 20:42:10 |
 | Maghrib | 21:04:44 |
 | Isha (Night) | 22:01:33 |
-| Sharia Midnight | 01:04:57 |
+| Sharia Midnight | 01:04:58 |
 | Imum Coeli | 01:56:16 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°13'27.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°55'9.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°11'5.83" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°34'26.76" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|22°13'49.99" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°23'36.39" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|17°57'41.14" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|17°13'28.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°55'10.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°11'5.91" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°34'26.82" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|22°13'50.10" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°23'36.44" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|17°57'40.83" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°13'27.95" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°55'9.90" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°11'5.83" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°34'26.76" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|22°13'49.99" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°23'36.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|17°57'41.14" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|17°13'28.13" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°55'10.07" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°11'5.91" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°34'26.82" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|22°13'50.10" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°23'36.44" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|17°57'40.83" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

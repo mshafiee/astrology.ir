@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 11:52:39 |
 | Medium Coeli | 11:52:39 |
 | Sunset | 18:09:05 |
-| Maghrib | 18:23:38 |
+| Maghrib | 18:23:37 |
 | Isha (Night) | 19:06:33 |
 | Sharia Midnight | 23:19:33 |
 | Imum Coeli | 23:52:31 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'0.97" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°46'24.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°30'26.57" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°32'51.14" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°55'30.29" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°7'39.56" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°53'22.17" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|21°30'31.13" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°32'53.74" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°55'30.32" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°7'44.72" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°18'40.93" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°18'0.97" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°46'24.39" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°30'31.13" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°32'53.74" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°55'30.32" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°7'44.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°59'39.06" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°18'0.79" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°46'24.22" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°30'31.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°32'53.68" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°55'30.22" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°7'44.66" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°59'38.63" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:34:19 |
-| Sunrise | 05:23:10 |
+| Sunrise | 05:23:09 |
 | Dhuhr (Noon) | 12:12:09 |
 | Medium Coeli | 12:12:09 |
 | Sunset | 19:00:21 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:54:40 |
-| Sunrise | 05:23:10 |
+| Sunrise | 05:23:09 |
 | Dhuhr (Noon) | 12:12:09 |
 | Medium Coeli | 12:12:09 |
 | Sunset | 19:00:21 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:23:43 |
-| Sunrise | 05:23:10 |
+| Sunrise | 05:23:09 |
 | Dhuhr (Noon) | 12:12:09 |
 | Medium Coeli | 12:12:09 |
 | Sunset | 19:00:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°10'11.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°1'19.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°39'58.07" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°18'23.32" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°9'43.14" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°55'30.49" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|29°10'0.07" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|17°10'11.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°1'19.51" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°39'57.99" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°18'23.26" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°9'43.05" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°55'30.44" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|29°10'0.62" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°10'11.86" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°1'19.69" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°39'58.07" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°18'23.32" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|17°10'11.67" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|18°1'19.51" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°39'57.99" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°18'23.26" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|23°9'43.14" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|22°55'30.49" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|29°10'0.07" |Aries|Thurayya|Venus|

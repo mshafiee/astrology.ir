@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:25 |
-| Sunrise | 06:01:00 |
+| Sunrise | 06:01:01 |
 | Dhuhr (Noon) | 12:42:25 |
 | Medium Coeli | 12:42:25 |
 | Sunset | 19:23:07 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:22:59 |
-| Sunrise | 06:01:00 |
+| Sunrise | 06:01:01 |
 | Dhuhr (Noon) | 12:42:25 |
 | Medium Coeli | 12:42:25 |
 | Sunset | 19:23:07 |
@@ -210,23 +210,23 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:22:06|Night duration: 10:38:51|
+|Duration of the day: 13:22:07|Night duration: 10:38:51|
 |Every hour of day duration: 01:06:51|Every hour of night duration: 00:53:14|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:01:01|07:07:50|Love and attraction of capital|
-|2|Venus|Servant|07:07:51|08:14:41|Unfortunate, no task is suitable|
-|3|Mercury|Servant|08:14:42|09:21:31|Operations of tenderness and attraction of love|
-|4|Moon|Servant|09:21:32|10:28:22|Unfortunate and repelling goodness|
-|5|Saturn|Servant|10:28:23|11:35:12|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|11:35:13|12:42:03|Suitable for all good deeds|
-|7|Mars|Servant|12:42:04|13:48:53|No task is suitable, causes misfortune|
-|8|Sun|Ruler|13:48:54|14:55:44|Extremely auspicious and attracts happiness|
-|9|Venus|Servant|14:55:45|16:02:34|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Mercury|Servant|16:02:35|17:09:25|Attracting happiness, solving financial problems|
-|11|Moon|Servant|17:09:26|18:16:15|Performing promises|
+|1|Sun|Ruler|06:01:00|07:07:49|Love and attraction of capital|
+|2|Venus|Servant|07:07:50|08:14:40|Unfortunate, no task is suitable|
+|3|Mercury|Servant|08:14:41|09:21:30|Operations of tenderness and attraction of love|
+|4|Moon|Servant|09:21:31|10:28:21|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:28:22|11:35:11|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:35:12|12:42:02|Suitable for all good deeds|
+|7|Mars|Servant|12:42:03|13:48:53|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:48:54|14:55:43|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|14:55:44|16:02:34|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|16:02:35|17:09:24|Attracting happiness, solving financial problems|
+|11|Moon|Servant|17:09:25|18:16:15|Performing promises|
 |12|Saturn|Servant|18:16:16|19:23:06|Finding the fugitive and discovering the thief|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°5'23.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°10'10.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°21'57.60" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°22'32.18" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|24°31'14.99" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°20'24.99" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|15°12'34.05" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|17°5'23.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°10'10.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°21'57.57" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°22'32.14" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°31'14.94" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°20'25.01" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|15°12'33.64" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

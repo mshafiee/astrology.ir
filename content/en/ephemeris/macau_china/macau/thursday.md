@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'43.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'45.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°59'53.60" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°17'25.92" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°52'10.83" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°35'18.39" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°31'35.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°14'43.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°52'45.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°59'53.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°17'25.98" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°52'10.93" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°35'18.44" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°31'35.21" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'43.60" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°52'45.51" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°59'53.60" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°17'25.92" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°52'10.83" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°35'18.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°31'35.34" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|17°14'43.78" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°52'45.69" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°59'53.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°17'25.98" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°52'10.93" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°35'18.44" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°31'35.21" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Aomen, Aomin', Au-mun, Aumwnz, Aumyn, Cidade de Macau, Cidade do Santo Nome de Deus de Macau, MFM, Ma Cao, Macao, Macau, Macaum, Makaa, Makaaw, Makao, Makaou, Makau, Makaw, Makawo, Makaó, Makee, Makèë, Màkáù, O-muong, ao men, maka, maka'o, maka'u, makao, makavu, makaw, makayw, makkavu, mkaw, Àu-mûn, Ó̤-muòng, Μακάου, Аоминь, Аумын, Макаа, Макао, מקאו, ئاۋمېن, ماكاو, ماکائو, مکاؤ, މަކާއޫ, मकाउ, मकाओ, মাকাউ, ਮਕਾਉ, મકાઉ, மக்காவு, మకావు, ಮಕಾವು, മകൗ, เขตบริหารพิเศษมาเก๊า, မကာအို, მაკაო, マカオ, 澳門, 澳门, 마카오

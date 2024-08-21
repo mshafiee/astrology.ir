@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:08:50 |
-| Sunrise | 04:29:03 |
+| Sunrise | 04:29:02 |
 | Dhuhr (Noon) | 11:46:18 |
 | Medium Coeli | 11:46:18 |
 | Sunset | 19:02:13 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'23.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°45'40.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°27'8.65" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°27'46.31" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°49'0.23" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°11'34.06" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°50'52.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°45'39.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°27'7.47" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°27'46.55" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°49'0.87" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°11'34.11" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°42'35.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'23.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°45'40.22" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°45'39.91" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|21°27'7.47" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°27'46.55" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|20°49'0.87" |Virgo|Simak|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔

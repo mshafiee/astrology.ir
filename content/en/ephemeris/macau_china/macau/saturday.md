@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°6'5.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°8'53.20" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°15'48.16" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°13'7.09" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°19'16.57" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°25'6.90" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°6'5.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°8'53.38" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°15'48.25" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°13'7.15" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°19'16.66" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°25'6.94" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|12°51'11.04" |Taurus|Dabaran|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Aomen, Aomin', Au-mun, Aumwnz, Aumyn, Cidade de Macau, Cidade do Santo Nome de Deus de Macau, MFM, Ma Cao, Macao, Macau, Macaum, Makaa, Makaaw, Makao, Makaou, Makau, Makaw, Makawo, Makaó, Makee, Makèë, Màkáù, O-muong, ao men, maka, maka'o, maka'u, makao, makavu, makaw, makayw, makkavu, mkaw, Àu-mûn, Ó̤-muòng, Μακάου, Аоминь, Аумын, Макаа, Макао, מקאו, ئاۋمېن, ماكاو, ماکائو, مکاؤ, މަކާއޫ, मकाउ, मकाओ, মাকাউ, ਮਕਾਉ, મકાઉ, மக்காவு, మకావు, ಮಕಾವು, മകൗ, เขตบริหารพิเศษมาเก๊า, မကာအို, მაკაო, マカオ, 澳門, 澳门, 마카오

@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'15.43" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°29'54.96" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°15'35.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°39'49.11" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°31'31.61" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°39'37.59" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°56'17.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|20°15'31.12" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°39'49.44" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°31'33.45" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°39'37.72" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°51'2.41" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

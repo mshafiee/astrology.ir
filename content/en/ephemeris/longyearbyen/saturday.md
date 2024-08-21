@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°5'48.16" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°9'25.89" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°18'24.54" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°17'3.38" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°24'20.46" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°22'57.83" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°2'33.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°18'23.48" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°16'53.86" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°24'14.10" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°22'44.50" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°38'46.65" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔

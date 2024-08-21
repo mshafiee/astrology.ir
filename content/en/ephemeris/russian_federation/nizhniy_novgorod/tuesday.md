@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°26'45.52" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°28'52.89" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°10'56.94" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°32'51.89" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°22'39.32" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°45'39.84" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°59'50.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|20°10'56.08" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°32'52.01" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°22'39.66" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°45'39.98" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°58'18.98" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: GOJ, Gor'kij, Gor'kiy, Gorkey, Gorki, Gorkii, Gorkij, Gorky, Nijni Novgorod, Nijnii Novgorod, Nischni Nowgorod, Nishni-Nowgorod, Nishnii Nowgorod, Nishnij Nowgorod, Nizhni Novgorod, Nizhnii Novgorod, Nizhnij Novgorod, Nizhniy Novgorod, Nizhny Novgorod, Nizjnij Novgorod, Nizni Novgorod, Niznij Nowgorod, Nižni Novgorod, Nižnij Nowgorod, Горький, Нижний Новгород

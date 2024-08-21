@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°6'6.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°8'51.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°15'40.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°12'54.18" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|24°19'0.89" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°25'11.33" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°50'32.88" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|17°6'6.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°8'51.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°15'40.15" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°12'54.24" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°19'0.99" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°25'11.37" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°50'32.64" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°6'6.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°8'51.43" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°15'40.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°12'54.18" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°18'55.86" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°25'3.07" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°37'16.94" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|17°6'6.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°8'51.61" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°15'40.15" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°12'54.24" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°19'0.99" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°25'11.37" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°50'32.64" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Da Hueryee, Da Hüryee, Da Khure, Da-Kure, K'u-lun, Orgoo, Oulan Mpator, Oulan-Bator, Ourga, ULN, Ula Bator, Ulaan Baatar, Ulaan Baatar Hoto, Ulaanbaatar, Ulaanbaataro, Ulaanbaator, Ulaanbaator hota, Ulaanbaatur, Ulan Bator, Ulan Bator Hoto, Ulan Batoras, Ulan Batur, Ulan-Bator, Ulan-Bator Khoto, Ulanbatar, Ulanbator, Ulanbátar, Ulán Bator, Ulán Bátor, Ulánbátar, Ulánbátor, Ulã Bator, Uranbatoru, Urga, Uruga, Ułan Bator, awlan batwr, ulanabatara, ullanbataleu, ullanbatoleu, uranbatoru, wu lan ba tuo, xulanbatxr, Örgöö, Úlan Bator, Ουλάν Μπατόρ, Улаанбаатар, Улан Батор, Улан-Батор, אולן בטור, أولان باتور, اولان‌باتور, उलानबातर, อูลานบาตอร์, ཝུ་ལན་བ་ཐུར, ኡላዓን ባዓታር, ウランバートル, 乌兰巴托, 울란바타르, 울란바토르

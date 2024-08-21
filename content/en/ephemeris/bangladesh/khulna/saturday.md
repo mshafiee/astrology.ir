@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°16'57.10" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|24°24'8.87" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|22°23'11.44" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°39'46.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°48'16.52" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°5'48.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°9'24.06" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°18'16.25" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°16'42.06" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°23'59.19" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°22'49.98" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°39'46.72" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|18°9'24.86" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°18'18.54" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°16'57.10" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°24'8.87" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°23'11.44" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°48'16.52" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

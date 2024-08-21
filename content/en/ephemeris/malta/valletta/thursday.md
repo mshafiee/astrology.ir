@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°17'52.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°46'41.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°31'50.60" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°34'53.98" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°58'3.59" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°6'12.96" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°32'59.30" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°46'41.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°31'50.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°34'54.04" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°58'3.69" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°6'13.01" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°32'59.71" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°17'51.96" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|17°17'52.14" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°46'41.47" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|21°31'50.60" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°34'53.98" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|20°58'3.59" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|24°6'12.96" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°32'59.71" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°32'59.30" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타

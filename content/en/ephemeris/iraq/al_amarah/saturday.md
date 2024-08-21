@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'39.82" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|18°2'19.31" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°44'39.13" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°25'31.84" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°18'47.52" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°51'15.57" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°57'55.48" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°44'38.97" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°25'31.88" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°18'47.62" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°51'15.56" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°56'11.37" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al `Amarah, Al ‘Amārah, Amara, Amarah, Amare, Amaré, `Amara, alʿmart, العمارة, العماره, ‘Amāra

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°22'54.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°36'43.96" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°46'20.94" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|28°26'6.84" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°30'29.91" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°0'35.76" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°58'6.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°22'53.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°36'43.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°46'20.11" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|28°26'7.78" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°30'30.81" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°0'37.13" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°48'21.32" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°22'54.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°36'43.78" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°46'20.20" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°26'7.85" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°30'30.91" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|25°0'37.19" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°48'22.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°22'53.90" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°36'43.61" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°46'20.11" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°26'7.78" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°30'30.81" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|25°0'37.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°48'21.32" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: OMS, Om'sku, Omby, Omium, Oms'k, Omsc, Omsk, Omska, Omskas, Omszk, Omva, amsk, awmsk, e mu si ke, omseukeu, omska, omusuku, xxm skh, Ομσκ, Омбы, Омва, Омск, Омськ, Омьскъ, Օմսկ, אומסק, أومسك, امسک, اومسک, ओम्स्क, ออมสค์, ომსკი, オムスク, 鄂木斯克, 옴스크

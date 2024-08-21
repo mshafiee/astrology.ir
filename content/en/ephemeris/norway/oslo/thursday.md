@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°17'58.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°46'28.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°30'51.09" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°33'22.79" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°56'8.84" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°7'17.51" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°20'53.23" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°46'28.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°30'51.00" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°33'22.73" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°56'8.74" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°7'17.46" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°20'52.81" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°17'58.91" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°46'28.59" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°30'51.09" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°33'22.79" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°56'8.84" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°7'17.51" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°20'53.23" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°17'58.49" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°46'28.08" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°30'48.98" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°33'24.23" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°56'10.70" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°7'19.07" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°57'49.56" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Asloa, Christiania, Kristiania, OSL, Ohoro, Osla, Oslas, Oslo, Oslo osh, Oslu, Osló, ajalo, ao si lu, asalo, aslw, awslw, osalo, oseullo, oslea, oslo, osuro, xxslo, ywslw, Òslo, Ósló, Ōhoro, Όσλο, Осла, Осло, Осло ош, Օսլո, אוסלו, أوسلو, ئوسلو, ئۆسلۆ, اسلو, اوسلو, ܐܘܣܠܘ, ओस्लो, অজলো, ওসলো, ਓਸਲੋ, ଅସଲୋ, ஒஸ்லோ, ഓസ്ലൊ, ออสโล, ཨོ་སི་ལོ།, အော့စလိုမြို့, ოსლო, ኦስሎ, オスロ, 奥斯陆, 오슬로

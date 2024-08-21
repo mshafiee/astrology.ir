@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'33.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°53'5.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°1'27.04" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°19'46.96" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°55'6.92" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°33'30.23" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|15°1'12.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°14'33.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°53'5.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°1'26.95" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°19'46.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°55'11.00" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°33'37.45" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°14'27.80" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'33.36" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°53'5.79" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°1'27.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°19'46.96" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|17°14'33.18" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°53'5.62" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°1'26.95" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°19'46.90" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|21°55'11.10" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|23°33'37.50" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|14°14'27.64" |Aries|Butain|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Flain-Fish-Kouv, Flaing Fish Kouv, Flajing Fish Kouv, Flajing-Fish-Kouv, Flayinq Fis Kouv, Flayinq Fiş Kouv, Flying Fish Cove, Kampong, The Settlement, fala'iga fisa kova, fei yu wan, flay xing fich khof, flayngh fysh kwf, flayyng fsh kww, peullaingpisikobeu, phla'inga phisa kova, pilaiyin pis kov, plaing-pishi, Флаинг Фиш Коув, Флайинг-Фиш-Коув, Флаін-Фіш-Коўв, Флајинг Фиш Коув, فلائینگ فش کوو, فلاينغ فيش كوف, फ्लाइंग फिश कोव, ਫ਼ਲਾਇੰਗ ਫ਼ਿਸ਼ ਕੋਵ, பிளையிங் பிஷ் கோவ், ฟลายอิงฟิชโคฟ, ფლაინგ-ფიში, フライング・フィッシュ・コーブ, 飞鱼湾, 플라잉피시코브

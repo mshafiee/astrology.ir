@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°18'33.17" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°45'21.45" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°25'41.83" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|29°25'35.72" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°46'12.89" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°13'17.61" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°7'3.49" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|29°25'30.19" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°46'8.33" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°13'9.74" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°58'22.81" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°18'33.17" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°45'21.45" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|21°25'41.83" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°25'35.72" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°46'12.89" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°13'17.61" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°7'3.49" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°25'30.19" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°46'8.33" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°13'9.74" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°58'22.81" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

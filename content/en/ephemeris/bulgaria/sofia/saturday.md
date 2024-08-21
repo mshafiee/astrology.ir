@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:54:24 |
+| Fajr (Dawn) | 04:54:23 |
 | Sunrise | 06:43:12 |
 | Dhuhr (Noon) | 13:28:56 |
 | Medium Coeli | 13:28:56 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'25.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'46.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°46'47.28" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°28'47.32" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°22'56.45" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°49'19.37" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°47'24.91" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°9'25.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°2'46.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°46'47.19" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°28'47.26" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°22'54.87" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°49'19.34" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°16'39.40" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'25.23" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°2'46.47" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°46'47.28" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°28'47.32" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°22'56.45" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°49'19.37" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|18°2'46.30" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°46'47.19" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°28'47.26" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°22'56.35" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°49'19.33" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|1°47'24.91" |Taurus|Thurayya|Mercury|
 
 

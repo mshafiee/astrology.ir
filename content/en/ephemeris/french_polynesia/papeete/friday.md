@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°58'47.29" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|24°1'5.18" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|22°32'29.73" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°42'42.31" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°22'27.02" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°7'10.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°6'55.47" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°6'26.69" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°58'47.29" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°1'5.18" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°32'29.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|9°22'27.02" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|18°6'55.30" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°6'26.60" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°58'47.24" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°1'5.09" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°32'7.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|9°42'42.31" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

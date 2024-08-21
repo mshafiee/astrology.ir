@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°18'38.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°45'11.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°24'56.18" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|29°24'26.48" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°44'45.13" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°14'9.22" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|29°52'25.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|17°18'38.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°45'11.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°24'56.26" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|29°24'26.54" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°44'45.23" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°14'9.27" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|29°52'26.48" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°18'38.10" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°45'11.28" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°24'56.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°24'26.48" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°44'44.81" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°14'8.28" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|29°56'48.02" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|17°18'38.28" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°45'11.45" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°24'56.26" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°24'26.54" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°44'45.23" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°14'9.27" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°52'26.48" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ALA, Alma Ata, Alma-Ata, Almaato, Almata, Almati, Almato, Almaty, Almatî, Almatõ, Almatý, Almatı, Almatʻa, Ałmaty, Vernyy, a la mu tu, alamati, almaaty, almati, almaty, arumatoi, xal mati, Αλμάτι, Алма-Ата, Алмаато, Алмати, Алматы, Ալմաթա, אלמאטיע, אלמטי, آلماآتی, آلماتی, ألماتي, ئالمۇتا, الماتی, अलमाती, अल्माटी, อัลมาตี, ཨཱལ་མ་ཊི།, ალმათი, アルマトイ, 阿拉木圖, 알마티

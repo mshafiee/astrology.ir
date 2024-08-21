@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'44.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'44.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°59'50.05" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°17'12.33" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°51'57.48" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°35'12.36" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°26'51.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°52'44.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°59'49.51" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°17'19.64" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°52'2.86" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°35'22.87" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°29'57.00" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'44.25" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°52'44.78" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°59'50.05" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°17'12.33" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°51'57.48" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°35'12.36" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°26'51.79" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|17°52'44.79" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°59'49.51" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°17'19.64" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°52'2.86" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°35'22.87" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°29'57.00" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

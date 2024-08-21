@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:54:11 |
 | Maghrib | 18:55:16 |
 | Isha (Night) | 20:25:16 |
-| Sharia Midnight | 23:34:49 |
+| Sharia Midnight | 23:34:48 |
 | Imum Coeli | 00:20:31 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°6'19.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°8'26.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°13'42.60" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°9'56.06" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|24°15'14.32" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°26'43.20" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|11°56'47.18" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|17°6'20.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°8'27.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°13'43.47" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°9'56.16" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°15'14.14" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°26'43.64" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°4'20.87" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°6'19.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°6'20.13" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°8'26.96" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|23°13'42.69" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°9'56.06" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°15'14.32" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|2°9'56.11" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°15'14.42" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|22°26'43.24" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|11°56'46.90" |Taurus|Dabaran|Moon|
 

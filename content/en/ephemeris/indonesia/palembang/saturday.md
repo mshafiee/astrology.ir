@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:49:11 |
-| Sunrise | 06:02:05 |
+| Sunrise | 06:02:06 |
 | Dhuhr (Noon) | 12:03:19 |
 | Medium Coeli | 12:03:19 |
 | Sunset | 18:04:34 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:02:28|Night duration: 11:57:11|
+|Duration of the day: 12:02:29|Night duration: 11:57:11|
 |Every hour of day duration: 01:00:12|Every hour of night duration: 00:59:46|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:02:06|07:02:17|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|07:02:18|08:02:29|Peace among people|
-|3|Mars|Servant|08:02:30|09:02:42|Vengeful and evil deeds|
-|4|Sun|Servant|09:02:43|10:02:54|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:02:55|11:03:06|Auspicious|
-|6|Mercury|Servant|11:03:07|12:03:19|Writing, swapping and making promises|
-|7|Moon|Servant|12:03:20|13:03:31|Not suitable for any task|
-|8|Saturn|Ruler|13:03:32|14:03:43|Destruction of enemies|
-|9|Jupiter|Servant|14:03:44|15:03:56|All good deeds|
-|10|Mars|Servant|15:03:57|16:04:08|Doing evil deeds|
+|1|Saturn|Ruler|06:02:05|07:02:16|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:02:17|08:02:28|Peace among people|
+|3|Mars|Servant|08:02:29|09:02:41|Vengeful and evil deeds|
+|4|Sun|Servant|09:02:42|10:02:53|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:02:54|11:03:06|Auspicious|
+|6|Mercury|Servant|11:03:07|12:03:18|Writing, swapping and making promises|
+|7|Moon|Servant|12:03:19|13:03:30|Not suitable for any task|
+|8|Saturn|Ruler|13:03:31|14:03:43|Destruction of enemies|
+|9|Jupiter|Servant|14:03:44|15:03:55|All good deeds|
+|10|Mars|Servant|15:03:56|16:04:08|Doing evil deeds|
 |11|Sun|Servant|16:04:09|17:04:20|Acceptance of reconciliation between couples|
 |12|Venus|Servant|17:04:21|18:04:33|For gaining dignity|
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°8'16.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°4'53.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°56'46.23" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°44'1.72" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°42'18.36" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°40'37.07" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|5°35'10.00" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°8'16.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°4'52.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°56'46.14" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°44'1.67" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°42'18.26" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°40'37.03" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°35'10.49" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°8'16.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°4'53.17" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°56'46.23" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°44'1.72" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°42'18.36" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°40'37.07" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°35'10.00" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|17°8'16.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°4'52.99" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°56'46.14" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°44'1.67" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°42'18.26" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°40'37.03" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|5°35'10.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

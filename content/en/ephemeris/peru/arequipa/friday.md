@@ -38,12 +38,12 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:53:17 |
 | Sunrise | 05:58:59 |
-| Dhuhr (Noon) | 11:48:35 |
-| Medium Coeli | 11:48:35 |
-| Sunset | 17:38:23 |
+| Dhuhr (Noon) | 11:48:34 |
+| Medium Coeli | 11:48:34 |
+| Sunset | 17:38:22 |
 | Maghrib | 17:53:28 |
 | Isha (Night) | 18:35:40 |
-| Sharia Midnight | 23:15:31 |
+| Sharia Midnight | 23:15:30 |
 | Imum Coeli | 23:48:26 |
 {{< /tab >}}
 
@@ -54,12 +54,12 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:46:08 |
 | Sunrise | 05:58:59 |
-| Dhuhr (Noon) | 11:48:35 |
-| Medium Coeli | 11:48:35 |
-| Sunset | 17:38:23 |
+| Dhuhr (Noon) | 11:48:34 |
+| Medium Coeli | 11:48:34 |
+| Sunset | 17:38:22 |
 | Maghrib | 17:55:35 |
 | Isha (Night) | 18:35:40 |
-| Sharia Midnight | 23:11:57 |
+| Sharia Midnight | 23:11:56 |
 | Imum Coeli | 23:48:26 |
 {{< /tab >}}
 
@@ -70,9 +70,9 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:44:53 |
 | Sunrise | 05:58:59 |
-| Dhuhr (Noon) | 11:48:34 |
-| Medium Coeli | 11:48:34 |
-| Sunset | 17:38:22 |
+| Dhuhr (Noon) | 11:48:35 |
+| Medium Coeli | 11:48:35 |
+| Sunset | 17:38:23 |
 | Maghrib | 17:42:43 |
 | Isha (Night) | 18:48:16 |
 | Sharia Midnight | 23:11:19 |
@@ -102,12 +102,12 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:38:35 |
 | Sunrise | 05:58:59 |
-| Dhuhr (Noon) | 11:48:35 |
-| Medium Coeli | 11:48:35 |
-| Sunset | 17:38:23 |
+| Dhuhr (Noon) | 11:48:34 |
+| Medium Coeli | 11:48:34 |
+| Sunset | 17:38:22 |
 | Maghrib | 17:42:43 |
 | Isha (Night) | 18:50:22 |
-| Sharia Midnight | 23:08:11 |
+| Sharia Midnight | 23:08:10 |
 | Imum Coeli | 23:48:26 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:58:59 |
 | Dhuhr (Noon) | 11:48:34 |
 | Medium Coeli | 11:48:34 |
-| Sunset | 17:38:22 |
+| Sunset | 17:38:23 |
 | Maghrib | 17:42:43 |
 | Isha (Night) | 18:52:28 |
 | Sharia Midnight | 23:11:19 |
@@ -134,9 +134,9 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:42:47 |
 | Sunrise | 05:58:59 |
-| Dhuhr (Noon) | 11:48:34 |
-| Medium Coeli | 11:48:34 |
-| Sunset | 17:38:22 |
+| Dhuhr (Noon) | 11:48:35 |
+| Medium Coeli | 11:48:35 |
+| Sunset | 17:38:23 |
 | Maghrib | 17:42:43 |
 | Isha (Night) | 19:12:43 |
 | Sharia Midnight | 23:10:16 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°8'6.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°5'11.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°58'14.58" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°46'15.21" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°45'8.75" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°39'19.99" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|17°8'6.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°5'11.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°58'14.04" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°46'15.27" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°45'8.85" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°39'20.03" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|6°17'13.90" |Aries|Sharatain|Mars|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°8'6.64" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°5'11.55" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°58'14.67" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°46'15.27" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°45'8.85" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°39'20.03" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°17'13.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°58'14.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°46'14.82" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°45'8.69" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°39'19.22" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°14'10.69" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

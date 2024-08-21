@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°9'39.76" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|18°2'19.53" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°44'40.31" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°25'33.30" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°18'50.24" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°51'12.21" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°1'0.39" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°25'33.24" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°18'50.14" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°51'12.16" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°1'0.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'39.76" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°2'19.53" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°44'40.31" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°25'33.30" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°18'50.24" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°51'12.21" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°9'39.57" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|18°2'19.36" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°44'40.22" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°25'33.24" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°18'50.14" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°51'12.16" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|1°1'0.39" |Taurus|Thurayya|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시

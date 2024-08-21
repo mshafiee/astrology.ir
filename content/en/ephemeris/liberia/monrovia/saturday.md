@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:45:24 |
 | Sunset | 18:53:41 |
 | Maghrib | 18:54:36 |
-| Isha (Night) | 20:01:06 |
+| Isha (Night) | 20:01:07 |
 | Sharia Midnight | 00:09:31 |
 | Imum Coeli | 00:45:15 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°8'53.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°3'44.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°51'22.04" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°35'46.68" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°31'49.24" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°45'17.09" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°31'33.10" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°3'43.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°51'19.49" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°35'46.15" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°31'49.87" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°45'15.37" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°10'56.68" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

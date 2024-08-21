@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'21.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'52.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°47'16.00" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°29'30.92" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°23'52.13" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°48'53.04" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°59'51.09" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°9'21.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°2'52.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°47'15.91" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°29'30.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°23'52.03" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°48'53.00" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°59'51.64" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'21.98" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°2'52.53" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°47'16.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°29'30.92" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°23'52.13" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°48'53.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°59'51.09" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|17°9'21.80" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|18°2'52.36" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°47'15.91" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°29'30.86" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°23'52.03" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°48'53.00" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°59'51.64" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bec, Bech, Becs, Beç, Beč, Bienne, Bécs, Dunaj, VIE, Vena, Viden, Viden', Vieden, Viedeň, Viena, Vienna, Vienne, Vieno, Viin, Vin, Vinarborg, Vindobona, Viyana, Vídeň, Vín, Vínarborg, Wenen, Wieden, Wiedeń, Wien, bienna, bin, fyyna, weiynna, Βιέννη, Беч, Вена, Виена, Відень, فيينا, เวียนนา, ቪየና, 비엔나, 빈
