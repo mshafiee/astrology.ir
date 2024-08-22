@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°8'13.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°4'58.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°57'11.38" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°44'40.05" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°43'7.16" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°40'15.41" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|5°45'8.32" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°4'56.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°57'5.28" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°44'23.69" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°42'58.09" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°39'50.23" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|6°19'34.62" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°4'58.49" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°57'11.38" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|1°44'40.05" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°43'7.16" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°40'15.41" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°45'8.32" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°42'58.09" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°39'50.23" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°19'34.62" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°5'1.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°57'28.15" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°45'5.75" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°43'29.38" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°39'39.15" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|7°8'31.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|23°43'39.76" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°40'1.10" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°51'31.11" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -340,8 +340,8 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°8'11.78" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°5'1.87" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°57'27.17" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°44'50.30" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|22°57'28.15" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°45'5.75" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|23°43'29.38" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|22°39'39.15" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|7°8'31.85" |Taurus|Thurayya|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트

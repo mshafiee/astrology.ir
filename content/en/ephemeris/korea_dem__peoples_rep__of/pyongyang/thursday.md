@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'56.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'22.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°58'5.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°14'40.82" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°48'41.15" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°37'12.96" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°51'41.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°14'55.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°52'22.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°58'7.04" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°14'34.29" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°48'35.65" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°37'3.96" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°53'38.55" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'56.02" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°52'21.08" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°58'1.24" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°14'39.03" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°48'41.33" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°37'9.14" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°36'52.21" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|17°52'22.25" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°58'6.95" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°14'34.23" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°48'35.65" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°37'3.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°53'38.47" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Binh Nhuong, Bình Nhưỡng, FNJ, Heijo, Heijo-fu, Heijō, Heijō-fu, Heizyo, Heizyo Hu, Heizyō, Heizyō Hu, Hpyeng-yang, P'yongyang, P'yongyang-si, P'yŏngyang, P'yŏngyang-si, P-hjong-jang, P-hjöng-jang, Pchenjanas, Pchjongjang, Phenian, Phenjan, Phenjana, Phyeng-yang, Phyong-yang, Pienyang, Pingyang, Pion'gian'nk, Pion'nkgian'nk, Piongiang, Pionguiangue, Pionyang, Pjoengjang, Pjongian, Pjongjang, Pjongjango, Pjöngjang, Pkhen'jan, Pkhenjan, Pxenyan, Pyeongyang, Pyoengyang, Pyongyang, Pyongyang-si, Pyöngyang, bywnghyangh, peiyngyang, pi'ongayanga, ping rang, ping rang shi, piyam iyam, piyonyan, pkheniani, pyamgayanga, pyang yang, pyeong-yang, pyeong-yangjighalsi, pyeong-yangsi, pyon'gyang, pyongayanga, pywng yang, pywngyang, Πιονγιάνγκ, Πιονγκγιάνγκ, Пхеньян, Пхенян, Пјонгјанг, Փխենյան, פיאנגיאנג, פיונגיאנג, بيونغيانغ, پيونګيانګ, پيونگ يانگ, پيوڭياڭ, پیانگ یانگ, پیونگ‌یانگ, پیۆنگیانگ, प्याँगयांग, प्योंगयांग, পিয়ং ইয়াং, ਪਿਓਂਗਯਾਂਗ, பியொங்யாங், ಪ್ಯೊನ್ಗ್ಯಾಂಗ್, เปียงยาง, ཕོང་ཡང་།, ფხენიანი, ፕዮንግያንግ, 平壌, 平壤, 平壤市, 평양, 평양시, 평양직할시

@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 19:10:34 |
 | Maghrib | 19:31:43 |
 | Isha (Night) | 20:24:44 |
-| Sharia Midnight | 23:40:02 |
+| Sharia Midnight | 23:40:01 |
 | Imum Coeli | 00:27:49 |
 {{< /tab >}}
 
@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:06:26 |
+| Fajr (Dawn) | 04:06:25 |
 | Sunrise | 05:44:40 |
 | Dhuhr (Noon) | 12:27:57 |
 | Medium Coeli | 12:27:57 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:06:26 |
+| Fajr (Dawn) | 04:06:25 |
 | Sunrise | 05:44:40 |
 | Dhuhr (Noon) | 12:27:57 |
 | Medium Coeli | 12:27:57 |

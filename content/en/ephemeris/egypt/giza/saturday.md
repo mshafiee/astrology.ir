@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°2'41.35" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°46'22.95" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°28'10.50" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°22'9.24" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°49'42.17" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°36'3.38" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|23°21'59.18" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°49'15.90" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°29'25.33" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'27.96" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°2'41.35" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°46'22.95" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°28'10.50" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°22'9.24" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°49'42.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°36'3.38" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|17°9'27.78" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|18°2'41.18" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°46'22.87" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°27'53.31" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°21'59.28" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°49'15.94" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°29'24.82" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ

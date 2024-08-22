@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°17'44.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°46'54.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°32'54.05" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°36'30.27" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|21°0'15.19" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°4'34.22" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°38'40.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°17'44.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°46'56.72" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°33'1.01" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°36'40.15" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|21°0'19.30" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°4'51.02" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°5'42.13" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°17'44.36" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°46'56.89" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°33'1.10" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°36'30.27" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°0'15.19" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°4'34.22" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°38'40.82" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°17'44.18" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°46'56.72" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°33'1.01" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°36'40.15" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°0'19.30" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°4'51.02" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°5'42.13" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: JER, Saint Helier, Saint-Helier, Saint-Hélier, Sent-Khel'er, St Helier, St. Helier, seinteuhellieo, Сент-Хельер, 세인트헬리어

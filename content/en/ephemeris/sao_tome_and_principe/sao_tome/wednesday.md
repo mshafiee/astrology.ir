@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:36:06 |
 | Sunset | 17:39:53 |
 | Maghrib | 17:40:48 |
-| Isha (Night) | 18:38:43 |
+| Isha (Night) | 18:38:42 |
 | Sharia Midnight | 23:06:35 |
 | Imum Coeli | 23:35:59 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°21'54.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°38'43.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°55'23.04" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|28°39'47.19" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°47'53.54" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|24°49'28.88" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|18°13'7.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°21'54.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°38'42.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°55'18.92" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|28°39'45.81" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°47'54.13" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|24°49'25.93" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|18°9'54.77" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°21'54.35" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°38'43.02" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°55'21.70" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°39'46.89" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°47'53.83" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|24°49'28.18" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°10'48.14" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°38'42.29" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°55'18.92" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°39'45.75" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°47'54.03" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|24°49'25.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|18°9'53.93" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

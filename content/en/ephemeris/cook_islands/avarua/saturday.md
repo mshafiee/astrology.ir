@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:33:57|Night duration: 12:25:13|
+|Duration of the day: 11:33:57|Night duration: 12:25:14|
 |Every hour duration: 01:39:08|Every hour duration: 01:46:28|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|18:28:18|20:14:44|
 |Late evening|Moon|Servant|20:14:45|22:01:12|
-|Midnight|Saturn|Servant|22:01:13|23:47:39|
-|Late at night|Jupiter|Servant|23:47:40|01:34:07|
-|Rooster song|Mars|Servant|01:34:08|03:20:34|
-|False Dawn|Sun|Servant|03:20:35|05:07:02|
-|Dawn|Venus|Servant|05:07:03|06:53:30|
+|Midnight|Saturn|Servant|22:01:13|23:47:40|
+|Late at night|Jupiter|Servant|23:47:41|01:34:07|
+|Rooster song|Mars|Servant|01:34:08|03:20:35|
+|False Dawn|Sun|Servant|03:20:36|05:07:03|
+|Dawn|Venus|Servant|05:07:04|06:53:31|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°2'40.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°15'1.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°45'14.66" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°58'18.17" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|25°16'47.68" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°3'59.09" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|23°9'46.05" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|17°2'41.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°15'3.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°45'21.59" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°58'22.84" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|25°16'48.21" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°4'8.36" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|24°2'35.66" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Virgo|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}

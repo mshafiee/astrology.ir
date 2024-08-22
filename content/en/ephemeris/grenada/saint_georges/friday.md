@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|22°56'36.50" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°43'46.88" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|23°41'59.53" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°40'23.23" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°33'27.13" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|22°40'45.13" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°31'45.01" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°8'17.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°4'50.07" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°56'33.97" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°43'31.81" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°41'49.92" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°40'23.18" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°33'27.58" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|17°8'17.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°4'50.97" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°56'36.50" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°43'46.88" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°41'59.53" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°40'45.18" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|5°31'44.52" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Fort Royal, Georgetown, Grenada City, Lewis, Port Louis, Port Royal, Saint George, Saint George's, Saint George.s, Saint-Georges, Sent Dzordzas, Sent Džordžas, Sent Tzortzes, Sent-Dzhorzhes, St Georges, St. George's, seinteujojiseu, sentojojizu, snt g'wrg', Σεντ Τζόρτζες, Сент-Джоржес, סנט ג'ורג', セントジョージズ, 세인트조지스

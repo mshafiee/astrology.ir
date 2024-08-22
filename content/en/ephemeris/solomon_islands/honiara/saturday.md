@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°8'0.29" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|23°11'35.09" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|2°6'39.19" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°10'54.61" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°28'3.36" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°25'12.75" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|24°11'4.43" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°28'23.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|11°17'51.36" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

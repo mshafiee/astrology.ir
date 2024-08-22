@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'28.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'41.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°46'21.66" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°28'7.96" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°22'6.55" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°49'41.94" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°38'32.88" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°9'27.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°2'40.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°46'18.60" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°28'7.53" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°22'7.46" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°49'40.19" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°13'20.84" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°9'28.16" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|18°2'41.12" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°46'21.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°28'7.96" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°22'6.55" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°49'41.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°38'32.88" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°28'7.47" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°22'7.36" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°49'40.15" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°13'21.39" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: DAR, Dar Es Salaam, Dar Es Salam, Dar es Salaam, Dar es Salam, Dar es Salamas, Dar es Salams, Dar es Salám, Dar es-Salaam, Dar es-Salam, Dar əs Salam, Dar-ehs-Salam, Dar-ehs-Salam shaary, Dar-es-Salaam, Dar-es-Salam, Darasalam, Daresalama, Daresalamo, Daressalaam, Daressalam, Daruesselam, Darüsselam, Dárasalám, Dār es Salām, Dāresalāma, Ntar es Salam, Ntontoma, da lei si sa la mu, daleueseusallam, dar alslam, dar-es-salami, dar-xes-salam, dara asa salama, dara esa salama, daralslam, daruesusaramu, san lan gang, tarus'salam, Νταρ ες Σαλάμ, Ντοντόμα, Дар ес Салам, Дар ес-Салаам, Дар-ес-Салам, Дар-эс-Салам, Дар-эс-Салам шаары, דאר א-סלאם, דאר עס סאלאאם, دار السلام, دارالسلام, دارېسسالام, दार अस सलाम, दार एस सलाम, ਦਾਰ ਅਸ ਸਲਾਮ, தாருஸ்ஸலாம், ดาร์-เอส-ซาลาม, ཏ་རེ་སི་ས་ལམ།, ဒါအက်စ် ဆယ်လန်းမြို့, დარ-ეს-სალამი, ダルエスサラーム, 三蘭港, 达累斯萨拉姆, 다르에스살람

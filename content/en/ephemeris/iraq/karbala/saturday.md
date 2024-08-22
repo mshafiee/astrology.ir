@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'37.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°2'23.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°44'57.29" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°25'59.81" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°19'23.14" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°50'58.99" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°3'20.68" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°2'23.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°44'57.07" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°25'59.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°19'23.26" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°50'58.98" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°1'0.17" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°44'57.29" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|1°25'59.81" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|23°19'23.14" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°50'58.99" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°3'20.68" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|22°50'58.98" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°1'0.17" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Karbala, Karbala', Karbalaa, Karbalo, Karbalá, Karbalā’, Karbila, Karmpala, Kerbala, Kerbela, Kərbəla, Meshed Hussain, Meshed Hussein, Nainawa, Qerbelaja, Shathi'ul-Furat, Vilojati Karbalo, al-Ghadiriya, ka er ba la, kaleuballa, karabala, karbala, karpala, karubara, karubara xian, krbla, krblaʾ, ktrbala, Καρμπάλα, Вилояти Карбало, Карбала, Кербала, Кербела, Քերբելա, כרבלא, מחוז כרבלא, كةربالا, كربلاء, محافظة كربلاء, کربلا, کەربەلا, ڪربلا, करबला, কারবালা, ਕਰਬਲਾ, கர்பலா, കർബല, ქარბალა, カルバラー, カルバラー県, 卡爾巴拉, 카르발라

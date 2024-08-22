@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:06:50 |
+| Fajr (Dawn) | 05:06:49 |
 | Sunrise | 06:20:56 |
 | Dhuhr (Noon) | 12:30:13 |
 | Medium Coeli | 12:30:13 |

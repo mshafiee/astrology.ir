@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°15'5.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'3.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°56'39.64" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°12'31.39" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°45'56.12" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°38'45.16" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°15'42.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|17°52'3.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°56'37.72" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°12'27.98" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°45'54.50" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°38'39.50" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°26'17.33" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°15'5.58" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°52'3.73" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°56'39.56" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°12'31.33" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°45'56.02" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°38'45.11" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°15'42.08" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|17°52'3.22" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°56'37.64" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°12'27.92" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°45'54.40" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°38'39.45" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°26'17.33" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판

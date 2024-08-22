@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'42.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'49.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°0'10.05" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°17'42.31" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°52'35.10" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°34'52.74" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°35'9.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°14'41.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°52'48.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°0'8.78" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°17'48.76" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°52'40.07" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°35'1.79" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°39'6.11" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'42.09" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°52'49.14" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°0'10.05" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°17'42.31" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°52'35.10" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°34'52.74" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°35'9.67" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|17°52'48.97" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°0'8.87" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°17'48.82" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°52'40.17" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°35'1.84" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°39'5.98" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: BWN, Banda Seri, Bandar Seri Begauan, Bandar Seri Begavan, Bandar Seri Begavanas, Bandar Seri Begawan, Bandar Sery Begawan, Bandar-Seri-Begavan, Bandar-Seri-Begavano, Bandar-Sery-Begavan, Bandarseribegavana, Brunei, Brunei Town, Bruni, Mpantar Seri Mpenkaban, badara seri begavana, ban dar se ribe ka wan, bandaleuseulibeugawan, bandar seri bagevan, bandar-seri-begavani, bandara seri bega'oyana, bandara seri begavana, bandara sri bagavana, bandarusuribugawan, bndr sry bgawan, bndr sry bkawan, bndr sry bygwan, pantar ceri pekavan, si li ba jia wan, si li ba jia wan shi, sry bgawan, Μπαντάρ Σερί Μπεγκαβάν, Бандар Сери Бегаван, Бандар-Сери-Бегаван, Бандар-Серы-Бегаван, Бандар-Сері-Бегаван, Բանդար Սերի Բեգավան, בנדר סרי בגוואן, باندار سەرى بەگاۋان, بندر سري بكاوان, بندر سری بگاوان, بندر سری بیگوان, بەندەر سێری بێگاوان, سری بگاوان, बंदर स्री बगवान, बन्दर सेरी बेगवान, बन्दर सेरी बेगावान, বন্দর সেরি বেগাওয়ান, ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ, பண்டர் செரி பெகாவான், ಬಂದರ್ ಸೆರಿ ಬಗೆವನ್, ബന്ദർ സെരി ബെഗവൻ, บันดาร์เสรีเบกาวัน, སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།, ဘန်ဒါဆရီဘဂါဝမ်မြို့, ბანდარ-სერი-ბეგავანი, ባንዳር ሰሪ ቤጋዋን, バンダルスリブガワン, 斯里巴加湾市, 斯里巴加灣, 斯里巴加灣市, 반다르스리브가완

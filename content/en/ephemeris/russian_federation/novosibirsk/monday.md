@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 20:35:22 |
 | Maghrib | 20:38:38 |
 | Isha (Night) | 23:00:29 |
-| Sharia Midnight | 00:05:48 |
+| Sharia Midnight | 00:05:47 |
 | Imum Coeli | 01:29:50 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°57'5.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°24'53.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°33'14.10" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°12'2.64" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|26°50'19.14" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°39'11.30" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|11°39'54.57" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|16°57'5.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°24'53.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°33'14.19" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°12'2.69" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|26°50'19.23" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°39'11.34" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|11°39'55.71" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°57'5.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°24'53.39" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°33'14.92" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°12'1.80" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|26°50'18.30" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°39'10.58" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|16°57'5.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°24'53.19" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°33'14.19" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°12'2.69" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|26°50'19.23" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°39'11.34" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|11°49'23.86" |Gemini|HanAh|Mars|
 
 

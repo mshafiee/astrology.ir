@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 19:01:07 |
 | Maghrib | 19:02:04 |
 | Isha (Night) | 20:32:04 |
-| Sharia Midnight | 00:01:53 |
+| Sharia Midnight | 00:01:52 |
 | Imum Coeli | 00:41:09 |
 {{< /tab >}}
 
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'30.14" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°45'27.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°26'9.00" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°26'16.98" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°47'5.27" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°12'46.56" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°16'21.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|21°26'8.27" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°26'10.49" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°47'0.96" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°12'36.62" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°1'51.10" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'30.14" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°45'27.35" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°26'9.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°26'16.98" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°47'5.27" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°12'46.56" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°16'21.77" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°45'26.98" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°26'8.27" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°26'10.49" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°47'0.96" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°12'36.62" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°1'51.10" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이

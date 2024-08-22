@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:02:38 |
+| Fajr (Dawn) | 05:02:39 |
 | Sunrise | 06:21:25 |
 | Dhuhr (Noon) | 12:41:01 |
 | Medium Coeli | 12:41:01 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'14.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°53'41.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°4'15.75" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°23'58.49" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|22°0'34.20" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°30'32.11" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|15°55'40.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°14'14.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°53'42.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°4'16.33" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°24'4.89" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|22°0'38.40" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°30'41.66" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|15°14'21.09" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'14.22" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°53'42.21" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°4'16.41" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|17°14'14.04" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°53'42.04" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°4'16.33" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|0°24'4.95" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|22°0'38.50" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°30'41.71" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|15°14'20.89" |Aries|Butain|Sun|
+|♀ Venus|Direct|22°0'38.40" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°30'41.66" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|15°14'21.09" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

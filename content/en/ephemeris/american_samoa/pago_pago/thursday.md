@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:17:23 |
 | Maghrib | 18:31:40 |
 | Isha (Night) | 19:13:31 |
-| Sharia Midnight | 23:53:00 |
+| Sharia Midnight | 23:53:01 |
 | Imum Coeli | 00:25:18 |
 {{< /tab >}}
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|17°59'21.61" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°30'42.51" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°4'16.27" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|22°51'40.49" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°51'46.56" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|23°4'10.24" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|26°12'4.72" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|25°38'34.68" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°11'15.04" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°59'21.61" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°30'42.51" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°4'16.27" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|22°51'46.56" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°4'10.24" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|26°12'4.72" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|1°4'16.21" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|22°51'46.46" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°4'10.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°38'35.20" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Moon|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Venus|Taurus|Moon|Venus|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

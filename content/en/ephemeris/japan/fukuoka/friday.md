@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°10'40.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°0'26.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°35'48.93" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°12'3.90" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°1'40.34" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°59'22.72" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|27°31'46.47" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|17°10'39.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°0'26.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°35'48.16" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°12'3.85" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°1'40.61" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°59'22.35" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|27°25'9.88" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°35'48.93" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|1°12'3.90" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|23°1'40.34" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°59'22.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|27°31'46.47" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|22°59'22.31" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|27°25'10.43" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Moon|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Venus|Taurus|Moon|Venus|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

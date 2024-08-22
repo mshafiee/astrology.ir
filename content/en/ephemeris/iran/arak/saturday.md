@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°9'42.03" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|18°2'15.20" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°44'19.60" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°25'2.32" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°18'10.10" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°51'32.89" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°48'53.86" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°24'49.99" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°18'1.18" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°51'15.76" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°9'18.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'42.03" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°2'15.20" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°44'19.60" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°25'2.32" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°18'10.10" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°51'32.89" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°48'53.86" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|18°2'15.23" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°44'20.18" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°24'49.99" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°18'1.18" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°51'15.76" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°9'18.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Arak, Arak - sawh, Arak - ساوه, Arok, Arāk, Ehrak, Soltanabad, Solţānābād, Sultanabad, Sultānābād, `Iraq, arak, sawh, sultan abad, Арак, Арок, Эрак, اراک, ساوه, سُلطان آباد, ‘Irāq

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°15'59.66" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°50'20.14" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°48'38.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°0'20.44" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°30'27.78" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°47'1.05" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|10°46'45.71" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|17°50'20.18" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°48'39.78" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°0'8.97" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°30'19.34" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°47'4.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°52'3.72" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운
