@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°17'42.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°47'0.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°33'17.33" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°37'5.21" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|21°0'50.75" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°4'33.73" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°8'9.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°17'42.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°47'0.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°33'17.41" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°37'5.27" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|21°0'50.85" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°4'33.79" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°8'9.84" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°17'42.31" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°47'0.30" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°33'17.33" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°37'5.21" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°17'42.49" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°47'0.47" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°33'17.41" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°37'5.27" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|21°0'50.85" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|24°4'33.79" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|3°8'9.84" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Balenzia, Pa-lun-si-a, Pâ-lùn-sî-â, VLC, Valantsa, Valence, Valencia, Valencia - Valencia, Valencia - València, Valencie, Valencija, Valencio, Valenseje, Valensi, Valensia, Valensii, Valensij, Valensija, Valensiya, Valensyaa, Valensėjė, Valenthia, Valentia, Valentzia, Valenza, València, Valéncia, Valência, Vałénsia, Walencja, Walensiye, Walénsiye, ba len seiy, ba lun xi ya, ballensia, barenshia, blnsyt, hua lun xi ya, valainsi'a, valenciya, valensia, valensiya, valynsya, wa lun xi ya, walnsya, wlnsyh, wylnsya, Βαλένθια, Валенси, Валенсиа, Валенсий, Валенсия, Валенсија, Валенсія, Վալենսիա, וואלענציע, ולנסיה, بلنسية, والنسیا, ویلنسیا, ویلنسیہ, ڤالينسيا, ڤالێنسیا, वालेन्सिया, ਵਾਲੈਂਸੀਆ, வாலேன்சியா, บาเลนเซีย, ვალენსია, バレンシア, 巴倫西亞, 瓦伦西亚, 瓦倫西亞, 華倫西亞, 발렌시아

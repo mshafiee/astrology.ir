@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:10:04 |
 | Sunset | 20:02:50 |
 | Maghrib | 20:04:15 |
-| Isha (Night) | 22:04:50 |
+| Isha (Night) | 22:04:51 |
 | Sharia Midnight | 00:09:14 |
 | Imum Coeli | 01:09:56 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°0'25.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°19'4.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°4'48.19" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|3°28'15.68" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|25°54'44.21" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°52'38.72" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°14'46.04" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|18°19'3.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°4'45.65" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°28'15.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|25°54'45.30" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°52'37.84" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°47'35.10" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°0'25.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°19'4.01" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°4'48.19" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°28'15.68" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|25°54'44.21" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°52'38.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°14'46.04" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|17°0'25.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°19'3.35" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°4'45.74" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°28'15.95" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|25°54'45.40" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°52'37.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°47'35.86" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

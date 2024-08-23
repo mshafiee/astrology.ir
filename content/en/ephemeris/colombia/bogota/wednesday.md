@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°16'43.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°48'54.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°42'4.72" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°50'24.50" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|21°17'47.73" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|23°54'40.62" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°32'26.36" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|17°16'43.42" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°48'53.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°42'1.01" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°50'10.09" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|21°17'39.03" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|23°54'18.13" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|7°55'21.27" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°16'43.42" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°48'54.74" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°42'4.73" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°50'24.30" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°17'47.59" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°54'40.32" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°33'59.05" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°16'43.60" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°48'53.44" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°42'1.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°50'10.09" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°17'39.13" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°54'18.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|7°55'21.50" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타

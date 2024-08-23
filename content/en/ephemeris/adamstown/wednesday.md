@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:43:19 |
 | Sunset | 18:25:04 |
 | Maghrib | 18:26:20 |
-| Isha (Night) | 19:29:29 |
+| Isha (Night) | 19:29:30 |
 | Sharia Midnight | 00:10:51 |
 | Imum Coeli | 00:43:12 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°15'59.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°50'20.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°48'38.89" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°0'20.44" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°30'27.78" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°47'20.91" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°21'38.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|17°50'20.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°48'39.78" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°0'8.97" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°30'19.34" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°47'4.25" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°52'3.72" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°15'59.66" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°50'20.18" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°48'39.78" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°0'8.97" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°30'19.34" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°47'4.25" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|10°52'3.72" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|17°16'1.27" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°50'20.14" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°48'38.89" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°0'20.44" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°30'27.78" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°47'20.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|9°21'38.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

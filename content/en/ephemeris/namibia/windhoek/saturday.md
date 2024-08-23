@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°32'12.54" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|23°27'18.43" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|22°47'16.26" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°45'7.81" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°7'13.43" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°3'15.16" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°49'2.52" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|1°32'12.54" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°27'18.43" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°47'16.26" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°45'7.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°27'11.28" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°46'54.45" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°7'13.43" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Gouintchouk, Vindguk, Vindhuk, Vindhuka, Vindhukas, Vindhuko, Vindkhuk, Vinduque, Vindxuk, Vintchouk, WDH, Windhoek, Windhuk, Windoek, Windoèk, Wynhoeke, binteuhukeu, u~intofukku, vatahuka, vindahoka, vintok, wen de he ke, wen he ke, win dhuk, wwynthwq, wyndhwk, wyndhwq, wyndھwk, wynٹہwk, Βίντχουκ, Γουίντχουκ, Виндхук, Віндгук, Віндхук, Վինդհուկ, ווינטהוק, וינדהוק, ونڈہوک, ويندهوك, ویندهوک, ویندھوک, وینٹہوک, विंडहोक, ਵੰਟਹੁਕ, விந்தோக், วินด์ฮุก, ཝིན་ཌི་ཧོཡིཀ།, ვინდჰუკი, ዊንድሁክ, ウィントフック, 温得和克, 溫得和克, 溫荷克, 빈트후크

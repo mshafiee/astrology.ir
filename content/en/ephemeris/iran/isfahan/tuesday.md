@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:04:42 |
 | Sunset | 18:33:34 |
 | Maghrib | 18:38:39 |
-| Isha (Night) | 19:56:04 |
+| Isha (Night) | 19:56:03 |
 | Sharia Midnight | 23:20:54 |
 | Imum Coeli | 00:04:34 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°56'35.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°25'44.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°37'24.99" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°18'30.45" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|26°58'30.39" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°37'35.89" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°11'57.71" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|18°25'44.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°37'25.04" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°18'30.57" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|26°58'30.45" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°37'36.06" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°12'13.22" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°56'35.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°25'44.28" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°37'25.08" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°18'30.50" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|26°58'30.48" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°37'35.92" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°11'57.71" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|16°56'35.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°25'44.12" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°37'25.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°18'30.57" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|26°58'30.45" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°37'36.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°12'13.22" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

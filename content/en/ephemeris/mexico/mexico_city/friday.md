@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:37:45|Night duration: 11:22:29|
+|Duration of the day: 12:37:45|Night duration: 11:22:30|
 |Every hour duration: 01:48:15|Every hour duration: 01:37:30|
 
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|18:57:40|20:35:08|
-|Late evening|Sun|Servant|20:35:09|22:12:38|
-|Midnight|Venus|Servant|22:12:39|23:50:08|
-|Late at night|Mercury|Servant|23:50:09|01:27:38|
-|Rooster song|Moon|Servant|01:27:39|03:05:08|
-|False Dawn|Saturn|Servant|03:05:09|04:42:38|
-|Dawn|Jupiter|Servant|04:42:39|06:20:08|
+|Evening|Mars|Ruler|18:57:40|20:35:09|
+|Late evening|Sun|Servant|20:35:10|22:12:39|
+|Midnight|Venus|Servant|22:12:40|23:50:09|
+|Late at night|Mercury|Servant|23:50:10|01:27:39|
+|Rooster song|Moon|Servant|01:27:40|03:05:09|
+|False Dawn|Saturn|Servant|03:05:10|04:42:39|
+|Dawn|Jupiter|Servant|04:42:40|06:20:09|
 
 {{< /tab >}}
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°7'51.68" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°5'38.87" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|23°0'23.67" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°49'33.89" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°49'20.55" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°37'32.85" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°58'21.84" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°49'33.90" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°49'20.48" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°37'32.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|7°1'55.73" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

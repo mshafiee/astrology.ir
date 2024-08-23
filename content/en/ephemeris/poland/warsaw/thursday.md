@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'1.99" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°46'23.08" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°30'25.02" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°32'39.82" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°55'13.27" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°7'50.55" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°23'11.19" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°46'22.51" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°30'22.97" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°32'40.64" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°55'14.65" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°7'51.22" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°5'9.14" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바

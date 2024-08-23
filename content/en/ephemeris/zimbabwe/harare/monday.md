@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:57:28 |
 | Sunset | 17:47:33 |
 | Maghrib | 17:52:01 |
-| Isha (Night) | 18:57:33 |
+| Isha (Night) | 18:57:32 |
 | Sharia Midnight | 23:20:08 |
 | Imum Coeli | 23:57:19 |
 {{< /tab >}}
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°0'37.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|18°18'41.88" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|24°3'0.26" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|3°25'29.13" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|25°51'13.24" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°53'36.86" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°34'59.84" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°25'30.35" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|25°51'14.01" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°53'38.53" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°32'9.75" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°0'37.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°18'41.80" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°3'0.27" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°25'30.40" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|25°51'14.11" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°53'38.57" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°32'10.49" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|17°0'37.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°18'41.70" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°3'0.17" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°25'29.08" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|25°51'13.15" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°53'36.82" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°34'59.10" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:21:36 |
 | Maghrib | 18:25:29 |
 | Isha (Night) | 19:30:46 |
-| Sharia Midnight | 23:36:49 |
+| Sharia Midnight | 23:36:48 |
 | Imum Coeli | 00:15:27 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°0'26.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°19'1.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°4'37.83" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|3°28'0.09" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|25°54'23.87" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°52'45.63" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°10'31.88" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|17°0'26.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°19'1.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°4'37.74" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°28'0.04" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|25°54'23.78" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°52'45.59" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°10'31.12" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°0'26.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°19'1.97" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°4'37.83" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°28'0.09" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|25°54'23.87" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°52'45.63" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°10'31.88" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|17°0'26.22" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°19'1.79" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°4'37.74" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°28'0.04" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|25°54'18.88" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°52'38.20" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°45'56.99" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

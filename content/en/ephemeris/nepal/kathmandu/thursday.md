@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°14'24.56" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°53'22.45" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°2'44.60" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°21'45.49" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°57'41.15" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°32'17.82" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°38'47.15" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°21'39.68" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°57'36.79" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°32'9.56" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|15°25'29.46" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'24.56" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°53'22.45" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°2'44.60" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°21'45.49" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°57'41.15" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°32'17.82" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°38'47.15" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|17°53'22.50" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°2'45.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°21'39.68" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°57'36.79" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°32'9.56" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|15°25'29.46" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Catmandu, Catmandum, KTM, Kantipur, Kantipura, Katemandu, Kathmandau, Kathmandou, Kathmandu, Katmando, Katmandoe, Katmandou, Katmandu, Katmanduo, Katmandó, Katmandú, Katmandû, Katmandū, Katmantou, Khatmandu, Káthmandu, Káthmándú, jia de man dou, kateumandu, kath manthu, kathamadaum, kathamadaum mahanagarapalika, kathamadu, kathamandu, kathmandu, katmandw, katmandww, katmantu, katomanzu, qtmndw, yem jilla, Κατμαντού, Катманду, Կատմանդու, קאטמאנדו, קטמנדו, كاتماندو, كاتماندۇ, کاتماندو, کاتماندوو, کھٹمنڈو, काठमांडू, काठमाडौं, काठमाडौं महानगरपालिका, काठमाण्डू, येँ जिल्ला, কাঠমাণ্ডু, কাঠমান্ডু, ਕਠਮੰਡੂ, કાઠમંડુ, କାଠମାଣ୍ଡୁ, காட்மாண்டு, కాఠ్మండు, ಕಠ್ಮಂಡು, കാഠ്മണ്ഡു, කත්මන්ඩු, กาฐมาณฑุ, ཀ་ཏ་མན་ཏ།, ཀ་ཏ་མན་ཏུ།, კატმანდუ, ካትማንዱ, カトマンズ, 加德滿都, 카트만두

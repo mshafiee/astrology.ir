@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:36:26 |
 | Isha (Night) | 19:16:29 |
 | Sharia Midnight | 23:30:43 |
-| Imum Coeli | 00:06:39 |
+| Imum Coeli | 00:06:40 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:21:04 |
 | Isha (Night) | 19:29:13 |
 | Sharia Midnight | 23:30:04 |
-| Imum Coeli | 00:06:39 |
+| Imum Coeli | 00:06:40 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°59'34.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°20'33.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°12'2.93" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|3°39'25.04" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|26°8'53.27" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°48'51.27" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°54'59.13" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|16°59'34.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°20'33.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°12'3.02" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°39'25.10" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|26°8'53.37" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°48'51.31" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°55'0.02" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°59'34.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°20'33.29" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°12'2.93" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°39'25.04" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|16°59'34.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°20'33.47" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°12'3.02" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°39'25.10" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|26°8'53.37" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|21°48'51.31" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|3°55'0.02" |Gemini|HaqAh|Jupiter|

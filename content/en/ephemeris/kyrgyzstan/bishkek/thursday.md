@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|21°25'12.18" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|29°24'50.64" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|20°45'15.89" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°13'50.27" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°15'38.47" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|24°13'50.86" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|29°58'32.86" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°18'36.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°45'14.92" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°25'12.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°24'50.64" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°45'15.89" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°13'50.86" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|17°18'36.33" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°45'14.75" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°25'12.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°24'49.89" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°45'14.53" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°13'50.27" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|0°15'38.47" |Aries|Sharatain|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bichkek, Biscecum, Bischkek, Bishkek, Bishkek osh, Bisjkek, Biskek, Biskeka, Biskekas, Biskeko, Biskekʻ, Bisqeq, Bisqueque, Biszkek, Bixkek, Biŝkeko, Bişkek, Bişqeq, Biškek, Biškeka, Biškekas, Bișkek, Bîşkek, FRU, Frunze, Mpiskek, Pishkek, Pishpek, bi shen kai ke, bichkhek, bisakeka, bishukeku, biskek, biskeka, biskekk, bisyukekeu, bshkyk, byshkk, byshkyk, bysqq, picukkek, Μπισκέκ, Бишкек, Бишкек ош, Бішкек, Բիշկեք, בישקעק, בישקק, بشکیک, بيشكك, بيشكيك, بيشکک, بیشکک, بیشکێک, बिश्केक, বিশকেক, ਬਿਸ਼ਕੇਕ, பிசுக்கெக், ಬಿಷ್ಕೆಕ್, ബിഷ്കെക്ക്, บิชเคก, པི་སི་ཁེག, ბიშკეკი, ቢሽኬክ, ビシュケク, 比什凯克, 비슈케크

@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:23:50 |
 | Sunset | 19:00:30 |
 | Maghrib | 19:02:04 |
-| Isha (Night) | 20:18:19 |
+| Isha (Night) | 20:18:18 |
 | Sharia Midnight | 23:45:01 |
 | Imum Coeli | 00:23:41 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°57'23.19" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|18°24'21.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°30'42.29" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°8'7.67" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|26°45'19.92" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°40'15.32" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|10°53'54.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°30'41.40" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°8'7.81" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|26°45'20.29" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°40'15.12" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°45'9.20" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°57'23.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°24'22.19" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°30'42.20" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°8'7.63" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|26°45'19.83" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°40'15.28" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|10°53'53.77" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|16°57'23.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°24'21.97" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°30'41.40" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°8'7.81" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|26°45'20.29" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°40'15.12" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°45'9.20" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

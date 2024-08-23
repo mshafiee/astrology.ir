@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:46:13 |
 | Sunset | 17:40:22 |
 | Maghrib | 17:41:17 |
-| Isha (Night) | 18:48:25 |
+| Isha (Night) | 18:48:24 |
 | Sharia Midnight | 23:09:55 |
 | Imum Coeli | 23:46:04 |
 {{< /tab >}}
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:52:14 |
 | Dhuhr (Noon) | 11:46:13 |
 | Medium Coeli | 11:46:13 |
-| Sunset | 17:40:22 |
+| Sunset | 17:40:21 |
 | Maghrib | 17:41:17 |
 | Isha (Night) | 18:52:33 |
 | Sharia Midnight | 23:09:55 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°53'41.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°30'43.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°2'3.28" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°56'33.66" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|27°46'47.97" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°29'55.12" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|22°3'35.86" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|16°53'41.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°30'43.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°2'3.19" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°56'33.61" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|27°46'47.88" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°29'55.08" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|22°3'34.66" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°53'41.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°30'43.25" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|16°53'41.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|18°30'43.06" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|25°2'3.28" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°56'33.66" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|27°46'47.97" |Virgo|Simak|Mercury|

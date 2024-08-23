@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'51.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'31.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°58'48.29" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°15'46.62" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°50'4.64" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°36'27.55" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°6'52.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°14'50.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°52'31.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°58'50.02" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°15'35.72" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°49'56.28" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°36'12.11" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°38'10.17" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'51.14" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°52'31.59" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°58'48.29" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°15'46.62" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°50'4.64" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°36'27.55" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°6'52.87" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|17°14'52.55" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°52'31.76" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°58'49.93" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°15'35.66" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°49'56.18" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°36'12.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°38'10.26" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: SHA, San'nkae, Sanchajus, Sangaj, Sangay, Sanghaj, Sanghay, Sanhaja, Sanhajo, Sanxay, Schanghai, Shang-hai, Shang-hai-shih, Shangai, Shangaj, Shanghai, Shanghai - shang hai, Shanghai - 上海, Shankhaj, Sjanghae, Sjanghai, Sjanghæ, Szanghaj, Thuong Hai, Thượng Hải, Xangai, cankay, sangha'i, sanghae, sanghai, seiynghi, shang hai, shang hai shi, shanghay, shanghhay, shanhai, zhong guo shang hai, Ŝanhajo, Şangay, Şanghay, Şanxay, Šanchajus, Šangaj, Šanghaj, Šanhaja, Σανγκάη, Шангај, Шанхай, שאנגחאי, شانغهاي, شانگهای, شاڭخەي, شاڭخەي شەھىرى, সাংঘাই, சாங்காய், เซี่ยงไฮ้, შანჰაი, 上海, 上海市, 中国上海, 상하이, 상해

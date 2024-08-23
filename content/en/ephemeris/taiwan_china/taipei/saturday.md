@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°8'41.93" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|23°14'53.68" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|2°11'43.66" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|24°17'30.54" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°25'49.30" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°32'4.63" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|24°17'30.60" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°25'49.23" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°30'30.63" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|2°11'43.66" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°17'30.60" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|22°25'49.23" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°32'4.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°30'30.63" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: GJai Bac, Kota Taipei, Pan Kiao, Pan-ch'iao, Pan-ch'iao-chen, Pan-ch'iao-chieh, Pan-ch’iao, Pan-ch’iao-chen, Pan-ch’iao-chieh, T'ai-pei, T'ai-pei Shih, T'ai-pei-hsien, TPE, Taibei Shi, Taibei Shih, Taibejus, Taibėjus, Taipe, Taipeh, Taipei, Taipeium, Taipejus, Taipé, Taipéi, Taipėjus, Tajbehj, Tajpej, Tajpeo, Tayipeh, Tayipèh, Tchaj-pej, T’ai-pei, T’ai-pei Shih, T’ai-pei-hsien, ta'ipe, ta'ipe'i, tai bei, tai bei shi, taibei, taibei si, taipei, taippei, thipe, Đài Bắc, Ταϊπέι, Тайбэй, Тайпей, Тајпеј, טאיפי, טאיפיי, تەيبېي, ताइपे, টাইপেই, ไทเป, ཐའེ་པེ, ታይፔ, 台北, 台北市, 臺北市, 타이베이, 타이베이 시, 타이뻬이, 타이페이

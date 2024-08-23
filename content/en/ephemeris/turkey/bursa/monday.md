@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:38 |
-| Sunrise | 06:25:40 |
+| Sunrise | 06:25:41 |
 | Dhuhr (Noon) | 13:05:26 |
 | Medium Coeli | 13:05:26 |
 | Sunset | 19:44:31 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:48:18 |
-| Sunrise | 06:25:40 |
+| Sunrise | 06:25:41 |
 | Dhuhr (Noon) | 13:05:26 |
 | Medium Coeli | 13:05:26 |
 | Sunset | 19:44:31 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:46:28 |
-| Sunrise | 06:25:40 |
+| Sunrise | 06:25:41 |
 | Dhuhr (Noon) | 13:05:26 |
 | Medium Coeli | 13:05:26 |
 | Sunset | 19:44:31 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:37 |
-| Sunrise | 06:25:40 |
+| Sunrise | 06:25:41 |
 | Dhuhr (Noon) | 13:05:26 |
 | Medium Coeli | 13:05:26 |
 | Sunset | 19:44:31 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:37:08 |
-| Sunrise | 06:25:40 |
+| Sunrise | 06:25:41 |
 | Dhuhr (Noon) | 13:05:26 |
 | Medium Coeli | 13:05:26 |
 | Sunset | 19:44:31 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:22 |
-| Sunrise | 06:25:40 |
+| Sunrise | 06:25:41 |
 | Dhuhr (Noon) | 13:05:26 |
 | Medium Coeli | 13:05:26 |
 | Sunset | 19:44:31 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:18:51|Night duration: 10:42:07|
+|Duration of the day: 13:18:50|Night duration: 10:42:07|
 |Every hour duration: 01:54:07|Every hour duration: 01:31:44|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:25:40|08:19:46|
-|Mid-morning|Saturn|Servant|08:19:47|10:13:53|
-|Late morning|Jupiter|Servant|10:13:54|12:08:00|
-|Noon|Mars|Servant|12:08:01|14:02:08|
+|Early morning|Moon|Ruler|06:25:41|08:19:47|
+|Mid-morning|Saturn|Servant|08:19:48|10:13:54|
+|Late morning|Jupiter|Servant|10:13:55|12:08:01|
+|Noon|Mars|Servant|12:08:02|14:02:08|
 |Early afternoon|Sun|Servant|14:02:09|15:56:15|
 |Mid-afternoon|Venus|Servant|15:56:16|17:50:22|
 |Late afternoon|Mercury|Servant|17:50:23|19:44:30|

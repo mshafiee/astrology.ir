@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°6'41.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°7'49.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°10'43.20" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°5'10.74" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|24°9'13.69" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°29'1.09" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|11°51'18.72" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|18°7'48.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°10'38.97" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°5'0.52" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°9'8.21" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°28'45.26" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°1'3.38" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°6'41.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°7'48.85" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°10'40.61" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°5'16.24" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°9'18.62" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°29'7.50" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|10°55'37.04" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|18°7'48.24" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°10'38.97" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°5'0.52" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°9'8.21" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°28'45.26" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°1'3.38" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

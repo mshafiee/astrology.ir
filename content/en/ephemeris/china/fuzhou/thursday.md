@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'48.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'36.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°59'10.89" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°16'21.05" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°50'48.33" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°36'3.64" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°15'6.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|17°14'48.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°52'36.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°59'4.36" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°16'4.97" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°50'39.69" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°35'37.91" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°21'35.10" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°14'48.40" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°52'36.31" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°59'10.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°16'21.05" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°50'48.33" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°36'3.64" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°15'6.10" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|17°14'48.58" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°52'36.48" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°59'10.97" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°16'4.97" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°50'39.69" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°35'37.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°21'35.10" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: FOC, Focheum, Foochow, Foutsoou, Fouzhou, Fu-chou, Fu-chou-shih, Fu-cou, Fu-čou, Fuchau, Fucheu, Fuchzhou, Fucsou, Fudzhou, Fudzou, Fudžou, Fugouo, Fuk-chu-su, Fuk-chû-sṳ, Futsjou, Fuzcouh, Fuzhou, Fuĝoŭo, Hok-chiu-chhi, Hok-chiu-chhī, Hok-ciu, Hók-ciŭ, Lin-sen, Lin-sen-hsien, Min Hsien, Min-hou, Min-hou-hsien, Min-hou-hsien-ch'eng, Min-hou-hsien-ch’eng, Minhow, Minhow-hsien, Phuc Chau, Phúc Châu, fu zhou, fu zhou shi, fuco, fujho'u, fwjw, fwzhw, phucau, pujeou si, Φουτσόου, Фуджоу, Фучжоу, Фуџоу, فوجو, فوزهو, فوژو, فۇجو شەھىرى, फ़ूझोउ, फूचौ, ਫ਼ੂਚੋ, ဖူကျိုးမြို့, 福州, 福州市, 푸저우 시

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'33.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°2'31.44" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°45'37.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°27'2.16" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°20'42.18" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°50'22.62" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°20'55.02" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|18°2'32.00" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°45'38.51" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°27'2.02" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°20'42.04" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°50'22.51" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°22'46.12" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Castrum Danorum, Kallinn, Kolyvan, Lindanaes, Lindanäs, Raeaeveli, Reval, Revel, Revel', Rääveli, TLL, Taillinn, Talin, Talinas, Talini, Talino, Talins, Tallidn, Tallin, Tallin osh, Tallina, Tallinn, Tallinna, Talín, Tàllin, ta lin, talin, talina, tallin, tallina, tallyn, talyn, tarin, thallin n, Ταλίν, Ταλιν, Ταλλίν, Талин, Таллин, Таллин ош, Таллинн, Таллінн, Талін, Տալլին, טאלין, تاللىن, تالين, تالین, تاڵین, ٹالن, तालिन, ताल्लिन, তাল্লিন, ਤਾਲਿਨ, தாலின், ടാലിൻ, ทาลลินน์, ཏཱལ་་ལིན།, ტალინი, ታሊን, タリン, 塔林, 탈린

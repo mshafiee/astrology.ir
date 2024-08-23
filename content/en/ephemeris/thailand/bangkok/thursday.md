@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°14'33.09" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°53'6.15" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°1'28.73" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°19'50.25" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°55'14.50" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°33'37.84" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°9'1.14" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°19'44.54" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°55'9.14" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°33'30.58" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|15°15'34.22" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'33.09" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°53'6.15" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°1'28.73" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°19'50.25" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°55'14.50" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°33'37.84" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°9'1.14" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|17°53'7.03" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°1'32.11" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°19'44.54" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°55'9.14" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°33'30.58" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|15°15'34.22" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Amphoe Phra Nakhon, BKK, Ban'nkok, Bancac, Bancocum, Bancoque, Bancác, Banghok, Bangkok, Bangkok Metropolis, Bangkoka, Bangkòk, Banguecoque, Bankok, Bankokas, Bankoko, Banqkok, Changwat Phra Nakhon, Krung Thep, Krung Thep Maha Nakhon, Krung Thep Maha Nakhon Amon Rattanakosin Mahintarayutthaya Maha Dilok Phop Noppharat Ratchathani Buri Rom Udom Ratchaniwet Maha Sathan Amon Phiman Awatan Sathit Sakka Thattiya Witsanukam Prasit, Krungdeb, Man-kuk, Màn-kuk, Phra Nakhon, Siayuthia, The City of Angels, bainkaka, bainkoka, bamkoka, bangkog, bangkwk, bankeakk, bankoku, bankwk, bngqwq, bnkak, byankak, byankaka, camraata byankaka, krungtheph, krungthephmhankhr, krungtheph‡, man gu, penkak, Μπανγκόκ, Бангкок, Банкок, Баҥкок, Բանգկոկ, באנגקאק, בנגקוק, بانكوك, بانکوک, بانکۆک, بانګکوک, بانگكوك, بنکاک, बँकॉक, बैंकक, बैंकॉक, চাংৱাত ব্যাংকক, ব্যাংকক, ਬੈਂਕਾਕ, பேங்காக், ಬ್ಯಾಂಕಾಕ್, ബാങ്കോക്ക്, බැංකොක්, กรุงเทพ, กรุงเทพมหานคร, กรุงเทพฯ, ບາງກອກ, པན་ཀོག, ဘန်ကောက်မြို့, ბანგკოკი, ባንኮክ, バンコク, 曼谷, 방콕

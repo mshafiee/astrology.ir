@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:55:51 |
 | Medium Coeli | 13:55:51 |
 | Sunset | 20:38:56 |
-| Maghrib | 20:44:53 |
+| Maghrib | 20:44:54 |
 | Isha (Night) | 22:16:40 |
 | Sharia Midnight | 01:03:52 |
 | Imum Coeli | 01:55:43 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:55:51 |
 | Medium Coeli | 13:55:51 |
 | Sunset | 20:38:56 |
-| Maghrib | 20:44:53 |
+| Maghrib | 20:44:54 |
 | Isha (Night) | 22:19:54 |
 | Sharia Midnight | 00:58:54 |
 | Imum Coeli | 01:55:43 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:55:51 |
 | Medium Coeli | 13:55:51 |
 | Sunset | 20:38:56 |
-| Maghrib | 20:44:54 |
-| Isha (Night) | 22:14:54 |
+| Maghrib | 20:44:53 |
+| Isha (Night) | 22:14:53 |
 | Sharia Midnight | 01:02:13 |
 | Imum Coeli | 01:55:43 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°4'48.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°11'13.51" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°26'58.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°30'12.65" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°41'0.14" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°16'43.58" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|17°6'23.60" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|18°11'12.05" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°26'53.22" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°30'9.88" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°41'0.28" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°16'37.55" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|16°26'11.02" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Libra|Moon|Venus|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}

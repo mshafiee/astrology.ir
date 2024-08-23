@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:05:56 |
 | Medium Coeli | 12:05:56 |
 | Sunset | 18:41:05 |
-| Maghrib | 18:44:47 |
+| Maghrib | 18:44:46 |
 | Isha (Night) | 20:08:00 |
 | Sharia Midnight | 23:19:44 |
 | Imum Coeli | 00:05:47 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:05:56 |
 | Medium Coeli | 12:05:56 |
 | Sunset | 18:41:05 |
-| Maghrib | 18:44:47 |
+| Maghrib | 18:44:46 |
 | Isha (Night) | 19:56:56 |
 | Sharia Midnight | 23:28:05 |
 | Imum Coeli | 00:05:47 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:05:56 |
 | Medium Coeli | 12:05:56 |
 | Sunset | 18:41:05 |
-| Maghrib | 18:44:47 |
+| Maghrib | 18:44:46 |
 | Isha (Night) | 20:14:47 |
 | Sharia Midnight | 23:18:19 |
 | Imum Coeli | 00:05:47 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°5'17.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|17°5'17.76" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|18°10'20.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|23°22'43.69" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|2°23'42.77" |Leo|Jabhah|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°5'17.95" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°10'20.29" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°22'43.60" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°23'42.82" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°32'44.63" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°19'51.13" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|15°28'26.14" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|18°10'20.31" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°22'43.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°23'42.77" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°32'44.56" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°19'51.11" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|15°29'29.63" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

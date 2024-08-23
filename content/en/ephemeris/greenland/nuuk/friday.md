@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 06:43:25 |
+| Sunrise | 06:43:24 |
 | Dhuhr (Noon) | 14:29:20 |
 | Medium Coeli | 14:29:20 |
 | Sunset | 22:13:09 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 06:43:25 |
+| Sunrise | 06:43:24 |
 | Dhuhr (Noon) | 14:29:20 |
 | Medium Coeli | 14:29:20 |
 | Sunset | 22:13:09 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 06:43:24 |
+| Sunrise | 06:43:25 |
 | Dhuhr (Noon) | 14:29:20 |
 | Medium Coeli | 14:29:20 |
 | Sunset | 22:13:09 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 06:43:24 |
+| Sunrise | 06:43:25 |
 | Dhuhr (Noon) | 14:29:20 |
 | Medium Coeli | 14:29:20 |
 | Sunset | 22:13:09 |
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°8'41.59" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|18°4'7.53" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°53'10.85" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°38'31.49" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°35'20.43" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°43'37.83" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|4°21'20.27" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°38'31.43" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°35'20.33" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°43'37.79" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|4°21'20.78" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

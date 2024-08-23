@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 01:19:23 |
-| Sunrise | 04:29:02 |
+| Sunrise | 04:29:03 |
 | Dhuhr (Noon) | 11:46:18 |
 | Medium Coeli | 11:46:18 |
 | Sunset | 19:02:13 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 01:35:31 |
-| Sunrise | 04:29:02 |
+| Sunrise | 04:29:03 |
 | Dhuhr (Noon) | 11:46:18 |
 | Medium Coeli | 11:46:18 |
 | Sunset | 19:02:13 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:33:11|Night duration: 09:28:46|
+|Duration of the day: 14:33:10|Night duration: 09:28:46|
 |Every hour of day duration: 01:12:46|Every hour of night duration: 00:47:24|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|04:29:02|05:41:46|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|05:41:47|06:54:32|Destruction of enemies|
-|3|Sun|Servant|06:54:33|08:07:18|Attraction of financial and emotional love|
-|4|Venus|Servant|08:07:19|09:20:04|Creating love, connection and marriage|
-|5|Mercury|Servant|09:20:05|10:32:50|Indulgence|
-|6|Moon|Servant|10:32:51|11:45:36|Outer and inner journey|
-|7|Saturn|Servant|11:45:37|12:58:22|Achieving status and power|
+|1|Jupiter|Ruler|04:29:03|05:41:47|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|05:41:48|06:54:33|Destruction of enemies|
+|3|Sun|Servant|06:54:34|08:07:19|Attraction of financial and emotional love|
+|4|Venus|Servant|08:07:20|09:20:05|Creating love, connection and marriage|
+|5|Mercury|Servant|09:20:06|10:32:51|Indulgence|
+|6|Moon|Servant|10:32:52|11:45:37|Outer and inner journey|
+|7|Saturn|Servant|11:45:38|12:58:22|Achieving status and power|
 |8|Jupiter|Ruler|12:58:23|14:11:08|Attraction of happiness and fortune|
 |9|Mars|Servant|14:11:09|15:23:54|Reaching status and promotion|
 |10|Sun|Servant|15:23:55|16:36:40|Fulfilling needs|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°18'23.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°45'40.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°27'8.53" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°27'46.20" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°49'0.08" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°11'34.04" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°50'51.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°18'23.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°45'40.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°27'8.65" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°27'46.31" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°49'0.87" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°11'34.11" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°42'35.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°18'23.46" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|17°18'23.64" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|17°45'40.22" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°27'8.62" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°27'46.27" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°49'0.18" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°11'34.09" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°50'52.33" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°27'8.65" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°27'46.31" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°49'0.23" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°11'34.11" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°42'35.48" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

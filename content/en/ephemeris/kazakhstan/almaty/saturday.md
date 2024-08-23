@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°10'4.02" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|18°1'34.31" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°41'6.93" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°20'8.30" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°11'56.59" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°54'27.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|29°36'25.88" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|22°41'6.75" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°20'7.60" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°11'56.08" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°54'26.36" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°39'41.95" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ALA, Alma Ata, Alma-Ata, Almaato, Almata, Almati, Almato, Almaty, Almatî, Almatõ, Almatý, Almatı, Almatʻa, Ałmaty, Vernyy, a la mu tu, alamati, almaaty, almati, almaty, arumatoi, xal mati, Αλμάτι, Алма-Ата, Алмаато, Алмати, Алматы, Ալմաթա, אלמאטיע, אלמטי, آلماآتی, آلماتی, ألماتي, ئالمۇتا, الماتی, अलमाती, अल्माटी, อัลมาตี, ཨཱལ་མ་ཊི།, ალმათი, アルマトイ, 阿拉木圖, 알마티

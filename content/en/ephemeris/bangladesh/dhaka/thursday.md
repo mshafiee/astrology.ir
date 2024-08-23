@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'27.35" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°53'16.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°2'18.09" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°21'5.32" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°56'49.96" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°32'45.71" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|15°0'22.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|22°2'19.68" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°21'3.10" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°56'47.85" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°32'42.93" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°56'6.05" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'27.53" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°53'16.78" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°2'18.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°21'5.38" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|21°56'50.06" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°32'45.76" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°28'11.89" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|17°53'16.96" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°2'19.59" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°21'3.04" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°56'47.75" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°32'42.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°56'6.22" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

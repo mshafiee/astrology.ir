@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°8'9.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°5'4.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°57'41.46" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°45'24.69" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°44'13.57" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°39'24.19" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°0'48.16" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°5'6.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°57'47.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°45'33.52" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°44'17.32" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°39'38.91" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|6°9'14.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°8'9.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°5'4.17" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°57'41.46" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°45'24.69" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°44'13.57" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°39'24.19" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°0'48.16" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|18°5'6.12" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°57'47.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°45'33.52" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°44'17.32" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°39'38.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°9'14.93" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: COR, Ciudad de Cordoba, Ciudad de Córdoba, Cordoba, Cordoba i Argentina, Cordova, Corduba, Còrdoba, Córdoba, Córdoba i Argentina, Córdova, Kordava, Kordoba, Kordobo, Kordov, Kordova, Kordova khot, Kordovae, Kuorduoba, Vila de Cordoba, Vila de Córdoba, kardwba, ke er duo wa, koleudoba, kordoba, korudoba, kwrdwba, kwrdwba  arzhantyn, kxr do ba, qwrdwbh, Κόρδοβα, Кордава, Кордоба, Кордовæ, Кордова, Кордова хот, Կորդովա, קארדאבע, קורדובה, قرطبہ، ارجنٹائن, كوردوبا, کاردوبا, کوردوبا، آرژانتین, कोर्दोबा, กอร์โดบา, კორდოვა, コルドバ, 科尔多瓦, 코르도바

@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°17'31.80" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°47'21.28" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°34'52.98" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°39'30.22" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|17°47'19.14" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°34'45.61" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°39'23.21" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|21°3'52.97" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|24°2'33.62" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|3°51'35.51" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

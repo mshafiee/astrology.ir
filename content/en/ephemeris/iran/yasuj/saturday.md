@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|17°9'42.49" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Direct|18°2'13.83" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°44'13.83" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°24'53.51" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°17'58.76" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°51'38.10" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°51'40.04" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°24'53.67" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°17'58.98" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°51'38.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°46'17.06" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Jasudz, Jasudzh, Jasudż, Jasudž, Jásúdž, YES, Yasooj, Yasuc, Yasudsch, Yasuj, Yasûc, Yesuj, Yesūj, Yāsūj, ya su ji, yasuj, yasuja, yasujeu, yasuju, yaswj, yiswj, yswj, Ёсӯҷ, Ясудж, Յասուջ, ياسوج, يَسُّج, يِسوج, یاسوج, یسوج, यासूज, ヤースージュ, 亞蘇季, 야수즈

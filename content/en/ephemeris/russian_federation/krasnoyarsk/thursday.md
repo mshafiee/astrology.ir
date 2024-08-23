@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°14'38.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°52'55.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°0'40.57" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|17°52'55.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°0'39.72" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|0°18'33.19" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|21°53'38.33" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|23°34'23.99" |Cancer|Tarf|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: KJA, Krasnoiarsk, Krasnojarsk, Krasnoyarsk, Krasnoïarsk, Krsk, keulaseunoyaleuseukeu, Красноярск, 크라스노야르스크

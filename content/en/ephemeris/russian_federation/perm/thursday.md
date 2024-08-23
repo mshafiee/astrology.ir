@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°18'29.94" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|17°45'27.91" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°26'12.13" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°26'20.65" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°47'11.36" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°12'38.92" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°30'5.30" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|29°26'20.85" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°47'12.19" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°12'38.76" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°19'8.44" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Molotov, PEE, Perem, Perm, Perm', Perma, Perme, Permia, Permjo, Permė, Perym, bi er mu, byrm, parma, peiy rm, peleum, perumi, prm, pyrm, Περμ, Молотов, Перĕм, Перем, Перм, Пермь, Перым, Пєрмь, Պերմ, פרם, بيرم, پرم, پیرم, पर्म, เปียร์ม, პერმი, ペルミ, 彼尔姆, 페름

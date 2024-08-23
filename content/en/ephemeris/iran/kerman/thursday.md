@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:15:12 |
 | Maghrib | 18:32:01 |
 | Isha (Night) | 19:21:04 |
-| Sharia Midnight | 23:06:32 |
+| Sharia Midnight | 23:06:33 |
 | Imum Coeli | 23:44:21 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°18'20.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|17°45'45.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°27'31.76" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°28'22.26" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|20°49'44.84" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|24°10'48.73" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°8'22.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|17°18'20.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|17°45'45.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°27'31.85" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°28'22.32" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|20°49'44.94" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|24°11'9.80" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°56'49.58" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°18'20.93" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°45'45.36" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°27'31.85" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°28'8.63" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°49'44.84" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|24°10'48.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°49'49.07" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°45'45.32" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°27'32.29" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°28'21.73" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°49'44.25" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|24°11'9.80" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°56'49.58" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

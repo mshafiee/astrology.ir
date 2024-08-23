@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:25:57 |
 | Sunrise | 05:42:53 |
-| Dhuhr (Noon) | 12:17:43 |
-| Medium Coeli | 12:17:43 |
+| Dhuhr (Noon) | 12:17:42 |
+| Medium Coeli | 12:17:42 |
 | Sunset | 18:51:56 |
 | Maghrib | 18:57:16 |
 | Isha (Night) | 20:08:36 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:09:07 |
 | Sunrise | 05:42:53 |
-| Dhuhr (Noon) | 12:17:43 |
-| Medium Coeli | 12:17:43 |
+| Dhuhr (Noon) | 12:17:42 |
+| Medium Coeli | 12:17:42 |
 | Sunset | 18:51:56 |
 | Maghrib | 18:57:16 |
 | Isha (Night) | 20:25:22 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°0'58.73" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°18'4.79" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°0'0.51" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°20'53.86" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|25°45'22.74" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°55'20.03" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|29°27'34.76" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|24°0'0.55" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°20'53.93" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|25°45'22.78" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°55'20.14" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°27'34.08" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

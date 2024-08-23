@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°1'40.93" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°41'37.82" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°20'55.70" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°12'51.91" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°53'50.59" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°21'30.76" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|23°12'56.38" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°54'0.34" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|29°45'51.50" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°10'0.26" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°1'40.76" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°41'37.73" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°20'55.64" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°12'56.28" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°54'0.30" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|29°45'52.06" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|17°10'0.44" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|18°1'40.93" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°41'37.82" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°20'55.70" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°12'56.38" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°54'0.34" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°45'51.50" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Cenaj, Cenajo, Cenajus, Cenay, Cennai, Cennaj, Chehnai, Chenaj, Chennai, Chennai - cennai, Chennai - சென்னை, Chennaj, Csennai, MAA, Maderaspatanum, Madras, Madrás, Tamizhagam, Tamulinadu, Tsennai, cen ni, cena'i, cenna'i, cennai, chen'nai, chenai, chennai, chnay, chnayy, chynay, chynayy, jin nai, qing nai, tshynay, znʼy, Çenay, Çennai, Ćennaj, Ĉenajo, Čenaj, Čenajus, Čennai, Čennaí, Τσεννάι, Ченай, Ченај, Ченнаи, Ченнай, Ченнаї, Чэнаі, Չեննայ, צנאי, تشيناي, چنائی, چنای, چينای, چینائی, चेन्नई, चेन्नै, চেন্নাই, ਚੇਨਈ, ચેન્નઈ, ଚେନ୍ନାଇ, சென்னை, చెన్నై, ಚೆನ್ನೈ, ചെന്നൈ, චෙන්නායි, เจนไน, ချန်နိုင်းမြို့, ჩენაი, チェンナイ, 清奈, 金奈, 첸나이

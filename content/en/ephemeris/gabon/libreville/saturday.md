@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°9'7.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°3'19.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°49'21.31" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°32'42.29" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°27'55.01" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°47'2.86" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°6'33.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°3'17.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°49'15.66" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°32'25.54" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°27'45.44" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°46'37.23" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°32'55.50" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'7.45" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°3'19.50" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°49'23.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°32'41.95" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°27'53.92" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°47'3.22" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°6'33.56" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|17°9'7.63" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|18°3'19.16" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°49'21.31" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°32'42.29" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°27'55.01" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°47'2.86" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°32'56.00" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌

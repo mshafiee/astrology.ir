@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 20:34:17 |
 | Maghrib | 20:36:11 |
 | Isha (Night) | 23:50:17 |
-| Sharia Midnight | 23:40:41 |
+| Sharia Midnight | 23:40:40 |
 | Imum Coeli | 01:18:14 |
 {{< /tab >}}
 
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°56'14.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|16°56'14.82" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|18°26'20.80" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|24°40'25.29" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°23'7.61" |Virgo|Awwa|Sun|

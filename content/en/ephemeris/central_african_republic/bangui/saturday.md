@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'14.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°3'6.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°48'19.17" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°31'7.61" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°25'54.20" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°47'58.39" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°28'3.58" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°9'14.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°3'5.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°48'19.08" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°30'59.22" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°25'51.64" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°47'43.53" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°1'35.12" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°9'14.71" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|18°3'6.00" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°48'19.17" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°31'7.61" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|23°25'54.51" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°47'58.24" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°21'28.78" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|17°9'15.10" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|18°3'3.74" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°48'11.56" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°30'59.22" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°25'51.64" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°47'43.53" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°1'35.12" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기

@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|17°6'11.42" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|18°8'43.08" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|23°14'59.34" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°11'52.08" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|24°17'41.64" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°25'43.94" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°33'53.45" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|2°11'35.63" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°17'32.18" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°25'19.18" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°2'19.74" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|17°6'11.42" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°8'43.33" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°15'0.16" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°11'52.47" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°17'41.60" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|22°25'44.81" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°39'49.04" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|18°8'43.08" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°14'59.34" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°11'52.08" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°17'32.28" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|22°25'19.22" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°2'19.51" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: BJS, Bac Kinh, Baek-ging, Baekging, Behehzhin, Beijing, Beijing Shi, Beising, Beixin, Beixín, Bejdzing, Bejdżing, Bejing, Beyjing, Beȝcinȝ, Báe̤k-gĭng, Béising, Bắc Kinh, Pechin, Pechino, Pechinu, Pechinum, Pecinum, Pei-ching, Pei-ching-shih, Pei-p'ing, Pei-p'ing-shih, Peken, Pekin, Pekin', Pekina, Pekinas, Peking, Pekini, Pekino, Pekín, Pekîn, Peping, Pequim, Pequin, Pequín, Pet-kin, Pet-kîn, Peycing, Pikkin, Pèquin, Pékin, Péqùin, Péycing, be'ijim, be'ijina, be'ijinga, bei jing, bei jing shi, beidjin, beijing, bijiga, bijing, bijinga, bkyn, buggyeong, byjng, bykyn, byyg'yng, byyzsyng, pakking, peyjin, pkn, Πεκίνο, Бейжің, Бээжин, Бәәҗң балһсн, Пекин, Пекинг, Пекін, Пекінґ, Պեկին, בייג'ינג, בייזשינג, بكين, بيكين, بیجنگ, بېجینګ, بېيجىڭ, بېيجىڭ شەھىرى, پکن, پێکەن, ބީޖިންގ, बीजिंग, बेइजिङ, বেইজিং, ਬੀਜਿੰਗ, બેઇજિંગ, பெய்ஜிங், బీజింగ్, ಬೀಜಿಂಗ್, ബെയ്‌ജിങ്ങ്‌, බෙයිජිං, ปักกิ่ง, པེ་ཅིང་གྲོང་ཁྱེར།, ပေကျင်းမြို့, პეკინი, ቤዪጂንግ, ប៉េកាំង, 北京, 北京市, 베이징, 북경

@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|17°16'41.65" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|17°48'58.68" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°42'22.51" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°50'51.10" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°18'21.90" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|23°54'20.13" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°42'23.86" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|17°16'41.44" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|17°48'58.45" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°42'22.21" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°50'51.07" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°18'21.91" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|23°54'20.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°40'44.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: IND, Indianapoles, Indianapoli, Indianapolis, Indianapolisa, Indianapolės, Indianapòlis, Indianàpolis, Indianápolis, Indijanapolis, Indiyanapolis, Indyjanapalis, andyanabwlys, ayndyanapwlys, idi'anapolisa, indiaenapolliseu, indianaporisu, indiyanapolis, indiyanapolisa, intiyanapolis, xin deiy næ pho lis, yin di an na bo li si, İndianapolis, Ινδιανάπολη, Індыянапаліс, Індіанаполіс, Индианаполис, Индијанаполис, Ինդիանապոլիս, אינדיאנאפאליס, אינדיאנפוליס, إنديانابوليس, انڈیاناپولس, انڈیاناپولس، انڈیانا, ایندیاناپولیس, इंडियानापोलिस, इन्डियानापोलिस, इन्डियानापोलिस्, इन्दियानापोलिस, ইন্ডিয়ানাপোলিস, ਇੰਡੀਆਨਾਪੋਲਿਸ, இண்டியானாபொலிஸ், อินเดียแนโพลิส, ინდიანაპოლისი, ኢንዲያናፖሊስ, インディアナポリス, 印第安納波利斯, 인디애나폴리스
