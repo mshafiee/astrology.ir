@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:33:33 |
+| Fajr (Dawn) | 04:33:34 |
 | Sunrise | 06:19:11 |
 | Dhuhr (Noon) | 13:09:29 |
 | Medium Coeli | 13:09:29 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°51'33.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°34'18.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°19'55.35" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|5°24'14.44" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|28°21'54.05" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°26'28.48" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|28°26'51.05" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|16°51'34.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|18°34'15.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°19'48.39" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|5°24'4.27" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|28°21'49.66" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°26'12.61" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|27°21'52.99" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°51'34.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°34'17.89" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|16°51'33.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|18°34'17.89" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|25°19'55.26" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|5°24'14.40" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|28°21'53.96" |Virgo|Simak|Mercury|

@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:53:47 |
 | Sunset | 17:53:06 |
 | Maghrib | 17:54:01 |
-| Isha (Night) | 18:51:40 |
+| Isha (Night) | 18:51:41 |
 | Sharia Midnight | 23:24:19 |
 | Imum Coeli | 23:53:38 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°48'18.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°39'44.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°47'17.30" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|6°6'43.19" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|29°15'44.54" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°24'44.03" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°13'0.54" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|18°39'44.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°47'16.63" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|6°6'42.71" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°15'44.58" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°24'43.04" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|8°5'34.33" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°48'17.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°39'43.91" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|25°47'16.54" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|6°6'42.67" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|29°15'44.50" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°24'43.00" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|8°5'33.37" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|16°48'18.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|18°39'44.10" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|25°47'16.63" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|6°6'42.71" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|29°15'44.58" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°24'43.04" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|8°5'34.33" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

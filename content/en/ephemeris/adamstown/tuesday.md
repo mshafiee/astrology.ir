@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°49'47.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°37'16.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°34'50.41" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|5°47'11.16" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|28°51'8.69" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°24'40.12" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°17'43.66" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|16°49'47.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|18°37'16.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°34'51.78" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|5°47'24.29" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|28°51'17.27" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°24'56.47" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°38'44.11" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°49'47.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°37'16.66" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|25°34'51.87" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|5°47'24.33" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|28°51'17.36" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°24'56.51" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|16°49'47.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|18°37'16.47" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|25°34'51.78" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|5°47'24.29" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|28°51'17.27" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°24'56.47" |Leo|Zubrah|Mars|
 |☾ Moon|Direct|3°38'45.14" |Cancer|Nathrah|Venus|
 
 
