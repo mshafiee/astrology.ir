@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:44:52 |
+| Fajr (Dawn) | 04:44:51 |
 | Sunrise | 06:05:51 |
 | Dhuhr (Noon) | 12:27:04 |
 | Medium Coeli | 12:27:04 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:44:52 |
+| Fajr (Dawn) | 04:44:51 |
 | Sunrise | 06:05:51 |
 | Dhuhr (Noon) | 12:27:04 |
 | Medium Coeli | 12:27:04 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°38'59.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|18°54'39.84" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|18°54'39.84" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°4'11.49" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|8°6'51.48" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|1°47'55.01" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|21°43'35.69" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|4°36'8.29" |Cancer|Nathrah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|21°43'35.69" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|4°38'36.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°38'59.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|18°54'39.84" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|18°54'39.84" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|27°4'11.49" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|8°6'51.48" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|1°47'55.01" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|21°43'35.69" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|4°38'36.60" |Leo|Jabhah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|21°43'35.42" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|4°37'27.09" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

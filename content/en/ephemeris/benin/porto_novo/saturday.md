@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:14:37|Night duration: 11:45:15|
+|Duration of the day: 12:14:37|Night duration: 11:45:14|
 |Every hour of day duration: 01:01:13|Every hour of night duration: 00:58:46|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Mercury|Ruler|18:57:00|19:55:45|Related to talismans, amulets and responses|
 |2|Moon|Servant|19:55:46|20:54:31|Peace among people|
 |3|Saturn|Servant|20:54:32|21:53:17|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:53:18|22:52:04|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:52:05|23:50:50|Auspicious|
-|6|Sun|Servant|23:50:51|00:49:36|Writing, swapping and making promises|
+|4|Jupiter|Servant|21:53:18|22:52:03|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:52:04|23:50:49|Auspicious|
+|6|Sun|Servant|23:50:50|00:49:36|Writing, swapping and making promises|
 |7|Venus|Servant|00:49:37|01:48:22|Not suitable for any task|
-|8|Mercury|Ruler|01:48:23|02:47:09|Destruction of enemies|
-|9|Moon|Servant|02:47:10|03:45:55|All good deeds|
-|10|Saturn|Servant|03:45:56|04:44:41|Doing evil deeds|
-|11|Jupiter|Servant|04:44:42|05:43:27|Acceptance of reconciliation between couples|
-|12|Mars|Servant|05:43:28|06:42:14|For gaining dignity|
+|8|Mercury|Ruler|01:48:23|02:47:08|Destruction of enemies|
+|9|Moon|Servant|02:47:09|03:45:54|All good deeds|
+|10|Saturn|Servant|03:45:55|04:44:40|Doing evil deeds|
+|11|Jupiter|Servant|04:44:41|05:43:26|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:43:27|06:42:13|For gaining dignity|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:14:37|Night duration: 11:45:14|
+|Duration of the day: 12:14:37|Night duration: 11:45:15|
 |Every hour duration: 01:44:57|Every hour duration: 01:40:45|
 
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|18:57:00|20:37:43|
-|Late evening|Moon|Servant|20:37:44|22:18:28|
-|Midnight|Saturn|Servant|22:18:29|23:59:13|
-|Late at night|Jupiter|Servant|23:59:14|01:39:58|
-|Rooster song|Mars|Servant|01:39:59|03:20:43|
-|False Dawn|Sun|Servant|03:20:44|05:01:28|
-|Dawn|Venus|Servant|05:01:29|06:42:13|
+|Evening|Mercury|Ruler|18:57:00|20:37:44|
+|Late evening|Moon|Servant|20:37:45|22:18:29|
+|Midnight|Saturn|Servant|22:18:30|23:59:14|
+|Late at night|Jupiter|Servant|23:59:15|01:39:59|
+|Rooster song|Mars|Servant|01:40:00|03:20:44|
+|False Dawn|Sun|Servant|03:20:45|05:01:29|
+|Dawn|Venus|Servant|05:01:30|06:42:14|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°38'1.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|18°56'9.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°12'6.62" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|8°19'8.51" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|2°3'29.18" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|21°47'30.31" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|7°15'25.06" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|16°38'1.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°56'9.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°12'3.80" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|8°19'12.64" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|2°3'33.28" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Post-Retrograde Shadow|21°47'33.15" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|7°16'55.85" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°38'1.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|18°56'9.78" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|18°56'9.78" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|27°12'3.80" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|8°19'12.64" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|2°3'33.28" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|21°47'33.15" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|21°47'33.15" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|7°16'55.85" |Leo|Jabhah|Saturn|
 
 

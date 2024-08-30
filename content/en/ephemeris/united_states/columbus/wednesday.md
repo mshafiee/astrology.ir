@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:36:17 |
-| Sunrise | 06:56:26 |
+| Sunrise | 06:56:27 |
 | Dhuhr (Noon) | 13:33:00 |
 | Medium Coeli | 13:33:00 |
 | Sunset | 20:08:52 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:09:18 |
-| Sunrise | 06:56:26 |
+| Sunrise | 06:56:27 |
 | Dhuhr (Noon) | 13:33:00 |
 | Medium Coeli | 13:33:00 |
 | Sunset | 20:08:52 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:12:26|Night duration: 10:48:31|
+|Duration of the day: 13:12:25|Night duration: 10:48:31|
 |Every hour of day duration: 01:06:02|Every hour of night duration: 00:54:03|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:56:26|08:02:27|Acceptance of needs|
-|2|Moon|Servant|08:02:28|09:08:29|Unfortunate, no task is suitable|
-|3|Saturn|Servant|09:08:30|10:14:31|For overcoming diseases|
-|4|Jupiter|Servant|10:14:32|11:20:33|For all tasks, extremely auspicious|
-|5|Mars|Servant|11:20:34|12:26:35|Creating negative energy and disrupting peace|
-|6|Sun|Servant|12:26:36|13:32:38|Outer and inner journey|
+|1|Mercury|Ruler|06:56:27|08:02:28|Acceptance of needs|
+|2|Moon|Servant|08:02:29|09:08:30|Unfortunate, no task is suitable|
+|3|Saturn|Servant|09:08:31|10:14:32|For overcoming diseases|
+|4|Jupiter|Servant|10:14:33|11:20:34|For all tasks, extremely auspicious|
+|5|Mars|Servant|11:20:35|12:26:36|Creating negative energy and disrupting peace|
+|6|Sun|Servant|12:26:37|13:32:38|Outer and inner journey|
 |7|Venus|Servant|13:32:39|14:38:40|Attracting love and hearts and fortune|
 |8|Mercury|Ruler|14:38:41|15:44:42|Being invisible to the people|
 |9|Moon|Servant|15:44:43|16:50:44|Separation, causing enmity|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:12:26|Night duration: 10:48:31|
+|Duration of the day: 13:12:25|Night duration: 10:48:31|
 |Every hour duration: 01:53:12|Every hour duration: 01:32:39|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|06:56:26|08:49:37|
-|Mid-morning|Moon|Servant|08:49:38|10:42:49|
-|Late morning|Saturn|Servant|10:42:50|12:36:01|
-|Noon|Jupiter|Servant|12:36:02|14:29:14|
+|Early morning|Mercury|Ruler|06:56:27|08:49:38|
+|Mid-morning|Moon|Servant|08:49:39|10:42:50|
+|Late morning|Saturn|Servant|10:42:51|12:36:02|
+|Noon|Jupiter|Servant|12:36:03|14:29:14|
 |Early afternoon|Mars|Servant|14:29:15|16:22:26|
 |Mid-afternoon|Sun|Servant|16:22:27|18:15:38|
 |Late afternoon|Venus|Servant|18:15:39|20:08:51|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°46'3.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|18°43'24.81" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|18°43'24.81" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|26°5'59.41" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|6°35'50.96" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|29°52'39.82" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°26'2.46" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°39'4.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|21°26'3.08" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°49'56.50" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°46'3.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|18°43'24.81" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|26°5'59.41" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|6°35'50.96" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|29°52'39.82" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°26'2.46" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°39'4.69" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|18°43'24.81" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|26°6'0.80" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|6°35'50.85" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|29°52'39.16" |Virgo|Simak|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|21°26'3.08" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°49'56.50" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°47'37.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|18°40'49.52" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|16°47'38.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|18°40'49.52" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|25°52'49.86" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|6°15'20.94" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|29°26'41.85" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|21°24'52.57" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°59'59.61" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|21°24'53.73" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°10'46.13" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°47'37.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|18°40'49.52" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|18°40'49.52" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|25°52'49.86" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|6°15'20.94" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|29°26'41.85" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|21°24'52.57" |Leo|Zubrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|21°24'52.57" |Leo|Zubrah|Mars|
 |☾ Moon|Direct|9°59'59.61" |Cancer|Nathrah|Venus|
 
 

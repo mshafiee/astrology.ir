@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:54:02 |
-| Sunrise | 06:34:25 |
+| Sunrise | 06:34:24 |
 | Dhuhr (Noon) | 13:05:30 |
 | Medium Coeli | 13:05:30 |
 | Sunset | 19:36:00 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°43'52.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|18°46'55.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°24'0.59" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°3'57.69" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|0°28'16.60" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|21°29'16.90" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|18°46'55.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°23'59.77" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°3'57.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|0°28'17.09" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Post-Retrograde Shadow|21°29'16.67" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|20°53'45.82" |Gemini|Dhira|Sun|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°43'52.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|18°46'55.71" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|18°46'55.71" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|26°24'0.59" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|7°3'57.69" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|0°28'16.60" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|21°29'16.90" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|20°53'45.82" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|0°28'17.09" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|21°29'16.67" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|20°48'4.46" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
