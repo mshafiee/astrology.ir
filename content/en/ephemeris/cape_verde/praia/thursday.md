@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°42'13.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°49'33.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°37'34.79" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°25'10.22" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|0°55'8.12" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Post-Retrograde Shadow|21°33'1.03" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|25°34'35.97" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|16°42'13.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|18°49'34.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°37'38.08" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°25'6.47" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|0°55'4.11" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|21°32'58.71" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|25°45'49.91" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Libra|Sun|Sun|
 |♀ Venus|Mercury|Saturn|Virgo|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°42'13.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°49'33.44" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|26°37'34.79" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°25'10.22" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|0°55'8.12" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|21°33'1.03" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|18°49'33.25" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|26°37'34.71" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°25'10.18" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|0°55'8.04" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|21°33'1.03" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|25°34'35.97" |Cancer|Tarf|Moon|
 
 

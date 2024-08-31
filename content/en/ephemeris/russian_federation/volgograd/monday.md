@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:21:13|Night duration: 10:40:11|
+|Duration of the day: 13:21:13|Night duration: 10:40:12|
 |Every hour of day duration: 01:06:46|Every hour of night duration: 00:53:21|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:41:40|19:34:59|Repelling magic, attracting discharged energy|
-|2|Mercury|Servant|19:35:00|20:28:20|Outer and inner journey|
-|3|Moon|Servant|20:28:21|21:21:41|Marriage connection is good|
-|4|Saturn|Servant|21:21:42|22:15:02|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:15:03|23:08:23|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:08:24|00:01:44|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:01:45|00:55:05|Making promises|
-|8|Venus|Ruler|00:55:06|01:48:26|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|01:48:27|02:41:47|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|02:41:48|03:35:08|Good for any task|
-|11|Saturn|Servant|03:35:09|04:28:29|Creating enmity and negative energy|
-|12|Jupiter|Servant|04:28:30|05:21:50|Heart tenderness|
+|1|Venus|Ruler|18:41:40|19:35:00|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|19:35:01|20:28:21|Outer and inner journey|
+|3|Moon|Servant|20:28:22|21:21:42|Marriage connection is good|
+|4|Saturn|Servant|21:21:43|22:15:03|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:15:04|23:08:24|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:08:25|00:01:45|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:01:46|00:55:06|Making promises|
+|8|Venus|Ruler|00:55:07|01:48:27|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|01:48:28|02:41:48|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|02:41:49|03:35:09|Good for any task|
+|11|Saturn|Servant|03:35:10|04:28:30|Creating enmity and negative energy|
+|12|Jupiter|Servant|04:28:31|05:21:51|Heart tenderness|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°29'35.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°8'57.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°20'33.21" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|10°7'12.57" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|4°20'10.23" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|22°38'11.17" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°3'40.40" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|16°29'35.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°8'57.72" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°20'33.29" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|10°7'12.60" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|4°20'10.31" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|22°38'11.20" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°3'39.66" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°29'35.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°8'57.52" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|28°20'33.21" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°7'12.57" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|4°20'10.23" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|22°38'11.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°3'40.40" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|16°29'35.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°8'57.72" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|28°20'33.29" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°7'12.60" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|4°20'10.31" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|22°38'11.20" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°3'39.66" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°41'56.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°50'1.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°40'0.34" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°28'57.43" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|0°59'56.32" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Post-Retrograde Shadow|21°33'46.14" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|26°13'8.79" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|16°41'56.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|18°50'1.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°39'59.47" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°28'56.83" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|0°59'56.26" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|21°33'46.14" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|26°21'0.74" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -323,7 +323,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Sun|Jupiter|Leo|Moon|Mars|
 |♃ Jupiter|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|♂ Mars|Sun|Mercury|Pisces|Sun|Saturn|
+|♂ Mars|Sun|Sun|Pisces|Sun|Saturn|
 |☉ Sun|Venus|Mercury|Libra|Sun|Sun|
 |♀ Venus|Mercury|Saturn|Virgo|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°41'56.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°50'1.54" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|16°41'56.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|18°50'1.54" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|26°40'0.34" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|7°28'57.43" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|0°59'56.32" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|21°33'47.30" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|21°33'47.30" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|26°21'1.48" |Cancer|Jabhah|Moon|
 
 

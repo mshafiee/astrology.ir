@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:14:45 |
+| Fajr (Dawn) | 04:14:46 |
 | Sunrise | 05:43:52 |
 | Dhuhr (Noon) | 12:11:43 |
 | Medium Coeli | 12:11:43 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°43'11.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°48'1.37" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|18°48'1.37" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|26°29'39.02" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°12'46.37" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|0°39'26.14" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Post-Retrograde Shadow|21°30'41.86" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|22°50'32.06" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°12'46.40" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|0°39'26.22" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|21°30'41.89" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|22°50'32.84" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°43'11.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°48'1.18" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|26°29'38.94" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°12'46.37" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|0°39'26.14" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|21°30'41.86" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|22°50'32.06" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|16°43'11.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|18°48'1.37" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|26°29'39.02" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°12'46.40" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|0°39'26.22" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|21°30'41.89" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|22°50'32.84" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

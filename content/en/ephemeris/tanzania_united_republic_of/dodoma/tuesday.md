@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:59:54|Night duration: 11:59:37|
+|Duration of the day: 11:59:54|Night duration: 11:59:36|
 |Every hour of day duration: 00:59:59|Every hour of night duration: 00:59:58|
 
  
@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|02:35:59|03:35:56|Heart tenderness|
 |10|Mars|Servant|03:35:57|04:35:54|Attracting misfortune, no task is suitable|
 |11|Sun|Servant|04:35:55|05:35:52|Attracting connection and suitors|
-|12|Venus|Servant|05:35:53|06:35:51|Hatred, corruption and creating negative energy for disruption|
+|12|Venus|Servant|05:35:53|06:35:50|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°24'46.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°15'58.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°59'6.10" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°8'23.46" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°37'29.31" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°19'23.97" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°42'5.03" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°15'58.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°59'6.02" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°8'23.43" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°37'29.22" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|23°19'23.94" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°42'6.18" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°24'46.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°15'58.49" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|28°59'6.10" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|16°24'46.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°15'56.67" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|28°58'59.74" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°8'19.79" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|5°37'29.44" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|23°19'17.03" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°19'17.03" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|12°18'39.13" |Virgo|Awwa|Venus|
 
 

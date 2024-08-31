@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°26'11.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°13'56.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°47'43.65" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|10°50'12.06" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°14'41.78" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°6'5.60" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|7°20'53.16" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|19°13'56.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°47'49.54" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|10°50'27.59" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°14'50.18" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|23°6'24.03" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|8°59'17.23" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°26'11.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°13'56.12" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|28°47'49.46" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°50'27.56" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|5°14'50.09" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|23°6'24.01" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|8°59'18.32" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|16°26'11.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°13'56.31" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|28°47'49.54" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°50'27.59" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|5°14'50.18" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|23°6'24.03" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|8°59'17.23" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

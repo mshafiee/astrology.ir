@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:43:41 |
 | Maghrib | 18:59:57 |
 | Isha (Night) | 19:39:38 |
-| Sharia Midnight | 23:56:38 |
+| Sharia Midnight | 23:56:37 |
 | Imum Coeli | 00:32:18 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°42'25.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|18°49'14.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°35'59.04" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°22'43.50" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|0°52'3.66" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Post-Retrograde Shadow|21°32'29.94" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|24°44'43.65" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|18°49'13.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°35'52.94" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°22'33.24" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|0°51'59.00" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|21°32'15.14" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|23°32'17.43" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°42'25.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|18°49'15.40" |Gemini|Dhira|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|18°49'15.40" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|26°36'1.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°22'43.50" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|0°52'3.66" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|21°32'29.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|24°44'43.65" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|7°22'44.10" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|0°52'3.12" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|21°32'31.89" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°2'21.20" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Scorpio|Moon|Venus|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Venus|Saturn|Aries|Sun|Mars|
+|☾ Moon|Venus|Saturn|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

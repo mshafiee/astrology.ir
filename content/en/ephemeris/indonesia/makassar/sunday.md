@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:59:23 |
 | Sunrise | 06:01:43 |
-| Dhuhr (Noon) | 12:02:12 |
-| Medium Coeli | 12:02:12 |
+| Dhuhr (Noon) | 12:02:13 |
+| Medium Coeli | 12:02:13 |
 | Sunset | 18:02:46 |
 | Maghrib | 18:16:30 |
 | Isha (Night) | 18:56:59 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:52:31 |
 | Sunrise | 06:01:43 |
-| Dhuhr (Noon) | 12:02:12 |
-| Medium Coeli | 12:02:12 |
+| Dhuhr (Noon) | 12:02:13 |
+| Medium Coeli | 12:02:13 |
 | Sunset | 18:02:46 |
 | Maghrib | 18:18:31 |
 | Isha (Night) | 18:56:59 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°30'24.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°7'44.88" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|19°7'44.88" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|28°13'57.00" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|9°56'45.20" |Leo|Zubrah|Saturn|
 |♀ Venus|Direct|4°6'57.06" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Post-Retrograde Shadow|22°32'2.33" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|22°32'2.33" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|27°52'51.78" |Cancer|Jabhah|Moon|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°30'24.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°7'45.27" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|28°13'58.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°56'45.11" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|4°6'56.41" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|22°32'3.01" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|27°55'37.34" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|19°7'44.88" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|28°13'57.00" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°56'45.20" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|4°6'57.06" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|22°32'2.33" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|27°52'51.78" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
