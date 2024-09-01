@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:31:17 |
-| Sunrise | 06:42:14 |
+| Sunrise | 06:42:15 |
 | Dhuhr (Noon) | 12:49:25 |
 | Medium Coeli | 12:49:25 |
 | Sunset | 18:56:30 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°33'29.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°3'6.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°48'57.18" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|9°17'16.24" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|3°17'0.92" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|22°11'13.40" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|19°39'10.60" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°3'7.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°49'0.28" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|9°17'8.52" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|3°16'54.17" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|22°11'7.12" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|19°11'45.38" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°38'29.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|18°55'27.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°8'19.75" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|8°13'20.97" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|1°56'8.12" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|21°45'37.62" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°1'39.62" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|18°55'26.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°8'19.93" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|8°13'17.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|1°56'5.77" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|21°45'34.50" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°51'44.54" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°38'29.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|18°55'27.17" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|27°8'19.75" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|8°13'20.97" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|1°56'8.12" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|16°38'28.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|18°55'26.97" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|27°8'19.67" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|8°13'20.94" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|1°56'8.03" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|21°45'37.62" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|6°1'39.62" |Leo|Jabhah|Saturn|
 

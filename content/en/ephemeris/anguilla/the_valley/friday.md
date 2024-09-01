@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°18'36.75" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|8°29'30.18" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|2°16'34.65" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|21°50'57.33" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°25'4.01" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|21°51'8.75" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°30'31.79" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Mercury|Saturn|Virgo|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°37'13.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|18°57'24.32" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|27°18'29.55" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|8°29'23.20" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|2°16'32.67" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|21°50'57.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|8°25'4.01" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|16°37'13.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|18°57'24.29" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|27°18'36.66" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|8°29'30.18" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|2°16'34.69" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|21°51'8.68" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|9°30'31.79" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Sagittarius|Moon|Venus|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}

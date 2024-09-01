@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:49:30 |
-| Sunrise | 05:54:31 |
+| Sunrise | 05:54:30 |
 | Dhuhr (Noon) | 11:47:02 |
 | Medium Coeli | 11:47:02 |
 | Sunset | 17:39:48 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:53:42 |
-| Sunrise | 05:54:31 |
+| Sunrise | 05:54:30 |
 | Dhuhr (Noon) | 11:47:02 |
 | Medium Coeli | 11:47:02 |
 | Sunset | 17:39:48 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:47 |
-| Sunrise | 05:54:31 |
+| Sunrise | 05:54:30 |
 | Dhuhr (Noon) | 11:47:02 |
 | Medium Coeli | 11:47:02 |
 | Sunset | 17:39:48 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:41:05 |
-| Sunrise | 05:54:31 |
+| Sunrise | 05:54:30 |
 | Dhuhr (Noon) | 11:47:02 |
 | Medium Coeli | 11:47:02 |
 | Sunset | 17:39:48 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:38:59 |
-| Sunrise | 05:54:31 |
+| Sunrise | 05:54:30 |
 | Dhuhr (Noon) | 11:47:02 |
 | Medium Coeli | 11:47:02 |
 | Sunset | 17:39:48 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:45:17|Night duration: 12:13:56|
+|Duration of the day: 11:45:18|Night duration: 12:13:56|
 |Every hour of day duration: 00:58:46|Every hour of night duration: 01:01:10|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:54:31|06:53:16|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:53:17|07:52:02|Peace among people|
-|3|Mars|Servant|07:52:03|08:50:49|Vengeful and evil deeds|
-|4|Sun|Servant|08:50:50|09:49:35|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|09:49:36|10:48:22|Auspicious|
-|6|Mercury|Servant|10:48:23|11:47:08|Writing, swapping and making promises|
+|1|Saturn|Ruler|05:54:30|06:53:15|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:53:16|07:52:02|Peace among people|
+|3|Mars|Servant|07:52:03|08:50:48|Vengeful and evil deeds|
+|4|Sun|Servant|08:50:49|09:49:35|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:49:36|10:48:21|Auspicious|
+|6|Mercury|Servant|10:48:22|11:47:08|Writing, swapping and making promises|
 |7|Moon|Servant|11:47:09|12:45:54|Not suitable for any task|
 |8|Saturn|Ruler|12:45:55|13:44:41|Destruction of enemies|
 |9|Jupiter|Servant|13:44:42|14:43:27|All good deeds|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°35'32.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|18°59'59.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°32'20.96" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|8°51'5.33" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|2°43'54.78" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|21°59'29.90" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°56'38.00" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°0'0.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°32'23.09" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|8°51'0.07" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|2°43'54.70" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|21°59'29.87" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°56'37.82" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

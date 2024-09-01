@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:56:28 |
+| Fajr (Dawn) | 03:56:27 |
 | Sunrise | 05:14:25 |
 | Dhuhr (Noon) | 11:33:45 |
 | Medium Coeli | 11:33:45 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°34'8.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°2'7.02" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|19°2'6.83" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°43'38.19" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|9°8'53.55" |Leo|Zubrah|Saturn|
 |♀ Venus|Direct|3°6'24.84" |Virgo|Sarfrah|Sun|
