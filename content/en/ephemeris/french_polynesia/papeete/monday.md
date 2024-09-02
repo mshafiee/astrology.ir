@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:51:42 |
+| Fajr (Dawn) | 04:51:41 |
 | Sunrise | 06:03:39 |
 | Dhuhr (Noon) | 11:57:38 |
 | Medium Coeli | 11:57:38 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°18'1.11" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|11°38'30.88" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|6°15'32.91" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|23°42'54.90" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°42'54.90" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|18°46'7.99" |Leo|Zubrah|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°22'24.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°19'21.83" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|29°18'1.11" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°38'30.88" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|6°15'32.91" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|23°42'54.90" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°46'7.99" |Virgo|Simak|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|19°19'20.26" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|29°17'55.38" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°38'16.54" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|6°15'25.30" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°42'38.16" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|17°19'2.87" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Saturn|Saturn|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}

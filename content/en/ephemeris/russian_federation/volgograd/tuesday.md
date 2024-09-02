@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:17:46|Night duration: 10:43:39|
+|Duration of the day: 13:17:45|Night duration: 10:43:39|
 |Every hour of day duration: 01:06:29|Every hour of night duration: 00:53:38|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:21:51|06:28:18|Creating corruption, hatred and enmity|
-|2|Sun|Servant|06:28:19|07:34:47|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|07:34:48|08:41:16|Attracting connection and suitors|
-|4|Mercury|Servant|08:41:17|09:47:45|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|09:47:46|10:54:14|Attracting misfortune, no task is suitable|
+|1|Mars|Ruler|05:21:52|06:28:19|Creating corruption, hatred and enmity|
+|2|Sun|Servant|06:28:20|07:34:48|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|07:34:49|08:41:17|Attracting connection and suitors|
+|4|Mercury|Servant|08:41:18|09:47:46|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|09:47:47|10:54:14|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|10:54:15|12:00:43|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|12:00:44|13:07:11|Attracting love and hearts|
-|8|Mars|Ruler|13:07:12|14:13:40|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|14:13:41|15:20:09|Heart tenderness|
+|7|Jupiter|Servant|12:00:44|13:07:12|Attracting love and hearts|
+|8|Mars|Ruler|13:07:13|14:13:41|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|14:13:42|15:20:09|Heart tenderness|
 |10|Venus|Servant|15:20:10|16:26:38|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|16:26:39|17:33:07|Attracting connection and suitors|
 |12|Moon|Servant|17:33:08|18:39:36|Hatred, corruption and creating negative energy for disruption|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:17:46|Night duration: 10:43:39|
+|Duration of the day: 13:17:45|Night duration: 10:43:39|
 |Every hour duration: 01:53:58|Every hour duration: 01:31:57|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|05:21:51|07:15:48|
+|Early morning|Mars|Ruler|05:21:52|07:15:48|
 |Mid-morning|Sun|Servant|07:15:49|09:09:46|
 |Late morning|Venus|Servant|09:09:47|11:03:44|
 |Noon|Mercury|Servant|11:03:45|12:57:42|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°57'12.61" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|11°5'23.10" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|5°33'41.45" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|23°17'10.07" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°5'33.53" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|23°17'8.96" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°2'29.61" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°25'1.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°15'37.96" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|28°57'12.61" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°5'23.10" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|5°33'41.45" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|23°17'10.07" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°5'33.53" |Virgo|Awwa|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|19°15'37.60" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|28°57'11.36" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°5'22.63" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|5°33'41.65" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°17'8.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°2'29.61" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

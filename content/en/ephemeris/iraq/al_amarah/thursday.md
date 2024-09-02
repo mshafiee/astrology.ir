@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:49:59 |
 | Sunset | 18:10:12 |
 | Maghrib | 18:11:15 |
-| Isha (Night) | 19:29:38 |
+| Isha (Night) | 19:29:39 |
 | Sharia Midnight | 23:07:47 |
 | Imum Coeli | 23:49:49 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°15'49.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°28'31.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°10'11.10" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|13°2'0.90" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|8°0'55.88" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|24°58'49.22" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|5°52'14.28" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|16°15'49.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°28'29.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°10'4.26" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|13°1'54.50" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|8°0'54.44" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°58'39.89" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°32'33.47" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°15'49.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°28'31.41" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°10'11.10" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°2'0.90" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|16°15'49.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°28'31.61" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°10'11.17" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°2'0.93" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|8°0'55.97" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|24°58'49.25" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|24°58'49.25" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|5°52'13.94" |Libra|Ghafr|Moon|
 
 

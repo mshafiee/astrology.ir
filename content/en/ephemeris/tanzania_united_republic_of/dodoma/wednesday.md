@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:26:23 |
-| Sunrise | 06:35:52 |
+| Sunrise | 06:35:51 |
 | Dhuhr (Noon) | 12:35:56 |
 | Medium Coeli | 12:35:56 |
 | Sunset | 18:36:04 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:25:11 |
-| Sunrise | 06:35:52 |
+| Sunrise | 06:35:51 |
 | Dhuhr (Noon) | 12:35:56 |
 | Medium Coeli | 12:35:56 |
 | Sunset | 18:36:04 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:37:18 |
-| Sunrise | 06:35:52 |
+| Sunrise | 06:35:51 |
 | Dhuhr (Noon) | 12:35:56 |
 | Medium Coeli | 12:35:56 |
 | Sunset | 18:36:04 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:25:11 |
-| Sunrise | 06:35:52 |
+| Sunrise | 06:35:51 |
 | Dhuhr (Noon) | 12:35:56 |
 | Medium Coeli | 12:35:56 |
 | Sunset | 18:36:04 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°35'33.03" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|12°6'31.07" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|6°50'53.86" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|24°6'38.76" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°6'38.76" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|24°33'51.34" |Leo|Sarfrah|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°35'33.03" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|12°6'31.07" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|6°50'53.86" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|24°6'38.76" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|24°6'38.76" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|24°33'51.34" |Virgo|Simak|Mercury|
 
 

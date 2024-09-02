@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:47:08 |
 | Sunset | 19:32:21 |
 | Maghrib | 19:35:21 |
-| Isha (Night) | 21:55:26 |
+| Isha (Night) | 21:55:25 |
 | Sharia Midnight | 23:35:50 |
 | Imum Coeli | 00:46:58 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°11'53.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°33'50.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°41'11.66" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|13°51'48.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°3'45.24" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|25°51'15.18" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|15°24'56.07" |Virgo|Awwa|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|19°33'50.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°41'9.67" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|13°51'50.22" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°3'47.55" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|25°51'15.92" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|15°46'1.94" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°11'53.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°33'50.72" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°41'11.66" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°51'48.33" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|9°3'45.33" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|25°51'15.21" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|15°24'56.07" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|16°11'53.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°33'50.31" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°41'9.67" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°51'50.22" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|9°3'47.55" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|25°51'15.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|15°46'1.94" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 19:56:35 |
 | Maghrib | 19:58:06 |
 | Isha (Night) | 21:19:53 |
-| Sharia Midnight | 00:47:00 |
+| Sharia Midnight | 00:46:59 |
 | Imum Coeli | 01:28:21 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°10'45.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°35'21.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°50'6.76" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|14°6'17.19" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°22'0.11" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|26°7'25.64" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|18°44'27.37" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|16°10'45.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°35'21.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°50'6.83" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|14°6'17.23" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°22'0.20" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|26°7'25.67" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|18°44'27.73" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°10'45.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°35'21.18" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°50'6.76" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°6'17.19" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|16°10'45.40" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°35'19.52" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°50'0.74" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°6'11.31" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|9°21'58.69" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|26°7'17.55" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|26°7'17.55" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|18°36'46.18" |Libra|Jubana|Saturn|
 
 

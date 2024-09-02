@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:55:16 |
+| Fajr (Dawn) | 04:55:15 |
 | Sunrise | 06:05:33 |
 | Dhuhr (Noon) | 12:02:18 |
 | Medium Coeli | 12:02:18 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°25'32.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°14'52.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°52'58.32" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|10°58'38.21" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°25'10.23" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|23°12'13.96" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|10°38'57.31" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°14'51.97" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°52'58.25" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|10°58'38.18" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°25'10.14" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°12'13.94" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°38'58.44" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°25'32.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|16°25'32.80" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|19°14'52.17" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|28°52'58.32" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|10°58'38.21" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|5°25'10.54" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|23°12'13.47" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|10°38'44.28" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|5°25'10.23" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°12'13.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°38'57.31" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

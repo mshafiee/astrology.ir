@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°45'45.31" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|9°12'13.21" |Leo|Zubrah|Saturn|
 |♀ Venus|Direct|3°10'38.08" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|22°8'49.57" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°8'49.57" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|18°30'60.00" |Cancer|Tarf|Mercury|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|19°2'30.82" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|27°45'45.31" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°12'13.21" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|3°10'38.08" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|22°8'49.57" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°30'60.00" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|3°10'38.10" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°8'49.27" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|18°29'18.13" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

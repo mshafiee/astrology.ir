@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:41:23 |
+| Fajr (Dawn) | 03:41:22 |
 | Sunrise | 06:06:00 |
 | Dhuhr (Noon) | 12:56:57 |
 | Medium Coeli | 12:56:57 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°11'7.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°34'52.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°47'15.65" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|14°1'40.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°16'11.82" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|26°2'13.26" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|17°42'45.37" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|16°11'7.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°34'52.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°47'15.57" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|14°1'40.22" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°16'11.73" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|26°2'13.23" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|17°42'45.05" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°11'7.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°34'52.38" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°47'15.65" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|16°11'7.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°34'52.18" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°47'15.57" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|14°1'40.26" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|9°16'11.82" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|26°2'13.26" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|26°2'13.26" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|17°42'45.37" |Libra|Jubana|Saturn|
 
 

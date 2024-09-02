@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:59:54|Night duration: 11:59:37|
+|Duration of the day: 11:59:54|Night duration: 11:59:36|
 |Every hour of day duration: 00:59:59|Every hour of night duration: 00:59:58|
 
  
@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|02:35:59|03:35:56|Heart tenderness|
 |10|Mars|Servant|03:35:57|04:35:54|Attracting misfortune, no task is suitable|
 |11|Sun|Servant|04:35:55|05:35:52|Attracting connection and suitors|
-|12|Venus|Servant|05:35:53|06:35:51|Hatred, corruption and creating negative energy for disruption|
+|12|Venus|Servant|05:35:53|06:35:50|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:59:54|Night duration: 11:59:37|
+|Duration of the day: 11:59:54|Night duration: 11:59:36|
 |Every hour duration: 01:42:51|Every hour duration: 01:42:48|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Sun|Servant|23:44:39|01:27:26|
 |Rooster song|Venus|Servant|01:27:27|03:10:14|
 |False Dawn|Mercury|Servant|03:10:15|04:53:02|
-|Dawn|Moon|Servant|04:53:03|06:35:51|
+|Dawn|Moon|Servant|04:53:03|06:35:50|
 
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°59'6.10" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|11°8'23.46" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|5°37'29.31" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|23°19'23.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°19'23.97" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|12°42'5.03" |Leo|Zubrah|Jupiter|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|28°59'6.10" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°8'23.46" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|5°37'29.31" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|23°19'23.97" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°19'23.97" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|12°42'5.03" |Virgo|Awwa|Venus|
 
 

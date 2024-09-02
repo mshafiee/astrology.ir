@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:47:32 |
-| Sunrise | 05:50:45 |
+| Sunrise | 05:50:46 |
 | Dhuhr (Noon) | 11:56:05 |
 | Medium Coeli | 11:56:05 |
 | Sunset | 18:01:22 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:39:23 |
-| Sunrise | 05:50:45 |
+| Sunrise | 05:50:46 |
 | Dhuhr (Noon) | 11:56:05 |
 | Medium Coeli | 11:56:05 |
 | Sunset | 18:01:22 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:36 |
-| Sunrise | 05:50:45 |
+| Sunrise | 05:50:46 |
 | Dhuhr (Noon) | 11:56:05 |
 | Medium Coeli | 11:56:05 |
 | Sunset | 18:01:22 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:39:23 |
-| Sunrise | 05:50:45 |
+| Sunrise | 05:50:46 |
 | Dhuhr (Noon) | 11:56:05 |
 | Medium Coeli | 11:56:05 |
 | Sunset | 18:01:22 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:37:21 |
-| Sunrise | 05:50:45 |
+| Sunrise | 05:50:46 |
 | Dhuhr (Noon) | 11:56:05 |
 | Medium Coeli | 11:56:05 |
 | Sunset | 18:01:22 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°33'32.87" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|10°27'48.30" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|4°46'11.83" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|22°51'4.26" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°51'4.26" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|4°23'47.39" |Leo|Jabhah|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|28°33'32.87" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|10°27'48.30" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|4°46'11.83" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|22°51'4.26" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°51'4.26" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|4°23'47.39" |Virgo|Awwa|Sun|
 
 

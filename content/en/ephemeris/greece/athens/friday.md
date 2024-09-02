@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:43:32 |
-| Sunrise | 06:59:16 |
+| Sunrise | 06:59:15 |
 | Dhuhr (Noon) | 13:23:17 |
 | Medium Coeli | 13:23:17 |
 | Sunset | 19:46:41 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:47:26|Night duration: 11:13:26|
+|Duration of the day: 12:47:25|Night duration: 11:13:26|
 |Every hour duration: 01:49:38|Every hour duration: 01:36:12|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|06:59:15|08:48:52|
+|Early morning|Venus|Ruler|06:59:16|08:48:52|
 |Mid-morning|Mercury|Servant|08:48:53|10:38:30|
 |Late morning|Moon|Servant|10:38:31|12:28:08|
 |Noon|Saturn|Servant|12:28:09|14:17:46|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|0°48'36.13" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|14°3'51.01" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|9°18'55.64" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|26°4'40.32" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|18°16'30.57" |Virgo|Simak|Venus|
+|☿ Mercury|Post-Retrograde Shadow|26°4'26.60" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|17°46'19.54" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Saturn|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|0°48'36.13" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|14°3'51.01" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|9°18'55.64" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|26°4'40.32" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|26°4'40.32" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|18°16'30.57" |Libra|Jubana|Saturn|
 
 

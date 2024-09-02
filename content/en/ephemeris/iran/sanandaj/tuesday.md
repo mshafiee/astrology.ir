@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:49:07|Night duration: 11:11:38|
+|Duration of the day: 12:49:07|Night duration: 11:11:37|
 |Every hour duration: 01:49:52|Every hour duration: 01:35:57|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Saturn|Ruler|18:45:30|20:21:25|
 |Late evening|Jupiter|Servant|20:21:26|21:57:22|
 |Midnight|Mars|Servant|21:57:23|23:33:19|
-|Late at night|Sun|Servant|23:33:20|01:09:16|
-|Rooster song|Venus|Servant|01:09:17|02:45:13|
-|False Dawn|Mercury|Servant|02:45:14|04:21:10|
-|Dawn|Moon|Servant|04:21:11|05:57:07|
+|Late at night|Sun|Servant|23:33:20|01:09:15|
+|Rooster song|Venus|Servant|01:09:16|02:45:12|
+|False Dawn|Mercury|Servant|02:45:13|04:21:09|
+|Dawn|Moon|Servant|04:21:10|05:57:06|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°25'0.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°15'39.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°57'19.05" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°5'34.97" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°33'56.12" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|23°17'18.83" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°13'26.90" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|16°25'0.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°15'39.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°57'19.61" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°5'34.74" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°33'55.61" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°17'18.94" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°12'19.13" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°25'0.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°15'39.10" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|28°57'19.05" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°5'34.97" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|5°33'56.12" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|23°17'18.83" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°13'26.90" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|16°25'0.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°15'39.07" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|28°57'19.61" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°5'34.74" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|5°33'55.61" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°17'18.94" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°12'19.13" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
