@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°24'27.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°16'26.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°1'39.77" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°12'16.89" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°42'28.97" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°22'17.69" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°33'48.62" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°16'25.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°1'38.60" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°12'26.21" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°42'36.11" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°22'26.09" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°31'9.70" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Jupiter|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Saturn|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°24'27.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|16°24'27.90" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|19°16'25.83" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|29°1'38.60" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°12'26.21" |Virgo|Awwa|Venus|

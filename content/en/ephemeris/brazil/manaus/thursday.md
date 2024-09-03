@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:14:16 |
 | Isha (Night) | 18:54:32 |
 | Sharia Midnight | 23:27:24 |
-| Imum Coeli | 23:58:23 |
+| Imum Coeli | 23:58:24 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:16:17 |
 | Isha (Night) | 18:54:32 |
 | Sharia Midnight | 23:23:59 |
-| Imum Coeli | 23:58:23 |
+| Imum Coeli | 23:58:24 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:01:30 |
 | Isha (Night) | 18:58:33 |
 | Sharia Midnight | 23:29:25 |
-| Imum Coeli | 23:58:23 |
+| Imum Coeli | 23:58:24 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:01:30 |
 | Isha (Night) | 19:10:38 |
 | Sharia Midnight | 23:23:22 |
-| Imum Coeli | 23:58:23 |
+| Imum Coeli | 23:58:24 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:01:30 |
 | Isha (Night) | 19:31:30 |
 | Sharia Midnight | 23:22:22 |
-| Imum Coeli | 23:58:23 |
+| Imum Coeli | 23:58:24 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°9'48.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°36'35.82" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°57'29.50" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°18'15.07" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|9°37'7.13" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°21'6.62" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|21°14'42.05" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|16°9'48.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°36'36.57" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°57'32.22" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°18'16.17" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|9°37'6.72" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|26°21'8.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°7'31.48" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

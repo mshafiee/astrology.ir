@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°4'3.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°44'4.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°42'32.48" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|15°31'11.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|11°9'0.79" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|27°50'34.04" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|5°41'57.64" |Libra|Ghafr|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|19°44'2.97" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°42'26.79" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|15°30'56.98" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|11°8'53.20" |Virgo|Awwa|Venus|
+|☿ Mercury|Post-Retrograde Shadow|27°50'19.20" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|4°59'15.73" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°4'3.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°44'4.61" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°42'32.48" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°31'11.26" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|16°4'2.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°44'4.40" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°42'32.41" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°31'11.22" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|11°9'0.70" |Libra|Ghafr|Saturn|
 |☿ Mercury|Post-Retrograde Shadow|27°50'34.01" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|5°41'56.93" |Scorpio|Akleel|Mars|

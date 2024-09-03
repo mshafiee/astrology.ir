@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:24:57 |
 | Sunset | 18:38:36 |
 | Maghrib | 18:39:35 |
-| Isha (Night) | 19:51:04 |
+| Isha (Night) | 19:51:05 |
 | Sharia Midnight | 23:46:26 |
 | Imum Coeli | 00:24:46 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°2'51.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°45'35.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°51'47.55" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|15°46'15.45" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|11°27'58.34" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|28°10'14.87" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|8°51'44.54" |Libra|Ghafr|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|19°45'35.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°51'47.34" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|15°46'15.37" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|11°27'58.38" |Virgo|Awwa|Venus|
+|☿ Mercury|Post-Retrograde Shadow|28°10'14.71" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|8°52'43.64" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°2'51.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°45'34.86" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°51'47.47" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°46'15.41" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|11°27'58.25" |Libra|Ghafr|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|28°10'14.84" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|16°2'51.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°45'35.07" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°51'47.55" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°46'15.45" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|11°27'58.34" |Libra|Ghafr|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|28°10'14.87" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|8°51'44.54" |Scorpio|Qalb|Mars|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°10'47.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°35'19.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°49'54.13" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|14°5'42.22" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°21'20.14" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°6'49.72" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|17°25'29.47" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|16°10'47.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°35'18.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°49'51.20" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|14°5'52.29" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°21'28.37" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|26°6'57.40" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|18°41'44.87" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Saturn|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
+|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°10'47.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°35'18.81" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|16°10'47.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°35'18.61" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|0°49'51.28" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|14°5'52.33" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|9°21'28.46" |Libra|Ghafr|Moon|

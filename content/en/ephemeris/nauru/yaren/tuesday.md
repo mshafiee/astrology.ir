@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:06:18|Night duration: 11:53:21|
-|Every hour duration: 01:43:45|Every hour duration: 01:41:54|
+|Duration of the day: 12:06:18|Night duration: 11:53:22|
+|Every hour duration: 01:43:45|Every hour duration: 01:41:55|
 
  
  
@@ -276,12 +276,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|18:54:47|20:36:40|
-|Late evening|Jupiter|Servant|20:36:41|22:18:34|
-|Midnight|Mars|Servant|22:18:35|00:00:29|
-|Late at night|Sun|Servant|00:00:30|01:42:23|
-|Rooster song|Venus|Servant|01:42:24|03:24:18|
-|False Dawn|Mercury|Servant|03:24:19|05:06:12|
-|Dawn|Moon|Servant|05:06:13|06:48:07|
+|Late evening|Jupiter|Servant|20:36:41|22:18:35|
+|Midnight|Mars|Servant|22:18:36|00:00:29|
+|Late at night|Sun|Servant|00:00:30|01:42:24|
+|Rooster song|Venus|Servant|01:42:25|03:24:18|
+|False Dawn|Mercury|Servant|03:24:19|05:06:13|
+|Dawn|Moon|Servant|05:06:14|06:48:08|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°21'52.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°20'6.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°22'12.38" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°45'12.68" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|6°23'59.40" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°48'25.97" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|20°16'3.70" |Leo|Zubrah|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|19°20'7.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°22'15.72" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°45'7.24" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|6°23'54.24" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°48'22.48" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|19°38'8.74" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Jupiter|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}

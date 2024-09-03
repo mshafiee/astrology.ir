@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°25'2.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°15'36.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°57'2.75" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°5'7.91" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°33'21.60" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°16'59.22" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°8'7.17" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|16°25'2.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°15'36.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°57'4.13" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°4'56.27" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°33'12.84" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°16'48.61" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°57'13.64" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Jupiter|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°25'2.32" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Pre-Retrograde Shadow|19°15'36.24" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|28°57'2.75" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°5'7.91" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|5°33'21.60" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|23°16'59.22" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°8'7.17" |Virgo|Awwa|Venus|
+|♂ Mars|Direct|28°57'4.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°4'56.24" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|5°33'12.76" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°16'48.61" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°57'13.64" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

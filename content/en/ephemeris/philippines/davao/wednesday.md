@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:36:31 |
 | Sunset | 17:43:26 |
 | Maghrib | 17:44:20 |
-| Isha (Night) | 18:50:10 |
+| Isha (Night) | 18:50:09 |
 | Sharia Midnight | 23:00:59 |
 | Imum Coeli | 23:36:21 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°16'47.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°27'12.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°2'38.06" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|12°49'53.68" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°45'38.36" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°46'51.21" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°24'40.87" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|19°27'13.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°2'38.14" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|12°49'53.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°45'38.45" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°46'51.24" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°24'40.39" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°16'46.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°27'12.87" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°2'38.06" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°49'53.68" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|7°45'38.36" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°46'51.21" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°24'40.87" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|16°16'47.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°27'13.07" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°2'38.14" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°49'53.72" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|7°45'38.45" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°46'51.24" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°24'40.39" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

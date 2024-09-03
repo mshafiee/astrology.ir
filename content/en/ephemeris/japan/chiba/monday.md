@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 11:39:10 |
 | Sunset | 18:05:35 |
 | Maghrib | 18:25:05 |
-| Isha (Night) | 19:13:51 |
+| Isha (Night) | 19:13:52 |
 | Sharia Midnight | 22:55:16 |
 | Imum Coeli | 23:39:00 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°26'11.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°13'56.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°47'49.35" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|10°50'19.80" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°14'46.14" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|23°6'15.29" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°2'6.56" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|19°13'56.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°47'50.75" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|10°50'30.26" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°14'52.90" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|23°6'26.31" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°6'7.40" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:59:54|Night duration: 11:59:36|
+|Duration of the day: 11:59:54|Night duration: 11:59:37|
 |Every hour of day duration: 00:59:59|Every hour of night duration: 00:59:58|
 
  
@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|02:35:59|03:35:56|Heart tenderness|
 |10|Mars|Servant|03:35:57|04:35:54|Attracting misfortune, no task is suitable|
 |11|Sun|Servant|04:35:55|05:35:52|Attracting connection and suitors|
-|12|Venus|Servant|05:35:53|06:35:50|Hatred, corruption and creating negative energy for disruption|
+|12|Venus|Servant|05:35:53|06:35:51|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:59:54|Night duration: 11:59:36|
+|Duration of the day: 11:59:54|Night duration: 11:59:37|
 |Every hour duration: 01:42:51|Every hour duration: 01:42:48|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Sun|Servant|23:44:39|01:27:26|
 |Rooster song|Venus|Servant|01:27:27|03:10:14|
 |False Dawn|Mercury|Servant|03:10:15|04:53:02|
-|Dawn|Moon|Servant|04:53:03|06:35:50|
+|Dawn|Moon|Servant|04:53:03|06:35:51|
 
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°24'46.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°15'58.49" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|28°59'6.10" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°8'23.46" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|5°37'29.31" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|23°19'23.97" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|12°42'5.03" |Virgo|Awwa|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|19°15'58.39" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|28°59'5.73" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°8'23.39" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|5°37'29.42" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|23°19'23.71" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°41'36.80" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
