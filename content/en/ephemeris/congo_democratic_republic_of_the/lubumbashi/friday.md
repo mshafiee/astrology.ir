@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:06:56 |
-| Sunrise | 06:10:22 |
+| Sunrise | 06:10:21 |
 | Dhuhr (Noon) | 12:08:17 |
 | Medium Coeli | 12:08:17 |
 | Sunset | 18:06:22 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:45 |
-| Sunrise | 06:10:21 |
+| Sunrise | 06:10:22 |
 | Dhuhr (Noon) | 12:08:17 |
 | Medium Coeli | 12:08:17 |
 | Sunset | 18:06:22 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:52:38 |
-| Sunrise | 06:10:22 |
+| Sunrise | 06:10:21 |
 | Dhuhr (Noon) | 12:08:17 |
 | Medium Coeli | 12:08:17 |
 | Sunset | 18:06:22 |
@@ -210,24 +210,24 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:56:00|Night duration: 12:03:20|
+|Duration of the day: 11:56:01|Night duration: 12:03:20|
 |Every hour of day duration: 00:59:40|Every hour of night duration: 01:00:17|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:10:22|07:10:01|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:10:02|08:09:41|Attracting auspiciousness|
-|3|Moon|Servant|08:09:42|09:09:21|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:09:22|10:09:01|Unfortunate hour|
-|5|Jupiter|Servant|10:09:02|11:08:41|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:08:42|12:08:21|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:08:22|13:08:01|Promotion and attracting wealth|
-|8|Venus|Ruler|13:08:02|14:07:41|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|14:07:42|15:07:21|Causing separation and homelessness|
-|10|Moon|Servant|15:07:22|16:07:01|Extremely unfortunate|
-|11|Saturn|Servant|16:07:02|17:06:41|Creating an unfortunate horoscope for anyone|
-|12|Jupiter|Servant|17:06:42|18:06:21|Suitable for asking for a need|
+|1|Venus|Ruler|06:10:21|07:10:00|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:10:01|08:09:40|Attracting auspiciousness|
+|3|Moon|Servant|08:09:41|09:09:20|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:09:21|10:09:00|Unfortunate hour|
+|5|Jupiter|Servant|10:09:01|11:08:40|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:08:41|12:08:20|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:08:21|13:08:00|Promotion and attracting wealth|
+|8|Venus|Ruler|13:08:01|14:07:40|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|14:07:41|15:07:20|Causing separation and homelessness|
+|10|Moon|Servant|15:07:21|16:07:00|Extremely unfortunate|
+|11|Saturn|Servant|16:07:01|17:06:40|Creating an unfortunate horoscope for anyone|
+|12|Jupiter|Servant|17:06:41|18:06:21|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|

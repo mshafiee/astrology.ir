@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:26:18 |
-| Sunrise | 05:42:03 |
+| Sunrise | 05:42:04 |
 | Dhuhr (Noon) | 11:57:43 |
 | Medium Coeli | 11:57:43 |
 | Sunset | 18:13:02 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:38:26 |
-| Sunrise | 05:42:04 |
+| Sunrise | 05:42:03 |
 | Dhuhr (Noon) | 11:57:43 |
 | Medium Coeli | 11:57:43 |
 | Sunset | 18:13:02 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:22:41 |
-| Sunrise | 05:42:04 |
+| Sunrise | 05:42:03 |
 | Dhuhr (Noon) | 11:57:43 |
 | Medium Coeli | 11:57:43 |
 | Sunset | 18:13:02 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:30:59|Night duration: 11:29:19|
+|Duration of the day: 12:30:58|Night duration: 11:29:19|
 |Every hour duration: 01:47:17|Every hour duration: 01:38:28|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|05:42:03|07:29:19|
+|Early morning|Mercury|Ruler|05:42:04|07:29:19|
 |Mid-morning|Moon|Servant|07:29:20|09:16:36|
 |Late morning|Saturn|Servant|09:16:37|11:03:53|
 |Noon|Jupiter|Servant|11:03:54|12:51:10|

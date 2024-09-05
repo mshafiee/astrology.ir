@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 12:10:18|Night duration: 11:49:28|
-|Every hour of day duration: 01:00:52|Every hour of night duration: 00:59:07|
+|Every hour of day duration: 01:00:51|Every hour of night duration: 00:59:07|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°6'55.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°40'22.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°20'9.56" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|14°54'39.87" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|10°23'0.69" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|27°4'35.81" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|27°27'8.73" |Virgo|Simak|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°40'23.92" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°20'9.63" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|14°54'39.91" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|10°23'0.78" |Virgo|Awwa|Venus|
+|☿ Mercury|Post-Retrograde Shadow|27°4'35.84" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|27°27'9.39" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°6'55.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°40'23.92" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°20'9.63" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°54'39.91" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|10°23'0.78" |Libra|Ghafr|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|27°4'35.84" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|27°27'9.39" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|16°6'55.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°40'22.71" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°20'5.66" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°54'46.43" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|10°23'7.08" |Libra|Ghafr|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|27°4'39.75" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°28'50.49" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Moon|Saturn|Aquarius|Sun|Venus|
 |☿ Mercury|Mars|Jupiter|Gemini|Moon|Venus|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}

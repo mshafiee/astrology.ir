@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:49:23 |
 | Maghrib | 20:17:44 |
 | Isha (Night) | 21:51:24 |
-| Sharia Midnight | 23:45:22 |
+| Sharia Midnight | 23:45:23 |
 | Imum Coeli | 00:57:07 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°15'43.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°28'40.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°11'2.41" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|13°3'22.97" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|8°2'40.51" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°0'11.22" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°2'37.01" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|16°15'43.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°28'40.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°11'2.60" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|13°3'22.52" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|8°2'40.11" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|25°0'10.90" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°59'5.00" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°15'43.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°28'40.44" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°11'2.60" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°3'22.52" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|8°2'40.11" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°0'10.90" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°59'5.00" |Libra|Ghafr|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|19°28'40.39" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°11'2.41" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°3'22.97" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|8°2'40.51" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|25°0'11.22" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°2'37.01" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

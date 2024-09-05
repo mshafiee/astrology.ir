@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:32:16 |
 | Sunrise | 06:58:37 |
-| Dhuhr (Noon) | 12:44:51 |
-| Medium Coeli | 12:44:51 |
+| Dhuhr (Noon) | 12:44:50 |
+| Medium Coeli | 12:44:50 |
 | Sunset | 18:31:34 |
 | Maghrib | 18:32:39 |
 | Isha (Night) | 20:02:39 |
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|13°7'59.29" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|8°8'30.56" |Libra|Ghafr|Moon|
 |☿ Mercury|Post-Retrograde Shadow|25°4'49.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°51'22.76" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|6°43'52.58" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
