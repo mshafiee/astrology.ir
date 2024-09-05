@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ephemeris on آسترولوژی</title><link>https://astrology.ir/fa/categories/ephemeris/</link><description>Recent content in Ephemeris on آسترولوژی</description><generator>Hugo</generator><language>fa</language><lastBuildDate>Tue, 03 Sep 2024 01:00:22 +0000</lastBuildDate><atom:link href="https://astrology.ir/fa/categories/ephemeris/index.xml" rel="self" type="application/rss+xml"/><item><title>Ephemeris</title><link>https://astrology.ir/fa/ephemeris/</link><pubDate>Tue, 03 Sep 2024 01:00:22 +0000</pubDate><guid>https://astrology.ir/fa/ephemeris/</guid><description>برای دیدن گاهشمار اختری شهر مورد نظر خود، شهر را از روی نقشه انتخاب کنید.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ephemeris on آسترولوژی</title><link>https://astrology.ir/fa/categories/ephemeris/</link><description>Recent content in Ephemeris on آسترولوژی</description><generator>Hugo</generator><language>fa</language><lastBuildDate>Thu, 05 Sep 2024 01:00:32 +0000</lastBuildDate><atom:link href="https://astrology.ir/fa/categories/ephemeris/index.xml" rel="self" type="application/rss+xml"/><item><title>Ephemeris</title><link>https://astrology.ir/fa/ephemeris/</link><pubDate>Thu, 05 Sep 2024 01:00:32 +0000</pubDate><guid>https://astrology.ir/fa/ephemeris/</guid><description>&lt;p>برای دیدن گاهشمار اختری شهر مورد نظر خود، شهر را از روی نقشه انتخاب کنید.
+&lt;div class="shortcode shortcode-osm-world-maps">
+	&lt;link rel="stylesheet"
+			href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+			integrity="sha384-VzLXTJGPSyTLX6d96AxgkKvE/LRb7ECGyTxuwtpjHnVWVZs2gp5RDjeM/tgBnVdM"
+			crossorigin="anonymous"/>
+	&lt;script src="https://unpkg.com/jquery@3.6.0/dist/jquery.min.js"
+			integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK"
+			crossorigin="anonymous">&lt;/script>
+	&lt;script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+			integrity="sha384-RFZC58YeKApoNsIbBxf4z6JJXmh+geBSgkCQXFyh+4tiFSJmJBt+2FbjxW7Ar16M"
+			crossorigin="anonymous">&lt;/script>
+	&lt;div id="map" style='border: 1px solid #AAA; width:100%; height:500px'>&lt;/div>
+	&lt;script src='https://astrology.ir/js/fa-markers.js'>&lt;/script>
+	&lt;script src='https://astrology.ir/js/map.js'>&lt;/script>
+	
+	&lt;script>
+		let target = L.latLng('33', '53');
+		map.setView(target, 6);
+		&lt;/script>
+	
+&lt;/div>
+&lt;/p></description></item></channel></rss>
