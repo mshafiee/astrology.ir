@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:31:22 |
 | Maghrib | 18:32:30 |
 | Isha (Night) | 20:02:30 |
-| Sharia Midnight | 23:22:55 |
+| Sharia Midnight | 23:22:54 |
 | Imum Coeli | 00:09:21 |
 {{< /tab >}}
 
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°6'40.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°40'42.11" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°40'42.11" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|1°22'2.96" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|14°57'56.72" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|10°27'6.82" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|27°8'33.73" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|27°8'33.73" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|29°7'40.08" |Virgo|Simak|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°6'40.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°40'42.11" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°22'2.96" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°57'56.72" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|10°27'6.82" |Libra|Ghafr|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|27°8'33.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|29°7'40.08" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|19°40'42.19" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°22'3.24" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°57'56.80" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|10°27'6.74" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|27°8'33.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°6'24.86" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

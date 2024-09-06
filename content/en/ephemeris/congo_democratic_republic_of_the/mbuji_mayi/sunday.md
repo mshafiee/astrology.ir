@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:23:09 |
 | Medium Coeli | 12:23:09 |
 | Sunset | 18:24:07 |
-| Maghrib | 18:27:39 |
+| Maghrib | 18:27:40 |
 | Isha (Night) | 19:32:26 |
 | Sharia Midnight | 23:44:46 |
 | Imum Coeli | 00:22:59 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:23:09 |
 | Medium Coeli | 12:23:09 |
 | Sunset | 18:24:07 |
-| Maghrib | 18:27:39 |
+| Maghrib | 18:27:40 |
 | Isha (Night) | 19:34:27 |
 | Sharia Midnight | 23:47:47 |
 | Imum Coeli | 00:22:59 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°1'40.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°47'4.73" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°47'4.73" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°1'0.46" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|16°1'15.15" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|11°46'52.04" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|28°30'14.48" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|28°30'14.48" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|11°49'51.95" |Libra|Ghafr|Saturn|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°1'40.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°47'4.73" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°47'4.73" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|2°1'0.46" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°1'15.15" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|11°46'52.04" |Libra|Ghafr|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|28°30'14.48" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|28°30'14.48" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|11°49'51.95" |Scorpio|Qalb|Sun|
 
 

@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:42:46 |
+| Fajr (Dawn) | 04:42:47 |
 | Sunrise | 06:02:34 |
 | Dhuhr (Noon) | 12:18:38 |
 | Medium Coeli | 12:18:38 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°2'24.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°46'9.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°55'18.19" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|15°51'58.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|11°35'10.27" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|28°17'49.30" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|10°0'45.54" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|16°2'24.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°46'9.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°55'18.26" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|15°51'58.46" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|11°35'10.10" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|28°17'49.55" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|9°56'48.01" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°2'24.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°46'9.07" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°55'18.19" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°51'58.43" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|16°2'24.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°46'9.28" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°55'18.26" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°51'58.46" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|11°35'10.10" |Libra|Ghafr|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|28°17'49.55" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|28°17'49.55" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|9°56'48.01" |Scorpio|Qalb|Mars|
 
 

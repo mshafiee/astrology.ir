@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:15:58 |
 | Sunset | 18:29:05 |
 | Maghrib | 18:44:09 |
-| Isha (Night) | 19:28:58 |
+| Isha (Night) | 19:28:59 |
 | Sharia Midnight | 23:41:28 |
 | Imum Coeli | 00:15:47 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:15:58 |
 | Sunset | 18:29:05 |
 | Maghrib | 18:46:23 |
-| Isha (Night) | 19:28:58 |
+| Isha (Night) | 19:28:59 |
 | Sharia Midnight | 23:37:36 |
 | Imum Coeli | 00:15:47 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°57'31.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°52'13.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°33'13.85" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|19°52'13.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°33'13.83" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|16°53'53.53" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|12°53'7.25" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|29°43'21.73" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|22°34'50.83" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|29°43'21.72" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|22°34'56.81" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°57'31.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°52'13.74" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°52'13.74" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|2°33'13.85" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°53'53.53" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|12°53'7.25" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|29°43'21.73" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|29°43'21.73" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|22°34'50.83" |Scorpio|Shaulah|Venus|
 
 

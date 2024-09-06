@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°11'15.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°34'40.73" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°34'40.73" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°46'6.37" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|13°59'49.53" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|9°13'50.94" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°0'8.84" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|16°10'16.69" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°0'8.84" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|17°29'34.59" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Saturn|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°11'15.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°34'40.73" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°34'40.73" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|0°46'6.37" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|13°59'49.53" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|9°13'50.94" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°0'8.84" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|26°0'8.84" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|17°29'34.59" |Libra|Jubana|Saturn|
 
 

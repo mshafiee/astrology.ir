@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Mercury|Servant|19:09:59|20:07:42|Outer and inner journey|
 |3|Moon|Servant|20:07:43|21:05:26|Marriage connection is good|
 |4|Saturn|Servant|21:05:27|22:03:11|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:03:12|23:00:55|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Jupiter|Servant|22:03:12|23:00:55|Answering needs, attracting love and wealth|
 |6|Mars|Servant|23:00:56|23:58:39|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|23:58:40|00:56:23|Making promises|
 |8|Venus|Ruler|00:56:24|01:54:08|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°53'21.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°57'15.27" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°57'15.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°5'22.75" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|17°46'38.08" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|13°59'28.54" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|1°0'57.31" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|1°0'57.31" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|3°26'41.04" |Scorpio|Akleel|Mars|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°53'21.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°57'15.27" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°57'15.27" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|3°5'22.75" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|17°46'38.08" |Virgo|Simak|Venus|
 |♀ Venus|Direct|13°59'28.54" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|1°0'57.31" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|1°0'57.31" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|3°26'41.04" |Sagittarius|Shaulah|Mercury|
 
 

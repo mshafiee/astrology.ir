@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°58'15.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°51'19.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°51'19.63" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°27'32.09" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|16°44'34.02" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|12°41'23.34" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|29°30'5.11" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|19°50'58.17" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|29°30'5.11" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|20°39'37.14" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Aquarius|Moon|Venus|
 |♀ Venus|Saturn|Mars|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°58'15.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°51'20.37" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°51'20.37" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|2°27'34.52" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°44'27.70" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|12°41'17.85" |Libra|Ghafr|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|29°30'0.78" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|29°30'0.78" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|19°50'58.17" |Scorpio|Qalb|Sun|
 
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°57'4.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°52'46.68" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|19°52'46.68" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°36'42.78" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|16°59'35.14" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|13°0'17.73" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|29°51'32.66" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|23°42'47.91" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|29°51'18.40" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|23°39'53.93" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°57'4.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°52'46.68" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|2°36'40.69" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°59'35.22" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|13°0'18.70" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|29°51'31.87" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|24°0'1.09" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|19°52'46.68" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|2°36'42.78" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°59'35.14" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|13°0'17.73" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|29°51'32.66" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°39'53.93" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Mercury|Jupiter|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Jupiter|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

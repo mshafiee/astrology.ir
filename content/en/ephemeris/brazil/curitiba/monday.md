@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:20:21 |
 | Dhuhr (Noon) | 12:14:11 |
 | Medium Coeli | 12:14:11 |
-| Sunset | 18:08:23 |
+| Sunset | 18:08:24 |
 | Maghrib | 18:25:58 |
 | Isha (Night) | 19:08:04 |
-| Sharia Midnight | 23:35:49 |
+| Sharia Midnight | 23:35:50 |
 | Imum Coeli | 00:14:01 |
 {{< /tab >}}
 
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:48:02|Night duration: 12:10:53|
+|Duration of the day: 11:48:03|Night duration: 12:10:52|
 |Every hour duration: 01:41:09|Every hour duration: 01:44:25|
 
  
@@ -264,22 +264,22 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:20:21|08:01:28|
-|Mid-morning|Saturn|Servant|08:01:29|09:42:37|
-|Late morning|Jupiter|Servant|09:42:38|11:23:46|
-|Noon|Mars|Servant|11:23:47|13:04:55|
-|Early afternoon|Sun|Servant|13:04:56|14:46:04|
-|Mid-afternoon|Venus|Servant|14:46:05|16:27:13|
-|Late afternoon|Mercury|Servant|16:27:14|18:08:22|
+|Early morning|Moon|Ruler|06:20:21|08:01:29|
+|Mid-morning|Saturn|Servant|08:01:30|09:42:38|
+|Late morning|Jupiter|Servant|09:42:39|11:23:47|
+|Noon|Mars|Servant|11:23:48|13:04:56|
+|Early afternoon|Sun|Servant|13:04:57|14:46:05|
+|Mid-afternoon|Venus|Servant|14:46:06|16:27:14|
+|Late afternoon|Mercury|Servant|16:27:15|18:08:23|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|18:08:23|19:52:46|
-|Late evening|Mercury|Servant|19:52:47|21:37:11|
-|Midnight|Moon|Servant|21:37:12|23:21:36|
-|Late at night|Saturn|Servant|23:21:37|01:06:00|
-|Rooster song|Jupiter|Servant|01:06:01|02:50:25|
+|Evening|Venus|Ruler|18:08:24|19:52:47|
+|Late evening|Mercury|Servant|19:52:48|21:37:12|
+|Midnight|Moon|Servant|21:37:13|23:21:36|
+|Late at night|Saturn|Servant|23:21:37|01:06:01|
+|Rooster song|Jupiter|Servant|01:06:02|02:50:25|
 |False Dawn|Mars|Servant|02:50:26|04:34:50|
 |Dawn|Sun|Servant|04:34:51|06:19:15|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°51'32.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°59'25.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°19'28.52" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|18°9'51.86" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|14°28'42.96" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|1°36'24.08" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°30'36.97" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|15°51'32.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°59'25.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°19'29.91" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|18°9'50.48" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°28'41.38" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|1°36'23.46" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°14'34.95" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°51'32.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°59'25.38" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°19'29.83" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|18°9'50.45" |Virgo|Simak|Venus|
-|♀ Venus|Direct|14°28'41.30" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|1°36'23.43" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|8°14'34.77" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|19°59'25.60" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|3°19'29.91" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|18°9'50.48" |Virgo|Simak|Venus|
+|♀ Venus|Direct|14°28'41.38" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|1°36'23.46" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|8°14'34.95" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°7'17.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°39'55.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°17'21.75" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|14°50'8.74" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|10°17'18.35" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|26°59'4.04" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|26°38'0.63" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|19°39'54.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°17'17.73" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|14°50'14.58" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|10°17'24.29" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°59'7.32" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|27°35'45.23" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Taurus|Sun|Mars|
-|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°7'16.86" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°39'54.81" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°17'17.73" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°50'14.58" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|16°7'18.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°39'54.33" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°17'15.33" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°49'58.96" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|10°17'24.29" |Libra|Ghafr|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|26°59'7.32" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|26°59'7.32" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|27°35'45.23" |Libra|Akleel|Jupiter|
 
 

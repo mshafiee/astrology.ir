@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Sun|Servant|23:58:39|00:57:36|Making promises|
 |8|Venus|Ruler|00:57:37|01:56:34|Reconciliation of two persons, attracting love|
 |9|Mercury|Servant|01:56:35|02:55:31|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|02:55:32|03:54:29|Good for any task|
+|10|Moon|Servant|02:55:32|03:54:29|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Saturn|Servant|03:54:30|04:53:27|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Jupiter|Servant|04:53:28|05:52:25|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°53'54.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°56'35.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°1'7.52" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|17°39'38.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|13°50'40.67" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|0°50'25.81" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°59'1.99" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|19°56'34.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°1'0.50" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|17°39'23.91" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°50'33.76" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|0°50'11.16" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°6'23.08" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°53'54.86" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°56'35.80" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°56'35.80" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|3°1'7.52" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|17°39'38.26" |Virgo|Simak|Venus|
 |♀ Venus|Direct|13°50'40.67" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|0°50'10.09" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|2°0'16.46" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|0°50'25.81" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|1°59'1.99" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

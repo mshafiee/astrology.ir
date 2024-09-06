@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°9'29.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°37'0.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°59'54.92" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|14°22'0.99" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°41'59.66" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|26°25'31.26" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|20°56'33.61" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|19°37'1.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°59'59.76" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|14°22'15.06" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°42'7.42" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|26°25'46.03" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|21°58'47.27" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Saturn|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Saturn|Venus|Moon|
+|☾ Moon|Mars|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°9'29.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°37'1.36" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°37'1.36" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|0°59'59.76" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|14°22'15.06" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|9°42'7.42" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|26°25'46.03" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|26°25'46.03" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|21°58'47.27" |Libra|Jubana|Jupiter|
 
 

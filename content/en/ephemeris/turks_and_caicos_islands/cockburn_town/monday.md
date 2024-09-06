@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:52:58 |
 | Maghrib | 18:53:55 |
 | Isha (Night) | 20:23:55 |
-| Sharia Midnight | 00:02:38 |
+| Sharia Midnight | 00:02:39 |
 | Imum Coeli | 00:41:28 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°51'18.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°59'41.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°21'15.12" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|18°12'45.90" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|14°32'20.02" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|1°40'52.36" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°53'49.32" |Scorpio|Qalb|Mars|
+|♄ Saturn|Retrograde|15°51'18.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°59'42.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°21'17.95" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|18°12'33.62" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°32'10.20" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|1°40'43.32" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|7°51'22.01" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Aquarius|Moon|Venus|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°51'18.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°59'41.42" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°59'41.42" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|3°21'15.12" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|18°12'45.90" |Virgo|Simak|Venus|
 |♀ Venus|Direct|14°32'20.02" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|1°40'52.36" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|1°40'52.36" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|8°53'49.32" |Sagittarius|NaAaem|Mercury|
 
 

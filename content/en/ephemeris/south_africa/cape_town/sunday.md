@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:43:49 |
 | Sunset | 18:33:35 |
 | Maghrib | 18:34:40 |
-| Isha (Night) | 19:57:36 |
+| Isha (Night) | 19:57:37 |
 | Sharia Midnight | 00:01:25 |
 | Imum Coeli | 00:43:39 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°1'34.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|19°47'12.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°1'47.82" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|16°2'30.57" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|11°48'28.83" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|28°31'57.21" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|11°55'49.10" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|16°1'34.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°47'12.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°1'47.90" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|16°2'30.61" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|11°48'28.92" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|28°31'57.24" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|11°55'49.76" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°1'34.53" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|19°47'12.19" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|2°1'47.82" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°2'30.57" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|11°48'28.83" |Libra|Ghafr|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|28°31'57.21" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|11°55'49.10" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|16°1'34.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°47'10.33" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|2°1'40.61" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°2'26.11" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|11°48'28.96" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|28°31'50.27" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°25'0.35" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
