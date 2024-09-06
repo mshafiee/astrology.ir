@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saudi Arabia on Astrology</title><link>https://astrology.ir/tags/saudi-arabia/</link><description>Recent content in Saudi Arabia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/saudi-arabia/index.xml" rel="self" type="application/rss+xml"/><item><title>Mecca Tuesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/mecca/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/mecca/tuesday/</guid><description>&lt;h2 id="geographic-information-of-mecca">Geographic Information of Mecca&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saudi Arabia on Astrology</title><link>https://astrology.ir/tags/saudi-arabia/</link><description>Recent content in Saudi Arabia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/saudi-arabia/index.xml" rel="self" type="application/rss+xml"/><item><title>Mecca Wednesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/mecca/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/mecca/wednesday/</guid><description>&lt;h2 id="geographic-information-of-mecca">Geographic Information of Mecca&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 21.4266
+-
+Longitude: 39.8256
+-
+Altitude: 333.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Mecca, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('21.4266', '39.8256');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Wednesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/wednesday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 24.4686
+-
+Longitude: 39.6142
+-
+Altitude: 603.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('24.4686', '39.6142');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Riyadh Wednesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/riyadh/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/riyadh/wednesday/</guid><description>&lt;h2 id="geographic-information-of-riyadh">Geographic Information of Riyadh&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 24.6877
+-
+Longitude: 46.7219
+-
+Altitude: 612.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Riyadh, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('24.6877', '46.7219');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mecca Tuesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/mecca/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/mecca/tuesday/</guid><description>&lt;h2 id="geographic-information-of-mecca">Geographic Information of Mecca&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 21.4266
@@ -310,6 +388,32 @@ Altitude: 612.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mecca</title><link>https://astrology.ir/ephemeris/saudi_arabia/mecca/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/mecca/</guid><description>&lt;h2 id="geographic-information-of-mecca">Geographic Information of Mecca&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 21.4266
+-
+Longitude: 39.8256
+-
+Altitude: 333.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Mecca, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('21.4266', '39.8256');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mecca Friday</title><link>https://astrology.ir/ephemeris/saudi_arabia/mecca/friday/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/mecca/friday/</guid><description>&lt;h2 id="geographic-information-of-mecca">Geographic Information of Mecca&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -331,6 +435,32 @@ Altitude: 333.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('21.4266', '39.8256');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 24.4686
+-
+Longitude: 39.6142
+-
+Altitude: 603.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('24.4686', '39.6142');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -362,7 +492,7 @@ Altitude: 603.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Riyadh Friday</title><link>https://astrology.ir/ephemeris/saudi_arabia/riyadh/friday/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/riyadh/friday/</guid><description>&lt;h2 id="geographic-information-of-riyadh">Geographic Information of Riyadh&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Riyadh</title><link>https://astrology.ir/ephemeris/saudi_arabia/riyadh/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/riyadh/</guid><description>&lt;h2 id="geographic-information-of-riyadh">Geographic Information of Riyadh&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 24.6877
@@ -388,14 +518,14 @@ Altitude: 612.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mecca</title><link>https://astrology.ir/ephemeris/saudi_arabia/mecca/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/mecca/</guid><description>&lt;h2 id="geographic-information-of-mecca">Geographic Information of Mecca&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Riyadh Friday</title><link>https://astrology.ir/ephemeris/saudi_arabia/riyadh/friday/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/riyadh/friday/</guid><description>&lt;h2 id="geographic-information-of-riyadh">Geographic Information of Riyadh&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
-Latitude: 21.4266
+Latitude: 24.6877
 -
-Longitude: 39.8256
+Longitude: 46.7219
 -
-Altitude: 333.0000 meters&lt;/p>
+Altitude: 612.0000 meters&lt;/p>
 &lt;div class="shortcode shortcode-osm-maps">
 	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
 	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
@@ -405,10 +535,10 @@ Altitude: 333.0000 meters&lt;/p>
 		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
 		var map = L.map(element);
 		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mecca, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+			attribution: '&lt;div dir="ltr">Riyadh, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
-		var target = L.latLng('21.4266', '39.8256');
+		var target = L.latLng('24.6877', '46.7219');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -440,32 +570,6 @@ Altitude: 333.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Thursday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/thursday/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/thursday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -492,111 +596,7 @@ Altitude: 603.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Riyadh</title><link>https://astrology.ir/ephemeris/saudi_arabia/riyadh/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/riyadh/</guid><description>&lt;h2 id="geographic-information-of-riyadh">Geographic Information of Riyadh&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.6877
--
-Longitude: 46.7219
--
-Altitude: 612.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Riyadh, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.6877', '46.7219');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Riyadh Thursday</title><link>https://astrology.ir/ephemeris/saudi_arabia/riyadh/thursday/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/riyadh/thursday/</guid><description>&lt;h2 id="geographic-information-of-riyadh">Geographic Information of Riyadh&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.6877
--
-Longitude: 46.7219
--
-Altitude: 612.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Riyadh, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.6877', '46.7219');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mecca Wednesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/mecca/wednesday/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/mecca/wednesday/</guid><description>&lt;h2 id="geographic-information-of-mecca">Geographic Information of Mecca&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 21.4266
--
-Longitude: 39.8256
--
-Altitude: 333.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mecca, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('21.4266', '39.8256');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Wednesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/wednesday/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/wednesday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Riyadh Wednesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/riyadh/wednesday/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/riyadh/wednesday/</guid><description>&lt;h2 id="geographic-information-of-riyadh">Geographic Information of Riyadh&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 24.6877

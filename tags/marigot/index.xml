@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marigot on Astrology</title><link>https://astrology.ir/tags/marigot/</link><description>Recent content in Marigot on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Mon, 09 Sep 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/tags/marigot/index.xml" rel="self" type="application/rss+xml"/><item><title>Marigot Monday</title><link>https://astrology.ir/ephemeris/marigot/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/marigot/monday/</guid><description>&lt;h2 id="geographic-information-of-marigot">Geographic Information of Marigot&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marigot on Astrology</title><link>https://astrology.ir/tags/marigot/</link><description>Recent content in Marigot on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 10 Sep 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/tags/marigot/index.xml" rel="self" type="application/rss+xml"/><item><title>Marigot Tuesday</title><link>https://astrology.ir/ephemeris/marigot/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/marigot/tuesday/</guid><description>&lt;h2 id="geographic-information-of-marigot">Geographic Information of Marigot&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 18.0682
+-
+Longitude: -63.0830
+-
+Altitude: 9.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Marigot, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('18.0682', '-63.0830');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Marigot Monday</title><link>https://astrology.ir/ephemeris/marigot/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/marigot/monday/</guid><description>&lt;h2 id="geographic-information-of-marigot">Geographic Information of Marigot&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
 Latitude: 18.0682
@@ -102,6 +128,32 @@ Altitude: 9.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Marigot</title><link>https://astrology.ir/ephemeris/marigot/</link><pubDate>Thu, 05 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/marigot/</guid><description>&lt;h2 id="geographic-information-of-marigot">Geographic Information of Marigot&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 18.0682
+-
+Longitude: -63.0830
+-
+Altitude: 9.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Marigot, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('18.0682', '-63.0830');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Marigot Thursday</title><link>https://astrology.ir/ephemeris/marigot/thursday/</link><pubDate>Thu, 05 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/marigot/thursday/</guid><description>&lt;h2 id="geographic-information-of-marigot">Geographic Information of Marigot&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
@@ -128,59 +180,7 @@ Altitude: 9.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Marigot</title><link>https://astrology.ir/ephemeris/marigot/</link><pubDate>Wed, 04 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/marigot/</guid><description>&lt;h2 id="geographic-information-of-marigot">Geographic Information of Marigot&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0682
--
-Longitude: -63.0830
--
-Altitude: 9.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Marigot, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0682', '-63.0830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Marigot Wednesday</title><link>https://astrology.ir/ephemeris/marigot/wednesday/</link><pubDate>Wed, 04 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/marigot/wednesday/</guid><description>&lt;h2 id="geographic-information-of-marigot">Geographic Information of Marigot&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0682
--
-Longitude: -63.0830
--
-Altitude: 9.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Marigot, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0682', '-63.0830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Marigot Tuesday</title><link>https://astrology.ir/ephemeris/marigot/tuesday/</link><pubDate>Tue, 03 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/marigot/tuesday/</guid><description>&lt;h2 id="geographic-information-of-marigot">Geographic Information of Marigot&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
 Latitude: 18.0682

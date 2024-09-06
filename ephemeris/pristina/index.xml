@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pristina on Astrology</title><link>https://astrology.ir/ephemeris/pristina/</link><description>Recent content in Pristina on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/pristina/index.xml" rel="self" type="application/rss+xml"/><item><title>Pristina Tuesday</title><link>https://astrology.ir/ephemeris/pristina/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/pristina/tuesday/</guid><description>&lt;h2 id="geographic-information-of-pristina">Geographic Information of Pristina&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pristina on Astrology</title><link>https://astrology.ir/ephemeris/pristina/</link><description>Recent content in Pristina on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/pristina/index.xml" rel="self" type="application/rss+xml"/><item><title>Pristina Wednesday</title><link>https://astrology.ir/ephemeris/pristina/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/pristina/wednesday/</guid><description>&lt;h2 id="geographic-information-of-pristina">Geographic Information of Pristina&lt;/h2>
+&lt;p>TimeZone: +02:00
+-
+Latitude: 42.6727
+-
+Longitude: 21.1669
+-
+Altitude: 597.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Pristina, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('42.6727', '21.1669');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Pristina Tuesday</title><link>https://astrology.ir/ephemeris/pristina/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/pristina/tuesday/</guid><description>&lt;h2 id="geographic-information-of-pristina">Geographic Information of Pristina&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
 Latitude: 42.6727
@@ -129,32 +155,6 @@ Altitude: 597.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Pristina Thursday</title><link>https://astrology.ir/ephemeris/pristina/thursday/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/pristina/thursday/</guid><description>&lt;h2 id="geographic-information-of-pristina">Geographic Information of Pristina&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 42.6727
--
-Longitude: 21.1669
--
-Altitude: 597.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Pristina, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6727', '21.1669');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Pristina Wednesday</title><link>https://astrology.ir/ephemeris/pristina/wednesday/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/pristina/wednesday/</guid><description>&lt;h2 id="geographic-information-of-pristina">Geographic Information of Pristina&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
 Latitude: 42.6727
