@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kobe on Astrology</title><link>https://astrology.ir/tags/kobe/</link><description>Recent content in Kobe on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://astrology.ir/tags/kobe/index.xml" rel="self" type="application/rss+xml"/><item><title>Kobe Wednesday</title><link>https://astrology.ir/ephemeris/japan/kobe/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kobe on Astrology</title><link>https://astrology.ir/tags/kobe/</link><description>Recent content in Kobe on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://astrology.ir/tags/kobe/index.xml" rel="self" type="application/rss+xml"/><item><title>Kobe Friday</title><link>https://astrology.ir/ephemeris/japan/kobe/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/friday/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
+&lt;p>TimeZone: +09:00
+-
+Latitude: 34.6913
+-
+Longitude: 135.1830
+-
+Altitude: 35.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kobe, Japan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.6913', '135.1830');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kobe Thursday</title><link>https://astrology.ir/ephemeris/japan/kobe/thursday/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/thursday/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
+&lt;p>TimeZone: +09:00
+-
+Latitude: 34.6913
+-
+Longitude: 135.1830
+-
+Altitude: 35.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kobe, Japan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.6913', '135.1830');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kobe Wednesday</title><link>https://astrology.ir/ephemeris/japan/kobe/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
 &lt;p>TimeZone: +09:00
 -
 Latitude: 34.6913
@@ -76,6 +128,32 @@ Altitude: 35.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kobe</title><link>https://astrology.ir/ephemeris/japan/kobe/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
+&lt;p>TimeZone: +09:00
+-
+Latitude: 34.6913
+-
+Longitude: 135.1830
+-
+Altitude: 35.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kobe, Japan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.6913', '135.1830');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kobe Sunday</title><link>https://astrology.ir/ephemeris/japan/kobe/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/sunday/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
 &lt;p>TimeZone: +09:00
 -
@@ -103,84 +181,6 @@ Altitude: 35.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kobe Saturday</title><link>https://astrology.ir/ephemeris/japan/kobe/saturday/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/saturday/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 34.6913
--
-Longitude: 135.1830
--
-Altitude: 35.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kobe, Japan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.6913', '135.1830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kobe</title><link>https://astrology.ir/ephemeris/japan/kobe/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 34.6913
--
-Longitude: 135.1830
--
-Altitude: 35.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kobe, Japan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.6913', '135.1830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kobe Friday</title><link>https://astrology.ir/ephemeris/japan/kobe/friday/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/friday/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 34.6913
--
-Longitude: 135.1830
--
-Altitude: 35.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kobe, Japan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.6913', '135.1830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kobe Thursday</title><link>https://astrology.ir/ephemeris/japan/kobe/thursday/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/kobe/thursday/</guid><description>&lt;h2 id="geographic-information-of-kobe">Geographic Information of Kobe&lt;/h2>
 &lt;p>TimeZone: +09:00
 -
 Latitude: 34.6913

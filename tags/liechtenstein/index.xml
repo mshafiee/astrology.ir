@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Liechtenstein on Astrology</title><link>https://astrology.ir/tags/liechtenstein/</link><description>Recent content in Liechtenstein on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/liechtenstein/index.xml" rel="self" type="application/rss+xml"/><item><title>Vaduz Wednesday</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/wednesday/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Liechtenstein on Astrology</title><link>https://astrology.ir/tags/liechtenstein/</link><description>Recent content in Liechtenstein on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/liechtenstein/index.xml" rel="self" type="application/rss+xml"/><item><title>Vaduz Friday</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/friday/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
+&lt;p>TimeZone: +02:00
+-
+Latitude: 47.1415
+-
+Longitude: 9.5215
+-
+Altitude: 465.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Vaduz, Liechtenstein | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('47.1415', '9.5215');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Vaduz Thursday</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/thursday/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/thursday/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
+&lt;p>TimeZone: +02:00
+-
+Latitude: 47.1415
+-
+Longitude: 9.5215
+-
+Altitude: 465.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Vaduz, Liechtenstein | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('47.1415', '9.5215');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Vaduz Wednesday</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/wednesday/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
 Latitude: 47.1415
@@ -76,6 +128,32 @@ Altitude: 465.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Vaduz</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
+&lt;p>TimeZone: +02:00
+-
+Latitude: 47.1415
+-
+Longitude: 9.5215
+-
+Altitude: 465.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Vaduz, Liechtenstein | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('47.1415', '9.5215');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Vaduz Sunday</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/sunday/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
@@ -103,84 +181,6 @@ Altitude: 465.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Vaduz Saturday</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/saturday/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/saturday/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 47.1415
--
-Longitude: 9.5215
--
-Altitude: 465.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Vaduz, Liechtenstein | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('47.1415', '9.5215');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Vaduz</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 47.1415
--
-Longitude: 9.5215
--
-Altitude: 465.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Vaduz, Liechtenstein | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('47.1415', '9.5215');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Vaduz Friday</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/friday/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/friday/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 47.1415
--
-Longitude: 9.5215
--
-Altitude: 465.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Vaduz, Liechtenstein | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('47.1415', '9.5215');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Vaduz Thursday</title><link>https://astrology.ir/ephemeris/liechtenstein/vaduz/thursday/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/liechtenstein/vaduz/thursday/</guid><description>&lt;h2 id="geographic-information-of-vaduz">Geographic Information of Vaduz&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
 Latitude: 47.1415
