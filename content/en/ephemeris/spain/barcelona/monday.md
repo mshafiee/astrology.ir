@@ -232,7 +232,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|20:10:30|21:06:50|Repelling magic, attracting discharged energy|
+|1|Venus|Ruler|20:10:30|21:06:50|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mercury|Servant|21:06:51|22:03:12|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Moon|Servant|22:03:13|22:59:33|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|22:59:34|23:55:55|The moon is in Scorpio, Not suitable for doing anything.|

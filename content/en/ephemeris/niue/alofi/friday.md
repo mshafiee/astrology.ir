@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°3'47.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°44'23.40" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°44'30.77" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|15°34'16.16" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|11°13'3.37" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|27°54'38.07" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|5°30'28.02" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|16°3'47.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°44'23.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°44'31.15" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|15°34'16.22" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|11°13'3.34" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|27°54'38.26" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|5°28'32.99" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|16°3'47.36" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|19°44'24.62" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°44'34.91" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°34'16.16" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|11°13'3.37" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|27°54'38.07" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°30'28.02" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|1°44'31.15" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°34'16.22" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|11°13'3.34" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|27°54'38.26" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°21'32.58" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Mercury|Jupiter|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

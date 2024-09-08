@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:18:52 |
+| Fajr (Dawn) | 05:18:51 |
 | Sunrise | 06:22:16 |
 | Dhuhr (Noon) | 12:29:48 |
 | Medium Coeli | 12:29:48 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|20°4'59.29" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|3°56'22.03" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|19°10'46.78" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|15°45'15.62" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|3°12'40.54" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°18'35.98" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|15°45'15.29" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|3°12'40.64" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°13'24.22" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|19°10'46.78" |Virgo|Simak|Venus|
 |♀ Venus|Direct|15°45'15.29" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|3°12'40.64" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|21°18'35.98" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|21°13'24.22" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

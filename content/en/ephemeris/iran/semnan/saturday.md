@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:54:19 |
 | Medium Coeli | 11:54:19 |
 | Sunset | 18:14:36 |
-| Maghrib | 18:19:50 |
+| Maghrib | 18:19:51 |
 | Isha (Night) | 19:38:09 |
 | Sharia Midnight | 23:09:58 |
 | Imum Coeli | 23:54:09 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 11:54:19 |
 | Medium Coeli | 11:54:19 |
 | Sunset | 18:14:36 |
-| Maghrib | 18:19:50 |
+| Maghrib | 18:19:51 |
 | Isha (Night) | 19:43:25 |
 | Sharia Midnight | 23:09:58 |
 | Imum Coeli | 23:54:09 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|19°40'38.53" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|1°21'42.53" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|14°57'23.75" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|10°26'24.89" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|27°7'53.43" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|28°56'24.84" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°26'25.19" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|27°7'53.31" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°0'3.81" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°52'38.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|15°52'38.29" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|19°58'7.19" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°10'59.00" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|17°55'46.95" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|14°11'4.26" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|1°14'50.00" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|6°4'6.65" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|17°55'50.41" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°11'3.83" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|1°14'55.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°20'18.73" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°52'38.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°58'7.19" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°10'59.00" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°55'46.95" |Virgo|Simak|Venus|
-|♀ Venus|Direct|14°11'4.26" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|1°14'50.00" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°4'6.65" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|15°52'38.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°58'6.97" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|3°10'58.92" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°55'50.37" |Virgo|Simak|Venus|
+|♀ Venus|Direct|14°11'3.75" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|1°14'55.27" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|5°20'18.73" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

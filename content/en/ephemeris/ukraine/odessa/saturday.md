@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:38:51 |
 | Sunrise | 06:24:49 |
-| Dhuhr (Noon) | 12:54:54 |
-| Medium Coeli | 12:54:54 |
+| Dhuhr (Noon) | 12:54:53 |
+| Medium Coeli | 12:54:53 |
 | Sunset | 19:24:05 |
 | Maghrib | 19:47:06 |
 | Isha (Night) | 20:45:27 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:56:39 |
 | Sunrise | 06:24:49 |
-| Dhuhr (Noon) | 12:54:54 |
-| Medium Coeli | 12:54:54 |
+| Dhuhr (Noon) | 12:54:53 |
+| Medium Coeli | 12:54:53 |
 | Sunset | 19:24:05 |
 | Maghrib | 19:25:23 |
 | Isha (Night) | 20:51:52 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:36:50 |
 | Sunrise | 06:24:49 |
-| Dhuhr (Noon) | 12:54:54 |
-| Medium Coeli | 12:54:54 |
+| Dhuhr (Noon) | 12:54:53 |
+| Medium Coeli | 12:54:53 |
 | Sunset | 19:24:05 |
 | Maghrib | 19:25:23 |
 | Isha (Night) | 21:11:33 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|15°0'40.65" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|10°30'33.71" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|27°11'56.35" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|29°40'12.82" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|29°38'36.00" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

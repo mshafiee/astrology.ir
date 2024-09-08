@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:59:42 |
 | Maghrib | 18:03:52 |
 | Isha (Night) | 19:08:10 |
-| Sharia Midnight | 23:19:44 |
+| Sharia Midnight | 23:19:43 |
 | Imum Coeli | 23:58:00 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°6'21.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°41'6.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°24'32.00" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|15°1'57.90" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|10°32'11.07" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|27°13'32.11" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|29°53'44.68" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|16°6'21.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°41'6.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°24'31.92" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|15°1'57.86" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|10°32'10.98" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|27°13'32.07" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°53'44.00" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|16°6'21.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°41'6.85" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°24'32.00" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°1'57.90" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|10°32'11.07" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|27°13'32.11" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|29°34'35.32" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|16°6'21.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|19°41'6.64" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°24'31.92" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°1'57.86" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|10°32'10.98" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|27°13'32.07" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°53'44.00" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
