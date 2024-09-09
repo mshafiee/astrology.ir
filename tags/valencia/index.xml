@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Valencia on Astrology</title><link>https://astrology.ir/tags/valencia/</link><description>Recent content in Valencia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/valencia/index.xml" rel="self" type="application/rss+xml"/><item><title>Valencia Friday</title><link>https://astrology.ir/ephemeris/spain/valencia/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/spain/valencia/friday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Valencia on Astrology</title><link>https://astrology.ir/tags/valencia/</link><description>Recent content in Valencia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/valencia/index.xml" rel="self" type="application/rss+xml"/><item><title>Valencia Saturday</title><link>https://astrology.ir/ephemeris/spain/valencia/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/spain/valencia/saturday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
+&lt;p>TimeZone: +02:00
+-
+Latitude: 39.4697
+-
+Longitude: -0.3774
+-
+Altitude: 23.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Valencia, Spain | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.4697', '-0.3774');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia Friday</title><link>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/friday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 10.1620
+-
+Longitude: -68.0076
+-
+Altitude: 457.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Valencia, Venezuela, Bolivarian Rep. of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.1620', '-68.0076');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia Friday</title><link>https://astrology.ir/ephemeris/spain/valencia/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/spain/valencia/friday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
 Latitude: 39.4697
@@ -206,6 +258,32 @@ Altitude: 457.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia</title><link>https://astrology.ir/ephemeris/spain/valencia/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/spain/valencia/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
+&lt;p>TimeZone: +02:00
+-
+Latitude: 39.4697
+-
+Longitude: -0.3774
+-
+Altitude: 23.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Valencia, Spain | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.4697', '-0.3774');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia Monday</title><link>https://astrology.ir/ephemeris/spain/valencia/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/spain/valencia/monday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
@@ -227,6 +305,32 @@ Altitude: 23.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('39.4697', '-0.3774');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia</title><link>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/</link><pubDate>Sun, 08 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 10.1620
+-
+Longitude: -68.0076
+-
+Altitude: 457.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Valencia, Venezuela, Bolivarian Rep. of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.1620', '-68.0076');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -258,32 +362,6 @@ Altitude: 457.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia</title><link>https://astrology.ir/ephemeris/spain/valencia/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/spain/valencia/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 39.4697
--
-Longitude: -0.3774
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Valencia, Spain | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.4697', '-0.3774');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia Sunday</title><link>https://astrology.ir/ephemeris/spain/valencia/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/spain/valencia/sunday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
@@ -310,85 +388,7 @@ Altitude: 23.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia</title><link>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/</link><pubDate>Sat, 07 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 10.1620
--
-Longitude: -68.0076
--
-Altitude: 457.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Valencia, Venezuela, Bolivarian Rep. of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.1620', '-68.0076');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia Saturday</title><link>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/saturday/</link><pubDate>Sat, 07 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/saturday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 10.1620
--
-Longitude: -68.0076
--
-Altitude: 457.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Valencia, Venezuela, Bolivarian Rep. of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.1620', '-68.0076');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia Saturday</title><link>https://astrology.ir/ephemeris/spain/valencia/saturday/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/spain/valencia/saturday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 39.4697
--
-Longitude: -0.3774
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Valencia, Spain | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.4697', '-0.3774');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Valencia Friday</title><link>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/friday/</link><pubDate>Fri, 06 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/venezuela_bolivarian_rep__of/valencia/friday/</guid><description>&lt;h2 id="geographic-information-of-valencia">Geographic Information of Valencia&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
 Latitude: 10.1620

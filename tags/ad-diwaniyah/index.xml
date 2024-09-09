@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ad Diwaniyah on Astrology</title><link>https://astrology.ir/tags/ad-diwaniyah/</link><description>Recent content in Ad Diwaniyah on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/ad-diwaniyah/index.xml" rel="self" type="application/rss+xml"/><item><title>Ad Diwaniyah Friday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/friday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ad Diwaniyah on Astrology</title><link>https://astrology.ir/tags/ad-diwaniyah/</link><description>Recent content in Ad Diwaniyah on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/ad-diwaniyah/index.xml" rel="self" type="application/rss+xml"/><item><title>Ad Diwaniyah Saturday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/saturday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 31.9929
+-
+Longitude: 44.9255
+-
+Altitude: 25.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ad Diwaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.9929', '44.9255');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah Friday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/friday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 31.9929
@@ -102,6 +128,32 @@ Altitude: 25.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 31.9929
+-
+Longitude: 44.9255
+-
+Altitude: 25.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ad Diwaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.9929', '44.9255');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah Monday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/monday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -128,59 +180,7 @@ Altitude: 25.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 31.9929
--
-Longitude: 44.9255
--
-Altitude: 25.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ad Diwaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.9929', '44.9255');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah Sunday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/sunday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 31.9929
--
-Longitude: 44.9255
--
-Altitude: 25.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ad Diwaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.9929', '44.9255');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah Saturday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/saturday/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/saturday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 31.9929

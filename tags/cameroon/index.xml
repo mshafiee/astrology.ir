@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cameroon on Astrology</title><link>https://astrology.ir/tags/cameroon/</link><description>Recent content in Cameroon on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/cameroon/index.xml" rel="self" type="application/rss+xml"/><item><title>Douala Friday</title><link>https://astrology.ir/ephemeris/cameroon/douala/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/douala/friday/</guid><description>&lt;h2 id="geographic-information-of-douala">Geographic Information of Douala&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cameroon on Astrology</title><link>https://astrology.ir/tags/cameroon/</link><description>Recent content in Cameroon on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/cameroon/index.xml" rel="self" type="application/rss+xml"/><item><title>Douala Saturday</title><link>https://astrology.ir/ephemeris/cameroon/douala/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/douala/saturday/</guid><description>&lt;h2 id="geographic-information-of-douala">Geographic Information of Douala&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 4.0483
+-
+Longitude: 9.7043
+-
+Altitude: 19.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Douala, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('4.0483', '9.7043');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Saturday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/saturday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 3.8667
+-
+Longitude: 11.5167
+-
+Altitude: 726.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.8667', '11.5167');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Douala Friday</title><link>https://astrology.ir/ephemeris/cameroon/douala/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/douala/friday/</guid><description>&lt;h2 id="geographic-information-of-douala">Geographic Information of Douala&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 4.0483
@@ -206,6 +258,32 @@ Altitude: 726.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Douala</title><link>https://astrology.ir/ephemeris/cameroon/douala/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/douala/</guid><description>&lt;h2 id="geographic-information-of-douala">Geographic Information of Douala&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 4.0483
+-
+Longitude: 9.7043
+-
+Altitude: 19.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Douala, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('4.0483', '9.7043');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Douala Monday</title><link>https://astrology.ir/ephemeris/cameroon/douala/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/douala/monday/</guid><description>&lt;h2 id="geographic-information-of-douala">Geographic Information of Douala&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -227,6 +305,32 @@ Altitude: 19.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('4.0483', '9.7043');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 3.8667
+-
+Longitude: 11.5167
+-
+Altitude: 726.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.8667', '11.5167');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -258,32 +362,6 @@ Altitude: 726.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Douala</title><link>https://astrology.ir/ephemeris/cameroon/douala/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/douala/</guid><description>&lt;h2 id="geographic-information-of-douala">Geographic Information of Douala&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 4.0483
--
-Longitude: 9.7043
--
-Altitude: 19.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Douala, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('4.0483', '9.7043');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Douala Sunday</title><link>https://astrology.ir/ephemeris/cameroon/douala/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/douala/sunday/</guid><description>&lt;h2 id="geographic-information-of-douala">Geographic Information of Douala&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -310,85 +388,7 @@ Altitude: 19.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Sunday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/sunday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Douala Saturday</title><link>https://astrology.ir/ephemeris/cameroon/douala/saturday/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/douala/saturday/</guid><description>&lt;h2 id="geographic-information-of-douala">Geographic Information of Douala&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 4.0483
--
-Longitude: 9.7043
--
-Altitude: 19.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Douala, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('4.0483', '9.7043');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Saturday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/saturday/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/saturday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 3.8667
