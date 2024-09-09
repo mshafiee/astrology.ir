@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:00:23 |
 | Medium Coeli | 12:00:23 |
 | Sunset | 18:14:51 |
-| Maghrib | 18:15:51 |
+| Maghrib | 18:15:50 |
 | Isha (Night) | 19:29:08 |
 | Sharia Midnight | 23:20:55 |
 | Imum Coeli | 00:00:13 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:00:23 |
 | Medium Coeli | 12:00:23 |
 | Sunset | 18:14:51 |
-| Maghrib | 18:15:51 |
+| Maghrib | 18:15:50 |
 | Isha (Night) | 19:19:56 |
 | Sharia Midnight | 23:27:50 |
 | Imum Coeli | 00:00:13 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:00:23 |
 | Sunset | 18:14:51 |
 | Maghrib | 18:15:51 |
-| Isha (Night) | 19:45:51 |
+| Isha (Night) | 19:45:50 |
 | Sharia Midnight | 23:19:46 |
 | Imum Coeli | 00:00:13 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°58'20.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°51'13.40" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°26'53.04" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|16°43'30.46" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°40'3.10" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|29°28'34.91" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|20°27'40.20" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|15°58'20.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°51'13.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°26'52.96" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|16°43'30.42" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°40'3.01" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|29°28'34.88" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|20°27'39.69" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°58'20.44" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|15°58'20.24" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|19°51'13.40" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|2°26'53.04" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°43'30.46" |Virgo|Awwa|Venus|

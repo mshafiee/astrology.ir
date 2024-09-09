@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°43'18.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°8'51.43" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°22'40.65" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|19°54'26.71" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|16°40'6.53" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|4°24'24.07" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°44'31.92" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|15°43'18.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°8'51.65" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°22'40.72" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|19°54'19.93" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°39'59.97" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|4°24'20.05" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°1'5.09" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -325,7 +325,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♂ Mars|Moon|Mars|Cancer|Sun|Mercury|
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
-|♀ Venus|Jupiter|Mercury|Pisces|Sun|Moon|
+|♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Venus|Venus|Virgo|Sun|Sun|
 |☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°43'18.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°8'51.43" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°22'40.65" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°54'26.71" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|15°43'18.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°8'53.06" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°22'44.98" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°54'19.93" |Virgo|Simak|Venus|
 |♀ Venus|Direct|16°39'59.97" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|4°24'20.05" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|0°1'5.09" |Capricorn|SaadAlDhabib|Jupiter|

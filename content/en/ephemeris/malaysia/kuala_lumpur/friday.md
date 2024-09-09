@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:26:52 |
 | Isha (Night) | 20:07:01 |
 | Sharia Midnight | 00:38:02 |
-| Imum Coeli | 01:08:54 |
+| Imum Coeli | 01:08:55 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:28:53 |
 | Isha (Night) | 20:07:01 |
 | Sharia Midnight | 00:34:37 |
-| Imum Coeli | 01:08:54 |
+| Imum Coeli | 01:08:55 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:14:17 |
 | Isha (Night) | 20:19:04 |
 | Sharia Midnight | 00:34:01 |
-| Imum Coeli | 01:08:54 |
+| Imum Coeli | 01:08:55 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°35'10.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°17'42.05" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°24'56.32" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|21°38'27.56" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°50'39.12" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|7°22'51.18" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|24°22'12.35" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|20°17'41.99" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°24'56.08" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|21°38'27.47" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°50'39.16" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|7°22'51.04" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|24°24'13.91" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

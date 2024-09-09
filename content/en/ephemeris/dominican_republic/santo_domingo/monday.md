@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:20:28|Night duration: 11:39:42|
+|Duration of the day: 12:20:28|Night duration: 11:39:41|
 |Every hour duration: 01:45:47|Every hour duration: 01:39:57|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Venus|Ruler|18:46:45|20:26:41|
 |Late evening|Mercury|Servant|20:26:42|22:06:38|
-|Midnight|Moon|Servant|22:06:39|23:46:36|
-|Late at night|Saturn|Servant|23:46:37|01:26:33|
-|Rooster song|Jupiter|Servant|01:26:34|03:06:31|
-|False Dawn|Mars|Servant|03:06:32|04:46:28|
-|Dawn|Sun|Servant|04:46:29|06:26:26|
+|Midnight|Moon|Servant|22:06:39|23:46:35|
+|Late at night|Saturn|Servant|23:46:36|01:26:33|
+|Rooster song|Jupiter|Servant|01:26:34|03:06:30|
+|False Dawn|Mars|Servant|03:06:31|04:46:27|
+|Dawn|Sun|Servant|04:46:28|06:26:25|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°51'19.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°59'40.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°21'9.64" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|18°12'36.64" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|14°32'8.40" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|1°40'38.07" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°51'14.28" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Direct|19°59'40.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°21'8.71" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|18°12'36.55" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°32'8.75" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|1°40'37.65" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°59'10.32" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|18°12'36.63" |Virgo|Simak|Venus|
 |♀ Venus|Direct|14°32'8.43" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|1°40'38.04" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|8°51'51.51" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|8°59'10.16" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

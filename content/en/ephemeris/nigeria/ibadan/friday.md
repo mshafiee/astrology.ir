@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:45:16 |
 | Maghrib | 18:47:09 |
 | Isha (Night) | 19:55:40 |
-| Sharia Midnight | 00:04:46 |
+| Sharia Midnight | 00:04:47 |
 | Imum Coeli | 00:39:56 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°38'30.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°14'8.82" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°59'31.00" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|20°55'53.05" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|17°57'14.25" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|6°8'37.82" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|14°34'1.81" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|20°14'8.94" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°59'31.38" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|20°55'52.93" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|17°57'14.00" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|6°8'37.84" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|14°30'56.15" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

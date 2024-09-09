@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:06:53 |
 | Medium Coeli | 12:06:53 |
 | Sunset | 18:00:00 |
-| Maghrib | 18:18:24 |
+| Maghrib | 18:18:25 |
 | Isha (Night) | 19:02:01 |
 | Sharia Midnight | 23:27:01 |
 | Imum Coeli | 00:06:43 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°52'30.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|15°52'30.64" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|19°58'16.52" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°11'59.58" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|17°57'28.62" |Leo|Zubrah|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°52'30.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°58'17.51" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°12'3.31" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°57'28.58" |Virgo|Simak|Venus|
-|♀ Venus|Direct|14°13'8.74" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|1°17'28.94" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|5°10'9.37" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|19°58'16.18" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|3°11'58.93" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°57'31.72" |Virgo|Simak|Venus|
+|♀ Venus|Direct|14°13'11.28" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|1°17'28.66" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|5°53'6.03" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:36:28 |
 | Sunrise | 06:40:20 |
-| Dhuhr (Noon) | 12:48:21 |
-| Medium Coeli | 12:48:21 |
+| Dhuhr (Noon) | 12:48:22 |
+| Medium Coeli | 12:48:22 |
 | Sunset | 18:56:11 |
 | Maghrib | 19:10:15 |
 | Isha (Night) | 19:51:41 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:40:38 |
 | Sunrise | 06:40:20 |
-| Dhuhr (Noon) | 12:48:21 |
-| Medium Coeli | 12:48:21 |
+| Dhuhr (Noon) | 12:48:22 |
+| Medium Coeli | 12:48:22 |
 | Sunset | 18:56:11 |
 | Maghrib | 18:58:14 |
 | Isha (Night) | 19:55:50 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:21:52 |
 | Sunrise | 06:40:20 |
-| Dhuhr (Noon) | 12:48:21 |
-| Medium Coeli | 12:48:21 |
+| Dhuhr (Noon) | 12:48:22 |
+| Medium Coeli | 12:48:22 |
 | Sunset | 18:56:11 |
 | Maghrib | 18:58:14 |
 | Isha (Night) | 20:06:14 |
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°52'13.79" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|19°58'36.13" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°14'6.76" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|18°1'1.16" |Virgo|Simak|Venus|
-|♀ Venus|Direct|14°17'34.31" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|1°22'48.68" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|3°14'7.42" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|18°1'1.21" |Virgo|Simak|Venus|
+|♀ Venus|Direct|14°17'34.05" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|1°22'48.98" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|6°26'13.55" |Sagittarius|NaAaem|Mercury|
 
 

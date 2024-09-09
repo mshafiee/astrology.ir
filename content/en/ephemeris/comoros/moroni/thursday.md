@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:02:58|07:02:59|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Jupiter|Ruler|06:02:58|07:02:59|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|07:03:00|08:03:01|Destruction of enemies|
 |3|Sun|Servant|08:03:02|09:03:03|Attraction of financial and emotional love|
 |4|Venus|Servant|09:03:04|10:03:06|Creating love, connection and marriage|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°43'33.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°8'36.13" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°20'51.03" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|19°51'18.57" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|16°36'9.92" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|4°19'12.97" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|29°39'30.25" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|15°43'33.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°8'35.35" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°20'48.29" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|19°51'18.95" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°36'11.42" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|4°19'12.36" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°4'36.53" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Sun|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Venus|Venus|Virgo|Sun|Sun|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}

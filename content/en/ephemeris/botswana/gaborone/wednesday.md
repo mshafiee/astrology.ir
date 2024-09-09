@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|02:13:47|03:14:25|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mercury|Servant|03:14:26|04:15:04|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Moon|Servant|04:15:05|05:15:43|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Saturn|Servant|05:15:44|06:16:23|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Saturn|Servant|05:15:44|06:16:23|Creating evil and hatred|
 
  
  
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|15°47'54.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|20°3'39.28" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°47'25.70" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|18°55'57.17" |Virgo|Simak|Venus|
-|♀ Venus|Direct|15°26'39.15" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|2°48'51.07" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|18°2'53.30" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|18°55'57.14" |Virgo|Simak|Venus|
+|♀ Venus|Direct|15°26'39.07" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|2°48'51.04" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|18°2'53.26" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

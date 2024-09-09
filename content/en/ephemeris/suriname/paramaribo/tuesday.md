@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:42:42 |
 | Maghrib | 18:43:35 |
 | Isha (Night) | 19:40:47 |
-| Sharia Midnight | 00:08:13 |
+| Sharia Midnight | 00:08:14 |
 | Imum Coeli | 00:37:14 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°46'53.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°4'46.42" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|3°55'0.59" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|19°8'34.83" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|15°42'38.08" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|3°9'12.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°38'9.08" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|20°4'48.06" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|3°55'7.93" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|19°8'43.98" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|15°42'41.09" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|3°9'22.31" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°47'4.10" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Sun|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°46'54.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|15°46'53.99" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|20°4'48.06" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°55'7.93" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|19°8'43.98" |Virgo|Simak|Venus|
-|♀ Venus|Direct|15°42'41.09" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|3°9'22.31" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|20°47'4.10" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°42'41.17" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|3°9'22.33" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°47'4.09" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
