@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°38'56.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°13'40.55" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°56'10.55" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|20°50'16.62" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|17°50'12.48" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|5°58'59.32" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|13°13'15.43" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|20°13'39.67" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°56'7.75" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|20°50'16.71" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|17°50'13.80" |Virgo|Simak|Venus|
+|☿ Mercury|Post-Retrograde Shadow|5°58'58.39" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|13°39'31.83" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Sun|
-|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°38'56.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°13'40.65" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°56'10.93" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°50'16.65" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|17°50'12.33" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|5°58'59.32" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|13°13'15.43" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|20°13'39.67" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°56'7.75" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°50'16.71" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|17°50'13.80" |Libra|Jubana|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|5°58'58.39" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|13°16'33.71" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

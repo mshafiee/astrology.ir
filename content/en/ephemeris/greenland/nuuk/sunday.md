@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:10:44 |
+| Fajr (Dawn) | 03:10:45 |
 | Sunrise | 07:30:40 |
 | Dhuhr (Noon) | 14:24:20 |
 | Medium Coeli | 14:24:20 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°56'16.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|19°53'44.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°42'53.16" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|17°9'41.24" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|13°13'1.26" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|0°6'11.03" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|25°44'19.65" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|15°56'16.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°53'44.95" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°42'53.24" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|17°9'41.27" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°13'1.35" |Virgo|Awwa|Venus|
+|☿ Mercury|Post-Retrograde Shadow|0°6'11.06" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|25°44'20.05" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°56'16.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|19°53'43.57" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|2°42'48.22" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°9'39.78" |Virgo|Simak|Venus|
-|♀ Venus|Direct|13°13'2.52" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|0°6'7.79" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|26°19'36.18" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|15°56'16.63" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|19°53'44.95" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|2°42'53.24" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°9'41.27" |Virgo|Simak|Venus|
+|♀ Venus|Direct|13°13'1.35" |Libra|Jubana|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|0°6'11.06" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|25°44'20.05" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

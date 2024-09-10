@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°38'56.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°13'40.27" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°13'40.27" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|4°56'8.80" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|20°50'14.36" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|17°50'9.07" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|5°58'54.50" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|13°13'44.41" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|17°50'7.75" |Virgo|Simak|Venus|
+|☿ Mercury|Post-Retrograde Shadow|5°58'47.36" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|14°16'12.60" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Saturn|Saturn|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Sun|
-|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°38'56.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°13'40.27" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°13'40.27" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°56'8.80" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|20°50'14.36" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|17°50'9.07" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|5°58'54.50" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|5°58'54.50" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|13°13'44.41" |Capricorn|SaadAlBula|Mars|
 
 

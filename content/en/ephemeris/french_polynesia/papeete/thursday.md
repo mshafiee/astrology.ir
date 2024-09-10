@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°36'32.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°16'14.20" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°14'26.58" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|21°20'45.25" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|18°28'37.92" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|6°52'1.89" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°29'6.84" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°16'15.41" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°14'32.01" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|21°20'59.36" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|18°28'45.28" |Virgo|Simak|Venus|
+|☿ Mercury|Post-Retrograde Shadow|6°52'14.61" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°23'26.66" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Mercury|Libra|Sun|Sun|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°36'32.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°16'15.41" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°16'15.41" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°14'32.01" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|21°20'59.36" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°28'45.28" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|6°52'14.61" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|6°52'14.61" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|20°23'26.66" |Capricorn|SaadAlBula|Sun|
 
 

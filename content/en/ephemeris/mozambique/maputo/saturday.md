@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°34'17.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°18'36.79" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°31'40.03" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|21°49'52.67" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°5'3.42" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|7°43'2.06" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|28°1'49.65" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°18'38.54" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°31'46.04" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|21°49'53.98" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°5'1.61" |Virgo|Simak|Venus|
+|☿ Mercury|Post-Retrograde Shadow|7°43'4.79" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|27°13'39.05" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°34'17.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°18'36.79" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°31'40.03" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|21°49'52.67" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|15°34'17.47" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|20°18'38.54" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°31'46.04" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|21°49'53.98" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|19°5'1.61" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|7°43'4.79" |Virgo|Awwa|Sun|
+|☿ Mercury|Post-Retrograde Shadow|7°43'4.79" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|27°13'39.05" |Capricorn|SaadAlSaud|Sun|
 
 
