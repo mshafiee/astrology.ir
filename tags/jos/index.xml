@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jos on Astrology</title><link>https://astrology.ir/tags/jos/</link><description>Recent content in Jos on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/jos/index.xml" rel="self" type="application/rss+xml"/><item><title>Jos Saturday</title><link>https://astrology.ir/ephemeris/nigeria/jos/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/saturday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jos on Astrology</title><link>https://astrology.ir/tags/jos/</link><description>Recent content in Jos on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/jos/index.xml" rel="self" type="application/rss+xml"/><item><title>Jos Sunday</title><link>https://astrology.ir/ephemeris/nigeria/jos/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/sunday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 9.9285
+-
+Longitude: 8.8921
+-
+Altitude: 1,186.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Jos, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('9.9285', '8.8921');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos Saturday</title><link>https://astrology.ir/ephemeris/nigeria/jos/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/saturday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 9.9285
@@ -102,6 +128,32 @@ Altitude: 1,186.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos</title><link>https://astrology.ir/ephemeris/nigeria/jos/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 9.9285
+-
+Longitude: 8.8921
+-
+Altitude: 1,186.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Jos, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('9.9285', '8.8921');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos Tuesday</title><link>https://astrology.ir/ephemeris/nigeria/jos/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/tuesday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -128,59 +180,7 @@ Altitude: 1,186.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos</title><link>https://astrology.ir/ephemeris/nigeria/jos/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 9.9285
--
-Longitude: 8.8921
--
-Altitude: 1,186.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Jos, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('9.9285', '8.8921');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos Monday</title><link>https://astrology.ir/ephemeris/nigeria/jos/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/monday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 9.9285
--
-Longitude: 8.8921
--
-Altitude: 1,186.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Jos, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('9.9285', '8.8921');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos Sunday</title><link>https://astrology.ir/ephemeris/nigeria/jos/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/sunday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 9.9285

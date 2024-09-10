@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tabriz on Astrology</title><link>https://astrology.ir/tags/tabriz/</link><description>Recent content in Tabriz on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/tabriz/index.xml" rel="self" type="application/rss+xml"/><item><title>Tabriz Saturday</title><link>https://astrology.ir/ephemeris/iran/tabriz/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/tabriz/saturday/</guid><description>&lt;h2 id="geographic-information-of-tabriz">Geographic Information of Tabriz&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tabriz on Astrology</title><link>https://astrology.ir/tags/tabriz/</link><description>Recent content in Tabriz on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/tabriz/index.xml" rel="self" type="application/rss+xml"/><item><title>Tabriz Sunday</title><link>https://astrology.ir/ephemeris/iran/tabriz/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/tabriz/sunday/</guid><description>&lt;h2 id="geographic-information-of-tabriz">Geographic Information of Tabriz&lt;/h2>
+&lt;p>TimeZone: +03:30
+-
+Latitude: 38.0800
+-
+Longitude: 46.2919
+-
+Altitude: 1,396.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Tabriz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.0800', '46.2919');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tabriz Saturday</title><link>https://astrology.ir/ephemeris/iran/tabriz/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/tabriz/saturday/</guid><description>&lt;h2 id="geographic-information-of-tabriz">Geographic Information of Tabriz&lt;/h2>
 &lt;p>TimeZone: +03:30
 -
 Latitude: 38.0800
@@ -102,6 +128,32 @@ Altitude: 1,396.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tabriz</title><link>https://astrology.ir/ephemeris/iran/tabriz/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/tabriz/</guid><description>&lt;h2 id="geographic-information-of-tabriz">Geographic Information of Tabriz&lt;/h2>
+&lt;p>TimeZone: +03:30
+-
+Latitude: 38.0800
+-
+Longitude: 46.2919
+-
+Altitude: 1,396.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Tabriz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.0800', '46.2919');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tabriz Tuesday</title><link>https://astrology.ir/ephemeris/iran/tabriz/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/tabriz/tuesday/</guid><description>&lt;h2 id="geographic-information-of-tabriz">Geographic Information of Tabriz&lt;/h2>
 &lt;p>TimeZone: +03:30
 -
@@ -128,59 +180,7 @@ Altitude: 1,396.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tabriz</title><link>https://astrology.ir/ephemeris/iran/tabriz/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/tabriz/</guid><description>&lt;h2 id="geographic-information-of-tabriz">Geographic Information of Tabriz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 38.0800
--
-Longitude: 46.2919
--
-Altitude: 1,396.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Tabriz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.0800', '46.2919');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tabriz Monday</title><link>https://astrology.ir/ephemeris/iran/tabriz/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/tabriz/monday/</guid><description>&lt;h2 id="geographic-information-of-tabriz">Geographic Information of Tabriz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 38.0800
--
-Longitude: 46.2919
--
-Altitude: 1,396.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Tabriz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.0800', '46.2919');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tabriz Sunday</title><link>https://astrology.ir/ephemeris/iran/tabriz/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/tabriz/sunday/</guid><description>&lt;h2 id="geographic-information-of-tabriz">Geographic Information of Tabriz&lt;/h2>
 &lt;p>TimeZone: +03:30
 -
 Latitude: 38.0800

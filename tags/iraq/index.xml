@@ -1,4 +1,264 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Iraq on Astrology</title><link>https://astrology.ir/tags/iraq/</link><description>Recent content in Iraq on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/iraq/index.xml" rel="self" type="application/rss+xml"/><item><title>Ad Diwaniyah Saturday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/saturday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Iraq on Astrology</title><link>https://astrology.ir/tags/iraq/</link><description>Recent content in Iraq on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/iraq/index.xml" rel="self" type="application/rss+xml"/><item><title>Ad Diwaniyah Sunday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/sunday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 31.9929
+-
+Longitude: 44.9255
+-
+Altitude: 25.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ad Diwaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.9929', '44.9255');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Amarah Sunday</title><link>https://astrology.ir/ephemeris/iraq/al_amarah/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_amarah/sunday/</guid><description>&lt;h2 id="geographic-information-of-al-amarah">Geographic Information of Al Amarah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 31.8356
+-
+Longitude: 47.1448
+-
+Altitude: 10.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Al \u0027Amarah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.8356', '47.1448');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Hillah Sunday</title><link>https://astrology.ir/ephemeris/iraq/al_hillah/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_hillah/sunday/</guid><description>&lt;h2 id="geographic-information-of-al-hillah">Geographic Information of Al Hillah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 32.4637
+-
+Longitude: 44.4196
+-
+Altitude: 33.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Al Hillah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('32.4637', '44.4196');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>As Sulaymaniyah Sunday</title><link>https://astrology.ir/ephemeris/iraq/as_sulaymaniyah/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/as_sulaymaniyah/sunday/</guid><description>&lt;h2 id="geographic-information-of-as-sulaymaniyah">Geographic Information of As Sulaymaniyah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 35.5650
+-
+Longitude: 45.4329
+-
+Altitude: 847.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">As Sulaymaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('35.5650', '45.4329');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Baghdad Sunday</title><link>https://astrology.ir/ephemeris/iraq/baghdad/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/baghdad/sunday/</guid><description>&lt;h2 id="geographic-information-of-baghdad">Geographic Information of Baghdad&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 33.3406
+-
+Longitude: 44.4009
+-
+Altitude: 41.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Baghdad, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('33.3406', '44.4009');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Basrah Sunday</title><link>https://astrology.ir/ephemeris/iraq/basrah/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/basrah/sunday/</guid><description>&lt;h2 id="geographic-information-of-basrah">Geographic Information of Basrah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 30.5085
+-
+Longitude: 47.7804
+-
+Altitude: 4.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Basrah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.5085', '47.7804');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Erbil Sunday</title><link>https://astrology.ir/ephemeris/iraq/erbil/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/erbil/sunday/</guid><description>&lt;h2 id="geographic-information-of-erbil">Geographic Information of Erbil&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 36.1833
+-
+Longitude: 44.0119
+-
+Altitude: 428.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Erbil, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('36.1833', '44.0119');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karbala Sunday</title><link>https://astrology.ir/ephemeris/iraq/karbala/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/karbala/sunday/</guid><description>&lt;h2 id="geographic-information-of-karbala">Geographic Information of Karbala&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 32.6160
+-
+Longitude: 44.0249
+-
+Altitude: 32.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Karbala, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('32.6160', '44.0249');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mosul Sunday</title><link>https://astrology.ir/ephemeris/iraq/mosul/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/mosul/sunday/</guid><description>&lt;h2 id="geographic-information-of-mosul">Geographic Information of Mosul&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 36.3350
+-
+Longitude: 43.1189
+-
+Altitude: 228.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Mosul, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('36.3350', '43.1189');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Najaf Sunday</title><link>https://astrology.ir/ephemeris/iraq/najaf/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/najaf/sunday/</guid><description>&lt;h2 id="geographic-information-of-najaf">Geographic Information of Najaf&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 32.0259
+-
+Longitude: 44.3462
+-
+Altitude: 41.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Najaf, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('32.0259', '44.3462');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah Saturday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/saturday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 31.9929
@@ -1038,6 +1298,32 @@ Altitude: 41.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 31.9929
+-
+Longitude: 44.9255
+-
+Altitude: 25.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ad Diwaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.9929', '44.9255');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah Tuesday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/tuesday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1059,6 +1345,32 @@ Altitude: 25.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('31.9929', '44.9255');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Amarah</title><link>https://astrology.ir/ephemeris/iraq/al_amarah/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_amarah/</guid><description>&lt;h2 id="geographic-information-of-al-amarah">Geographic Information of Al Amarah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 31.8356
+-
+Longitude: 47.1448
+-
+Altitude: 10.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Al \u0027Amarah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.8356', '47.1448');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1090,6 +1402,32 @@ Altitude: 10.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Hillah</title><link>https://astrology.ir/ephemeris/iraq/al_hillah/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_hillah/</guid><description>&lt;h2 id="geographic-information-of-al-hillah">Geographic Information of Al Hillah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 32.4637
+-
+Longitude: 44.4196
+-
+Altitude: 33.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Al Hillah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('32.4637', '44.4196');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Hillah Tuesday</title><link>https://astrology.ir/ephemeris/iraq/al_hillah/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_hillah/tuesday/</guid><description>&lt;h2 id="geographic-information-of-al-hillah">Geographic Information of Al Hillah&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1111,6 +1449,32 @@ Altitude: 33.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('32.4637', '44.4196');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>As Sulaymaniyah</title><link>https://astrology.ir/ephemeris/iraq/as_sulaymaniyah/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/as_sulaymaniyah/</guid><description>&lt;h2 id="geographic-information-of-as-sulaymaniyah">Geographic Information of As Sulaymaniyah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 35.5650
+-
+Longitude: 45.4329
+-
+Altitude: 847.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">As Sulaymaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('35.5650', '45.4329');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1142,6 +1506,32 @@ Altitude: 847.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Baghdad</title><link>https://astrology.ir/ephemeris/iraq/baghdad/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/baghdad/</guid><description>&lt;h2 id="geographic-information-of-baghdad">Geographic Information of Baghdad&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 33.3406
+-
+Longitude: 44.4009
+-
+Altitude: 41.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Baghdad, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('33.3406', '44.4009');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Baghdad Tuesday</title><link>https://astrology.ir/ephemeris/iraq/baghdad/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/baghdad/tuesday/</guid><description>&lt;h2 id="geographic-information-of-baghdad">Geographic Information of Baghdad&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1163,6 +1553,32 @@ Altitude: 41.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('33.3406', '44.4009');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Basrah</title><link>https://astrology.ir/ephemeris/iraq/basrah/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/basrah/</guid><description>&lt;h2 id="geographic-information-of-basrah">Geographic Information of Basrah&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 30.5085
+-
+Longitude: 47.7804
+-
+Altitude: 4.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Basrah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.5085', '47.7804');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1194,6 +1610,32 @@ Altitude: 4.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Erbil</title><link>https://astrology.ir/ephemeris/iraq/erbil/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/erbil/</guid><description>&lt;h2 id="geographic-information-of-erbil">Geographic Information of Erbil&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 36.1833
+-
+Longitude: 44.0119
+-
+Altitude: 428.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Erbil, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('36.1833', '44.0119');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Erbil Tuesday</title><link>https://astrology.ir/ephemeris/iraq/erbil/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/erbil/tuesday/</guid><description>&lt;h2 id="geographic-information-of-erbil">Geographic Information of Erbil&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1215,6 +1657,32 @@ Altitude: 428.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('36.1833', '44.0119');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karbala</title><link>https://astrology.ir/ephemeris/iraq/karbala/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/karbala/</guid><description>&lt;h2 id="geographic-information-of-karbala">Geographic Information of Karbala&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 32.6160
+-
+Longitude: 44.0249
+-
+Altitude: 32.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Karbala, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('32.6160', '44.0249');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1246,6 +1714,32 @@ Altitude: 32.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mosul</title><link>https://astrology.ir/ephemeris/iraq/mosul/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/mosul/</guid><description>&lt;h2 id="geographic-information-of-mosul">Geographic Information of Mosul&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 36.3350
+-
+Longitude: 43.1189
+-
+Altitude: 228.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Mosul, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('36.3350', '43.1189');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mosul Tuesday</title><link>https://astrology.ir/ephemeris/iraq/mosul/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/mosul/tuesday/</guid><description>&lt;h2 id="geographic-information-of-mosul">Geographic Information of Mosul&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1267,6 +1761,32 @@ Altitude: 228.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('36.3350', '43.1189');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Najaf</title><link>https://astrology.ir/ephemeris/iraq/najaf/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/najaf/</guid><description>&lt;h2 id="geographic-information-of-najaf">Geographic Information of Najaf&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 32.0259
+-
+Longitude: 44.3462
+-
+Altitude: 41.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Najaf, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('32.0259', '44.3462');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1298,32 +1818,6 @@ Altitude: 41.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 31.9929
--
-Longitude: 44.9255
--
-Altitude: 25.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ad Diwaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.9929', '44.9255');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah Monday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/monday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1345,32 +1839,6 @@ Altitude: 25.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('31.9929', '44.9255');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Amarah</title><link>https://astrology.ir/ephemeris/iraq/al_amarah/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_amarah/</guid><description>&lt;h2 id="geographic-information-of-al-amarah">Geographic Information of Al Amarah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 31.8356
--
-Longitude: 47.1448
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Al \u0027Amarah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8356', '47.1448');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1402,32 +1870,6 @@ Altitude: 10.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Hillah</title><link>https://astrology.ir/ephemeris/iraq/al_hillah/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_hillah/</guid><description>&lt;h2 id="geographic-information-of-al-hillah">Geographic Information of Al Hillah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 32.4637
--
-Longitude: 44.4196
--
-Altitude: 33.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Al Hillah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('32.4637', '44.4196');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Hillah Monday</title><link>https://astrology.ir/ephemeris/iraq/al_hillah/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_hillah/monday/</guid><description>&lt;h2 id="geographic-information-of-al-hillah">Geographic Information of Al Hillah&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1449,32 +1891,6 @@ Altitude: 33.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('32.4637', '44.4196');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>As Sulaymaniyah</title><link>https://astrology.ir/ephemeris/iraq/as_sulaymaniyah/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/as_sulaymaniyah/</guid><description>&lt;h2 id="geographic-information-of-as-sulaymaniyah">Geographic Information of As Sulaymaniyah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.5650
--
-Longitude: 45.4329
--
-Altitude: 847.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">As Sulaymaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.5650', '45.4329');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1506,32 +1922,6 @@ Altitude: 847.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Baghdad</title><link>https://astrology.ir/ephemeris/iraq/baghdad/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/baghdad/</guid><description>&lt;h2 id="geographic-information-of-baghdad">Geographic Information of Baghdad&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 33.3406
--
-Longitude: 44.4009
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Baghdad, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.3406', '44.4009');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Baghdad Monday</title><link>https://astrology.ir/ephemeris/iraq/baghdad/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/baghdad/monday/</guid><description>&lt;h2 id="geographic-information-of-baghdad">Geographic Information of Baghdad&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1553,32 +1943,6 @@ Altitude: 41.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('33.3406', '44.4009');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Basrah</title><link>https://astrology.ir/ephemeris/iraq/basrah/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/basrah/</guid><description>&lt;h2 id="geographic-information-of-basrah">Geographic Information of Basrah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 30.5085
--
-Longitude: 47.7804
--
-Altitude: 4.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Basrah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5085', '47.7804');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1610,32 +1974,6 @@ Altitude: 4.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Erbil</title><link>https://astrology.ir/ephemeris/iraq/erbil/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/erbil/</guid><description>&lt;h2 id="geographic-information-of-erbil">Geographic Information of Erbil&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 36.1833
--
-Longitude: 44.0119
--
-Altitude: 428.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Erbil, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('36.1833', '44.0119');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Erbil Monday</title><link>https://astrology.ir/ephemeris/iraq/erbil/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/erbil/monday/</guid><description>&lt;h2 id="geographic-information-of-erbil">Geographic Information of Erbil&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1657,32 +1995,6 @@ Altitude: 428.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('36.1833', '44.0119');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karbala</title><link>https://astrology.ir/ephemeris/iraq/karbala/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/karbala/</guid><description>&lt;h2 id="geographic-information-of-karbala">Geographic Information of Karbala&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 32.6160
--
-Longitude: 44.0249
--
-Altitude: 32.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karbala, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('32.6160', '44.0249');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1714,32 +2026,6 @@ Altitude: 32.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mosul</title><link>https://astrology.ir/ephemeris/iraq/mosul/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/mosul/</guid><description>&lt;h2 id="geographic-information-of-mosul">Geographic Information of Mosul&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 36.3350
--
-Longitude: 43.1189
--
-Altitude: 228.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mosul, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('36.3350', '43.1189');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mosul Monday</title><link>https://astrology.ir/ephemeris/iraq/mosul/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/mosul/monday/</guid><description>&lt;h2 id="geographic-information-of-mosul">Geographic Information of Mosul&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1766,293 +2052,7 @@ Altitude: 228.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Najaf</title><link>https://astrology.ir/ephemeris/iraq/najaf/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/najaf/</guid><description>&lt;h2 id="geographic-information-of-najaf">Geographic Information of Najaf&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 32.0259
--
-Longitude: 44.3462
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Najaf, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('32.0259', '44.3462');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Najaf Monday</title><link>https://astrology.ir/ephemeris/iraq/najaf/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/najaf/monday/</guid><description>&lt;h2 id="geographic-information-of-najaf">Geographic Information of Najaf&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 32.0259
--
-Longitude: 44.3462
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Najaf, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('32.0259', '44.3462');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ad Diwaniyah Sunday</title><link>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/ad_diwaniyah/sunday/</guid><description>&lt;h2 id="geographic-information-of-ad-diwaniyah">Geographic Information of Ad Diwaniyah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 31.9929
--
-Longitude: 44.9255
--
-Altitude: 25.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ad Diwaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.9929', '44.9255');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Amarah Sunday</title><link>https://astrology.ir/ephemeris/iraq/al_amarah/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_amarah/sunday/</guid><description>&lt;h2 id="geographic-information-of-al-amarah">Geographic Information of Al Amarah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 31.8356
--
-Longitude: 47.1448
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Al \u0027Amarah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8356', '47.1448');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Al Hillah Sunday</title><link>https://astrology.ir/ephemeris/iraq/al_hillah/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/al_hillah/sunday/</guid><description>&lt;h2 id="geographic-information-of-al-hillah">Geographic Information of Al Hillah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 32.4637
--
-Longitude: 44.4196
--
-Altitude: 33.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Al Hillah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('32.4637', '44.4196');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>As Sulaymaniyah Sunday</title><link>https://astrology.ir/ephemeris/iraq/as_sulaymaniyah/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/as_sulaymaniyah/sunday/</guid><description>&lt;h2 id="geographic-information-of-as-sulaymaniyah">Geographic Information of As Sulaymaniyah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.5650
--
-Longitude: 45.4329
--
-Altitude: 847.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">As Sulaymaniyah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.5650', '45.4329');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Baghdad Sunday</title><link>https://astrology.ir/ephemeris/iraq/baghdad/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/baghdad/sunday/</guid><description>&lt;h2 id="geographic-information-of-baghdad">Geographic Information of Baghdad&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 33.3406
--
-Longitude: 44.4009
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Baghdad, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.3406', '44.4009');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Basrah Sunday</title><link>https://astrology.ir/ephemeris/iraq/basrah/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/basrah/sunday/</guid><description>&lt;h2 id="geographic-information-of-basrah">Geographic Information of Basrah&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 30.5085
--
-Longitude: 47.7804
--
-Altitude: 4.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Basrah, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5085', '47.7804');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Erbil Sunday</title><link>https://astrology.ir/ephemeris/iraq/erbil/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/erbil/sunday/</guid><description>&lt;h2 id="geographic-information-of-erbil">Geographic Information of Erbil&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 36.1833
--
-Longitude: 44.0119
--
-Altitude: 428.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Erbil, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('36.1833', '44.0119');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karbala Sunday</title><link>https://astrology.ir/ephemeris/iraq/karbala/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/karbala/sunday/</guid><description>&lt;h2 id="geographic-information-of-karbala">Geographic Information of Karbala&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 32.6160
--
-Longitude: 44.0249
--
-Altitude: 32.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karbala, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('32.6160', '44.0249');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mosul Sunday</title><link>https://astrology.ir/ephemeris/iraq/mosul/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/mosul/sunday/</guid><description>&lt;h2 id="geographic-information-of-mosul">Geographic Information of Mosul&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 36.3350
--
-Longitude: 43.1189
--
-Altitude: 228.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mosul, Iraq | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('36.3350', '43.1189');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Najaf Sunday</title><link>https://astrology.ir/ephemeris/iraq/najaf/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/iraq/najaf/sunday/</guid><description>&lt;h2 id="geographic-information-of-najaf">Geographic Information of Najaf&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 32.0259
