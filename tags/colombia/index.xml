@@ -1,4 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Colombia on Astrology</title><link>https://astrology.ir/tags/colombia/</link><description>Recent content in Colombia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 14 Sep 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/colombia/index.xml" rel="self" type="application/rss+xml"/><item><title>Barranquilla Saturday</title><link>https://astrology.ir/ephemeris/colombia/barranquilla/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/barranquilla/saturday/</guid><description>&lt;h2 id="geographic-information-of-barranquilla">Geographic Information of Barranquilla&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Colombia on Astrology</title><link>https://astrology.ir/tags/colombia/</link><description>Recent content in Colombia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/colombia/index.xml" rel="self" type="application/rss+xml"/><item><title>Barranquilla Sunday</title><link>https://astrology.ir/ephemeris/colombia/barranquilla/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/barranquilla/sunday/</guid><description>&lt;h2 id="geographic-information-of-barranquilla">Geographic Information of Barranquilla&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 10.9685
+-
+Longitude: -74.7813
+-
+Altitude: 24.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Barranquilla, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.9685', '-74.7813');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bogota Sunday</title><link>https://astrology.ir/ephemeris/colombia/bogota/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/bogota/sunday/</guid><description>&lt;h2 id="geographic-information-of-bogota">Geographic Information of Bogota&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 4.6097
+-
+Longitude: -74.0817
+-
+Altitude: 2,582.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Bogota, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('4.6097', '-74.0817');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cali Sunday</title><link>https://astrology.ir/ephemeris/colombia/cali/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cali/sunday/</guid><description>&lt;h2 id="geographic-information-of-cali">Geographic Information of Cali&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 3.4372
+-
+Longitude: -76.5225
+-
+Altitude: 967.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Cali, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.4372', '-76.5225');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cartagena Sunday</title><link>https://astrology.ir/ephemeris/colombia/cartagena/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cartagena/sunday/</guid><description>&lt;h2 id="geographic-information-of-cartagena">Geographic Information of Cartagena&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 10.3997
+-
+Longitude: -75.5144
+-
+Altitude: 34.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Cartagena, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.3997', '-75.5144');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medellin Sunday</title><link>https://astrology.ir/ephemeris/colombia/medellin/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/medellin/sunday/</guid><description>&lt;h2 id="geographic-information-of-medellin">Geographic Information of Medellin&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 6.2518
+-
+Longitude: -75.5636
+-
+Altitude: 1,500.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Medellin, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('6.2518', '-75.5636');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Barranquilla Saturday</title><link>https://astrology.ir/ephemeris/colombia/barranquilla/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/barranquilla/saturday/</guid><description>&lt;h2 id="geographic-information-of-barranquilla">Geographic Information of Barranquilla&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: 10.9685
@@ -518,6 +648,32 @@ Altitude: 1,500.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Barranquilla</title><link>https://astrology.ir/ephemeris/colombia/barranquilla/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/barranquilla/</guid><description>&lt;h2 id="geographic-information-of-barranquilla">Geographic Information of Barranquilla&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 10.9685
+-
+Longitude: -74.7813
+-
+Altitude: 24.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Barranquilla, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.9685', '-74.7813');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Barranquilla Tuesday</title><link>https://astrology.ir/ephemeris/colombia/barranquilla/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/barranquilla/tuesday/</guid><description>&lt;h2 id="geographic-information-of-barranquilla">Geographic Information of Barranquilla&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
@@ -539,6 +695,32 @@ Altitude: 24.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('10.9685', '-74.7813');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bogota</title><link>https://astrology.ir/ephemeris/colombia/bogota/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/bogota/</guid><description>&lt;h2 id="geographic-information-of-bogota">Geographic Information of Bogota&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 4.6097
+-
+Longitude: -74.0817
+-
+Altitude: 2,582.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Bogota, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('4.6097', '-74.0817');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -570,6 +752,32 @@ Altitude: 2,582.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cali</title><link>https://astrology.ir/ephemeris/colombia/cali/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cali/</guid><description>&lt;h2 id="geographic-information-of-cali">Geographic Information of Cali&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 3.4372
+-
+Longitude: -76.5225
+-
+Altitude: 967.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Cali, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.4372', '-76.5225');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cali Tuesday</title><link>https://astrology.ir/ephemeris/colombia/cali/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cali/tuesday/</guid><description>&lt;h2 id="geographic-information-of-cali">Geographic Information of Cali&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
@@ -591,6 +799,32 @@ Altitude: 967.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('3.4372', '-76.5225');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cartagena</title><link>https://astrology.ir/ephemeris/colombia/cartagena/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cartagena/</guid><description>&lt;h2 id="geographic-information-of-cartagena">Geographic Information of Cartagena&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 10.3997
+-
+Longitude: -75.5144
+-
+Altitude: 34.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Cartagena, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.3997', '-75.5144');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -622,7 +856,7 @@ Altitude: 34.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medellin Tuesday</title><link>https://astrology.ir/ephemeris/colombia/medellin/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/medellin/tuesday/</guid><description>&lt;h2 id="geographic-information-of-medellin">Geographic Information of Medellin&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medellin</title><link>https://astrology.ir/ephemeris/colombia/medellin/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/medellin/</guid><description>&lt;h2 id="geographic-information-of-medellin">Geographic Information of Medellin&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: 6.2518
@@ -648,14 +882,14 @@ Altitude: 1,500.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Barranquilla</title><link>https://astrology.ir/ephemeris/colombia/barranquilla/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/barranquilla/</guid><description>&lt;h2 id="geographic-information-of-barranquilla">Geographic Information of Barranquilla&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medellin Tuesday</title><link>https://astrology.ir/ephemeris/colombia/medellin/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/medellin/tuesday/</guid><description>&lt;h2 id="geographic-information-of-medellin">Geographic Information of Medellin&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
-Latitude: 10.9685
+Latitude: 6.2518
 -
-Longitude: -74.7813
+Longitude: -75.5636
 -
-Altitude: 24.0000 meters&lt;/p>
+Altitude: 1,500.0000 meters&lt;/p>
 &lt;div class="shortcode shortcode-osm-maps">
 	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
 	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
@@ -665,10 +899,10 @@ Altitude: 24.0000 meters&lt;/p>
 		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
 		var map = L.map(element);
 		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Barranquilla, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+			attribution: '&lt;div dir="ltr">Medellin, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.9685', '-74.7813');
+		var target = L.latLng('6.2518', '-75.5636');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -700,32 +934,6 @@ Altitude: 24.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bogota</title><link>https://astrology.ir/ephemeris/colombia/bogota/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/bogota/</guid><description>&lt;h2 id="geographic-information-of-bogota">Geographic Information of Bogota&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 4.6097
--
-Longitude: -74.0817
--
-Altitude: 2,582.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bogota, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('4.6097', '-74.0817');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bogota Monday</title><link>https://astrology.ir/ephemeris/colombia/bogota/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/bogota/monday/</guid><description>&lt;h2 id="geographic-information-of-bogota">Geographic Information of Bogota&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
@@ -747,32 +955,6 @@ Altitude: 2,582.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('4.6097', '-74.0817');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cali</title><link>https://astrology.ir/ephemeris/colombia/cali/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cali/</guid><description>&lt;h2 id="geographic-information-of-cali">Geographic Information of Cali&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 3.4372
--
-Longitude: -76.5225
--
-Altitude: 967.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Cali, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.4372', '-76.5225');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -804,32 +986,6 @@ Altitude: 967.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cartagena</title><link>https://astrology.ir/ephemeris/colombia/cartagena/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cartagena/</guid><description>&lt;h2 id="geographic-information-of-cartagena">Geographic Information of Cartagena&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 10.3997
--
-Longitude: -75.5144
--
-Altitude: 34.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Cartagena, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.3997', '-75.5144');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cartagena Monday</title><link>https://astrology.ir/ephemeris/colombia/cartagena/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cartagena/monday/</guid><description>&lt;h2 id="geographic-information-of-cartagena">Geographic Information of Cartagena&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
@@ -856,163 +1012,7 @@ Altitude: 34.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medellin</title><link>https://astrology.ir/ephemeris/colombia/medellin/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/medellin/</guid><description>&lt;h2 id="geographic-information-of-medellin">Geographic Information of Medellin&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 6.2518
--
-Longitude: -75.5636
--
-Altitude: 1,500.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medellin, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.2518', '-75.5636');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medellin Monday</title><link>https://astrology.ir/ephemeris/colombia/medellin/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/medellin/monday/</guid><description>&lt;h2 id="geographic-information-of-medellin">Geographic Information of Medellin&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 6.2518
--
-Longitude: -75.5636
--
-Altitude: 1,500.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medellin, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.2518', '-75.5636');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Barranquilla Sunday</title><link>https://astrology.ir/ephemeris/colombia/barranquilla/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/barranquilla/sunday/</guid><description>&lt;h2 id="geographic-information-of-barranquilla">Geographic Information of Barranquilla&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 10.9685
--
-Longitude: -74.7813
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Barranquilla, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.9685', '-74.7813');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bogota Sunday</title><link>https://astrology.ir/ephemeris/colombia/bogota/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/bogota/sunday/</guid><description>&lt;h2 id="geographic-information-of-bogota">Geographic Information of Bogota&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 4.6097
--
-Longitude: -74.0817
--
-Altitude: 2,582.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bogota, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('4.6097', '-74.0817');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cali Sunday</title><link>https://astrology.ir/ephemeris/colombia/cali/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cali/sunday/</guid><description>&lt;h2 id="geographic-information-of-cali">Geographic Information of Cali&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 3.4372
--
-Longitude: -76.5225
--
-Altitude: 967.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Cali, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.4372', '-76.5225');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Cartagena Sunday</title><link>https://astrology.ir/ephemeris/colombia/cartagena/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/cartagena/sunday/</guid><description>&lt;h2 id="geographic-information-of-cartagena">Geographic Information of Cartagena&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 10.3997
--
-Longitude: -75.5144
--
-Altitude: 34.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Cartagena, Colombia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.3997', '-75.5144');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medellin Sunday</title><link>https://astrology.ir/ephemeris/colombia/medellin/sunday/</link><pubDate>Sun, 08 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/colombia/medellin/sunday/</guid><description>&lt;h2 id="geographic-information-of-medellin">Geographic Information of Medellin&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: 6.2518

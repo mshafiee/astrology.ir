@@ -1,4 +1,680 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>China on Astrology</title><link>https://astrology.ir/tags/china/</link><description>Recent content in China on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0600</lastBuildDate><atom:link href="https://astrology.ir/tags/china/index.xml" rel="self" type="application/rss+xml"/><item><title>Urumqi Sunday</title><link>https://astrology.ir/ephemeris/china/urumqi/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/sunday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>China on Astrology</title><link>https://astrology.ir/tags/china/</link><description>Recent content in China on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0600</lastBuildDate><atom:link href="https://astrology.ir/tags/china/index.xml" rel="self" type="application/rss+xml"/><item><title>Urumqi Monday</title><link>https://astrology.ir/ephemeris/china/urumqi/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/monday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
+&lt;p>TimeZone: +06:00
+-
+Latitude: 43.8010
+-
+Longitude: 87.6005
+-
+Altitude: 862.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Urumqi, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('43.8010', '87.6005');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Beijing Monday</title><link>https://astrology.ir/ephemeris/china/beijing/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/beijing/monday/</guid><description>&lt;h2 id="geographic-information-of-beijing">Geographic Information of Beijing&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 39.9075
+-
+Longitude: 116.3972
+-
+Altitude: 49.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Beijing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.9075', '116.3972');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changchun Monday</title><link>https://astrology.ir/ephemeris/china/changchun/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changchun/monday/</guid><description>&lt;h2 id="geographic-information-of-changchun">Geographic Information of Changchun&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 43.8800
+-
+Longitude: 125.3228
+-
+Altitude: 206.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Changchun, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('43.8800', '125.3228');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changsha Monday</title><link>https://astrology.ir/ephemeris/china/changsha/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changsha/monday/</guid><description>&lt;h2 id="geographic-information-of-changsha">Geographic Information of Changsha&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 28.1987
+-
+Longitude: 112.9709
+-
+Altitude: 67.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Changsha, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('28.1987', '112.9709');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chengdu Monday</title><link>https://astrology.ir/ephemeris/china/chengdu/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chengdu/monday/</guid><description>&lt;h2 id="geographic-information-of-chengdu">Geographic Information of Chengdu&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 30.6667
+-
+Longitude: 104.0667
+-
+Altitude: 499.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chengdu, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.6667', '104.0667');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chongqing Monday</title><link>https://astrology.ir/ephemeris/china/chongqing/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chongqing/monday/</guid><description>&lt;h2 id="geographic-information-of-chongqing">Geographic Information of Chongqing&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 29.5603
+-
+Longitude: 106.5577
+-
+Altitude: 234.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chongqing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('29.5603', '106.5577');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Fuzhou Monday</title><link>https://astrology.ir/ephemeris/china/fuzhou/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/fuzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-fuzhou">Geographic Information of Fuzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 26.0614
+-
+Longitude: 119.3061
+-
+Altitude: 14.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Fuzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('26.0614', '119.3061');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guangzhou Monday</title><link>https://astrology.ir/ephemeris/china/guangzhou/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guangzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-guangzhou">Geographic Information of Guangzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 23.1167
+-
+Longitude: 113.2500
+-
+Altitude: 15.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Guangzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('23.1167', '113.2500');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guiyang Monday</title><link>https://astrology.ir/ephemeris/china/guiyang/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guiyang/monday/</guid><description>&lt;h2 id="geographic-information-of-guiyang">Geographic Information of Guiyang&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 26.5833
+-
+Longitude: 106.7167
+-
+Altitude: 1,087.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Guiyang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('26.5833', '106.7167');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hangzhou Monday</title><link>https://astrology.ir/ephemeris/china/hangzhou/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hangzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-hangzhou">Geographic Information of Hangzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 30.2936
+-
+Longitude: 120.1614
+-
+Altitude: 12.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Hangzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.2936', '120.1614');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Harbin Monday</title><link>https://astrology.ir/ephemeris/china/harbin/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/harbin/monday/</guid><description>&lt;h2 id="geographic-information-of-harbin">Geographic Information of Harbin&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 45.7500
+-
+Longitude: 126.6500
+-
+Altitude: 140.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Harbin, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('45.7500', '126.6500');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei Monday</title><link>https://astrology.ir/ephemeris/china/hefei/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/monday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 31.8639
+-
+Longitude: 117.2808
+-
+Altitude: 24.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.8639', '117.2808');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jinan Monday</title><link>https://astrology.ir/ephemeris/china/jinan/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/jinan/monday/</guid><description>&lt;h2 id="geographic-information-of-jinan">Geographic Information of Jinan&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 36.6683
+-
+Longitude: 116.9972
+-
+Altitude: 32.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Jinan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('36.6683', '116.9972');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kunming Monday</title><link>https://astrology.ir/ephemeris/china/kunming/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/kunming/monday/</guid><description>&lt;h2 id="geographic-information-of-kunming">Geographic Information of Kunming&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 25.0389
+-
+Longitude: 102.7183
+-
+Altitude: 1,895.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kunming, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('25.0389', '102.7183');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lanzhou Monday</title><link>https://astrology.ir/ephemeris/china/lanzhou/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/lanzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-lanzhou">Geographic Information of Lanzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 36.0570
+-
+Longitude: 103.8399
+-
+Altitude: 1,521.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Lanzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('36.0570', '103.8399');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanchang Monday</title><link>https://astrology.ir/ephemeris/china/nanchang/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanchang/monday/</guid><description>&lt;h2 id="geographic-information-of-nanchang">Geographic Information of Nanchang&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 28.6840
+-
+Longitude: 115.8531
+-
+Altitude: 20.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nanchang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('28.6840', '115.8531');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanjing Monday</title><link>https://astrology.ir/ephemeris/china/nanjing/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanjing/monday/</guid><description>&lt;h2 id="geographic-information-of-nanjing">Geographic Information of Nanjing&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 32.0617
+-
+Longitude: 118.7778
+-
+Altitude: 22.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nanjing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('32.0617', '118.7778');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanning Monday</title><link>https://astrology.ir/ephemeris/china/nanning/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanning/monday/</guid><description>&lt;h2 id="geographic-information-of-nanning">Geographic Information of Nanning&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 22.8167
+-
+Longitude: 108.3167
+-
+Altitude: 91.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nanning, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('22.8167', '108.3167');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shanghai Monday</title><link>https://astrology.ir/ephemeris/china/shanghai/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shanghai/monday/</guid><description>&lt;h2 id="geographic-information-of-shanghai">Geographic Information of Shanghai&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 31.2222
+-
+Longitude: 121.4581
+-
+Altitude: 12.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Shanghai, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.2222', '121.4581');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shenyang Monday</title><link>https://astrology.ir/ephemeris/china/shenyang/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shenyang/monday/</guid><description>&lt;h2 id="geographic-information-of-shenyang">Geographic Information of Shenyang&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 41.7922
+-
+Longitude: 123.4328
+-
+Altitude: 53.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Shenyang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('41.7922', '123.4328');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shijiazhuang Monday</title><link>https://astrology.ir/ephemeris/china/shijiazhuang/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shijiazhuang/monday/</guid><description>&lt;h2 id="geographic-information-of-shijiazhuang">Geographic Information of Shijiazhuang&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 38.0414
+-
+Longitude: 114.4786
+-
+Altitude: 77.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Shijiazhuang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.0414', '114.4786');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Taiyuan Monday</title><link>https://astrology.ir/ephemeris/china/taiyuan/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/taiyuan/monday/</guid><description>&lt;h2 id="geographic-information-of-taiyuan">Geographic Information of Taiyuan&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 37.8694
+-
+Longitude: 112.5603
+-
+Altitude: 795.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Taiyuan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('37.8694', '112.5603');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tianjin Monday</title><link>https://astrology.ir/ephemeris/china/tianjin/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/tianjin/monday/</guid><description>&lt;h2 id="geographic-information-of-tianjin">Geographic Information of Tianjin&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 39.1422
+-
+Longitude: 117.1767
+-
+Altitude: 11.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Tianjin, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.1422', '117.1767');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan Monday</title><link>https://astrology.ir/ephemeris/china/wuhan/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/monday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 30.5833
+-
+Longitude: 114.2667
+-
+Altitude: 20.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.5833', '114.2667');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Xian Monday</title><link>https://astrology.ir/ephemeris/china/xian/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/xian/monday/</guid><description>&lt;h2 id="geographic-information-of-xian">Geographic Information of Xian&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 34.2583
+-
+Longitude: 108.9286
+-
+Altitude: 416.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Xi\u0027an, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.2583', '108.9286');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Zhengzhou Monday</title><link>https://astrology.ir/ephemeris/china/zhengzhou/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/zhengzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-zhengzhou">Geographic Information of Zhengzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 34.7578
+-
+Longitude: 113.6486
+-
+Altitude: 104.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Zhengzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.7578', '113.6486');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Sunday</title><link>https://astrology.ir/ephemeris/china/urumqi/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/sunday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
 &lt;p>TimeZone: +06:00
 -
 Latitude: 43.8010
@@ -2702,6 +3378,32 @@ Altitude: 104.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi</title><link>https://astrology.ir/ephemeris/china/urumqi/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
+&lt;p>TimeZone: +06:00
+-
+Latitude: 43.8010
+-
+Longitude: 87.6005
+-
+Altitude: 862.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Urumqi, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('43.8010', '87.6005');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Wednesday</title><link>https://astrology.ir/ephemeris/china/urumqi/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/wednesday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
 &lt;p>TimeZone: +06:00
 -
@@ -2723,6 +3425,32 @@ Altitude: 862.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('43.8010', '87.6005');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Beijing</title><link>https://astrology.ir/ephemeris/china/beijing/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/beijing/</guid><description>&lt;h2 id="geographic-information-of-beijing">Geographic Information of Beijing&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 39.9075
+-
+Longitude: 116.3972
+-
+Altitude: 49.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Beijing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.9075', '116.3972');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2754,6 +3482,32 @@ Altitude: 49.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changchun</title><link>https://astrology.ir/ephemeris/china/changchun/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changchun/</guid><description>&lt;h2 id="geographic-information-of-changchun">Geographic Information of Changchun&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 43.8800
+-
+Longitude: 125.3228
+-
+Altitude: 206.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Changchun, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('43.8800', '125.3228');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changchun Wednesday</title><link>https://astrology.ir/ephemeris/china/changchun/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changchun/wednesday/</guid><description>&lt;h2 id="geographic-information-of-changchun">Geographic Information of Changchun&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -2775,6 +3529,32 @@ Altitude: 206.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('43.8800', '125.3228');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changsha</title><link>https://astrology.ir/ephemeris/china/changsha/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changsha/</guid><description>&lt;h2 id="geographic-information-of-changsha">Geographic Information of Changsha&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 28.1987
+-
+Longitude: 112.9709
+-
+Altitude: 67.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Changsha, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('28.1987', '112.9709');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2806,6 +3586,32 @@ Altitude: 67.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chengdu</title><link>https://astrology.ir/ephemeris/china/chengdu/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chengdu/</guid><description>&lt;h2 id="geographic-information-of-chengdu">Geographic Information of Chengdu&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 30.6667
+-
+Longitude: 104.0667
+-
+Altitude: 499.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chengdu, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.6667', '104.0667');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chengdu Wednesday</title><link>https://astrology.ir/ephemeris/china/chengdu/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chengdu/wednesday/</guid><description>&lt;h2 id="geographic-information-of-chengdu">Geographic Information of Chengdu&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -2827,6 +3633,32 @@ Altitude: 499.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('30.6667', '104.0667');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chongqing</title><link>https://astrology.ir/ephemeris/china/chongqing/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chongqing/</guid><description>&lt;h2 id="geographic-information-of-chongqing">Geographic Information of Chongqing&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 29.5603
+-
+Longitude: 106.5577
+-
+Altitude: 234.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chongqing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('29.5603', '106.5577');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2858,6 +3690,32 @@ Altitude: 234.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Fuzhou</title><link>https://astrology.ir/ephemeris/china/fuzhou/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/fuzhou/</guid><description>&lt;h2 id="geographic-information-of-fuzhou">Geographic Information of Fuzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 26.0614
+-
+Longitude: 119.3061
+-
+Altitude: 14.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Fuzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('26.0614', '119.3061');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Fuzhou Wednesday</title><link>https://astrology.ir/ephemeris/china/fuzhou/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/fuzhou/wednesday/</guid><description>&lt;h2 id="geographic-information-of-fuzhou">Geographic Information of Fuzhou&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -2879,6 +3737,32 @@ Altitude: 14.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('26.0614', '119.3061');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guangzhou</title><link>https://astrology.ir/ephemeris/china/guangzhou/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guangzhou/</guid><description>&lt;h2 id="geographic-information-of-guangzhou">Geographic Information of Guangzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 23.1167
+-
+Longitude: 113.2500
+-
+Altitude: 15.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Guangzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('23.1167', '113.2500');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2910,6 +3794,32 @@ Altitude: 15.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guiyang</title><link>https://astrology.ir/ephemeris/china/guiyang/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guiyang/</guid><description>&lt;h2 id="geographic-information-of-guiyang">Geographic Information of Guiyang&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 26.5833
+-
+Longitude: 106.7167
+-
+Altitude: 1,087.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Guiyang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('26.5833', '106.7167');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guiyang Wednesday</title><link>https://astrology.ir/ephemeris/china/guiyang/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guiyang/wednesday/</guid><description>&lt;h2 id="geographic-information-of-guiyang">Geographic Information of Guiyang&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -2931,6 +3841,32 @@ Altitude: 1,087.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('26.5833', '106.7167');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hangzhou</title><link>https://astrology.ir/ephemeris/china/hangzhou/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hangzhou/</guid><description>&lt;h2 id="geographic-information-of-hangzhou">Geographic Information of Hangzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 30.2936
+-
+Longitude: 120.1614
+-
+Altitude: 12.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Hangzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.2936', '120.1614');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2962,6 +3898,32 @@ Altitude: 12.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Harbin</title><link>https://astrology.ir/ephemeris/china/harbin/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/harbin/</guid><description>&lt;h2 id="geographic-information-of-harbin">Geographic Information of Harbin&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 45.7500
+-
+Longitude: 126.6500
+-
+Altitude: 140.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Harbin, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('45.7500', '126.6500');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Harbin Wednesday</title><link>https://astrology.ir/ephemeris/china/harbin/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/harbin/wednesday/</guid><description>&lt;h2 id="geographic-information-of-harbin">Geographic Information of Harbin&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -2983,6 +3945,32 @@ Altitude: 140.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('45.7500', '126.6500');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei</title><link>https://astrology.ir/ephemeris/china/hefei/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 31.8639
+-
+Longitude: 117.2808
+-
+Altitude: 24.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.8639', '117.2808');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3014,6 +4002,32 @@ Altitude: 24.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jinan</title><link>https://astrology.ir/ephemeris/china/jinan/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/jinan/</guid><description>&lt;h2 id="geographic-information-of-jinan">Geographic Information of Jinan&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 36.6683
+-
+Longitude: 116.9972
+-
+Altitude: 32.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Jinan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('36.6683', '116.9972');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jinan Wednesday</title><link>https://astrology.ir/ephemeris/china/jinan/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/jinan/wednesday/</guid><description>&lt;h2 id="geographic-information-of-jinan">Geographic Information of Jinan&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3035,6 +4049,32 @@ Altitude: 32.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('36.6683', '116.9972');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kunming</title><link>https://astrology.ir/ephemeris/china/kunming/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/kunming/</guid><description>&lt;h2 id="geographic-information-of-kunming">Geographic Information of Kunming&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 25.0389
+-
+Longitude: 102.7183
+-
+Altitude: 1,895.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kunming, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('25.0389', '102.7183');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3066,6 +4106,32 @@ Altitude: 1,895.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lanzhou</title><link>https://astrology.ir/ephemeris/china/lanzhou/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/lanzhou/</guid><description>&lt;h2 id="geographic-information-of-lanzhou">Geographic Information of Lanzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 36.0570
+-
+Longitude: 103.8399
+-
+Altitude: 1,521.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Lanzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('36.0570', '103.8399');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lanzhou Wednesday</title><link>https://astrology.ir/ephemeris/china/lanzhou/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/lanzhou/wednesday/</guid><description>&lt;h2 id="geographic-information-of-lanzhou">Geographic Information of Lanzhou&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3087,6 +4153,32 @@ Altitude: 1,521.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('36.0570', '103.8399');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanchang</title><link>https://astrology.ir/ephemeris/china/nanchang/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanchang/</guid><description>&lt;h2 id="geographic-information-of-nanchang">Geographic Information of Nanchang&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 28.6840
+-
+Longitude: 115.8531
+-
+Altitude: 20.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nanchang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('28.6840', '115.8531');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3118,6 +4210,32 @@ Altitude: 20.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanjing</title><link>https://astrology.ir/ephemeris/china/nanjing/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanjing/</guid><description>&lt;h2 id="geographic-information-of-nanjing">Geographic Information of Nanjing&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 32.0617
+-
+Longitude: 118.7778
+-
+Altitude: 22.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nanjing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('32.0617', '118.7778');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanjing Wednesday</title><link>https://astrology.ir/ephemeris/china/nanjing/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanjing/wednesday/</guid><description>&lt;h2 id="geographic-information-of-nanjing">Geographic Information of Nanjing&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3139,6 +4257,32 @@ Altitude: 22.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('32.0617', '118.7778');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanning</title><link>https://astrology.ir/ephemeris/china/nanning/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanning/</guid><description>&lt;h2 id="geographic-information-of-nanning">Geographic Information of Nanning&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 22.8167
+-
+Longitude: 108.3167
+-
+Altitude: 91.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nanning, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('22.8167', '108.3167');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3170,6 +4314,32 @@ Altitude: 91.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shanghai</title><link>https://astrology.ir/ephemeris/china/shanghai/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shanghai/</guid><description>&lt;h2 id="geographic-information-of-shanghai">Geographic Information of Shanghai&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 31.2222
+-
+Longitude: 121.4581
+-
+Altitude: 12.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Shanghai, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('31.2222', '121.4581');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shanghai Wednesday</title><link>https://astrology.ir/ephemeris/china/shanghai/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shanghai/wednesday/</guid><description>&lt;h2 id="geographic-information-of-shanghai">Geographic Information of Shanghai&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3191,6 +4361,32 @@ Altitude: 12.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('31.2222', '121.4581');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shenyang</title><link>https://astrology.ir/ephemeris/china/shenyang/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shenyang/</guid><description>&lt;h2 id="geographic-information-of-shenyang">Geographic Information of Shenyang&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 41.7922
+-
+Longitude: 123.4328
+-
+Altitude: 53.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Shenyang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('41.7922', '123.4328');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3222,6 +4418,32 @@ Altitude: 53.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shijiazhuang</title><link>https://astrology.ir/ephemeris/china/shijiazhuang/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shijiazhuang/</guid><description>&lt;h2 id="geographic-information-of-shijiazhuang">Geographic Information of Shijiazhuang&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 38.0414
+-
+Longitude: 114.4786
+-
+Altitude: 77.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Shijiazhuang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.0414', '114.4786');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shijiazhuang Wednesday</title><link>https://astrology.ir/ephemeris/china/shijiazhuang/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shijiazhuang/wednesday/</guid><description>&lt;h2 id="geographic-information-of-shijiazhuang">Geographic Information of Shijiazhuang&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3243,6 +4465,32 @@ Altitude: 77.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('38.0414', '114.4786');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Taiyuan</title><link>https://astrology.ir/ephemeris/china/taiyuan/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/taiyuan/</guid><description>&lt;h2 id="geographic-information-of-taiyuan">Geographic Information of Taiyuan&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 37.8694
+-
+Longitude: 112.5603
+-
+Altitude: 795.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Taiyuan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('37.8694', '112.5603');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3274,6 +4522,32 @@ Altitude: 795.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tianjin</title><link>https://astrology.ir/ephemeris/china/tianjin/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/tianjin/</guid><description>&lt;h2 id="geographic-information-of-tianjin">Geographic Information of Tianjin&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 39.1422
+-
+Longitude: 117.1767
+-
+Altitude: 11.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Tianjin, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.1422', '117.1767');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tianjin Wednesday</title><link>https://astrology.ir/ephemeris/china/tianjin/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/tianjin/wednesday/</guid><description>&lt;h2 id="geographic-information-of-tianjin">Geographic Information of Tianjin&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3295,6 +4569,32 @@ Altitude: 11.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('39.1422', '117.1767');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan</title><link>https://astrology.ir/ephemeris/china/wuhan/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 30.5833
+-
+Longitude: 114.2667
+-
+Altitude: 20.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.5833', '114.2667');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3326,6 +4626,32 @@ Altitude: 20.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Xian</title><link>https://astrology.ir/ephemeris/china/xian/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/xian/</guid><description>&lt;h2 id="geographic-information-of-xian">Geographic Information of Xian&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 34.2583
+-
+Longitude: 108.9286
+-
+Altitude: 416.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Xi\u0027an, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.2583', '108.9286');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Xian Wednesday</title><link>https://astrology.ir/ephemeris/china/xian/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/xian/wednesday/</guid><description>&lt;h2 id="geographic-information-of-xian">Geographic Information of Xian&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3347,6 +4673,32 @@ Altitude: 416.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('34.2583', '108.9286');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Zhengzhou</title><link>https://astrology.ir/ephemeris/china/zhengzhou/</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/zhengzhou/</guid><description>&lt;h2 id="geographic-information-of-zhengzhou">Geographic Information of Zhengzhou&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 34.7578
+-
+Longitude: 113.6486
+-
+Altitude: 104.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Zhengzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.7578', '113.6486');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3378,32 +4730,6 @@ Altitude: 104.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi</title><link>https://astrology.ir/ephemeris/china/urumqi/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 43.8010
--
-Longitude: 87.6005
--
-Altitude: 862.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Urumqi, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('43.8010', '87.6005');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Tuesday</title><link>https://astrology.ir/ephemeris/china/urumqi/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/tuesday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
 &lt;p>TimeZone: +06:00
 -
@@ -3425,32 +4751,6 @@ Altitude: 862.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('43.8010', '87.6005');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Beijing</title><link>https://astrology.ir/ephemeris/china/beijing/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/beijing/</guid><description>&lt;h2 id="geographic-information-of-beijing">Geographic Information of Beijing&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 39.9075
--
-Longitude: 116.3972
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Beijing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.9075', '116.3972');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3482,32 +4782,6 @@ Altitude: 49.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changchun</title><link>https://astrology.ir/ephemeris/china/changchun/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changchun/</guid><description>&lt;h2 id="geographic-information-of-changchun">Geographic Information of Changchun&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 43.8800
--
-Longitude: 125.3228
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Changchun, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('43.8800', '125.3228');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changchun Tuesday</title><link>https://astrology.ir/ephemeris/china/changchun/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changchun/tuesday/</guid><description>&lt;h2 id="geographic-information-of-changchun">Geographic Information of Changchun&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3529,32 +4803,6 @@ Altitude: 206.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('43.8800', '125.3228');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changsha</title><link>https://astrology.ir/ephemeris/china/changsha/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changsha/</guid><description>&lt;h2 id="geographic-information-of-changsha">Geographic Information of Changsha&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 28.1987
--
-Longitude: 112.9709
--
-Altitude: 67.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Changsha, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('28.1987', '112.9709');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3586,32 +4834,6 @@ Altitude: 67.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chengdu</title><link>https://astrology.ir/ephemeris/china/chengdu/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chengdu/</guid><description>&lt;h2 id="geographic-information-of-chengdu">Geographic Information of Chengdu&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.6667
--
-Longitude: 104.0667
--
-Altitude: 499.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chengdu, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6667', '104.0667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chengdu Tuesday</title><link>https://astrology.ir/ephemeris/china/chengdu/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chengdu/tuesday/</guid><description>&lt;h2 id="geographic-information-of-chengdu">Geographic Information of Chengdu&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3633,32 +4855,6 @@ Altitude: 499.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('30.6667', '104.0667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chongqing</title><link>https://astrology.ir/ephemeris/china/chongqing/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chongqing/</guid><description>&lt;h2 id="geographic-information-of-chongqing">Geographic Information of Chongqing&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 29.5603
--
-Longitude: 106.5577
--
-Altitude: 234.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chongqing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.5603', '106.5577');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3690,32 +4886,6 @@ Altitude: 234.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Fuzhou</title><link>https://astrology.ir/ephemeris/china/fuzhou/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/fuzhou/</guid><description>&lt;h2 id="geographic-information-of-fuzhou">Geographic Information of Fuzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 26.0614
--
-Longitude: 119.3061
--
-Altitude: 14.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Fuzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.0614', '119.3061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Fuzhou Tuesday</title><link>https://astrology.ir/ephemeris/china/fuzhou/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/fuzhou/tuesday/</guid><description>&lt;h2 id="geographic-information-of-fuzhou">Geographic Information of Fuzhou&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3737,32 +4907,6 @@ Altitude: 14.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('26.0614', '119.3061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guangzhou</title><link>https://astrology.ir/ephemeris/china/guangzhou/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guangzhou/</guid><description>&lt;h2 id="geographic-information-of-guangzhou">Geographic Information of Guangzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 23.1167
--
-Longitude: 113.2500
--
-Altitude: 15.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guangzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1167', '113.2500');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3794,32 +4938,6 @@ Altitude: 15.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guiyang</title><link>https://astrology.ir/ephemeris/china/guiyang/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guiyang/</guid><description>&lt;h2 id="geographic-information-of-guiyang">Geographic Information of Guiyang&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 26.5833
--
-Longitude: 106.7167
--
-Altitude: 1,087.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guiyang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.5833', '106.7167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guiyang Tuesday</title><link>https://astrology.ir/ephemeris/china/guiyang/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guiyang/tuesday/</guid><description>&lt;h2 id="geographic-information-of-guiyang">Geographic Information of Guiyang&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3841,32 +4959,6 @@ Altitude: 1,087.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('26.5833', '106.7167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hangzhou</title><link>https://astrology.ir/ephemeris/china/hangzhou/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hangzhou/</guid><description>&lt;h2 id="geographic-information-of-hangzhou">Geographic Information of Hangzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.2936
--
-Longitude: 120.1614
--
-Altitude: 12.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hangzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2936', '120.1614');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -3898,32 +4990,6 @@ Altitude: 12.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Harbin</title><link>https://astrology.ir/ephemeris/china/harbin/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/harbin/</guid><description>&lt;h2 id="geographic-information-of-harbin">Geographic Information of Harbin&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 45.7500
--
-Longitude: 126.6500
--
-Altitude: 140.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Harbin, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('45.7500', '126.6500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Harbin Tuesday</title><link>https://astrology.ir/ephemeris/china/harbin/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/harbin/tuesday/</guid><description>&lt;h2 id="geographic-information-of-harbin">Geographic Information of Harbin&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -3945,32 +5011,6 @@ Altitude: 140.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('45.7500', '126.6500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei</title><link>https://astrology.ir/ephemeris/china/hefei/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -4002,32 +5042,6 @@ Altitude: 24.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jinan</title><link>https://astrology.ir/ephemeris/china/jinan/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/jinan/</guid><description>&lt;h2 id="geographic-information-of-jinan">Geographic Information of Jinan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 36.6683
--
-Longitude: 116.9972
--
-Altitude: 32.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Jinan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('36.6683', '116.9972');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jinan Tuesday</title><link>https://astrology.ir/ephemeris/china/jinan/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/jinan/tuesday/</guid><description>&lt;h2 id="geographic-information-of-jinan">Geographic Information of Jinan&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -4049,32 +5063,6 @@ Altitude: 32.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('36.6683', '116.9972');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kunming</title><link>https://astrology.ir/ephemeris/china/kunming/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/kunming/</guid><description>&lt;h2 id="geographic-information-of-kunming">Geographic Information of Kunming&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 25.0389
--
-Longitude: 102.7183
--
-Altitude: 1,895.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kunming, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.0389', '102.7183');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -4106,32 +5094,6 @@ Altitude: 1,895.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lanzhou</title><link>https://astrology.ir/ephemeris/china/lanzhou/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/lanzhou/</guid><description>&lt;h2 id="geographic-information-of-lanzhou">Geographic Information of Lanzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 36.0570
--
-Longitude: 103.8399
--
-Altitude: 1,521.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lanzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('36.0570', '103.8399');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lanzhou Tuesday</title><link>https://astrology.ir/ephemeris/china/lanzhou/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/lanzhou/tuesday/</guid><description>&lt;h2 id="geographic-information-of-lanzhou">Geographic Information of Lanzhou&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -4153,32 +5115,6 @@ Altitude: 1,521.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('36.0570', '103.8399');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanchang</title><link>https://astrology.ir/ephemeris/china/nanchang/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanchang/</guid><description>&lt;h2 id="geographic-information-of-nanchang">Geographic Information of Nanchang&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 28.6840
--
-Longitude: 115.8531
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nanchang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('28.6840', '115.8531');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -4210,32 +5146,6 @@ Altitude: 20.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanjing</title><link>https://astrology.ir/ephemeris/china/nanjing/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanjing/</guid><description>&lt;h2 id="geographic-information-of-nanjing">Geographic Information of Nanjing&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 32.0617
--
-Longitude: 118.7778
--
-Altitude: 22.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nanjing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('32.0617', '118.7778');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanjing Tuesday</title><link>https://astrology.ir/ephemeris/china/nanjing/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanjing/tuesday/</guid><description>&lt;h2 id="geographic-information-of-nanjing">Geographic Information of Nanjing&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -4257,32 +5167,6 @@ Altitude: 22.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('32.0617', '118.7778');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanning</title><link>https://astrology.ir/ephemeris/china/nanning/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanning/</guid><description>&lt;h2 id="geographic-information-of-nanning">Geographic Information of Nanning&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 22.8167
--
-Longitude: 108.3167
--
-Altitude: 91.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nanning, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('22.8167', '108.3167');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -4314,32 +5198,6 @@ Altitude: 91.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shanghai</title><link>https://astrology.ir/ephemeris/china/shanghai/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shanghai/</guid><description>&lt;h2 id="geographic-information-of-shanghai">Geographic Information of Shanghai&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.2222
--
-Longitude: 121.4581
--
-Altitude: 12.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Shanghai, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.2222', '121.4581');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shanghai Tuesday</title><link>https://astrology.ir/ephemeris/china/shanghai/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shanghai/tuesday/</guid><description>&lt;h2 id="geographic-information-of-shanghai">Geographic Information of Shanghai&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -4361,32 +5219,6 @@ Altitude: 12.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('31.2222', '121.4581');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shenyang</title><link>https://astrology.ir/ephemeris/china/shenyang/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shenyang/</guid><description>&lt;h2 id="geographic-information-of-shenyang">Geographic Information of Shenyang&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 41.7922
--
-Longitude: 123.4328
--
-Altitude: 53.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Shenyang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('41.7922', '123.4328');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -4418,32 +5250,6 @@ Altitude: 53.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shijiazhuang</title><link>https://astrology.ir/ephemeris/china/shijiazhuang/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shijiazhuang/</guid><description>&lt;h2 id="geographic-information-of-shijiazhuang">Geographic Information of Shijiazhuang&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 38.0414
--
-Longitude: 114.4786
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Shijiazhuang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.0414', '114.4786');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shijiazhuang Tuesday</title><link>https://astrology.ir/ephemeris/china/shijiazhuang/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shijiazhuang/tuesday/</guid><description>&lt;h2 id="geographic-information-of-shijiazhuang">Geographic Information of Shijiazhuang&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -4465,32 +5271,6 @@ Altitude: 77.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('38.0414', '114.4786');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Taiyuan</title><link>https://astrology.ir/ephemeris/china/taiyuan/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/taiyuan/</guid><description>&lt;h2 id="geographic-information-of-taiyuan">Geographic Information of Taiyuan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 37.8694
--
-Longitude: 112.5603
--
-Altitude: 795.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Taiyuan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.8694', '112.5603');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -4522,32 +5302,6 @@ Altitude: 795.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tianjin</title><link>https://astrology.ir/ephemeris/china/tianjin/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/tianjin/</guid><description>&lt;h2 id="geographic-information-of-tianjin">Geographic Information of Tianjin&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 39.1422
--
-Longitude: 117.1767
--
-Altitude: 11.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Tianjin, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.1422', '117.1767');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tianjin Tuesday</title><link>https://astrology.ir/ephemeris/china/tianjin/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/tianjin/tuesday/</guid><description>&lt;h2 id="geographic-information-of-tianjin">Geographic Information of Tianjin&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -4569,32 +5323,6 @@ Altitude: 11.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('39.1422', '117.1767');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan</title><link>https://astrology.ir/ephemeris/china/wuhan/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -4626,32 +5354,6 @@ Altitude: 20.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Xian</title><link>https://astrology.ir/ephemeris/china/xian/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/xian/</guid><description>&lt;h2 id="geographic-information-of-xian">Geographic Information of Xian&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 34.2583
--
-Longitude: 108.9286
--
-Altitude: 416.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Xi\u0027an, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.2583', '108.9286');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Xian Tuesday</title><link>https://astrology.ir/ephemeris/china/xian/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/xian/tuesday/</guid><description>&lt;h2 id="geographic-information-of-xian">Geographic Information of Xian&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -4678,709 +5380,7 @@ Altitude: 416.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Zhengzhou</title><link>https://astrology.ir/ephemeris/china/zhengzhou/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/zhengzhou/</guid><description>&lt;h2 id="geographic-information-of-zhengzhou">Geographic Information of Zhengzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 34.7578
--
-Longitude: 113.6486
--
-Altitude: 104.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Zhengzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.7578', '113.6486');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Zhengzhou Tuesday</title><link>https://astrology.ir/ephemeris/china/zhengzhou/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/zhengzhou/tuesday/</guid><description>&lt;h2 id="geographic-information-of-zhengzhou">Geographic Information of Zhengzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 34.7578
--
-Longitude: 113.6486
--
-Altitude: 104.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Zhengzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.7578', '113.6486');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Monday</title><link>https://astrology.ir/ephemeris/china/urumqi/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/monday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 43.8010
--
-Longitude: 87.6005
--
-Altitude: 862.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Urumqi, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('43.8010', '87.6005');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Beijing Monday</title><link>https://astrology.ir/ephemeris/china/beijing/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/beijing/monday/</guid><description>&lt;h2 id="geographic-information-of-beijing">Geographic Information of Beijing&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 39.9075
--
-Longitude: 116.3972
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Beijing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.9075', '116.3972');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changchun Monday</title><link>https://astrology.ir/ephemeris/china/changchun/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changchun/monday/</guid><description>&lt;h2 id="geographic-information-of-changchun">Geographic Information of Changchun&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 43.8800
--
-Longitude: 125.3228
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Changchun, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('43.8800', '125.3228');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Changsha Monday</title><link>https://astrology.ir/ephemeris/china/changsha/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/changsha/monday/</guid><description>&lt;h2 id="geographic-information-of-changsha">Geographic Information of Changsha&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 28.1987
--
-Longitude: 112.9709
--
-Altitude: 67.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Changsha, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('28.1987', '112.9709');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chengdu Monday</title><link>https://astrology.ir/ephemeris/china/chengdu/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chengdu/monday/</guid><description>&lt;h2 id="geographic-information-of-chengdu">Geographic Information of Chengdu&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.6667
--
-Longitude: 104.0667
--
-Altitude: 499.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chengdu, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6667', '104.0667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chongqing Monday</title><link>https://astrology.ir/ephemeris/china/chongqing/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/chongqing/monday/</guid><description>&lt;h2 id="geographic-information-of-chongqing">Geographic Information of Chongqing&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 29.5603
--
-Longitude: 106.5577
--
-Altitude: 234.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chongqing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.5603', '106.5577');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Fuzhou Monday</title><link>https://astrology.ir/ephemeris/china/fuzhou/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/fuzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-fuzhou">Geographic Information of Fuzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 26.0614
--
-Longitude: 119.3061
--
-Altitude: 14.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Fuzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.0614', '119.3061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guangzhou Monday</title><link>https://astrology.ir/ephemeris/china/guangzhou/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guangzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-guangzhou">Geographic Information of Guangzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 23.1167
--
-Longitude: 113.2500
--
-Altitude: 15.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guangzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1167', '113.2500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guiyang Monday</title><link>https://astrology.ir/ephemeris/china/guiyang/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/guiyang/monday/</guid><description>&lt;h2 id="geographic-information-of-guiyang">Geographic Information of Guiyang&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 26.5833
--
-Longitude: 106.7167
--
-Altitude: 1,087.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guiyang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.5833', '106.7167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hangzhou Monday</title><link>https://astrology.ir/ephemeris/china/hangzhou/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hangzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-hangzhou">Geographic Information of Hangzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.2936
--
-Longitude: 120.1614
--
-Altitude: 12.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hangzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2936', '120.1614');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Harbin Monday</title><link>https://astrology.ir/ephemeris/china/harbin/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/harbin/monday/</guid><description>&lt;h2 id="geographic-information-of-harbin">Geographic Information of Harbin&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 45.7500
--
-Longitude: 126.6500
--
-Altitude: 140.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Harbin, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('45.7500', '126.6500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei Monday</title><link>https://astrology.ir/ephemeris/china/hefei/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/monday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jinan Monday</title><link>https://astrology.ir/ephemeris/china/jinan/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/jinan/monday/</guid><description>&lt;h2 id="geographic-information-of-jinan">Geographic Information of Jinan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 36.6683
--
-Longitude: 116.9972
--
-Altitude: 32.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Jinan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('36.6683', '116.9972');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kunming Monday</title><link>https://astrology.ir/ephemeris/china/kunming/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/kunming/monday/</guid><description>&lt;h2 id="geographic-information-of-kunming">Geographic Information of Kunming&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 25.0389
--
-Longitude: 102.7183
--
-Altitude: 1,895.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kunming, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.0389', '102.7183');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lanzhou Monday</title><link>https://astrology.ir/ephemeris/china/lanzhou/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/lanzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-lanzhou">Geographic Information of Lanzhou&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 36.0570
--
-Longitude: 103.8399
--
-Altitude: 1,521.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lanzhou, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('36.0570', '103.8399');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanchang Monday</title><link>https://astrology.ir/ephemeris/china/nanchang/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanchang/monday/</guid><description>&lt;h2 id="geographic-information-of-nanchang">Geographic Information of Nanchang&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 28.6840
--
-Longitude: 115.8531
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nanchang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('28.6840', '115.8531');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanjing Monday</title><link>https://astrology.ir/ephemeris/china/nanjing/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanjing/monday/</guid><description>&lt;h2 id="geographic-information-of-nanjing">Geographic Information of Nanjing&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 32.0617
--
-Longitude: 118.7778
--
-Altitude: 22.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nanjing, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('32.0617', '118.7778');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nanning Monday</title><link>https://astrology.ir/ephemeris/china/nanning/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/nanning/monday/</guid><description>&lt;h2 id="geographic-information-of-nanning">Geographic Information of Nanning&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 22.8167
--
-Longitude: 108.3167
--
-Altitude: 91.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nanning, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('22.8167', '108.3167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shanghai Monday</title><link>https://astrology.ir/ephemeris/china/shanghai/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shanghai/monday/</guid><description>&lt;h2 id="geographic-information-of-shanghai">Geographic Information of Shanghai&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.2222
--
-Longitude: 121.4581
--
-Altitude: 12.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Shanghai, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.2222', '121.4581');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shenyang Monday</title><link>https://astrology.ir/ephemeris/china/shenyang/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shenyang/monday/</guid><description>&lt;h2 id="geographic-information-of-shenyang">Geographic Information of Shenyang&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 41.7922
--
-Longitude: 123.4328
--
-Altitude: 53.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Shenyang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('41.7922', '123.4328');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Shijiazhuang Monday</title><link>https://astrology.ir/ephemeris/china/shijiazhuang/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/shijiazhuang/monday/</guid><description>&lt;h2 id="geographic-information-of-shijiazhuang">Geographic Information of Shijiazhuang&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 38.0414
--
-Longitude: 114.4786
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Shijiazhuang, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.0414', '114.4786');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Taiyuan Monday</title><link>https://astrology.ir/ephemeris/china/taiyuan/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/taiyuan/monday/</guid><description>&lt;h2 id="geographic-information-of-taiyuan">Geographic Information of Taiyuan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 37.8694
--
-Longitude: 112.5603
--
-Altitude: 795.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Taiyuan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.8694', '112.5603');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tianjin Monday</title><link>https://astrology.ir/ephemeris/china/tianjin/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/tianjin/monday/</guid><description>&lt;h2 id="geographic-information-of-tianjin">Geographic Information of Tianjin&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 39.1422
--
-Longitude: 117.1767
--
-Altitude: 11.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Tianjin, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.1422', '117.1767');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan Monday</title><link>https://astrology.ir/ephemeris/china/wuhan/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/monday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Xian Monday</title><link>https://astrology.ir/ephemeris/china/xian/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/xian/monday/</guid><description>&lt;h2 id="geographic-information-of-xian">Geographic Information of Xian&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 34.2583
--
-Longitude: 108.9286
--
-Altitude: 416.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Xi\u0027an, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.2583', '108.9286');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Zhengzhou Monday</title><link>https://astrology.ir/ephemeris/china/zhengzhou/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/zhengzhou/monday/</guid><description>&lt;h2 id="geographic-information-of-zhengzhou">Geographic Information of Zhengzhou&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
 Latitude: 34.7578
