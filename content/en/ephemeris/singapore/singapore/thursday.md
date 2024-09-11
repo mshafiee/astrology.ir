@@ -220,7 +220,7 @@ Timetable of twelve day and night planetary hours
 |2|Mars|Servant|07:57:38|08:58:15|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|08:58:16|09:58:53|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|09:58:54|10:59:30|Creating love, connection and marriage|
-|5|Mercury|Servant|10:59:31|12:00:08|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Mercury|Servant|10:59:31|12:00:08|Indulgence|
 |6|Moon|Servant|12:00:09|13:00:46|Outer and inner journey|
 |7|Saturn|Servant|13:00:47|14:01:23|Achieving status and power|
 |8|Jupiter|Ruler|14:01:24|15:02:01|Attraction of happiness and fortune|
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°39'46.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°12'46.68" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°12'46.68" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|4°49'51.47" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|20°39'43.76" |Leo|Zubrah|Mars|
 |♀ Venus|Direct|17°36'57.85" |Virgo|Simak|Venus|
-|☿ Mercury|Post-Retrograde Shadow|5°40'53.02" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|5°40'53.02" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|10°51'28.95" |Sagittarius|NaAaem|Moon|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°39'46.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°12'46.68" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°12'46.68" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°49'51.47" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|20°39'43.76" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|17°36'57.85" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|5°40'53.02" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|5°40'53.02" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|10°51'28.95" |Capricorn|SaadAlDhabib|Mars|
 
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°27'8.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°25'54.98" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°25'54.98" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|6°26'11.93" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|23°21'50.12" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|21°0'23.41" |Virgo|Simak|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|10°28'38.15" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°53'16.29" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|10°28'38.15" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°31'57.75" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Venus|Mercury|Jupiter|Sun|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°27'8.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°25'56.97" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°26'19.70" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°21'58.81" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|20°25'54.98" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°26'11.93" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°21'50.12" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|21°0'23.41" |Libra|Jubana|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|10°28'38.15" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|10°28'38.15" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|20°53'16.29" |Aquarius|SaadAlAkhbia|Moon|
 
 

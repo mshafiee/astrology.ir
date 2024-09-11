@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Moon|Servant|21:39:33|22:38:39|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Saturn|Servant|22:38:40|23:37:46|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Jupiter|Servant|23:37:47|00:36:54|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mars|Servant|00:36:55|01:36:01|Attracting love and hearts and fortune|
+|7|Mars|Servant|00:36:55|01:36:01|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|01:36:02|02:35:08|Being invisible to the people|
 |9|Venus|Servant|02:35:09|03:34:16|Separation, causing enmity|
 |10|Mercury|Servant|03:34:17|04:33:23|Dominating the great ones|
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°42'19.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°9'57.96" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°9'57.96" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|4°30'16.80" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|20°7'5.52" |Leo|Zubrah|Mars|
 |♀ Venus|Direct|16°55'59.33" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|4°45'33.24" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|4°45'33.24" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|3°32'12.19" |Sagittarius|Shaulah|Mercury|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°42'19.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°9'57.96" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°9'57.96" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°30'16.80" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|20°7'5.52" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|16°55'59.33" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|4°45'33.24" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|16°55'56.28" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|4°45'33.24" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°32'12.19" |Capricorn|SaadAlDhabib|Jupiter|
 
 

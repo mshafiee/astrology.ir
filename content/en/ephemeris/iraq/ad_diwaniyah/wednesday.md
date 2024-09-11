@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°48'13.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°3'18.73" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|3°45'7.29" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|18°52'4.00" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|15°21'45.33" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|2°42'39.64" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|16°49'54.91" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|15°48'12.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°3'18.18" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|3°45'5.49" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|18°52'7.14" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|15°21'48.32" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|2°42'41.55" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°13'20.15" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°48'13.01" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°3'18.73" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°45'7.29" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|15°48'12.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°3'18.18" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°45'5.49" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|18°52'7.14" |Virgo|Simak|Venus|
 |♀ Venus|Direct|15°21'48.32" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|2°42'41.55" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|2°42'41.55" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|17°13'20.15" |Sagittarius|Baldah|Moon|
 
 
