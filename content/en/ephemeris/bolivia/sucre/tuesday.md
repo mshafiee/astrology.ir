@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°46'45.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°4'58.90" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°4'58.90" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|3°56'19.12" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|19°10'40.58" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|15°45'8.84" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|3°12'32.13" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°13'11.25" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|19°10'40.74" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|15°45'8.90" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|3°12'32.30" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°12'26.45" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°46'45.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°4'58.90" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°56'13.35" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°10'37.02" |Virgo|Simak|Venus|
-|♀ Venus|Direct|15°45'8.93" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|3°12'27.23" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|21°57'48.25" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°4'58.90" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°56'19.23" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°10'40.74" |Virgo|Simak|Venus|
+|♀ Venus|Direct|15°45'8.90" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|3°12'32.30" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°12'26.45" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

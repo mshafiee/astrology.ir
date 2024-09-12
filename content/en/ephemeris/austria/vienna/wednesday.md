@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Mars|Servant|00:51:11|01:47:14|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|01:47:15|02:43:18|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Venus|Servant|02:43:19|03:39:22|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mercury|Servant|03:39:23|04:35:26|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mercury|Servant|03:39:23|04:35:26|Dominating the great ones|
 |11|Moon|Servant|04:35:27|05:31:30|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Saturn|Servant|05:31:31|06:27:34|Creating evil and hatred|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°47'52.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°3'41.14" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|3°47'38.89" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|18°56'20.45" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|15°27'7.16" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|2°49'26.90" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|18°7'33.35" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|15°47'54.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|20°3'39.61" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|3°47'32.08" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|18°56'6.73" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|15°27'0.64" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|2°49'13.30" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|18°41'54.13" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°47'52.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°3'41.14" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°3'41.14" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°47'38.89" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|18°56'20.45" |Virgo|Simak|Venus|
 |♀ Venus|Direct|15°27'7.16" |Libra|Jubana|Saturn|

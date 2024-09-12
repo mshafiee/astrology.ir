@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°24'6.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°28'55.69" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°28'55.69" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|6°49'25.18" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|24°1'10.25" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|21°49'31.71" |Virgo|Simak|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°24'6.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°28'55.69" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°49'25.18" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|24°1'10.25" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|21°49'31.71" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|11°40'47.07" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|29°32'9.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|20°28'54.18" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°49'19.65" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°1'4.42" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|21°49'30.20" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|11°40'41.31" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|0°25'55.31" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Venus|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Saturn|Saturn|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Mars|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}

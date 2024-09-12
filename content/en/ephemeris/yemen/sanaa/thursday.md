@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°43'35.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°8'31.30" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°20'25.12" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|19°50'38.55" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|16°35'31.54" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|4°18'14.61" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°51'52.15" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|20°8'33.01" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°20'32.49" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|19°50'53.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°35'38.82" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|4°18'29.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|29°57'11.93" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Sun|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Venus|Venus|Virgo|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°43'35.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°8'33.01" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°8'33.01" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°20'32.49" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|19°50'53.75" |Virgo|Simak|Venus|
 |♀ Venus|Direct|16°35'38.82" |Libra|Jubana|Saturn|

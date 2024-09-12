@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:57:26 |
-| Sunrise | 06:05:52 |
+| Sunrise | 06:05:51 |
 | Dhuhr (Noon) | 12:08:59 |
 | Medium Coeli | 12:08:59 |
 | Sunset | 18:12:08 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:56:14 |
-| Sunrise | 06:05:52 |
+| Sunrise | 06:05:51 |
 | Dhuhr (Noon) | 12:08:59 |
 | Medium Coeli | 12:08:59 |
 | Sunset | 18:12:08 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:08:14 |
-| Sunrise | 06:05:52 |
+| Sunrise | 06:05:51 |
 | Dhuhr (Noon) | 12:08:59 |
 | Medium Coeli | 12:08:59 |
 | Sunset | 18:12:08 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°24'12.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°28'49.06" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|6°48'33.71" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|23°59'44.98" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°47'42.82" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|11°38'6.28" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|28°48'58.16" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°28'49.06" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|6°48'33.59" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|23°59'42.26" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°47'40.99" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|11°38'4.17" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°4'25.47" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°24'12.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°28'49.06" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°28'49.06" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°48'33.71" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|23°59'44.98" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|21°47'42.82" |Libra|Jubana|Jupiter|

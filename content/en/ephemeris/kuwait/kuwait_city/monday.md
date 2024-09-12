@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°25'26.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°27'36.25" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|6°39'9.07" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|23°43'49.08" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°27'47.04" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|11°8'45.65" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°0'16.29" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°27'36.93" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|6°39'11.49" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|23°43'50.00" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°27'46.57" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|11°8'46.94" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°44'10.83" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°25'26.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°27'36.93" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°27'36.93" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°39'11.49" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|23°43'50.00" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|21°27'46.57" |Libra|Jubana|Jupiter|

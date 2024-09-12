@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Jupiter|Ruler|05:52:12|06:53:44|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|06:53:45|07:55:17|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|07:55:18|08:56:50|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Venus|Servant|08:56:51|09:58:23|Creating love, connection and marriage|
+|4|Venus|Servant|08:56:51|09:58:23|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|09:58:24|10:59:56|Indulgence|
 |6|Moon|Servant|10:59:57|12:01:30|Outer and inner journey|
 |7|Saturn|Servant|12:01:31|13:03:03|Achieving status and power|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°39'41.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°12'51.99" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°50'29.04" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|20°40'46.93" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|17°38'16.76" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|5°42'40.60" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|11°4'15.83" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|15°39'40.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|20°12'51.77" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°50'28.96" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|20°40'46.91" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|17°38'16.68" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|5°42'40.58" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|11°4'16.37" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°39'41.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°12'51.99" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°50'29.04" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°40'46.93" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|15°39'40.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|20°12'51.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°50'28.96" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°40'46.91" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|17°38'16.76" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|5°42'40.60" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|11°4'15.83" |Capricorn|SaadAlDhabib|Mars|
