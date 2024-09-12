@@ -1,4 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>United States on Astrology</title><link>https://astrology.ir/tags/united-states/</link><description>Recent content in United States on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 -0700</lastBuildDate><atom:link href="https://astrology.ir/tags/united-states/index.xml" rel="self" type="application/rss+xml"/><item><title>Phoenix Sunday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/sunday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>United States on Astrology</title><link>https://astrology.ir/tags/united-states/</link><description>Recent content in United States on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Mon, 16 Sep 2024 00:00:00 -0700</lastBuildDate><atom:link href="https://astrology.ir/tags/united-states/index.xml" rel="self" type="application/rss+xml"/><item><title>Phoenix Monday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/monday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
+&lt;p>TimeZone: -07:00
+-
+Latitude: 33.4484
+-
+Longitude: -112.0740
+-
+Altitude: 366.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('33.4484', '-112.0740');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Monday</title><link>https://astrology.ir/ephemeris/united_states/austin/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/monday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 30.2672
+-
+Longitude: -97.7431
+-
+Altitude: 165.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.2672', '-97.7431');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Columbus Monday</title><link>https://astrology.ir/ephemeris/united_states/columbus/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/columbus/monday/</guid><description>&lt;h2 id="geographic-information-of-columbus">Geographic Information of Columbus&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 39.9612
+-
+Longitude: -82.9988
+-
+Altitude: 242.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Columbus, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.9612', '-82.9988');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Indianapolis Monday</title><link>https://astrology.ir/ephemeris/united_states/indianapolis/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/indianapolis/monday/</guid><description>&lt;h2 id="geographic-information-of-indianapolis">Geographic Information of Indianapolis&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 39.7684
+-
+Longitude: -86.1580
+-
+Altitude: 248.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Indianapolis, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.7684', '-86.1580');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Washington Monday</title><link>https://astrology.ir/ephemeris/united_states/washington/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/washington/monday/</guid><description>&lt;h2 id="geographic-information-of-washington">Geographic Information of Washington&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 38.8951
+-
+Longitude: -77.0364
+-
+Altitude: 6.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Washington, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.8951', '-77.0364');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Sunday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/sunday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
 &lt;p>TimeZone: -07:00
 -
 Latitude: 33.4484
@@ -518,6 +648,32 @@ Altitude: 6.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix</title><link>https://astrology.ir/ephemeris/united_states/phoenix/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
+&lt;p>TimeZone: -07:00
+-
+Latitude: 33.4484
+-
+Longitude: -112.0740
+-
+Altitude: 366.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('33.4484', '-112.0740');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Wednesday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/wednesday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
 &lt;p>TimeZone: -07:00
 -
@@ -539,6 +695,32 @@ Altitude: 366.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('33.4484', '-112.0740');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin</title><link>https://astrology.ir/ephemeris/united_states/austin/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 30.2672
+-
+Longitude: -97.7431
+-
+Altitude: 165.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.2672', '-97.7431');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -570,6 +752,32 @@ Altitude: 165.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Columbus</title><link>https://astrology.ir/ephemeris/united_states/columbus/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/columbus/</guid><description>&lt;h2 id="geographic-information-of-columbus">Geographic Information of Columbus&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 39.9612
+-
+Longitude: -82.9988
+-
+Altitude: 242.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Columbus, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.9612', '-82.9988');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Columbus Wednesday</title><link>https://astrology.ir/ephemeris/united_states/columbus/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/columbus/wednesday/</guid><description>&lt;h2 id="geographic-information-of-columbus">Geographic Information of Columbus&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
@@ -591,6 +799,32 @@ Altitude: 242.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('39.9612', '-82.9988');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Indianapolis</title><link>https://astrology.ir/ephemeris/united_states/indianapolis/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/indianapolis/</guid><description>&lt;h2 id="geographic-information-of-indianapolis">Geographic Information of Indianapolis&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 39.7684
+-
+Longitude: -86.1580
+-
+Altitude: 248.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Indianapolis, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('39.7684', '-86.1580');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -622,7 +856,7 @@ Altitude: 248.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Washington Wednesday</title><link>https://astrology.ir/ephemeris/united_states/washington/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/washington/wednesday/</guid><description>&lt;h2 id="geographic-information-of-washington">Geographic Information of Washington&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Washington</title><link>https://astrology.ir/ephemeris/united_states/washington/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/washington/</guid><description>&lt;h2 id="geographic-information-of-washington">Geographic Information of Washington&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
 Latitude: 38.8951
@@ -648,14 +882,14 @@ Altitude: 6.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix</title><link>https://astrology.ir/ephemeris/united_states/phoenix/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Washington Wednesday</title><link>https://astrology.ir/ephemeris/united_states/washington/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/washington/wednesday/</guid><description>&lt;h2 id="geographic-information-of-washington">Geographic Information of Washington&lt;/h2>
+&lt;p>TimeZone: -04:00
 -
-Latitude: 33.4484
+Latitude: 38.8951
 -
-Longitude: -112.0740
+Longitude: -77.0364
 -
-Altitude: 366.0000 meters&lt;/p>
+Altitude: 6.0000 meters&lt;/p>
 &lt;div class="shortcode shortcode-osm-maps">
 	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
 	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
@@ -665,10 +899,10 @@ Altitude: 366.0000 meters&lt;/p>
 		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
 		var map = L.map(element);
 		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+			attribution: '&lt;div dir="ltr">Washington, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
+		var target = L.latLng('38.8951', '-77.0364');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -700,32 +934,6 @@ Altitude: 366.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin</title><link>https://astrology.ir/ephemeris/united_states/austin/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 30.2672
--
-Longitude: -97.7431
--
-Altitude: 165.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2672', '-97.7431');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Tuesday</title><link>https://astrology.ir/ephemeris/united_states/austin/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/tuesday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
@@ -747,32 +955,6 @@ Altitude: 165.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('30.2672', '-97.7431');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Columbus</title><link>https://astrology.ir/ephemeris/united_states/columbus/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/columbus/</guid><description>&lt;h2 id="geographic-information-of-columbus">Geographic Information of Columbus&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 39.9612
--
-Longitude: -82.9988
--
-Altitude: 242.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Columbus, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.9612', '-82.9988');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -804,32 +986,6 @@ Altitude: 242.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Indianapolis</title><link>https://astrology.ir/ephemeris/united_states/indianapolis/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/indianapolis/</guid><description>&lt;h2 id="geographic-information-of-indianapolis">Geographic Information of Indianapolis&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 39.7684
--
-Longitude: -86.1580
--
-Altitude: 248.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Indianapolis, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.7684', '-86.1580');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Indianapolis Tuesday</title><link>https://astrology.ir/ephemeris/united_states/indianapolis/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/indianapolis/tuesday/</guid><description>&lt;h2 id="geographic-information-of-indianapolis">Geographic Information of Indianapolis&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
@@ -856,163 +1012,7 @@ Altitude: 248.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Washington</title><link>https://astrology.ir/ephemeris/united_states/washington/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/washington/</guid><description>&lt;h2 id="geographic-information-of-washington">Geographic Information of Washington&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 38.8951
--
-Longitude: -77.0364
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Washington, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.8951', '-77.0364');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Washington Tuesday</title><link>https://astrology.ir/ephemeris/united_states/washington/tuesday/</link><pubDate>Tue, 10 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/washington/tuesday/</guid><description>&lt;h2 id="geographic-information-of-washington">Geographic Information of Washington&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 38.8951
--
-Longitude: -77.0364
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Washington, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.8951', '-77.0364');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Monday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/monday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Monday</title><link>https://astrology.ir/ephemeris/united_states/austin/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/monday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 30.2672
--
-Longitude: -97.7431
--
-Altitude: 165.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2672', '-97.7431');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Columbus Monday</title><link>https://astrology.ir/ephemeris/united_states/columbus/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/columbus/monday/</guid><description>&lt;h2 id="geographic-information-of-columbus">Geographic Information of Columbus&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 39.9612
--
-Longitude: -82.9988
--
-Altitude: 242.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Columbus, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.9612', '-82.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Indianapolis Monday</title><link>https://astrology.ir/ephemeris/united_states/indianapolis/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/indianapolis/monday/</guid><description>&lt;h2 id="geographic-information-of-indianapolis">Geographic Information of Indianapolis&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 39.7684
--
-Longitude: -86.1580
--
-Altitude: 248.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Indianapolis, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('39.7684', '-86.1580');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Washington Monday</title><link>https://astrology.ir/ephemeris/united_states/washington/monday/</link><pubDate>Mon, 09 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/united_states/washington/monday/</guid><description>&lt;h2 id="geographic-information-of-washington">Geographic Information of Washington&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
 Latitude: 38.8951
