@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|05:34:46|06:37:09|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mars|Servant|06:37:10|07:39:33|Destruction of enemies|
+|2|Mars|Servant|06:37:10|07:39:33|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|07:39:34|08:41:57|Attraction of financial and emotional love|
 |4|Venus|Servant|08:41:58|09:44:22|Creating love, connection and marriage|
 |5|Mercury|Servant|09:44:23|10:46:46|Indulgence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°43'56.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°8'10.04" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°17'55.51" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|19°46'32.83" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|16°30'11.22" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|4°11'16.19" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|28°59'59.37" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|15°43'55.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°8'9.81" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°17'55.44" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|19°46'32.80" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°30'11.14" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|4°11'16.17" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|28°59'59.54" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°43'56.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°8'10.04" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°17'55.51" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°46'32.83" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|15°43'55.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°8'9.81" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°17'55.44" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°46'32.80" |Virgo|Simak|Venus|
 |♀ Venus|Direct|16°30'11.22" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|4°11'16.19" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|28°59'59.37" |Sagittarius|Baldah|Saturn|

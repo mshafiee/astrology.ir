@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°40'33.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°11'54.03" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°43'44.36" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|20°29'31.12" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|17°24'8.87" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|5°23'28.00" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°33'33.29" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|15°40'34.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°11'54.26" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°43'44.43" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|20°29'31.15" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|17°24'3.25" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|5°23'24.82" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|7°58'51.85" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Saturn|Saturn|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°40'33.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°11'54.03" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°43'44.36" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°29'31.12" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|15°40'34.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°11'54.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°43'44.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°29'31.15" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|17°24'8.95" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|5°23'28.02" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|8°33'32.83" |Capricorn|SaadAlDhabib|Jupiter|

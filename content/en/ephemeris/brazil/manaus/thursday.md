@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°37'41.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°15'0.88" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°5'44.05" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|21°6'19.75" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|18°10'22.79" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|6°26'42.78" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°21'15.33" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Direct|20°15'1.88" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°5'46.95" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|21°6'20.81" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|18°10'22.24" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|6°26'44.46" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|16°56'26.84" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Sun|
-|☾ Moon|Mercury|Mercury|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°37'41.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°15'1.88" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°15'1.88" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°5'46.95" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|21°6'20.81" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°10'22.24" |Libra|Jubana|Saturn|

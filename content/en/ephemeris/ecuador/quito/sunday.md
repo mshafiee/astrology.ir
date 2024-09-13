@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:06:27 |
 | Dhuhr (Noon) | 12:09:02 |
 | Medium Coeli | 12:09:02 |
-| Sunset | 18:11:37 |
+| Sunset | 18:11:38 |
 | Maghrib | 18:25:58 |
 | Isha (Night) | 19:06:00 |
 | Sharia Midnight | 23:37:40 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:06:27 |
 | Dhuhr (Noon) | 12:09:02 |
 | Medium Coeli | 12:09:02 |
-| Sunset | 18:11:37 |
+| Sunset | 18:11:38 |
 | Maghrib | 18:15:40 |
 | Isha (Night) | 19:20:01 |
-| Sharia Midnight | 23:30:39 |
+| Sharia Midnight | 23:30:40 |
 | Imum Coeli | 00:08:52 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:06:27 |
 | Dhuhr (Noon) | 12:09:02 |
 | Medium Coeli | 12:09:02 |
-| Sunset | 18:11:37 |
+| Sunset | 18:11:38 |
 | Maghrib | 18:15:40 |
 | Isha (Night) | 19:22:01 |
 | Sharia Midnight | 23:33:40 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°23'50.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°29'11.07" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°29'11.07" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|6°51'26.47" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|24°4'39.00" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|21°53'50.88" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|11°47'8.99" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°2'46.51" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°17'57.95" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°23'50.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°29'11.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°51'26.47" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|24°4'39.00" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|21°53'50.88" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|11°47'8.99" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|0°2'46.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|20°29'9.23" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°51'19.22" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°4'30.54" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|21°53'48.34" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|11°47'0.83" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°17'57.95" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

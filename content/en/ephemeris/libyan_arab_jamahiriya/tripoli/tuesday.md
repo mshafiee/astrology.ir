@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:37:57 |
+| Fajr (Dawn) | 05:37:56 |
 | Sunrise | 06:52:08 |
 | Dhuhr (Noon) | 13:01:34 |
 | Medium Coeli | 13:01:34 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°20'29.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°32'22.31" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°32'22.31" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|7°16'50.28" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|24°47'58.00" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|22°48'2.95" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|13°7'31.48" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|11°4'29.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|22°48'3.42" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|13°7'31.97" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°0'35.88" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°20'29.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°32'22.31" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°16'50.28" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|24°47'58.00" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|22°48'2.95" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|13°7'31.48" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|11°4'29.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|15°20'29.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°32'22.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°16'50.22" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°47'57.97" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|22°48'3.33" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|13°7'31.94" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|11°0'36.03" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

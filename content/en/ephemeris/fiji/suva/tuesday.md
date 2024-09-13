@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°18'2.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°34'39.87" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°35'24.61" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|25°19'41.72" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°27'56.70" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|14°7'6.20" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°6'2.69" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Direct|20°34'39.87" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|7°35'31.25" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|25°19'55.03" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°28'2.84" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|14°7'17.65" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°29'10.87" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Venus|Mars|Libra|Moon|Mars|
+|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°18'2.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°34'39.87" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°34'39.87" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°35'31.25" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|25°19'55.03" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|23°28'2.84" |Libra|Jubana|Jupiter|

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°29'28.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°23'35.93" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|20°23'35.93" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|6°8'28.95" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|22°51'47.89" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|20°22'36.08" |Virgo|Simak|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°29'28.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°23'35.93" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°8'28.95" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|22°51'47.89" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|20°22'33.95" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|9°33'43.55" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|13°15'42.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°23'35.69" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°8'28.89" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|22°51'47.86" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|20°22'36.00" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|9°33'51.73" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|11°56'52.75" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mercury|Jupiter|
-|☾ Moon|Jupiter|Venus|Mercury|Moon|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Moon|Gemini|Sun|Moon|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Saturn|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}

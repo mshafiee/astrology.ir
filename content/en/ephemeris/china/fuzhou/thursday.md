@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:58:59 |
 | Sunset | 18:10:27 |
 | Maghrib | 18:11:26 |
-| Isha (Night) | 19:15:12 |
+| Isha (Night) | 19:15:13 |
 | Sharia Midnight | 23:26:35 |
 | Imum Coeli | 23:58:48 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°39'59.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°12'32.61" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°48'11.91" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|20°36'55.85" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|17°33'26.35" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|5°36'6.07" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|10°2'14.12" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|15°39'59.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°12'32.28" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°48'10.77" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|20°36'56.11" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|17°33'26.87" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|5°36'5.96" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|10°9'36.11" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°39'59.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°12'32.28" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°48'10.77" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°36'56.11" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|17°33'27.05" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|5°36'5.92" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|10°12'6.86" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|20°12'32.36" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°48'11.06" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°36'56.05" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|17°33'26.87" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|5°36'5.96" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|10°9'36.11" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

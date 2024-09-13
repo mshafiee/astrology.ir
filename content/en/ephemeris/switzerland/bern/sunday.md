@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:12:02 |
+| Fajr (Dawn) | 05:12:01 |
 | Sunrise | 07:08:17 |
 | Dhuhr (Noon) | 13:25:14 |
 | Medium Coeli | 13:25:14 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°29'29.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°23'35.23" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|6°8'23.66" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|22°51'39.05" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°22'24.89" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|9°33'35.59" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|11°53'46.98" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|20°23'35.23" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|6°8'21.12" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|22°51'38.97" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°22'25.98" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|9°33'34.91" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|12°9'44.61" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°29'29.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°23'35.23" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°23'35.23" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°8'23.66" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|22°51'39.05" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|20°22'24.89" |Libra|Jubana|Jupiter|

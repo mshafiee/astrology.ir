@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°24'1.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°28'59.40" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|6°49'57.23" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|24°1'57.59" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°50'39.20" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|11°42'27.10" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°7'12.80" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|15°24'1.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°28'59.92" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|6°50'0.93" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°2'14.00" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°50'48.87" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|11°42'40.54" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°21'35.78" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Mars|Mars|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°24'1.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°28'59.92" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°28'59.92" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°50'0.93" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|24°2'14.00" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|21°50'48.87" |Libra|Jubana|Jupiter|
