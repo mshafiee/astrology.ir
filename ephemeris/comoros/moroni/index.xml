@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moroni on Astrology</title><link>https://astrology.ir/ephemeris/comoros/moroni/</link><description>Recent content in Moroni on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/comoros/moroni/index.xml" rel="self" type="application/rss+xml"/><item><title>Moroni Wednesday</title><link>https://astrology.ir/ephemeris/comoros/moroni/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/comoros/moroni/wednesday/</guid><description>&lt;h2 id="geographic-information-of-moroni">Geographic Information of Moroni&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moroni on Astrology</title><link>https://astrology.ir/ephemeris/comoros/moroni/</link><description>Recent content in Moroni on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/comoros/moroni/index.xml" rel="self" type="application/rss+xml"/><item><title>Moroni Thursday</title><link>https://astrology.ir/ephemeris/comoros/moroni/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/comoros/moroni/thursday/</guid><description>&lt;h2 id="geographic-information-of-moroni">Geographic Information of Moroni&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: -11.7022
+-
+Longitude: 43.2551
+-
+Altitude: 27.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Moroni, Comoros | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-11.7022', '43.2551');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moroni Wednesday</title><link>https://astrology.ir/ephemeris/comoros/moroni/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/comoros/moroni/wednesday/</guid><description>&lt;h2 id="geographic-information-of-moroni">Geographic Information of Moroni&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: -11.7022
@@ -129,32 +155,6 @@ Altitude: 27.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moroni Friday</title><link>https://astrology.ir/ephemeris/comoros/moroni/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/comoros/moroni/friday/</guid><description>&lt;h2 id="geographic-information-of-moroni">Geographic Information of Moroni&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -11.7022
--
-Longitude: 43.2551
--
-Altitude: 27.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moroni, Comoros | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-11.7022', '43.2551');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moroni Thursday</title><link>https://astrology.ir/ephemeris/comoros/moroni/thursday/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/comoros/moroni/thursday/</guid><description>&lt;h2 id="geographic-information-of-moroni">Geographic Information of Moroni&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: -11.7022

@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Côte DIvoire on Astrology</title><link>https://astrology.ir/tags/c%C3%B4te-divoire/</link><description>Recent content in Côte DIvoire on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://astrology.ir/tags/c%C3%B4te-divoire/index.xml" rel="self" type="application/rss+xml"/><item><title>Abidjan Wednesday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/wednesday/</guid><description>&lt;h2 id="geographic-information-of-abidjan">Geographic Information of Abidjan&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Côte DIvoire on Astrology</title><link>https://astrology.ir/tags/c%C3%B4te-divoire/</link><description>Recent content in Côte DIvoire on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://astrology.ir/tags/c%C3%B4te-divoire/index.xml" rel="self" type="application/rss+xml"/><item><title>Abidjan Thursday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/thursday/</guid><description>&lt;h2 id="geographic-information-of-abidjan">Geographic Information of Abidjan&lt;/h2>
+&lt;p>TimeZone: 00:00
+-
+Latitude: 5.3544
+-
+Longitude: -4.0017
+-
+Altitude: 76.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Abidjan, Côte d\u0027Ivoire | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('5.3544', '-4.0017');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yamoussoukro Thursday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/thursday/</guid><description>&lt;h2 id="geographic-information-of-yamoussoukro">Geographic Information of Yamoussoukro&lt;/h2>
+&lt;p>TimeZone: 00:00
+-
+Latitude: 6.8205
+-
+Longitude: -5.2767
+-
+Altitude: 214.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Yamoussoukro, Côte d\u0027Ivoire | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('6.8205', '-5.2767');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abidjan Wednesday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/wednesday/</guid><description>&lt;h2 id="geographic-information-of-abidjan">Geographic Information of Abidjan&lt;/h2>
 &lt;p>TimeZone: 00:00
 -
 Latitude: 5.3544
@@ -206,6 +258,32 @@ Altitude: 214.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abidjan</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/</guid><description>&lt;h2 id="geographic-information-of-abidjan">Geographic Information of Abidjan&lt;/h2>
+&lt;p>TimeZone: 00:00
+-
+Latitude: 5.3544
+-
+Longitude: -4.0017
+-
+Altitude: 76.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Abidjan, Côte d\u0027Ivoire | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('5.3544', '-4.0017');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abidjan Saturday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/saturday/</guid><description>&lt;h2 id="geographic-information-of-abidjan">Geographic Information of Abidjan&lt;/h2>
 &lt;p>TimeZone: 00:00
 -
@@ -227,6 +305,32 @@ Altitude: 76.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('5.3544', '-4.0017');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yamoussoukro</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/</guid><description>&lt;h2 id="geographic-information-of-yamoussoukro">Geographic Information of Yamoussoukro&lt;/h2>
+&lt;p>TimeZone: 00:00
+-
+Latitude: 6.8205
+-
+Longitude: -5.2767
+-
+Altitude: 214.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Yamoussoukro, Côte d\u0027Ivoire | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('6.8205', '-5.2767');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -258,32 +362,6 @@ Altitude: 214.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abidjan</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/</guid><description>&lt;h2 id="geographic-information-of-abidjan">Geographic Information of Abidjan&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 5.3544
--
-Longitude: -4.0017
--
-Altitude: 76.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Abidjan, Côte d\u0027Ivoire | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('5.3544', '-4.0017');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abidjan Friday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/friday/</guid><description>&lt;h2 id="geographic-information-of-abidjan">Geographic Information of Abidjan&lt;/h2>
 &lt;p>TimeZone: 00:00
 -
@@ -310,85 +388,7 @@ Altitude: 76.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yamoussoukro</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/</guid><description>&lt;h2 id="geographic-information-of-yamoussoukro">Geographic Information of Yamoussoukro&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 6.8205
--
-Longitude: -5.2767
--
-Altitude: 214.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yamoussoukro, Côte d\u0027Ivoire | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.8205', '-5.2767');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yamoussoukro Friday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/friday/</guid><description>&lt;h2 id="geographic-information-of-yamoussoukro">Geographic Information of Yamoussoukro&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 6.8205
--
-Longitude: -5.2767
--
-Altitude: 214.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yamoussoukro, Côte d\u0027Ivoire | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.8205', '-5.2767');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abidjan Thursday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/thursday/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/abidjan/thursday/</guid><description>&lt;h2 id="geographic-information-of-abidjan">Geographic Information of Abidjan&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 5.3544
--
-Longitude: -4.0017
--
-Altitude: 76.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Abidjan, Côte d\u0027Ivoire | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('5.3544', '-4.0017');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yamoussoukro Thursday</title><link>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/thursday/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/c%C3%B4te_divoire/yamoussoukro/thursday/</guid><description>&lt;h2 id="geographic-information-of-yamoussoukro">Geographic Information of Yamoussoukro&lt;/h2>
 &lt;p>TimeZone: 00:00
 -
 Latitude: 6.8205

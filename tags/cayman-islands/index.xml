@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cayman Islands on Astrology</title><link>https://astrology.ir/tags/cayman-islands/</link><description>Recent content in Cayman Islands on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 17 Sep 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/cayman-islands/index.xml" rel="self" type="application/rss+xml"/><item><title>George Town Tuesday</title><link>https://astrology.ir/ephemeris/cayman_islands/george_town/tuesday/</link><pubDate>Tue, 17 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/cayman_islands/george_town/tuesday/</guid><description>&lt;h2 id="geographic-information-of-george-town">Geographic Information of George Town&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cayman Islands on Astrology</title><link>https://astrology.ir/tags/cayman-islands/</link><description>Recent content in Cayman Islands on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 18 Sep 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/cayman-islands/index.xml" rel="self" type="application/rss+xml"/><item><title>George Town Wednesday</title><link>https://astrology.ir/ephemeris/cayman_islands/george_town/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/cayman_islands/george_town/wednesday/</guid><description>&lt;h2 id="geographic-information-of-george-town">Geographic Information of George Town&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 19.2866
+-
+Longitude: -81.3744
+-
+Altitude: 3.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">George Town, Cayman Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('19.2866', '-81.3744');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>George Town Tuesday</title><link>https://astrology.ir/ephemeris/cayman_islands/george_town/tuesday/</link><pubDate>Tue, 17 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/cayman_islands/george_town/tuesday/</guid><description>&lt;h2 id="geographic-information-of-george-town">Geographic Information of George Town&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: 19.2866
@@ -102,6 +128,32 @@ Altitude: 3.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>George Town</title><link>https://astrology.ir/ephemeris/cayman_islands/george_town/</link><pubDate>Fri, 13 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/cayman_islands/george_town/</guid><description>&lt;h2 id="geographic-information-of-george-town">Geographic Information of George Town&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 19.2866
+-
+Longitude: -81.3744
+-
+Altitude: 3.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">George Town, Cayman Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('19.2866', '-81.3744');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>George Town Friday</title><link>https://astrology.ir/ephemeris/cayman_islands/george_town/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/cayman_islands/george_town/friday/</guid><description>&lt;h2 id="geographic-information-of-george-town">Geographic Information of George Town&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
@@ -128,59 +180,7 @@ Altitude: 3.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>George Town</title><link>https://astrology.ir/ephemeris/cayman_islands/george_town/</link><pubDate>Thu, 12 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/cayman_islands/george_town/</guid><description>&lt;h2 id="geographic-information-of-george-town">Geographic Information of George Town&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 19.2866
--
-Longitude: -81.3744
--
-Altitude: 3.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">George Town, Cayman Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.2866', '-81.3744');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>George Town Thursday</title><link>https://astrology.ir/ephemeris/cayman_islands/george_town/thursday/</link><pubDate>Thu, 12 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/cayman_islands/george_town/thursday/</guid><description>&lt;h2 id="geographic-information-of-george-town">Geographic Information of George Town&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 19.2866
--
-Longitude: -81.3744
--
-Altitude: 3.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">George Town, Cayman Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.2866', '-81.3744');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>George Town Wednesday</title><link>https://astrology.ir/ephemeris/cayman_islands/george_town/wednesday/</link><pubDate>Wed, 11 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/cayman_islands/george_town/wednesday/</guid><description>&lt;h2 id="geographic-information-of-george-town">Geographic Information of George Town&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: 19.2866

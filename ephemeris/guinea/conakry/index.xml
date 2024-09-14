@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conakry on Astrology</title><link>https://astrology.ir/ephemeris/guinea/conakry/</link><description>Recent content in Conakry on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/guinea/conakry/index.xml" rel="self" type="application/rss+xml"/><item><title>Conakry Wednesday</title><link>https://astrology.ir/ephemeris/guinea/conakry/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea/conakry/wednesday/</guid><description>&lt;h2 id="geographic-information-of-conakry">Geographic Information of Conakry&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conakry on Astrology</title><link>https://astrology.ir/ephemeris/guinea/conakry/</link><description>Recent content in Conakry on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/guinea/conakry/index.xml" rel="self" type="application/rss+xml"/><item><title>Conakry Thursday</title><link>https://astrology.ir/ephemeris/guinea/conakry/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea/conakry/thursday/</guid><description>&lt;h2 id="geographic-information-of-conakry">Geographic Information of Conakry&lt;/h2>
+&lt;p>TimeZone: 00:00
+-
+Latitude: 9.5380
+-
+Longitude: -13.6773
+-
+Altitude: 13.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Conakry, Guinea | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('9.5380', '-13.6773');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Conakry Wednesday</title><link>https://astrology.ir/ephemeris/guinea/conakry/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea/conakry/wednesday/</guid><description>&lt;h2 id="geographic-information-of-conakry">Geographic Information of Conakry&lt;/h2>
 &lt;p>TimeZone: 00:00
 -
 Latitude: 9.5380
@@ -129,32 +155,6 @@ Altitude: 13.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Conakry Friday</title><link>https://astrology.ir/ephemeris/guinea/conakry/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea/conakry/friday/</guid><description>&lt;h2 id="geographic-information-of-conakry">Geographic Information of Conakry&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 9.5380
--
-Longitude: -13.6773
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Conakry, Guinea | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('9.5380', '-13.6773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Conakry Thursday</title><link>https://astrology.ir/ephemeris/guinea/conakry/thursday/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea/conakry/thursday/</guid><description>&lt;h2 id="geographic-information-of-conakry">Geographic Information of Conakry&lt;/h2>
 &lt;p>TimeZone: 00:00
 -
 Latitude: 9.5380
