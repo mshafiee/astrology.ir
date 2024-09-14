@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:31:38 |
 | Sunset | 18:43:01 |
 | Maghrib | 18:47:37 |
-| Isha (Night) | 20:01:40 |
+| Isha (Night) | 20:01:39 |
 | Sharia Midnight | 23:49:53 |
 | Imum Coeli | 00:31:27 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°34'22.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°18'32.96" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°31'6.18" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|21°48'49.07" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°3'38.37" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|7°41'7.29" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|26°46'30.89" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|15°34'22.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°18'33.30" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°31'7.97" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|21°48'46.94" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|19°3'35.99" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|7°41'6.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|26°36'19.45" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°34'22.44" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|15°34'22.23" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|20°18'33.53" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°31'8.04" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|21°48'46.97" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|19°3'36.06" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|7°41'6.17" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|26°36'18.41" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|19°3'35.99" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|7°41'6.15" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|26°36'19.45" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

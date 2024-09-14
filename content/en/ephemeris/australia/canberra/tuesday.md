@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°17'40.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°35'0.22" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°38'14.75" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|25°24'36.49" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°34'3.47" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|14°16'15.25" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°58'29.23" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|15°17'40.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°35'0.46" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|7°38'20.89" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|25°24'44.53" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°34'6.20" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|14°16'22.59" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°58'30.50" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°38'20.89" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|25°24'44.53" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|23°34'6.20" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|14°16'15.22" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|21°58'29.10" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|14°16'22.59" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°58'30.50" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Cancer|Sun|Moon|
 |♀ Venus|Mars|Venus|Cancer|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
+|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}

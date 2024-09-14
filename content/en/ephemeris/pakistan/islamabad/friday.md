@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:16:50 |
 | Maghrib | 18:20:55 |
 | Isha (Night) | 19:42:16 |
-| Sharia Midnight | 23:20:56 |
+| Sharia Midnight | 23:20:57 |
 | Imum Coeli | 00:03:27 |
 {{< /tab >}}
 
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|4°52'36.45" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|20°44'19.69" |Leo|Zubrah|Mars|
 |♀ Venus|Direct|17°42'43.90" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|5°48'45.23" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|11°52'48.29" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|5°48'41.24" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°41'10.36" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Saturn|Saturn|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Venus|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Sun|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°39'24.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°13'10.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°52'36.45" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°44'19.69" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|17°42'43.90" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|5°48'45.23" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|11°52'48.29" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Retrograde|15°39'24.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°13'9.87" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°52'36.38" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°44'19.67" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|17°42'43.82" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|5°48'45.21" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|11°52'48.86" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

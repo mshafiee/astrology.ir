@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°15'56.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°36'34.72" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°51'28.91" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|25°47'20.20" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|24°2'19.05" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|14°58'45.42" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|26°23'42.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|15°15'56.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°36'34.96" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|7°51'28.96" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|25°47'20.24" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°2'19.13" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|14°58'45.46" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°7'4.47" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Venus|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Moon|Mercury|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°15'56.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°36'34.72" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°51'28.91" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°47'20.20" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|20°36'33.53" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°51'23.18" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°47'14.12" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|24°2'17.57" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|14°58'39.70" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|27°7'4.73" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|14°58'39.67" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|27°7'4.47" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

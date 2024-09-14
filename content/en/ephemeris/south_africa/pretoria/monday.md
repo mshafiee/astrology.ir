@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:01:56 |
 | Sunset | 18:00:54 |
 | Maghrib | 18:16:24 |
-| Isha (Night) | 19:00:51 |
+| Isha (Night) | 19:00:52 |
 | Sharia Midnight | 23:27:10 |
 | Imum Coeli | 00:01:45 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:01:56 |
 | Sunset | 18:00:54 |
 | Maghrib | 18:18:37 |
-| Isha (Night) | 19:00:51 |
+| Isha (Night) | 19:00:52 |
 | Sharia Midnight | 23:23:22 |
 | Imum Coeli | 00:01:45 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°25'10.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°27'53.60" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|6°41'20.22" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|23°47'26.57" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°32'19.64" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|11°15'28.14" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°57'7.43" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|20°27'53.36" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|6°41'20.16" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|23°47'26.53" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°32'19.56" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|11°15'28.11" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|25°57'8.19" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°25'10.06" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°27'53.60" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|15°25'9.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°27'53.36" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°41'20.16" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|23°47'26.53" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|21°32'19.56" |Libra|Jubana|Jupiter|
