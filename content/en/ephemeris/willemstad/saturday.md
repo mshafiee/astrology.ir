@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:24:51 |
 | Dhuhr (Noon) | 12:31:02 |
 | Medium Coeli | 12:31:02 |
-| Sunset | 18:37:03 |
+| Sunset | 18:37:04 |
 | Maghrib | 18:52:59 |
 | Isha (Night) | 19:31:59 |
 | Sharia Midnight | 23:55:51 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:24:51 |
 | Dhuhr (Noon) | 12:31:02 |
 | Medium Coeli | 12:31:02 |
-| Sunset | 18:37:03 |
+| Sunset | 18:37:04 |
 | Maghrib | 18:37:58 |
 | Isha (Night) | 20:07:58 |
 | Sharia Midnight | 23:54:12 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:12:13|Night duration: 11:47:46|
+|Duration of the day: 12:12:12|Night duration: 11:47:47|
 |Every hour of day duration: 01:01:01|Every hour of night duration: 00:58:59|
 
  
@@ -227,18 +227,18 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|14:32:59|15:33:59|All good deeds|
 |10|Mars|Servant|15:34:00|16:35:00|Doing evil deeds|
 |11|Sun|Servant|16:35:01|17:36:01|Acceptance of reconciliation between couples|
-|12|Venus|Servant|17:36:02|18:37:03|For gaining dignity|
+|12|Venus|Servant|17:36:02|18:37:02|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:37:04|19:36:01|Related to talismans, amulets and responses|
-|2|Moon|Servant|19:36:02|20:35:00|Peace among people|
-|3|Saturn|Servant|20:35:01|21:33:59|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:34:00|22:32:58|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:32:59|23:31:57|Auspicious|
-|6|Sun|Servant|23:31:58|00:30:56|Writing, swapping and making promises|
-|7|Venus|Servant|00:30:57|01:29:54|Not suitable for any task|
+|1|Mercury|Ruler|18:37:03|19:36:00|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:36:01|20:34:59|Peace among people|
+|3|Saturn|Servant|20:35:00|21:33:58|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:33:59|22:32:57|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:32:58|23:31:56|Auspicious|
+|6|Sun|Servant|23:31:57|00:30:55|Writing, swapping and making promises|
+|7|Venus|Servant|00:30:56|01:29:54|Not suitable for any task|
 |8|Mercury|Ruler|01:29:55|02:28:53|Destruction of enemies|
 |9|Moon|Servant|02:28:54|03:27:52|All good deeds|
 |10|Saturn|Servant|03:27:53|04:26:51|Doing evil deeds|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:12:12|Night duration: 11:47:47|
+|Duration of the day: 12:12:13|Night duration: 11:47:46|
 |Every hour duration: 01:44:36|Every hour duration: 01:41:07|
 
  
@@ -270,16 +270,16 @@ Timetable of septet day and night planetary hours
 |Noon|Sun|Servant|11:38:39|13:23:14|
 |Early afternoon|Venus|Servant|13:23:15|15:07:50|
 |Mid-afternoon|Mercury|Servant|15:07:51|16:52:26|
-|Late afternoon|Moon|Servant|16:52:27|18:37:02|
+|Late afternoon|Moon|Servant|16:52:27|18:37:03|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|18:37:03|20:18:08|
-|Late evening|Moon|Servant|20:18:09|21:59:15|
-|Midnight|Saturn|Servant|21:59:16|23:40:22|
-|Late at night|Jupiter|Servant|23:40:23|01:21:28|
-|Rooster song|Mars|Servant|01:21:29|03:02:35|
+|Evening|Mercury|Ruler|18:37:04|20:18:09|
+|Late evening|Moon|Servant|20:18:10|21:59:16|
+|Midnight|Saturn|Servant|21:59:17|23:40:22|
+|Late at night|Jupiter|Servant|23:40:23|01:21:29|
+|Rooster song|Mars|Servant|01:21:30|03:02:35|
 |False Dawn|Sun|Servant|03:02:36|04:43:42|
 |Dawn|Venus|Servant|04:43:43|06:24:49|
 
@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°28'29.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°24'35.39" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|6°15'59.73" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|20°24'35.63" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|6°15'59.79" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|23°4'30.65" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|20°38'31.30" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|9°56'54.50" |Leo|Zubrah|Saturn|

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°29'26.99" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|20°23'37.55" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|6°8'37.15" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|22°51'50.69" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°22'50.25" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|9°34'13.14" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|13°27'22.15" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Direct|6°8'40.63" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|22°52'7.91" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°23'0.70" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|9°34'27.38" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|11°58'15.92" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Taurus|Moon|Venus|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°29'26.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°23'37.32" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°8'40.56" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|15°29'26.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°23'37.12" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°8'37.21" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|22°51'50.72" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|20°22'50.33" |Libra|Jubana|Jupiter|
 |☿ Mercury|Direct|9°34'13.16" |Virgo|Awwa|Sun|

@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 12:17:30|Night duration: 11:43:30|
-|Every hour of day duration: 01:01:27|Every hour of night duration: 00:58:38|
+|Every hour of day duration: 01:01:27|Every hour of night duration: 00:58:37|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°11'44.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°40'19.56" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|8°23'27.90" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|26°42'27.75" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|25°11'12.81" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|16°42'47.40" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|10°41'39.43" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|15°11'44.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°40'19.32" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|8°23'27.86" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|26°42'27.71" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°11'12.53" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|16°42'47.37" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°42'44.88" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°11'44.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°40'19.56" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°23'27.90" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°42'27.75" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|25°11'12.62" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|16°42'47.41" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|10°42'45.27" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|15°11'44.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°40'19.32" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°23'27.86" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°42'27.71" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|25°11'12.53" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|16°42'47.37" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|10°42'44.88" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

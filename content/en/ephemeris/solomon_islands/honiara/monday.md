@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:03:33|Night duration: 11:55:50|
+|Duration of the day: 12:03:33|Night duration: 11:55:51|
 |Every hour duration: 01:43:22|Every hour duration: 01:42:16|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Venus|Ruler|18:16:51|19:59:05|
 |Late evening|Mercury|Servant|19:59:06|21:41:21|
 |Midnight|Moon|Servant|21:41:22|23:23:37|
-|Late at night|Saturn|Servant|23:23:38|01:05:52|
-|Rooster song|Jupiter|Servant|01:05:53|02:48:08|
-|False Dawn|Mars|Servant|02:48:09|04:30:24|
-|Dawn|Sun|Servant|04:30:25|06:12:40|
+|Late at night|Saturn|Servant|23:23:38|01:05:53|
+|Rooster song|Jupiter|Servant|01:05:54|02:48:09|
+|False Dawn|Mars|Servant|02:48:10|04:30:25|
+|Dawn|Sun|Servant|04:30:26|06:12:41|
 
 {{< /tab >}}
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|20°30'38.88" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°3'2.55" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|24°24'24.23" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|22°18'28.22" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|12°23'36.76" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|6°3'32.73" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|22°18'24.74" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|12°23'33.80" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|6°25'21.46" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

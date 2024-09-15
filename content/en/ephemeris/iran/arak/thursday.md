@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:04:50 |
 | Medium Coeli | 12:04:50 |
 | Sunset | 18:11:27 |
-| Maghrib | 18:30:51 |
+| Maghrib | 18:30:50 |
 | Isha (Night) | 19:17:09 |
 | Sharia Midnight | 23:22:52 |
 | Imum Coeli | 00:04:40 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°11'59.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°40'6.42" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|8°21'33.54" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|26°39'10.29" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|25°7'5.77" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|16°36'33.53" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|9°49'31.29" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|15°11'59.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°40'6.18" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|8°21'33.49" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|26°39'10.36" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°7'6.01" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|16°36'33.51" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|9°48'15.98" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

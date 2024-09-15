@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:39:06 |
 | Sunrise | 06:50:24 |
-| Dhuhr (Noon) | 12:58:54 |
-| Medium Coeli | 12:58:54 |
+| Dhuhr (Noon) | 12:58:55 |
+| Medium Coeli | 12:58:55 |
 | Sunset | 19:06:59 |
 | Maghrib | 19:22:55 |
 | Isha (Night) | 20:08:53 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:29:45 |
 | Sunrise | 06:50:24 |
-| Dhuhr (Noon) | 12:58:54 |
-| Medium Coeli | 12:58:54 |
+| Dhuhr (Noon) | 12:58:55 |
+| Medium Coeli | 12:58:55 |
 | Sunset | 19:06:59 |
 | Maghrib | 19:11:45 |
 | Isha (Night) | 20:22:49 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:43:45 |
 | Sunrise | 06:50:24 |
-| Dhuhr (Noon) | 12:58:54 |
-| Medium Coeli | 12:58:54 |
+| Dhuhr (Noon) | 12:58:55 |
+| Medium Coeli | 12:58:55 |
 | Sunset | 19:06:59 |
 | Maghrib | 19:11:45 |
 | Isha (Night) | 20:13:31 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:29:45 |
 | Sunrise | 06:50:24 |
-| Dhuhr (Noon) | 12:58:54 |
-| Medium Coeli | 12:58:54 |
+| Dhuhr (Noon) | 12:58:55 |
+| Medium Coeli | 12:58:55 |
 | Sunset | 19:06:59 |
 | Maghrib | 19:11:45 |
 | Isha (Night) | 20:27:29 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°19'0.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°33'44.85" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°28'7.19" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°7'15.49" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|23°12'19.45" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|13°43'43.04" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|17°13'45.01" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|20°33'46.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°28'12.71" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°7'25.36" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|23°12'23.81" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|13°43'51.69" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|16°0'11.30" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Cancer|Sun|Moon|
 |♀ Venus|Mars|Mars|Cancer|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}

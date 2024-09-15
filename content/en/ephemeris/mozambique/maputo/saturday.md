@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:30:12 |
 | Sunrise | 05:47:36 |
-| Dhuhr (Noon) | 11:45:05 |
-| Medium Coeli | 11:45:05 |
+| Dhuhr (Noon) | 11:45:04 |
+| Medium Coeli | 11:45:04 |
 | Sunset | 17:42:55 |
 | Maghrib | 17:44:11 |
 | Isha (Night) | 18:55:56 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:23:30 |
 | Sunrise | 05:47:36 |
-| Dhuhr (Noon) | 11:45:05 |
-| Medium Coeli | 11:45:05 |
+| Dhuhr (Noon) | 11:45:04 |
+| Medium Coeli | 11:45:04 |
 | Sunset | 17:42:55 |
 | Maghrib | 17:44:11 |
 | Isha (Night) | 18:58:11 |
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°34'17.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°18'38.54" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°31'46.04" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|21°49'53.98" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|15°34'17.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°18'38.31" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°31'45.97" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|21°49'53.96" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|19°5'1.53" |Virgo|Simak|Venus|
 |☿ Mercury|Direct|7°43'4.77" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|27°13'40.10" |Sagittarius|Baldah|Saturn|

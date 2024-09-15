@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°24'39.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°28'21.56" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|6°45'3.96" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|23°53'50.92" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°40'25.32" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|11°27'18.88" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|28°15'57.41" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Retrograde|15°24'39.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°28'22.67" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|6°45'9.15" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|23°53'57.56" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°40'27.46" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|11°27'25.22" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°18'10.93" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°24'39.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°28'22.91" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°45'9.21" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°53'57.59" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|15°24'39.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°28'22.67" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°45'9.15" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°53'57.56" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|21°40'27.54" |Libra|Jubana|Jupiter|
 |☿ Mercury|Direct|11°27'25.25" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|27°18'10.25" |Aquarius|FarghAlMuqaddam|Moon|
