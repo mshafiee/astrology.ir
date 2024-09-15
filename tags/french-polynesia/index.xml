@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>French Polynesia on Astrology</title><link>https://astrology.ir/tags/french-polynesia/</link><description>Recent content in French Polynesia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 18 Sep 2024 00:00:00 -1000</lastBuildDate><atom:link href="https://astrology.ir/tags/french-polynesia/index.xml" rel="self" type="application/rss+xml"/><item><title>Papeete Wednesday</title><link>https://astrology.ir/ephemeris/french_polynesia/papeete/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 -1000</pubDate><guid>https://astrology.ir/ephemeris/french_polynesia/papeete/wednesday/</guid><description>&lt;h2 id="geographic-information-of-papeete">Geographic Information of Papeete&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>French Polynesia on Astrology</title><link>https://astrology.ir/tags/french-polynesia/</link><description>Recent content in French Polynesia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 -1000</lastBuildDate><atom:link href="https://astrology.ir/tags/french-polynesia/index.xml" rel="self" type="application/rss+xml"/><item><title>Papeete Thursday</title><link>https://astrology.ir/ephemeris/french_polynesia/papeete/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 -1000</pubDate><guid>https://astrology.ir/ephemeris/french_polynesia/papeete/thursday/</guid><description>&lt;h2 id="geographic-information-of-papeete">Geographic Information of Papeete&lt;/h2>
+&lt;p>TimeZone: -10:00
+-
+Latitude: -17.5373
+-
+Longitude: -149.5665
+-
+Altitude: 9.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Papeete, French Polynesia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-17.5373', '-149.5665');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Papeete Wednesday</title><link>https://astrology.ir/ephemeris/french_polynesia/papeete/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 -1000</pubDate><guid>https://astrology.ir/ephemeris/french_polynesia/papeete/wednesday/</guid><description>&lt;h2 id="geographic-information-of-papeete">Geographic Information of Papeete&lt;/h2>
 &lt;p>TimeZone: -10:00
 -
 Latitude: -17.5373
@@ -102,6 +128,32 @@ Altitude: 9.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Papeete</title><link>https://astrology.ir/ephemeris/french_polynesia/papeete/</link><pubDate>Sat, 14 Sep 2024 00:00:00 -1000</pubDate><guid>https://astrology.ir/ephemeris/french_polynesia/papeete/</guid><description>&lt;h2 id="geographic-information-of-papeete">Geographic Information of Papeete&lt;/h2>
+&lt;p>TimeZone: -10:00
+-
+Latitude: -17.5373
+-
+Longitude: -149.5665
+-
+Altitude: 9.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Papeete, French Polynesia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-17.5373', '-149.5665');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Papeete Saturday</title><link>https://astrology.ir/ephemeris/french_polynesia/papeete/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 -1000</pubDate><guid>https://astrology.ir/ephemeris/french_polynesia/papeete/saturday/</guid><description>&lt;h2 id="geographic-information-of-papeete">Geographic Information of Papeete&lt;/h2>
 &lt;p>TimeZone: -10:00
 -
@@ -128,59 +180,7 @@ Altitude: 9.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Papeete</title><link>https://astrology.ir/ephemeris/french_polynesia/papeete/</link><pubDate>Fri, 13 Sep 2024 00:00:00 -1000</pubDate><guid>https://astrology.ir/ephemeris/french_polynesia/papeete/</guid><description>&lt;h2 id="geographic-information-of-papeete">Geographic Information of Papeete&lt;/h2>
-&lt;p>TimeZone: -10:00
--
-Latitude: -17.5373
--
-Longitude: -149.5665
--
-Altitude: 9.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Papeete, French Polynesia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-17.5373', '-149.5665');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Papeete Friday</title><link>https://astrology.ir/ephemeris/french_polynesia/papeete/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 -1000</pubDate><guid>https://astrology.ir/ephemeris/french_polynesia/papeete/friday/</guid><description>&lt;h2 id="geographic-information-of-papeete">Geographic Information of Papeete&lt;/h2>
-&lt;p>TimeZone: -10:00
--
-Latitude: -17.5373
--
-Longitude: -149.5665
--
-Altitude: 9.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Papeete, French Polynesia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-17.5373', '-149.5665');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Papeete Thursday</title><link>https://astrology.ir/ephemeris/french_polynesia/papeete/thursday/</link><pubDate>Thu, 12 Sep 2024 00:00:00 -1000</pubDate><guid>https://astrology.ir/ephemeris/french_polynesia/papeete/thursday/</guid><description>&lt;h2 id="geographic-information-of-papeete">Geographic Information of Papeete&lt;/h2>
 &lt;p>TimeZone: -10:00
 -
 Latitude: -17.5373

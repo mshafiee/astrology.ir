@@ -1,4 +1,238 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nigeria on Astrology</title><link>https://astrology.ir/tags/nigeria/</link><description>Recent content in Nigeria on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/nigeria/index.xml" rel="self" type="application/rss+xml"/><item><title>Abuja Thursday</title><link>https://astrology.ir/ephemeris/nigeria/abuja/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/abuja/thursday/</guid><description>&lt;h2 id="geographic-information-of-abuja">Geographic Information of Abuja&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nigeria on Astrology</title><link>https://astrology.ir/tags/nigeria/</link><description>Recent content in Nigeria on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/nigeria/index.xml" rel="self" type="application/rss+xml"/><item><title>Abuja Friday</title><link>https://astrology.ir/ephemeris/nigeria/abuja/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/abuja/friday/</guid><description>&lt;h2 id="geographic-information-of-abuja">Geographic Information of Abuja&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 9.0579
+-
+Longitude: 7.4951
+-
+Altitude: 476.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Abuja, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('9.0579', '7.4951');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Benin City Friday</title><link>https://astrology.ir/ephemeris/nigeria/benin_city/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/benin_city/friday/</guid><description>&lt;h2 id="geographic-information-of-benin-city">Geographic Information of Benin City&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 6.3381
+-
+Longitude: 5.6258
+-
+Altitude: 88.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Benin City, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('6.3381', '5.6258');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ibadan Friday</title><link>https://astrology.ir/ephemeris/nigeria/ibadan/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ibadan/friday/</guid><description>&lt;h2 id="geographic-information-of-ibadan">Geographic Information of Ibadan&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 7.3776
+-
+Longitude: 3.9059
+-
+Altitude: 181.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ibadan, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('7.3776', '3.9059');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ilorin Friday</title><link>https://astrology.ir/ephemeris/nigeria/ilorin/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ilorin/friday/</guid><description>&lt;h2 id="geographic-information-of-ilorin">Geographic Information of Ilorin&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 8.4966
+-
+Longitude: 4.5421
+-
+Altitude: 320.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ilorin, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('8.4966', '4.5421');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos Friday</title><link>https://astrology.ir/ephemeris/nigeria/jos/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/friday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 9.9285
+-
+Longitude: 8.8921
+-
+Altitude: 1,186.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Jos, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('9.9285', '8.8921');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kaduna Friday</title><link>https://astrology.ir/ephemeris/nigeria/kaduna/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kaduna/friday/</guid><description>&lt;h2 id="geographic-information-of-kaduna">Geographic Information of Kaduna&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 10.5264
+-
+Longitude: 7.4388
+-
+Altitude: 626.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kaduna, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.5264', '7.4388');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kano Friday</title><link>https://astrology.ir/ephemeris/nigeria/kano/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kano/friday/</guid><description>&lt;h2 id="geographic-information-of-kano">Geographic Information of Kano&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 12.0001
+-
+Longitude: 8.5167
+-
+Altitude: 484.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kano, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('12.0001', '8.5167');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Maiduguri Friday</title><link>https://astrology.ir/ephemeris/nigeria/maiduguri/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/maiduguri/friday/</guid><description>&lt;h2 id="geographic-information-of-maiduguri">Geographic Information of Maiduguri&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 11.8469
+-
+Longitude: 13.1571
+-
+Altitude: 325.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Maiduguri, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('11.8469', '13.1571');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Port Harcourt Friday</title><link>https://astrology.ir/ephemeris/nigeria/port_harcourt/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/port_harcourt/friday/</guid><description>&lt;h2 id="geographic-information-of-port-harcourt">Geographic Information of Port Harcourt&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 4.7774
+-
+Longitude: 7.0134
+-
+Altitude: 16.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Port Harcourt, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('4.7774', '7.0134');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abuja Thursday</title><link>https://astrology.ir/ephemeris/nigeria/abuja/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/abuja/thursday/</guid><description>&lt;h2 id="geographic-information-of-abuja">Geographic Information of Abuja&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 9.0579
@@ -934,6 +1168,32 @@ Altitude: 16.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abuja</title><link>https://astrology.ir/ephemeris/nigeria/abuja/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/abuja/</guid><description>&lt;h2 id="geographic-information-of-abuja">Geographic Information of Abuja&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 9.0579
+-
+Longitude: 7.4951
+-
+Altitude: 476.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Abuja, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('9.0579', '7.4951');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abuja Sunday</title><link>https://astrology.ir/ephemeris/nigeria/abuja/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/abuja/sunday/</guid><description>&lt;h2 id="geographic-information-of-abuja">Geographic Information of Abuja&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -955,6 +1215,32 @@ Altitude: 476.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('9.0579', '7.4951');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Benin City</title><link>https://astrology.ir/ephemeris/nigeria/benin_city/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/benin_city/</guid><description>&lt;h2 id="geographic-information-of-benin-city">Geographic Information of Benin City&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 6.3381
+-
+Longitude: 5.6258
+-
+Altitude: 88.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Benin City, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('6.3381', '5.6258');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -986,6 +1272,32 @@ Altitude: 88.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ibadan</title><link>https://astrology.ir/ephemeris/nigeria/ibadan/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ibadan/</guid><description>&lt;h2 id="geographic-information-of-ibadan">Geographic Information of Ibadan&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 7.3776
+-
+Longitude: 3.9059
+-
+Altitude: 181.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ibadan, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('7.3776', '3.9059');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ibadan Sunday</title><link>https://astrology.ir/ephemeris/nigeria/ibadan/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ibadan/sunday/</guid><description>&lt;h2 id="geographic-information-of-ibadan">Geographic Information of Ibadan&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -1007,6 +1319,32 @@ Altitude: 181.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('7.3776', '3.9059');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ilorin</title><link>https://astrology.ir/ephemeris/nigeria/ilorin/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ilorin/</guid><description>&lt;h2 id="geographic-information-of-ilorin">Geographic Information of Ilorin&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 8.4966
+-
+Longitude: 4.5421
+-
+Altitude: 320.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ilorin, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('8.4966', '4.5421');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1038,6 +1376,32 @@ Altitude: 320.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos</title><link>https://astrology.ir/ephemeris/nigeria/jos/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 9.9285
+-
+Longitude: 8.8921
+-
+Altitude: 1,186.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Jos, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('9.9285', '8.8921');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos Sunday</title><link>https://astrology.ir/ephemeris/nigeria/jos/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/sunday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -1059,6 +1423,32 @@ Altitude: 1,186.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('9.9285', '8.8921');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kaduna</title><link>https://astrology.ir/ephemeris/nigeria/kaduna/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kaduna/</guid><description>&lt;h2 id="geographic-information-of-kaduna">Geographic Information of Kaduna&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 10.5264
+-
+Longitude: 7.4388
+-
+Altitude: 626.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kaduna, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.5264', '7.4388');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1090,6 +1480,32 @@ Altitude: 626.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kano</title><link>https://astrology.ir/ephemeris/nigeria/kano/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kano/</guid><description>&lt;h2 id="geographic-information-of-kano">Geographic Information of Kano&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 12.0001
+-
+Longitude: 8.5167
+-
+Altitude: 484.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kano, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('12.0001', '8.5167');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kano Sunday</title><link>https://astrology.ir/ephemeris/nigeria/kano/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kano/sunday/</guid><description>&lt;h2 id="geographic-information-of-kano">Geographic Information of Kano&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -1111,6 +1527,32 @@ Altitude: 484.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('12.0001', '8.5167');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Maiduguri</title><link>https://astrology.ir/ephemeris/nigeria/maiduguri/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/maiduguri/</guid><description>&lt;h2 id="geographic-information-of-maiduguri">Geographic Information of Maiduguri&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 11.8469
+-
+Longitude: 13.1571
+-
+Altitude: 325.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Maiduguri, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('11.8469', '13.1571');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1142,7 +1584,7 @@ Altitude: 325.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Port Harcourt Sunday</title><link>https://astrology.ir/ephemeris/nigeria/port_harcourt/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/port_harcourt/sunday/</guid><description>&lt;h2 id="geographic-information-of-port-harcourt">Geographic Information of Port Harcourt&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Port Harcourt</title><link>https://astrology.ir/ephemeris/nigeria/port_harcourt/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/port_harcourt/</guid><description>&lt;h2 id="geographic-information-of-port-harcourt">Geographic Information of Port Harcourt&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 4.7774
@@ -1168,14 +1610,14 @@ Altitude: 16.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abuja</title><link>https://astrology.ir/ephemeris/nigeria/abuja/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/abuja/</guid><description>&lt;h2 id="geographic-information-of-abuja">Geographic Information of Abuja&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Port Harcourt Sunday</title><link>https://astrology.ir/ephemeris/nigeria/port_harcourt/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/port_harcourt/sunday/</guid><description>&lt;h2 id="geographic-information-of-port-harcourt">Geographic Information of Port Harcourt&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
-Latitude: 9.0579
+Latitude: 4.7774
 -
-Longitude: 7.4951
+Longitude: 7.0134
 -
-Altitude: 476.0000 meters&lt;/p>
+Altitude: 16.0000 meters&lt;/p>
 &lt;div class="shortcode shortcode-osm-maps">
 	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
 	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
@@ -1185,10 +1627,10 @@ Altitude: 476.0000 meters&lt;/p>
 		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
 		var map = L.map(element);
 		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Abuja, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+			attribution: '&lt;div dir="ltr">Port Harcourt, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
-		var target = L.latLng('9.0579', '7.4951');
+		var target = L.latLng('4.7774', '7.0134');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1220,32 +1662,6 @@ Altitude: 476.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Benin City</title><link>https://astrology.ir/ephemeris/nigeria/benin_city/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/benin_city/</guid><description>&lt;h2 id="geographic-information-of-benin-city">Geographic Information of Benin City&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 6.3381
--
-Longitude: 5.6258
--
-Altitude: 88.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Benin City, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.3381', '5.6258');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Benin City Saturday</title><link>https://astrology.ir/ephemeris/nigeria/benin_city/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/benin_city/saturday/</guid><description>&lt;h2 id="geographic-information-of-benin-city">Geographic Information of Benin City&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -1267,32 +1683,6 @@ Altitude: 88.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('6.3381', '5.6258');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ibadan</title><link>https://astrology.ir/ephemeris/nigeria/ibadan/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ibadan/</guid><description>&lt;h2 id="geographic-information-of-ibadan">Geographic Information of Ibadan&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 7.3776
--
-Longitude: 3.9059
--
-Altitude: 181.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ibadan, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('7.3776', '3.9059');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1324,32 +1714,6 @@ Altitude: 181.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ilorin</title><link>https://astrology.ir/ephemeris/nigeria/ilorin/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ilorin/</guid><description>&lt;h2 id="geographic-information-of-ilorin">Geographic Information of Ilorin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 8.4966
--
-Longitude: 4.5421
--
-Altitude: 320.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ilorin, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('8.4966', '4.5421');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ilorin Saturday</title><link>https://astrology.ir/ephemeris/nigeria/ilorin/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ilorin/saturday/</guid><description>&lt;h2 id="geographic-information-of-ilorin">Geographic Information of Ilorin&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -1371,32 +1735,6 @@ Altitude: 320.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('8.4966', '4.5421');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos</title><link>https://astrology.ir/ephemeris/nigeria/jos/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 9.9285
--
-Longitude: 8.8921
--
-Altitude: 1,186.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Jos, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('9.9285', '8.8921');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1428,32 +1766,6 @@ Altitude: 1,186.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kaduna</title><link>https://astrology.ir/ephemeris/nigeria/kaduna/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kaduna/</guid><description>&lt;h2 id="geographic-information-of-kaduna">Geographic Information of Kaduna&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 10.5264
--
-Longitude: 7.4388
--
-Altitude: 626.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kaduna, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.5264', '7.4388');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kaduna Saturday</title><link>https://astrology.ir/ephemeris/nigeria/kaduna/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kaduna/saturday/</guid><description>&lt;h2 id="geographic-information-of-kaduna">Geographic Information of Kaduna&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -1475,32 +1787,6 @@ Altitude: 626.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('10.5264', '7.4388');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kano</title><link>https://astrology.ir/ephemeris/nigeria/kano/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kano/</guid><description>&lt;h2 id="geographic-information-of-kano">Geographic Information of Kano&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 12.0001
--
-Longitude: 8.5167
--
-Altitude: 484.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kano, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('12.0001', '8.5167');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1532,32 +1818,6 @@ Altitude: 484.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Maiduguri</title><link>https://astrology.ir/ephemeris/nigeria/maiduguri/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/maiduguri/</guid><description>&lt;h2 id="geographic-information-of-maiduguri">Geographic Information of Maiduguri&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 11.8469
--
-Longitude: 13.1571
--
-Altitude: 325.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Maiduguri, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8469', '13.1571');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Maiduguri Saturday</title><link>https://astrology.ir/ephemeris/nigeria/maiduguri/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/maiduguri/saturday/</guid><description>&lt;h2 id="geographic-information-of-maiduguri">Geographic Information of Maiduguri&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -1584,267 +1844,7 @@ Altitude: 325.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Port Harcourt</title><link>https://astrology.ir/ephemeris/nigeria/port_harcourt/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/port_harcourt/</guid><description>&lt;h2 id="geographic-information-of-port-harcourt">Geographic Information of Port Harcourt&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 4.7774
--
-Longitude: 7.0134
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Port Harcourt, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('4.7774', '7.0134');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Port Harcourt Saturday</title><link>https://astrology.ir/ephemeris/nigeria/port_harcourt/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/port_harcourt/saturday/</guid><description>&lt;h2 id="geographic-information-of-port-harcourt">Geographic Information of Port Harcourt&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 4.7774
--
-Longitude: 7.0134
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Port Harcourt, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('4.7774', '7.0134');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abuja Friday</title><link>https://astrology.ir/ephemeris/nigeria/abuja/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/abuja/friday/</guid><description>&lt;h2 id="geographic-information-of-abuja">Geographic Information of Abuja&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 9.0579
--
-Longitude: 7.4951
--
-Altitude: 476.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Abuja, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('9.0579', '7.4951');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Benin City Friday</title><link>https://astrology.ir/ephemeris/nigeria/benin_city/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/benin_city/friday/</guid><description>&lt;h2 id="geographic-information-of-benin-city">Geographic Information of Benin City&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 6.3381
--
-Longitude: 5.6258
--
-Altitude: 88.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Benin City, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.3381', '5.6258');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ibadan Friday</title><link>https://astrology.ir/ephemeris/nigeria/ibadan/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ibadan/friday/</guid><description>&lt;h2 id="geographic-information-of-ibadan">Geographic Information of Ibadan&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 7.3776
--
-Longitude: 3.9059
--
-Altitude: 181.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ibadan, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('7.3776', '3.9059');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ilorin Friday</title><link>https://astrology.ir/ephemeris/nigeria/ilorin/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/ilorin/friday/</guid><description>&lt;h2 id="geographic-information-of-ilorin">Geographic Information of Ilorin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 8.4966
--
-Longitude: 4.5421
--
-Altitude: 320.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ilorin, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('8.4966', '4.5421');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jos Friday</title><link>https://astrology.ir/ephemeris/nigeria/jos/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/jos/friday/</guid><description>&lt;h2 id="geographic-information-of-jos">Geographic Information of Jos&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 9.9285
--
-Longitude: 8.8921
--
-Altitude: 1,186.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Jos, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('9.9285', '8.8921');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kaduna Friday</title><link>https://astrology.ir/ephemeris/nigeria/kaduna/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kaduna/friday/</guid><description>&lt;h2 id="geographic-information-of-kaduna">Geographic Information of Kaduna&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 10.5264
--
-Longitude: 7.4388
--
-Altitude: 626.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kaduna, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.5264', '7.4388');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kano Friday</title><link>https://astrology.ir/ephemeris/nigeria/kano/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/kano/friday/</guid><description>&lt;h2 id="geographic-information-of-kano">Geographic Information of Kano&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 12.0001
--
-Longitude: 8.5167
--
-Altitude: 484.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kano, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('12.0001', '8.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Maiduguri Friday</title><link>https://astrology.ir/ephemeris/nigeria/maiduguri/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/maiduguri/friday/</guid><description>&lt;h2 id="geographic-information-of-maiduguri">Geographic Information of Maiduguri&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 11.8469
--
-Longitude: 13.1571
--
-Altitude: 325.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Maiduguri, Nigeria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8469', '13.1571');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Port Harcourt Friday</title><link>https://astrology.ir/ephemeris/nigeria/port_harcourt/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/nigeria/port_harcourt/friday/</guid><description>&lt;h2 id="geographic-information-of-port-harcourt">Geographic Information of Port Harcourt&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 4.7774

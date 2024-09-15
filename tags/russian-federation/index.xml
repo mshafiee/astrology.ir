@@ -1,4 +1,420 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Russian Federation on Astrology</title><link>https://astrology.ir/tags/russian-federation/</link><description>Recent content in Russian Federation on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/russian-federation/index.xml" rel="self" type="application/rss+xml"/><item><title>Kazan Thursday</title><link>https://astrology.ir/ephemeris/russian_federation/kazan/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/kazan/thursday/</guid><description>&lt;h2 id="geographic-information-of-kazan">Geographic Information of Kazan&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Russian Federation on Astrology</title><link>https://astrology.ir/tags/russian-federation/</link><description>Recent content in Russian Federation on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/russian-federation/index.xml" rel="self" type="application/rss+xml"/><item><title>Kazan Friday</title><link>https://astrology.ir/ephemeris/russian_federation/kazan/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/kazan/friday/</guid><description>&lt;h2 id="geographic-information-of-kazan">Geographic Information of Kazan&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 55.7887
+-
+Longitude: 49.1221
+-
+Altitude: 61.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kazan, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('55.7887', '49.1221');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow Friday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/friday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 55.7522
+-
+Longitude: 37.6156
+-
+Altitude: 144.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('55.7522', '37.6156');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nizhniy Novgorod Friday</title><link>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/friday/</guid><description>&lt;h2 id="geographic-information-of-nizhniy-novgorod">Geographic Information of Nizhniy Novgorod&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 56.3287
+-
+Longitude: 44.0020
+-
+Altitude: 141.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nizhniy Novgorod, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('56.3287', '44.0020');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>RostovnaDonu Friday</title><link>https://astrology.ir/ephemeris/russian_federation/rostov_na_donu/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/rostov_na_donu/friday/</guid><description>&lt;h2 id="geographic-information-of-rostovnadonu">Geographic Information of RostovnaDonu&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 47.2313
+-
+Longitude: 39.7233
+-
+Altitude: 74.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Rostov-na-Donu, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('47.2313', '39.7233');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Petersburg Friday</title><link>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/friday/</guid><description>&lt;h2 id="geographic-information-of-saint-petersburg">Geographic Information of Saint Petersburg&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 59.9386
+-
+Longitude: 30.3141
+-
+Altitude: 11.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Saint Petersburg, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('59.9386', '30.3141');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Volgograd Friday</title><link>https://astrology.ir/ephemeris/russian_federation/volgograd/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/volgograd/friday/</guid><description>&lt;h2 id="geographic-information-of-volgograd">Geographic Information of Volgograd&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 48.7194
+-
+Longitude: 44.5018
+-
+Altitude: 65.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Volgograd, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('48.7194', '44.5018');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Voronezh Friday</title><link>https://astrology.ir/ephemeris/russian_federation/voronezh/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/voronezh/friday/</guid><description>&lt;h2 id="geographic-information-of-voronezh">Geographic Information of Voronezh&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 51.6720
+-
+Longitude: 39.1843
+-
+Altitude: 156.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Voronezh, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('51.6720', '39.1843');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Samara Friday</title><link>https://astrology.ir/ephemeris/russian_federation/samara/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/samara/friday/</guid><description>&lt;h2 id="geographic-information-of-samara">Geographic Information of Samara&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 53.2001
+-
+Longitude: 50.1500
+-
+Altitude: 117.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Samara, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('53.2001', '50.1500');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saratov Friday</title><link>https://astrology.ir/ephemeris/russian_federation/saratov/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saratov/friday/</guid><description>&lt;h2 id="geographic-information-of-saratov">Geographic Information of Saratov&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 51.5406
+-
+Longitude: 46.0086
+-
+Altitude: 72.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Saratov, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('51.5406', '46.0086');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chelyabinsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/chelyabinsk/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/chelyabinsk/friday/</guid><description>&lt;h2 id="geographic-information-of-chelyabinsk">Geographic Information of Chelyabinsk&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 55.1540
+-
+Longitude: 61.4291
+-
+Altitude: 219.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chelyabinsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('55.1540', '61.4291');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Perm Friday</title><link>https://astrology.ir/ephemeris/russian_federation/perm/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/perm/friday/</guid><description>&lt;h2 id="geographic-information-of-perm">Geographic Information of Perm&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 58.0105
+-
+Longitude: 56.2502
+-
+Altitude: 149.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Perm, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('58.0105', '56.2502');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ufa Friday</title><link>https://astrology.ir/ephemeris/russian_federation/ufa/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/ufa/friday/</guid><description>&lt;h2 id="geographic-information-of-ufa">Geographic Information of Ufa&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 54.7431
+-
+Longitude: 55.9678
+-
+Altitude: 158.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ufa, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('54.7431', '55.9678');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yekaterinburg Friday</title><link>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/friday/</guid><description>&lt;h2 id="geographic-information-of-yekaterinburg">Geographic Information of Yekaterinburg&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 56.8519
+-
+Longitude: 60.6122
+-
+Altitude: 255.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Yekaterinburg, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('56.8519', '60.6122');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/friday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
+&lt;p>TimeZone: +06:00
+-
+Latitude: 54.9924
+-
+Longitude: 73.3686
+-
+Altitude: 90.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('54.9924', '73.3686');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Krasnoyarsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/friday/</guid><description>&lt;h2 id="geographic-information-of-krasnoyarsk">Geographic Information of Krasnoyarsk&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: 56.0184
+-
+Longitude: 92.8672
+-
+Altitude: 140.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Krasnoyarsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('56.0184', '92.8672');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Novosibirsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/novosibirsk/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/novosibirsk/friday/</guid><description>&lt;h2 id="geographic-information-of-novosibirsk">Geographic Information of Novosibirsk&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: 55.0415
+-
+Longitude: 82.9346
+-
+Altitude: 164.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Novosibirsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('55.0415', '82.9346');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kazan Thursday</title><link>https://astrology.ir/ephemeris/russian_federation/kazan/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/kazan/thursday/</guid><description>&lt;h2 id="geographic-information-of-kazan">Geographic Information of Kazan&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 55.7887
@@ -1662,6 +2078,32 @@ Altitude: 164.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kazan</title><link>https://astrology.ir/ephemeris/russian_federation/kazan/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/kazan/</guid><description>&lt;h2 id="geographic-information-of-kazan">Geographic Information of Kazan&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 55.7887
+-
+Longitude: 49.1221
+-
+Altitude: 61.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kazan, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('55.7887', '49.1221');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kazan Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/kazan/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/kazan/sunday/</guid><description>&lt;h2 id="geographic-information-of-kazan">Geographic Information of Kazan&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1683,6 +2125,32 @@ Altitude: 61.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('55.7887', '49.1221');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 55.7522
+-
+Longitude: 37.6156
+-
+Altitude: 144.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('55.7522', '37.6156');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1714,6 +2182,32 @@ Altitude: 144.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nizhniy Novgorod</title><link>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/</guid><description>&lt;h2 id="geographic-information-of-nizhniy-novgorod">Geographic Information of Nizhniy Novgorod&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 56.3287
+-
+Longitude: 44.0020
+-
+Altitude: 141.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nizhniy Novgorod, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('56.3287', '44.0020');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nizhniy Novgorod Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/sunday/</guid><description>&lt;h2 id="geographic-information-of-nizhniy-novgorod">Geographic Information of Nizhniy Novgorod&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1735,6 +2229,32 @@ Altitude: 141.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('56.3287', '44.0020');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>RostovnaDonu</title><link>https://astrology.ir/ephemeris/russian_federation/rostov_na_donu/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/rostov_na_donu/</guid><description>&lt;h2 id="geographic-information-of-rostovnadonu">Geographic Information of RostovnaDonu&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 47.2313
+-
+Longitude: 39.7233
+-
+Altitude: 74.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Rostov-na-Donu, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('47.2313', '39.7233');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1766,6 +2286,32 @@ Altitude: 74.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Petersburg</title><link>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/</guid><description>&lt;h2 id="geographic-information-of-saint-petersburg">Geographic Information of Saint Petersburg&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 59.9386
+-
+Longitude: 30.3141
+-
+Altitude: 11.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Saint Petersburg, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('59.9386', '30.3141');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Petersburg Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/sunday/</guid><description>&lt;h2 id="geographic-information-of-saint-petersburg">Geographic Information of Saint Petersburg&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1787,6 +2333,32 @@ Altitude: 11.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('59.9386', '30.3141');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Volgograd</title><link>https://astrology.ir/ephemeris/russian_federation/volgograd/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/volgograd/</guid><description>&lt;h2 id="geographic-information-of-volgograd">Geographic Information of Volgograd&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 48.7194
+-
+Longitude: 44.5018
+-
+Altitude: 65.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Volgograd, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('48.7194', '44.5018');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1818,6 +2390,32 @@ Altitude: 65.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Voronezh</title><link>https://astrology.ir/ephemeris/russian_federation/voronezh/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/voronezh/</guid><description>&lt;h2 id="geographic-information-of-voronezh">Geographic Information of Voronezh&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 51.6720
+-
+Longitude: 39.1843
+-
+Altitude: 156.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Voronezh, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('51.6720', '39.1843');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Voronezh Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/voronezh/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/voronezh/sunday/</guid><description>&lt;h2 id="geographic-information-of-voronezh">Geographic Information of Voronezh&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -1839,6 +2437,32 @@ Altitude: 156.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('51.6720', '39.1843');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Samara</title><link>https://astrology.ir/ephemeris/russian_federation/samara/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/samara/</guid><description>&lt;h2 id="geographic-information-of-samara">Geographic Information of Samara&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 53.2001
+-
+Longitude: 50.1500
+-
+Altitude: 117.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Samara, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('53.2001', '50.1500');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1870,6 +2494,32 @@ Altitude: 117.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saratov</title><link>https://astrology.ir/ephemeris/russian_federation/saratov/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saratov/</guid><description>&lt;h2 id="geographic-information-of-saratov">Geographic Information of Saratov&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 51.5406
+-
+Longitude: 46.0086
+-
+Altitude: 72.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Saratov, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('51.5406', '46.0086');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saratov Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/saratov/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saratov/sunday/</guid><description>&lt;h2 id="geographic-information-of-saratov">Geographic Information of Saratov&lt;/h2>
 &lt;p>TimeZone: +04:00
 -
@@ -1891,6 +2541,32 @@ Altitude: 72.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('51.5406', '46.0086');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chelyabinsk</title><link>https://astrology.ir/ephemeris/russian_federation/chelyabinsk/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/chelyabinsk/</guid><description>&lt;h2 id="geographic-information-of-chelyabinsk">Geographic Information of Chelyabinsk&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 55.1540
+-
+Longitude: 61.4291
+-
+Altitude: 219.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chelyabinsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('55.1540', '61.4291');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1922,6 +2598,32 @@ Altitude: 219.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Perm</title><link>https://astrology.ir/ephemeris/russian_federation/perm/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/perm/</guid><description>&lt;h2 id="geographic-information-of-perm">Geographic Information of Perm&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 58.0105
+-
+Longitude: 56.2502
+-
+Altitude: 149.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Perm, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('58.0105', '56.2502');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Perm Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/perm/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/perm/sunday/</guid><description>&lt;h2 id="geographic-information-of-perm">Geographic Information of Perm&lt;/h2>
 &lt;p>TimeZone: +05:00
 -
@@ -1943,6 +2645,32 @@ Altitude: 149.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('58.0105', '56.2502');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ufa</title><link>https://astrology.ir/ephemeris/russian_federation/ufa/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/ufa/</guid><description>&lt;h2 id="geographic-information-of-ufa">Geographic Information of Ufa&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 54.7431
+-
+Longitude: 55.9678
+-
+Altitude: 158.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ufa, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('54.7431', '55.9678');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1974,6 +2702,32 @@ Altitude: 158.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yekaterinburg</title><link>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/</guid><description>&lt;h2 id="geographic-information-of-yekaterinburg">Geographic Information of Yekaterinburg&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 56.8519
+-
+Longitude: 60.6122
+-
+Altitude: 255.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Yekaterinburg, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('56.8519', '60.6122');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yekaterinburg Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/sunday/</guid><description>&lt;h2 id="geographic-information-of-yekaterinburg">Geographic Information of Yekaterinburg&lt;/h2>
 &lt;p>TimeZone: +05:00
 -
@@ -1995,6 +2749,32 @@ Altitude: 255.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('56.8519', '60.6122');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
+&lt;p>TimeZone: +06:00
+-
+Latitude: 54.9924
+-
+Longitude: 73.3686
+-
+Altitude: 90.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('54.9924', '73.3686');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2026,6 +2806,32 @@ Altitude: 90.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Krasnoyarsk</title><link>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/</guid><description>&lt;h2 id="geographic-information-of-krasnoyarsk">Geographic Information of Krasnoyarsk&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: 56.0184
+-
+Longitude: 92.8672
+-
+Altitude: 140.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Krasnoyarsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('56.0184', '92.8672');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Krasnoyarsk Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/sunday/</guid><description>&lt;h2 id="geographic-information-of-krasnoyarsk">Geographic Information of Krasnoyarsk&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
@@ -2047,6 +2853,32 @@ Altitude: 140.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('56.0184', '92.8672');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Novosibirsk</title><link>https://astrology.ir/ephemeris/russian_federation/novosibirsk/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/novosibirsk/</guid><description>&lt;h2 id="geographic-information-of-novosibirsk">Geographic Information of Novosibirsk&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: 55.0415
+-
+Longitude: 82.9346
+-
+Altitude: 164.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Novosibirsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('55.0415', '82.9346');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2078,32 +2910,6 @@ Altitude: 164.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kazan</title><link>https://astrology.ir/ephemeris/russian_federation/kazan/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/kazan/</guid><description>&lt;h2 id="geographic-information-of-kazan">Geographic Information of Kazan&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7887
--
-Longitude: 49.1221
--
-Altitude: 61.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kazan, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7887', '49.1221');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kazan Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/kazan/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/kazan/saturday/</guid><description>&lt;h2 id="geographic-information-of-kazan">Geographic Information of Kazan&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -2125,32 +2931,6 @@ Altitude: 61.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('55.7887', '49.1221');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2182,32 +2962,6 @@ Altitude: 144.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nizhniy Novgorod</title><link>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/</guid><description>&lt;h2 id="geographic-information-of-nizhniy-novgorod">Geographic Information of Nizhniy Novgorod&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 56.3287
--
-Longitude: 44.0020
--
-Altitude: 141.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nizhniy Novgorod, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('56.3287', '44.0020');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nizhniy Novgorod Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/saturday/</guid><description>&lt;h2 id="geographic-information-of-nizhniy-novgorod">Geographic Information of Nizhniy Novgorod&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -2229,32 +2983,6 @@ Altitude: 141.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('56.3287', '44.0020');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>RostovnaDonu</title><link>https://astrology.ir/ephemeris/russian_federation/rostov_na_donu/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/rostov_na_donu/</guid><description>&lt;h2 id="geographic-information-of-rostovnadonu">Geographic Information of RostovnaDonu&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 47.2313
--
-Longitude: 39.7233
--
-Altitude: 74.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rostov-na-Donu, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('47.2313', '39.7233');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2286,32 +3014,6 @@ Altitude: 74.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Petersburg</title><link>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/</guid><description>&lt;h2 id="geographic-information-of-saint-petersburg">Geographic Information of Saint Petersburg&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 59.9386
--
-Longitude: 30.3141
--
-Altitude: 11.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Petersburg, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('59.9386', '30.3141');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Petersburg Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/saturday/</guid><description>&lt;h2 id="geographic-information-of-saint-petersburg">Geographic Information of Saint Petersburg&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -2333,32 +3035,6 @@ Altitude: 11.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('59.9386', '30.3141');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Volgograd</title><link>https://astrology.ir/ephemeris/russian_federation/volgograd/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/volgograd/</guid><description>&lt;h2 id="geographic-information-of-volgograd">Geographic Information of Volgograd&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 48.7194
--
-Longitude: 44.5018
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Volgograd, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('48.7194', '44.5018');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2390,32 +3066,6 @@ Altitude: 65.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Voronezh</title><link>https://astrology.ir/ephemeris/russian_federation/voronezh/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/voronezh/</guid><description>&lt;h2 id="geographic-information-of-voronezh">Geographic Information of Voronezh&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 51.6720
--
-Longitude: 39.1843
--
-Altitude: 156.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Voronezh, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('51.6720', '39.1843');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Voronezh Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/voronezh/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/voronezh/saturday/</guid><description>&lt;h2 id="geographic-information-of-voronezh">Geographic Information of Voronezh&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -2437,32 +3087,6 @@ Altitude: 156.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('51.6720', '39.1843');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Samara</title><link>https://astrology.ir/ephemeris/russian_federation/samara/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/samara/</guid><description>&lt;h2 id="geographic-information-of-samara">Geographic Information of Samara&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 53.2001
--
-Longitude: 50.1500
--
-Altitude: 117.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Samara, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.2001', '50.1500');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2494,32 +3118,6 @@ Altitude: 117.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saratov</title><link>https://astrology.ir/ephemeris/russian_federation/saratov/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saratov/</guid><description>&lt;h2 id="geographic-information-of-saratov">Geographic Information of Saratov&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 51.5406
--
-Longitude: 46.0086
--
-Altitude: 72.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saratov, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('51.5406', '46.0086');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saratov Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/saratov/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saratov/saturday/</guid><description>&lt;h2 id="geographic-information-of-saratov">Geographic Information of Saratov&lt;/h2>
 &lt;p>TimeZone: +04:00
 -
@@ -2541,32 +3139,6 @@ Altitude: 72.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('51.5406', '46.0086');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chelyabinsk</title><link>https://astrology.ir/ephemeris/russian_federation/chelyabinsk/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/chelyabinsk/</guid><description>&lt;h2 id="geographic-information-of-chelyabinsk">Geographic Information of Chelyabinsk&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 55.1540
--
-Longitude: 61.4291
--
-Altitude: 219.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chelyabinsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.1540', '61.4291');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2598,32 +3170,6 @@ Altitude: 219.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Perm</title><link>https://astrology.ir/ephemeris/russian_federation/perm/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/perm/</guid><description>&lt;h2 id="geographic-information-of-perm">Geographic Information of Perm&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 58.0105
--
-Longitude: 56.2502
--
-Altitude: 149.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Perm, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('58.0105', '56.2502');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Perm Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/perm/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/perm/saturday/</guid><description>&lt;h2 id="geographic-information-of-perm">Geographic Information of Perm&lt;/h2>
 &lt;p>TimeZone: +05:00
 -
@@ -2645,32 +3191,6 @@ Altitude: 149.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('58.0105', '56.2502');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ufa</title><link>https://astrology.ir/ephemeris/russian_federation/ufa/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/ufa/</guid><description>&lt;h2 id="geographic-information-of-ufa">Geographic Information of Ufa&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 54.7431
--
-Longitude: 55.9678
--
-Altitude: 158.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ufa, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.7431', '55.9678');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2702,32 +3222,6 @@ Altitude: 158.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yekaterinburg</title><link>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/</guid><description>&lt;h2 id="geographic-information-of-yekaterinburg">Geographic Information of Yekaterinburg&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 56.8519
--
-Longitude: 60.6122
--
-Altitude: 255.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yekaterinburg, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('56.8519', '60.6122');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yekaterinburg Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/saturday/</guid><description>&lt;h2 id="geographic-information-of-yekaterinburg">Geographic Information of Yekaterinburg&lt;/h2>
 &lt;p>TimeZone: +05:00
 -
@@ -2749,32 +3243,6 @@ Altitude: 255.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('56.8519', '60.6122');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2806,32 +3274,6 @@ Altitude: 90.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Krasnoyarsk</title><link>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/</guid><description>&lt;h2 id="geographic-information-of-krasnoyarsk">Geographic Information of Krasnoyarsk&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: 56.0184
--
-Longitude: 92.8672
--
-Altitude: 140.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Krasnoyarsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('56.0184', '92.8672');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Krasnoyarsk Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/saturday/</guid><description>&lt;h2 id="geographic-information-of-krasnoyarsk">Geographic Information of Krasnoyarsk&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
@@ -2858,449 +3300,7 @@ Altitude: 140.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Novosibirsk</title><link>https://astrology.ir/ephemeris/russian_federation/novosibirsk/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/novosibirsk/</guid><description>&lt;h2 id="geographic-information-of-novosibirsk">Geographic Information of Novosibirsk&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: 55.0415
--
-Longitude: 82.9346
--
-Altitude: 164.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Novosibirsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.0415', '82.9346');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Novosibirsk Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/novosibirsk/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/novosibirsk/saturday/</guid><description>&lt;h2 id="geographic-information-of-novosibirsk">Geographic Information of Novosibirsk&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: 55.0415
--
-Longitude: 82.9346
--
-Altitude: 164.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Novosibirsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.0415', '82.9346');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kazan Friday</title><link>https://astrology.ir/ephemeris/russian_federation/kazan/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/kazan/friday/</guid><description>&lt;h2 id="geographic-information-of-kazan">Geographic Information of Kazan&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7887
--
-Longitude: 49.1221
--
-Altitude: 61.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kazan, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7887', '49.1221');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow Friday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/friday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nizhniy Novgorod Friday</title><link>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/nizhniy_novgorod/friday/</guid><description>&lt;h2 id="geographic-information-of-nizhniy-novgorod">Geographic Information of Nizhniy Novgorod&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 56.3287
--
-Longitude: 44.0020
--
-Altitude: 141.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nizhniy Novgorod, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('56.3287', '44.0020');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>RostovnaDonu Friday</title><link>https://astrology.ir/ephemeris/russian_federation/rostov_na_donu/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/rostov_na_donu/friday/</guid><description>&lt;h2 id="geographic-information-of-rostovnadonu">Geographic Information of RostovnaDonu&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 47.2313
--
-Longitude: 39.7233
--
-Altitude: 74.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rostov-na-Donu, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('47.2313', '39.7233');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Petersburg Friday</title><link>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saint_petersburg/friday/</guid><description>&lt;h2 id="geographic-information-of-saint-petersburg">Geographic Information of Saint Petersburg&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 59.9386
--
-Longitude: 30.3141
--
-Altitude: 11.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Petersburg, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('59.9386', '30.3141');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Volgograd Friday</title><link>https://astrology.ir/ephemeris/russian_federation/volgograd/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/volgograd/friday/</guid><description>&lt;h2 id="geographic-information-of-volgograd">Geographic Information of Volgograd&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 48.7194
--
-Longitude: 44.5018
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Volgograd, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('48.7194', '44.5018');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Voronezh Friday</title><link>https://astrology.ir/ephemeris/russian_federation/voronezh/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/voronezh/friday/</guid><description>&lt;h2 id="geographic-information-of-voronezh">Geographic Information of Voronezh&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 51.6720
--
-Longitude: 39.1843
--
-Altitude: 156.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Voronezh, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('51.6720', '39.1843');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Samara Friday</title><link>https://astrology.ir/ephemeris/russian_federation/samara/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/samara/friday/</guid><description>&lt;h2 id="geographic-information-of-samara">Geographic Information of Samara&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 53.2001
--
-Longitude: 50.1500
--
-Altitude: 117.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Samara, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.2001', '50.1500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saratov Friday</title><link>https://astrology.ir/ephemeris/russian_federation/saratov/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/saratov/friday/</guid><description>&lt;h2 id="geographic-information-of-saratov">Geographic Information of Saratov&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 51.5406
--
-Longitude: 46.0086
--
-Altitude: 72.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saratov, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('51.5406', '46.0086');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chelyabinsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/chelyabinsk/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/chelyabinsk/friday/</guid><description>&lt;h2 id="geographic-information-of-chelyabinsk">Geographic Information of Chelyabinsk&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 55.1540
--
-Longitude: 61.4291
--
-Altitude: 219.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chelyabinsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.1540', '61.4291');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Perm Friday</title><link>https://astrology.ir/ephemeris/russian_federation/perm/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/perm/friday/</guid><description>&lt;h2 id="geographic-information-of-perm">Geographic Information of Perm&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 58.0105
--
-Longitude: 56.2502
--
-Altitude: 149.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Perm, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('58.0105', '56.2502');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ufa Friday</title><link>https://astrology.ir/ephemeris/russian_federation/ufa/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/ufa/friday/</guid><description>&lt;h2 id="geographic-information-of-ufa">Geographic Information of Ufa&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 54.7431
--
-Longitude: 55.9678
--
-Altitude: 158.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ufa, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.7431', '55.9678');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yekaterinburg Friday</title><link>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/yekaterinburg/friday/</guid><description>&lt;h2 id="geographic-information-of-yekaterinburg">Geographic Information of Yekaterinburg&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 56.8519
--
-Longitude: 60.6122
--
-Altitude: 255.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yekaterinburg, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('56.8519', '60.6122');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/friday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Krasnoyarsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/krasnoyarsk/friday/</guid><description>&lt;h2 id="geographic-information-of-krasnoyarsk">Geographic Information of Krasnoyarsk&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: 56.0184
--
-Longitude: 92.8672
--
-Altitude: 140.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Krasnoyarsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('56.0184', '92.8672');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Novosibirsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/novosibirsk/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/novosibirsk/friday/</guid><description>&lt;h2 id="geographic-information-of-novosibirsk">Geographic Information of Novosibirsk&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
 Latitude: 55.0415

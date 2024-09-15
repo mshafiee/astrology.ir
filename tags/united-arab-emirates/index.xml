@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>United Arab Emirates on Astrology</title><link>https://astrology.ir/tags/united-arab-emirates/</link><description>Recent content in United Arab Emirates on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0400</lastBuildDate><atom:link href="https://astrology.ir/tags/united-arab-emirates/index.xml" rel="self" type="application/rss+xml"/><item><title>Abu Dhabi Thursday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/thursday/</guid><description>&lt;h2 id="geographic-information-of-abu-dhabi">Geographic Information of Abu Dhabi&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>United Arab Emirates on Astrology</title><link>https://astrology.ir/tags/united-arab-emirates/</link><description>Recent content in United Arab Emirates on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0400</lastBuildDate><atom:link href="https://astrology.ir/tags/united-arab-emirates/index.xml" rel="self" type="application/rss+xml"/><item><title>Abu Dhabi Friday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/friday/</guid><description>&lt;h2 id="geographic-information-of-abu-dhabi">Geographic Information of Abu Dhabi&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 24.4512
+-
+Longitude: 54.3970
+-
+Altitude: 13.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Abu Dhabi, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('24.4512', '54.3970');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dubai Friday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/dubai/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/dubai/friday/</guid><description>&lt;h2 id="geographic-information-of-dubai">Geographic Information of Dubai&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 25.0772
+-
+Longitude: 55.3093
+-
+Altitude: 24.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Dubai, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('25.0772', '55.3093');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Friday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/friday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 25.3374
+-
+Longitude: 55.4121
+-
+Altitude: 6.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('25.3374', '55.4121');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abu Dhabi Thursday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/thursday/</guid><description>&lt;h2 id="geographic-information-of-abu-dhabi">Geographic Information of Abu Dhabi&lt;/h2>
 &lt;p>TimeZone: +04:00
 -
 Latitude: 24.4512
@@ -310,6 +388,32 @@ Altitude: 6.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abu Dhabi</title><link>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/</guid><description>&lt;h2 id="geographic-information-of-abu-dhabi">Geographic Information of Abu Dhabi&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 24.4512
+-
+Longitude: 54.3970
+-
+Altitude: 13.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Abu Dhabi, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('24.4512', '54.3970');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abu Dhabi Sunday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/sunday/</guid><description>&lt;h2 id="geographic-information-of-abu-dhabi">Geographic Information of Abu Dhabi&lt;/h2>
 &lt;p>TimeZone: +04:00
 -
@@ -331,6 +435,32 @@ Altitude: 13.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('24.4512', '54.3970');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dubai</title><link>https://astrology.ir/ephemeris/united_arab_emirates/dubai/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/dubai/</guid><description>&lt;h2 id="geographic-information-of-dubai">Geographic Information of Dubai&lt;/h2>
+&lt;p>TimeZone: +04:00
+-
+Latitude: 25.0772
+-
+Longitude: 55.3093
+-
+Altitude: 24.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Dubai, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('25.0772', '55.3093');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -362,7 +492,7 @@ Altitude: 24.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Sunday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/sunday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
 &lt;p>TimeZone: +04:00
 -
 Latitude: 25.3374
@@ -388,14 +518,14 @@ Altitude: 6.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abu Dhabi</title><link>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/</guid><description>&lt;h2 id="geographic-information-of-abu-dhabi">Geographic Information of Abu Dhabi&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Sunday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/sunday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
 &lt;p>TimeZone: +04:00
 -
-Latitude: 24.4512
+Latitude: 25.3374
 -
-Longitude: 54.3970
+Longitude: 55.4121
 -
-Altitude: 13.0000 meters&lt;/p>
+Altitude: 6.0000 meters&lt;/p>
 &lt;div class="shortcode shortcode-osm-maps">
 	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
 	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
@@ -405,10 +535,10 @@ Altitude: 13.0000 meters&lt;/p>
 		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
 		var map = L.map(element);
 		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Abu Dhabi, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4512', '54.3970');
+		var target = L.latLng('25.3374', '55.4121');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -440,32 +570,6 @@ Altitude: 13.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dubai</title><link>https://astrology.ir/ephemeris/united_arab_emirates/dubai/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/dubai/</guid><description>&lt;h2 id="geographic-information-of-dubai">Geographic Information of Dubai&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.0772
--
-Longitude: 55.3093
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dubai, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.0772', '55.3093');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dubai Saturday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/dubai/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/dubai/saturday/</guid><description>&lt;h2 id="geographic-information-of-dubai">Geographic Information of Dubai&lt;/h2>
 &lt;p>TimeZone: +04:00
 -
@@ -492,111 +596,7 @@ Altitude: 24.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Saturday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/saturday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Abu Dhabi Friday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/abu_dhabi/friday/</guid><description>&lt;h2 id="geographic-information-of-abu-dhabi">Geographic Information of Abu Dhabi&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 24.4512
--
-Longitude: 54.3970
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Abu Dhabi, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4512', '54.3970');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dubai Friday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/dubai/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/dubai/friday/</guid><description>&lt;h2 id="geographic-information-of-dubai">Geographic Information of Dubai&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.0772
--
-Longitude: 55.3093
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dubai, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.0772', '55.3093');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Friday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/friday/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/friday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
 &lt;p>TimeZone: +04:00
 -
 Latitude: 25.3374
