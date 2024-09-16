@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Malabo on Astrology</title><link>https://astrology.ir/tags/malabo/</link><description>Recent content in Malabo on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/malabo/index.xml" rel="self" type="application/rss+xml"/><item><title>Malabo Friday</title><link>https://astrology.ir/ephemeris/equatorial_guinea/malabo/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/equatorial_guinea/malabo/friday/</guid><description>&lt;h2 id="geographic-information-of-malabo">Geographic Information of Malabo&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Malabo on Astrology</title><link>https://astrology.ir/tags/malabo/</link><description>Recent content in Malabo on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/malabo/index.xml" rel="self" type="application/rss+xml"/><item><title>Malabo Saturday</title><link>https://astrology.ir/ephemeris/equatorial_guinea/malabo/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/equatorial_guinea/malabo/saturday/</guid><description>&lt;h2 id="geographic-information-of-malabo">Geographic Information of Malabo&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 3.7558
+-
+Longitude: 8.7817
+-
+Altitude: 106.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Malabo, Equatorial Guinea | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.7558', '8.7817');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Malabo Friday</title><link>https://astrology.ir/ephemeris/equatorial_guinea/malabo/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/equatorial_guinea/malabo/friday/</guid><description>&lt;h2 id="geographic-information-of-malabo">Geographic Information of Malabo&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 3.7558
@@ -102,6 +128,32 @@ Altitude: 106.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Malabo</title><link>https://astrology.ir/ephemeris/equatorial_guinea/malabo/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/equatorial_guinea/malabo/</guid><description>&lt;h2 id="geographic-information-of-malabo">Geographic Information of Malabo&lt;/h2>
+&lt;p>TimeZone: +01:00
+-
+Latitude: 3.7558
+-
+Longitude: 8.7817
+-
+Altitude: 106.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Malabo, Equatorial Guinea | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.7558', '8.7817');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Malabo Monday</title><link>https://astrology.ir/ephemeris/equatorial_guinea/malabo/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/equatorial_guinea/malabo/monday/</guid><description>&lt;h2 id="geographic-information-of-malabo">Geographic Information of Malabo&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
@@ -128,59 +180,7 @@ Altitude: 106.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Malabo</title><link>https://astrology.ir/ephemeris/equatorial_guinea/malabo/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/equatorial_guinea/malabo/</guid><description>&lt;h2 id="geographic-information-of-malabo">Geographic Information of Malabo&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.7558
--
-Longitude: 8.7817
--
-Altitude: 106.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Malabo, Equatorial Guinea | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.7558', '8.7817');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Malabo Sunday</title><link>https://astrology.ir/ephemeris/equatorial_guinea/malabo/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/equatorial_guinea/malabo/sunday/</guid><description>&lt;h2 id="geographic-information-of-malabo">Geographic Information of Malabo&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.7558
--
-Longitude: 8.7817
--
-Altitude: 106.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Malabo, Equatorial Guinea | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.7558', '8.7817');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Malabo Saturday</title><link>https://astrology.ir/ephemeris/equatorial_guinea/malabo/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/equatorial_guinea/malabo/saturday/</guid><description>&lt;h2 id="geographic-information-of-malabo">Geographic Information of Malabo&lt;/h2>
 &lt;p>TimeZone: +01:00
 -
 Latitude: 3.7558

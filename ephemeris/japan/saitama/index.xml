@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saitama on Astrology</title><link>https://astrology.ir/ephemeris/japan/saitama/</link><description>Recent content in Saitama on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/japan/saitama/index.xml" rel="self" type="application/rss+xml"/><item><title>Saitama Friday</title><link>https://astrology.ir/ephemeris/japan/saitama/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/saitama/friday/</guid><description>&lt;h2 id="geographic-information-of-saitama">Geographic Information of Saitama&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saitama on Astrology</title><link>https://astrology.ir/ephemeris/japan/saitama/</link><description>Recent content in Saitama on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/japan/saitama/index.xml" rel="self" type="application/rss+xml"/><item><title>Saitama Saturday</title><link>https://astrology.ir/ephemeris/japan/saitama/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/saitama/saturday/</guid><description>&lt;h2 id="geographic-information-of-saitama">Geographic Information of Saitama&lt;/h2>
+&lt;p>TimeZone: +09:00
+-
+Latitude: 35.9081
+-
+Longitude: 139.6566
+-
+Altitude: 16.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Saitama, Japan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('35.9081', '139.6566');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saitama Friday</title><link>https://astrology.ir/ephemeris/japan/saitama/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/saitama/friday/</guid><description>&lt;h2 id="geographic-information-of-saitama">Geographic Information of Saitama&lt;/h2>
 &lt;p>TimeZone: +09:00
 -
 Latitude: 35.9081
@@ -129,32 +155,6 @@ Altitude: 16.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saitama Sunday</title><link>https://astrology.ir/ephemeris/japan/saitama/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/saitama/sunday/</guid><description>&lt;h2 id="geographic-information-of-saitama">Geographic Information of Saitama&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 35.9081
--
-Longitude: 139.6566
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saitama, Japan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.9081', '139.6566');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saitama Saturday</title><link>https://astrology.ir/ephemeris/japan/saitama/saturday/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/japan/saitama/saturday/</guid><description>&lt;h2 id="geographic-information-of-saitama">Geographic Information of Saitama&lt;/h2>
 &lt;p>TimeZone: +09:00
 -
 Latitude: 35.9081
