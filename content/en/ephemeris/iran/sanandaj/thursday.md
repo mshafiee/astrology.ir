@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 12:14:18|Night duration: 11:46:27|
-|Every hour of day duration: 01:01:12|Every hour of night duration: 00:58:52|
+|Every hour of day duration: 01:01:11|Every hour of night duration: 00:58:52|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°11'57.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°40'7.89" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°21'47.50" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°39'36.02" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|25°7'38.26" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|16°37'21.93" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|9°53'48.28" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|15°11'57.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°40'7.88" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°21'48.31" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°39'35.84" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|25°7'37.68" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|16°37'21.95" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|9°56'26.18" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

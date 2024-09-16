@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:16:32 |
 | Sunrise | 06:39:17 |
-| Dhuhr (Noon) | 12:39:55 |
-| Medium Coeli | 12:39:55 |
+| Dhuhr (Noon) | 12:39:54 |
+| Medium Coeli | 12:39:54 |
 | Sunset | 18:41:04 |
 | Maghrib | 18:59:50 |
 | Isha (Night) | 19:45:51 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:15:03 |
 | Sunrise | 06:39:17 |
-| Dhuhr (Noon) | 12:39:54 |
-| Medium Coeli | 12:39:54 |
+| Dhuhr (Noon) | 12:39:55 |
+| Medium Coeli | 12:39:55 |
 | Sunset | 18:41:04 |
 | Maghrib | 18:42:08 |
 | Isha (Night) | 20:00:32 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:07:41 |
 | Sunrise | 06:39:17 |
-| Dhuhr (Noon) | 12:39:54 |
-| Medium Coeli | 12:39:54 |
+| Dhuhr (Noon) | 12:39:55 |
+| Medium Coeli | 12:39:55 |
 | Sunset | 18:41:04 |
 | Maghrib | 18:42:08 |
 | Isha (Night) | 20:02:59 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°11'35.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°40'27.62" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|8°24'38.72" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|26°44'27.53" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|25°13'44.48" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|16°46'38.13" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|11°39'15.56" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°40'27.86" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|8°24'38.77" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|26°44'27.57" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°13'44.56" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|16°46'38.16" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°39'15.94" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°11'35.37" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|15°11'35.57" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|20°40'27.86" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°24'38.77" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°44'27.57" |Virgo|Simak|Mercury|

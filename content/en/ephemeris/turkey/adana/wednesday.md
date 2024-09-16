@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:05:04 |
+| Fajr (Dawn) | 05:05:05 |
 | Sunrise | 06:23:16 |
 | Dhuhr (Noon) | 12:32:40 |
 | Medium Coeli | 12:32:40 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°16'17.24" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|20°36'16.36" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°48'52.85" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|25°42'52.54" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°56'44.27" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|14°50'21.60" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°12'3.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|7°48'53.09" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|25°42'52.56" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°56'44.26" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|14°50'21.66" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|25°12'2.71" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°16'17.04" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°36'16.12" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°48'53.04" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°42'52.57" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|23°56'44.35" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|14°50'21.63" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|25°12'3.27" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|15°16'17.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°36'16.36" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°48'53.09" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°42'52.56" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|23°56'44.26" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|14°50'21.66" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|25°12'2.71" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°8'22.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°43'15.06" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|8°49'9.90" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|27°26'41.69" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|26°6'30.49" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|18°6'49.01" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°38'10.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|20°43'13.43" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|8°49'5.51" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|27°26'51.42" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|26°6'39.23" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|18°6'55.59" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|22°12'56.68" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Gemini|Moon|Venus|
 |♀ Venus|Venus|Sun|Cancer|Sun|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°8'22.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°43'13.43" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°49'5.57" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°26'51.39" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|26°6'39.17" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|18°6'55.57" |Virgo|Simak|Venus|
-|☾ Moon|Direct|22°13'25.31" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|20°43'13.41" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°49'5.51" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°26'51.42" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|26°6'39.23" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|18°6'55.59" |Virgo|Simak|Venus|
+|☾ Moon|Direct|22°12'56.68" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

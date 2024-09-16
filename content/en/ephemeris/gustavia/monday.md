@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:45:51 |
-| Sunrise | 05:59:20 |
+| Sunrise | 05:59:21 |
 | Dhuhr (Noon) | 12:06:00 |
 | Medium Coeli | 12:06:00 |
 | Sunset | 18:12:24 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:35 |
-| Sunrise | 05:59:20 |
+| Sunrise | 05:59:21 |
 | Dhuhr (Noon) | 12:06:00 |
 | Medium Coeli | 12:06:00 |
 | Sunset | 18:12:24 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:39:28 |
-| Sunrise | 05:59:20 |
+| Sunrise | 05:59:21 |
 | Dhuhr (Noon) | 12:06:00 |
 | Medium Coeli | 12:06:00 |
 | Sunset | 18:12:24 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:43 |
-| Sunrise | 05:59:20 |
+| Sunrise | 05:59:21 |
 | Dhuhr (Noon) | 12:06:00 |
 | Medium Coeli | 12:06:00 |
 | Sunset | 18:12:24 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:13:04|Night duration: 11:47:05|
+|Duration of the day: 12:13:03|Night duration: 11:47:05|
 |Every hour of day duration: 01:01:05|Every hour of night duration: 00:58:55|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:59:20|07:00:24|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|07:00:25|08:01:29|Outer and inner journey|
-|3|Jupiter|Servant|08:01:30|09:02:35|Marriage connection is good|
-|4|Mars|Servant|09:02:36|10:03:40|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:03:41|11:04:45|Answering needs, attracting love and wealth|
-|6|Venus|Servant|11:04:46|12:05:51|Summoning the person of interest, love and dominance|
+|1|Moon|Ruler|05:59:21|07:00:25|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|07:00:26|08:01:30|Outer and inner journey|
+|3|Jupiter|Servant|08:01:31|09:02:35|Marriage connection is good|
+|4|Mars|Servant|09:02:36|10:03:41|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:03:42|11:04:46|Answering needs, attracting love and wealth|
+|6|Venus|Servant|11:04:47|12:05:51|Summoning the person of interest, love and dominance|
 |7|Mercury|Servant|12:05:52|13:06:56|Making promises|
-|8|Moon|Ruler|13:06:57|14:08:01|Reconciliation of two persons, attracting love|
-|9|Saturn|Servant|14:08:02|15:09:07|Attracting and repelling enemies and causing separation|
+|8|Moon|Ruler|13:06:57|14:08:02|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|14:08:03|15:09:07|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:09:08|16:10:12|Good for any task|
 |11|Mars|Servant|16:10:13|17:11:17|Creating enmity and negative energy|
 |12|Sun|Servant|17:11:18|18:12:23|Heart tenderness|

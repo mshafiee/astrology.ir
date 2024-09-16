@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:19:57 |
 | Maghrib | 18:35:31 |
 | Isha (Night) | 19:13:32 |
-| Sharia Midnight | 23:42:07 |
+| Sharia Midnight | 23:42:08 |
 | Imum Coeli | 00:16:19 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°20'25.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°32'25.82" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°17'20.00" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|24°48'48.36" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|22°49'6.72" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|13°9'6.49" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|11°17'29.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|15°20'26.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°32'26.06" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|7°17'20.05" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°48'48.39" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°49'6.80" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|13°9'6.52" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°17'29.35" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°20'25.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°32'25.82" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°17'20.00" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|24°48'48.36" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|22°49'6.72" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|13°9'6.49" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|15°20'26.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°32'26.06" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°17'20.05" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°48'48.39" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|22°49'6.80" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|13°9'6.52" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|11°17'29.49" |Pisces|FarghAlMuakhar|Jupiter|
 
 
