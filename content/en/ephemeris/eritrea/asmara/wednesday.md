@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:22:46 |
 | Maghrib | 18:27:01 |
 | Isha (Night) | 19:23:14 |
-| Sharia Midnight | 23:47:56 |
+| Sharia Midnight | 23:47:55 |
 | Imum Coeli | 00:18:04 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°16'19.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°36'14.75" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°48'39.30" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|25°42'28.95" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°56'14.62" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|14°49'37.09" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°4'43.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°36'15.42" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|7°48'42.22" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|25°42'27.23" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°56'12.00" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|14°49'36.36" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|25°15'16.08" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°16'19.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°36'14.75" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°48'39.30" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°42'28.95" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|23°56'14.62" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|14°49'37.09" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|25°4'43.02" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|15°16'18.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°36'14.51" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°48'39.25" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°42'28.92" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|23°56'14.53" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|14°49'37.06" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|25°4'42.78" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

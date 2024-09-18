@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:05:54 |
 | Maghrib | 18:10:43 |
 | Isha (Night) | 19:25:51 |
-| Sharia Midnight | 23:13:14 |
+| Sharia Midnight | 23:13:15 |
 | Imum Coeli | 23:57:49 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°20'58.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°31'55.30" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°13'12.66" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|24°41'46.17" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|22°40'18.29" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|12°55'59.28" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|9°26'21.13" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|15°20'58.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°31'55.07" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|7°13'12.61" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°41'46.25" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°40'18.18" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|12°55'59.39" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|9°25'1.57" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°20'58.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°31'55.30" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°13'12.66" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|24°41'46.29" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|15°20'58.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°31'55.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°13'12.61" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°41'46.25" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|22°40'18.27" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|12°55'59.28" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|9°26'21.13" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|12°55'59.42" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|9°25'1.37" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

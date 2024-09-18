@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:58:29 |
 | Maghrib | 19:29:12 |
 | Isha (Night) | 20:48:30 |
-| Sharia Midnight | 23:29:45 |
+| Sharia Midnight | 23:29:46 |
 | Imum Coeli | 00:41:30 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°16'6.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°36'26.57" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°50'19.33" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|25°45'18.79" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°59'47.08" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|14°54'57.62" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°54'47.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°36'26.51" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|7°50'18.29" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|25°45'18.09" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°59'47.16" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|14°54'56.89" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|26°0'11.62" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°16'5.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°36'26.27" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°50'18.24" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°45'18.05" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|23°59'47.07" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|14°54'56.86" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|26°0'11.37" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|15°16'6.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°36'26.51" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°50'10.30" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°45'8.92" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|23°59'44.51" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|14°54'48.40" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|27°5'8.89" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Cancer|Sun|Moon|
 |♀ Venus|Mars|Venus|Cancer|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

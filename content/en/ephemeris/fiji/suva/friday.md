@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°4'42.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°46'17.09" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|9°17'4.49" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|28°15'32.17" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|27°7'25.60" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|19°39'19.75" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°57'58.22" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|15°4'42.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°46'16.84" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|9°17'4.45" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|28°15'24.96" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|27°7'20.76" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|19°39'20.22" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|5°41'56.75" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°4'42.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°46'15.16" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°16'56.95" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°15'25.74" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|27°7'24.70" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|19°39'19.75" |Virgo|Simak|Venus|
-|☾ Moon|Direct|4°57'58.22" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|20°46'17.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°17'4.49" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°15'32.17" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|27°7'25.60" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|19°39'25.63" |Virgo|Simak|Venus|
+|☾ Moon|Direct|4°55'9.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

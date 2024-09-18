@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:26:59 |
 | Isha (Night) | 20:23:38 |
 | Sharia Midnight | 00:00:21 |
-| Imum Coeli | 00:51:10 |
+| Imum Coeli | 00:51:11 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:05:35 |
 | Isha (Night) | 20:42:11 |
 | Sharia Midnight | 23:59:24 |
-| Imum Coeli | 00:51:10 |
+| Imum Coeli | 00:51:11 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 19:05:35 |
 | Isha (Night) | 20:29:46 |
 | Sharia Midnight | 00:08:46 |
-| Imum Coeli | 00:51:10 |
+| Imum Coeli | 00:51:11 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 19:05:35 |
 | Isha (Night) | 20:45:20 |
 | Sharia Midnight | 23:54:37 |
-| Imum Coeli | 00:51:10 |
+| Imum Coeli | 00:51:11 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 19:05:35 |
 | Isha (Night) | 20:48:29 |
 | Sharia Midnight | 23:59:24 |
-| Imum Coeli | 00:51:10 |
+| Imum Coeli | 00:51:11 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°20'44.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°32'8.92" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|7°15'3.16" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|24°44'55.51" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|22°44'15.77" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|13°1'52.48" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|10°19'54.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°32'9.08" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|7°15'3.72" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°44'55.59" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°44'15.57" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|13°1'52.66" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°17'55.66" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

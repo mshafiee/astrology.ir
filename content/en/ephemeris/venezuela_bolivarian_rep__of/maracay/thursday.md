@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:02:39 |
+| Fajr (Dawn) | 05:02:38 |
 | Sunrise | 06:19:41 |
 | Dhuhr (Noon) | 12:23:53 |
 | Medium Coeli | 12:23:53 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°6'5.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|15°6'6.16" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|20°45'7.83" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|9°6'24.44" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|27°56'57.83" |Leo|Sarfrah|Mars|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°6'5.95" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°45'7.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°6'24.40" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°56'57.80" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|26°44'13.83" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|19°4'5.71" |Virgo|Simak|Venus|
-|☾ Moon|Direct|29°58'10.52" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|15°6'6.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°45'7.83" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°6'24.44" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°56'57.83" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|26°44'13.88" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|19°4'5.74" |Virgo|Simak|Venus|
+|☾ Moon|Direct|29°58'26.11" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:25:13 |
 | Medium Coeli | 13:25:13 |
 | Sunset | 19:30:46 |
-| Maghrib | 19:46:51 |
+| Maghrib | 19:46:50 |
 | Isha (Night) | 20:34:07 |
 | Sharia Midnight | 00:48:47 |
 | Imum Coeli | 01:25:02 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|20°44'30.70" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|9°0'47.07" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|27°47'10.79" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|26°32'0.27" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|18°45'26.48" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°36'44.23" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|26°32'1.14" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|18°45'30.43" |Virgo|Simak|Venus|
+|☾ Moon|Direct|27°26'20.23" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Sun|Venus|Leo|Moon|Moon|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
