@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>West Island on Astrology</title><link>https://astrology.ir/tags/west-island/</link><description>Recent content in West Island on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0630</lastBuildDate><atom:link href="https://astrology.ir/tags/west-island/index.xml" rel="self" type="application/rss+xml"/><item><title>West Island Saturday</title><link>https://astrology.ir/ephemeris/west_island/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/saturday/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>West Island on Astrology</title><link>https://astrology.ir/tags/west-island/</link><description>Recent content in West Island on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0630</lastBuildDate><atom:link href="https://astrology.ir/tags/west-island/index.xml" rel="self" type="application/rss+xml"/><item><title>West Island Monday</title><link>https://astrology.ir/ephemeris/west_island/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/monday/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
+&lt;p>TimeZone: +06:30
+-
+Latitude: -12.1568
+-
+Longitude: 96.8225
+-
+Altitude: 12.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">West Island, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-12.1568', '96.8225');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>West Island Sunday</title><link>https://astrology.ir/ephemeris/west_island/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/sunday/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
+&lt;p>TimeZone: +06:30
+-
+Latitude: -12.1568
+-
+Longitude: 96.8225
+-
+Altitude: 12.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">West Island, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-12.1568', '96.8225');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>West Island Saturday</title><link>https://astrology.ir/ephemeris/west_island/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/saturday/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
 &lt;p>TimeZone: +06:30
 -
 Latitude: -12.1568
@@ -76,6 +128,32 @@ Altitude: 12.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>West Island</title><link>https://astrology.ir/ephemeris/west_island/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
+&lt;p>TimeZone: +06:30
+-
+Latitude: -12.1568
+-
+Longitude: 96.8225
+-
+Altitude: 12.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">West Island, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-12.1568', '96.8225');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>West Island Wednesday</title><link>https://astrology.ir/ephemeris/west_island/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/wednesday/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
 &lt;p>TimeZone: +06:30
 -
@@ -103,84 +181,6 @@ Altitude: 12.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>West Island Tuesday</title><link>https://astrology.ir/ephemeris/west_island/tuesday/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/tuesday/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: -12.1568
--
-Longitude: 96.8225
--
-Altitude: 12.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">West Island, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-12.1568', '96.8225');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>West Island</title><link>https://astrology.ir/ephemeris/west_island/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: -12.1568
--
-Longitude: 96.8225
--
-Altitude: 12.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">West Island, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-12.1568', '96.8225');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>West Island Monday</title><link>https://astrology.ir/ephemeris/west_island/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/monday/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: -12.1568
--
-Longitude: 96.8225
--
-Altitude: 12.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">West Island, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-12.1568', '96.8225');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>West Island Sunday</title><link>https://astrology.ir/ephemeris/west_island/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/west_island/sunday/</guid><description>&lt;h2 id="geographic-information-of-west-island">Geographic Information of West Island&lt;/h2>
 &lt;p>TimeZone: +06:30
 -
 Latitude: -12.1568

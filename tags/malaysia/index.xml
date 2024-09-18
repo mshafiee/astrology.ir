@@ -1,4 +1,160 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Malaysia on Astrology</title><link>https://astrology.ir/tags/malaysia/</link><description>Recent content in Malaysia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://astrology.ir/tags/malaysia/index.xml" rel="self" type="application/rss+xml"/><item><title>Johor Bahru Saturday</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/saturday/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Malaysia on Astrology</title><link>https://astrology.ir/tags/malaysia/</link><description>Recent content in Malaysia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://astrology.ir/tags/malaysia/index.xml" rel="self" type="application/rss+xml"/><item><title>Johor Bahru Monday</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/monday/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 1.4655
+-
+Longitude: 103.7578
+-
+Altitude: 32.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Johor Bahru, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('1.4655', '103.7578');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kota Bharu Monday</title><link>https://astrology.ir/ephemeris/malaysia/kota_bharu/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kota_bharu/monday/</guid><description>&lt;h2 id="geographic-information-of-kota-bharu">Geographic Information of Kota Bharu&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 6.1236
+-
+Longitude: 102.2433
+-
+Altitude: 1.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kota Bharu, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('6.1236', '102.2433');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuala Lumpur Monday</title><link>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/monday/</guid><description>&lt;h2 id="geographic-information-of-kuala-lumpur">Geographic Information of Kuala Lumpur&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 3.1412
+-
+Longitude: 101.6865
+-
+Altitude: 56.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kuala Lumpur, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.1412', '101.6865');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Johor Bahru Sunday</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/sunday/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 1.4655
+-
+Longitude: 103.7578
+-
+Altitude: 32.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Johor Bahru, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('1.4655', '103.7578');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kota Bharu Sunday</title><link>https://astrology.ir/ephemeris/malaysia/kota_bharu/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kota_bharu/sunday/</guid><description>&lt;h2 id="geographic-information-of-kota-bharu">Geographic Information of Kota Bharu&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 6.1236
+-
+Longitude: 102.2433
+-
+Altitude: 1.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kota Bharu, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('6.1236', '102.2433');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuala Lumpur Sunday</title><link>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/sunday/</guid><description>&lt;h2 id="geographic-information-of-kuala-lumpur">Geographic Information of Kuala Lumpur&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 3.1412
+-
+Longitude: 101.6865
+-
+Altitude: 56.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kuala Lumpur, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.1412', '101.6865');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Johor Bahru Saturday</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/saturday/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
 Latitude: 1.4655
@@ -232,6 +388,32 @@ Altitude: 56.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Johor Bahru</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 1.4655
+-
+Longitude: 103.7578
+-
+Altitude: 32.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Johor Bahru, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('1.4655', '103.7578');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Johor Bahru Wednesday</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/wednesday/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -258,6 +440,32 @@ Altitude: 32.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kota Bharu</title><link>https://astrology.ir/ephemeris/malaysia/kota_bharu/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kota_bharu/</guid><description>&lt;h2 id="geographic-information-of-kota-bharu">Geographic Information of Kota Bharu&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 6.1236
+-
+Longitude: 102.2433
+-
+Altitude: 1.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kota Bharu, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('6.1236', '102.2433');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kota Bharu Wednesday</title><link>https://astrology.ir/ephemeris/malaysia/kota_bharu/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kota_bharu/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kota-bharu">Geographic Information of Kota Bharu&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
@@ -279,6 +487,32 @@ Altitude: 1.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('6.1236', '102.2433');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuala Lumpur</title><link>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/</guid><description>&lt;h2 id="geographic-information-of-kuala-lumpur">Geographic Information of Kuala Lumpur&lt;/h2>
+&lt;p>TimeZone: +08:00
+-
+Latitude: 3.1412
+-
+Longitude: 101.6865
+-
+Altitude: 56.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kuala Lumpur, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('3.1412', '101.6865');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -363,240 +597,6 @@ Altitude: 1.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuala Lumpur Tuesday</title><link>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/tuesday/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/tuesday/</guid><description>&lt;h2 id="geographic-information-of-kuala-lumpur">Geographic Information of Kuala Lumpur&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 3.1412
--
-Longitude: 101.6865
--
-Altitude: 56.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuala Lumpur, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.1412', '101.6865');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Johor Bahru</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 1.4655
--
-Longitude: 103.7578
--
-Altitude: 32.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Johor Bahru, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('1.4655', '103.7578');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Johor Bahru Monday</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/monday/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 1.4655
--
-Longitude: 103.7578
--
-Altitude: 32.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Johor Bahru, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('1.4655', '103.7578');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kota Bharu</title><link>https://astrology.ir/ephemeris/malaysia/kota_bharu/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kota_bharu/</guid><description>&lt;h2 id="geographic-information-of-kota-bharu">Geographic Information of Kota Bharu&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 6.1236
--
-Longitude: 102.2433
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kota Bharu, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.1236', '102.2433');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kota Bharu Monday</title><link>https://astrology.ir/ephemeris/malaysia/kota_bharu/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kota_bharu/monday/</guid><description>&lt;h2 id="geographic-information-of-kota-bharu">Geographic Information of Kota Bharu&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 6.1236
--
-Longitude: 102.2433
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kota Bharu, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.1236', '102.2433');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuala Lumpur</title><link>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/</guid><description>&lt;h2 id="geographic-information-of-kuala-lumpur">Geographic Information of Kuala Lumpur&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 3.1412
--
-Longitude: 101.6865
--
-Altitude: 56.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuala Lumpur, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.1412', '101.6865');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuala Lumpur Monday</title><link>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/monday/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/monday/</guid><description>&lt;h2 id="geographic-information-of-kuala-lumpur">Geographic Information of Kuala Lumpur&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 3.1412
--
-Longitude: 101.6865
--
-Altitude: 56.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuala Lumpur, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.1412', '101.6865');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Johor Bahru Sunday</title><link>https://astrology.ir/ephemeris/malaysia/johor_bahru/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/johor_bahru/sunday/</guid><description>&lt;h2 id="geographic-information-of-johor-bahru">Geographic Information of Johor Bahru&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 1.4655
--
-Longitude: 103.7578
--
-Altitude: 32.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Johor Bahru, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('1.4655', '103.7578');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kota Bharu Sunday</title><link>https://astrology.ir/ephemeris/malaysia/kota_bharu/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kota_bharu/sunday/</guid><description>&lt;h2 id="geographic-information-of-kota-bharu">Geographic Information of Kota Bharu&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 6.1236
--
-Longitude: 102.2433
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kota Bharu, Malaysia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('6.1236', '102.2433');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuala Lumpur Sunday</title><link>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/sunday/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/malaysia/kuala_lumpur/sunday/</guid><description>&lt;h2 id="geographic-information-of-kuala-lumpur">Geographic Information of Kuala Lumpur&lt;/h2>
 &lt;p>TimeZone: +08:00
 -
 Latitude: 3.1412
