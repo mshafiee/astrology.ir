@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:36:54 |
+| Fajr (Dawn) | 05:36:53 |
 | Sunrise | 06:55:21 |
 | Dhuhr (Noon) | 13:03:12 |
 | Medium Coeli | 13:03:12 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°7'5.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°44'18.00" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|8°58'49.34" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|27°43'45.73" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|26°27'45.49" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|18°39'1.36" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|26°35'50.70" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|15°7'5.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°44'17.75" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|8°58'49.30" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|27°43'45.70" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|26°27'45.40" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|18°39'1.33" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|26°35'50.34" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°7'5.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°44'18.00" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°58'49.34" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°43'45.73" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|26°27'45.49" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|18°39'1.36" |Virgo|Simak|Venus|
-|☾ Moon|Direct|26°35'50.70" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|15°7'5.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°44'17.75" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°58'49.30" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°43'45.70" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|26°27'45.40" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|18°39'1.33" |Virgo|Simak|Venus|
+|☾ Moon|Direct|26°35'50.34" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 19:27:25 |
 | Maghrib | 19:28:23 |
 | Isha (Night) | 20:38:56 |
-| Sharia Midnight | 00:44:41 |
+| Sharia Midnight | 00:44:40 |
 | Imum Coeli | 01:22:30 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|15°1'31.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°48'50.62" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|9°41'19.62" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|28°57'58.66" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|28°0'20.31" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|21°0'4.28" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|15°39'45.48" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|15°1'31.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°48'50.38" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|9°41'19.58" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|28°57'58.62" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|28°0'20.23" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|21°0'4.25" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|15°28'11.93" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

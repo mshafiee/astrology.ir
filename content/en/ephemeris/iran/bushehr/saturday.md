@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:27:21 |
+| Fajr (Dawn) | 04:27:20 |
 | Sunrise | 05:54:26 |
 | Dhuhr (Noon) | 11:59:34 |
 | Medium Coeli | 11:59:34 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°3'8.99" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|20°47'32.63" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|9°28'54.32" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|28°36'14.74" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|27°33'14.73" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|20°18'45.48" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|9°56'31.04" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°28'55.00" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|28°36'14.96" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|27°33'14.57" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|20°18'45.74" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|9°58'59.14" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°3'8.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°47'32.44" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°28'54.32" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°36'14.74" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|27°33'14.73" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|20°18'45.48" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|9°56'31.04" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|20°47'32.63" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°28'55.00" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°36'14.96" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|27°33'14.57" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|20°18'45.74" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|9°58'59.14" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

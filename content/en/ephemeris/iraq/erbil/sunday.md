@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:51 |
-| Sunrise | 05:51:58 |
+| Sunrise | 05:51:57 |
 | Dhuhr (Noon) | 11:56:31 |
 | Medium Coeli | 11:56:31 |
 | Sunset | 18:00:29 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°58'41.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°51'3.51" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|10°2'59.51" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°36'1.69" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|28°47'46.28" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|22°12'23.78" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|24°58'57.44" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|14°58'40.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|20°51'3.26" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|10°2'59.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°36'1.62" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|28°47'46.15" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|22°12'23.67" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°58'56.77" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°58'41.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°51'3.51" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°2'59.51" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|29°36'1.69" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|28°47'46.28" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|22°12'23.78" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|24°58'57.44" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|14°58'40.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°51'3.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°2'59.45" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|29°36'1.62" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|28°47'46.15" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|22°12'23.67" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|24°58'56.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

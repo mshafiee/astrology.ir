@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:54:54 |
-| Sunrise | 06:57:32 |
+| Sunrise | 06:57:33 |
 | Dhuhr (Noon) | 13:01:56 |
 | Medium Coeli | 13:01:56 |
 | Sunset | 19:05:14 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:22 |
-| Sunrise | 06:57:32 |
+| Sunrise | 06:57:33 |
 | Dhuhr (Noon) | 13:01:56 |
 | Medium Coeli | 13:01:56 |
 | Sunset | 19:05:14 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:05 |
-| Sunrise | 06:57:32 |
+| Sunrise | 06:57:33 |
 | Dhuhr (Noon) | 13:01:56 |
 | Medium Coeli | 13:01:56 |
 | Sunset | 19:05:14 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°54'8.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°54'27.94" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|10°37'44.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°37'23.07" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|0°4'12.45" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|24°8'51.69" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|9°59'1.69" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|20°54'28.40" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|10°37'46.15" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°37'22.76" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|0°4'11.48" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|24°8'51.63" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°13'30.02" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Mars|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
