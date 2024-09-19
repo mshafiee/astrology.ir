@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Viet Nam on Astrology</title><link>https://astrology.ir/tags/viet-nam/</link><description>Recent content in Viet Nam on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0700</lastBuildDate><atom:link href="https://astrology.ir/tags/viet-nam/index.xml" rel="self" type="application/rss+xml"/><item><title>Hanoi Monday</title><link>https://astrology.ir/ephemeris/viet_nam/hanoi/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/hanoi/monday/</guid><description>&lt;h2 id="geographic-information-of-hanoi">Geographic Information of Hanoi&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Viet Nam on Astrology</title><link>https://astrology.ir/tags/viet-nam/</link><description>Recent content in Viet Nam on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0700</lastBuildDate><atom:link href="https://astrology.ir/tags/viet-nam/index.xml" rel="self" type="application/rss+xml"/><item><title>Hanoi Tuesday</title><link>https://astrology.ir/ephemeris/viet_nam/hanoi/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/hanoi/tuesday/</guid><description>&lt;h2 id="geographic-information-of-hanoi">Geographic Information of Hanoi&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: 21.0245
+-
+Longitude: 105.8412
+-
+Altitude: 10.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Hanoi, Viet Nam | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('21.0245', '105.8412');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ho Chi Minh City Tuesday</title><link>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/tuesday/</guid><description>&lt;h2 id="geographic-information-of-ho-chi-minh-city">Geographic Information of Ho Chi Minh City&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: 10.8230
+-
+Longitude: 106.6296
+-
+Altitude: 7.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ho Chi Minh City, Viet Nam | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.8230', '106.6296');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hanoi Monday</title><link>https://astrology.ir/ephemeris/viet_nam/hanoi/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/hanoi/monday/</guid><description>&lt;h2 id="geographic-information-of-hanoi">Geographic Information of Hanoi&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
 Latitude: 21.0245
@@ -206,6 +258,32 @@ Altitude: 7.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hanoi</title><link>https://astrology.ir/ephemeris/viet_nam/hanoi/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/hanoi/</guid><description>&lt;h2 id="geographic-information-of-hanoi">Geographic Information of Hanoi&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: 21.0245
+-
+Longitude: 105.8412
+-
+Altitude: 10.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Hanoi, Viet Nam | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('21.0245', '105.8412');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hanoi Thursday</title><link>https://astrology.ir/ephemeris/viet_nam/hanoi/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/hanoi/thursday/</guid><description>&lt;h2 id="geographic-information-of-hanoi">Geographic Information of Hanoi&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
@@ -227,6 +305,32 @@ Altitude: 10.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('21.0245', '105.8412');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ho Chi Minh City</title><link>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/</guid><description>&lt;h2 id="geographic-information-of-ho-chi-minh-city">Geographic Information of Ho Chi Minh City&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: 10.8230
+-
+Longitude: 106.6296
+-
+Altitude: 7.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ho Chi Minh City, Viet Nam | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('10.8230', '106.6296');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -258,32 +362,6 @@ Altitude: 7.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hanoi</title><link>https://astrology.ir/ephemeris/viet_nam/hanoi/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/hanoi/</guid><description>&lt;h2 id="geographic-information-of-hanoi">Geographic Information of Hanoi&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: 21.0245
--
-Longitude: 105.8412
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hanoi, Viet Nam | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('21.0245', '105.8412');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hanoi Wednesday</title><link>https://astrology.ir/ephemeris/viet_nam/hanoi/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/hanoi/wednesday/</guid><description>&lt;h2 id="geographic-information-of-hanoi">Geographic Information of Hanoi&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
@@ -310,85 +388,7 @@ Altitude: 10.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ho Chi Minh City</title><link>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/</guid><description>&lt;h2 id="geographic-information-of-ho-chi-minh-city">Geographic Information of Ho Chi Minh City&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: 10.8230
--
-Longitude: 106.6296
--
-Altitude: 7.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ho Chi Minh City, Viet Nam | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.8230', '106.6296');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ho Chi Minh City Wednesday</title><link>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/wednesday/</guid><description>&lt;h2 id="geographic-information-of-ho-chi-minh-city">Geographic Information of Ho Chi Minh City&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: 10.8230
--
-Longitude: 106.6296
--
-Altitude: 7.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ho Chi Minh City, Viet Nam | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('10.8230', '106.6296');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hanoi Tuesday</title><link>https://astrology.ir/ephemeris/viet_nam/hanoi/tuesday/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/hanoi/tuesday/</guid><description>&lt;h2 id="geographic-information-of-hanoi">Geographic Information of Hanoi&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: 21.0245
--
-Longitude: 105.8412
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hanoi, Viet Nam | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('21.0245', '105.8412');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ho Chi Minh City Tuesday</title><link>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/tuesday/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/viet_nam/ho_chi_minh_city/tuesday/</guid><description>&lt;h2 id="geographic-information-of-ho-chi-minh-city">Geographic Information of Ho Chi Minh City&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
 Latitude: 10.8230
