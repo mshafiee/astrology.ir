@@ -1,4 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ukraine on Astrology</title><link>https://astrology.ir/tags/ukraine/</link><description>Recent content in Ukraine on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/ukraine/index.xml" rel="self" type="application/rss+xml"/><item><title>Dnipro Tuesday</title><link>https://astrology.ir/ephemeris/ukraine/dnipro/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/dnipro/tuesday/</guid><description>&lt;h2 id="geographic-information-of-dnipro">Geographic Information of Dnipro&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ukraine on Astrology</title><link>https://astrology.ir/tags/ukraine/</link><description>Recent content in Ukraine on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/ukraine/index.xml" rel="self" type="application/rss+xml"/><item><title>Dnipro Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/dnipro/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/dnipro/wednesday/</guid><description>&lt;h2 id="geographic-information-of-dnipro">Geographic Information of Dnipro&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 48.4666
+-
+Longitude: 35.0407
+-
+Altitude: 59.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Dnipro, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('48.4666', '35.0407');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Donetsk Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/donetsk/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/donetsk/wednesday/</guid><description>&lt;h2 id="geographic-information-of-donetsk">Geographic Information of Donetsk&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 48.0230
+-
+Longitude: 37.8022
+-
+Altitude: 223.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Donetsk, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('48.0230', '37.8022');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kharkiv Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/kharkiv/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kharkiv/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kharkiv">Geographic Information of Kharkiv&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 49.9808
+-
+Longitude: 36.2527
+-
+Altitude: 113.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kharkiv, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('49.9808', '36.2527');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kyiv Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/kyiv/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kyiv/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kyiv">Geographic Information of Kyiv&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 50.4547
+-
+Longitude: 30.5238
+-
+Altitude: 187.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kyiv, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('50.4547', '30.5238');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Odessa Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/odessa/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/odessa/wednesday/</guid><description>&lt;h2 id="geographic-information-of-odessa">Geographic Information of Odessa&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 46.4857
+-
+Longitude: 30.7438
+-
+Altitude: 1.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Odessa, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('46.4857', '30.7438');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dnipro Tuesday</title><link>https://astrology.ir/ephemeris/ukraine/dnipro/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/dnipro/tuesday/</guid><description>&lt;h2 id="geographic-information-of-dnipro">Geographic Information of Dnipro&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 48.4666
@@ -518,6 +648,32 @@ Altitude: 1.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dnipro</title><link>https://astrology.ir/ephemeris/ukraine/dnipro/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/dnipro/</guid><description>&lt;h2 id="geographic-information-of-dnipro">Geographic Information of Dnipro&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 48.4666
+-
+Longitude: 35.0407
+-
+Altitude: 59.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Dnipro, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('48.4666', '35.0407');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dnipro Friday</title><link>https://astrology.ir/ephemeris/ukraine/dnipro/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/dnipro/friday/</guid><description>&lt;h2 id="geographic-information-of-dnipro">Geographic Information of Dnipro&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -539,6 +695,32 @@ Altitude: 59.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('48.4666', '35.0407');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Donetsk</title><link>https://astrology.ir/ephemeris/ukraine/donetsk/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/donetsk/</guid><description>&lt;h2 id="geographic-information-of-donetsk">Geographic Information of Donetsk&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 48.0230
+-
+Longitude: 37.8022
+-
+Altitude: 223.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Donetsk, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('48.0230', '37.8022');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -570,6 +752,32 @@ Altitude: 223.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kharkiv</title><link>https://astrology.ir/ephemeris/ukraine/kharkiv/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kharkiv/</guid><description>&lt;h2 id="geographic-information-of-kharkiv">Geographic Information of Kharkiv&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 49.9808
+-
+Longitude: 36.2527
+-
+Altitude: 113.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kharkiv, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('49.9808', '36.2527');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kharkiv Friday</title><link>https://astrology.ir/ephemeris/ukraine/kharkiv/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kharkiv/friday/</guid><description>&lt;h2 id="geographic-information-of-kharkiv">Geographic Information of Kharkiv&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -591,6 +799,32 @@ Altitude: 113.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('49.9808', '36.2527');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kyiv</title><link>https://astrology.ir/ephemeris/ukraine/kyiv/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kyiv/</guid><description>&lt;h2 id="geographic-information-of-kyiv">Geographic Information of Kyiv&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: 50.4547
+-
+Longitude: 30.5238
+-
+Altitude: 187.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kyiv, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('50.4547', '30.5238');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -622,7 +856,7 @@ Altitude: 187.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Odessa Friday</title><link>https://astrology.ir/ephemeris/ukraine/odessa/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/odessa/friday/</guid><description>&lt;h2 id="geographic-information-of-odessa">Geographic Information of Odessa&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Odessa</title><link>https://astrology.ir/ephemeris/ukraine/odessa/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/odessa/</guid><description>&lt;h2 id="geographic-information-of-odessa">Geographic Information of Odessa&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 46.4857
@@ -648,14 +882,14 @@ Altitude: 1.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dnipro</title><link>https://astrology.ir/ephemeris/ukraine/dnipro/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/dnipro/</guid><description>&lt;h2 id="geographic-information-of-dnipro">Geographic Information of Dnipro&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Odessa Friday</title><link>https://astrology.ir/ephemeris/ukraine/odessa/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/odessa/friday/</guid><description>&lt;h2 id="geographic-information-of-odessa">Geographic Information of Odessa&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
-Latitude: 48.4666
+Latitude: 46.4857
 -
-Longitude: 35.0407
+Longitude: 30.7438
 -
-Altitude: 59.0000 meters&lt;/p>
+Altitude: 1.0000 meters&lt;/p>
 &lt;div class="shortcode shortcode-osm-maps">
 	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
 	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
@@ -665,10 +899,10 @@ Altitude: 59.0000 meters&lt;/p>
 		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
 		var map = L.map(element);
 		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dnipro, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+			attribution: '&lt;div dir="ltr">Odessa, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
-		var target = L.latLng('48.4666', '35.0407');
+		var target = L.latLng('46.4857', '30.7438');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -700,32 +934,6 @@ Altitude: 59.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Donetsk</title><link>https://astrology.ir/ephemeris/ukraine/donetsk/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/donetsk/</guid><description>&lt;h2 id="geographic-information-of-donetsk">Geographic Information of Donetsk&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 48.0230
--
-Longitude: 37.8022
--
-Altitude: 223.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Donetsk, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('48.0230', '37.8022');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Donetsk Thursday</title><link>https://astrology.ir/ephemeris/ukraine/donetsk/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/donetsk/thursday/</guid><description>&lt;h2 id="geographic-information-of-donetsk">Geographic Information of Donetsk&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -747,32 +955,6 @@ Altitude: 223.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('48.0230', '37.8022');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kharkiv</title><link>https://astrology.ir/ephemeris/ukraine/kharkiv/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kharkiv/</guid><description>&lt;h2 id="geographic-information-of-kharkiv">Geographic Information of Kharkiv&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 49.9808
--
-Longitude: 36.2527
--
-Altitude: 113.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kharkiv, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.9808', '36.2527');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -804,32 +986,6 @@ Altitude: 113.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kyiv</title><link>https://astrology.ir/ephemeris/ukraine/kyiv/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kyiv/</guid><description>&lt;h2 id="geographic-information-of-kyiv">Geographic Information of Kyiv&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 50.4547
--
-Longitude: 30.5238
--
-Altitude: 187.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kyiv, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('50.4547', '30.5238');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kyiv Thursday</title><link>https://astrology.ir/ephemeris/ukraine/kyiv/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kyiv/thursday/</guid><description>&lt;h2 id="geographic-information-of-kyiv">Geographic Information of Kyiv&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -856,163 +1012,7 @@ Altitude: 187.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Odessa</title><link>https://astrology.ir/ephemeris/ukraine/odessa/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/odessa/</guid><description>&lt;h2 id="geographic-information-of-odessa">Geographic Information of Odessa&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 46.4857
--
-Longitude: 30.7438
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Odessa, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.4857', '30.7438');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Odessa Thursday</title><link>https://astrology.ir/ephemeris/ukraine/odessa/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/odessa/thursday/</guid><description>&lt;h2 id="geographic-information-of-odessa">Geographic Information of Odessa&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 46.4857
--
-Longitude: 30.7438
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Odessa, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.4857', '30.7438');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dnipro Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/dnipro/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/dnipro/wednesday/</guid><description>&lt;h2 id="geographic-information-of-dnipro">Geographic Information of Dnipro&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 48.4666
--
-Longitude: 35.0407
--
-Altitude: 59.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dnipro, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('48.4666', '35.0407');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Donetsk Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/donetsk/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/donetsk/wednesday/</guid><description>&lt;h2 id="geographic-information-of-donetsk">Geographic Information of Donetsk&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 48.0230
--
-Longitude: 37.8022
--
-Altitude: 223.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Donetsk, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('48.0230', '37.8022');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kharkiv Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/kharkiv/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kharkiv/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kharkiv">Geographic Information of Kharkiv&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 49.9808
--
-Longitude: 36.2527
--
-Altitude: 113.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kharkiv, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.9808', '36.2527');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kyiv Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/kyiv/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/kyiv/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kyiv">Geographic Information of Kyiv&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 50.4547
--
-Longitude: 30.5238
--
-Altitude: 187.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kyiv, Ukraine | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('50.4547', '30.5238');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Odessa Wednesday</title><link>https://astrology.ir/ephemeris/ukraine/odessa/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/ukraine/odessa/wednesday/</guid><description>&lt;h2 id="geographic-information-of-odessa">Geographic Information of Odessa&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: 46.4857

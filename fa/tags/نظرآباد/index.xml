@@ -1,4 +1,434 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>نظرآباد on آسترولوژی</title><link>https://astrology.ir/fa/tags/%D9%86%D8%B8%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/</link><description>Recent content in نظرآباد on آسترولوژی</description><generator>Hugo</generator><language>fa</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/fa/tags/%D9%86%D8%B8%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>نظرآباد Tuesday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/tuesday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>نظرآباد on آسترولوژی</title><link>https://astrology.ir/fa/tags/%D9%86%D8%B8%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/</link><description>Recent content in نظرآباد on آسترولوژی</description><generator>Hugo</generator><language>fa</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/fa/tags/%D9%86%D8%B8%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>نظرآباد Wednesday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/wednesday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۵٫۹۵۴۱
+-
+دِرِژنا: ۵۰٫۶۰۶۱
+-
+فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('35.9541', '50.6061');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-34152" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-34152" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-34152" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-34152" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-34152" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-34152" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-34152" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="34152">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Tuesday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/tuesday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۵٫۹۵۴۱
+-
+دِرِژنا: ۵۰٫۶۰۶۱
+-
+فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('35.9541', '50.6061');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-45123" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45123" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45123" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45123" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45123" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45123" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45123" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="45123">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Monday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/monday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۵٫۹۵۴۱
+-
+دِرِژنا: ۵۰٫۶۰۶۱
+-
+فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('35.9541', '50.6061');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-43215" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43215" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43215" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43215" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43215" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43215" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43215" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="43215">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Sunday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/sunday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۵٫۹۵۴۱
+-
+دِرِژنا: ۵۰٫۶۰۶۱
+-
+فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('35.9541', '50.6061');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-31245" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-31245" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-31245" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-31245" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-31245" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-31245" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-31245" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="31245">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Saturday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/saturday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۵٫۹۵۴۱
+-
+دِرِژنا: ۵۰٫۶۰۶۱
+-
+فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('35.9541', '50.6061');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-45231" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45231" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45231" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45231" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45231" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45231" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-45231" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="45231">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
 &lt;p>زُنارِ زمانی: ۰۳:۳۰+
 -
 وَرونا: ۳۵٫۹۵۴۱
@@ -84,264 +514,6 @@
 &lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
 
 	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Monday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/monday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۵٫۹۵۴۱
--
-دِرِژنا: ۵۰٫۶۰۶۱
--
-فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.9541', '50.6061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-53142" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-53142" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-53142" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-53142" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-53142" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-53142" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-53142" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="53142">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Sunday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/sunday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۵٫۹۵۴۱
--
-دِرِژنا: ۵۰٫۶۰۶۱
--
-فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.9541', '50.6061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-51234" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51234" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51234" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51234" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51234" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51234" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51234" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="51234">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Saturday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/saturday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۵٫۹۵۴۱
--
-دِرِژنا: ۵۰٫۶۰۶۱
--
-فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.9541', '50.6061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-23451" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-23451" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-23451" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-23451" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-23451" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-23451" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-23451" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="23451">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
 &lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Friday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/friday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
 &lt;p>زُنارِ زمانی: ۰۳:۳۰+
 -
@@ -378,37 +550,37 @@
 
 		
 
-		&lt;a class="nav-item nav-link active " id="nav-43521" data-toggle="tab" href="#leva"
+		&lt;a class="nav-item nav-link active " id="nav-54123" data-toggle="tab" href="#leva"
 		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-43521" data-toggle="tab" href="#igut"
+		&lt;a class="nav-item nav-link " id="nav-54123" data-toggle="tab" href="#igut"
 		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-43521" data-toggle="tab" href="#mwl"
+		&lt;a class="nav-item nav-link " id="nav-54123" data-toggle="tab" href="#mwl"
 		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-43521" data-toggle="tab" href="#isna"
+		&lt;a class="nav-item nav-link " id="nav-54123" data-toggle="tab" href="#isna"
 		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-43521" data-toggle="tab" href="#egas"
+		&lt;a class="nav-item nav-link " id="nav-54123" data-toggle="tab" href="#egas"
 		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-43521" data-toggle="tab" href="#uisk"
+		&lt;a class="nav-item nav-link " id="nav-54123" data-toggle="tab" href="#uisk"
 		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-43521" data-toggle="tab" href="#umqu"
+		&lt;a class="nav-item nav-link " id="nav-54123" data-toggle="tab" href="#umqu"
 		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
 
 		
@@ -416,93 +588,7 @@
 	&lt;/div>
 &lt;/nav>
 
-&lt;div class="tab-content" id="43521">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۵٫۹۵۴۱
--
-دِرِژنا: ۵۰٫۶۰۶۱
--
-فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.9541', '50.6061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-35241" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35241" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35241" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35241" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35241" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35241" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35241" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="35241">
+&lt;div class="tab-content" id="54123">
 
 
 
@@ -550,37 +636,37 @@
 
 		
 
-		&lt;a class="nav-item nav-link active " id="nav-42135" data-toggle="tab" href="#leva"
+		&lt;a class="nav-item nav-link active " id="nav-35412" data-toggle="tab" href="#leva"
 		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-42135" data-toggle="tab" href="#igut"
+		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#igut"
 		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-42135" data-toggle="tab" href="#mwl"
+		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#mwl"
 		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-42135" data-toggle="tab" href="#isna"
+		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#isna"
 		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-42135" data-toggle="tab" href="#egas"
+		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#egas"
 		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-42135" data-toggle="tab" href="#uisk"
+		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#uisk"
 		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
 
 		
 
-		&lt;a class="nav-item nav-link " id="nav-42135" data-toggle="tab" href="#umqu"
+		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#umqu"
 		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
 
 		
@@ -588,93 +674,7 @@
 	&lt;/div>
 &lt;/nav>
 
-&lt;div class="tab-content" id="42135">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>نظرآباد Wednesday</title><link>https://astrology.ir/fa/ephemeris/iran/nazarabad/wednesday/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/nazarabad/wednesday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۵٫۹۵۴۱
--
-دِرِژنا: ۵۰٫۶۰۶۱
--
-فرازا: ۱٬۱۹۹٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nazarabad, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.9541', '50.6061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-43125" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-43125" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-43125" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-43125" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-43125" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-43125" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-43125" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="43125">
+&lt;div class="tab-content" id="35412">
 
 
 
