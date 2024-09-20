@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°58'52.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°50'57.00" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|10°1'44.14" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°33'36.32" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|28°44'45.21" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|22°7'53.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|25°21'8.63" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|14°58'51.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|20°50'56.06" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|10°1'41.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°33'39.68" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|28°44'48.79" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|22°7'55.20" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°44'5.54" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°58'51.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°50'55.42" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°50'55.42" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°1'39.29" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|29°33'40.47" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|28°44'50.34" |Libra|Akleel|Jupiter|

@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:15:10 |
 | Medium Coeli | 12:15:10 |
 | Sunset | 18:18:55 |
-| Maghrib | 18:35:00 |
+| Maghrib | 18:35:01 |
 | Isha (Night) | 19:14:16 |
 | Sharia Midnight | 23:39:34 |
 | Imum Coeli | 00:14:59 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°51'45.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°56'10.66" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|10°55'58.13" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°9'43.73" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|0°44'28.37" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|25°10'7.21" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|17°41'13.04" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°51'46.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|20°56'10.92" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|10°55'58.17" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°9'43.76" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|0°44'28.44" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|25°10'7.23" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|17°41'13.08" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°51'46.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°56'10.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°55'55.43" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|1°9'33.33" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|0°44'22.62" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|25°9'59.33" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|17°50'25.29" |Gemini|Dhira|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|20°56'10.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°55'58.17" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|1°9'43.76" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°44'28.44" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|25°10'7.23" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|17°41'13.08" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

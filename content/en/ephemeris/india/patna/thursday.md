@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:28:03 |
 | Sunrise | 05:36:44 |
-| Dhuhr (Noon) | 11:43:07 |
-| Medium Coeli | 11:43:07 |
+| Dhuhr (Noon) | 11:43:08 |
+| Medium Coeli | 11:43:08 |
 | Sunset | 17:49:09 |
 | Maghrib | 18:04:12 |
 | Isha (Night) | 18:48:45 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:20:23 |
 | Sunrise | 05:36:44 |
-| Dhuhr (Noon) | 11:43:07 |
-| Medium Coeli | 11:43:07 |
+| Dhuhr (Noon) | 11:43:08 |
+| Medium Coeli | 11:43:08 |
 | Sunset | 17:49:09 |
 | Maghrib | 18:06:25 |
 | Isha (Night) | 18:48:45 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:19:02 |
 | Sunrise | 05:36:44 |
-| Dhuhr (Noon) | 11:43:07 |
-| Medium Coeli | 11:43:07 |
+| Dhuhr (Noon) | 11:43:08 |
+| Medium Coeli | 11:43:08 |
 | Sunset | 17:49:09 |
 | Maghrib | 17:50:15 |
 | Isha (Night) | 19:02:13 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:12:15 |
 | Sunrise | 05:36:44 |
-| Dhuhr (Noon) | 11:43:07 |
-| Medium Coeli | 11:43:07 |
+| Dhuhr (Noon) | 11:43:08 |
+| Medium Coeli | 11:43:08 |
 | Sunset | 17:49:09 |
 | Maghrib | 17:50:15 |
 | Isha (Night) | 19:04:28 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°12'25.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°39'43.47" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°39'43.47" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|8°18'14.43" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|26°33'26.43" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|24°59'56.05" |Virgo|Simak|Mercury|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°12'25.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°39'43.47" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°39'43.47" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°18'14.43" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°33'26.43" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|24°59'56.05" |Libra|Jubana|Jupiter|

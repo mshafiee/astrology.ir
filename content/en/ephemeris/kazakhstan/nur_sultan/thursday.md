@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:59:55 |
+| Fajr (Dawn) | 03:59:56 |
 | Sunrise | 05:55:48 |
 | Dhuhr (Noon) | 12:07:52 |
 | Medium Coeli | 12:07:52 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:59:55 |
+| Fajr (Dawn) | 03:59:56 |
 | Sunrise | 05:55:48 |
 | Dhuhr (Noon) | 12:07:52 |
 | Medium Coeli | 12:07:52 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°12'16.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°39'51.41" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°39'51.41" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|8°19'23.52" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|26°35'25.16" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|25°2'25.07" |Virgo|Simak|Mercury|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°12'16.73" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°39'51.41" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°39'51.41" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°19'23.52" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°35'25.16" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|25°2'25.07" |Libra|Jubana|Jupiter|

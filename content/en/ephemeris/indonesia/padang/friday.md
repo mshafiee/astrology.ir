@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:59:01 |
 | Sunrise | 06:08:34 |
-| Dhuhr (Noon) | 12:11:54 |
-| Medium Coeli | 12:11:54 |
+| Dhuhr (Noon) | 12:11:55 |
+| Medium Coeli | 12:11:55 |
 | Sunset | 18:15:16 |
 | Maghrib | 18:16:09 |
 | Isha (Night) | 19:24:49 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°3'45.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°47'3.62" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|9°24'20.63" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|28°28'14.74" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|27°23'16.02" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|20°3'33.61" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|8°1'6.95" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|20°47'3.31" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|9°24'19.41" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|28°28'14.26" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|27°23'16.26" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|20°3'33.08" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|7°57'15.26" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°3'45.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°47'3.62" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°24'20.63" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°28'14.74" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|27°23'16.02" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|20°3'33.61" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|8°1'6.95" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|20°47'3.31" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°24'19.41" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°28'14.26" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|27°23'16.26" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|20°3'33.08" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|7°57'15.26" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Jupiter|Saturn|Venus|Moon|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

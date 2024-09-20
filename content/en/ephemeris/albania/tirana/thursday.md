@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°11'37.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|20°40'25.48" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|8°24'19.46" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|26°43'56.85" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|25°13'3.94" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|16°45'36.04" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|11°6'1.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|20°40'24.80" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|8°24'14.52" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|26°43'40.19" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°12'54.75" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|16°45'22.66" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°54'18.70" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Gemini|Moon|Venus|
 |♀ Venus|Sun|Sun|Cancer|Sun|Moon|
 |☿ Mercury|Moon|Mercury|Aquarius|Moon|Venus|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°11'37.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°40'25.48" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°40'25.48" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°24'19.46" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°43'56.85" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|25°13'3.94" |Libra|Jubana|Jupiter|
