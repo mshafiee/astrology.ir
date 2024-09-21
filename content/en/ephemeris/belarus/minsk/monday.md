@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:22 |
-| Sunrise | 06:57:33 |
+| Sunrise | 06:57:32 |
 | Dhuhr (Noon) | 13:01:56 |
 | Medium Coeli | 13:01:56 |
 | Sunset | 19:05:14 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:54:54 |
-| Sunrise | 06:57:33 |
+| Sunrise | 06:57:32 |
 | Dhuhr (Noon) | 13:01:56 |
 | Medium Coeli | 13:01:56 |
 | Sunset | 19:05:14 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:05 |
-| Sunrise | 06:57:33 |
+| Sunrise | 06:57:32 |
 | Dhuhr (Noon) | 13:01:56 |
 | Medium Coeli | 13:01:56 |
 | Sunset | 19:05:14 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:07:41|Night duration: 11:54:06|
+|Duration of the day: 12:07:42|Night duration: 11:54:06|
 |Every hour duration: 01:43:57|Every hour duration: 01:42:01|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:57:33|08:41:29|
-|Mid-morning|Saturn|Servant|08:41:30|10:25:26|
-|Late morning|Jupiter|Servant|10:25:27|12:09:23|
-|Noon|Mars|Servant|12:09:24|13:53:21|
-|Early afternoon|Sun|Servant|13:53:22|15:37:18|
+|Early morning|Moon|Ruler|06:57:32|08:41:28|
+|Mid-morning|Saturn|Servant|08:41:29|10:25:25|
+|Late morning|Jupiter|Servant|10:25:26|12:09:23|
+|Noon|Mars|Servant|12:09:24|13:53:20|
+|Early afternoon|Sun|Servant|13:53:21|15:37:18|
 |Mid-afternoon|Venus|Servant|15:37:19|17:21:15|
 |Late afternoon|Mercury|Servant|17:21:16|19:05:13|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°54'8.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°54'27.94" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|10°37'44.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°37'23.07" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|0°4'12.45" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|24°8'51.69" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|9°59'1.69" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|20°54'29.25" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|10°37'48.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°37'16.67" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|0°4'5.90" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|24°8'47.43" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°59'46.79" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Mars|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°54'8.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°54'27.94" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°37'44.53" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|0°37'23.07" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|0°4'12.45" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|24°8'51.69" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|9°59'1.69" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|14°54'8.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|20°54'27.68" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°37'44.46" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|0°37'23.00" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°4'12.33" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|24°8'51.59" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|9°59'1.14" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

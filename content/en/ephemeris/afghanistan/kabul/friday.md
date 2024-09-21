@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:46:36 |
 | Sunset | 17:52:15 |
 | Maghrib | 17:57:17 |
-| Isha (Night) | 19:13:10 |
+| Isha (Night) | 19:13:09 |
 | Sharia Midnight | 23:03:41 |
 | Imum Coeli | 23:46:26 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°7'47.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|20°43'43.16" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|8°53'33.43" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|27°34'36.76" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|26°16'20.04" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|18°21'38.67" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°12'18.54" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|20°43'43.35" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|8°53'34.07" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|27°34'36.67" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|26°16'19.68" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|18°21'38.70" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°15'27.82" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|15°7'47.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°43'43.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°53'35.29" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°34'36.20" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|26°16'18.79" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|18°21'38.54" |Virgo|Simak|Venus|
-|☾ Moon|Direct|24°23'35.31" |Aries|Butain|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|20°43'43.35" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°53'34.07" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°34'36.67" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|26°16'19.68" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|18°21'38.70" |Virgo|Simak|Venus|
+|☾ Moon|Direct|24°15'27.82" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

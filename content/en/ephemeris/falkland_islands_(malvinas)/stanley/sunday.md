@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°53'8.32" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|20°55'12.46" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|10°45'31.20" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°51'6.56" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|0°21'20.92" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|24°34'57.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°27'37.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°45'34.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°50'58.51" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|0°21'13.66" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|24°34'52.36" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°25'10.40" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Mars|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°53'8.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|20°55'12.46" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°45'31.20" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|0°51'6.56" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|0°21'24.87" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|24°35'2.43" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|13°10'55.01" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|14°53'8.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|20°55'12.21" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°45'31.16" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|0°50'58.53" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°21'13.73" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|24°34'52.39" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|14°25'10.40" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

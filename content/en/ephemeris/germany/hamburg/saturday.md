@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:24:32 |
-| Sunrise | 07:04:20 |
+| Sunrise | 07:04:19 |
 | Dhuhr (Noon) | 13:12:54 |
 | Medium Coeli | 13:12:54 |
 | Sunset | 19:20:25 |
