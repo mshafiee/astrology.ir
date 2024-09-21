@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Swaziland on Astrology</title><link>https://astrology.ir/tags/swaziland/</link><description>Recent content in Swaziland on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/swaziland/index.xml" rel="self" type="application/rss+xml"/><item><title>Mbabane Wednesday</title><link>https://astrology.ir/ephemeris/swaziland/mbabane/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/swaziland/mbabane/wednesday/</guid><description>&lt;h2 id="geographic-information-of-mbabane">Geographic Information of Mbabane&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Swaziland on Astrology</title><link>https://astrology.ir/tags/swaziland/</link><description>Recent content in Swaziland on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/swaziland/index.xml" rel="self" type="application/rss+xml"/><item><title>Mbabane Thursday</title><link>https://astrology.ir/ephemeris/swaziland/mbabane/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/swaziland/mbabane/thursday/</guid><description>&lt;h2 id="geographic-information-of-mbabane">Geographic Information of Mbabane&lt;/h2>
+&lt;p>TimeZone: +02:00
+-
+Latitude: -26.3167
+-
+Longitude: 31.1333
+-
+Altitude: 1,209.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Mbabane, Swaziland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-26.3167', '31.1333');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mbabane Wednesday</title><link>https://astrology.ir/ephemeris/swaziland/mbabane/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/swaziland/mbabane/wednesday/</guid><description>&lt;h2 id="geographic-information-of-mbabane">Geographic Information of Mbabane&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
 Latitude: -26.3167
@@ -102,6 +128,32 @@ Altitude: 1,209.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mbabane</title><link>https://astrology.ir/ephemeris/swaziland/mbabane/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/swaziland/mbabane/</guid><description>&lt;h2 id="geographic-information-of-mbabane">Geographic Information of Mbabane&lt;/h2>
+&lt;p>TimeZone: +02:00
+-
+Latitude: -26.3167
+-
+Longitude: 31.1333
+-
+Altitude: 1,209.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Mbabane, Swaziland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-26.3167', '31.1333');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mbabane Saturday</title><link>https://astrology.ir/ephemeris/swaziland/mbabane/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/swaziland/mbabane/saturday/</guid><description>&lt;h2 id="geographic-information-of-mbabane">Geographic Information of Mbabane&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
@@ -128,59 +180,7 @@ Altitude: 1,209.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mbabane</title><link>https://astrology.ir/ephemeris/swaziland/mbabane/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/swaziland/mbabane/</guid><description>&lt;h2 id="geographic-information-of-mbabane">Geographic Information of Mbabane&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -26.3167
--
-Longitude: 31.1333
--
-Altitude: 1,209.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mbabane, Swaziland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-26.3167', '31.1333');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mbabane Friday</title><link>https://astrology.ir/ephemeris/swaziland/mbabane/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/swaziland/mbabane/friday/</guid><description>&lt;h2 id="geographic-information-of-mbabane">Geographic Information of Mbabane&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -26.3167
--
-Longitude: 31.1333
--
-Altitude: 1,209.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mbabane, Swaziland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-26.3167', '31.1333');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mbabane Thursday</title><link>https://astrology.ir/ephemeris/swaziland/mbabane/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/swaziland/mbabane/thursday/</guid><description>&lt;h2 id="geographic-information-of-mbabane">Geographic Information of Mbabane&lt;/h2>
 &lt;p>TimeZone: +02:00
 -
 Latitude: -26.3167

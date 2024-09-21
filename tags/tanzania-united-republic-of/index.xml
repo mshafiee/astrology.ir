@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tanzania, United Republic Of on Astrology</title><link>https://astrology.ir/tags/tanzania-united-republic-of/</link><description>Recent content in Tanzania, United Republic Of on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/tanzania-united-republic-of/index.xml" rel="self" type="application/rss+xml"/><item><title>Dar es Salaam Wednesday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/wednesday/</guid><description>&lt;h2 id="geographic-information-of-dar-es-salaam">Geographic Information of Dar es Salaam&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tanzania, United Republic Of on Astrology</title><link>https://astrology.ir/tags/tanzania-united-republic-of/</link><description>Recent content in Tanzania, United Republic Of on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/tanzania-united-republic-of/index.xml" rel="self" type="application/rss+xml"/><item><title>Dar es Salaam Thursday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/thursday/</guid><description>&lt;h2 id="geographic-information-of-dar-es-salaam">Geographic Information of Dar es Salaam&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: -6.8235
+-
+Longitude: 39.2695
+-
+Altitude: 24.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Dar es Salaam, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-6.8235', '39.2695');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Thursday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/thursday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: -6.1722
+-
+Longitude: 35.7395
+-
+Altitude: 1,125.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-6.1722', '35.7395');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dar es Salaam Wednesday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/wednesday/</guid><description>&lt;h2 id="geographic-information-of-dar-es-salaam">Geographic Information of Dar es Salaam&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: -6.8235
@@ -206,6 +258,32 @@ Altitude: 1,125.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dar es Salaam</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/</guid><description>&lt;h2 id="geographic-information-of-dar-es-salaam">Geographic Information of Dar es Salaam&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: -6.8235
+-
+Longitude: 39.2695
+-
+Altitude: 24.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Dar es Salaam, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-6.8235', '39.2695');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dar es Salaam Saturday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/saturday/</guid><description>&lt;h2 id="geographic-information-of-dar-es-salaam">Geographic Information of Dar es Salaam&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -227,6 +305,32 @@ Altitude: 24.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('-6.8235', '39.2695');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
+&lt;p>TimeZone: +03:00
+-
+Latitude: -6.1722
+-
+Longitude: 35.7395
+-
+Altitude: 1,125.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-6.1722', '35.7395');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -258,32 +362,6 @@ Altitude: 1,125.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dar es Salaam</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/</guid><description>&lt;h2 id="geographic-information-of-dar-es-salaam">Geographic Information of Dar es Salaam&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.8235
--
-Longitude: 39.2695
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dar es Salaam, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.8235', '39.2695');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dar es Salaam Friday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/friday/</guid><description>&lt;h2 id="geographic-information-of-dar-es-salaam">Geographic Information of Dar es Salaam&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
@@ -310,85 +388,7 @@ Altitude: 24.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Friday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/friday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dar es Salaam Thursday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dar_es_salaam/thursday/</guid><description>&lt;h2 id="geographic-information-of-dar-es-salaam">Geographic Information of Dar es Salaam&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.8235
--
-Longitude: 39.2695
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dar es Salaam, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.8235', '39.2695');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Thursday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/thursday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
 &lt;p>TimeZone: +03:00
 -
 Latitude: -6.1722

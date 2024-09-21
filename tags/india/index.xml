@@ -1,4 +1,368 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>India on Astrology</title><link>https://astrology.ir/tags/india/</link><description>Recent content in India on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://astrology.ir/tags/india/index.xml" rel="self" type="application/rss+xml"/><item><title>Bengaluru Wednesday</title><link>https://astrology.ir/ephemeris/india/bengaluru/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bengaluru/wednesday/</guid><description>&lt;h2 id="geographic-information-of-bengaluru">Geographic Information of Bengaluru&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>India on Astrology</title><link>https://astrology.ir/tags/india/</link><description>Recent content in India on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://astrology.ir/tags/india/index.xml" rel="self" type="application/rss+xml"/><item><title>Bengaluru Thursday</title><link>https://astrology.ir/ephemeris/india/bengaluru/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bengaluru/thursday/</guid><description>&lt;h2 id="geographic-information-of-bengaluru">Geographic Information of Bengaluru&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 12.9719
+-
+Longitude: 77.5937
+-
+Altitude: 914.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Bengaluru, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('12.9719', '77.5937');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal Thursday</title><link>https://astrology.ir/ephemeris/india/bhopal/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/thursday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 23.2547
+-
+Longitude: 77.4029
+-
+Altitude: 523.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('23.2547', '77.4029');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chandigarh Thursday</title><link>https://astrology.ir/ephemeris/india/chandigarh/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chandigarh/thursday/</guid><description>&lt;h2 id="geographic-information-of-chandigarh">Geographic Information of Chandigarh&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 30.7363
+-
+Longitude: 76.7884
+-
+Altitude: 351.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chandigarh, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.7363', '76.7884');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chennai Thursday</title><link>https://astrology.ir/ephemeris/india/chennai/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chennai/thursday/</guid><description>&lt;h2 id="geographic-information-of-chennai">Geographic Information of Chennai&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 13.0878
+-
+Longitude: 80.2785
+-
+Altitude: 14.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chennai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('13.0878', '80.2785');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Delhi Thursday</title><link>https://astrology.ir/ephemeris/india/delhi/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/delhi/thursday/</guid><description>&lt;h2 id="geographic-information-of-delhi">Geographic Information of Delhi&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 28.6519
+-
+Longitude: 77.2315
+-
+Altitude: 227.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Delhi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('28.6519', '77.2315');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hyderabad Thursday</title><link>https://astrology.ir/ephemeris/india/hyderabad/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/hyderabad/thursday/</guid><description>&lt;h2 id="geographic-information-of-hyderabad">Geographic Information of Hyderabad&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 17.3840
+-
+Longitude: 78.4564
+-
+Altitude: 515.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Hyderabad, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('17.3840', '78.4564');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jaipur Thursday</title><link>https://astrology.ir/ephemeris/india/jaipur/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/jaipur/thursday/</guid><description>&lt;h2 id="geographic-information-of-jaipur">Geographic Information of Jaipur&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 26.9196
+-
+Longitude: 75.7878
+-
+Altitude: 435.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Jaipur, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('26.9196', '75.7878');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kolkata Thursday</title><link>https://astrology.ir/ephemeris/india/kolkata/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/kolkata/thursday/</guid><description>&lt;h2 id="geographic-information-of-kolkata">Geographic Information of Kolkata&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 22.5626
+-
+Longitude: 88.3630
+-
+Altitude: 11.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kolkata, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('22.5626', '88.3630');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Thursday</title><link>https://astrology.ir/ephemeris/india/lucknow/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/thursday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 26.8393
+-
+Longitude: 80.9231
+-
+Altitude: 126.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('26.8393', '80.9231');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai Thursday</title><link>https://astrology.ir/ephemeris/india/mumbai/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/thursday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 19.0728
+-
+Longitude: 72.8826
+-
+Altitude: 8.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('19.0728', '72.8826');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>New Delhi Thursday</title><link>https://astrology.ir/ephemeris/india/new_delhi/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/new_delhi/thursday/</guid><description>&lt;h2 id="geographic-information-of-new-delhi">Geographic Information of New Delhi&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 28.6358
+-
+Longitude: 77.2245
+-
+Altitude: 212.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">New Delhi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('28.6358', '77.2245');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Patna Thursday</title><link>https://astrology.ir/ephemeris/india/patna/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/patna/thursday/</guid><description>&lt;h2 id="geographic-information-of-patna">Geographic Information of Patna&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 25.5941
+-
+Longitude: 85.1356
+-
+Altitude: 53.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Patna, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('25.5941', '85.1356');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ranchi Thursday</title><link>https://astrology.ir/ephemeris/india/ranchi/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/ranchi/thursday/</guid><description>&lt;h2 id="geographic-information-of-ranchi">Geographic Information of Ranchi&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 23.3432
+-
+Longitude: 85.3094
+-
+Altitude: 643.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ranchi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('23.3432', '85.3094');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Srinagar Thursday</title><link>https://astrology.ir/ephemeris/india/srinagar/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/srinagar/thursday/</guid><description>&lt;h2 id="geographic-information-of-srinagar">Geographic Information of Srinagar&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 34.0857
+-
+Longitude: 74.8055
+-
+Altitude: 1,589.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Srinagar, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.0857', '74.8055');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bengaluru Wednesday</title><link>https://astrology.ir/ephemeris/india/bengaluru/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bengaluru/wednesday/</guid><description>&lt;h2 id="geographic-information-of-bengaluru">Geographic Information of Bengaluru&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
 Latitude: 12.9719
@@ -1454,6 +1818,32 @@ Altitude: 1,589.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bengaluru</title><link>https://astrology.ir/ephemeris/india/bengaluru/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bengaluru/</guid><description>&lt;h2 id="geographic-information-of-bengaluru">Geographic Information of Bengaluru&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 12.9719
+-
+Longitude: 77.5937
+-
+Altitude: 914.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Bengaluru, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('12.9719', '77.5937');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bengaluru Saturday</title><link>https://astrology.ir/ephemeris/india/bengaluru/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bengaluru/saturday/</guid><description>&lt;h2 id="geographic-information-of-bengaluru">Geographic Information of Bengaluru&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1475,6 +1865,32 @@ Altitude: 914.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('12.9719', '77.5937');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal</title><link>https://astrology.ir/ephemeris/india/bhopal/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 23.2547
+-
+Longitude: 77.4029
+-
+Altitude: 523.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('23.2547', '77.4029');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1506,6 +1922,32 @@ Altitude: 523.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chandigarh</title><link>https://astrology.ir/ephemeris/india/chandigarh/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chandigarh/</guid><description>&lt;h2 id="geographic-information-of-chandigarh">Geographic Information of Chandigarh&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 30.7363
+-
+Longitude: 76.7884
+-
+Altitude: 351.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chandigarh, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.7363', '76.7884');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chandigarh Saturday</title><link>https://astrology.ir/ephemeris/india/chandigarh/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chandigarh/saturday/</guid><description>&lt;h2 id="geographic-information-of-chandigarh">Geographic Information of Chandigarh&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1527,6 +1969,32 @@ Altitude: 351.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('30.7363', '76.7884');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chennai</title><link>https://astrology.ir/ephemeris/india/chennai/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chennai/</guid><description>&lt;h2 id="geographic-information-of-chennai">Geographic Information of Chennai&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 13.0878
+-
+Longitude: 80.2785
+-
+Altitude: 14.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Chennai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('13.0878', '80.2785');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1558,6 +2026,32 @@ Altitude: 14.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Delhi</title><link>https://astrology.ir/ephemeris/india/delhi/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/delhi/</guid><description>&lt;h2 id="geographic-information-of-delhi">Geographic Information of Delhi&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 28.6519
+-
+Longitude: 77.2315
+-
+Altitude: 227.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Delhi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('28.6519', '77.2315');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Delhi Saturday</title><link>https://astrology.ir/ephemeris/india/delhi/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/delhi/saturday/</guid><description>&lt;h2 id="geographic-information-of-delhi">Geographic Information of Delhi&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1579,6 +2073,32 @@ Altitude: 227.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('28.6519', '77.2315');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hyderabad</title><link>https://astrology.ir/ephemeris/india/hyderabad/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/hyderabad/</guid><description>&lt;h2 id="geographic-information-of-hyderabad">Geographic Information of Hyderabad&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 17.3840
+-
+Longitude: 78.4564
+-
+Altitude: 515.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Hyderabad, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('17.3840', '78.4564');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1610,6 +2130,32 @@ Altitude: 515.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jaipur</title><link>https://astrology.ir/ephemeris/india/jaipur/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/jaipur/</guid><description>&lt;h2 id="geographic-information-of-jaipur">Geographic Information of Jaipur&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 26.9196
+-
+Longitude: 75.7878
+-
+Altitude: 435.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Jaipur, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('26.9196', '75.7878');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jaipur Saturday</title><link>https://astrology.ir/ephemeris/india/jaipur/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/jaipur/saturday/</guid><description>&lt;h2 id="geographic-information-of-jaipur">Geographic Information of Jaipur&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1631,6 +2177,32 @@ Altitude: 435.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('26.9196', '75.7878');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kolkata</title><link>https://astrology.ir/ephemeris/india/kolkata/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/kolkata/</guid><description>&lt;h2 id="geographic-information-of-kolkata">Geographic Information of Kolkata&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 22.5626
+-
+Longitude: 88.3630
+-
+Altitude: 11.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Kolkata, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('22.5626', '88.3630');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1662,6 +2234,32 @@ Altitude: 11.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow</title><link>https://astrology.ir/ephemeris/india/lucknow/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 26.8393
+-
+Longitude: 80.9231
+-
+Altitude: 126.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('26.8393', '80.9231');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Saturday</title><link>https://astrology.ir/ephemeris/india/lucknow/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/saturday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1683,6 +2281,32 @@ Altitude: 126.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('26.8393', '80.9231');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai</title><link>https://astrology.ir/ephemeris/india/mumbai/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 19.0728
+-
+Longitude: 72.8826
+-
+Altitude: 8.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('19.0728', '72.8826');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1714,6 +2338,32 @@ Altitude: 8.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>New Delhi</title><link>https://astrology.ir/ephemeris/india/new_delhi/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/new_delhi/</guid><description>&lt;h2 id="geographic-information-of-new-delhi">Geographic Information of New Delhi&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 28.6358
+-
+Longitude: 77.2245
+-
+Altitude: 212.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">New Delhi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('28.6358', '77.2245');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>New Delhi Saturday</title><link>https://astrology.ir/ephemeris/india/new_delhi/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/new_delhi/saturday/</guid><description>&lt;h2 id="geographic-information-of-new-delhi">Geographic Information of New Delhi&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1735,6 +2385,32 @@ Altitude: 212.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('28.6358', '77.2245');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Patna</title><link>https://astrology.ir/ephemeris/india/patna/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/patna/</guid><description>&lt;h2 id="geographic-information-of-patna">Geographic Information of Patna&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 25.5941
+-
+Longitude: 85.1356
+-
+Altitude: 53.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Patna, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('25.5941', '85.1356');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1766,6 +2442,32 @@ Altitude: 53.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ranchi</title><link>https://astrology.ir/ephemeris/india/ranchi/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/ranchi/</guid><description>&lt;h2 id="geographic-information-of-ranchi">Geographic Information of Ranchi&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 23.3432
+-
+Longitude: 85.3094
+-
+Altitude: 643.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Ranchi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('23.3432', '85.3094');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ranchi Saturday</title><link>https://astrology.ir/ephemeris/india/ranchi/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/ranchi/saturday/</guid><description>&lt;h2 id="geographic-information-of-ranchi">Geographic Information of Ranchi&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1787,6 +2489,32 @@ Altitude: 643.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('23.3432', '85.3094');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Srinagar</title><link>https://astrology.ir/ephemeris/india/srinagar/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/srinagar/</guid><description>&lt;h2 id="geographic-information-of-srinagar">Geographic Information of Srinagar&lt;/h2>
+&lt;p>TimeZone: +05:30
+-
+Latitude: 34.0857
+-
+Longitude: 74.8055
+-
+Altitude: 1,589.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Srinagar, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('34.0857', '74.8055');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1818,32 +2546,6 @@ Altitude: 1,589.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bengaluru</title><link>https://astrology.ir/ephemeris/india/bengaluru/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bengaluru/</guid><description>&lt;h2 id="geographic-information-of-bengaluru">Geographic Information of Bengaluru&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 12.9719
--
-Longitude: 77.5937
--
-Altitude: 914.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bengaluru, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('12.9719', '77.5937');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bengaluru Friday</title><link>https://astrology.ir/ephemeris/india/bengaluru/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bengaluru/friday/</guid><description>&lt;h2 id="geographic-information-of-bengaluru">Geographic Information of Bengaluru&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1865,32 +2567,6 @@ Altitude: 914.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('12.9719', '77.5937');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal</title><link>https://astrology.ir/ephemeris/india/bhopal/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -1922,32 +2598,6 @@ Altitude: 523.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chandigarh</title><link>https://astrology.ir/ephemeris/india/chandigarh/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chandigarh/</guid><description>&lt;h2 id="geographic-information-of-chandigarh">Geographic Information of Chandigarh&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 30.7363
--
-Longitude: 76.7884
--
-Altitude: 351.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chandigarh, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.7363', '76.7884');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chandigarh Friday</title><link>https://astrology.ir/ephemeris/india/chandigarh/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chandigarh/friday/</guid><description>&lt;h2 id="geographic-information-of-chandigarh">Geographic Information of Chandigarh&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -1969,32 +2619,6 @@ Altitude: 351.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('30.7363', '76.7884');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chennai</title><link>https://astrology.ir/ephemeris/india/chennai/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chennai/</guid><description>&lt;h2 id="geographic-information-of-chennai">Geographic Information of Chennai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 13.0878
--
-Longitude: 80.2785
--
-Altitude: 14.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chennai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.0878', '80.2785');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2026,32 +2650,6 @@ Altitude: 14.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Delhi</title><link>https://astrology.ir/ephemeris/india/delhi/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/delhi/</guid><description>&lt;h2 id="geographic-information-of-delhi">Geographic Information of Delhi&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 28.6519
--
-Longitude: 77.2315
--
-Altitude: 227.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Delhi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('28.6519', '77.2315');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Delhi Friday</title><link>https://astrology.ir/ephemeris/india/delhi/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/delhi/friday/</guid><description>&lt;h2 id="geographic-information-of-delhi">Geographic Information of Delhi&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -2073,32 +2671,6 @@ Altitude: 227.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('28.6519', '77.2315');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hyderabad</title><link>https://astrology.ir/ephemeris/india/hyderabad/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/hyderabad/</guid><description>&lt;h2 id="geographic-information-of-hyderabad">Geographic Information of Hyderabad&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 17.3840
--
-Longitude: 78.4564
--
-Altitude: 515.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hyderabad, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.3840', '78.4564');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2130,32 +2702,6 @@ Altitude: 515.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jaipur</title><link>https://astrology.ir/ephemeris/india/jaipur/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/jaipur/</guid><description>&lt;h2 id="geographic-information-of-jaipur">Geographic Information of Jaipur&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.9196
--
-Longitude: 75.7878
--
-Altitude: 435.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Jaipur, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.9196', '75.7878');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jaipur Friday</title><link>https://astrology.ir/ephemeris/india/jaipur/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/jaipur/friday/</guid><description>&lt;h2 id="geographic-information-of-jaipur">Geographic Information of Jaipur&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -2177,32 +2723,6 @@ Altitude: 435.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('26.9196', '75.7878');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kolkata</title><link>https://astrology.ir/ephemeris/india/kolkata/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/kolkata/</guid><description>&lt;h2 id="geographic-information-of-kolkata">Geographic Information of Kolkata&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 22.5626
--
-Longitude: 88.3630
--
-Altitude: 11.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kolkata, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('22.5626', '88.3630');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2234,32 +2754,6 @@ Altitude: 11.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow</title><link>https://astrology.ir/ephemeris/india/lucknow/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Friday</title><link>https://astrology.ir/ephemeris/india/lucknow/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/friday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -2281,32 +2775,6 @@ Altitude: 126.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai</title><link>https://astrology.ir/ephemeris/india/mumbai/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2338,32 +2806,6 @@ Altitude: 8.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>New Delhi</title><link>https://astrology.ir/ephemeris/india/new_delhi/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/new_delhi/</guid><description>&lt;h2 id="geographic-information-of-new-delhi">Geographic Information of New Delhi&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 28.6358
--
-Longitude: 77.2245
--
-Altitude: 212.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">New Delhi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('28.6358', '77.2245');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>New Delhi Friday</title><link>https://astrology.ir/ephemeris/india/new_delhi/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/new_delhi/friday/</guid><description>&lt;h2 id="geographic-information-of-new-delhi">Geographic Information of New Delhi&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -2385,32 +2827,6 @@ Altitude: 212.0000 meters&lt;/p>
 		}).addTo(map);
 		map.attributionControl.setPrefix(false);
 		var target = L.latLng('28.6358', '77.2245');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Patna</title><link>https://astrology.ir/ephemeris/india/patna/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/patna/</guid><description>&lt;h2 id="geographic-information-of-patna">Geographic Information of Patna&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 25.5941
--
-Longitude: 85.1356
--
-Altitude: 53.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Patna, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.5941', '85.1356');
 		map.setView(target, "12");
 		L.marker(target).addTo(map);
 	&lt;/script>
@@ -2442,32 +2858,6 @@ Altitude: 53.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ranchi</title><link>https://astrology.ir/ephemeris/india/ranchi/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/ranchi/</guid><description>&lt;h2 id="geographic-information-of-ranchi">Geographic Information of Ranchi&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.3432
--
-Longitude: 85.3094
--
-Altitude: 643.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ranchi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.3432', '85.3094');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ranchi Friday</title><link>https://astrology.ir/ephemeris/india/ranchi/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/ranchi/friday/</guid><description>&lt;h2 id="geographic-information-of-ranchi">Geographic Information of Ranchi&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
@@ -2494,397 +2884,7 @@ Altitude: 643.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Srinagar</title><link>https://astrology.ir/ephemeris/india/srinagar/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/srinagar/</guid><description>&lt;h2 id="geographic-information-of-srinagar">Geographic Information of Srinagar&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 34.0857
--
-Longitude: 74.8055
--
-Altitude: 1,589.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Srinagar, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0857', '74.8055');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Srinagar Friday</title><link>https://astrology.ir/ephemeris/india/srinagar/friday/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/srinagar/friday/</guid><description>&lt;h2 id="geographic-information-of-srinagar">Geographic Information of Srinagar&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 34.0857
--
-Longitude: 74.8055
--
-Altitude: 1,589.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Srinagar, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0857', '74.8055');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bengaluru Thursday</title><link>https://astrology.ir/ephemeris/india/bengaluru/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bengaluru/thursday/</guid><description>&lt;h2 id="geographic-information-of-bengaluru">Geographic Information of Bengaluru&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 12.9719
--
-Longitude: 77.5937
--
-Altitude: 914.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bengaluru, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('12.9719', '77.5937');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal Thursday</title><link>https://astrology.ir/ephemeris/india/bhopal/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/thursday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chandigarh Thursday</title><link>https://astrology.ir/ephemeris/india/chandigarh/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chandigarh/thursday/</guid><description>&lt;h2 id="geographic-information-of-chandigarh">Geographic Information of Chandigarh&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 30.7363
--
-Longitude: 76.7884
--
-Altitude: 351.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chandigarh, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.7363', '76.7884');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Chennai Thursday</title><link>https://astrology.ir/ephemeris/india/chennai/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/chennai/thursday/</guid><description>&lt;h2 id="geographic-information-of-chennai">Geographic Information of Chennai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 13.0878
--
-Longitude: 80.2785
--
-Altitude: 14.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Chennai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.0878', '80.2785');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Delhi Thursday</title><link>https://astrology.ir/ephemeris/india/delhi/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/delhi/thursday/</guid><description>&lt;h2 id="geographic-information-of-delhi">Geographic Information of Delhi&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 28.6519
--
-Longitude: 77.2315
--
-Altitude: 227.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Delhi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('28.6519', '77.2315');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hyderabad Thursday</title><link>https://astrology.ir/ephemeris/india/hyderabad/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/hyderabad/thursday/</guid><description>&lt;h2 id="geographic-information-of-hyderabad">Geographic Information of Hyderabad&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 17.3840
--
-Longitude: 78.4564
--
-Altitude: 515.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hyderabad, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.3840', '78.4564');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Jaipur Thursday</title><link>https://astrology.ir/ephemeris/india/jaipur/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/jaipur/thursday/</guid><description>&lt;h2 id="geographic-information-of-jaipur">Geographic Information of Jaipur&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.9196
--
-Longitude: 75.7878
--
-Altitude: 435.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Jaipur, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.9196', '75.7878');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kolkata Thursday</title><link>https://astrology.ir/ephemeris/india/kolkata/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/kolkata/thursday/</guid><description>&lt;h2 id="geographic-information-of-kolkata">Geographic Information of Kolkata&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 22.5626
--
-Longitude: 88.3630
--
-Altitude: 11.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kolkata, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('22.5626', '88.3630');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Thursday</title><link>https://astrology.ir/ephemeris/india/lucknow/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/thursday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai Thursday</title><link>https://astrology.ir/ephemeris/india/mumbai/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/thursday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>New Delhi Thursday</title><link>https://astrology.ir/ephemeris/india/new_delhi/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/new_delhi/thursday/</guid><description>&lt;h2 id="geographic-information-of-new-delhi">Geographic Information of New Delhi&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 28.6358
--
-Longitude: 77.2245
--
-Altitude: 212.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">New Delhi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('28.6358', '77.2245');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Patna Thursday</title><link>https://astrology.ir/ephemeris/india/patna/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/patna/thursday/</guid><description>&lt;h2 id="geographic-information-of-patna">Geographic Information of Patna&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 25.5941
--
-Longitude: 85.1356
--
-Altitude: 53.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Patna, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.5941', '85.1356');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ranchi Thursday</title><link>https://astrology.ir/ephemeris/india/ranchi/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/ranchi/thursday/</guid><description>&lt;h2 id="geographic-information-of-ranchi">Geographic Information of Ranchi&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.3432
--
-Longitude: 85.3094
--
-Altitude: 643.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ranchi, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.3432', '85.3094');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Srinagar Thursday</title><link>https://astrology.ir/ephemeris/india/srinagar/thursday/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/srinagar/thursday/</guid><description>&lt;h2 id="geographic-information-of-srinagar">Geographic Information of Srinagar&lt;/h2>
 &lt;p>TimeZone: +05:30
 -
 Latitude: 34.0857
