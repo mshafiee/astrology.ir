@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:32:40 |
-| Sunrise | 05:44:19 |
+| Sunrise | 05:44:20 |
 | Dhuhr (Noon) | 11:46:27 |
 | Medium Coeli | 11:46:27 |
 | Sunset | 17:48:20 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:31:24 |
-| Sunrise | 05:44:19 |
+| Sunrise | 05:44:20 |
 | Dhuhr (Noon) | 11:46:27 |
 | Medium Coeli | 11:46:27 |
 | Sunset | 17:48:20 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:44:00 |
-| Sunrise | 05:44:19 |
+| Sunrise | 05:44:20 |
 | Dhuhr (Noon) | 11:46:27 |
 | Medium Coeli | 11:46:27 |
 | Sunset | 17:48:20 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°39'57.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°3'56.09" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|12°26'47.82" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°52'48.62" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|4°7'9.54" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|0°16'32.97" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|24°33'29.54" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°39'58.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|21°3'56.36" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|12°26'47.86" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°52'48.63" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|4°7'9.60" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|0°16'32.99" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|24°33'29.75" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°39'57.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°3'56.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°26'47.82" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|3°52'48.62" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|4°7'9.54" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|0°16'32.97" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|24°33'29.54" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|14°39'58.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|21°3'56.36" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°26'47.86" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|3°52'48.63" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|4°7'9.60" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|0°16'32.99" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|24°33'29.75" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
