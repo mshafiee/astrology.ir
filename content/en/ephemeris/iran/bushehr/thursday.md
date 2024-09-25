@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:57:50 |
 | Sunset | 17:58:14 |
 | Maghrib | 17:59:15 |
-| Isha (Night) | 19:04:06 |
+| Isha (Night) | 19:04:05 |
 | Sharia Midnight | 23:24:54 |
 | Imum Coeli | 23:57:40 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'35.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°2'56.63" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|12°14'12.86" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°30'1.98" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|3°38'52.64" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|29°34'1.70" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|19°34'35.68" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|14°41'35.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|21°2'56.37" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|12°14'12.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°30'1.97" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|3°38'52.59" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|29°34'1.68" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|19°34'35.58" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°36'2.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°6'13.96" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|12°57'10.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°48'4.30" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|5°15'44.40" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|1°59'16.26" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°26'11.32" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|14°36'2.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|21°6'14.12" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|12°57'11.47" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°48'4.24" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|5°15'44.10" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|1°59'16.23" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|6°29'56.81" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스

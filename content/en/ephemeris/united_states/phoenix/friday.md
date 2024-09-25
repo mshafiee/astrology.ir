@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:18:59 |
 | Sunset | 18:17:17 |
 | Maghrib | 18:33:39 |
-| Isha (Night) | 19:21:40 |
+| Isha (Night) | 19:21:39 |
 | Sharia Midnight | 23:42:00 |
 | Imum Coeli | 00:18:49 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:18:59 |
 | Sunset | 18:17:17 |
 | Maghrib | 18:36:02 |
-| Isha (Night) | 19:21:40 |
+| Isha (Night) | 19:21:39 |
 | Sharia Midnight | 23:37:53 |
 | Imum Coeli | 00:18:49 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°31'23.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°8'44.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°33'21.24" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°54'23.34" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°38'4.67" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|4°1'47.48" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|19°28'24.57" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|21°8'45.67" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°33'26.26" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°54'30.94" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°38'7.38" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|4°1'53.06" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|20°24'45.98" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Mars|Venus|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
+|☾ Moon|Mercury|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Venus|Mars|Scorpio|Sun|Venus|
-|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
+|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
