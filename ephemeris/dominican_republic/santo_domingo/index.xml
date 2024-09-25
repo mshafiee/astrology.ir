@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Santo Domingo on Astrology</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/</link><description>Recent content in Santo Domingo on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 27 Sep 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/dominican_republic/santo_domingo/index.xml" rel="self" type="application/rss+xml"/><item><title>Santo Domingo Friday</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/friday/</guid><description>&lt;h2 id="geographic-information-of-santo-domingo">Geographic Information of Santo Domingo&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Santo Domingo on Astrology</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/</link><description>Recent content in Santo Domingo on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 29 Sep 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/dominican_republic/santo_domingo/index.xml" rel="self" type="application/rss+xml"/><item><title>Santo Domingo Sunday</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/sunday/</guid><description>&lt;h2 id="geographic-information-of-santo-domingo">Geographic Information of Santo Domingo&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 18.4719
+-
+Longitude: -69.8923
+-
+Altitude: 9.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Santo Domingo, Dominican Republic | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('18.4719', '-69.8923');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Santo Domingo Saturday</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/saturday/</guid><description>&lt;h2 id="geographic-information-of-santo-domingo">Geographic Information of Santo Domingo&lt;/h2>
+&lt;p>TimeZone: -04:00
+-
+Latitude: 18.4719
+-
+Longitude: -69.8923
+-
+Altitude: 9.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Santo Domingo, Dominican Republic | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('18.4719', '-69.8923');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Santo Domingo Friday</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/friday/</guid><description>&lt;h2 id="geographic-information-of-santo-domingo">Geographic Information of Santo Domingo&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
 Latitude: 18.4719
@@ -103,58 +155,6 @@ Altitude: 9.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Santo Domingo Monday</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/monday/</guid><description>&lt;h2 id="geographic-information-of-santo-domingo">Geographic Information of Santo Domingo&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.4719
--
-Longitude: -69.8923
--
-Altitude: 9.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Santo Domingo, Dominican Republic | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.4719', '-69.8923');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Santo Domingo Sunday</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/sunday/</guid><description>&lt;h2 id="geographic-information-of-santo-domingo">Geographic Information of Santo Domingo&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.4719
--
-Longitude: -69.8923
--
-Altitude: 9.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Santo Domingo, Dominican Republic | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.4719', '-69.8923');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Santo Domingo Saturday</title><link>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/dominican_republic/santo_domingo/saturday/</guid><description>&lt;h2 id="geographic-information-of-santo-domingo">Geographic Information of Santo Domingo&lt;/h2>
 &lt;p>TimeZone: -04:00
 -
 Latitude: 18.4719

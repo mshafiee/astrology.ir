@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Austin on Astrology</title><link>https://astrology.ir/tags/austin/</link><description>Recent content in Austin on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 27 Sep 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/austin/index.xml" rel="self" type="application/rss+xml"/><item><title>Austin Friday</title><link>https://astrology.ir/ephemeris/united_states/austin/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/friday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Austin on Astrology</title><link>https://astrology.ir/tags/austin/</link><description>Recent content in Austin on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 29 Sep 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/austin/index.xml" rel="self" type="application/rss+xml"/><item><title>Austin Sunday</title><link>https://astrology.ir/ephemeris/united_states/austin/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/sunday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 30.2672
+-
+Longitude: -97.7431
+-
+Altitude: 165.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.2672', '-97.7431');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Saturday</title><link>https://astrology.ir/ephemeris/united_states/austin/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/saturday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 30.2672
+-
+Longitude: -97.7431
+-
+Altitude: 165.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.2672', '-97.7431');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Friday</title><link>https://astrology.ir/ephemeris/united_states/austin/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/friday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: 30.2672
@@ -76,6 +128,32 @@ Altitude: 165.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin</title><link>https://astrology.ir/ephemeris/united_states/austin/</link><pubDate>Tue, 24 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: 30.2672
+-
+Longitude: -97.7431
+-
+Altitude: 165.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('30.2672', '-97.7431');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Tuesday</title><link>https://astrology.ir/ephemeris/united_states/austin/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/tuesday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
@@ -103,84 +181,6 @@ Altitude: 165.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Monday</title><link>https://astrology.ir/ephemeris/united_states/austin/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/monday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 30.2672
--
-Longitude: -97.7431
--
-Altitude: 165.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2672', '-97.7431');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin</title><link>https://astrology.ir/ephemeris/united_states/austin/</link><pubDate>Sun, 22 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 30.2672
--
-Longitude: -97.7431
--
-Altitude: 165.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2672', '-97.7431');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Sunday</title><link>https://astrology.ir/ephemeris/united_states/austin/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/sunday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 30.2672
--
-Longitude: -97.7431
--
-Altitude: 165.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Austin, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2672', '-97.7431');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Austin Saturday</title><link>https://astrology.ir/ephemeris/united_states/austin/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/united_states/austin/saturday/</guid><description>&lt;h2 id="geographic-information-of-austin">Geographic Information of Austin&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: 30.2672

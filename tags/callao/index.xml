@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Callao on Astrology</title><link>https://astrology.ir/tags/callao/</link><description>Recent content in Callao on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Fri, 27 Sep 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/callao/index.xml" rel="self" type="application/rss+xml"/><item><title>Callao Friday</title><link>https://astrology.ir/ephemeris/peru/callao/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/friday/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Callao on Astrology</title><link>https://astrology.ir/tags/callao/</link><description>Recent content in Callao on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sun, 29 Sep 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/callao/index.xml" rel="self" type="application/rss+xml"/><item><title>Callao Sunday</title><link>https://astrology.ir/ephemeris/peru/callao/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/sunday/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: -12.0566
+-
+Longitude: -77.1181
+-
+Altitude: 27.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Callao, Peru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-12.0566', '-77.1181');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Callao Saturday</title><link>https://astrology.ir/ephemeris/peru/callao/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/saturday/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: -12.0566
+-
+Longitude: -77.1181
+-
+Altitude: 27.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Callao, Peru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-12.0566', '-77.1181');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Callao Friday</title><link>https://astrology.ir/ephemeris/peru/callao/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/friday/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: -12.0566
@@ -76,6 +128,32 @@ Altitude: 27.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Callao</title><link>https://astrology.ir/ephemeris/peru/callao/</link><pubDate>Tue, 24 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
+&lt;p>TimeZone: -05:00
+-
+Latitude: -12.0566
+-
+Longitude: -77.1181
+-
+Altitude: 27.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Callao, Peru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-12.0566', '-77.1181');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Callao Tuesday</title><link>https://astrology.ir/ephemeris/peru/callao/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/tuesday/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
@@ -103,84 +181,6 @@ Altitude: 27.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Callao Monday</title><link>https://astrology.ir/ephemeris/peru/callao/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/monday/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -12.0566
--
-Longitude: -77.1181
--
-Altitude: 27.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Callao, Peru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-12.0566', '-77.1181');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Callao</title><link>https://astrology.ir/ephemeris/peru/callao/</link><pubDate>Sun, 22 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -12.0566
--
-Longitude: -77.1181
--
-Altitude: 27.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Callao, Peru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-12.0566', '-77.1181');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Callao Sunday</title><link>https://astrology.ir/ephemeris/peru/callao/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/sunday/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -12.0566
--
-Longitude: -77.1181
--
-Altitude: 27.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Callao, Peru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-12.0566', '-77.1181');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Callao Saturday</title><link>https://astrology.ir/ephemeris/peru/callao/saturday/</link><pubDate>Sat, 21 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/peru/callao/saturday/</guid><description>&lt;h2 id="geographic-information-of-callao">Geographic Information of Callao&lt;/h2>
 &lt;p>TimeZone: -05:00
 -
 Latitude: -12.0566

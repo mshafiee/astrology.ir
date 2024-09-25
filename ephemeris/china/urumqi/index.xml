@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Urumqi on Astrology</title><link>https://astrology.ir/ephemeris/china/urumqi/</link><description>Recent content in Urumqi on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0600</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/china/urumqi/index.xml" rel="self" type="application/rss+xml"/><item><title>Urumqi Saturday</title><link>https://astrology.ir/ephemeris/china/urumqi/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/saturday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Urumqi on Astrology</title><link>https://astrology.ir/ephemeris/china/urumqi/</link><description>Recent content in Urumqi on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0600</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/china/urumqi/index.xml" rel="self" type="application/rss+xml"/><item><title>Urumqi Monday</title><link>https://astrology.ir/ephemeris/china/urumqi/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/monday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
+&lt;p>TimeZone: +06:00
+-
+Latitude: 43.8010
+-
+Longitude: 87.6005
+-
+Altitude: 862.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Urumqi, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('43.8010', '87.6005');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Sunday</title><link>https://astrology.ir/ephemeris/china/urumqi/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/sunday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
+&lt;p>TimeZone: +06:00
+-
+Latitude: 43.8010
+-
+Longitude: 87.6005
+-
+Altitude: 862.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Urumqi, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('43.8010', '87.6005');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Saturday</title><link>https://astrology.ir/ephemeris/china/urumqi/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/saturday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
 &lt;p>TimeZone: +06:00
 -
 Latitude: 43.8010
@@ -103,58 +155,6 @@ Altitude: 862.0000 meters&lt;/p>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Tuesday</title><link>https://astrology.ir/ephemeris/china/urumqi/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/tuesday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 43.8010
--
-Longitude: 87.6005
--
-Altitude: 862.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Urumqi, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('43.8010', '87.6005');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Monday</title><link>https://astrology.ir/ephemeris/china/urumqi/monday/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/monday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 43.8010
--
-Longitude: 87.6005
--
-Altitude: 862.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Urumqi, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('43.8010', '87.6005');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Urumqi Sunday</title><link>https://astrology.ir/ephemeris/china/urumqi/sunday/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/china/urumqi/sunday/</guid><description>&lt;h2 id="geographic-information-of-urumqi">Geographic Information of Urumqi&lt;/h2>
 &lt;p>TimeZone: +06:00
 -
 Latitude: 43.8010
