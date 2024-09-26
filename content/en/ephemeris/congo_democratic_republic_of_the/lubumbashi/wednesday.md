@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:26 |
-| Sunrise | 05:57:38 |
+| Sunrise | 05:57:37 |
 | Dhuhr (Noon) | 12:01:35 |
 | Medium Coeli | 12:01:35 |
 | Sunset | 18:05:42 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:00 |
-| Sunrise | 05:57:37 |
+| Sunrise | 05:57:38 |
 | Dhuhr (Noon) | 12:01:35 |
 | Medium Coeli | 12:01:35 |
 | Sunset | 18:05:42 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:08:04|Night duration: 11:51:16|
+|Duration of the day: 12:08:05|Night duration: 11:51:16|
 |Every hour of day duration: 01:00:40|Every hour of night duration: 00:59:16|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|05:57:38|06:58:17|Acceptance of needs|
-|2|Moon|Servant|06:58:18|07:58:57|Unfortunate, no task is suitable|
-|3|Saturn|Servant|07:58:58|08:59:38|For overcoming diseases|
-|4|Jupiter|Servant|08:59:39|10:00:18|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:00:19|11:00:58|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:00:59|12:01:39|Outer and inner journey|
-|7|Venus|Servant|12:01:40|13:02:19|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|13:02:20|14:02:59|Being invisible to the people|
-|9|Moon|Servant|14:03:00|15:03:40|Separation, causing enmity|
-|10|Saturn|Servant|15:03:41|16:04:20|Dominating the great ones|
+|1|Mercury|Ruler|05:57:37|06:58:16|Acceptance of needs|
+|2|Moon|Servant|06:58:17|07:58:56|Unfortunate, no task is suitable|
+|3|Saturn|Servant|07:58:57|08:59:37|For overcoming diseases|
+|4|Jupiter|Servant|08:59:38|10:00:17|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:00:18|11:00:58|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:00:59|12:01:38|Outer and inner journey|
+|7|Venus|Servant|12:01:39|13:02:18|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|13:02:19|14:02:59|Being invisible to the people|
+|9|Moon|Servant|14:03:00|15:03:39|Separation, causing enmity|
+|10|Saturn|Servant|15:03:40|16:04:20|Dominating the great ones|
 |11|Jupiter|Servant|16:04:21|17:05:00|Creating financial and emotional attraction and dominance|
 |12|Mars|Servant|17:05:01|18:05:41|Creating evil and hatred|
 
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:08:05|Night duration: 11:51:16|
+|Duration of the day: 12:08:04|Night duration: 11:51:16|
 |Every hour duration: 01:44:01|Every hour duration: 01:41:37|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|05:57:37|07:41:36|
-|Mid-morning|Moon|Servant|07:41:37|09:25:37|
-|Late morning|Saturn|Servant|09:25:38|11:09:38|
-|Noon|Jupiter|Servant|11:09:39|12:53:38|
-|Early afternoon|Mars|Servant|12:53:39|14:37:39|
+|Early morning|Mercury|Ruler|05:57:38|07:41:37|
+|Mid-morning|Moon|Servant|07:41:38|09:25:38|
+|Late morning|Saturn|Servant|09:25:39|11:09:38|
+|Noon|Jupiter|Servant|11:09:39|12:53:39|
+|Early afternoon|Mars|Servant|12:53:40|14:37:39|
 |Mid-afternoon|Sun|Servant|14:37:40|16:21:40|
 |Late afternoon|Venus|Servant|16:21:41|18:05:41|
 

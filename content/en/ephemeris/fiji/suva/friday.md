@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°34'44.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°6'57.71" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|13°7'20.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°6'36.58" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|5°38'45.17" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°33'37.10" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|10°15'11.42" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|14°34'44.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|21°6'57.98" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|13°7'20.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|5°6'36.59" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|5°38'45.22" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°33'37.12" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|10°15'12.06" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°34'44.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°6'57.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°7'20.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°6'36.58" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|5°38'45.17" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°33'37.10" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|10°15'11.42" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|14°34'44.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|21°6'57.98" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°7'20.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°6'36.59" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|5°38'45.22" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°33'37.12" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|10°15'12.06" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°37'6.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°5'37.73" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|12°48'57.91" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°32'54.07" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|4°57'6.37" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|1°31'27.62" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|2°19'2.95" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|21°5'37.97" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|12°49'1.08" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°33'10.41" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|4°57'15.99" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|1°31'39.60" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°12'53.89" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Libra|Moon|Venus|
 |♀ Venus|Mercury|Mars|Scorpio|Sun|Venus|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°37'5.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°5'37.70" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°49'1.04" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|14°37'6.00" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|21°5'37.97" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°49'1.08" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|4°33'10.41" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|4°57'15.94" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|1°31'39.58" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°12'53.44" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|4°57'15.99" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|1°31'39.60" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°12'53.89" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи

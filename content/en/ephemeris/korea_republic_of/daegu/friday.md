@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:16:33 |
 | Medium Coeli | 12:16:33 |
 | Sunset | 18:15:18 |
-| Maghrib | 18:32:02 |
+| Maghrib | 18:32:01 |
 | Isha (Night) | 19:21:31 |
 | Sharia Midnight | 23:38:30 |
 | Imum Coeli | 00:16:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°34'8.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°7'17.54" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|13°11'58.94" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°15'7.54" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|5°49'17.59" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|14°34'8.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|21°7'17.24" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|13°11'58.80" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|5°15'7.55" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|5°49'17.61" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|2°49'19.03" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|12°10'33.73" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|12°9'51.07" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°34'8.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°7'17.51" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°11'58.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°15'7.56" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|5°49'17.66" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°49'19.04" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°9'51.76" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|14°34'8.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|21°7'17.24" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°11'58.80" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°15'7.55" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|5°49'17.61" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°49'19.03" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|12°9'51.07" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
