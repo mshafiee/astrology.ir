@@ -1,520 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>سلماس on آسترولوژی</title><link>https://astrology.ir/fa/tags/%D8%B3%D9%84%D9%85%D8%A7%D8%B3/</link><description>Recent content in سلماس on آسترولوژی</description><generator>Hugo</generator><language>fa</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/fa/tags/%D8%B3%D9%84%D9%85%D8%A7%D8%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>سلماس Monday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/monday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۸٫۱۹۷۳
--
-دِرِژنا: ۴۴٫۷۶۵۳
--
-فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.1973', '44.7653');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-35412" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-35412" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="35412">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Sunday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/sunday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۸٫۱۹۷۳
--
-دِرِژنا: ۴۴٫۷۶۵۳
--
-فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.1973', '44.7653');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-41532" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-41532" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-41532" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-41532" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-41532" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-41532" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-41532" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="41532">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Saturday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/saturday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۸٫۱۹۷۳
--
-دِرِژنا: ۴۴٫۷۶۵۳
--
-فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.1973', '44.7653');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-52341" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-52341" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-52341" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-52341" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-52341" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-52341" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-52341" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="52341">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Friday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/friday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۸٫۱۹۷۳
--
-دِرِژنا: ۴۴٫۷۶۵۳
--
-فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.1973', '44.7653');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-51342" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51342" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51342" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51342" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51342" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51342" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-51342" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="51342">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Thursday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/thursday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۸٫۱۹۷۳
--
-دِرِژنا: ۴۴٫۷۶۵۳
--
-فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.1973', '44.7653');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-15342" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-15342" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-15342" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-15342" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-15342" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-15342" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-15342" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="15342">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
-&lt;p>زُنارِ زمانی: ۰۳:۳۰+
--
-وَرونا: ۳۸٫۱۹۷۳
--
-دِرِژنا: ۴۴٫۷۶۵۳
--
-فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.1973', '44.7653');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
-&lt;nav>
-	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
-
-		
-		
-		
-		
-
-		
-
-		&lt;a class="nav-item nav-link active " id="nav-12345" data-toggle="tab" href="#leva"
-		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-12345" data-toggle="tab" href="#igut"
-		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-12345" data-toggle="tab" href="#mwl"
-		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-12345" data-toggle="tab" href="#isna"
-		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-12345" data-toggle="tab" href="#egas"
-		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-12345" data-toggle="tab" href="#uisk"
-		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
-
-		
-
-		&lt;a class="nav-item nav-link " id="nav-12345" data-toggle="tab" href="#umqu"
-		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
-
-		
-
-	&lt;/div>
-&lt;/nav>
-
-&lt;div class="tab-content" id="12345">
-
-
-
-
-
-
-
-
-&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
-
-	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Wednesday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/wednesday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>سلماس on آسترولوژی</title><link>https://astrology.ir/fa/tags/%D8%B3%D9%84%D9%85%D8%A7%D8%B3/</link><description>Recent content in سلماس on آسترولوژی</description><generator>Hugo</generator><language>fa</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/fa/tags/%D8%B3%D9%84%D9%85%D8%A7%D8%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>سلماس Tuesday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/tuesday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
 &lt;p>زُنارِ زمانی: ۰۳:۳۰+
 -
 وَرونا: ۳۸٫۱۹۷۳
@@ -600,7 +84,179 @@
 &lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
 
 	&lt;p>&lt;br>
-&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Tuesday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/tuesday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Monday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/monday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۸٫۱۹۷۳
+-
+دِرِژنا: ۴۴٫۷۶۵۳
+-
+فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.1973', '44.7653');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-32145" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-32145" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-32145" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-32145" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-32145" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-32145" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-32145" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="32145">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Sunday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/sunday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۸٫۱۹۷۳
+-
+دِرِژنا: ۴۴٫۷۶۵۳
+-
+فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.1973', '44.7653');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-15423" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-15423" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-15423" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-15423" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-15423" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-15423" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-15423" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="15423">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Saturday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/saturday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
 &lt;p>زُنارِ زمانی: ۰۳:۳۰+
 -
 وَرونا: ۳۸٫۱۹۷۳
@@ -675,6 +331,350 @@
 &lt;/nav>
 
 &lt;div class="tab-content" id="14253">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Friday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/friday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۸٫۱۹۷۳
+-
+دِرِژنا: ۴۴٫۷۶۵۳
+-
+فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.1973', '44.7653');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-21534" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-21534" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-21534" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-21534" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-21534" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-21534" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-21534" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="21534">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۸٫۱۹۷۳
+-
+دِرِژنا: ۴۴٫۷۶۵۳
+-
+فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.1973', '44.7653');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-13245" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-13245" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-13245" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-13245" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-13245" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-13245" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-13245" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="13245">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Thursday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/thursday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۸٫۱۹۷۳
+-
+دِرِژنا: ۴۴٫۷۶۵۳
+-
+فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.1973', '44.7653');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-25143" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-25143" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-25143" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-25143" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-25143" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-25143" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-25143" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="25143">
+
+
+
+
+
+
+
+
+&lt;div class="tab-pane fade show active " id="leva" role="tabpanel" aria-labelledby="nav-LEVA">
+
+	&lt;p>&lt;br>
+&lt;strong>محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)&lt;/strong>&lt;/p></description></item><item><title>سلماس Wednesday</title><link>https://astrology.ir/fa/ephemeris/iran/salmas/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/fa/ephemeris/iran/salmas/wednesday/</guid><description>&lt;h2 id="همارای-زمیننگاریک-موقعیت-مکانی">همارای زمین‌نگاریک (موقعیت مکانی)&lt;/h2>
+&lt;p>زُنارِ زمانی: ۰۳:۳۰+
+-
+وَرونا: ۳۸٫۱۹۷۳
+-
+دِرِژنا: ۴۴٫۷۶۵۳
+-
+فرازا: ۱٬۳۸۲٫۰۰۰۰ meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Salmas, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('38.1973', '44.7653');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="اوقات-شرعی">اوقات شرعی&lt;/h2>
+&lt;nav>
+	&lt;div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		
+		
+		
+		
+
+		
+
+		&lt;a class="nav-item nav-link active " id="nav-43152" data-toggle="tab" href="#leva"
+		role="tab" aria-controls="nav-home" aria-selected="true">لواء&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43152" data-toggle="tab" href="#igut"
+		role="tab" aria-controls="nav-home" aria-selected="true">ژئوفیزیک&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43152" data-toggle="tab" href="#mwl"
+		role="tab" aria-controls="nav-home" aria-selected="true">مجمع‌جهانی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43152" data-toggle="tab" href="#isna"
+		role="tab" aria-controls="nav-home" aria-selected="true">آمریکا&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43152" data-toggle="tab" href="#egas"
+		role="tab" aria-controls="nav-home" aria-selected="true">مصر&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43152" data-toggle="tab" href="#uisk"
+		role="tab" aria-controls="nav-home" aria-selected="true">کراچی&lt;/a>
+
+		
+
+		&lt;a class="nav-item nav-link " id="nav-43152" data-toggle="tab" href="#umqu"
+		role="tab" aria-controls="nav-home" aria-selected="true">ام‌القرا&lt;/a>
+
+		
+
+	&lt;/div>
+&lt;/nav>
+
+&lt;div class="tab-content" id="43152">
 
 
 

@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bandar Lampung on Astrology</title><link>https://astrology.ir/tags/bandar-lampung/</link><description>Recent content in Bandar Lampung on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0700</lastBuildDate><atom:link href="https://astrology.ir/tags/bandar-lampung/index.xml" rel="self" type="application/rss+xml"/><item><title>Bandar Lampung Monday</title><link>https://astrology.ir/ephemeris/indonesia/bandar_lampung/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/indonesia/bandar_lampung/monday/</guid><description>&lt;h2 id="geographic-information-of-bandar-lampung">Geographic Information of Bandar Lampung&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bandar Lampung on Astrology</title><link>https://astrology.ir/tags/bandar-lampung/</link><description>Recent content in Bandar Lampung on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0700</lastBuildDate><atom:link href="https://astrology.ir/tags/bandar-lampung/index.xml" rel="self" type="application/rss+xml"/><item><title>Bandar Lampung Tuesday</title><link>https://astrology.ir/ephemeris/indonesia/bandar_lampung/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/indonesia/bandar_lampung/tuesday/</guid><description>&lt;h2 id="geographic-information-of-bandar-lampung">Geographic Information of Bandar Lampung&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: -5.4292
+-
+Longitude: 105.2611
+-
+Altitude: 95.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Bandar Lampung, Indonesia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-5.4292', '105.2611');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bandar Lampung Monday</title><link>https://astrology.ir/ephemeris/indonesia/bandar_lampung/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/indonesia/bandar_lampung/monday/</guid><description>&lt;h2 id="geographic-information-of-bandar-lampung">Geographic Information of Bandar Lampung&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
 Latitude: -5.4292
@@ -102,6 +128,32 @@ Altitude: 95.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bandar Lampung</title><link>https://astrology.ir/ephemeris/indonesia/bandar_lampung/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/indonesia/bandar_lampung/</guid><description>&lt;h2 id="geographic-information-of-bandar-lampung">Geographic Information of Bandar Lampung&lt;/h2>
+&lt;p>TimeZone: +07:00
+-
+Latitude: -5.4292
+-
+Longitude: 105.2611
+-
+Altitude: 95.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Bandar Lampung, Indonesia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('-5.4292', '105.2611');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bandar Lampung Thursday</title><link>https://astrology.ir/ephemeris/indonesia/bandar_lampung/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/indonesia/bandar_lampung/thursday/</guid><description>&lt;h2 id="geographic-information-of-bandar-lampung">Geographic Information of Bandar Lampung&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
@@ -128,59 +180,7 @@ Altitude: 95.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bandar Lampung</title><link>https://astrology.ir/ephemeris/indonesia/bandar_lampung/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/indonesia/bandar_lampung/</guid><description>&lt;h2 id="geographic-information-of-bandar-lampung">Geographic Information of Bandar Lampung&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: -5.4292
--
-Longitude: 105.2611
--
-Altitude: 95.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bandar Lampung, Indonesia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-5.4292', '105.2611');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bandar Lampung Wednesday</title><link>https://astrology.ir/ephemeris/indonesia/bandar_lampung/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/indonesia/bandar_lampung/wednesday/</guid><description>&lt;h2 id="geographic-information-of-bandar-lampung">Geographic Information of Bandar Lampung&lt;/h2>
-&lt;p>TimeZone: +07:00
--
-Latitude: -5.4292
--
-Longitude: 105.2611
--
-Altitude: 95.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bandar Lampung, Indonesia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-5.4292', '105.2611');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bandar Lampung Tuesday</title><link>https://astrology.ir/ephemeris/indonesia/bandar_lampung/tuesday/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0700</pubDate><guid>https://astrology.ir/ephemeris/indonesia/bandar_lampung/tuesday/</guid><description>&lt;h2 id="geographic-information-of-bandar-lampung">Geographic Information of Bandar Lampung&lt;/h2>
 &lt;p>TimeZone: +07:00
 -
 Latitude: -5.4292
