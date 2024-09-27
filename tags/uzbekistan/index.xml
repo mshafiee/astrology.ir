@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Uzbekistan on Astrology</title><link>https://astrology.ir/tags/uzbekistan/</link><description>Recent content in Uzbekistan on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0500</lastBuildDate><atom:link href="https://astrology.ir/tags/uzbekistan/index.xml" rel="self" type="application/rss+xml"/><item><title>Tashkent Tuesday</title><link>https://astrology.ir/ephemeris/uzbekistan/tashkent/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/uzbekistan/tashkent/tuesday/</guid><description>&lt;h2 id="geographic-information-of-tashkent">Geographic Information of Tashkent&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Uzbekistan on Astrology</title><link>https://astrology.ir/tags/uzbekistan/</link><description>Recent content in Uzbekistan on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0500</lastBuildDate><atom:link href="https://astrology.ir/tags/uzbekistan/index.xml" rel="self" type="application/rss+xml"/><item><title>Tashkent Wednesday</title><link>https://astrology.ir/ephemeris/uzbekistan/tashkent/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/uzbekistan/tashkent/wednesday/</guid><description>&lt;h2 id="geographic-information-of-tashkent">Geographic Information of Tashkent&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 41.2647
+-
+Longitude: 69.2163
+-
+Altitude: 424.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Tashkent, Uzbekistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('41.2647', '69.2163');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tashkent Tuesday</title><link>https://astrology.ir/ephemeris/uzbekistan/tashkent/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/uzbekistan/tashkent/tuesday/</guid><description>&lt;h2 id="geographic-information-of-tashkent">Geographic Information of Tashkent&lt;/h2>
 &lt;p>TimeZone: +05:00
 -
 Latitude: 41.2647
@@ -102,6 +128,32 @@ Altitude: 424.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
+&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tashkent</title><link>https://astrology.ir/ephemeris/uzbekistan/tashkent/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/uzbekistan/tashkent/</guid><description>&lt;h2 id="geographic-information-of-tashkent">Geographic Information of Tashkent&lt;/h2>
+&lt;p>TimeZone: +05:00
+-
+Latitude: 41.2647
+-
+Longitude: 69.2163
+-
+Altitude: 424.0000 meters&lt;/p>
+&lt;div class="shortcode shortcode-osm-maps">
+	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
+	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
+	&lt;div id="osm-map">&lt;/div>
+	&lt;script>
+		var element = document.getElementById('osm-map');
+		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
+		var map = L.map(element);
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&lt;div dir="ltr">Tashkent, Uzbekistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
+		}).addTo(map);
+		map.attributionControl.setPrefix(false);
+		var target = L.latLng('41.2647', '69.2163');
+		map.setView(target, "12");
+		L.marker(target).addTo(map);
+	&lt;/script>
+&lt;/div>
+&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tashkent Friday</title><link>https://astrology.ir/ephemeris/uzbekistan/tashkent/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/uzbekistan/tashkent/friday/</guid><description>&lt;h2 id="geographic-information-of-tashkent">Geographic Information of Tashkent&lt;/h2>
 &lt;p>TimeZone: +05:00
 -
@@ -128,59 +180,7 @@ Altitude: 424.0000 meters&lt;/p>
 	&lt;/script>
 &lt;/div>
 &lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tashkent</title><link>https://astrology.ir/ephemeris/uzbekistan/tashkent/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/uzbekistan/tashkent/</guid><description>&lt;h2 id="geographic-information-of-tashkent">Geographic Information of Tashkent&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 41.2647
--
-Longitude: 69.2163
--
-Altitude: 424.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Tashkent, Uzbekistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('41.2647', '69.2163');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
 &lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tashkent Thursday</title><link>https://astrology.ir/ephemeris/uzbekistan/tashkent/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/uzbekistan/tashkent/thursday/</guid><description>&lt;h2 id="geographic-information-of-tashkent">Geographic Information of Tashkent&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 41.2647
--
-Longitude: 69.2163
--
-Altitude: 424.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Tashkent, Uzbekistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('41.2647', '69.2163');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Tashkent Wednesday</title><link>https://astrology.ir/ephemeris/uzbekistan/tashkent/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/uzbekistan/tashkent/wednesday/</guid><description>&lt;h2 id="geographic-information-of-tashkent">Geographic Information of Tashkent&lt;/h2>
 &lt;p>TimeZone: +05:00
 -
 Latitude: 41.2647
