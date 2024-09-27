@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:14:25 |
 | Medium Coeli | 12:14:25 |
 | Sunset | 18:07:21 |
-| Maghrib | 18:12:21 |
+| Maghrib | 18:12:22 |
 | Isha (Night) | 19:34:14 |
 | Sharia Midnight | 23:25:52 |
 | Imum Coeli | 00:14:16 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:14:25 |
 | Medium Coeli | 12:14:25 |
 | Sunset | 18:07:21 |
-| Maghrib | 18:12:21 |
+| Maghrib | 18:12:22 |
 | Isha (Night) | 19:36:50 |
 | Sharia Midnight | 23:29:46 |
 | Imum Coeli | 00:14:16 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|21°13'28.78" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|14°52'46.84" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|8°21'55.47" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|9°40'34.20" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°30'8.42" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|20°29'52.76" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|9°40'36.89" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|8°30'9.63" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|20°30'23.11" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
