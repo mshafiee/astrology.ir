@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:18:59 |
 | Sunset | 18:17:17 |
 | Maghrib | 18:33:39 |
-| Isha (Night) | 19:21:40 |
+| Isha (Night) | 19:21:39 |
 | Sharia Midnight | 23:42:00 |
 | Imum Coeli | 00:18:49 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:18:59 |
 | Sunset | 18:17:17 |
 | Maghrib | 18:36:02 |
-| Isha (Night) | 19:21:40 |
+| Isha (Night) | 19:21:39 |
 | Sharia Midnight | 23:37:53 |
 | Imum Coeli | 00:18:49 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°31'23.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°8'44.71" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|13°33'21.24" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°54'23.34" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|6°38'4.67" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°1'47.48" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|19°28'24.57" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|21°8'45.67" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|13°33'26.26" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|5°54'30.94" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|6°38'7.38" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°1'53.06" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°24'45.98" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Jupiter|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}

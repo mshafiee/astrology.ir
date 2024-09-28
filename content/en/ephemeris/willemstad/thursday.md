@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°36'1.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°6'14.76" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|12°57'21.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°48'24.34" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|5°16'9.23" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|1°59'53.34" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°30'39.97" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|21°6'13.55" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|12°57'17.62" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°48'19.06" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|5°16'7.65" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|1°59'49.36" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|5°49'18.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°36'1.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°6'14.76" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°57'21.89" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|14°36'1.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|21°6'14.49" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°57'21.85" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°48'24.34" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|5°16'9.23" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|1°59'53.34" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|6°30'39.97" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|5°16'9.18" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|1°59'53.32" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|6°30'39.43" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

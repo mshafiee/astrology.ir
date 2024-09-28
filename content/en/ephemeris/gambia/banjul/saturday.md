@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:57:56 |
 | Maghrib | 18:58:51 |
 | Isha (Night) | 19:57:06 |
-| Sharia Midnight | 00:27:05 |
+| Sharia Midnight | 00:27:04 |
 | Imum Coeli | 00:56:35 |
 {{< /tab >}}
 
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|14°32'29.15" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Pre-Retrograde Shadow|21°8'11.05" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|13°24'51.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°38'41.52" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|6°18'34.77" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|3°32'49.91" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|16°26'33.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°38'44.66" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|6°18'34.50" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|3°32'52.29" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|17°7'30.31" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Mars|Mars|Capricorn|Sun|Mars|
+|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}

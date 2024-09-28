@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:50:40 |
 | Medium Coeli | 11:50:40 |
 | Sunset | 17:45:45 |
-| Maghrib | 17:50:23 |
+| Maghrib | 17:50:22 |
 | Isha (Night) | 18:51:21 |
 | Sharia Midnight | 23:17:53 |
 | Imum Coeli | 23:50:31 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°13'38.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°16'17.61" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|14°13'38.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|21°16'17.33" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|15°53'23.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|10°16'31.21" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°2'12.80" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|11°54'57.12" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|13°27'52.01" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|10°16'31.20" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°2'12.75" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|11°54'57.09" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|13°27'51.93" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°13'38.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°16'17.61" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°13'38.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|21°16'17.33" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|15°53'23.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°16'31.21" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|12°2'12.80" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|11°54'57.12" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|13°27'52.01" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|10°16'31.20" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|12°2'12.75" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|11°54'47.63" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|12°6'41.70" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
