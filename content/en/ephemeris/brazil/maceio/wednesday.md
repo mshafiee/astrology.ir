@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 12:12:18|Night duration: 11:47:08|
-|Every hour of day duration: 01:01:01|Every hour of night duration: 00:58:56|
+|Every hour of day duration: 01:01:02|Every hour of night duration: 00:58:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°12'20.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°16'42.44" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|14°12'20.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°16'42.72" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|16°3'54.96" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|10°36'35.40" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°27'0.11" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|12°30'29.93" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|17°19'37.45" |Virgo|Simak|Venus|
+|☉ Sun|Direct|10°36'35.41" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°27'0.16" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|12°30'29.95" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|17°19'37.54" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°12'20.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°16'42.44" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°12'20.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°16'42.72" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|16°3'54.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°36'35.40" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|12°27'0.11" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|12°30'29.93" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|17°19'37.45" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|10°36'35.41" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|12°27'0.16" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|12°30'29.95" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|17°19'37.54" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

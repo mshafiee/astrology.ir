@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°10'6.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Pre-Retrograde Shadow|21°17'21.88" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|14°10'6.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°17'22.17" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|16°21'49.75" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|11°10'51.38" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|13°9'16.49" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|13°30'57.65" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°43'40.98" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|11°10'54.53" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|13°9'21.06" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|13°31'0.12" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|24°10'12.96" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Saturn|Saturn|
 |♀ Venus|Mercury|Jupiter|Saturn|Venus|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Mars|Saturn|Venus|Moon|
+|☾ Moon|Mars|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°10'6.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Pre-Retrograde Shadow|21°17'22.17" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°21'49.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|11°10'54.53" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|13°9'21.06" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|13°31'0.12" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|21°17'22.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°21'51.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|11°10'54.52" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|13°9'20.43" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|13°31'0.05" |Libra|Jubana|Saturn|
 |☾ Moon|Direct|24°10'12.96" |Libra|Jubana|Jupiter|
 
 
