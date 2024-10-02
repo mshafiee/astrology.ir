@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Saturn|Servant|23:51:07|00:51:37|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|00:51:38|01:52:07|Extremely auspicious and attracts happiness|
 |9|Mars|Servant|01:52:08|02:52:38|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|02:52:39|03:53:08|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Sun|Servant|02:52:39|03:53:08|Attracting happiness, solving financial problems|
 |11|Venus|Servant|03:53:09|04:53:39|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|04:53:40|05:54:10|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°1'50.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°19'15.11" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°29'2.41" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|13°21'13.59" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|15°49'57.73" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|17°18'1.01" |Virgo|Simak|Venus|
-|☾ Moon|Direct|20°19'28.66" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|14°1'50.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°19'14.81" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°29'2.42" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|13°21'13.57" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|15°49'57.67" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|17°18'0.98" |Virgo|Simak|Venus|
+|☾ Moon|Direct|20°19'29.11" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°1'50.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°19'15.39" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°29'3.84" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|13°21'11.34" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|15°49'55.48" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|17°17'59.30" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|20°1'55.17" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|14°1'50.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°19'14.81" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°29'2.42" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|13°21'13.57" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|15°49'57.67" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|17°18'0.98" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|20°19'29.11" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

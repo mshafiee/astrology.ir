@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°4'54.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°18'39.08" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°3'52.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|12°32'9.08" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|14°49'30.52" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|15°53'1.26" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|10°29'8.58" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|14°4'55.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°18'38.00" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°3'45.12" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|12°31'56.72" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|14°49'26.05" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|15°52'52.96" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|9°41'30.74" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Saturn|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Aquarius|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Pisces|Sun|Venus|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|21°18'39.08" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|17°3'52.63" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|12°32'9.08" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|14°49'31.09" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|15°53'0.40" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|10°30'7.31" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|14°49'30.58" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|15°53'1.29" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|10°29'8.30" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

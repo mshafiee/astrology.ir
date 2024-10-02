@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:26:01 |
+| Fajr (Dawn) | 04:26:02 |
 | Sunrise | 05:44:45 |
 | Dhuhr (Noon) | 11:56:07 |
 | Medium Coeli | 11:56:07 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:26:01 |
+| Fajr (Dawn) | 04:26:02 |
 | Sunrise | 05:44:45 |
 | Dhuhr (Noon) | 11:56:07 |
 | Medium Coeli | 11:56:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°13'2.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°16'29.69" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|14°13'2.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|21°16'29.40" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|15°58'18.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|10°25'52.08" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°13'47.04" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|12°11'33.77" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|15°1'59.96" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|10°25'52.07" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°13'46.98" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|12°11'33.75" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|15°1'59.87" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°13'2.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°16'29.69" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°13'2.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°16'29.40" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|15°58'18.76" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|10°25'52.08" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|12°13'47.04" |Scorpio|Qalb|Sun|
