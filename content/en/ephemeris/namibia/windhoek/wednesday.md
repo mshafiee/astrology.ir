@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°16'48.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°15'12.92" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|15°28'14.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|9°28'43.39" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|11°3'12.41" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|10°29'59.18" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°40'11.86" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|21°15'11.19" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|15°28'7.77" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|9°28'40.66" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°3'13.95" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|10°29'57.43" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°16'28.72" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°16'48.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°15'10.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°28'7.62" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|9°28'40.52" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°3'13.88" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|10°29'57.31" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|3°15'30.98" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|21°15'12.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°28'14.65" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|9°28'43.39" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°3'12.41" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|10°29'59.18" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|3°40'11.86" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

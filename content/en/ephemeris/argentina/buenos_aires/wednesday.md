@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°12'7.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°16'46.87" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|16°5'39.07" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|10°39'52.21" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°31'4.73" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|12°36'20.55" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|17°42'57.25" |Virgo|Simak|Venus|
+|♃ Jupiter|Retrograde|21°16'46.58" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|16°5'40.34" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|10°39'56.13" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°31'6.67" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|12°36'23.28" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°6'2.79" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Saturn|Saturn|
 |♀ Venus|Mercury|Jupiter|Saturn|Venus|
 |☿ Mercury|Venus|Venus|Saturn|Saturn|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°12'7.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°16'46.87" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°12'7.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°16'46.58" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|16°5'39.07" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°39'52.21" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|12°31'4.73" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|12°36'20.55" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|17°42'57.25" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|10°39'52.20" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|12°31'4.67" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|12°36'20.53" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|17°42'57.16" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

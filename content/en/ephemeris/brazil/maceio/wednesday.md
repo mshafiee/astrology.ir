@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 12:12:18|Night duration: 11:47:08|
-|Every hour of day duration: 01:01:02|Every hour of night duration: 00:58:56|
+|Every hour of day duration: 01:01:01|Every hour of night duration: 00:58:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°12'20.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°16'42.72" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Retrograde|21°16'42.72" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|16°3'54.96" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|10°36'35.41" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|12°27'0.16" |Libra|Ghafr|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°12'20.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°16'43.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°3'56.39" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°36'34.39" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|12°26'58.79" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|12°30'29.17" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|17°12'30.79" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|21°16'42.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°3'54.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|10°36'35.41" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|12°27'0.16" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|12°30'29.95" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|17°19'37.54" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

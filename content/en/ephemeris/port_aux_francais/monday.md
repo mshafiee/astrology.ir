@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°58'33.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°19'45.11" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Retrograde|21°19'45.11" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|17°56'14.89" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|14°14'36.56" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|16°55'44.08" |Libra|Jubana|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°58'33.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°19'46.30" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°56'17.38" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°14'28.89" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|16°55'37.80" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|18°49'48.22" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|29°51'46.38" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|21°19'44.64" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°56'10.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°14'26.32" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|16°55'39.61" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|18°49'46.97" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|0°15'42.10" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

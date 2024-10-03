@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:55:05 |
 | Sunset | 17:45:58 |
 | Maghrib | 17:51:09 |
-| Isha (Night) | 19:06:02 |
+| Isha (Night) | 19:06:03 |
 | Sharia Midnight | 23:12:39 |
 | Imum Coeli | 23:54:56 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°9'23.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°17'34.00" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Retrograde|21°17'34.00" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|16°27'38.41" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|11°22'5.75" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|13°23'8.42" |Libra|Jubana|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°9'23.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°17'34.00" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|21°17'34.00" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|16°27'38.41" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|11°22'5.75" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|13°23'8.42" |Scorpio|Qalb|Sun|

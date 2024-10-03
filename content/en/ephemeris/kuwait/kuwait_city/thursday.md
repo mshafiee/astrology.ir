@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:42:18 |
 | Dhuhr (Noon) | 11:36:59 |
 | Medium Coeli | 11:36:59 |
-| Sunset | 17:31:13 |
+| Sunset | 17:31:14 |
 | Maghrib | 17:49:06 |
 | Isha (Night) | 18:32:41 |
-| Sharia Midnight | 22:57:45 |
+| Sharia Midnight | 22:57:46 |
 | Imum Coeli | 23:36:49 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:42:18 |
 | Dhuhr (Noon) | 11:36:59 |
 | Medium Coeli | 11:36:59 |
-| Sunset | 17:31:13 |
+| Sunset | 17:31:14 |
 | Maghrib | 17:32:15 |
 | Isha (Night) | 18:48:46 |
-| Sharia Midnight | 22:53:36 |
+| Sharia Midnight | 22:53:37 |
 | Imum Coeli | 23:36:49 |
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°13'12.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|21°16'26.27" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Retrograde|21°16'26.27" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|15°56'58.42" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|10°23'21.32" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|12°10'39.13" |Libra|Ghafr|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°13'12.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°16'26.27" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|21°16'26.27" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|15°56'58.42" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|10°23'21.32" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|12°10'39.13" |Scorpio|Qalb|Sun|
