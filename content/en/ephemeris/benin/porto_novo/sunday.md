@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Mercury|Servant|22:37:47|23:37:35|Separation, vengeful and hostile deeds|
 |6|Moon|Servant|23:37:36|00:37:25|Suitable for all good deeds|
 |7|Saturn|Servant|00:37:26|01:37:14|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:37:15|02:37:04|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Jupiter|Ruler|01:37:15|02:37:04|Extremely auspicious and attracts happiness|
 |9|Mars|Servant|02:37:05|03:36:53|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:36:54|04:36:43|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|04:36:44|05:36:32|The moon is in Scorpio, Not suitable for doing anything.|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°1'25.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°19'19.08" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°32'26.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|13°27'53.86" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|15°58'10.73" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|21°19'19.37" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°32'26.97" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|13°27'53.88" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|15°58'10.78" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|17°29'31.81" |Libra|Jubana|Saturn|
 |☾ Moon|Direct|21°38'35.11" |Scorpio|Shaulah|Venus|
 

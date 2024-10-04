@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:11:39 |
+| Fajr (Dawn) | 05:11:38 |
 | Sunrise | 06:14:36 |
 | Dhuhr (Noon) | 12:07:50 |
 | Medium Coeli | 12:07:50 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°54'56.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°20'5.73" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°26'19.61" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|15°14'19.42" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|18°9'7.05" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|20°31'37.84" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|13°18'36.86" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|21°20'5.83" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|18°26'19.99" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|15°14'19.22" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|18°9'6.73" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|20°31'37.67" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|13°15'20.89" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°54'56.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°20'6.03" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°26'19.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|15°14'19.43" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|18°9'7.10" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°31'37.87" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|13°15'20.89" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|13°54'55.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°20'5.73" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°26'19.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|15°14'19.42" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|18°9'7.05" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°31'37.84" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|13°18'36.86" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

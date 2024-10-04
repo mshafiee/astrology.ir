@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:17:53 |
+| Fajr (Dawn) | 05:17:54 |
 | Sunrise | 06:30:20 |
 | Dhuhr (Noon) | 12:26:12 |
 | Medium Coeli | 12:26:12 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°58'28.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|13°58'28.90" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°19'45.14" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|17°56'46.78" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|14°15'44.80" |Virgo|Awwa|Venus|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|21°19'45.14" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|17°56'46.78" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|14°15'44.80" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|16°57'4.46" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|18°51'44.48" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|1°22'5.39" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°57'4.33" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|18°51'44.49" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|1°20'14.86" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
