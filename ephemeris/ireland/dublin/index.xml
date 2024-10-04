@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dublin on Astrology</title><link>https://astrology.ir/ephemeris/ireland/dublin/</link><description>Recent content in Dublin on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/ireland/dublin/index.xml" rel="self" type="application/rss+xml"/><item><title>Dublin Wednesday</title><link>https://astrology.ir/ephemeris/ireland/dublin/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/wednesday/</guid><description>&lt;h2 id="geographic-information-of-dublin">Geographic Information of Dublin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 53.3331
--
-Longitude: -6.2489
--
-Altitude: 17.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dublin, Ireland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.3331', '-6.2489');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dublin Tuesday</title><link>https://astrology.ir/ephemeris/ireland/dublin/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/tuesday/</guid><description>&lt;h2 id="geographic-information-of-dublin">Geographic Information of Dublin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 53.3331
--
-Longitude: -6.2489
--
-Altitude: 17.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dublin, Ireland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.3331', '-6.2489');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dublin Monday</title><link>https://astrology.ir/ephemeris/ireland/dublin/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/monday/</guid><description>&lt;h2 id="geographic-information-of-dublin">Geographic Information of Dublin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 53.3331
--
-Longitude: -6.2489
--
-Altitude: 17.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dublin, Ireland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.3331', '-6.2489');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dublin Sunday</title><link>https://astrology.ir/ephemeris/ireland/dublin/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/sunday/</guid><description>&lt;h2 id="geographic-information-of-dublin">Geographic Information of Dublin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 53.3331
--
-Longitude: -6.2489
--
-Altitude: 17.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dublin, Ireland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.3331', '-6.2489');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dublin Saturday</title><link>https://astrology.ir/ephemeris/ireland/dublin/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/saturday/</guid><description>&lt;h2 id="geographic-information-of-dublin">Geographic Information of Dublin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 53.3331
--
-Longitude: -6.2489
--
-Altitude: 17.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dublin, Ireland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.3331', '-6.2489');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dublin Friday</title><link>https://astrology.ir/ephemeris/ireland/dublin/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/friday/</guid><description>&lt;h2 id="geographic-information-of-dublin">Geographic Information of Dublin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 53.3331
--
-Longitude: -6.2489
--
-Altitude: 17.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dublin, Ireland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.3331', '-6.2489');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dublin Thursday</title><link>https://astrology.ir/ephemeris/ireland/dublin/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/thursday/</guid><description>&lt;h2 id="geographic-information-of-dublin">Geographic Information of Dublin&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 53.3331
--
-Longitude: -6.2489
--
-Altitude: 17.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dublin, Ireland | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.3331', '-6.2489');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dublin on Astrology</title><link>https://astrology.ir/ephemeris/ireland/dublin/</link><description>Recent content in Dublin on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/ireland/dublin/index.xml" rel="self" type="application/rss+xml"/><item><title>Dublin Wednesday</title><link>https://astrology.ir/ephemeris/ireland/dublin/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/wednesday/</guid><description>Geographic Information of Dublin TimeZone: +01:00 - Latitude: 53.3331 - Longitude: -6.2489 - Altitude: 17.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:57:29 Sunrise 07:41:17 Dhuhr (Noon) 13:12:06 Medium Coeli 13:12:06 Sunset 18:41:59 Maghrib 19:04:51 Isha (Night) 20:11:54 Sharia Midnight 00:20:38 Imum Coeli 01:11:58 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dublin Tuesday</title><link>https://astrology.ir/ephemeris/ireland/dublin/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/tuesday/</guid><description>Geographic Information of Dublin TimeZone: +01:00 - Latitude: 53.3331 - Longitude: -6.2489 - Altitude: 17.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:55:39 Sunrise 07:39:29 Dhuhr (Noon) 13:12:23 Medium Coeli 13:12:23 Sunset 18:44:19 Maghrib 19:07:10 Isha (Night) 20:14:14 Sharia Midnight 00:20:54 Imum Coeli 01:12:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dublin Monday</title><link>https://astrology.ir/ephemeris/ireland/dublin/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/monday/</guid><description>Geographic Information of Dublin TimeZone: +01:00 - Latitude: 53.3331 - Longitude: -6.2489 - Altitude: 17.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:53:49 Sunrise 07:37:40 Dhuhr (Noon) 13:12:39 Medium Coeli 13:12:39 Sunset 18:46:40 Maghrib 19:09:29 Isha (Night) 20:16:35 Sharia Midnight 00:21:09 Imum Coeli 01:12:31 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dublin Sunday</title><link>https://astrology.ir/ephemeris/ireland/dublin/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/sunday/</guid><description>Geographic Information of Dublin TimeZone: +01:00 - Latitude: 53.3331 - Longitude: -6.2489 - Altitude: 17.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:51:58 Sunrise 07:35:53 Dhuhr (Noon) 13:12:57 Medium Coeli 13:12:57 Sunset 18:49:02 Maghrib 19:11:49 Isha (Night) 20:18:58 Sharia Midnight 00:21:25 Imum Coeli 01:12:48 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dublin Saturday</title><link>https://astrology.ir/ephemeris/ireland/dublin/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/saturday/</guid><description>Geographic Information of Dublin TimeZone: +01:00 - Latitude: 53.3331 - Longitude: -6.2489 - Altitude: 17.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:50:07 Sunrise 07:34:05 Dhuhr (Noon) 13:13:14 Medium Coeli 13:13:14 Sunset 18:51:24 Maghrib 19:14:10 Isha (Night) 20:21:21 Sharia Midnight 00:21:41 Imum Coeli 01:13:05 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dublin Friday</title><link>https://astrology.ir/ephemeris/ireland/dublin/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/friday/</guid><description>Geographic Information of Dublin TimeZone: +01:00 - Latitude: 53.3331 - Longitude: -6.2489 - Altitude: 17.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:15 Sunrise 07:32:18 Dhuhr (Noon) 13:13:32 Medium Coeli 13:13:32 Sunset 18:53:47 Maghrib 19:16:31 Isha (Night) 20:23:46 Sharia Midnight 00:21:57 Imum Coeli 01:13:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dublin Thursday</title><link>https://astrology.ir/ephemeris/ireland/dublin/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/ireland/dublin/thursday/</guid><description>Geographic Information of Dublin TimeZone: +01:00 - Latitude: 53.3331 - Longitude: -6.2489 - Altitude: 17.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:46:22 Sunrise 07:30:31 Dhuhr (Noon) 13:13:50 Medium Coeli 13:13:50 Sunset 18:56:10 Maghrib 19:18:53 Isha (Night) 20:26:12 Sharia Midnight 00:22:12 Imum Coeli 01:13:41 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

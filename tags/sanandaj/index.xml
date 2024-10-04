@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sanandaj on Astrology</title><link>https://astrology.ir/tags/sanandaj/</link><description>Recent content in Sanandaj on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/sanandaj/index.xml" rel="self" type="application/rss+xml"/><item><title>Sanandaj Wednesday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/wednesday/</guid><description>&lt;h2 id="geographic-information-of-sanandaj">Geographic Information of Sanandaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.3150
--
-Longitude: 46.9988
--
-Altitude: 1,494.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sanandaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.3150', '46.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sanandaj Tuesday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/tuesday/</guid><description>&lt;h2 id="geographic-information-of-sanandaj">Geographic Information of Sanandaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.3150
--
-Longitude: 46.9988
--
-Altitude: 1,494.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sanandaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.3150', '46.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sanandaj Monday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/monday/</guid><description>&lt;h2 id="geographic-information-of-sanandaj">Geographic Information of Sanandaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.3150
--
-Longitude: 46.9988
--
-Altitude: 1,494.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sanandaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.3150', '46.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sanandaj Sunday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/sunday/</guid><description>&lt;h2 id="geographic-information-of-sanandaj">Geographic Information of Sanandaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.3150
--
-Longitude: 46.9988
--
-Altitude: 1,494.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sanandaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.3150', '46.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sanandaj Saturday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/saturday/</guid><description>&lt;h2 id="geographic-information-of-sanandaj">Geographic Information of Sanandaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.3150
--
-Longitude: 46.9988
--
-Altitude: 1,494.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sanandaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.3150', '46.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sanandaj</title><link>https://astrology.ir/ephemeris/iran/sanandaj/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/</guid><description>&lt;h2 id="geographic-information-of-sanandaj">Geographic Information of Sanandaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.3150
--
-Longitude: 46.9988
--
-Altitude: 1,494.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sanandaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.3150', '46.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sanandaj Friday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/friday/</guid><description>&lt;h2 id="geographic-information-of-sanandaj">Geographic Information of Sanandaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.3150
--
-Longitude: 46.9988
--
-Altitude: 1,494.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sanandaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.3150', '46.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sanandaj Thursday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/thursday/</guid><description>&lt;h2 id="geographic-information-of-sanandaj">Geographic Information of Sanandaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.3150
--
-Longitude: 46.9988
--
-Altitude: 1,494.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sanandaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.3150', '46.9988');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sanandaj on Astrology</title><link>https://astrology.ir/tags/sanandaj/</link><description>Recent content in Sanandaj on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/sanandaj/index.xml" rel="self" type="application/rss+xml"/><item><title>Sanandaj Wednesday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/wednesday/</guid><description>Geographic Information of Sanandaj TimeZone: +03:30 - Latitude: 35.3150 - Longitude: 46.9988 - Altitude: 1,494.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:32 Sunrise 06:23:42 Dhuhr (Noon) 12:09:09 Medium Coeli 12:09:09 Sunset 17:54:05 Maghrib 18:11:19 Isha (Night) 19:00:21 Sharia Midnight 23:31:12 Imum Coeli 00:09:01 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sanandaj Tuesday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/tuesday/</guid><description>Geographic Information of Sanandaj TimeZone: +03:30 - Latitude: 35.3150 - Longitude: 46.9988 - Altitude: 1,494.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:44 Sunrise 06:22:53 Dhuhr (Noon) 12:09:26 Medium Coeli 12:09:26 Sunset 17:55:27 Maghrib 18:12:40 Isha (Night) 19:01:41 Sharia Midnight 23:31:29 Imum Coeli 00:09:17 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sanandaj Monday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/monday/</guid><description>Geographic Information of Sanandaj TimeZone: +03:30 - Latitude: 35.3150 - Longitude: 46.9988 - Altitude: 1,494.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:56 Sunrise 06:22:04 Dhuhr (Noon) 12:09:43 Medium Coeli 12:09:43 Sunset 17:56:49 Maghrib 18:14:01 Isha (Night) 19:03:02 Sharia Midnight 23:31:46 Imum Coeli 00:09:34 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sanandaj Sunday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/sunday/</guid><description>Geographic Information of Sanandaj TimeZone: +03:30 - Latitude: 35.3150 - Longitude: 46.9988 - Altitude: 1,494.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:08 Sunrise 06:21:16 Dhuhr (Noon) 12:10:00 Medium Coeli 12:10:00 Sunset 17:58:11 Maghrib 18:15:23 Isha (Night) 19:04:23 Sharia Midnight 23:32:03 Imum Coeli 00:09:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sanandaj Saturday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/saturday/</guid><description>Geographic Information of Sanandaj TimeZone: +03:30 - Latitude: 35.3150 - Longitude: 46.9988 - Altitude: 1,494.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:04:20 Sunrise 06:20:28 Dhuhr (Noon) 12:10:17 Medium Coeli 12:10:17 Sunset 17:59:35 Maghrib 18:16:45 Isha (Night) 19:05:46 Sharia Midnight 23:32:21 Imum Coeli 00:10:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sanandaj</title><link>https://astrology.ir/ephemeris/iran/sanandaj/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/</guid><description>Geographic Information of Sanandaj TimeZone: +03:30 - Latitude: 35.3150 - Longitude: 46.9988 - Altitude: 1,494.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:03:32 Sunrise 06:19:40 Dhuhr (Noon) 12:10:35 Medium Coeli 12:10:35 Sunset 18:00:58 Maghrib 18:18:08 Isha (Night) 19:07:09 Sharia Midnight 23:32:39 Imum Coeli 00:10:26 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sanandaj Friday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/friday/</guid><description>Geographic Information of Sanandaj TimeZone: +03:30 - Latitude: 35.3150 - Longitude: 46.9988 - Altitude: 1,494.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:03:32 Sunrise 06:19:40 Dhuhr (Noon) 12:10:35 Medium Coeli 12:10:35 Sunset 18:00:58 Maghrib 18:18:08 Isha (Night) 19:07:09 Sharia Midnight 23:32:39 Imum Coeli 00:10:26 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sanandaj Thursday</title><link>https://astrology.ir/ephemeris/iran/sanandaj/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/sanandaj/thursday/</guid><description>Geographic Information of Sanandaj TimeZone: +03:30 - Latitude: 35.3150 - Longitude: 46.9988 - Altitude: 1,494.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:02:44 Sunrise 06:18:53 Dhuhr (Noon) 12:10:54 Medium Coeli 12:10:54 Sunset 18:02:22 Maghrib 18:19:32 Isha (Night) 19:08:33 Sharia Midnight 23:32:57 Imum Coeli 00:10:44 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

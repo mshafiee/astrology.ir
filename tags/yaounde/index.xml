@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yaounde on Astrology</title><link>https://astrology.ir/tags/yaounde/</link><description>Recent content in Yaounde on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/yaounde/index.xml" rel="self" type="application/rss+xml"/><item><title>Yaounde Wednesday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/wednesday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Tuesday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/tuesday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Monday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/monday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Sunday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/sunday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Saturday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/saturday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Friday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/friday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaounde Thursday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/thursday/</guid><description>&lt;h2 id="geographic-information-of-yaounde">Geographic Information of Yaounde&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 3.8667
--
-Longitude: 11.5167
--
-Altitude: 726.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaounde, Cameroon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('3.8667', '11.5167');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yaounde on Astrology</title><link>https://astrology.ir/tags/yaounde/</link><description>Recent content in Yaounde on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/tags/yaounde/index.xml" rel="self" type="application/rss+xml"/><item><title>Yaounde Wednesday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/wednesday/</guid><description>Geographic Information of Yaounde TimeZone: +01:00 - Latitude: 3.8667 - Longitude: 11.5167 - Altitude: 726.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:19 Sunrise 05:59:34 Dhuhr (Noon) 12:01:03 Medium Coeli 12:01:03 Sunset 18:02:30 Maghrib 18:16:23 Isha (Night) 18:56:42 Sharia Midnight 23:29:48 Imum Coeli 00:00:55 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaounde Tuesday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/tuesday/</guid><description>Geographic Information of Yaounde TimeZone: +01:00 - Latitude: 3.8667 - Longitude: 11.5167 - Altitude: 726.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:32 Sunrise 05:59:44 Dhuhr (Noon) 12:01:20 Medium Coeli 12:01:20 Sunset 18:02:52 Maghrib 18:16:45 Isha (Night) 18:57:02 Sharia Midnight 23:30:05 Imum Coeli 00:01:11 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaounde Monday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/monday/</guid><description>Geographic Information of Yaounde TimeZone: +01:00 - Latitude: 3.8667 - Longitude: 11.5167 - Altitude: 726.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:45 Sunrise 05:59:55 Dhuhr (Noon) 12:01:37 Medium Coeli 12:01:37 Sunset 18:03:15 Maghrib 18:17:07 Isha (Night) 18:57:23 Sharia Midnight 23:30:23 Imum Coeli 00:01:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaounde Sunday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/sunday/</guid><description>Geographic Information of Yaounde TimeZone: +01:00 - Latitude: 3.8667 - Longitude: 11.5167 - Altitude: 726.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:59 Sunrise 06:00:06 Dhuhr (Noon) 12:01:54 Medium Coeli 12:01:54 Sunset 18:03:38 Maghrib 18:17:30 Isha (Night) 18:57:44 Sharia Midnight 23:30:41 Imum Coeli 00:01:45 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaounde Saturday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/saturday/</guid><description>Geographic Information of Yaounde TimeZone: +01:00 - Latitude: 3.8667 - Longitude: 11.5167 - Altitude: 726.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:12 Sunrise 06:00:18 Dhuhr (Noon) 12:02:11 Medium Coeli 12:02:11 Sunset 18:04:02 Maghrib 18:17:53 Isha (Night) 18:58:06 Sharia Midnight 23:31:00 Imum Coeli 00:02:02 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaounde</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/</guid><description>Geographic Information of Yaounde TimeZone: +01:00 - Latitude: 3.8667 - Longitude: 11.5167 - Altitude: 726.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:26 Sunrise 06:00:29 Dhuhr (Noon) 12:02:29 Medium Coeli 12:02:29 Sunset 18:04:26 Maghrib 18:18:17 Isha (Night) 18:58:28 Sharia Midnight 23:31:19 Imum Coeli 00:02:20 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaounde Friday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/friday/</guid><description>Geographic Information of Yaounde TimeZone: +01:00 - Latitude: 3.8667 - Longitude: 11.5167 - Altitude: 726.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:26 Sunrise 06:00:29 Dhuhr (Noon) 12:02:29 Medium Coeli 12:02:29 Sunset 18:04:26 Maghrib 18:18:17 Isha (Night) 18:58:28 Sharia Midnight 23:31:19 Imum Coeli 00:02:20 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaounde Thursday</title><link>https://astrology.ir/ephemeris/cameroon/yaounde/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/cameroon/yaounde/thursday/</guid><description>Geographic Information of Yaounde TimeZone: +01:00 - Latitude: 3.8667 - Longitude: 11.5167 - Altitude: 726.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:40 Sunrise 06:00:42 Dhuhr (Noon) 12:02:48 Medium Coeli 12:02:48 Sunset 18:04:50 Maghrib 18:18:41 Isha (Night) 18:58:51 Sharia Midnight 23:31:38 Imum Coeli 00:02:38 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

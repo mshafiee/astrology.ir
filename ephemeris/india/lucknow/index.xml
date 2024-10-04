@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucknow on Astrology</title><link>https://astrology.ir/ephemeris/india/lucknow/</link><description>Recent content in Lucknow on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/india/lucknow/index.xml" rel="self" type="application/rss+xml"/><item><title>Lucknow Wednesday</title><link>https://astrology.ir/ephemeris/india/lucknow/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/wednesday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Tuesday</title><link>https://astrology.ir/ephemeris/india/lucknow/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/tuesday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Monday</title><link>https://astrology.ir/ephemeris/india/lucknow/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/monday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Sunday</title><link>https://astrology.ir/ephemeris/india/lucknow/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/sunday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Saturday</title><link>https://astrology.ir/ephemeris/india/lucknow/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/saturday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Friday</title><link>https://astrology.ir/ephemeris/india/lucknow/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/friday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lucknow Thursday</title><link>https://astrology.ir/ephemeris/india/lucknow/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/thursday/</guid><description>&lt;h2 id="geographic-information-of-lucknow">Geographic Information of Lucknow&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 26.8393
--
-Longitude: 80.9231
--
-Altitude: 126.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lucknow, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('26.8393', '80.9231');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucknow on Astrology</title><link>https://astrology.ir/ephemeris/india/lucknow/</link><description>Recent content in Lucknow on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/india/lucknow/index.xml" rel="self" type="application/rss+xml"/><item><title>Lucknow Wednesday</title><link>https://astrology.ir/ephemeris/india/lucknow/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/wednesday/</guid><description>Geographic Information of Lucknow TimeZone: +05:30 - Latitude: 26.8393 - Longitude: 80.9231 - Altitude: 126.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:25 Sunrise 06:02:36 Dhuhr (Noon) 11:53:29 Medium Coeli 11:53:29 Sunset 17:43:59 Maghrib 17:59:18 Isha (Night) 18:44:09 Sharia Midnight 23:18:56 Imum Coeli 23:53:21 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lucknow Tuesday</title><link>https://astrology.ir/ephemeris/india/lucknow/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/tuesday/</guid><description>Geographic Information of Lucknow TimeZone: +05:30 - Latitude: 26.8393 - Longitude: 80.9231 - Altitude: 126.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:56 Sunrise 06:02:06 Dhuhr (Noon) 11:53:45 Medium Coeli 11:53:45 Sunset 17:45:02 Maghrib 18:00:20 Isha (Night) 18:45:10 Sharia Midnight 23:19:13 Imum Coeli 23:53:37 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lucknow Monday</title><link>https://astrology.ir/ephemeris/india/lucknow/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/monday/</guid><description>Geographic Information of Lucknow TimeZone: +05:30 - Latitude: 26.8393 - Longitude: 80.9231 - Altitude: 126.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:28 Sunrise 06:01:36 Dhuhr (Noon) 11:54:02 Medium Coeli 11:54:02 Sunset 17:46:05 Maghrib 18:01:22 Isha (Night) 18:46:12 Sharia Midnight 23:19:30 Imum Coeli 23:53:54 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lucknow Sunday</title><link>https://astrology.ir/ephemeris/india/lucknow/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/sunday/</guid><description>Geographic Information of Lucknow TimeZone: +05:30 - Latitude: 26.8393 - Longitude: 80.9231 - Altitude: 126.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:59 Sunrise 06:01:07 Dhuhr (Noon) 11:54:20 Medium Coeli 11:54:20 Sunset 17:47:09 Maghrib 18:02:26 Isha (Night) 18:47:15 Sharia Midnight 23:19:48 Imum Coeli 23:54:11 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lucknow Saturday</title><link>https://astrology.ir/ephemeris/india/lucknow/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/saturday/</guid><description>Geographic Information of Lucknow TimeZone: +05:30 - Latitude: 26.8393 - Longitude: 80.9231 - Altitude: 126.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:31 Sunrise 06:00:38 Dhuhr (Noon) 11:54:37 Medium Coeli 11:54:37 Sunset 17:48:13 Maghrib 18:03:29 Isha (Night) 18:48:18 Sharia Midnight 23:20:06 Imum Coeli 23:54:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lucknow Friday</title><link>https://astrology.ir/ephemeris/india/lucknow/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/friday/</guid><description>Geographic Information of Lucknow TimeZone: +05:30 - Latitude: 26.8393 - Longitude: 80.9231 - Altitude: 126.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:03 Sunrise 06:00:09 Dhuhr (Noon) 11:54:55 Medium Coeli 11:54:55 Sunset 17:49:18 Maghrib 18:04:34 Isha (Night) 18:49:22 Sharia Midnight 23:20:24 Imum Coeli 23:54:46 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lucknow Thursday</title><link>https://astrology.ir/ephemeris/india/lucknow/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/lucknow/thursday/</guid><description>Geographic Information of Lucknow TimeZone: +05:30 - Latitude: 26.8393 - Longitude: 80.9231 - Altitude: 126.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:34 Sunrise 05:59:41 Dhuhr (Noon) 11:55:14 Medium Coeli 11:55:14 Sunset 17:50:23 Maghrib 18:05:38 Isha (Night) 18:50:27 Sharia Midnight 23:20:43 Imum Coeli 23:55:04 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

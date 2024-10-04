@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saint Pierre and Miquelon on Astrology</title><link>https://astrology.ir/tags/saint-pierre-and-miquelon/</link><description>Recent content in Saint Pierre and Miquelon on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0200</lastBuildDate><atom:link href="https://astrology.ir/tags/saint-pierre-and-miquelon/index.xml" rel="self" type="application/rss+xml"/><item><title>SaintPierre Tuesday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/tuesday/</guid><description>&lt;h2 id="geographic-information-of-saintpierre">Geographic Information of SaintPierre&lt;/h2>
-&lt;p>TimeZone: -02:00
--
-Latitude: 46.7791
--
-Longitude: -56.1773
--
-Altitude: 30.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint-Pierre, Saint Pierre and Miquelon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.7791', '-56.1773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>SaintPierre Monday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/monday/</guid><description>&lt;h2 id="geographic-information-of-saintpierre">Geographic Information of SaintPierre&lt;/h2>
-&lt;p>TimeZone: -02:00
--
-Latitude: 46.7791
--
-Longitude: -56.1773
--
-Altitude: 30.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint-Pierre, Saint Pierre and Miquelon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.7791', '-56.1773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>SaintPierre Sunday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/sunday/</guid><description>&lt;h2 id="geographic-information-of-saintpierre">Geographic Information of SaintPierre&lt;/h2>
-&lt;p>TimeZone: -02:00
--
-Latitude: 46.7791
--
-Longitude: -56.1773
--
-Altitude: 30.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint-Pierre, Saint Pierre and Miquelon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.7791', '-56.1773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>SaintPierre Saturday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/saturday/</guid><description>&lt;h2 id="geographic-information-of-saintpierre">Geographic Information of SaintPierre&lt;/h2>
-&lt;p>TimeZone: -02:00
--
-Latitude: 46.7791
--
-Longitude: -56.1773
--
-Altitude: 30.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint-Pierre, Saint Pierre and Miquelon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.7791', '-56.1773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>SaintPierre Friday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/friday/</guid><description>&lt;h2 id="geographic-information-of-saintpierre">Geographic Information of SaintPierre&lt;/h2>
-&lt;p>TimeZone: -02:00
--
-Latitude: 46.7791
--
-Longitude: -56.1773
--
-Altitude: 30.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint-Pierre, Saint Pierre and Miquelon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.7791', '-56.1773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>SaintPierre</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/</guid><description>&lt;h2 id="geographic-information-of-saintpierre">Geographic Information of SaintPierre&lt;/h2>
-&lt;p>TimeZone: -02:00
--
-Latitude: 46.7791
--
-Longitude: -56.1773
--
-Altitude: 30.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint-Pierre, Saint Pierre and Miquelon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.7791', '-56.1773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>SaintPierre Thursday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/thursday/</guid><description>&lt;h2 id="geographic-information-of-saintpierre">Geographic Information of SaintPierre&lt;/h2>
-&lt;p>TimeZone: -02:00
--
-Latitude: 46.7791
--
-Longitude: -56.1773
--
-Altitude: 30.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint-Pierre, Saint Pierre and Miquelon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.7791', '-56.1773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>SaintPierre Wednesday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/wednesday/</guid><description>&lt;h2 id="geographic-information-of-saintpierre">Geographic Information of SaintPierre&lt;/h2>
-&lt;p>TimeZone: -02:00
--
-Latitude: 46.7791
--
-Longitude: -56.1773
--
-Altitude: 30.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint-Pierre, Saint Pierre and Miquelon | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('46.7791', '-56.1773');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saint Pierre and Miquelon on Astrology</title><link>https://astrology.ir/tags/saint-pierre-and-miquelon/</link><description>Recent content in Saint Pierre and Miquelon on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0200</lastBuildDate><atom:link href="https://astrology.ir/tags/saint-pierre-and-miquelon/index.xml" rel="self" type="application/rss+xml"/><item><title>SaintPierre Tuesday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/tuesday/</guid><description>Geographic Information of SaintPierre TimeZone: -02:00 - Latitude: 46.7791 - Longitude: -56.1773 - Altitude: 30.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:22:59 Sunrise 07:53:16 Dhuhr (Noon) 13:32:03 Medium Coeli 13:32:03 Sunset 19:10:04 Maghrib 19:29:58 Isha (Night) 20:28:24 Sharia Midnight 00:47:12 Imum Coeli 01:31:55 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>SaintPierre Monday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/monday/</guid><description>Geographic Information of SaintPierre TimeZone: -02:00 - Latitude: 46.7791 - Longitude: -56.1773 - Altitude: 30.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:21:36 Sunrise 07:51:54 Dhuhr (Noon) 13:32:20 Medium Coeli 13:32:20 Sunset 19:11:59 Maghrib 19:31:52 Isha (Night) 20:30:18 Sharia Midnight 00:47:29 Imum Coeli 01:32:11 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>SaintPierre Sunday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/sunday/</guid><description>Geographic Information of SaintPierre TimeZone: -02:00 - Latitude: 46.7791 - Longitude: -56.1773 - Altitude: 30.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:20:14 Sunrise 07:50:33 Dhuhr (Noon) 13:32:37 Medium Coeli 13:32:37 Sunset 19:13:54 Maghrib 19:33:46 Isha (Night) 20:32:13 Sharia Midnight 00:47:45 Imum Coeli 01:32:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>SaintPierre Saturday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/saturday/</guid><description>Geographic Information of SaintPierre TimeZone: -02:00 - Latitude: 46.7791 - Longitude: -56.1773 - Altitude: 30.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:18:51 Sunrise 07:49:12 Dhuhr (Noon) 13:32:55 Medium Coeli 13:32:55 Sunset 19:15:50 Maghrib 19:35:41 Isha (Night) 20:34:09 Sharia Midnight 00:48:02 Imum Coeli 01:32:46 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>SaintPierre Friday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/friday/</guid><description>Geographic Information of SaintPierre TimeZone: -02:00 - Latitude: 46.7791 - Longitude: -56.1773 - Altitude: 30.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:17:28 Sunrise 07:47:50 Dhuhr (Noon) 13:33:12 Medium Coeli 13:33:12 Sunset 19:17:47 Maghrib 19:37:37 Isha (Night) 20:36:06 Sharia Midnight 00:48:19 Imum Coeli 01:33:03 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>SaintPierre</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/</guid><description>Geographic Information of SaintPierre TimeZone: -02:00 - Latitude: 46.7791 - Longitude: -56.1773 - Altitude: 30.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:16:04 Sunrise 07:46:30 Dhuhr (Noon) 13:33:31 Medium Coeli 13:33:31 Sunset 19:19:44 Maghrib 19:39:33 Isha (Night) 20:38:04 Sharia Midnight 00:48:36 Imum Coeli 01:33:21 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>SaintPierre Thursday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/thursday/</guid><description>Geographic Information of SaintPierre TimeZone: -02:00 - Latitude: 46.7791 - Longitude: -56.1773 - Altitude: 30.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:16:04 Sunrise 07:46:30 Dhuhr (Noon) 13:33:31 Medium Coeli 13:33:31 Sunset 19:19:44 Maghrib 19:39:33 Isha (Night) 20:38:04 Sharia Midnight 00:48:36 Imum Coeli 01:33:21 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>SaintPierre Wednesday</title><link>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0200</pubDate><guid>https://astrology.ir/ephemeris/saint_pierre_and_miquelon/saint_pierre/wednesday/</guid><description>Geographic Information of SaintPierre TimeZone: -02:00 - Latitude: 46.7791 - Longitude: -56.1773 - Altitude: 30.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:14:40 Sunrise 07:45:09 Dhuhr (Noon) 13:33:49 Medium Coeli 13:33:49 Sunset 19:21:41 Maghrib 19:41:30 Isha (Night) 20:40:04 Sharia Midnight 00:48:52 Imum Coeli 01:33:40 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

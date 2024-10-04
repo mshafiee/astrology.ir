@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Omsk on Astrology</title><link>https://astrology.ir/tags/omsk/</link><description>Recent content in Omsk on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0600</lastBuildDate><atom:link href="https://astrology.ir/tags/omsk/index.xml" rel="self" type="application/rss+xml"/><item><title>Omsk Wednesday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/wednesday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk Tuesday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/tuesday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk Monday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/monday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/sunday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/saturday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/friday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Omsk Thursday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/thursday/</guid><description>&lt;h2 id="geographic-information-of-omsk">Geographic Information of Omsk&lt;/h2>
-&lt;p>TimeZone: +06:00
--
-Latitude: 54.9924
--
-Longitude: 73.3686
--
-Altitude: 90.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Omsk, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('54.9924', '73.3686');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Omsk on Astrology</title><link>https://astrology.ir/tags/omsk/</link><description>Recent content in Omsk on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0600</lastBuildDate><atom:link href="https://astrology.ir/tags/omsk/index.xml" rel="self" type="application/rss+xml"/><item><title>Omsk Wednesday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/wednesday/</guid><description>Geographic Information of Omsk TimeZone: +06:00 - Latitude: 54.9924 - Longitude: 73.3686 - Altitude: 90.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:36:13 Sunrise 07:24:24 Dhuhr (Noon) 12:53:42 Medium Coeli 12:53:42 Sunset 18:21:59 Maghrib 18:45:50 Isha (Night) 19:55:40 Sharia Midnight 00:00:05 Imum Coeli 00:53:34 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Omsk Tuesday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/tuesday/</guid><description>Geographic Information of Omsk TimeZone: +06:00 - Latitude: 54.9924 - Longitude: 73.3686 - Altitude: 90.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:34:14 Sunrise 07:22:28 Dhuhr (Noon) 12:53:58 Medium Coeli 12:53:58 Sunset 18:24:28 Maghrib 18:48:17 Isha (Night) 19:58:08 Sharia Midnight 00:00:20 Imum Coeli 00:53:50 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Omsk Monday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/monday/</guid><description>Geographic Information of Omsk TimeZone: +06:00 - Latitude: 54.9924 - Longitude: 73.3686 - Altitude: 90.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:32:15 Sunrise 07:20:32 Dhuhr (Noon) 12:54:15 Medium Coeli 12:54:15 Sunset 18:26:57 Maghrib 18:50:44 Isha (Night) 20:00:38 Sharia Midnight 00:00:35 Imum Coeli 00:54:07 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Omsk Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/sunday/</guid><description>Geographic Information of Omsk TimeZone: +06:00 - Latitude: 54.9924 - Longitude: 73.3686 - Altitude: 90.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:30:15 Sunrise 07:18:36 Dhuhr (Noon) 12:54:32 Medium Coeli 12:54:32 Sunset 18:29:27 Maghrib 18:53:12 Isha (Night) 20:03:09 Sharia Midnight 00:00:51 Imum Coeli 00:54:24 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Omsk Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/saturday/</guid><description>Geographic Information of Omsk TimeZone: +06:00 - Latitude: 54.9924 - Longitude: 73.3686 - Altitude: 90.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:28:15 Sunrise 07:16:41 Dhuhr (Noon) 12:54:50 Medium Coeli 12:54:50 Sunset 18:31:57 Maghrib 18:55:41 Isha (Night) 20:05:41 Sharia Midnight 00:01:06 Imum Coeli 00:54:41 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Omsk</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/</guid><description>Geographic Information of Omsk TimeZone: +06:00 - Latitude: 54.9924 - Longitude: 73.3686 - Altitude: 90.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:26:14 Sunrise 07:14:45 Dhuhr (Noon) 12:55:08 Medium Coeli 12:55:08 Sunset 18:34:28 Maghrib 18:58:10 Isha (Night) 20:08:15 Sharia Midnight 00:01:21 Imum Coeli 00:54:59 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Omsk Friday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/friday/</guid><description>Geographic Information of Omsk TimeZone: +06:00 - Latitude: 54.9924 - Longitude: 73.3686 - Altitude: 90.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:26:14 Sunrise 07:14:45 Dhuhr (Noon) 12:55:08 Medium Coeli 12:55:08 Sunset 18:34:28 Maghrib 18:58:10 Isha (Night) 20:08:15 Sharia Midnight 00:01:21 Imum Coeli 00:54:59 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Omsk Thursday</title><link>https://astrology.ir/ephemeris/russian_federation/omsk/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0600</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/omsk/thursday/</guid><description>Geographic Information of Omsk TimeZone: +06:00 - Latitude: 54.9924 - Longitude: 73.3686 - Altitude: 90.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:24:12 Sunrise 07:12:50 Dhuhr (Noon) 12:55:26 Medium Coeli 12:55:26 Sunset 18:36:59 Maghrib 19:00:40 Isha (Night) 20:10:49 Sharia Midnight 00:01:36 Imum Coeli 00:55:17 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recife on Astrology</title><link>https://astrology.ir/tags/recife/</link><description>Recent content in Recife on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://astrology.ir/tags/recife/index.xml" rel="self" type="application/rss+xml"/><item><title>Recife Tuesday</title><link>https://astrology.ir/ephemeris/brazil/recife/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/tuesday/</guid><description>&lt;h2 id="geographic-information-of-recife">Geographic Information of Recife&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -8.0539
--
-Longitude: -34.8811
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Recife, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-8.0539', '-34.8811');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Recife Monday</title><link>https://astrology.ir/ephemeris/brazil/recife/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/monday/</guid><description>&lt;h2 id="geographic-information-of-recife">Geographic Information of Recife&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -8.0539
--
-Longitude: -34.8811
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Recife, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-8.0539', '-34.8811');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Recife Sunday</title><link>https://astrology.ir/ephemeris/brazil/recife/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/sunday/</guid><description>&lt;h2 id="geographic-information-of-recife">Geographic Information of Recife&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -8.0539
--
-Longitude: -34.8811
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Recife, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-8.0539', '-34.8811');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Recife Saturday</title><link>https://astrology.ir/ephemeris/brazil/recife/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/saturday/</guid><description>&lt;h2 id="geographic-information-of-recife">Geographic Information of Recife&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -8.0539
--
-Longitude: -34.8811
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Recife, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-8.0539', '-34.8811');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Recife Friday</title><link>https://astrology.ir/ephemeris/brazil/recife/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/friday/</guid><description>&lt;h2 id="geographic-information-of-recife">Geographic Information of Recife&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -8.0539
--
-Longitude: -34.8811
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Recife, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-8.0539', '-34.8811');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Recife</title><link>https://astrology.ir/ephemeris/brazil/recife/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/</guid><description>&lt;h2 id="geographic-information-of-recife">Geographic Information of Recife&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -8.0539
--
-Longitude: -34.8811
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Recife, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-8.0539', '-34.8811');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Recife Thursday</title><link>https://astrology.ir/ephemeris/brazil/recife/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/thursday/</guid><description>&lt;h2 id="geographic-information-of-recife">Geographic Information of Recife&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -8.0539
--
-Longitude: -34.8811
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Recife, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-8.0539', '-34.8811');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Recife Wednesday</title><link>https://astrology.ir/ephemeris/brazil/recife/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/wednesday/</guid><description>&lt;h2 id="geographic-information-of-recife">Geographic Information of Recife&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -8.0539
--
-Longitude: -34.8811
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Recife, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-8.0539', '-34.8811');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recife on Astrology</title><link>https://astrology.ir/tags/recife/</link><description>Recent content in Recife on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://astrology.ir/tags/recife/index.xml" rel="self" type="application/rss+xml"/><item><title>Recife Tuesday</title><link>https://astrology.ir/ephemeris/brazil/recife/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/tuesday/</guid><description>Geographic Information of Recife TimeZone: -03:00 - Latitude: -8.0539 - Longitude: -34.8811 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 03:57:14 Sunrise 04:59:55 Dhuhr (Noon) 11:06:53 Medium Coeli 11:06:53 Sunset 17:13:58 Maghrib 17:27:45 Isha (Night) 18:08:31 Sharia Midnight 22:35:19 Imum Coeli 23:06:45 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Recife Monday</title><link>https://astrology.ir/ephemeris/brazil/recife/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/monday/</guid><description>Geographic Information of Recife TimeZone: -03:00 - Latitude: -8.0539 - Longitude: -34.8811 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 03:57:47 Sunrise 05:00:25 Dhuhr (Noon) 11:07:10 Medium Coeli 11:07:10 Sunset 17:14:01 Maghrib 17:27:47 Isha (Night) 18:08:32 Sharia Midnight 22:35:37 Imum Coeli 23:07:01 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Recife Sunday</title><link>https://astrology.ir/ephemeris/brazil/recife/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/sunday/</guid><description>Geographic Information of Recife TimeZone: -03:00 - Latitude: -8.0539 - Longitude: -34.8811 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 03:58:21 Sunrise 05:00:56 Dhuhr (Noon) 11:07:27 Medium Coeli 11:07:27 Sunset 17:14:05 Maghrib 17:27:51 Isha (Night) 18:08:33 Sharia Midnight 22:35:56 Imum Coeli 23:07:18 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Recife Saturday</title><link>https://astrology.ir/ephemeris/brazil/recife/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/saturday/</guid><description>Geographic Information of Recife TimeZone: -03:00 - Latitude: -8.0539 - Longitude: -34.8811 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 03:58:55 Sunrise 05:01:27 Dhuhr (Noon) 11:07:45 Medium Coeli 11:07:45 Sunset 17:14:09 Maghrib 17:27:54 Isha (Night) 18:08:34 Sharia Midnight 22:36:15 Imum Coeli 23:07:36 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Recife Friday</title><link>https://astrology.ir/ephemeris/brazil/recife/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/friday/</guid><description>Geographic Information of Recife TimeZone: -03:00 - Latitude: -8.0539 - Longitude: -34.8811 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 03:59:29 Sunrise 05:01:58 Dhuhr (Noon) 11:08:02 Medium Coeli 11:08:02 Sunset 17:14:14 Maghrib 17:27:58 Isha (Night) 18:08:37 Sharia Midnight 22:36:34 Imum Coeli 23:07:53 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Recife</title><link>https://astrology.ir/ephemeris/brazil/recife/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/</guid><description>Geographic Information of Recife TimeZone: -03:00 - Latitude: -8.0539 - Longitude: -34.8811 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:00:03 Sunrise 05:02:30 Dhuhr (Noon) 11:08:21 Medium Coeli 11:08:21 Sunset 17:14:18 Maghrib 17:28:03 Isha (Night) 18:08:39 Sharia Midnight 22:36:53 Imum Coeli 23:08:11 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Recife Thursday</title><link>https://astrology.ir/ephemeris/brazil/recife/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/thursday/</guid><description>Geographic Information of Recife TimeZone: -03:00 - Latitude: -8.0539 - Longitude: -34.8811 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:00:03 Sunrise 05:02:30 Dhuhr (Noon) 11:08:21 Medium Coeli 11:08:21 Sunset 17:14:18 Maghrib 17:28:03 Isha (Night) 18:08:39 Sharia Midnight 22:36:53 Imum Coeli 23:08:11 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Recife Wednesday</title><link>https://astrology.ir/ephemeris/brazil/recife/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/recife/wednesday/</guid><description>Geographic Information of Recife TimeZone: -03:00 - Latitude: -8.0539 - Longitude: -34.8811 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:00:38 Sunrise 05:03:02 Dhuhr (Noon) 11:08:39 Medium Coeli 11:08:39 Sunset 17:14:24 Maghrib 17:28:07 Isha (Night) 18:08:42 Sharia Midnight 22:37:13 Imum Coeli 23:08:30 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

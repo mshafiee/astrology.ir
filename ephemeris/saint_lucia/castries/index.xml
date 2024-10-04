@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Castries on Astrology</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/</link><description>Recent content in Castries on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/saint_lucia/castries/index.xml" rel="self" type="application/rss+xml"/><item><title>Castries Tuesday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/tuesday/</guid><description>&lt;h2 id="geographic-information-of-castries">Geographic Information of Castries&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 13.9957
--
-Longitude: -61.0061
--
-Altitude: 119.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Castries, Saint Lucia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.9957', '-61.0061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Castries Monday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/monday/</guid><description>&lt;h2 id="geographic-information-of-castries">Geographic Information of Castries&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 13.9957
--
-Longitude: -61.0061
--
-Altitude: 119.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Castries, Saint Lucia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.9957', '-61.0061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Castries Sunday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/sunday/</guid><description>&lt;h2 id="geographic-information-of-castries">Geographic Information of Castries&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 13.9957
--
-Longitude: -61.0061
--
-Altitude: 119.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Castries, Saint Lucia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.9957', '-61.0061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Castries Saturday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/saturday/</guid><description>&lt;h2 id="geographic-information-of-castries">Geographic Information of Castries&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 13.9957
--
-Longitude: -61.0061
--
-Altitude: 119.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Castries, Saint Lucia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.9957', '-61.0061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Castries Friday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/friday/</guid><description>&lt;h2 id="geographic-information-of-castries">Geographic Information of Castries&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 13.9957
--
-Longitude: -61.0061
--
-Altitude: 119.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Castries, Saint Lucia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.9957', '-61.0061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Castries Thursday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/thursday/</guid><description>&lt;h2 id="geographic-information-of-castries">Geographic Information of Castries&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 13.9957
--
-Longitude: -61.0061
--
-Altitude: 119.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Castries, Saint Lucia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.9957', '-61.0061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Castries Wednesday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/wednesday/</guid><description>&lt;h2 id="geographic-information-of-castries">Geographic Information of Castries&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 13.9957
--
-Longitude: -61.0061
--
-Altitude: 119.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Castries, Saint Lucia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.9957', '-61.0061');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Castries on Astrology</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/</link><description>Recent content in Castries on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/saint_lucia/castries/index.xml" rel="self" type="application/rss+xml"/><item><title>Castries Tuesday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/tuesday/</guid><description>Geographic Information of Castries TimeZone: -04:00 - Latitude: 13.9957 - Longitude: -61.0061 - Altitude: 119.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:20 Sunrise 05:53:59 Dhuhr (Noon) 11:51:22 Medium Coeli 11:51:22 Sunset 17:48:33 Maghrib 18:02:38 Isha (Night) 18:43:57 Sharia Midnight 23:19:28 Imum Coeli 23:51:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Castries Monday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/monday/</guid><description>Geographic Information of Castries TimeZone: -04:00 - Latitude: 13.9957 - Longitude: -61.0061 - Altitude: 119.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:15 Sunrise 05:53:53 Dhuhr (Noon) 11:51:39 Medium Coeli 11:51:39 Sunset 17:49:13 Maghrib 18:03:16 Isha (Night) 18:44:35 Sharia Midnight 23:19:46 Imum Coeli 23:51:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Castries Sunday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/sunday/</guid><description>Geographic Information of Castries TimeZone: -04:00 - Latitude: 13.9957 - Longitude: -61.0061 - Altitude: 119.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:11 Sunrise 05:53:47 Dhuhr (Noon) 11:51:56 Medium Coeli 11:51:56 Sunset 17:49:53 Maghrib 18:03:56 Isha (Night) 18:45:13 Sharia Midnight 23:20:04 Imum Coeli 23:51:47 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Castries Saturday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/saturday/</guid><description>Geographic Information of Castries TimeZone: -04:00 - Latitude: 13.9957 - Longitude: -61.0061 - Altitude: 119.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:07 Sunrise 05:53:42 Dhuhr (Noon) 11:52:13 Medium Coeli 11:52:13 Sunset 17:50:33 Maghrib 18:04:36 Isha (Night) 18:45:52 Sharia Midnight 23:20:22 Imum Coeli 23:52:04 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Castries Friday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/friday/</guid><description>Geographic Information of Castries TimeZone: -04:00 - Latitude: 13.9957 - Longitude: -61.0061 - Altitude: 119.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:04 Sunrise 05:53:37 Dhuhr (Noon) 11:52:31 Medium Coeli 11:52:31 Sunset 17:51:14 Maghrib 18:05:16 Isha (Night) 18:46:31 Sharia Midnight 23:20:40 Imum Coeli 23:52:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Castries Thursday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/thursday/</guid><description>Geographic Information of Castries TimeZone: -04:00 - Latitude: 13.9957 - Longitude: -61.0061 - Altitude: 119.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:00 Sunrise 05:53:32 Dhuhr (Noon) 11:52:49 Medium Coeli 11:52:49 Sunset 17:51:55 Maghrib 18:05:57 Isha (Night) 18:47:11 Sharia Midnight 23:20:59 Imum Coeli 23:52:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Castries Wednesday</title><link>https://astrology.ir/ephemeris/saint_lucia/castries/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/saint_lucia/castries/wednesday/</guid><description>Geographic Information of Castries TimeZone: -04:00 - Latitude: 13.9957 - Longitude: -61.0061 - Altitude: 119.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:49:57 Sunrise 05:53:28 Dhuhr (Noon) 11:53:08 Medium Coeli 11:53:08 Sunset 17:52:36 Maghrib 18:06:38 Isha (Night) 18:47:52 Sharia Midnight 23:21:18 Imum Coeli 23:52:59 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saint Peter Port on Astrology</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/</link><description>Recent content in Saint Peter Port on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/guernsey/saint_peter_port/index.xml" rel="self" type="application/rss+xml"/><item><title>Saint Peter Port Wednesday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/wednesday/</guid><description>&lt;h2 id="geographic-information-of-saint-peter-port">Geographic Information of Saint Peter Port&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 49.4598
--
-Longitude: -2.5353
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Peter Port, Guernsey | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.4598', '-2.5353');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Peter Port Tuesday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/tuesday/</guid><description>&lt;h2 id="geographic-information-of-saint-peter-port">Geographic Information of Saint Peter Port&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 49.4598
--
-Longitude: -2.5353
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Peter Port, Guernsey | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.4598', '-2.5353');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Peter Port Monday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/monday/</guid><description>&lt;h2 id="geographic-information-of-saint-peter-port">Geographic Information of Saint Peter Port&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 49.4598
--
-Longitude: -2.5353
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Peter Port, Guernsey | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.4598', '-2.5353');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Peter Port Sunday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/sunday/</guid><description>&lt;h2 id="geographic-information-of-saint-peter-port">Geographic Information of Saint Peter Port&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 49.4598
--
-Longitude: -2.5353
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Peter Port, Guernsey | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.4598', '-2.5353');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Peter Port Saturday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/saturday/</guid><description>&lt;h2 id="geographic-information-of-saint-peter-port">Geographic Information of Saint Peter Port&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 49.4598
--
-Longitude: -2.5353
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Peter Port, Guernsey | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.4598', '-2.5353');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Peter Port Friday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/friday/</guid><description>&lt;h2 id="geographic-information-of-saint-peter-port">Geographic Information of Saint Peter Port&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 49.4598
--
-Longitude: -2.5353
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Peter Port, Guernsey | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.4598', '-2.5353');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Saint Peter Port Thursday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/thursday/</guid><description>&lt;h2 id="geographic-information-of-saint-peter-port">Geographic Information of Saint Peter Port&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 49.4598
--
-Longitude: -2.5353
--
-Altitude: 10.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Saint Peter Port, Guernsey | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.4598', '-2.5353');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saint Peter Port on Astrology</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/</link><description>Recent content in Saint Peter Port on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/guernsey/saint_peter_port/index.xml" rel="self" type="application/rss+xml"/><item><title>Saint Peter Port Wednesday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/wednesday/</guid><description>Geographic Information of Saint Peter Port TimeZone: +01:00 - Latitude: 49.4598 - Longitude: -2.5353 - Altitude: 10.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:47:08 Sunrise 07:22:20 Dhuhr (Noon) 12:57:15 Medium Coeli 12:57:15 Sunset 18:31:21 Maghrib 18:52:20 Isha (Night) 19:53:54 Sharia Midnight 00:10:00 Imum Coeli 00:57:07 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Saint Peter Port Tuesday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/tuesday/</guid><description>Geographic Information of Saint Peter Port TimeZone: +01:00 - Latitude: 49.4598 - Longitude: -2.5353 - Altitude: 10.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:45:35 Sunrise 07:20:48 Dhuhr (Noon) 12:57:32 Medium Coeli 12:57:32 Sunset 18:33:25 Maghrib 18:54:23 Isha (Night) 19:55:57 Sharia Midnight 00:10:16 Imum Coeli 00:57:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Saint Peter Port Monday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/monday/</guid><description>Geographic Information of Saint Peter Port TimeZone: +01:00 - Latitude: 49.4598 - Longitude: -2.5353 - Altitude: 10.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:44:02 Sunrise 07:19:16 Dhuhr (Noon) 12:57:48 Medium Coeli 12:57:48 Sunset 18:35:30 Maghrib 18:56:26 Isha (Night) 19:58:02 Sharia Midnight 00:10:32 Imum Coeli 00:57:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Saint Peter Port Sunday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/sunday/</guid><description>Geographic Information of Saint Peter Port TimeZone: +01:00 - Latitude: 49.4598 - Longitude: -2.5353 - Altitude: 10.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:42:29 Sunrise 07:17:45 Dhuhr (Noon) 12:58:06 Medium Coeli 12:58:06 Sunset 18:37:35 Maghrib 18:58:30 Isha (Night) 20:00:07 Sharia Midnight 00:10:48 Imum Coeli 00:57:57 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Saint Peter Port Saturday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/saturday/</guid><description>Geographic Information of Saint Peter Port TimeZone: +01:00 - Latitude: 49.4598 - Longitude: -2.5353 - Altitude: 10.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:40:56 Sunrise 07:16:14 Dhuhr (Noon) 12:58:23 Medium Coeli 12:58:23 Sunset 18:39:41 Maghrib 19:00:35 Isha (Night) 20:02:14 Sharia Midnight 00:11:05 Imum Coeli 00:58:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Saint Peter Port Friday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/friday/</guid><description>Geographic Information of Saint Peter Port TimeZone: +01:00 - Latitude: 49.4598 - Longitude: -2.5353 - Altitude: 10.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:39:22 Sunrise 07:14:43 Dhuhr (Noon) 12:58:41 Medium Coeli 12:58:41 Sunset 18:41:47 Maghrib 19:02:41 Isha (Night) 20:04:21 Sharia Midnight 00:11:21 Imum Coeli 00:58:32 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Saint Peter Port Thursday</title><link>https://astrology.ir/ephemeris/guernsey/saint_peter_port/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/guernsey/saint_peter_port/thursday/</guid><description>Geographic Information of Saint Peter Port TimeZone: +01:00 - Latitude: 49.4598 - Longitude: -2.5353 - Altitude: 10.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:37:47 Sunrise 07:13:12 Dhuhr (Noon) 12:58:59 Medium Coeli 12:58:59 Sunset 18:43:54 Maghrib 19:04:46 Isha (Night) 20:06:30 Sharia Midnight 00:11:38 Imum Coeli 00:58:50 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

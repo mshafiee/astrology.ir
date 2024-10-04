@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Goiania on Astrology</title><link>https://astrology.ir/ephemeris/brazil/goiania/</link><description>Recent content in Goiania on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/brazil/goiania/index.xml" rel="self" type="application/rss+xml"/><item><title>Goiania Tuesday</title><link>https://astrology.ir/ephemeris/brazil/goiania/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/tuesday/</guid><description>&lt;h2 id="geographic-information-of-goiania">Geographic Information of Goiania&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -16.6786
--
-Longitude: -49.2539
--
-Altitude: 766.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Goiania, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-16.6786', '-49.2539');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Goiania Monday</title><link>https://astrology.ir/ephemeris/brazil/goiania/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/monday/</guid><description>&lt;h2 id="geographic-information-of-goiania">Geographic Information of Goiania&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -16.6786
--
-Longitude: -49.2539
--
-Altitude: 766.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Goiania, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-16.6786', '-49.2539');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Goiania Sunday</title><link>https://astrology.ir/ephemeris/brazil/goiania/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/sunday/</guid><description>&lt;h2 id="geographic-information-of-goiania">Geographic Information of Goiania&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -16.6786
--
-Longitude: -49.2539
--
-Altitude: 766.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Goiania, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-16.6786', '-49.2539');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Goiania Saturday</title><link>https://astrology.ir/ephemeris/brazil/goiania/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/saturday/</guid><description>&lt;h2 id="geographic-information-of-goiania">Geographic Information of Goiania&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -16.6786
--
-Longitude: -49.2539
--
-Altitude: 766.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Goiania, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-16.6786', '-49.2539');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Goiania Friday</title><link>https://astrology.ir/ephemeris/brazil/goiania/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/friday/</guid><description>&lt;h2 id="geographic-information-of-goiania">Geographic Information of Goiania&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -16.6786
--
-Longitude: -49.2539
--
-Altitude: 766.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Goiania, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-16.6786', '-49.2539');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Goiania Thursday</title><link>https://astrology.ir/ephemeris/brazil/goiania/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/thursday/</guid><description>&lt;h2 id="geographic-information-of-goiania">Geographic Information of Goiania&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -16.6786
--
-Longitude: -49.2539
--
-Altitude: 766.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Goiania, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-16.6786', '-49.2539');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Goiania Wednesday</title><link>https://astrology.ir/ephemeris/brazil/goiania/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/wednesday/</guid><description>&lt;h2 id="geographic-information-of-goiania">Geographic Information of Goiania&lt;/h2>
-&lt;p>TimeZone: -03:00
--
-Latitude: -16.6786
--
-Longitude: -49.2539
--
-Altitude: 766.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Goiania, Brazil | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-16.6786', '-49.2539');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Goiania on Astrology</title><link>https://astrology.ir/ephemeris/brazil/goiania/</link><description>Recent content in Goiania on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/brazil/goiania/index.xml" rel="self" type="application/rss+xml"/><item><title>Goiania Tuesday</title><link>https://astrology.ir/ephemeris/brazil/goiania/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/tuesday/</guid><description>Geographic Information of Goiania TimeZone: -03:00 - Latitude: -16.6786 - Longitude: -49.2539 - Altitude: 766.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:19 Sunrise 05:53:37 Dhuhr (Noon) 12:04:22 Medium Coeli 12:04:22 Sunset 18:15:21 Maghrib 18:29:52 Isha (Night) 19:12:13 Sharia Midnight 23:31:25 Imum Coeli 00:04:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Goiania Monday</title><link>https://astrology.ir/ephemeris/brazil/goiania/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/monday/</guid><description>Geographic Information of Goiania TimeZone: -03:00 - Latitude: -16.6786 - Longitude: -49.2539 - Altitude: 766.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:49:08 Sunrise 05:54:22 Dhuhr (Noon) 12:04:39 Medium Coeli 12:04:39 Sunset 18:15:10 Maghrib 18:29:40 Isha (Night) 19:11:58 Sharia Midnight 23:31:44 Imum Coeli 00:04:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Goiania Sunday</title><link>https://astrology.ir/ephemeris/brazil/goiania/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/sunday/</guid><description>Geographic Information of Goiania TimeZone: -03:00 - Latitude: -16.6786 - Longitude: -49.2539 - Altitude: 766.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:49:57 Sunrise 05:55:07 Dhuhr (Noon) 12:04:56 Medium Coeli 12:04:56 Sunset 18:14:59 Maghrib 18:29:28 Isha (Night) 19:11:44 Sharia Midnight 23:32:03 Imum Coeli 00:04:47 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Goiania Saturday</title><link>https://astrology.ir/ephemeris/brazil/goiania/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/saturday/</guid><description>Geographic Information of Goiania TimeZone: -03:00 - Latitude: -16.6786 - Longitude: -49.2539 - Altitude: 766.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:47 Sunrise 05:55:53 Dhuhr (Noon) 12:05:13 Medium Coeli 12:05:13 Sunset 18:14:48 Maghrib 18:29:17 Isha (Night) 19:11:30 Sharia Midnight 23:32:22 Imum Coeli 00:05:04 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Goiania Friday</title><link>https://astrology.ir/ephemeris/brazil/goiania/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/friday/</guid><description>Geographic Information of Goiania TimeZone: -03:00 - Latitude: -16.6786 - Longitude: -49.2539 - Altitude: 766.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:37 Sunrise 05:56:39 Dhuhr (Noon) 12:05:31 Medium Coeli 12:05:31 Sunset 18:14:38 Maghrib 18:29:06 Isha (Night) 19:11:16 Sharia Midnight 23:32:42 Imum Coeli 00:05:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Goiania Thursday</title><link>https://astrology.ir/ephemeris/brazil/goiania/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/thursday/</guid><description>Geographic Information of Goiania TimeZone: -03:00 - Latitude: -16.6786 - Longitude: -49.2539 - Altitude: 766.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:26 Sunrise 05:57:25 Dhuhr (Noon) 12:05:49 Medium Coeli 12:05:49 Sunset 18:14:28 Maghrib 18:28:55 Isha (Night) 19:11:03 Sharia Midnight 23:33:02 Imum Coeli 00:05:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Goiania Wednesday</title><link>https://astrology.ir/ephemeris/brazil/goiania/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/brazil/goiania/wednesday/</guid><description>Geographic Information of Goiania TimeZone: -03:00 - Latitude: -16.6786 - Longitude: -49.2539 - Altitude: 766.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:17 Sunrise 05:58:12 Dhuhr (Noon) 12:06:08 Medium Coeli 12:06:08 Sunset 18:14:19 Maghrib 18:28:45 Isha (Night) 19:10:51 Sharia Midnight 23:33:22 Imum Coeli 00:05:59 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

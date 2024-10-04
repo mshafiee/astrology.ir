@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Longyearbyen on Astrology</title><link>https://astrology.ir/ephemeris/longyearbyen/</link><description>Recent content in Longyearbyen on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/longyearbyen/index.xml" rel="self" type="application/rss+xml"/><item><title>Longyearbyen Wednesday</title><link>https://astrology.ir/ephemeris/longyearbyen/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/wednesday/</guid><description>&lt;h2 id="geographic-information-of-longyearbyen">Geographic Information of Longyearbyen&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 78.2233
--
-Longitude: 15.6469
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Longyearbyen, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('78.2233', '15.6469');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Longyearbyen Tuesday</title><link>https://astrology.ir/ephemeris/longyearbyen/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/tuesday/</guid><description>&lt;h2 id="geographic-information-of-longyearbyen">Geographic Information of Longyearbyen&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 78.2233
--
-Longitude: 15.6469
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Longyearbyen, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('78.2233', '15.6469');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Longyearbyen Monday</title><link>https://astrology.ir/ephemeris/longyearbyen/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/monday/</guid><description>&lt;h2 id="geographic-information-of-longyearbyen">Geographic Information of Longyearbyen&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 78.2233
--
-Longitude: 15.6469
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Longyearbyen, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('78.2233', '15.6469');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Longyearbyen Sunday</title><link>https://astrology.ir/ephemeris/longyearbyen/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/sunday/</guid><description>&lt;h2 id="geographic-information-of-longyearbyen">Geographic Information of Longyearbyen&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 78.2233
--
-Longitude: 15.6469
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Longyearbyen, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('78.2233', '15.6469');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Longyearbyen Saturday</title><link>https://astrology.ir/ephemeris/longyearbyen/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/saturday/</guid><description>&lt;h2 id="geographic-information-of-longyearbyen">Geographic Information of Longyearbyen&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 78.2233
--
-Longitude: 15.6469
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Longyearbyen, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('78.2233', '15.6469');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Longyearbyen Friday</title><link>https://astrology.ir/ephemeris/longyearbyen/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/friday/</guid><description>&lt;h2 id="geographic-information-of-longyearbyen">Geographic Information of Longyearbyen&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 78.2233
--
-Longitude: 15.6469
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Longyearbyen, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('78.2233', '15.6469');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Longyearbyen Thursday</title><link>https://astrology.ir/ephemeris/longyearbyen/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/thursday/</guid><description>&lt;h2 id="geographic-information-of-longyearbyen">Geographic Information of Longyearbyen&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 78.2233
--
-Longitude: 15.6469
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Longyearbyen, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('78.2233', '15.6469');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Longyearbyen on Astrology</title><link>https://astrology.ir/ephemeris/longyearbyen/</link><description>Recent content in Longyearbyen on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/longyearbyen/index.xml" rel="self" type="application/rss+xml"/><item><title>Longyearbyen Wednesday</title><link>https://astrology.ir/ephemeris/longyearbyen/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/wednesday/</guid><description>Geographic Information of Longyearbyen TimeZone: +02:00 - Latitude: 78.2233 - Longitude: 15.6469 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 02:54:18 Sunrise 08:36:25 Dhuhr (Noon) 12:44:32 Medium Coeli 12:44:32 Sunset 16:49:48 Maghrib 18:00:39 Isha (Night) 21:27:50 Sharia Midnight 21:58:20 Imum Coeli 00:44:24 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Longyearbyen Tuesday</title><link>https://astrology.ir/ephemeris/longyearbyen/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/tuesday/</guid><description>Geographic Information of Longyearbyen TimeZone: +02:00 - Latitude: 78.2233 - Longitude: 15.6469 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 02:40:24 Sunrise 08:28:23 Dhuhr (Noon) 12:44:49 Medium Coeli 12:44:49 Sunset 16:58:20 Maghrib 18:08:19 Isha (Night) 21:37:41 Sharia Midnight 21:56:19 Imum Coeli 00:44:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Longyearbyen Monday</title><link>https://astrology.ir/ephemeris/longyearbyen/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/monday/</guid><description>Geographic Information of Longyearbyen TimeZone: +02:00 - Latitude: 78.2233 - Longitude: 15.6469 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 02:24:37 Sunrise 08:20:29 Dhuhr (Noon) 12:45:05 Medium Coeli 12:45:05 Sunset 17:06:45 Maghrib 18:15:57 Isha (Night) 21:47:57 Sharia Midnight 21:53:34 Imum Coeli 00:44:57 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Longyearbyen Sunday</title><link>https://astrology.ir/ephemeris/longyearbyen/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/sunday/</guid><description>Geographic Information of Longyearbyen TimeZone: +02:00 - Latitude: 78.2233 - Longitude: 15.6469 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 02:05:47 Sunrise 08:12:42 Dhuhr (Noon) 12:45:23 Medium Coeli 12:45:23 Sunset 17:15:03 Maghrib 18:23:35 Isha (Night) 21:58:45 Sharia Midnight 21:49:50 Imum Coeli 00:45:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Longyearbyen Saturday</title><link>https://astrology.ir/ephemeris/longyearbyen/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/saturday/</guid><description>Geographic Information of Longyearbyen TimeZone: +02:00 - Latitude: 78.2233 - Longitude: 15.6469 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 01:40:44 Sunrise 08:05:02 Dhuhr (Noon) 12:45:40 Medium Coeli 12:45:40 Sunset 17:23:15 Maghrib 18:31:13 Isha (Night) 22:10:09 Sharia Midnight 21:44:31 Imum Coeli 00:45:31 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Longyearbyen Friday</title><link>https://astrology.ir/ephemeris/longyearbyen/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/friday/</guid><description>Geographic Information of Longyearbyen TimeZone: +02:00 - Latitude: 78.2233 - Longitude: 15.6469 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 01:40:44 Sunrise 07:57:27 Dhuhr (Noon) 12:45:58 Medium Coeli 12:45:58 Sunset 17:31:23 Maghrib 18:38:52 Isha (Night) 22:22:19 Sharia Midnight 21:36:03 Imum Coeli 00:45:49 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Longyearbyen Thursday</title><link>https://astrology.ir/ephemeris/longyearbyen/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/longyearbyen/thursday/</guid><description>Geographic Information of Longyearbyen TimeZone: +02:00 - Latitude: 78.2233 - Longitude: 15.6469 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) Circumpolar Angle Sunrise 07:49:57 Dhuhr (Noon) 12:46:17 Medium Coeli 12:46:17 Sunset 17:39:26 Maghrib 18:46:32 Isha (Night) 22:35:26 Sharia Midnight 09:40:05 Imum Coeli 00:46:07 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

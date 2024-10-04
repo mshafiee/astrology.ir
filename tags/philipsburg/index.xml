@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Philipsburg on Astrology</title><link>https://astrology.ir/tags/philipsburg/</link><description>Recent content in Philipsburg on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/tags/philipsburg/index.xml" rel="self" type="application/rss+xml"/><item><title>Philipsburg Tuesday</title><link>https://astrology.ir/ephemeris/philipsburg/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/tuesday/</guid><description>&lt;h2 id="geographic-information-of-philipsburg">Geographic Information of Philipsburg&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0260
--
-Longitude: -63.0458
--
-Altitude: 0.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Philipsburg, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0260', '-63.0458');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Philipsburg Monday</title><link>https://astrology.ir/ephemeris/philipsburg/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/monday/</guid><description>&lt;h2 id="geographic-information-of-philipsburg">Geographic Information of Philipsburg&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0260
--
-Longitude: -63.0458
--
-Altitude: 0.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Philipsburg, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0260', '-63.0458');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Philipsburg Sunday</title><link>https://astrology.ir/ephemeris/philipsburg/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/sunday/</guid><description>&lt;h2 id="geographic-information-of-philipsburg">Geographic Information of Philipsburg&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0260
--
-Longitude: -63.0458
--
-Altitude: 0.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Philipsburg, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0260', '-63.0458');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Philipsburg Saturday</title><link>https://astrology.ir/ephemeris/philipsburg/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/saturday/</guid><description>&lt;h2 id="geographic-information-of-philipsburg">Geographic Information of Philipsburg&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0260
--
-Longitude: -63.0458
--
-Altitude: 0.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Philipsburg, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0260', '-63.0458');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Philipsburg Friday</title><link>https://astrology.ir/ephemeris/philipsburg/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/friday/</guid><description>&lt;h2 id="geographic-information-of-philipsburg">Geographic Information of Philipsburg&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0260
--
-Longitude: -63.0458
--
-Altitude: 0.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Philipsburg, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0260', '-63.0458');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Philipsburg</title><link>https://astrology.ir/ephemeris/philipsburg/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/</guid><description>&lt;h2 id="geographic-information-of-philipsburg">Geographic Information of Philipsburg&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0260
--
-Longitude: -63.0458
--
-Altitude: 0.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Philipsburg, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0260', '-63.0458');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Philipsburg Thursday</title><link>https://astrology.ir/ephemeris/philipsburg/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/thursday/</guid><description>&lt;h2 id="geographic-information-of-philipsburg">Geographic Information of Philipsburg&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0260
--
-Longitude: -63.0458
--
-Altitude: 0.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Philipsburg, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0260', '-63.0458');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Philipsburg Wednesday</title><link>https://astrology.ir/ephemeris/philipsburg/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/wednesday/</guid><description>&lt;h2 id="geographic-information-of-philipsburg">Geographic Information of Philipsburg&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 18.0260
--
-Longitude: -63.0458
--
-Altitude: 0.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Philipsburg, | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('18.0260', '-63.0458');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Philipsburg on Astrology</title><link>https://astrology.ir/tags/philipsburg/</link><description>Recent content in Philipsburg on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/tags/philipsburg/index.xml" rel="self" type="application/rss+xml"/><item><title>Philipsburg Tuesday</title><link>https://astrology.ir/ephemeris/philipsburg/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/tuesday/</guid><description>Geographic Information of Philipsburg TimeZone: -04:00 - Latitude: 18.0260 - Longitude: -63.0458 - Altitude: 0.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:59:01 Sunrise 06:03:55 Dhuhr (Noon) 11:59:31 Medium Coeli 11:59:31 Sunset 17:54:53 Maghrib 18:09:12 Isha (Night) 18:51:20 Sharia Midnight 23:27:03 Imum Coeli 23:59:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Philipsburg Monday</title><link>https://astrology.ir/ephemeris/philipsburg/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/monday/</guid><description>Geographic Information of Philipsburg TimeZone: -04:00 - Latitude: 18.0260 - Longitude: -63.0458 - Altitude: 0.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:50 Sunrise 06:03:42 Dhuhr (Noon) 11:59:48 Medium Coeli 11:59:48 Sunset 17:55:39 Maghrib 18:09:58 Isha (Night) 18:52:05 Sharia Midnight 23:27:20 Imum Coeli 23:59:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Philipsburg Sunday</title><link>https://astrology.ir/ephemeris/philipsburg/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/sunday/</guid><description>Geographic Information of Philipsburg TimeZone: -04:00 - Latitude: 18.0260 - Longitude: -63.0458 - Altitude: 0.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:39 Sunrise 06:03:29 Dhuhr (Noon) 12:00:05 Medium Coeli 12:00:05 Sunset 17:56:26 Maghrib 18:10:44 Isha (Night) 18:52:50 Sharia Midnight 23:27:38 Imum Coeli 23:59:56 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Philipsburg Saturday</title><link>https://astrology.ir/ephemeris/philipsburg/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/saturday/</guid><description>Geographic Information of Philipsburg TimeZone: -04:00 - Latitude: 18.0260 - Longitude: -63.0458 - Altitude: 0.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:27 Sunrise 06:03:17 Dhuhr (Noon) 12:00:23 Medium Coeli 12:00:23 Sunset 17:57:14 Maghrib 18:11:31 Isha (Night) 18:53:36 Sharia Midnight 23:27:56 Imum Coeli 00:00:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Philipsburg Friday</title><link>https://astrology.ir/ephemeris/philipsburg/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/friday/</guid><description>Geographic Information of Philipsburg TimeZone: -04:00 - Latitude: 18.0260 - Longitude: -63.0458 - Altitude: 0.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:16 Sunrise 06:03:04 Dhuhr (Noon) 12:00:41 Medium Coeli 12:00:41 Sunset 17:58:02 Maghrib 18:12:19 Isha (Night) 18:54:23 Sharia Midnight 23:28:14 Imum Coeli 00:00:31 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Philipsburg</title><link>https://astrology.ir/ephemeris/philipsburg/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/</guid><description>Geographic Information of Philipsburg TimeZone: -04:00 - Latitude: 18.0260 - Longitude: -63.0458 - Altitude: 0.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:06 Sunrise 06:02:53 Dhuhr (Noon) 12:00:59 Medium Coeli 12:00:59 Sunset 17:58:50 Maghrib 18:13:06 Isha (Night) 18:55:10 Sharia Midnight 23:28:33 Imum Coeli 00:00:50 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Philipsburg Thursday</title><link>https://astrology.ir/ephemeris/philipsburg/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/thursday/</guid><description>Geographic Information of Philipsburg TimeZone: -04:00 - Latitude: 18.0260 - Longitude: -63.0458 - Altitude: 0.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:06 Sunrise 06:02:53 Dhuhr (Noon) 12:00:59 Medium Coeli 12:00:59 Sunset 17:58:50 Maghrib 18:13:06 Isha (Night) 18:55:10 Sharia Midnight 23:28:33 Imum Coeli 00:00:50 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Philipsburg Wednesday</title><link>https://astrology.ir/ephemeris/philipsburg/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/philipsburg/wednesday/</guid><description>Geographic Information of Philipsburg TimeZone: -04:00 - Latitude: 18.0260 - Longitude: -63.0458 - Altitude: 0.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:55 Sunrise 06:02:41 Dhuhr (Noon) 12:01:17 Medium Coeli 12:01:17 Sunset 17:59:39 Maghrib 18:13:55 Isha (Night) 18:55:58 Sharia Midnight 23:28:52 Imum Coeli 00:01:08 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

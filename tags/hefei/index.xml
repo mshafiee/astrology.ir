@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hefei on Astrology</title><link>https://astrology.ir/tags/hefei/</link><description>Recent content in Hefei on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://astrology.ir/tags/hefei/index.xml" rel="self" type="application/rss+xml"/><item><title>Hefei Wednesday</title><link>https://astrology.ir/ephemeris/china/hefei/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/wednesday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei Tuesday</title><link>https://astrology.ir/ephemeris/china/hefei/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/tuesday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei Monday</title><link>https://astrology.ir/ephemeris/china/hefei/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/monday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei Sunday</title><link>https://astrology.ir/ephemeris/china/hefei/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/sunday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei Saturday</title><link>https://astrology.ir/ephemeris/china/hefei/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/saturday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei</title><link>https://astrology.ir/ephemeris/china/hefei/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei Friday</title><link>https://astrology.ir/ephemeris/china/hefei/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/friday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hefei Thursday</title><link>https://astrology.ir/ephemeris/china/hefei/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/thursday/</guid><description>&lt;h2 id="geographic-information-of-hefei">Geographic Information of Hefei&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 31.8639
--
-Longitude: 117.2808
--
-Altitude: 24.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hefei, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.8639', '117.2808');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hefei on Astrology</title><link>https://astrology.ir/tags/hefei/</link><description>Recent content in Hefei on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://astrology.ir/tags/hefei/index.xml" rel="self" type="application/rss+xml"/><item><title>Hefei Wednesday</title><link>https://astrology.ir/ephemeris/china/hefei/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/wednesday/</guid><description>Geographic Information of Hefei TimeZone: +08:00 - Latitude: 31.8639 - Longitude: 117.2808 - Altitude: 24.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:11 Sunrise 06:09:50 Dhuhr (Noon) 11:58:05 Medium Coeli 11:58:05 Sunset 17:45:52 Maghrib 18:01:54 Isha (Night) 18:49:01 Sharia Midnight 23:21:51 Imum Coeli 23:57:57 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hefei Tuesday</title><link>https://astrology.ir/ephemeris/china/hefei/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/tuesday/</guid><description>Geographic Information of Hefei TimeZone: +08:00 - Latitude: 31.8639 - Longitude: 117.2808 - Altitude: 24.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:56:31 Sunrise 06:09:09 Dhuhr (Noon) 11:58:21 Medium Coeli 11:58:21 Sunset 17:47:06 Maghrib 18:03:07 Isha (Night) 18:50:13 Sharia Midnight 23:22:08 Imum Coeli 23:58:13 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hefei Monday</title><link>https://astrology.ir/ephemeris/china/hefei/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/monday/</guid><description>Geographic Information of Hefei TimeZone: +08:00 - Latitude: 31.8639 - Longitude: 117.2808 - Altitude: 24.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:55:52 Sunrise 06:08:29 Dhuhr (Noon) 11:58:38 Medium Coeli 11:58:38 Sunset 17:48:20 Maghrib 18:04:21 Isha (Night) 18:51:26 Sharia Midnight 23:22:25 Imum Coeli 23:58:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hefei Sunday</title><link>https://astrology.ir/ephemeris/china/hefei/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/sunday/</guid><description>Geographic Information of Hefei TimeZone: +08:00 - Latitude: 31.8639 - Longitude: 117.2808 - Altitude: 24.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:55:12 Sunrise 06:07:49 Dhuhr (Noon) 11:58:55 Medium Coeli 11:58:55 Sunset 17:49:34 Maghrib 18:05:35 Isha (Night) 18:52:40 Sharia Midnight 23:22:43 Imum Coeli 23:58:47 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hefei Saturday</title><link>https://astrology.ir/ephemeris/china/hefei/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/saturday/</guid><description>Geographic Information of Hefei TimeZone: +08:00 - Latitude: 31.8639 - Longitude: 117.2808 - Altitude: 24.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:54:33 Sunrise 06:07:09 Dhuhr (Noon) 11:59:13 Medium Coeli 11:59:13 Sunset 17:50:49 Maghrib 18:06:49 Isha (Night) 18:53:54 Sharia Midnight 23:23:00 Imum Coeli 23:59:04 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hefei</title><link>https://astrology.ir/ephemeris/china/hefei/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/</guid><description>Geographic Information of Hefei TimeZone: +08:00 - Latitude: 31.8639 - Longitude: 117.2808 - Altitude: 24.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:53 Sunrise 06:06:29 Dhuhr (Noon) 11:59:31 Medium Coeli 11:59:31 Sunset 17:52:05 Maghrib 18:08:04 Isha (Night) 18:55:09 Sharia Midnight 23:23:19 Imum Coeli 23:59:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hefei Friday</title><link>https://astrology.ir/ephemeris/china/hefei/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/friday/</guid><description>Geographic Information of Hefei TimeZone: +08:00 - Latitude: 31.8639 - Longitude: 117.2808 - Altitude: 24.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:53 Sunrise 06:06:29 Dhuhr (Noon) 11:59:31 Medium Coeli 11:59:31 Sunset 17:52:05 Maghrib 18:08:04 Isha (Night) 18:55:09 Sharia Midnight 23:23:19 Imum Coeli 23:59:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hefei Thursday</title><link>https://astrology.ir/ephemeris/china/hefei/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/hefei/thursday/</guid><description>Geographic Information of Hefei TimeZone: +08:00 - Latitude: 31.8639 - Longitude: 117.2808 - Altitude: 24.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:14 Sunrise 06:05:50 Dhuhr (Noon) 11:59:50 Medium Coeli 11:59:50 Sunset 17:53:21 Maghrib 18:09:20 Isha (Night) 18:56:25 Sharia Midnight 23:23:37 Imum Coeli 23:59:40 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

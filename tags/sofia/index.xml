@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sofia on Astrology</title><link>https://astrology.ir/tags/sofia/</link><description>Recent content in Sofia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/sofia/index.xml" rel="self" type="application/rss+xml"/><item><title>Sofia Wednesday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/wednesday/</guid><description>&lt;h2 id="geographic-information-of-sofia">Geographic Information of Sofia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 42.6975
--
-Longitude: 23.3241
--
-Altitude: 562.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sofia, Bulgaria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6975', '23.3241');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sofia Tuesday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/tuesday/</guid><description>&lt;h2 id="geographic-information-of-sofia">Geographic Information of Sofia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 42.6975
--
-Longitude: 23.3241
--
-Altitude: 562.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sofia, Bulgaria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6975', '23.3241');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sofia Monday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/monday/</guid><description>&lt;h2 id="geographic-information-of-sofia">Geographic Information of Sofia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 42.6975
--
-Longitude: 23.3241
--
-Altitude: 562.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sofia, Bulgaria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6975', '23.3241');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sofia Sunday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/sunday/</guid><description>&lt;h2 id="geographic-information-of-sofia">Geographic Information of Sofia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 42.6975
--
-Longitude: 23.3241
--
-Altitude: 562.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sofia, Bulgaria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6975', '23.3241');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sofia Saturday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/saturday/</guid><description>&lt;h2 id="geographic-information-of-sofia">Geographic Information of Sofia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 42.6975
--
-Longitude: 23.3241
--
-Altitude: 562.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sofia, Bulgaria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6975', '23.3241');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sofia</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/</guid><description>&lt;h2 id="geographic-information-of-sofia">Geographic Information of Sofia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 42.6975
--
-Longitude: 23.3241
--
-Altitude: 562.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sofia, Bulgaria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6975', '23.3241');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sofia Friday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/friday/</guid><description>&lt;h2 id="geographic-information-of-sofia">Geographic Information of Sofia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 42.6975
--
-Longitude: 23.3241
--
-Altitude: 562.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sofia, Bulgaria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6975', '23.3241');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sofia Thursday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/thursday/</guid><description>&lt;h2 id="geographic-information-of-sofia">Geographic Information of Sofia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 42.6975
--
-Longitude: 23.3241
--
-Altitude: 562.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sofia, Bulgaria | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('42.6975', '23.3241');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sofia on Astrology</title><link>https://astrology.ir/tags/sofia/</link><description>Recent content in Sofia on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/sofia/index.xml" rel="self" type="application/rss+xml"/><item><title>Sofia Wednesday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/wednesday/</guid><description>Geographic Information of Sofia TimeZone: +03:00 - Latitude: 42.6975 - Longitude: 23.3241 - Altitude: 562.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:08:57 Sunrise 07:33:14 Dhuhr (Noon) 13:13:50 Medium Coeli 13:13:50 Sunset 18:53:46 Maghrib 19:12:33 Isha (Night) 20:06:59 Sharia Midnight 00:31:55 Imum Coeli 01:13:42 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sofia Tuesday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/tuesday/</guid><description>Geographic Information of Sofia TimeZone: +03:00 - Latitude: 42.6975 - Longitude: 23.3241 - Altitude: 562.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:07:49 Sunrise 07:32:05 Dhuhr (Noon) 13:14:07 Medium Coeli 13:14:07 Sunset 18:55:28 Maghrib 19:14:13 Isha (Night) 20:08:39 Sharia Midnight 00:32:12 Imum Coeli 01:13:58 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sofia Monday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/monday/</guid><description>Geographic Information of Sofia TimeZone: +03:00 - Latitude: 42.6975 - Longitude: 23.3241 - Altitude: 562.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:06:40 Sunrise 07:30:56 Dhuhr (Noon) 13:14:23 Medium Coeli 13:14:23 Sunset 18:57:10 Maghrib 19:15:54 Isha (Night) 20:10:20 Sharia Midnight 00:32:29 Imum Coeli 01:14:15 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sofia Sunday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/sunday/</guid><description>Geographic Information of Sofia TimeZone: +03:00 - Latitude: 42.6975 - Longitude: 23.3241 - Altitude: 562.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:05:31 Sunrise 07:29:48 Dhuhr (Noon) 13:14:41 Medium Coeli 13:14:41 Sunset 18:58:52 Maghrib 19:17:36 Isha (Night) 20:12:01 Sharia Midnight 00:32:46 Imum Coeli 01:14:32 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sofia Saturday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/saturday/</guid><description>Geographic Information of Sofia TimeZone: +03:00 - Latitude: 42.6975 - Longitude: 23.3241 - Altitude: 562.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:04:23 Sunrise 07:28:40 Dhuhr (Noon) 13:14:58 Medium Coeli 13:14:58 Sunset 19:00:35 Maghrib 19:19:18 Isha (Night) 20:13:44 Sharia Midnight 00:33:03 Imum Coeli 01:14:49 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sofia</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/</guid><description>Geographic Information of Sofia TimeZone: +03:00 - Latitude: 42.6975 - Longitude: 23.3241 - Altitude: 562.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:03:14 Sunrise 07:27:32 Dhuhr (Noon) 13:15:16 Medium Coeli 13:15:16 Sunset 19:02:18 Maghrib 19:21:00 Isha (Night) 20:15:28 Sharia Midnight 00:33:20 Imum Coeli 01:15:07 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sofia Friday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/friday/</guid><description>Geographic Information of Sofia TimeZone: +03:00 - Latitude: 42.6975 - Longitude: 23.3241 - Altitude: 562.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:03:14 Sunrise 07:27:32 Dhuhr (Noon) 13:15:16 Medium Coeli 13:15:16 Sunset 19:02:18 Maghrib 19:21:00 Isha (Night) 20:15:28 Sharia Midnight 00:33:20 Imum Coeli 01:15:07 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sofia Thursday</title><link>https://astrology.ir/ephemeris/bulgaria/sofia/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/bulgaria/sofia/thursday/</guid><description>Geographic Information of Sofia TimeZone: +03:00 - Latitude: 42.6975 - Longitude: 23.3241 - Altitude: 562.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:02:04 Sunrise 07:26:25 Dhuhr (Noon) 13:15:34 Medium Coeli 13:15:34 Sunset 19:04:02 Maghrib 19:22:44 Isha (Night) 20:17:12 Sharia Midnight 00:33:38 Imum Coeli 01:15:25 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

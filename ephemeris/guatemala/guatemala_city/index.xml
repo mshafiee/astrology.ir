@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guatemala City on Astrology</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/</link><description>Recent content in Guatemala City on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0600</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/guatemala/guatemala_city/index.xml" rel="self" type="application/rss+xml"/><item><title>Guatemala City Tuesday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/tuesday/</guid><description>&lt;h2 id="geographic-information-of-guatemala-city">Geographic Information of Guatemala City&lt;/h2>
-&lt;p>TimeZone: -06:00
--
-Latitude: 14.6407
--
-Longitude: -90.5133
--
-Altitude: 1,508.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guatemala City, Guatemala | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('14.6407', '-90.5133');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guatemala City Monday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/monday/</guid><description>&lt;h2 id="geographic-information-of-guatemala-city">Geographic Information of Guatemala City&lt;/h2>
-&lt;p>TimeZone: -06:00
--
-Latitude: 14.6407
--
-Longitude: -90.5133
--
-Altitude: 1,508.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guatemala City, Guatemala | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('14.6407', '-90.5133');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guatemala City Sunday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/sunday/</guid><description>&lt;h2 id="geographic-information-of-guatemala-city">Geographic Information of Guatemala City&lt;/h2>
-&lt;p>TimeZone: -06:00
--
-Latitude: 14.6407
--
-Longitude: -90.5133
--
-Altitude: 1,508.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guatemala City, Guatemala | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('14.6407', '-90.5133');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guatemala City Saturday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/saturday/</guid><description>&lt;h2 id="geographic-information-of-guatemala-city">Geographic Information of Guatemala City&lt;/h2>
-&lt;p>TimeZone: -06:00
--
-Latitude: 14.6407
--
-Longitude: -90.5133
--
-Altitude: 1,508.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guatemala City, Guatemala | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('14.6407', '-90.5133');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guatemala City Friday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/friday/</guid><description>&lt;h2 id="geographic-information-of-guatemala-city">Geographic Information of Guatemala City&lt;/h2>
-&lt;p>TimeZone: -06:00
--
-Latitude: 14.6407
--
-Longitude: -90.5133
--
-Altitude: 1,508.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guatemala City, Guatemala | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('14.6407', '-90.5133');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guatemala City Thursday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/thursday/</guid><description>&lt;h2 id="geographic-information-of-guatemala-city">Geographic Information of Guatemala City&lt;/h2>
-&lt;p>TimeZone: -06:00
--
-Latitude: 14.6407
--
-Longitude: -90.5133
--
-Altitude: 1,508.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guatemala City, Guatemala | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('14.6407', '-90.5133');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guatemala City Wednesday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/wednesday/</guid><description>&lt;h2 id="geographic-information-of-guatemala-city">Geographic Information of Guatemala City&lt;/h2>
-&lt;p>TimeZone: -06:00
--
-Latitude: 14.6407
--
-Longitude: -90.5133
--
-Altitude: 1,508.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guatemala City, Guatemala | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('14.6407', '-90.5133');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guatemala City on Astrology</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/</link><description>Recent content in Guatemala City on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0600</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/guatemala/guatemala_city/index.xml" rel="self" type="application/rss+xml"/><item><title>Guatemala City Tuesday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/tuesday/</guid><description>Geographic Information of Guatemala City TimeZone: -06:00 - Latitude: 14.6407 - Longitude: -90.5133 - Altitude: 1,508.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:28 Sunrise 05:52:44 Dhuhr (Noon) 11:49:22 Medium Coeli 11:49:22 Sunset 17:45:49 Maghrib 18:00:21 Isha (Night) 18:41:47 Sharia Midnight 23:17:11 Imum Coeli 23:49:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guatemala City Monday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/monday/</guid><description>Geographic Information of Guatemala City TimeZone: -06:00 - Latitude: 14.6407 - Longitude: -90.5133 - Altitude: 1,508.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:23 Sunrise 05:52:37 Dhuhr (Noon) 11:49:39 Medium Coeli 11:49:39 Sunset 17:46:29 Maghrib 18:01:01 Isha (Night) 18:42:26 Sharia Midnight 23:17:28 Imum Coeli 23:49:31 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guatemala City Sunday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/sunday/</guid><description>Geographic Information of Guatemala City TimeZone: -06:00 - Latitude: 14.6407 - Longitude: -90.5133 - Altitude: 1,508.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:18 Sunrise 05:52:30 Dhuhr (Noon) 11:49:56 Medium Coeli 11:49:56 Sunset 17:47:10 Maghrib 18:01:41 Isha (Night) 18:43:05 Sharia Midnight 23:17:46 Imum Coeli 23:49:47 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guatemala City Saturday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/saturday/</guid><description>Geographic Information of Guatemala City TimeZone: -06:00 - Latitude: 14.6407 - Longitude: -90.5133 - Altitude: 1,508.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:13 Sunrise 05:52:23 Dhuhr (Noon) 11:50:13 Medium Coeli 11:50:13 Sunset 17:47:52 Maghrib 18:02:22 Isha (Night) 18:43:45 Sharia Midnight 23:18:05 Imum Coeli 23:50:05 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guatemala City Friday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/friday/</guid><description>Geographic Information of Guatemala City TimeZone: -06:00 - Latitude: 14.6407 - Longitude: -90.5133 - Altitude: 1,508.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:08 Sunrise 05:52:17 Dhuhr (Noon) 11:50:31 Medium Coeli 11:50:31 Sunset 17:48:34 Maghrib 18:03:03 Isha (Night) 18:44:26 Sharia Midnight 23:18:23 Imum Coeli 23:50:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guatemala City Thursday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/thursday/</guid><description>Geographic Information of Guatemala City TimeZone: -06:00 - Latitude: 14.6407 - Longitude: -90.5133 - Altitude: 1,508.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:03 Sunrise 05:52:11 Dhuhr (Noon) 11:50:50 Medium Coeli 11:50:50 Sunset 17:49:16 Maghrib 18:03:45 Isha (Night) 18:45:07 Sharia Midnight 23:18:42 Imum Coeli 23:50:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guatemala City Wednesday</title><link>https://astrology.ir/ephemeris/guatemala/guatemala_city/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0600</pubDate><guid>https://astrology.ir/ephemeris/guatemala/guatemala_city/wednesday/</guid><description>Geographic Information of Guatemala City TimeZone: -06:00 - Latitude: 14.6407 - Longitude: -90.5133 - Altitude: 1,508.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:47:58 Sunrise 05:52:06 Dhuhr (Noon) 11:51:08 Medium Coeli 11:51:08 Sunset 17:49:58 Maghrib 18:04:27 Isha (Night) 18:45:48 Sharia Midnight 23:19:00 Imum Coeli 23:50:59 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

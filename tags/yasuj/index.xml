@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yasuj on Astrology</title><link>https://astrology.ir/tags/yasuj/</link><description>Recent content in Yasuj on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/yasuj/index.xml" rel="self" type="application/rss+xml"/><item><title>Yasuj Wednesday</title><link>https://astrology.ir/ephemeris/iran/yasuj/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/wednesday/</guid><description>&lt;h2 id="geographic-information-of-yasuj">Geographic Information of Yasuj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.6682
--
-Longitude: 51.5880
--
-Altitude: 1,841.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yasuj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6682', '51.5880');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yasuj Tuesday</title><link>https://astrology.ir/ephemeris/iran/yasuj/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/tuesday/</guid><description>&lt;h2 id="geographic-information-of-yasuj">Geographic Information of Yasuj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.6682
--
-Longitude: 51.5880
--
-Altitude: 1,841.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yasuj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6682', '51.5880');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yasuj Monday</title><link>https://astrology.ir/ephemeris/iran/yasuj/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/monday/</guid><description>&lt;h2 id="geographic-information-of-yasuj">Geographic Information of Yasuj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.6682
--
-Longitude: 51.5880
--
-Altitude: 1,841.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yasuj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6682', '51.5880');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yasuj Sunday</title><link>https://astrology.ir/ephemeris/iran/yasuj/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/sunday/</guid><description>&lt;h2 id="geographic-information-of-yasuj">Geographic Information of Yasuj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.6682
--
-Longitude: 51.5880
--
-Altitude: 1,841.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yasuj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6682', '51.5880');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yasuj Saturday</title><link>https://astrology.ir/ephemeris/iran/yasuj/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/saturday/</guid><description>&lt;h2 id="geographic-information-of-yasuj">Geographic Information of Yasuj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.6682
--
-Longitude: 51.5880
--
-Altitude: 1,841.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yasuj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6682', '51.5880');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yasuj</title><link>https://astrology.ir/ephemeris/iran/yasuj/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/</guid><description>&lt;h2 id="geographic-information-of-yasuj">Geographic Information of Yasuj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.6682
--
-Longitude: 51.5880
--
-Altitude: 1,841.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yasuj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6682', '51.5880');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yasuj Friday</title><link>https://astrology.ir/ephemeris/iran/yasuj/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/friday/</guid><description>&lt;h2 id="geographic-information-of-yasuj">Geographic Information of Yasuj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.6682
--
-Longitude: 51.5880
--
-Altitude: 1,841.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yasuj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6682', '51.5880');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yasuj Thursday</title><link>https://astrology.ir/ephemeris/iran/yasuj/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/thursday/</guid><description>&lt;h2 id="geographic-information-of-yasuj">Geographic Information of Yasuj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.6682
--
-Longitude: 51.5880
--
-Altitude: 1,841.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yasuj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.6682', '51.5880');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yasuj on Astrology</title><link>https://astrology.ir/tags/yasuj/</link><description>Recent content in Yasuj on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/yasuj/index.xml" rel="self" type="application/rss+xml"/><item><title>Yasuj Wednesday</title><link>https://astrology.ir/ephemeris/iran/yasuj/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/wednesday/</guid><description>Geographic Information of Yasuj TimeZone: +03:30 - Latitude: 30.6682 - Longitude: 51.5880 - Altitude: 1,841.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:18 Sunrise 06:02:39 Dhuhr (Noon) 11:50:48 Medium Coeli 11:50:48 Sunset 17:38:30 Maghrib 17:54:58 Isha (Night) 18:41:29 Sharia Midnight 23:14:42 Imum Coeli 23:50:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yasuj Tuesday</title><link>https://astrology.ir/ephemeris/iran/yasuj/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/tuesday/</guid><description>Geographic Information of Yasuj TimeZone: +03:30 - Latitude: 30.6682 - Longitude: 51.5880 - Altitude: 1,841.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:49:42 Sunrise 06:02:01 Dhuhr (Noon) 11:51:05 Medium Coeli 11:51:05 Sunset 17:39:41 Maghrib 17:56:08 Isha (Night) 18:42:38 Sharia Midnight 23:14:59 Imum Coeli 23:50:56 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yasuj Monday</title><link>https://astrology.ir/ephemeris/iran/yasuj/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/monday/</guid><description>Geographic Information of Yasuj TimeZone: +03:30 - Latitude: 30.6682 - Longitude: 51.5880 - Altitude: 1,841.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:49:05 Sunrise 06:01:23 Dhuhr (Noon) 11:51:21 Medium Coeli 11:51:21 Sunset 17:40:53 Maghrib 17:57:18 Isha (Night) 18:43:48 Sharia Midnight 23:15:17 Imum Coeli 23:51:13 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yasuj Sunday</title><link>https://astrology.ir/ephemeris/iran/yasuj/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/sunday/</guid><description>Geographic Information of Yasuj TimeZone: +03:30 - Latitude: 30.6682 - Longitude: 51.5880 - Altitude: 1,841.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:28 Sunrise 06:00:46 Dhuhr (Noon) 11:51:39 Medium Coeli 11:51:39 Sunset 17:42:04 Maghrib 17:58:30 Isha (Night) 18:44:59 Sharia Midnight 23:15:34 Imum Coeli 23:51:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yasuj Saturday</title><link>https://astrology.ir/ephemeris/iran/yasuj/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/saturday/</guid><description>Geographic Information of Yasuj TimeZone: +03:30 - Latitude: 30.6682 - Longitude: 51.5880 - Altitude: 1,841.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:47:51 Sunrise 06:00:09 Dhuhr (Noon) 11:51:56 Medium Coeli 11:51:56 Sunset 17:43:17 Maghrib 17:59:41 Isha (Night) 18:46:11 Sharia Midnight 23:15:52 Imum Coeli 23:51:47 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yasuj</title><link>https://astrology.ir/ephemeris/iran/yasuj/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/</guid><description>Geographic Information of Yasuj TimeZone: +03:30 - Latitude: 30.6682 - Longitude: 51.5880 - Altitude: 1,841.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:47:14 Sunrise 05:59:32 Dhuhr (Noon) 11:52:14 Medium Coeli 11:52:14 Sunset 17:44:30 Maghrib 18:00:54 Isha (Night) 18:47:23 Sharia Midnight 23:16:10 Imum Coeli 23:52:05 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yasuj Friday</title><link>https://astrology.ir/ephemeris/iran/yasuj/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/friday/</guid><description>Geographic Information of Yasuj TimeZone: +03:30 - Latitude: 30.6682 - Longitude: 51.5880 - Altitude: 1,841.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:47:14 Sunrise 05:59:32 Dhuhr (Noon) 11:52:14 Medium Coeli 11:52:14 Sunset 17:44:30 Maghrib 18:00:54 Isha (Night) 18:47:23 Sharia Midnight 23:16:10 Imum Coeli 23:52:05 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yasuj Thursday</title><link>https://astrology.ir/ephemeris/iran/yasuj/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/yasuj/thursday/</guid><description>Geographic Information of Yasuj TimeZone: +03:30 - Latitude: 30.6682 - Longitude: 51.5880 - Altitude: 1,841.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:46:38 Sunrise 05:58:55 Dhuhr (Noon) 11:52:33 Medium Coeli 11:52:33 Sunset 17:45:43 Maghrib 18:02:06 Isha (Night) 18:48:36 Sharia Midnight 23:16:28 Imum Coeli 23:52:23 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

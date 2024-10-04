@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karaj on Astrology</title><link>https://astrology.ir/tags/karaj/</link><description>Recent content in Karaj on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/karaj/index.xml" rel="self" type="application/rss+xml"/><item><title>Karaj Wednesday</title><link>https://astrology.ir/ephemeris/iran/karaj/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/wednesday/</guid><description>&lt;h2 id="geographic-information-of-karaj">Geographic Information of Karaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.8327
--
-Longitude: 50.9915
--
-Altitude: 1,341.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.8327', '50.9915');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karaj Tuesday</title><link>https://astrology.ir/ephemeris/iran/karaj/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/tuesday/</guid><description>&lt;h2 id="geographic-information-of-karaj">Geographic Information of Karaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.8327
--
-Longitude: 50.9915
--
-Altitude: 1,341.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.8327', '50.9915');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karaj Monday</title><link>https://astrology.ir/ephemeris/iran/karaj/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/monday/</guid><description>&lt;h2 id="geographic-information-of-karaj">Geographic Information of Karaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.8327
--
-Longitude: 50.9915
--
-Altitude: 1,341.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.8327', '50.9915');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karaj Sunday</title><link>https://astrology.ir/ephemeris/iran/karaj/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/sunday/</guid><description>&lt;h2 id="geographic-information-of-karaj">Geographic Information of Karaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.8327
--
-Longitude: 50.9915
--
-Altitude: 1,341.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.8327', '50.9915');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karaj Saturday</title><link>https://astrology.ir/ephemeris/iran/karaj/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/saturday/</guid><description>&lt;h2 id="geographic-information-of-karaj">Geographic Information of Karaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.8327
--
-Longitude: 50.9915
--
-Altitude: 1,341.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.8327', '50.9915');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karaj</title><link>https://astrology.ir/ephemeris/iran/karaj/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/</guid><description>&lt;h2 id="geographic-information-of-karaj">Geographic Information of Karaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.8327
--
-Longitude: 50.9915
--
-Altitude: 1,341.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.8327', '50.9915');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karaj Friday</title><link>https://astrology.ir/ephemeris/iran/karaj/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/friday/</guid><description>&lt;h2 id="geographic-information-of-karaj">Geographic Information of Karaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.8327
--
-Longitude: 50.9915
--
-Altitude: 1,341.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.8327', '50.9915');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Karaj Thursday</title><link>https://astrology.ir/ephemeris/iran/karaj/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/thursday/</guid><description>&lt;h2 id="geographic-information-of-karaj">Geographic Information of Karaj&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 35.8327
--
-Longitude: 50.9915
--
-Altitude: 1,341.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Karaj, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.8327', '50.9915');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karaj on Astrology</title><link>https://astrology.ir/tags/karaj/</link><description>Recent content in Karaj on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/karaj/index.xml" rel="self" type="application/rss+xml"/><item><title>Karaj Wednesday</title><link>https://astrology.ir/ephemeris/iran/karaj/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/wednesday/</guid><description>Geographic Information of Karaj TimeZone: +03:30 - Latitude: 35.8327 - Longitude: 50.9915 - Altitude: 1,341.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:23 Sunrise 06:08:00 Dhuhr (Noon) 11:53:11 Medium Coeli 11:53:11 Sunset 17:37:51 Maghrib 17:55:08 Isha (Night) 18:44:29 Sharia Midnight 23:15:01 Imum Coeli 23:53:03 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Karaj Tuesday</title><link>https://astrology.ir/ephemeris/iran/karaj/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/tuesday/</guid><description>Geographic Information of Karaj TimeZone: +03:30 - Latitude: 35.8327 - Longitude: 50.9915 - Altitude: 1,341.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:34 Sunrise 06:07:10 Dhuhr (Noon) 11:53:28 Medium Coeli 11:53:28 Sunset 17:39:14 Maghrib 17:56:30 Isha (Night) 18:45:50 Sharia Midnight 23:15:18 Imum Coeli 23:53:19 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Karaj Monday</title><link>https://astrology.ir/ephemeris/iran/karaj/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/monday/</guid><description>Geographic Information of Karaj TimeZone: +03:30 - Latitude: 35.8327 - Longitude: 50.9915 - Altitude: 1,341.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:49:45 Sunrise 06:06:20 Dhuhr (Noon) 11:53:44 Medium Coeli 11:53:44 Sunset 17:40:37 Maghrib 17:57:53 Isha (Night) 18:47:12 Sharia Midnight 23:15:35 Imum Coeli 23:53:36 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Karaj Sunday</title><link>https://astrology.ir/ephemeris/iran/karaj/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/sunday/</guid><description>Geographic Information of Karaj TimeZone: +03:30 - Latitude: 35.8327 - Longitude: 50.9915 - Altitude: 1,341.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:56 Sunrise 06:05:30 Dhuhr (Noon) 11:54:02 Medium Coeli 11:54:02 Sunset 17:42:01 Maghrib 17:59:16 Isha (Night) 18:48:35 Sharia Midnight 23:15:53 Imum Coeli 23:53:53 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Karaj Saturday</title><link>https://astrology.ir/ephemeris/iran/karaj/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/saturday/</guid><description>Geographic Information of Karaj TimeZone: +03:30 - Latitude: 35.8327 - Longitude: 50.9915 - Altitude: 1,341.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:48:06 Sunrise 06:04:41 Dhuhr (Noon) 11:54:19 Medium Coeli 11:54:19 Sunset 17:43:25 Maghrib 18:00:40 Isha (Night) 18:49:59 Sharia Midnight 23:16:10 Imum Coeli 23:54:10 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Karaj</title><link>https://astrology.ir/ephemeris/iran/karaj/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/</guid><description>Geographic Information of Karaj TimeZone: +03:30 - Latitude: 35.8327 - Longitude: 50.9915 - Altitude: 1,341.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:47:17 Sunrise 06:03:52 Dhuhr (Noon) 11:54:37 Medium Coeli 11:54:37 Sunset 17:44:50 Maghrib 18:02:04 Isha (Night) 18:51:24 Sharia Midnight 23:16:28 Imum Coeli 23:54:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Karaj Friday</title><link>https://astrology.ir/ephemeris/iran/karaj/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/friday/</guid><description>Geographic Information of Karaj TimeZone: +03:30 - Latitude: 35.8327 - Longitude: 50.9915 - Altitude: 1,341.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:47:17 Sunrise 06:03:52 Dhuhr (Noon) 11:54:37 Medium Coeli 11:54:37 Sunset 17:44:50 Maghrib 18:02:04 Isha (Night) 18:51:24 Sharia Midnight 23:16:28 Imum Coeli 23:54:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Karaj Thursday</title><link>https://astrology.ir/ephemeris/iran/karaj/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/karaj/thursday/</guid><description>Geographic Information of Karaj TimeZone: +03:30 - Latitude: 35.8327 - Longitude: 50.9915 - Altitude: 1,341.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:46:28 Sunrise 06:03:03 Dhuhr (Noon) 11:54:56 Medium Coeli 11:54:56 Sunset 17:46:15 Maghrib 18:03:29 Isha (Night) 18:52:49 Sharia Midnight 23:16:46 Imum Coeli 23:54:46 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

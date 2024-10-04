@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Plymouth on Astrology</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/</link><description>Recent content in Plymouth on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/montserrat/plymouth/index.xml" rel="self" type="application/rss+xml"/><item><title>Plymouth Tuesday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/tuesday/</guid><description>&lt;h2 id="geographic-information-of-plymouth">Geographic Information of Plymouth&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 16.7055
--
-Longitude: -62.2129
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Plymouth, Montserrat | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('16.7055', '-62.2129');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Plymouth Monday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/monday/</guid><description>&lt;h2 id="geographic-information-of-plymouth">Geographic Information of Plymouth&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 16.7055
--
-Longitude: -62.2129
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Plymouth, Montserrat | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('16.7055', '-62.2129');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Plymouth Sunday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/sunday/</guid><description>&lt;h2 id="geographic-information-of-plymouth">Geographic Information of Plymouth&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 16.7055
--
-Longitude: -62.2129
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Plymouth, Montserrat | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('16.7055', '-62.2129');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Plymouth Saturday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/saturday/</guid><description>&lt;h2 id="geographic-information-of-plymouth">Geographic Information of Plymouth&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 16.7055
--
-Longitude: -62.2129
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Plymouth, Montserrat | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('16.7055', '-62.2129');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Plymouth Friday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/friday/</guid><description>&lt;h2 id="geographic-information-of-plymouth">Geographic Information of Plymouth&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 16.7055
--
-Longitude: -62.2129
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Plymouth, Montserrat | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('16.7055', '-62.2129');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Plymouth Thursday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/thursday/</guid><description>&lt;h2 id="geographic-information-of-plymouth">Geographic Information of Plymouth&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 16.7055
--
-Longitude: -62.2129
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Plymouth, Montserrat | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('16.7055', '-62.2129');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Plymouth Wednesday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/wednesday/</guid><description>&lt;h2 id="geographic-information-of-plymouth">Geographic Information of Plymouth&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 16.7055
--
-Longitude: -62.2129
--
-Altitude: 77.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Plymouth, Montserrat | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('16.7055', '-62.2129');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Plymouth on Astrology</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/</link><description>Recent content in Plymouth on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/montserrat/plymouth/index.xml" rel="self" type="application/rss+xml"/><item><title>Plymouth Tuesday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/tuesday/</guid><description>Geographic Information of Plymouth TimeZone: -04:00 - Latitude: 16.7055 - Longitude: -62.2129 - Altitude: 77.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:55:33 Sunrise 06:00:01 Dhuhr (Noon) 11:56:11 Medium Coeli 11:56:11 Sunset 17:52:09 Maghrib 18:06:23 Isha (Night) 18:48:14 Sharia Midnight 23:23:55 Imum Coeli 23:56:03 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Plymouth Monday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/monday/</guid><description>Geographic Information of Plymouth TimeZone: -04:00 - Latitude: 16.7055 - Longitude: -62.2129 - Altitude: 77.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:55:24 Sunrise 05:59:50 Dhuhr (Noon) 11:56:28 Medium Coeli 11:56:28 Sunset 17:52:53 Maghrib 18:07:07 Isha (Night) 18:48:56 Sharia Midnight 23:24:13 Imum Coeli 23:56:20 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Plymouth Sunday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/sunday/</guid><description>Geographic Information of Plymouth TimeZone: -04:00 - Latitude: 16.7055 - Longitude: -62.2129 - Altitude: 77.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:55:15 Sunrise 05:59:39 Dhuhr (Noon) 11:56:45 Medium Coeli 11:56:45 Sunset 17:53:37 Maghrib 18:07:51 Isha (Night) 18:49:39 Sharia Midnight 23:24:30 Imum Coeli 23:56:37 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Plymouth Saturday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/saturday/</guid><description>Geographic Information of Plymouth TimeZone: -04:00 - Latitude: 16.7055 - Longitude: -62.2129 - Altitude: 77.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:55:06 Sunrise 05:59:29 Dhuhr (Noon) 11:57:03 Medium Coeli 11:57:03 Sunset 17:54:23 Maghrib 18:08:35 Isha (Night) 18:50:23 Sharia Midnight 23:24:49 Imum Coeli 23:56:54 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Plymouth Friday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/friday/</guid><description>Geographic Information of Plymouth TimeZone: -04:00 - Latitude: 16.7055 - Longitude: -62.2129 - Altitude: 77.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:54:58 Sunrise 05:59:20 Dhuhr (Noon) 11:57:21 Medium Coeli 11:57:21 Sunset 17:55:08 Maghrib 18:09:20 Isha (Night) 18:51:07 Sharia Midnight 23:25:07 Imum Coeli 23:57:12 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Plymouth Thursday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/thursday/</guid><description>Geographic Information of Plymouth TimeZone: -04:00 - Latitude: 16.7055 - Longitude: -62.2129 - Altitude: 77.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:54:49 Sunrise 05:59:10 Dhuhr (Noon) 11:57:39 Medium Coeli 11:57:39 Sunset 17:55:54 Maghrib 18:10:06 Isha (Night) 18:51:52 Sharia Midnight 23:25:26 Imum Coeli 23:57:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Plymouth Wednesday</title><link>https://astrology.ir/ephemeris/montserrat/plymouth/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/montserrat/plymouth/wednesday/</guid><description>Geographic Information of Plymouth TimeZone: -04:00 - Latitude: 16.7055 - Longitude: -62.2129 - Altitude: 77.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:54:41 Sunrise 05:59:01 Dhuhr (Noon) 11:57:58 Medium Coeli 11:57:58 Sunset 17:56:40 Maghrib 18:10:52 Isha (Night) 18:52:37 Sharia Midnight 23:25:44 Imum Coeli 23:57:48 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

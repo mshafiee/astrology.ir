@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Malawi on Astrology</title><link>https://astrology.ir/tags/malawi/</link><description>Recent content in Malawi on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/malawi/index.xml" rel="self" type="application/rss+xml"/><item><title>Lilongwe Wednesday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/wednesday/</guid><description>&lt;h2 id="geographic-information-of-lilongwe">Geographic Information of Lilongwe&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -13.9669
--
-Longitude: 33.7873
--
-Altitude: 1,056.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lilongwe, Malawi | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-13.9669', '33.7873');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lilongwe Tuesday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/tuesday/</guid><description>&lt;h2 id="geographic-information-of-lilongwe">Geographic Information of Lilongwe&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -13.9669
--
-Longitude: 33.7873
--
-Altitude: 1,056.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lilongwe, Malawi | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-13.9669', '33.7873');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lilongwe Monday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/monday/</guid><description>&lt;h2 id="geographic-information-of-lilongwe">Geographic Information of Lilongwe&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -13.9669
--
-Longitude: 33.7873
--
-Altitude: 1,056.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lilongwe, Malawi | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-13.9669', '33.7873');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lilongwe Sunday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/sunday/</guid><description>&lt;h2 id="geographic-information-of-lilongwe">Geographic Information of Lilongwe&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -13.9669
--
-Longitude: 33.7873
--
-Altitude: 1,056.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lilongwe, Malawi | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-13.9669', '33.7873');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lilongwe Saturday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/saturday/</guid><description>&lt;h2 id="geographic-information-of-lilongwe">Geographic Information of Lilongwe&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -13.9669
--
-Longitude: 33.7873
--
-Altitude: 1,056.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lilongwe, Malawi | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-13.9669', '33.7873');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lilongwe</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/</guid><description>&lt;h2 id="geographic-information-of-lilongwe">Geographic Information of Lilongwe&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -13.9669
--
-Longitude: 33.7873
--
-Altitude: 1,056.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lilongwe, Malawi | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-13.9669', '33.7873');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lilongwe Friday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/friday/</guid><description>&lt;h2 id="geographic-information-of-lilongwe">Geographic Information of Lilongwe&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -13.9669
--
-Longitude: 33.7873
--
-Altitude: 1,056.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lilongwe, Malawi | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-13.9669', '33.7873');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Lilongwe Thursday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/thursday/</guid><description>&lt;h2 id="geographic-information-of-lilongwe">Geographic Information of Lilongwe&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: -13.9669
--
-Longitude: 33.7873
--
-Altitude: 1,056.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Lilongwe, Malawi | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-13.9669', '33.7873');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Malawi on Astrology</title><link>https://astrology.ir/tags/malawi/</link><description>Recent content in Malawi on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/malawi/index.xml" rel="self" type="application/rss+xml"/><item><title>Lilongwe Wednesday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/wednesday/</guid><description>Geographic Information of Lilongwe TimeZone: +02:00 - Latitude: -13.9669 - Longitude: 33.7873 - Altitude: 1,056.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:17:49 Sunrise 05:22:20 Dhuhr (Noon) 11:31:59 Medium Coeli 11:31:59 Sunset 17:41:51 Maghrib 17:56:16 Isha (Night) 18:38:02 Sharia Midnight 22:59:28 Imum Coeli 23:31:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lilongwe Tuesday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/tuesday/</guid><description>Geographic Information of Lilongwe TimeZone: +02:00 - Latitude: -13.9669 - Longitude: 33.7873 - Altitude: 1,056.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:18:33 Sunrise 05:23:00 Dhuhr (Noon) 11:32:16 Medium Coeli 11:32:16 Sunset 17:41:44 Maghrib 17:56:08 Isha (Night) 18:37:52 Sharia Midnight 22:59:46 Imum Coeli 23:32:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lilongwe Monday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/monday/</guid><description>Geographic Information of Lilongwe TimeZone: +02:00 - Latitude: -13.9669 - Longitude: 33.7873 - Altitude: 1,056.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:19:17 Sunrise 05:23:40 Dhuhr (Noon) 11:32:33 Medium Coeli 11:32:33 Sunset 17:41:38 Maghrib 17:56:01 Isha (Night) 18:37:42 Sharia Midnight 23:00:05 Imum Coeli 23:32:24 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lilongwe Sunday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/sunday/</guid><description>Geographic Information of Lilongwe TimeZone: +02:00 - Latitude: -13.9669 - Longitude: 33.7873 - Altitude: 1,056.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:20:01 Sunrise 05:24:20 Dhuhr (Noon) 11:32:50 Medium Coeli 11:32:50 Sunset 17:41:31 Maghrib 17:55:54 Isha (Night) 18:37:32 Sharia Midnight 23:00:24 Imum Coeli 23:32:41 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lilongwe Saturday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/saturday/</guid><description>Geographic Information of Lilongwe TimeZone: +02:00 - Latitude: -13.9669 - Longitude: 33.7873 - Altitude: 1,056.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:20:46 Sunrise 05:25:01 Dhuhr (Noon) 11:33:07 Medium Coeli 11:33:07 Sunset 17:41:26 Maghrib 17:55:48 Isha (Night) 18:37:24 Sharia Midnight 23:00:43 Imum Coeli 23:32:59 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lilongwe</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/</guid><description>Geographic Information of Lilongwe TimeZone: +02:00 - Latitude: -13.9669 - Longitude: 33.7873 - Altitude: 1,056.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:21:31 Sunrise 05:25:42 Dhuhr (Noon) 11:33:25 Medium Coeli 11:33:25 Sunset 17:41:20 Maghrib 17:55:42 Isha (Night) 18:37:15 Sharia Midnight 23:01:03 Imum Coeli 23:33:16 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lilongwe Friday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/friday/</guid><description>Geographic Information of Lilongwe TimeZone: +02:00 - Latitude: -13.9669 - Longitude: 33.7873 - Altitude: 1,056.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:21:31 Sunrise 05:25:42 Dhuhr (Noon) 11:33:25 Medium Coeli 11:33:25 Sunset 17:41:20 Maghrib 17:55:42 Isha (Night) 18:37:15 Sharia Midnight 23:01:03 Imum Coeli 23:33:16 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Lilongwe Thursday</title><link>https://astrology.ir/ephemeris/malawi/lilongwe/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/malawi/lilongwe/thursday/</guid><description>Geographic Information of Lilongwe TimeZone: +02:00 - Latitude: -13.9669 - Longitude: 33.7873 - Altitude: 1,056.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:22:16 Sunrise 05:26:24 Dhuhr (Noon) 11:33:44 Medium Coeli 11:33:44 Sunset 17:41:15 Maghrib 17:55:36 Isha (Night) 18:37:08 Sharia Midnight 23:01:23 Imum Coeli 23:33:35 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

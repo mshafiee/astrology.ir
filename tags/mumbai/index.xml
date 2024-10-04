@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mumbai on Astrology</title><link>https://astrology.ir/tags/mumbai/</link><description>Recent content in Mumbai on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://astrology.ir/tags/mumbai/index.xml" rel="self" type="application/rss+xml"/><item><title>Mumbai Wednesday</title><link>https://astrology.ir/ephemeris/india/mumbai/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/wednesday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai Tuesday</title><link>https://astrology.ir/ephemeris/india/mumbai/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/tuesday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai Monday</title><link>https://astrology.ir/ephemeris/india/mumbai/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/monday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai Sunday</title><link>https://astrology.ir/ephemeris/india/mumbai/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/sunday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai Saturday</title><link>https://astrology.ir/ephemeris/india/mumbai/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/saturday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai</title><link>https://astrology.ir/ephemeris/india/mumbai/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai Friday</title><link>https://astrology.ir/ephemeris/india/mumbai/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/friday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Mumbai Thursday</title><link>https://astrology.ir/ephemeris/india/mumbai/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/thursday/</guid><description>&lt;h2 id="geographic-information-of-mumbai">Geographic Information of Mumbai&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 19.0728
--
-Longitude: 72.8826
--
-Altitude: 8.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Mumbai, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.0728', '72.8826');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mumbai on Astrology</title><link>https://astrology.ir/tags/mumbai/</link><description>Recent content in Mumbai on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://astrology.ir/tags/mumbai/index.xml" rel="self" type="application/rss+xml"/><item><title>Mumbai Wednesday</title><link>https://astrology.ir/ephemeris/india/mumbai/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/wednesday/</guid><description>Geographic Information of Mumbai TimeZone: +05:30 - Latitude: 19.0728 - Longitude: 72.8826 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:25:32 Sunrise 06:30:51 Dhuhr (Noon) 12:25:38 Medium Coeli 12:25:38 Sunset 18:20:11 Maghrib 18:34:35 Isha (Night) 19:16:59 Sharia Midnight 23:52:58 Imum Coeli 00:25:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Mumbai Tuesday</title><link>https://astrology.ir/ephemeris/india/mumbai/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/tuesday/</guid><description>Geographic Information of Mumbai TimeZone: +05:30 - Latitude: 19.0728 - Longitude: 72.8826 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:25:19 Sunrise 06:30:35 Dhuhr (Noon) 12:25:55 Medium Coeli 12:25:55 Sunset 18:20:59 Maghrib 18:35:23 Isha (Night) 19:17:46 Sharia Midnight 23:53:15 Imum Coeli 00:25:46 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Mumbai Monday</title><link>https://astrology.ir/ephemeris/india/mumbai/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/monday/</guid><description>Geographic Information of Mumbai TimeZone: +05:30 - Latitude: 19.0728 - Longitude: 72.8826 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:25:05 Sunrise 06:30:20 Dhuhr (Noon) 12:26:12 Medium Coeli 12:26:12 Sunset 18:21:47 Maghrib 18:36:11 Isha (Night) 19:18:33 Sharia Midnight 23:53:33 Imum Coeli 00:26:03 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Mumbai Sunday</title><link>https://astrology.ir/ephemeris/india/mumbai/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/sunday/</guid><description>Geographic Information of Mumbai TimeZone: +05:30 - Latitude: 19.0728 - Longitude: 72.8826 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:24:52 Sunrise 06:30:06 Dhuhr (Noon) 12:26:29 Medium Coeli 12:26:29 Sunset 18:22:36 Maghrib 18:36:59 Isha (Night) 19:19:20 Sharia Midnight 23:53:50 Imum Coeli 00:26:20 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Mumbai Saturday</title><link>https://astrology.ir/ephemeris/india/mumbai/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/saturday/</guid><description>Geographic Information of Mumbai TimeZone: +05:30 - Latitude: 19.0728 - Longitude: 72.8826 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:24:39 Sunrise 06:29:52 Dhuhr (Noon) 12:26:47 Medium Coeli 12:26:47 Sunset 18:23:26 Maghrib 18:37:48 Isha (Night) 19:20:08 Sharia Midnight 23:54:09 Imum Coeli 00:26:38 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Mumbai</title><link>https://astrology.ir/ephemeris/india/mumbai/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/</guid><description>Geographic Information of Mumbai TimeZone: +05:30 - Latitude: 19.0728 - Longitude: 72.8826 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:24:26 Sunrise 06:29:38 Dhuhr (Noon) 12:27:05 Medium Coeli 12:27:05 Sunset 18:24:15 Maghrib 18:38:38 Isha (Night) 19:20:57 Sharia Midnight 23:54:27 Imum Coeli 00:26:55 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Mumbai Friday</title><link>https://astrology.ir/ephemeris/india/mumbai/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/friday/</guid><description>Geographic Information of Mumbai TimeZone: +05:30 - Latitude: 19.0728 - Longitude: 72.8826 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:24:26 Sunrise 06:29:38 Dhuhr (Noon) 12:27:05 Medium Coeli 12:27:05 Sunset 18:24:15 Maghrib 18:38:38 Isha (Night) 19:20:57 Sharia Midnight 23:54:27 Imum Coeli 00:26:55 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Mumbai Thursday</title><link>https://astrology.ir/ephemeris/india/mumbai/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/mumbai/thursday/</guid><description>Geographic Information of Mumbai TimeZone: +05:30 - Latitude: 19.0728 - Longitude: 72.8826 - Altitude: 8.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:24:13 Sunrise 06:29:24 Dhuhr (Noon) 12:27:23 Medium Coeli 12:27:23 Sunset 18:25:06 Maghrib 18:39:27 Isha (Night) 19:21:46 Sharia Midnight 23:54:46 Imum Coeli 00:27:14 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

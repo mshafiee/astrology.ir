@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Havana on Astrology</title><link>https://astrology.ir/ephemeris/cuba/havana/</link><description>Recent content in Havana on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/cuba/havana/index.xml" rel="self" type="application/rss+xml"/><item><title>Havana Tuesday</title><link>https://astrology.ir/ephemeris/cuba/havana/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/tuesday/</guid><description>&lt;h2 id="geographic-information-of-havana">Geographic Information of Havana&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 23.1330
--
-Longitude: -82.3830
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Havana, Cuba | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1330', '-82.3830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Havana Monday</title><link>https://astrology.ir/ephemeris/cuba/havana/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/monday/</guid><description>&lt;h2 id="geographic-information-of-havana">Geographic Information of Havana&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 23.1330
--
-Longitude: -82.3830
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Havana, Cuba | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1330', '-82.3830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Havana Sunday</title><link>https://astrology.ir/ephemeris/cuba/havana/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/sunday/</guid><description>&lt;h2 id="geographic-information-of-havana">Geographic Information of Havana&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 23.1330
--
-Longitude: -82.3830
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Havana, Cuba | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1330', '-82.3830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Havana Saturday</title><link>https://astrology.ir/ephemeris/cuba/havana/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/saturday/</guid><description>&lt;h2 id="geographic-information-of-havana">Geographic Information of Havana&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 23.1330
--
-Longitude: -82.3830
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Havana, Cuba | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1330', '-82.3830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Havana Friday</title><link>https://astrology.ir/ephemeris/cuba/havana/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/friday/</guid><description>&lt;h2 id="geographic-information-of-havana">Geographic Information of Havana&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 23.1330
--
-Longitude: -82.3830
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Havana, Cuba | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1330', '-82.3830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Havana Thursday</title><link>https://astrology.ir/ephemeris/cuba/havana/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/thursday/</guid><description>&lt;h2 id="geographic-information-of-havana">Geographic Information of Havana&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 23.1330
--
-Longitude: -82.3830
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Havana, Cuba | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1330', '-82.3830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Havana Wednesday</title><link>https://astrology.ir/ephemeris/cuba/havana/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/wednesday/</guid><description>&lt;h2 id="geographic-information-of-havana">Geographic Information of Havana&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: 23.1330
--
-Longitude: -82.3830
--
-Altitude: 41.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Havana, Cuba | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.1330', '-82.3830');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Havana on Astrology</title><link>https://astrology.ir/ephemeris/cuba/havana/</link><description>Recent content in Havana on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/cuba/havana/index.xml" rel="self" type="application/rss+xml"/><item><title>Havana Tuesday</title><link>https://astrology.ir/ephemeris/cuba/havana/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/tuesday/</guid><description>Geographic Information of Havana TimeZone: -04:00 - Latitude: 23.1330 - Longitude: -82.3830 - Altitude: 41.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:16:35 Sunrise 07:23:41 Dhuhr (Noon) 13:16:51 Medium Coeli 13:16:51 Sunset 19:09:42 Maghrib 19:24:31 Isha (Night) 20:08:04 Sharia Midnight 00:43:19 Imum Coeli 01:16:43 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Havana Monday</title><link>https://astrology.ir/ephemeris/cuba/havana/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/monday/</guid><description>Geographic Information of Havana TimeZone: -04:00 - Latitude: 23.1330 - Longitude: -82.3830 - Altitude: 41.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:16:14 Sunrise 07:23:19 Dhuhr (Noon) 13:17:08 Medium Coeli 13:17:08 Sunset 19:10:38 Maghrib 19:25:27 Isha (Night) 20:08:58 Sharia Midnight 00:43:36 Imum Coeli 01:17:00 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Havana Sunday</title><link>https://astrology.ir/ephemeris/cuba/havana/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/sunday/</guid><description>Geographic Information of Havana TimeZone: -04:00 - Latitude: 23.1330 - Longitude: -82.3830 - Altitude: 41.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:15:53 Sunrise 07:22:56 Dhuhr (Noon) 13:17:25 Medium Coeli 13:17:25 Sunset 19:11:34 Maghrib 19:26:22 Isha (Night) 20:09:53 Sharia Midnight 00:43:54 Imum Coeli 01:17:17 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Havana Saturday</title><link>https://astrology.ir/ephemeris/cuba/havana/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/saturday/</guid><description>Geographic Information of Havana TimeZone: -04:00 - Latitude: 23.1330 - Longitude: -82.3830 - Altitude: 41.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:15:32 Sunrise 07:22:34 Dhuhr (Noon) 13:17:43 Medium Coeli 13:17:43 Sunset 19:12:31 Maghrib 19:27:19 Isha (Night) 20:10:48 Sharia Midnight 00:44:12 Imum Coeli 01:17:34 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Havana Friday</title><link>https://astrology.ir/ephemeris/cuba/havana/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/friday/</guid><description>Geographic Information of Havana TimeZone: -04:00 - Latitude: 23.1330 - Longitude: -82.3830 - Altitude: 41.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:15:12 Sunrise 07:22:13 Dhuhr (Noon) 13:18:00 Medium Coeli 13:18:00 Sunset 19:13:29 Maghrib 19:28:15 Isha (Night) 20:11:45 Sharia Midnight 00:44:30 Imum Coeli 01:17:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Havana Thursday</title><link>https://astrology.ir/ephemeris/cuba/havana/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/thursday/</guid><description>Geographic Information of Havana TimeZone: -04:00 - Latitude: 23.1330 - Longitude: -82.3830 - Altitude: 41.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:14:51 Sunrise 07:21:52 Dhuhr (Noon) 13:18:19 Medium Coeli 13:18:19 Sunset 19:14:26 Maghrib 19:29:13 Isha (Night) 20:12:42 Sharia Midnight 00:44:49 Imum Coeli 01:18:10 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Havana Wednesday</title><link>https://astrology.ir/ephemeris/cuba/havana/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/cuba/havana/wednesday/</guid><description>Geographic Information of Havana TimeZone: -04:00 - Latitude: 23.1330 - Longitude: -82.3830 - Altitude: 41.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:14:30 Sunrise 07:21:30 Dhuhr (Noon) 13:18:37 Medium Coeli 13:18:37 Sunset 19:15:24 Maghrib 19:30:10 Isha (Night) 20:13:39 Sharia Midnight 00:45:07 Imum Coeli 01:18:28 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

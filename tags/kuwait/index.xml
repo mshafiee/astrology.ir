@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kuwait on Astrology</title><link>https://astrology.ir/tags/kuwait/</link><description>Recent content in Kuwait on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/kuwait/index.xml" rel="self" type="application/rss+xml"/><item><title>Kuwait City Wednesday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kuwait-city">Geographic Information of Kuwait City&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 29.3697
--
-Longitude: 47.9783
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuwait City, Kuwait | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.3697', '47.9783');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuwait City Tuesday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/tuesday/</guid><description>&lt;h2 id="geographic-information-of-kuwait-city">Geographic Information of Kuwait City&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 29.3697
--
-Longitude: 47.9783
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuwait City, Kuwait | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.3697', '47.9783');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuwait City Monday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/monday/</guid><description>&lt;h2 id="geographic-information-of-kuwait-city">Geographic Information of Kuwait City&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 29.3697
--
-Longitude: 47.9783
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuwait City, Kuwait | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.3697', '47.9783');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuwait City Sunday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/sunday/</guid><description>&lt;h2 id="geographic-information-of-kuwait-city">Geographic Information of Kuwait City&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 29.3697
--
-Longitude: 47.9783
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuwait City, Kuwait | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.3697', '47.9783');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuwait City Saturday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/saturday/</guid><description>&lt;h2 id="geographic-information-of-kuwait-city">Geographic Information of Kuwait City&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 29.3697
--
-Longitude: 47.9783
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuwait City, Kuwait | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.3697', '47.9783');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuwait City</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/</guid><description>&lt;h2 id="geographic-information-of-kuwait-city">Geographic Information of Kuwait City&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 29.3697
--
-Longitude: 47.9783
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuwait City, Kuwait | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.3697', '47.9783');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuwait City Friday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/friday/</guid><description>&lt;h2 id="geographic-information-of-kuwait-city">Geographic Information of Kuwait City&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 29.3697
--
-Longitude: 47.9783
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuwait City, Kuwait | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.3697', '47.9783');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kuwait City Thursday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/thursday/</guid><description>&lt;h2 id="geographic-information-of-kuwait-city">Geographic Information of Kuwait City&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 29.3697
--
-Longitude: 47.9783
--
-Altitude: 16.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kuwait City, Kuwait | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('29.3697', '47.9783');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kuwait on Astrology</title><link>https://astrology.ir/tags/kuwait/</link><description>Recent content in Kuwait on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/kuwait/index.xml" rel="self" type="application/rss+xml"/><item><title>Kuwait City Wednesday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/wednesday/</guid><description>Geographic Information of Kuwait City TimeZone: +03:00 - Latitude: 29.3697 - Longitude: 47.9783 - Altitude: 16.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:34:58 Sunrise 05:45:46 Dhuhr (Noon) 11:35:14 Medium Coeli 11:35:14 Sunset 17:24:18 Maghrib 17:39:56 Isha (Night) 18:25:51 Sharia Midnight 22:59:55 Imum Coeli 23:35:06 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kuwait City Tuesday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/tuesday/</guid><description>Geographic Information of Kuwait City TimeZone: +03:00 - Latitude: 29.3697 - Longitude: 47.9783 - Altitude: 16.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:34:24 Sunrise 05:45:10 Dhuhr (Noon) 11:35:31 Medium Coeli 11:35:31 Sunset 17:25:26 Maghrib 17:41:03 Isha (Night) 18:26:58 Sharia Midnight 23:00:12 Imum Coeli 23:35:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kuwait City Monday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/monday/</guid><description>Geographic Information of Kuwait City TimeZone: +03:00 - Latitude: 29.3697 - Longitude: 47.9783 - Altitude: 16.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:33:50 Sunrise 05:44:35 Dhuhr (Noon) 11:35:47 Medium Coeli 11:35:47 Sunset 17:26:34 Maghrib 17:42:11 Isha (Night) 18:28:05 Sharia Midnight 23:00:29 Imum Coeli 23:35:39 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kuwait City Sunday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/sunday/</guid><description>Geographic Information of Kuwait City TimeZone: +03:00 - Latitude: 29.3697 - Longitude: 47.9783 - Altitude: 16.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:33:16 Sunrise 05:44:00 Dhuhr (Noon) 11:36:05 Medium Coeli 11:36:05 Sunset 17:27:43 Maghrib 17:43:19 Isha (Night) 18:29:13 Sharia Midnight 23:00:46 Imum Coeli 23:35:56 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kuwait City Saturday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/saturday/</guid><description>Geographic Information of Kuwait City TimeZone: +03:00 - Latitude: 29.3697 - Longitude: 47.9783 - Altitude: 16.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:32:42 Sunrise 05:43:26 Dhuhr (Noon) 11:36:22 Medium Coeli 11:36:22 Sunset 17:28:53 Maghrib 17:44:28 Isha (Night) 18:30:21 Sharia Midnight 23:01:04 Imum Coeli 23:36:13 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kuwait City</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/</guid><description>Geographic Information of Kuwait City TimeZone: +03:00 - Latitude: 29.3697 - Longitude: 47.9783 - Altitude: 16.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:32:08 Sunrise 05:42:52 Dhuhr (Noon) 11:36:40 Medium Coeli 11:36:40 Sunset 17:30:03 Maghrib 17:45:38 Isha (Night) 18:31:31 Sharia Midnight 23:01:22 Imum Coeli 23:36:31 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kuwait City Friday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/friday/</guid><description>Geographic Information of Kuwait City TimeZone: +03:00 - Latitude: 29.3697 - Longitude: 47.9783 - Altitude: 16.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:32:08 Sunrise 05:42:52 Dhuhr (Noon) 11:36:40 Medium Coeli 11:36:40 Sunset 17:30:03 Maghrib 17:45:38 Isha (Night) 18:31:31 Sharia Midnight 23:01:22 Imum Coeli 23:36:31 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kuwait City Thursday</title><link>https://astrology.ir/ephemeris/kuwait/kuwait_city/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/kuwait/kuwait_city/thursday/</guid><description>Geographic Information of Kuwait City TimeZone: +03:00 - Latitude: 29.3697 - Longitude: 47.9783 - Altitude: 16.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:31:34 Sunrise 05:42:18 Dhuhr (Noon) 11:36:59 Medium Coeli 11:36:59 Sunset 17:31:14 Maghrib 17:46:48 Isha (Night) 18:32:41 Sharia Midnight 23:01:41 Imum Coeli 23:36:49 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

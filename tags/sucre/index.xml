@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sucre on Astrology</title><link>https://astrology.ir/tags/sucre/</link><description>Recent content in Sucre on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/tags/sucre/index.xml" rel="self" type="application/rss+xml"/><item><title>Sucre Tuesday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/tuesday/</guid><description>&lt;h2 id="geographic-information-of-sucre">Geographic Information of Sucre&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -19.0333
--
-Longitude: -65.2627
--
-Altitude: 2,798.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sucre, Bolivia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-19.0333', '-65.2627');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sucre Monday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/monday/</guid><description>&lt;h2 id="geographic-information-of-sucre">Geographic Information of Sucre&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -19.0333
--
-Longitude: -65.2627
--
-Altitude: 2,798.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sucre, Bolivia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-19.0333', '-65.2627');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sucre Sunday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/sunday/</guid><description>&lt;h2 id="geographic-information-of-sucre">Geographic Information of Sucre&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -19.0333
--
-Longitude: -65.2627
--
-Altitude: 2,798.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sucre, Bolivia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-19.0333', '-65.2627');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sucre Saturday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/saturday/</guid><description>&lt;h2 id="geographic-information-of-sucre">Geographic Information of Sucre&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -19.0333
--
-Longitude: -65.2627
--
-Altitude: 2,798.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sucre, Bolivia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-19.0333', '-65.2627');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sucre Friday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/friday/</guid><description>&lt;h2 id="geographic-information-of-sucre">Geographic Information of Sucre&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -19.0333
--
-Longitude: -65.2627
--
-Altitude: 2,798.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sucre, Bolivia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-19.0333', '-65.2627');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sucre</title><link>https://astrology.ir/ephemeris/bolivia/sucre/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/</guid><description>&lt;h2 id="geographic-information-of-sucre">Geographic Information of Sucre&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -19.0333
--
-Longitude: -65.2627
--
-Altitude: 2,798.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sucre, Bolivia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-19.0333', '-65.2627');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sucre Thursday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/thursday/</guid><description>&lt;h2 id="geographic-information-of-sucre">Geographic Information of Sucre&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -19.0333
--
-Longitude: -65.2627
--
-Altitude: 2,798.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sucre, Bolivia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-19.0333', '-65.2627');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sucre Wednesday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/wednesday/</guid><description>&lt;h2 id="geographic-information-of-sucre">Geographic Information of Sucre&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -19.0333
--
-Longitude: -65.2627
--
-Altitude: 2,798.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sucre, Bolivia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-19.0333', '-65.2627');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sucre on Astrology</title><link>https://astrology.ir/tags/sucre/</link><description>Recent content in Sucre on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/tags/sucre/index.xml" rel="self" type="application/rss+xml"/><item><title>Sucre Tuesday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/tuesday/</guid><description>Geographic Information of Sucre TimeZone: -04:00 - Latitude: -19.0333 - Longitude: -65.2627 - Altitude: 2,798.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:50:11 Sunrise 05:57:02 Dhuhr (Noon) 12:08:23 Medium Coeli 12:08:23 Sunset 18:20:01 Maghrib 18:35:19 Isha (Night) 19:18:18 Sharia Midnight 23:34:39 Imum Coeli 00:08:15 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sucre Monday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/monday/</guid><description>Geographic Information of Sucre TimeZone: -04:00 - Latitude: -19.0333 - Longitude: -65.2627 - Altitude: 2,798.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:04 Sunrise 05:57:51 Dhuhr (Noon) 12:08:40 Medium Coeli 12:08:40 Sunset 18:19:46 Maghrib 18:35:02 Isha (Night) 19:17:59 Sharia Midnight 23:34:58 Imum Coeli 00:08:32 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sucre Sunday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/sunday/</guid><description>Geographic Information of Sucre TimeZone: -04:00 - Latitude: -19.0333 - Longitude: -65.2627 - Altitude: 2,798.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:58 Sunrise 05:58:40 Dhuhr (Noon) 12:08:57 Medium Coeli 12:08:57 Sunset 18:19:31 Maghrib 18:34:46 Isha (Night) 19:17:40 Sharia Midnight 23:35:17 Imum Coeli 00:08:48 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sucre Saturday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/saturday/</guid><description>Geographic Information of Sucre TimeZone: -04:00 - Latitude: -19.0333 - Longitude: -65.2627 - Altitude: 2,798.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:52 Sunrise 05:59:30 Dhuhr (Noon) 12:09:15 Medium Coeli 12:09:15 Sunset 18:19:16 Maghrib 18:34:31 Isha (Night) 19:17:21 Sharia Midnight 23:35:37 Imum Coeli 00:09:06 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sucre Friday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/friday/</guid><description>Geographic Information of Sucre TimeZone: -04:00 - Latitude: -19.0333 - Longitude: -65.2627 - Altitude: 2,798.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:47 Sunrise 06:00:20 Dhuhr (Noon) 12:09:32 Medium Coeli 12:09:32 Sunset 18:19:02 Maghrib 18:34:16 Isha (Night) 19:17:03 Sharia Midnight 23:35:57 Imum Coeli 00:09:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sucre</title><link>https://astrology.ir/ephemeris/bolivia/sucre/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/</guid><description>Geographic Information of Sucre TimeZone: -04:00 - Latitude: -19.0333 - Longitude: -65.2627 - Altitude: 2,798.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:54:41 Sunrise 06:01:10 Dhuhr (Noon) 12:09:51 Medium Coeli 12:09:51 Sunset 18:18:47 Maghrib 18:34:01 Isha (Night) 19:16:46 Sharia Midnight 23:36:17 Imum Coeli 00:09:42 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sucre Thursday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/thursday/</guid><description>Geographic Information of Sucre TimeZone: -04:00 - Latitude: -19.0333 - Longitude: -65.2627 - Altitude: 2,798.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:54:41 Sunrise 06:01:10 Dhuhr (Noon) 12:09:51 Medium Coeli 12:09:51 Sunset 18:18:47 Maghrib 18:34:01 Isha (Night) 19:16:46 Sharia Midnight 23:36:17 Imum Coeli 00:09:42 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sucre Wednesday</title><link>https://astrology.ir/ephemeris/bolivia/sucre/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/bolivia/sucre/wednesday/</guid><description>Geographic Information of Sucre TimeZone: -04:00 - Latitude: -19.0333 - Longitude: -65.2627 - Altitude: 2,798.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:55:36 Sunrise 06:02:01 Dhuhr (Noon) 12:10:09 Medium Coeli 12:10:09 Sunset 18:18:34 Maghrib 18:33:47 Isha (Night) 19:16:29 Sharia Midnight 23:36:37 Imum Coeli 00:10:00 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

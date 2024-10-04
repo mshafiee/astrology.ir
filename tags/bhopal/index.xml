@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bhopal on Astrology</title><link>https://astrology.ir/tags/bhopal/</link><description>Recent content in Bhopal on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://astrology.ir/tags/bhopal/index.xml" rel="self" type="application/rss+xml"/><item><title>Bhopal Wednesday</title><link>https://astrology.ir/ephemeris/india/bhopal/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/wednesday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal Tuesday</title><link>https://astrology.ir/ephemeris/india/bhopal/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/tuesday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal Monday</title><link>https://astrology.ir/ephemeris/india/bhopal/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/monday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal Sunday</title><link>https://astrology.ir/ephemeris/india/bhopal/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/sunday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal Saturday</title><link>https://astrology.ir/ephemeris/india/bhopal/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/saturday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal</title><link>https://astrology.ir/ephemeris/india/bhopal/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal Friday</title><link>https://astrology.ir/ephemeris/india/bhopal/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/friday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bhopal Thursday</title><link>https://astrology.ir/ephemeris/india/bhopal/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/thursday/</guid><description>&lt;h2 id="geographic-information-of-bhopal">Geographic Information of Bhopal&lt;/h2>
-&lt;p>TimeZone: +05:30
--
-Latitude: 23.2547
--
-Longitude: 77.4029
--
-Altitude: 523.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bhopal, India | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('23.2547', '77.4029');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bhopal on Astrology</title><link>https://astrology.ir/tags/bhopal/</link><description>Recent content in Bhopal on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://astrology.ir/tags/bhopal/index.xml" rel="self" type="application/rss+xml"/><item><title>Bhopal Wednesday</title><link>https://astrology.ir/ephemeris/india/bhopal/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/wednesday/</guid><description>Geographic Information of Bhopal TimeZone: +05:30 - Latitude: 23.2547 - Longitude: 77.4029 - Altitude: 523.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:39 Sunrise 06:14:59 Dhuhr (Noon) 12:07:34 Medium Coeli 12:07:34 Sunset 17:59:49 Maghrib 18:14:49 Isha (Night) 18:58:25 Sharia Midnight 23:33:54 Imum Coeli 00:07:26 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bhopal Tuesday</title><link>https://astrology.ir/ephemeris/india/bhopal/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/tuesday/</guid><description>Geographic Information of Bhopal TimeZone: +05:30 - Latitude: 23.2547 - Longitude: 77.4029 - Altitude: 523.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:17 Sunrise 06:14:36 Dhuhr (Noon) 12:07:50 Medium Coeli 12:07:50 Sunset 18:00:45 Maghrib 18:15:44 Isha (Night) 18:59:19 Sharia Midnight 23:34:12 Imum Coeli 00:07:42 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bhopal Monday</title><link>https://astrology.ir/ephemeris/india/bhopal/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/monday/</guid><description>Geographic Information of Bhopal TimeZone: +05:30 - Latitude: 23.2547 - Longitude: 77.4029 - Altitude: 523.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:56 Sunrise 06:14:13 Dhuhr (Noon) 12:08:07 Medium Coeli 12:08:07 Sunset 18:01:41 Maghrib 18:16:40 Isha (Night) 19:00:13 Sharia Midnight 23:34:29 Imum Coeli 00:07:58 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bhopal Sunday</title><link>https://astrology.ir/ephemeris/india/bhopal/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/sunday/</guid><description>Geographic Information of Bhopal TimeZone: +05:30 - Latitude: 23.2547 - Longitude: 77.4029 - Altitude: 523.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:35 Sunrise 06:13:51 Dhuhr (Noon) 12:08:24 Medium Coeli 12:08:24 Sunset 18:02:38 Maghrib 18:17:36 Isha (Night) 19:01:09 Sharia Midnight 23:34:47 Imum Coeli 00:08:16 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bhopal Saturday</title><link>https://astrology.ir/ephemeris/india/bhopal/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/saturday/</guid><description>Geographic Information of Bhopal TimeZone: +05:30 - Latitude: 23.2547 - Longitude: 77.4029 - Altitude: 523.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:14 Sunrise 06:13:29 Dhuhr (Noon) 12:08:42 Medium Coeli 12:08:42 Sunset 18:03:35 Maghrib 18:18:33 Isha (Night) 19:02:05 Sharia Midnight 23:35:05 Imum Coeli 00:08:33 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bhopal</title><link>https://astrology.ir/ephemeris/india/bhopal/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/</guid><description>Geographic Information of Bhopal TimeZone: +05:30 - Latitude: 23.2547 - Longitude: 77.4029 - Altitude: 523.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:53 Sunrise 06:13:07 Dhuhr (Noon) 12:09:00 Medium Coeli 12:09:00 Sunset 18:04:33 Maghrib 18:19:30 Isha (Night) 19:03:02 Sharia Midnight 23:35:23 Imum Coeli 00:08:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bhopal Friday</title><link>https://astrology.ir/ephemeris/india/bhopal/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/friday/</guid><description>Geographic Information of Bhopal TimeZone: +05:30 - Latitude: 23.2547 - Longitude: 77.4029 - Altitude: 523.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:53 Sunrise 06:13:07 Dhuhr (Noon) 12:09:00 Medium Coeli 12:09:00 Sunset 18:04:33 Maghrib 18:19:30 Isha (Night) 19:03:02 Sharia Midnight 23:35:23 Imum Coeli 00:08:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bhopal Thursday</title><link>https://astrology.ir/ephemeris/india/bhopal/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0530</pubDate><guid>https://astrology.ir/ephemeris/india/bhopal/thursday/</guid><description>Geographic Information of Bhopal TimeZone: +05:30 - Latitude: 23.2547 - Longitude: 77.4029 - Altitude: 523.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:32 Sunrise 06:12:45 Dhuhr (Noon) 12:09:18 Medium Coeli 12:09:18 Sunset 18:05:31 Maghrib 18:20:28 Isha (Night) 19:03:59 Sharia Midnight 23:35:42 Imum Coeli 00:09:09 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

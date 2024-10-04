@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dodoma on Astrology</title><link>https://astrology.ir/tags/dodoma/</link><description>Recent content in Dodoma on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/dodoma/index.xml" rel="self" type="application/rss+xml"/><item><title>Dodoma Wednesday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/wednesday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Tuesday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/tuesday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Monday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/monday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Sunday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/sunday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Saturday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/saturday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Friday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/friday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dodoma Thursday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/thursday/</guid><description>&lt;h2 id="geographic-information-of-dodoma">Geographic Information of Dodoma&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: -6.1722
--
-Longitude: 35.7395
--
-Altitude: 1,125.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dodoma, Tanzania, United Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-6.1722', '35.7395');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dodoma on Astrology</title><link>https://astrology.ir/tags/dodoma/</link><description>Recent content in Dodoma on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/dodoma/index.xml" rel="self" type="application/rss+xml"/><item><title>Dodoma Wednesday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/wednesday/</guid><description>Geographic Information of Dodoma TimeZone: +03:00 - Latitude: -6.1722 - Longitude: 35.7395 - Altitude: 1,125.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:15:29 Sunrise 06:18:15 Dhuhr (Noon) 12:24:11 Medium Coeli 12:24:11 Sunset 18:30:12 Maghrib 18:44:16 Isha (Night) 19:24:53 Sharia Midnight 23:52:36 Imum Coeli 00:24:03 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dodoma Tuesday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/tuesday/</guid><description>Geographic Information of Dodoma TimeZone: +03:00 - Latitude: -6.1722 - Longitude: 35.7395 - Altitude: 1,125.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:15:59 Sunrise 06:18:42 Dhuhr (Noon) 12:24:27 Medium Coeli 12:24:27 Sunset 18:30:18 Maghrib 18:44:22 Isha (Night) 19:24:56 Sharia Midnight 23:52:53 Imum Coeli 00:24:19 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dodoma Monday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/monday/</guid><description>Geographic Information of Dodoma TimeZone: +03:00 - Latitude: -6.1722 - Longitude: 35.7395 - Altitude: 1,125.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:16:29 Sunrise 06:19:09 Dhuhr (Noon) 12:24:44 Medium Coeli 12:24:44 Sunset 18:30:25 Maghrib 18:44:28 Isha (Night) 19:25:00 Sharia Midnight 23:53:12 Imum Coeli 00:24:36 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dodoma Sunday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/sunday/</guid><description>Geographic Information of Dodoma TimeZone: +03:00 - Latitude: -6.1722 - Longitude: 35.7395 - Altitude: 1,125.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:17:00 Sunrise 06:19:36 Dhuhr (Noon) 12:25:01 Medium Coeli 12:25:01 Sunset 18:30:32 Maghrib 18:44:34 Isha (Night) 19:25:04 Sharia Midnight 23:53:30 Imum Coeli 00:24:53 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dodoma Saturday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/saturday/</guid><description>Geographic Information of Dodoma TimeZone: +03:00 - Latitude: -6.1722 - Longitude: 35.7395 - Altitude: 1,125.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:17:30 Sunrise 06:20:04 Dhuhr (Noon) 12:25:19 Medium Coeli 12:25:19 Sunset 18:30:39 Maghrib 18:44:41 Isha (Night) 19:25:09 Sharia Midnight 23:53:49 Imum Coeli 00:25:10 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dodoma</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/</guid><description>Geographic Information of Dodoma TimeZone: +03:00 - Latitude: -6.1722 - Longitude: 35.7395 - Altitude: 1,125.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:18:01 Sunrise 06:20:32 Dhuhr (Noon) 12:25:37 Medium Coeli 12:25:37 Sunset 18:30:47 Maghrib 18:44:48 Isha (Night) 19:25:14 Sharia Midnight 23:54:08 Imum Coeli 00:25:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dodoma Friday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/friday/</guid><description>Geographic Information of Dodoma TimeZone: +03:00 - Latitude: -6.1722 - Longitude: 35.7395 - Altitude: 1,125.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:18:01 Sunrise 06:20:32 Dhuhr (Noon) 12:25:37 Medium Coeli 12:25:37 Sunset 18:30:47 Maghrib 18:44:48 Isha (Night) 19:25:14 Sharia Midnight 23:54:08 Imum Coeli 00:25:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dodoma Thursday</title><link>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/tanzania_united_republic_of/dodoma/thursday/</guid><description>Geographic Information of Dodoma TimeZone: +03:00 - Latitude: -6.1722 - Longitude: 35.7395 - Altitude: 1,125.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:18:32 Sunrise 06:21:01 Dhuhr (Noon) 12:25:55 Medium Coeli 12:25:55 Sunset 18:30:55 Maghrib 18:44:56 Isha (Night) 19:25:20 Sharia Midnight 23:54:28 Imum Coeli 00:25:46 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nay Pyi Taw on Astrology</title><link>https://astrology.ir/tags/nay-pyi-taw/</link><description>Recent content in Nay Pyi Taw on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0630</lastBuildDate><atom:link href="https://astrology.ir/tags/nay-pyi-taw/index.xml" rel="self" type="application/rss+xml"/><item><title>Nay Pyi Taw Wednesday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/wednesday/</guid><description>&lt;h2 id="geographic-information-of-nay-pyi-taw">Geographic Information of Nay Pyi Taw&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: 19.7450
--
-Longitude: 96.1297
--
-Altitude: 122.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nay Pyi Taw, Myanmar | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.7450', '96.1297');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nay Pyi Taw Tuesday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/tuesday/</guid><description>&lt;h2 id="geographic-information-of-nay-pyi-taw">Geographic Information of Nay Pyi Taw&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: 19.7450
--
-Longitude: 96.1297
--
-Altitude: 122.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nay Pyi Taw, Myanmar | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.7450', '96.1297');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nay Pyi Taw Monday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/monday/</guid><description>&lt;h2 id="geographic-information-of-nay-pyi-taw">Geographic Information of Nay Pyi Taw&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: 19.7450
--
-Longitude: 96.1297
--
-Altitude: 122.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nay Pyi Taw, Myanmar | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.7450', '96.1297');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nay Pyi Taw Sunday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/sunday/</guid><description>&lt;h2 id="geographic-information-of-nay-pyi-taw">Geographic Information of Nay Pyi Taw&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: 19.7450
--
-Longitude: 96.1297
--
-Altitude: 122.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nay Pyi Taw, Myanmar | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.7450', '96.1297');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nay Pyi Taw Saturday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/saturday/</guid><description>&lt;h2 id="geographic-information-of-nay-pyi-taw">Geographic Information of Nay Pyi Taw&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: 19.7450
--
-Longitude: 96.1297
--
-Altitude: 122.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nay Pyi Taw, Myanmar | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.7450', '96.1297');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nay Pyi Taw</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/</guid><description>&lt;h2 id="geographic-information-of-nay-pyi-taw">Geographic Information of Nay Pyi Taw&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: 19.7450
--
-Longitude: 96.1297
--
-Altitude: 122.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nay Pyi Taw, Myanmar | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.7450', '96.1297');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nay Pyi Taw Friday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/friday/</guid><description>&lt;h2 id="geographic-information-of-nay-pyi-taw">Geographic Information of Nay Pyi Taw&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: 19.7450
--
-Longitude: 96.1297
--
-Altitude: 122.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nay Pyi Taw, Myanmar | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.7450', '96.1297');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nay Pyi Taw Thursday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/thursday/</guid><description>&lt;h2 id="geographic-information-of-nay-pyi-taw">Geographic Information of Nay Pyi Taw&lt;/h2>
-&lt;p>TimeZone: +06:30
--
-Latitude: 19.7450
--
-Longitude: 96.1297
--
-Altitude: 122.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nay Pyi Taw, Myanmar | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('19.7450', '96.1297');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nay Pyi Taw on Astrology</title><link>https://astrology.ir/tags/nay-pyi-taw/</link><description>Recent content in Nay Pyi Taw on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0630</lastBuildDate><atom:link href="https://astrology.ir/tags/nay-pyi-taw/index.xml" rel="self" type="application/rss+xml"/><item><title>Nay Pyi Taw Wednesday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/wednesday/</guid><description>Geographic Information of Nay Pyi Taw TimeZone: +06:30 - Latitude: 19.7450 - Longitude: 96.1297 - Altitude: 122.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:35 Sunrise 05:58:12 Dhuhr (Noon) 11:52:40 Medium Coeli 11:52:40 Sunset 17:46:52 Maghrib 18:01:23 Isha (Night) 18:43:57 Sharia Midnight 23:19:51 Imum Coeli 23:52:32 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nay Pyi Taw Tuesday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/tuesday/</guid><description>Geographic Information of Nay Pyi Taw TimeZone: +06:30 - Latitude: 19.7450 - Longitude: 96.1297 - Altitude: 122.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:20 Sunrise 05:57:55 Dhuhr (Noon) 11:52:57 Medium Coeli 11:52:57 Sunset 17:47:41 Maghrib 18:02:11 Isha (Night) 18:44:45 Sharia Midnight 23:20:08 Imum Coeli 23:52:48 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nay Pyi Taw Monday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/monday/</guid><description>Geographic Information of Nay Pyi Taw TimeZone: +06:30 - Latitude: 19.7450 - Longitude: 96.1297 - Altitude: 122.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:06 Sunrise 05:57:39 Dhuhr (Noon) 11:53:13 Medium Coeli 11:53:13 Sunset 17:48:31 Maghrib 18:03:01 Isha (Night) 18:45:33 Sharia Midnight 23:20:25 Imum Coeli 23:53:05 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nay Pyi Taw Sunday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/sunday/</guid><description>Geographic Information of Nay Pyi Taw TimeZone: +06:30 - Latitude: 19.7450 - Longitude: 96.1297 - Altitude: 122.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:51 Sunrise 05:57:24 Dhuhr (Noon) 11:53:31 Medium Coeli 11:53:31 Sunset 17:49:21 Maghrib 18:03:50 Isha (Night) 18:46:22 Sharia Midnight 23:20:43 Imum Coeli 23:53:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nay Pyi Taw Saturday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/saturday/</guid><description>Geographic Information of Nay Pyi Taw TimeZone: +06:30 - Latitude: 19.7450 - Longitude: 96.1297 - Altitude: 122.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:37 Sunrise 05:57:08 Dhuhr (Noon) 11:53:48 Medium Coeli 11:53:48 Sunset 17:50:12 Maghrib 18:04:41 Isha (Night) 18:47:11 Sharia Midnight 23:21:01 Imum Coeli 23:53:39 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nay Pyi Taw</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/</guid><description>Geographic Information of Nay Pyi Taw TimeZone: +06:30 - Latitude: 19.7450 - Longitude: 96.1297 - Altitude: 122.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:23 Sunrise 05:56:53 Dhuhr (Noon) 11:54:06 Medium Coeli 11:54:06 Sunset 17:51:03 Maghrib 18:05:31 Isha (Night) 18:48:01 Sharia Midnight 23:21:20 Imum Coeli 23:53:57 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nay Pyi Taw Friday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/friday/</guid><description>Geographic Information of Nay Pyi Taw TimeZone: +06:30 - Latitude: 19.7450 - Longitude: 96.1297 - Altitude: 122.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:23 Sunrise 05:56:53 Dhuhr (Noon) 11:54:06 Medium Coeli 11:54:06 Sunset 17:51:03 Maghrib 18:05:31 Isha (Night) 18:48:01 Sharia Midnight 23:21:20 Imum Coeli 23:53:57 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nay Pyi Taw Thursday</title><link>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0630</pubDate><guid>https://astrology.ir/ephemeris/myanmar/nay_pyi_taw/thursday/</guid><description>Geographic Information of Nay Pyi Taw TimeZone: +06:30 - Latitude: 19.7450 - Longitude: 96.1297 - Altitude: 122.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:51:09 Sunrise 05:56:38 Dhuhr (Noon) 11:54:25 Medium Coeli 11:54:25 Sunset 17:51:55 Maghrib 18:06:22 Isha (Night) 18:48:52 Sharia Midnight 23:21:39 Imum Coeli 23:54:16 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kingston on Astrology</title><link>https://astrology.ir/ephemeris/jamaica/kingston/</link><description>Recent content in Kingston on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/jamaica/kingston/index.xml" rel="self" type="application/rss+xml"/><item><title>Kingston Tuesday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/tuesday/</guid><description>&lt;h2 id="geographic-information-of-kingston">Geographic Information of Kingston&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 17.9970
--
-Longitude: -76.7936
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kingston, Jamaica | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.9970', '-76.7936');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kingston Monday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/monday/</guid><description>&lt;h2 id="geographic-information-of-kingston">Geographic Information of Kingston&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 17.9970
--
-Longitude: -76.7936
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kingston, Jamaica | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.9970', '-76.7936');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kingston Sunday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/sunday/</guid><description>&lt;h2 id="geographic-information-of-kingston">Geographic Information of Kingston&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 17.9970
--
-Longitude: -76.7936
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kingston, Jamaica | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.9970', '-76.7936');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kingston Saturday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/saturday/</guid><description>&lt;h2 id="geographic-information-of-kingston">Geographic Information of Kingston&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 17.9970
--
-Longitude: -76.7936
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kingston, Jamaica | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.9970', '-76.7936');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kingston Friday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/friday/</guid><description>&lt;h2 id="geographic-information-of-kingston">Geographic Information of Kingston&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 17.9970
--
-Longitude: -76.7936
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kingston, Jamaica | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.9970', '-76.7936');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kingston Thursday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/thursday/</guid><description>&lt;h2 id="geographic-information-of-kingston">Geographic Information of Kingston&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 17.9970
--
-Longitude: -76.7936
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kingston, Jamaica | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.9970', '-76.7936');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kingston Wednesday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kingston">Geographic Information of Kingston&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: 17.9970
--
-Longitude: -76.7936
--
-Altitude: 65.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kingston, Jamaica | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('17.9970', '-76.7936');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kingston on Astrology</title><link>https://astrology.ir/ephemeris/jamaica/kingston/</link><description>Recent content in Kingston on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/jamaica/kingston/index.xml" rel="self" type="application/rss+xml"/><item><title>Kingston Tuesday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/tuesday/</guid><description>Geographic Information of Kingston TimeZone: -05:00 - Latitude: 17.9970 - Longitude: -76.7936 - Altitude: 65.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:54:01 Sunrise 05:58:55 Dhuhr (Noon) 11:54:30 Medium Coeli 11:54:30 Sunset 17:49:50 Maghrib 18:04:10 Isha (Night) 18:46:18 Sharia Midnight 23:22:01 Imum Coeli 23:54:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kingston Monday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/monday/</guid><description>Geographic Information of Kingston TimeZone: -05:00 - Latitude: 17.9970 - Longitude: -76.7936 - Altitude: 65.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:50 Sunrise 05:58:42 Dhuhr (Noon) 11:54:47 Medium Coeli 11:54:47 Sunset 17:50:37 Maghrib 18:04:56 Isha (Night) 18:47:03 Sharia Midnight 23:22:19 Imum Coeli 23:54:38 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kingston Sunday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/sunday/</guid><description>Geographic Information of Kingston TimeZone: -05:00 - Latitude: 17.9970 - Longitude: -76.7936 - Altitude: 65.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:38 Sunrise 05:58:30 Dhuhr (Noon) 11:55:04 Medium Coeli 11:55:04 Sunset 17:51:23 Maghrib 18:05:43 Isha (Night) 18:47:48 Sharia Midnight 23:22:36 Imum Coeli 23:54:55 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kingston Saturday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/saturday/</guid><description>Geographic Information of Kingston TimeZone: -05:00 - Latitude: 17.9970 - Longitude: -76.7936 - Altitude: 65.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:27 Sunrise 05:58:17 Dhuhr (Noon) 11:55:21 Medium Coeli 11:55:21 Sunset 17:52:11 Maghrib 18:06:29 Isha (Night) 18:48:34 Sharia Midnight 23:22:54 Imum Coeli 23:55:13 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kingston Friday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/friday/</guid><description>Geographic Information of Kingston TimeZone: -05:00 - Latitude: 17.9970 - Longitude: -76.7936 - Altitude: 65.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:16 Sunrise 05:58:05 Dhuhr (Noon) 11:55:39 Medium Coeli 11:55:39 Sunset 17:52:59 Maghrib 18:07:17 Isha (Night) 18:49:21 Sharia Midnight 23:23:13 Imum Coeli 23:55:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kingston Thursday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/thursday/</guid><description>Geographic Information of Kingston TimeZone: -05:00 - Latitude: 17.9970 - Longitude: -76.7936 - Altitude: 65.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:53:05 Sunrise 05:57:53 Dhuhr (Noon) 11:55:58 Medium Coeli 11:55:58 Sunset 17:53:47 Maghrib 18:08:04 Isha (Night) 18:50:08 Sharia Midnight 23:23:31 Imum Coeli 23:55:48 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kingston Wednesday</title><link>https://astrology.ir/ephemeris/jamaica/kingston/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/jamaica/kingston/wednesday/</guid><description>Geographic Information of Kingston TimeZone: -05:00 - Latitude: 17.9970 - Longitude: -76.7936 - Altitude: 65.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:55 Sunrise 05:57:42 Dhuhr (Noon) 11:56:16 Medium Coeli 11:56:16 Sunset 17:54:35 Maghrib 18:08:53 Isha (Night) 18:50:56 Sharia Midnight 23:23:50 Imum Coeli 23:56:07 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

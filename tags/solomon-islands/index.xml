@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Solomon Islands on Astrology</title><link>https://astrology.ir/tags/solomon-islands/</link><description>Recent content in Solomon Islands on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +1100</lastBuildDate><atom:link href="https://astrology.ir/tags/solomon-islands/index.xml" rel="self" type="application/rss+xml"/><item><title>Honiara Wednesday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/wednesday/</guid><description>&lt;h2 id="geographic-information-of-honiara">Geographic Information of Honiara&lt;/h2>
-&lt;p>TimeZone: +11:00
--
-Latitude: -9.4333
--
-Longitude: 159.9500
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Honiara, Solomon Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-9.4333', '159.9500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Honiara Tuesday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/tuesday/</guid><description>&lt;h2 id="geographic-information-of-honiara">Geographic Information of Honiara&lt;/h2>
-&lt;p>TimeZone: +11:00
--
-Latitude: -9.4333
--
-Longitude: 159.9500
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Honiara, Solomon Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-9.4333', '159.9500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Honiara Monday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/monday/</guid><description>&lt;h2 id="geographic-information-of-honiara">Geographic Information of Honiara&lt;/h2>
-&lt;p>TimeZone: +11:00
--
-Latitude: -9.4333
--
-Longitude: 159.9500
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Honiara, Solomon Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-9.4333', '159.9500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Honiara Sunday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/sunday/</guid><description>&lt;h2 id="geographic-information-of-honiara">Geographic Information of Honiara&lt;/h2>
-&lt;p>TimeZone: +11:00
--
-Latitude: -9.4333
--
-Longitude: 159.9500
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Honiara, Solomon Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-9.4333', '159.9500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Honiara Saturday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/saturday/</guid><description>&lt;h2 id="geographic-information-of-honiara">Geographic Information of Honiara&lt;/h2>
-&lt;p>TimeZone: +11:00
--
-Latitude: -9.4333
--
-Longitude: 159.9500
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Honiara, Solomon Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-9.4333', '159.9500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Honiara</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/</guid><description>&lt;h2 id="geographic-information-of-honiara">Geographic Information of Honiara&lt;/h2>
-&lt;p>TimeZone: +11:00
--
-Latitude: -9.4333
--
-Longitude: 159.9500
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Honiara, Solomon Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-9.4333', '159.9500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Honiara Friday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/friday/</guid><description>&lt;h2 id="geographic-information-of-honiara">Geographic Information of Honiara&lt;/h2>
-&lt;p>TimeZone: +11:00
--
-Latitude: -9.4333
--
-Longitude: 159.9500
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Honiara, Solomon Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-9.4333', '159.9500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Honiara Thursday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/thursday/</guid><description>&lt;h2 id="geographic-information-of-honiara">Geographic Information of Honiara&lt;/h2>
-&lt;p>TimeZone: +11:00
--
-Latitude: -9.4333
--
-Longitude: 159.9500
--
-Altitude: 49.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Honiara, Solomon Islands | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-9.4333', '159.9500');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Solomon Islands on Astrology</title><link>https://astrology.ir/tags/solomon-islands/</link><description>Recent content in Solomon Islands on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +1100</lastBuildDate><atom:link href="https://astrology.ir/tags/solomon-islands/index.xml" rel="self" type="application/rss+xml"/><item><title>Honiara Wednesday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/wednesday/</guid><description>Geographic Information of Honiara TimeZone: +11:00 - Latitude: -9.4333 - Longitude: 159.9500 - Altitude: 49.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:56:45 Sunrise 05:59:45 Dhuhr (Noon) 12:07:26 Medium Coeli 12:07:26 Sunset 18:15:15 Maghrib 18:29:07 Isha (Night) 19:10:05 Sharia Midnight 23:35:42 Imum Coeli 00:07:18 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Honiara Tuesday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/tuesday/</guid><description>Geographic Information of Honiara TimeZone: +11:00 - Latitude: -9.4333 - Longitude: 159.9500 - Altitude: 49.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:21 Sunrise 06:00:17 Dhuhr (Noon) 12:07:43 Medium Coeli 12:07:43 Sunset 18:15:16 Maghrib 18:29:07 Isha (Night) 19:10:03 Sharia Midnight 23:36:00 Imum Coeli 00:07:34 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Honiara Monday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/monday/</guid><description>Geographic Information of Honiara TimeZone: +11:00 - Latitude: -9.4333 - Longitude: 159.9500 - Altitude: 49.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:57 Sunrise 06:00:49 Dhuhr (Noon) 12:08:00 Medium Coeli 12:08:00 Sunset 18:15:18 Maghrib 18:29:08 Isha (Night) 19:10:01 Sharia Midnight 23:36:19 Imum Coeli 00:07:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Honiara Sunday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/sunday/</guid><description>Geographic Information of Honiara TimeZone: +11:00 - Latitude: -9.4333 - Longitude: 159.9500 - Altitude: 49.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:33 Sunrise 06:01:23 Dhuhr (Noon) 12:08:17 Medium Coeli 12:08:17 Sunset 18:15:19 Maghrib 18:29:09 Isha (Night) 19:10:00 Sharia Midnight 23:36:38 Imum Coeli 00:08:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Honiara Saturday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/saturday/</guid><description>Geographic Information of Honiara TimeZone: +11:00 - Latitude: -9.4333 - Longitude: 159.9500 - Altitude: 49.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:59:09 Sunrise 06:01:56 Dhuhr (Noon) 12:08:35 Medium Coeli 12:08:35 Sunset 18:15:21 Maghrib 18:29:10 Isha (Night) 19:10:00 Sharia Midnight 23:36:57 Imum Coeli 00:08:26 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Honiara</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/</guid><description>Geographic Information of Honiara TimeZone: +11:00 - Latitude: -9.4333 - Longitude: 159.9500 - Altitude: 49.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:59:46 Sunrise 06:02:30 Dhuhr (Noon) 12:08:53 Medium Coeli 12:08:53 Sunset 18:15:24 Maghrib 18:29:12 Isha (Night) 19:10:00 Sharia Midnight 23:37:16 Imum Coeli 00:08:44 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Honiara Friday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/friday/</guid><description>Geographic Information of Honiara TimeZone: +11:00 - Latitude: -9.4333 - Longitude: 159.9500 - Altitude: 49.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:59:46 Sunrise 06:02:30 Dhuhr (Noon) 12:08:53 Medium Coeli 12:08:53 Sunset 18:15:24 Maghrib 18:29:12 Isha (Night) 19:10:00 Sharia Midnight 23:37:16 Imum Coeli 00:08:44 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Honiara Thursday</title><link>https://astrology.ir/ephemeris/solomon_islands/honiara/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +1100</pubDate><guid>https://astrology.ir/ephemeris/solomon_islands/honiara/thursday/</guid><description>Geographic Information of Honiara TimeZone: +11:00 - Latitude: -9.4333 - Longitude: 159.9500 - Altitude: 49.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:00:23 Sunrise 06:03:04 Dhuhr (Noon) 12:09:11 Medium Coeli 12:09:11 Sunset 18:15:27 Maghrib 18:29:14 Isha (Night) 19:10:00 Sharia Midnight 23:37:36 Imum Coeli 00:09:02 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

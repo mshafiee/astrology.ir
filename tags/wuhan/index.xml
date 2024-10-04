@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wuhan on Astrology</title><link>https://astrology.ir/tags/wuhan/</link><description>Recent content in Wuhan on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://astrology.ir/tags/wuhan/index.xml" rel="self" type="application/rss+xml"/><item><title>Wuhan Wednesday</title><link>https://astrology.ir/ephemeris/china/wuhan/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/wednesday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan Tuesday</title><link>https://astrology.ir/ephemeris/china/wuhan/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/tuesday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan Monday</title><link>https://astrology.ir/ephemeris/china/wuhan/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/monday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan Sunday</title><link>https://astrology.ir/ephemeris/china/wuhan/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/sunday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan Saturday</title><link>https://astrology.ir/ephemeris/china/wuhan/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/saturday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan</title><link>https://astrology.ir/ephemeris/china/wuhan/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan Friday</title><link>https://astrology.ir/ephemeris/china/wuhan/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/friday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wuhan Thursday</title><link>https://astrology.ir/ephemeris/china/wuhan/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/thursday/</guid><description>&lt;h2 id="geographic-information-of-wuhan">Geographic Information of Wuhan&lt;/h2>
-&lt;p>TimeZone: +08:00
--
-Latitude: 30.5833
--
-Longitude: 114.2667
--
-Altitude: 20.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wuhan, China | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.5833', '114.2667');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wuhan on Astrology</title><link>https://astrology.ir/tags/wuhan/</link><description>Recent content in Wuhan on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://astrology.ir/tags/wuhan/index.xml" rel="self" type="application/rss+xml"/><item><title>Wuhan Wednesday</title><link>https://astrology.ir/ephemeris/china/wuhan/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/wednesday/</guid><description>Geographic Information of Wuhan TimeZone: +08:00 - Latitude: 30.5833 - Longitude: 114.2667 - Altitude: 20.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:09:30 Sunrise 06:21:10 Dhuhr (Noon) 12:10:08 Medium Coeli 12:10:08 Sunset 17:58:40 Maghrib 18:14:29 Isha (Night) 19:00:58 Sharia Midnight 23:34:23 Imum Coeli 00:10:00 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wuhan Tuesday</title><link>https://astrology.ir/ephemeris/china/wuhan/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/tuesday/</guid><description>Geographic Information of Wuhan TimeZone: +08:00 - Latitude: 30.5833 - Longitude: 114.2667 - Altitude: 20.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:08:53 Sunrise 06:20:32 Dhuhr (Noon) 12:10:25 Medium Coeli 12:10:25 Sunset 17:59:50 Maghrib 18:15:39 Isha (Night) 19:02:07 Sharia Midnight 23:34:40 Imum Coeli 00:10:16 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wuhan Monday</title><link>https://astrology.ir/ephemeris/china/wuhan/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/monday/</guid><description>Geographic Information of Wuhan TimeZone: +08:00 - Latitude: 30.5833 - Longitude: 114.2667 - Altitude: 20.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:08:17 Sunrise 06:19:55 Dhuhr (Noon) 12:10:41 Medium Coeli 12:10:41 Sunset 18:01:02 Maghrib 18:16:50 Isha (Night) 19:03:17 Sharia Midnight 23:34:57 Imum Coeli 00:10:33 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wuhan Sunday</title><link>https://astrology.ir/ephemeris/china/wuhan/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/sunday/</guid><description>Geographic Information of Wuhan TimeZone: +08:00 - Latitude: 30.5833 - Longitude: 114.2667 - Altitude: 20.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:40 Sunrise 06:19:17 Dhuhr (Noon) 12:10:59 Medium Coeli 12:10:59 Sunset 18:02:13 Maghrib 18:18:01 Isha (Night) 19:04:28 Sharia Midnight 23:35:15 Imum Coeli 00:10:50 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wuhan Saturday</title><link>https://astrology.ir/ephemeris/china/wuhan/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/saturday/</guid><description>Geographic Information of Wuhan TimeZone: +08:00 - Latitude: 30.5833 - Longitude: 114.2667 - Altitude: 20.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:04 Sunrise 06:18:40 Dhuhr (Noon) 12:11:16 Medium Coeli 12:11:16 Sunset 18:03:26 Maghrib 18:19:12 Isha (Night) 19:05:39 Sharia Midnight 23:35:33 Imum Coeli 00:11:07 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wuhan</title><link>https://astrology.ir/ephemeris/china/wuhan/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/</guid><description>Geographic Information of Wuhan TimeZone: +08:00 - Latitude: 30.5833 - Longitude: 114.2667 - Altitude: 20.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:27 Sunrise 06:18:04 Dhuhr (Noon) 12:11:34 Medium Coeli 12:11:34 Sunset 18:04:38 Maghrib 18:20:25 Isha (Night) 19:06:51 Sharia Midnight 23:35:51 Imum Coeli 00:11:25 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wuhan Friday</title><link>https://astrology.ir/ephemeris/china/wuhan/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/friday/</guid><description>Geographic Information of Wuhan TimeZone: +08:00 - Latitude: 30.5833 - Longitude: 114.2667 - Altitude: 20.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:27 Sunrise 06:18:04 Dhuhr (Noon) 12:11:34 Medium Coeli 12:11:34 Sunset 18:04:38 Maghrib 18:20:25 Isha (Night) 19:06:51 Sharia Midnight 23:35:51 Imum Coeli 00:11:25 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wuhan Thursday</title><link>https://astrology.ir/ephemeris/china/wuhan/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0800</pubDate><guid>https://astrology.ir/ephemeris/china/wuhan/thursday/</guid><description>Geographic Information of Wuhan TimeZone: +08:00 - Latitude: 30.5833 - Longitude: 114.2667 - Altitude: 20.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:50 Sunrise 06:17:27 Dhuhr (Noon) 12:11:53 Medium Coeli 12:11:53 Sunset 18:05:52 Maghrib 18:21:37 Isha (Night) 19:08:04 Sharia Midnight 23:36:09 Imum Coeli 00:11:44 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

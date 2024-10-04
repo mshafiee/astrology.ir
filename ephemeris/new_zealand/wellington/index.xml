@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wellington on Astrology</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/</link><description>Recent content in Wellington on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +1300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/new_zealand/wellington/index.xml" rel="self" type="application/rss+xml"/><item><title>Wellington Wednesday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/wednesday/</guid><description>&lt;h2 id="geographic-information-of-wellington">Geographic Information of Wellington&lt;/h2>
-&lt;p>TimeZone: +13:00
--
-Latitude: -41.2866
--
-Longitude: 174.7756
--
-Altitude: 31.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wellington, New Zealand | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-41.2866', '174.7756');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wellington Tuesday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/tuesday/</guid><description>&lt;h2 id="geographic-information-of-wellington">Geographic Information of Wellington&lt;/h2>
-&lt;p>TimeZone: +13:00
--
-Latitude: -41.2866
--
-Longitude: 174.7756
--
-Altitude: 31.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wellington, New Zealand | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-41.2866', '174.7756');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wellington Monday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/monday/</guid><description>&lt;h2 id="geographic-information-of-wellington">Geographic Information of Wellington&lt;/h2>
-&lt;p>TimeZone: +13:00
--
-Latitude: -41.2866
--
-Longitude: 174.7756
--
-Altitude: 31.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wellington, New Zealand | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-41.2866', '174.7756');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wellington Sunday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/sunday/</guid><description>&lt;h2 id="geographic-information-of-wellington">Geographic Information of Wellington&lt;/h2>
-&lt;p>TimeZone: +13:00
--
-Latitude: -41.2866
--
-Longitude: 174.7756
--
-Altitude: 31.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wellington, New Zealand | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-41.2866', '174.7756');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wellington Saturday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/saturday/</guid><description>&lt;h2 id="geographic-information-of-wellington">Geographic Information of Wellington&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -41.2866
--
-Longitude: 174.7756
--
-Altitude: 31.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wellington, New Zealand | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-41.2866', '174.7756');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wellington Friday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/friday/</guid><description>&lt;h2 id="geographic-information-of-wellington">Geographic Information of Wellington&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -41.2866
--
-Longitude: 174.7756
--
-Altitude: 31.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wellington, New Zealand | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-41.2866', '174.7756');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Wellington Thursday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/thursday/</guid><description>&lt;h2 id="geographic-information-of-wellington">Geographic Information of Wellington&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -41.2866
--
-Longitude: 174.7756
--
-Altitude: 31.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Wellington, New Zealand | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-41.2866', '174.7756');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wellington on Astrology</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/</link><description>Recent content in Wellington on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +1300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/new_zealand/wellington/index.xml" rel="self" type="application/rss+xml"/><item><title>Wellington Wednesday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/wednesday/</guid><description>Geographic Information of Wellington TimeZone: +13:00 - Latitude: -41.2866 - Longitude: 174.7756 - Altitude: 31.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:15:49 Sunrise 06:41:22 Dhuhr (Noon) 13:08:09 Medium Coeli 13:08:09 Sunset 19:35:39 Maghrib 19:54:03 Isha (Night) 20:49:55 Sharia Midnight 00:24:48 Imum Coeli 01:08:00 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wellington Tuesday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/tuesday/</guid><description>Geographic Information of Wellington TimeZone: +13:00 - Latitude: -41.2866 - Longitude: 174.7756 - Altitude: 31.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:17:42 Sunrise 06:43:00 Dhuhr (Noon) 13:08:25 Medium Coeli 13:08:25 Sunset 19:34:34 Maghrib 19:52:56 Isha (Night) 20:48:38 Sharia Midnight 00:25:11 Imum Coeli 01:08:17 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wellington Monday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/monday/</guid><description>Geographic Information of Wellington TimeZone: +13:00 - Latitude: -41.2866 - Longitude: 174.7756 - Altitude: 31.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:19:34 Sunrise 06:44:39 Dhuhr (Noon) 13:08:42 Medium Coeli 13:08:42 Sunset 19:33:29 Maghrib 19:51:49 Isha (Night) 20:47:22 Sharia Midnight 00:25:35 Imum Coeli 01:08:34 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wellington Sunday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/sunday/</guid><description>Geographic Information of Wellington TimeZone: +13:00 - Latitude: -41.2866 - Longitude: 174.7756 - Altitude: 31.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:21:27 Sunrise 06:46:19 Dhuhr (Noon) 13:09:00 Medium Coeli 13:09:00 Sunset 19:32:24 Maghrib 19:50:42 Isha (Night) 20:46:06 Sharia Midnight 00:25:59 Imum Coeli 01:08:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wellington Saturday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/saturday/</guid><description>Geographic Information of Wellington TimeZone: +13:00 - Latitude: -41.2866 - Longitude: 174.7756 - Altitude: 31.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:23:19 Sunrise 06:47:59 Dhuhr (Noon) 13:09:17 Medium Coeli 13:09:17 Sunset 19:31:19 Maghrib 19:49:36 Isha (Night) 20:44:52 Sharia Midnight 00:26:23 Imum Coeli 01:09:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wellington Friday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/friday/</guid><description>Geographic Information of Wellington TimeZone: +13:00 - Latitude: -41.2866 - Longitude: 174.7756 - Altitude: 31.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:25:11 Sunrise 06:49:39 Dhuhr (Noon) 13:09:35 Medium Coeli 13:09:35 Sunset 19:30:15 Maghrib 19:48:31 Isha (Night) 20:43:38 Sharia Midnight 00:26:47 Imum Coeli 01:09:26 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Wellington Thursday</title><link>https://astrology.ir/ephemeris/new_zealand/wellington/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +1300</pubDate><guid>https://astrology.ir/ephemeris/new_zealand/wellington/thursday/</guid><description>Geographic Information of Wellington TimeZone: +13:00 - Latitude: -41.2866 - Longitude: 174.7756 - Altitude: 31.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:27:04 Sunrise 06:51:20 Dhuhr (Noon) 13:09:54 Medium Coeli 13:09:54 Sunset 19:29:11 Maghrib 19:47:25 Isha (Night) 20:42:24 Sharia Midnight 00:27:11 Imum Coeli 01:09:45 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

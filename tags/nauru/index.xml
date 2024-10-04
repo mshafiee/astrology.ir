@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nauru on Astrology</title><link>https://astrology.ir/tags/nauru/</link><description>Recent content in Nauru on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +1200</lastBuildDate><atom:link href="https://astrology.ir/tags/nauru/index.xml" rel="self" type="application/rss+xml"/><item><title>Yaren Wednesday</title><link>https://astrology.ir/ephemeris/nauru/yaren/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/wednesday/</guid><description>&lt;h2 id="geographic-information-of-yaren">Geographic Information of Yaren&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -0.5508
--
-Longitude: 166.9252
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaren, Nauru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.5508', '166.9252');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaren Tuesday</title><link>https://astrology.ir/ephemeris/nauru/yaren/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/tuesday/</guid><description>&lt;h2 id="geographic-information-of-yaren">Geographic Information of Yaren&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -0.5508
--
-Longitude: 166.9252
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaren, Nauru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.5508', '166.9252');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaren Monday</title><link>https://astrology.ir/ephemeris/nauru/yaren/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/monday/</guid><description>&lt;h2 id="geographic-information-of-yaren">Geographic Information of Yaren&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -0.5508
--
-Longitude: 166.9252
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaren, Nauru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.5508', '166.9252');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaren Sunday</title><link>https://astrology.ir/ephemeris/nauru/yaren/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/sunday/</guid><description>&lt;h2 id="geographic-information-of-yaren">Geographic Information of Yaren&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -0.5508
--
-Longitude: 166.9252
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaren, Nauru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.5508', '166.9252');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaren Saturday</title><link>https://astrology.ir/ephemeris/nauru/yaren/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/saturday/</guid><description>&lt;h2 id="geographic-information-of-yaren">Geographic Information of Yaren&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -0.5508
--
-Longitude: 166.9252
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaren, Nauru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.5508', '166.9252');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaren</title><link>https://astrology.ir/ephemeris/nauru/yaren/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/</guid><description>&lt;h2 id="geographic-information-of-yaren">Geographic Information of Yaren&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -0.5508
--
-Longitude: 166.9252
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaren, Nauru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.5508', '166.9252');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaren Friday</title><link>https://astrology.ir/ephemeris/nauru/yaren/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/friday/</guid><description>&lt;h2 id="geographic-information-of-yaren">Geographic Information of Yaren&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -0.5508
--
-Longitude: 166.9252
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaren, Nauru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.5508', '166.9252');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Yaren Thursday</title><link>https://astrology.ir/ephemeris/nauru/yaren/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/thursday/</guid><description>&lt;h2 id="geographic-information-of-yaren">Geographic Information of Yaren&lt;/h2>
-&lt;p>TimeZone: +12:00
--
-Latitude: -0.5508
--
-Longitude: 166.9252
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Yaren, Nauru | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.5508', '166.9252');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nauru on Astrology</title><link>https://astrology.ir/tags/nauru/</link><description>Recent content in Nauru on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +1200</lastBuildDate><atom:link href="https://astrology.ir/tags/nauru/index.xml" rel="self" type="application/rss+xml"/><item><title>Yaren Wednesday</title><link>https://astrology.ir/ephemeris/nauru/yaren/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/wednesday/</guid><description>Geographic Information of Yaren TimeZone: +12:00 - Latitude: -0.5508 - Longitude: 166.9252 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:33:54 Sunrise 06:35:50 Dhuhr (Noon) 12:39:32 Medium Coeli 12:39:32 Sunset 18:43:15 Maghrib 18:56:53 Isha (Night) 19:37:09 Sharia Midnight 00:08:24 Imum Coeli 00:39:24 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaren Tuesday</title><link>https://astrology.ir/ephemeris/nauru/yaren/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/tuesday/</guid><description>Geographic Information of Yaren TimeZone: +12:00 - Latitude: -0.5508 - Longitude: 166.9252 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:34:15 Sunrise 06:36:08 Dhuhr (Noon) 12:39:49 Medium Coeli 12:39:49 Sunset 18:43:30 Maghrib 18:57:08 Isha (Night) 19:37:22 Sharia Midnight 00:08:42 Imum Coeli 00:39:41 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaren Monday</title><link>https://astrology.ir/ephemeris/nauru/yaren/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/monday/</guid><description>Geographic Information of Yaren TimeZone: +12:00 - Latitude: -0.5508 - Longitude: 166.9252 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:34:35 Sunrise 06:36:26 Dhuhr (Noon) 12:40:06 Medium Coeli 12:40:06 Sunset 18:43:46 Maghrib 18:57:23 Isha (Night) 19:37:36 Sharia Midnight 00:09:00 Imum Coeli 00:39:57 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaren Sunday</title><link>https://astrology.ir/ephemeris/nauru/yaren/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/sunday/</guid><description>Geographic Information of Yaren TimeZone: +12:00 - Latitude: -0.5508 - Longitude: 166.9252 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:34:56 Sunrise 06:36:45 Dhuhr (Noon) 12:40:23 Medium Coeli 12:40:23 Sunset 18:44:02 Maghrib 18:57:39 Isha (Night) 19:37:50 Sharia Midnight 00:09:18 Imum Coeli 00:40:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaren Saturday</title><link>https://astrology.ir/ephemeris/nauru/yaren/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/saturday/</guid><description>Geographic Information of Yaren TimeZone: +12:00 - Latitude: -0.5508 - Longitude: 166.9252 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:35:18 Sunrise 06:37:04 Dhuhr (Noon) 12:40:41 Medium Coeli 12:40:41 Sunset 18:44:19 Maghrib 18:57:55 Isha (Night) 19:38:04 Sharia Midnight 00:09:37 Imum Coeli 00:40:32 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaren</title><link>https://astrology.ir/ephemeris/nauru/yaren/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/</guid><description>Geographic Information of Yaren TimeZone: +12:00 - Latitude: -0.5508 - Longitude: 166.9252 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:35:39 Sunrise 06:37:23 Dhuhr (Noon) 12:40:59 Medium Coeli 12:40:59 Sunset 18:44:36 Maghrib 18:58:12 Isha (Night) 19:38:19 Sharia Midnight 00:09:57 Imum Coeli 00:40:50 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaren Friday</title><link>https://astrology.ir/ephemeris/nauru/yaren/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/friday/</guid><description>Geographic Information of Yaren TimeZone: +12:00 - Latitude: -0.5508 - Longitude: 166.9252 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:35:39 Sunrise 06:37:23 Dhuhr (Noon) 12:40:59 Medium Coeli 12:40:59 Sunset 18:44:36 Maghrib 18:58:12 Isha (Night) 19:38:19 Sharia Midnight 00:09:57 Imum Coeli 00:40:50 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Yaren Thursday</title><link>https://astrology.ir/ephemeris/nauru/yaren/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +1200</pubDate><guid>https://astrology.ir/ephemeris/nauru/yaren/thursday/</guid><description>Geographic Information of Yaren TimeZone: +12:00 - Latitude: -0.5508 - Longitude: 166.9252 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:36:00 Sunrise 06:37:42 Dhuhr (Noon) 12:41:18 Medium Coeli 12:41:18 Sunset 18:44:53 Maghrib 18:58:29 Isha (Night) 19:38:35 Sharia Midnight 00:10:16 Imum Coeli 00:41:08 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

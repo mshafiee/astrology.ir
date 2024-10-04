@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GuineaBissau on Astrology</title><link>https://astrology.ir/tags/guineabissau/</link><description>Recent content in GuineaBissau on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://astrology.ir/tags/guineabissau/index.xml" rel="self" type="application/rss+xml"/><item><title>Bissau Wednesday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/wednesday/</guid><description>&lt;h2 id="geographic-information-of-bissau">Geographic Information of Bissau&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 11.8636
--
-Longitude: -15.5977
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bissau, Guinea-Bissau | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8636', '-15.5977');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bissau Tuesday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/tuesday/</guid><description>&lt;h2 id="geographic-information-of-bissau">Geographic Information of Bissau&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 11.8636
--
-Longitude: -15.5977
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bissau, Guinea-Bissau | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8636', '-15.5977');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bissau Monday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/monday/</guid><description>&lt;h2 id="geographic-information-of-bissau">Geographic Information of Bissau&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 11.8636
--
-Longitude: -15.5977
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bissau, Guinea-Bissau | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8636', '-15.5977');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bissau Sunday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/sunday/</guid><description>&lt;h2 id="geographic-information-of-bissau">Geographic Information of Bissau&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 11.8636
--
-Longitude: -15.5977
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bissau, Guinea-Bissau | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8636', '-15.5977');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bissau Saturday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/saturday/</guid><description>&lt;h2 id="geographic-information-of-bissau">Geographic Information of Bissau&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 11.8636
--
-Longitude: -15.5977
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bissau, Guinea-Bissau | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8636', '-15.5977');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bissau</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/</guid><description>&lt;h2 id="geographic-information-of-bissau">Geographic Information of Bissau&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 11.8636
--
-Longitude: -15.5977
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bissau, Guinea-Bissau | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8636', '-15.5977');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bissau Friday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/friday/</guid><description>&lt;h2 id="geographic-information-of-bissau">Geographic Information of Bissau&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 11.8636
--
-Longitude: -15.5977
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bissau, Guinea-Bissau | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8636', '-15.5977');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Bissau Thursday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/thursday/</guid><description>&lt;h2 id="geographic-information-of-bissau">Geographic Information of Bissau&lt;/h2>
-&lt;p>TimeZone: 00:00
--
-Latitude: 11.8636
--
-Longitude: -15.5977
--
-Altitude: 13.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Bissau, Guinea-Bissau | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('11.8636', '-15.5977');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GuineaBissau on Astrology</title><link>https://astrology.ir/tags/guineabissau/</link><description>Recent content in GuineaBissau on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://astrology.ir/tags/guineabissau/index.xml" rel="self" type="application/rss+xml"/><item><title>Bissau Wednesday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/wednesday/</guid><description>Geographic Information of Bissau TimeZone: 00:00 - Latitude: 11.8636 - Longitude: -15.5977 - Altitude: 13.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:17 Sunrise 06:51:25 Dhuhr (Noon) 12:49:30 Medium Coeli 12:49:30 Sunset 18:47:24 Maghrib 19:01:20 Isha (Night) 19:42:21 Sharia Midnight 00:17:51 Imum Coeli 00:49:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bissau Tuesday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/tuesday/</guid><description>Geographic Information of Bissau TimeZone: 00:00 - Latitude: 11.8636 - Longitude: -15.5977 - Altitude: 13.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:17 Sunrise 06:51:23 Dhuhr (Noon) 12:49:46 Medium Coeli 12:49:46 Sunset 18:48:00 Maghrib 19:01:55 Isha (Night) 19:42:54 Sharia Midnight 00:18:08 Imum Coeli 00:49:38 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bissau Monday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/monday/</guid><description>Geographic Information of Bissau TimeZone: 00:00 - Latitude: 11.8636 - Longitude: -15.5977 - Altitude: 13.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:16 Sunrise 06:51:20 Dhuhr (Noon) 12:50:03 Medium Coeli 12:50:03 Sunset 18:48:36 Maghrib 19:02:30 Isha (Night) 19:43:28 Sharia Midnight 00:18:26 Imum Coeli 00:49:54 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bissau Sunday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/sunday/</guid><description>Geographic Information of Bissau TimeZone: 00:00 - Latitude: 11.8636 - Longitude: -15.5977 - Altitude: 13.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:16 Sunrise 06:51:18 Dhuhr (Noon) 12:50:20 Medium Coeli 12:50:20 Sunset 18:49:12 Maghrib 19:03:06 Isha (Night) 19:44:03 Sharia Midnight 00:18:44 Imum Coeli 00:50:11 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bissau Saturday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/saturday/</guid><description>Geographic Information of Bissau TimeZone: 00:00 - Latitude: 11.8636 - Longitude: -15.5977 - Altitude: 13.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:16 Sunrise 06:51:17 Dhuhr (Noon) 12:50:37 Medium Coeli 12:50:37 Sunset 18:49:49 Maghrib 19:03:42 Isha (Night) 19:44:38 Sharia Midnight 00:19:02 Imum Coeli 00:50:29 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bissau</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/</guid><description>Geographic Information of Bissau TimeZone: 00:00 - Latitude: 11.8636 - Longitude: -15.5977 - Altitude: 13.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:16 Sunrise 06:51:15 Dhuhr (Noon) 12:50:55 Medium Coeli 12:50:55 Sunset 18:50:26 Maghrib 19:04:19 Isha (Night) 19:45:14 Sharia Midnight 00:19:21 Imum Coeli 00:50:46 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bissau Friday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/friday/</guid><description>Geographic Information of Bissau TimeZone: 00:00 - Latitude: 11.8636 - Longitude: -15.5977 - Altitude: 13.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:16 Sunrise 06:51:15 Dhuhr (Noon) 12:50:55 Medium Coeli 12:50:55 Sunset 18:50:26 Maghrib 19:04:19 Isha (Night) 19:45:14 Sharia Midnight 00:19:21 Imum Coeli 00:50:46 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Bissau Thursday</title><link>https://astrology.ir/ephemeris/guinea_bissau/bissau/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><guid>https://astrology.ir/ephemeris/guinea_bissau/bissau/thursday/</guid><description>Geographic Information of Bissau TimeZone: 00:00 - Latitude: 11.8636 - Longitude: -15.5977 - Altitude: 13.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:16 Sunrise 06:51:14 Dhuhr (Noon) 12:51:14 Medium Coeli 12:51:14 Sunset 18:51:03 Maghrib 19:04:56 Isha (Night) 19:45:50 Sharia Midnight 00:19:39 Imum Coeli 00:51:04 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

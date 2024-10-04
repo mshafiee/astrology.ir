@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hamburg on Astrology</title><link>https://astrology.ir/ephemeris/germany/hamburg/</link><description>Recent content in Hamburg on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/germany/hamburg/index.xml" rel="self" type="application/rss+xml"/><item><title>Hamburg Wednesday</title><link>https://astrology.ir/ephemeris/germany/hamburg/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/wednesday/</guid><description>&lt;h2 id="geographic-information-of-hamburg">Geographic Information of Hamburg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 53.5507
--
-Longitude: 9.9930
--
-Altitude: 2.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hamburg, Germany | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.5507', '9.9930');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hamburg Tuesday</title><link>https://astrology.ir/ephemeris/germany/hamburg/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/tuesday/</guid><description>&lt;h2 id="geographic-information-of-hamburg">Geographic Information of Hamburg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 53.5507
--
-Longitude: 9.9930
--
-Altitude: 2.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hamburg, Germany | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.5507', '9.9930');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hamburg Monday</title><link>https://astrology.ir/ephemeris/germany/hamburg/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/monday/</guid><description>&lt;h2 id="geographic-information-of-hamburg">Geographic Information of Hamburg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 53.5507
--
-Longitude: 9.9930
--
-Altitude: 2.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hamburg, Germany | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.5507', '9.9930');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hamburg Sunday</title><link>https://astrology.ir/ephemeris/germany/hamburg/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/sunday/</guid><description>&lt;h2 id="geographic-information-of-hamburg">Geographic Information of Hamburg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 53.5507
--
-Longitude: 9.9930
--
-Altitude: 2.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hamburg, Germany | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.5507', '9.9930');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hamburg Saturday</title><link>https://astrology.ir/ephemeris/germany/hamburg/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/saturday/</guid><description>&lt;h2 id="geographic-information-of-hamburg">Geographic Information of Hamburg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 53.5507
--
-Longitude: 9.9930
--
-Altitude: 2.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hamburg, Germany | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.5507', '9.9930');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hamburg Friday</title><link>https://astrology.ir/ephemeris/germany/hamburg/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/friday/</guid><description>&lt;h2 id="geographic-information-of-hamburg">Geographic Information of Hamburg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 53.5507
--
-Longitude: 9.9930
--
-Altitude: 2.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hamburg, Germany | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.5507', '9.9930');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Hamburg Thursday</title><link>https://astrology.ir/ephemeris/germany/hamburg/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/thursday/</guid><description>&lt;h2 id="geographic-information-of-hamburg">Geographic Information of Hamburg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 53.5507
--
-Longitude: 9.9930
--
-Altitude: 2.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Hamburg, Germany | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('53.5507', '9.9930');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hamburg on Astrology</title><link>https://astrology.ir/ephemeris/germany/hamburg/</link><description>Recent content in Hamburg on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/germany/hamburg/index.xml" rel="self" type="application/rss+xml"/><item><title>Hamburg Wednesday</title><link>https://astrology.ir/ephemeris/germany/hamburg/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/wednesday/</guid><description>Geographic Information of Hamburg TimeZone: +02:00 - Latitude: 53.5507 - Longitude: 9.9930 - Altitude: 2.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:52:09 Sunrise 07:36:28 Dhuhr (Noon) 13:07:09 Medium Coeli 13:07:09 Sunset 18:36:52 Maghrib 18:59:51 Isha (Night) 20:07:15 Sharia Midnight 00:15:25 Imum Coeli 01:07:01 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hamburg Tuesday</title><link>https://astrology.ir/ephemeris/germany/hamburg/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/tuesday/</guid><description>Geographic Information of Hamburg TimeZone: +02:00 - Latitude: 53.5507 - Longitude: 9.9930 - Altitude: 2.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:50:18 Sunrise 07:34:39 Dhuhr (Noon) 13:07:25 Medium Coeli 13:07:25 Sunset 18:39:14 Maghrib 19:02:11 Isha (Night) 20:09:36 Sharia Midnight 00:15:41 Imum Coeli 01:07:17 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hamburg Monday</title><link>https://astrology.ir/ephemeris/germany/hamburg/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/monday/</guid><description>Geographic Information of Hamburg TimeZone: +02:00 - Latitude: 53.5507 - Longitude: 9.9930 - Altitude: 2.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:48:26 Sunrise 07:32:50 Dhuhr (Noon) 13:07:42 Medium Coeli 13:07:42 Sunset 18:41:36 Maghrib 19:04:31 Isha (Night) 20:11:58 Sharia Midnight 00:15:57 Imum Coeli 01:07:34 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hamburg Sunday</title><link>https://astrology.ir/ephemeris/germany/hamburg/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/sunday/</guid><description>Geographic Information of Hamburg TimeZone: +02:00 - Latitude: 53.5507 - Longitude: 9.9930 - Altitude: 2.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:46:34 Sunrise 07:31:01 Dhuhr (Noon) 13:07:59 Medium Coeli 13:07:59 Sunset 18:43:59 Maghrib 19:06:52 Isha (Night) 20:14:22 Sharia Midnight 00:16:12 Imum Coeli 01:07:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hamburg Saturday</title><link>https://astrology.ir/ephemeris/germany/hamburg/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/saturday/</guid><description>Geographic Information of Hamburg TimeZone: +02:00 - Latitude: 53.5507 - Longitude: 9.9930 - Altitude: 2.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:44:42 Sunrise 07:29:13 Dhuhr (Noon) 13:08:17 Medium Coeli 13:08:17 Sunset 18:46:22 Maghrib 19:09:14 Isha (Night) 20:16:46 Sharia Midnight 00:16:28 Imum Coeli 01:08:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hamburg Friday</title><link>https://astrology.ir/ephemeris/germany/hamburg/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/friday/</guid><description>Geographic Information of Hamburg TimeZone: +02:00 - Latitude: 53.5507 - Longitude: 9.9930 - Altitude: 2.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:42:48 Sunrise 07:27:25 Dhuhr (Noon) 13:08:35 Medium Coeli 13:08:35 Sunset 18:48:46 Maghrib 19:11:36 Isha (Night) 20:19:12 Sharia Midnight 00:16:44 Imum Coeli 01:08:26 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Hamburg Thursday</title><link>https://astrology.ir/ephemeris/germany/hamburg/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/germany/hamburg/thursday/</guid><description>Geographic Information of Hamburg TimeZone: +02:00 - Latitude: 53.5507 - Longitude: 9.9930 - Altitude: 2.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:40:54 Sunrise 07:25:37 Dhuhr (Noon) 13:08:53 Medium Coeli 13:08:53 Sunset 18:51:10 Maghrib 19:13:59 Isha (Night) 20:21:39 Sharia Midnight 00:16:59 Imum Coeli 01:08:44 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

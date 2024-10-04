@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sharjah on Astrology</title><link>https://astrology.ir/tags/sharjah/</link><description>Recent content in Sharjah on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0400</lastBuildDate><atom:link href="https://astrology.ir/tags/sharjah/index.xml" rel="self" type="application/rss+xml"/><item><title>Sharjah Wednesday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/wednesday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Tuesday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/tuesday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Monday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/monday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Sunday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/sunday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Saturday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/saturday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Friday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/friday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Sharjah Thursday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/thursday/</guid><description>&lt;h2 id="geographic-information-of-sharjah">Geographic Information of Sharjah&lt;/h2>
-&lt;p>TimeZone: +04:00
--
-Latitude: 25.3374
--
-Longitude: 55.4121
--
-Altitude: 6.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Sharjah, United Arab Emirates | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('25.3374', '55.4121');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sharjah on Astrology</title><link>https://astrology.ir/tags/sharjah/</link><description>Recent content in Sharjah on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0400</lastBuildDate><atom:link href="https://astrology.ir/tags/sharjah/index.xml" rel="self" type="application/rss+xml"/><item><title>Sharjah Wednesday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/wednesday/</guid><description>Geographic Information of Sharjah TimeZone: +04:00 - Latitude: 25.3374 - Longitude: 55.4121 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:35 Sunrise 06:13:51 Dhuhr (Noon) 12:05:30 Medium Coeli 12:05:30 Sunset 17:56:49 Maghrib 18:11:53 Isha (Night) 18:56:11 Sharia Midnight 23:31:25 Imum Coeli 00:05:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sharjah Tuesday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/tuesday/</guid><description>Geographic Information of Sharjah TimeZone: +04:00 - Latitude: 25.3374 - Longitude: 55.4121 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:10 Sunrise 06:13:24 Dhuhr (Noon) 12:05:47 Medium Coeli 12:05:47 Sunset 17:57:48 Maghrib 18:12:52 Isha (Night) 18:57:09 Sharia Midnight 23:31:41 Imum Coeli 00:05:39 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sharjah Monday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/monday/</guid><description>Geographic Information of Sharjah TimeZone: +04:00 - Latitude: 25.3374 - Longitude: 55.4121 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:04:44 Sunrise 06:12:57 Dhuhr (Noon) 12:06:04 Medium Coeli 12:06:04 Sunset 17:58:49 Maghrib 18:13:51 Isha (Night) 18:58:08 Sharia Midnight 23:31:59 Imum Coeli 00:05:55 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sharjah Sunday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/sunday/</guid><description>Geographic Information of Sharjah TimeZone: +04:00 - Latitude: 25.3374 - Longitude: 55.4121 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:04:19 Sunrise 06:12:31 Dhuhr (Noon) 12:06:21 Medium Coeli 12:06:21 Sunset 17:59:49 Maghrib 18:14:52 Isha (Night) 18:59:07 Sharia Midnight 23:32:16 Imum Coeli 00:06:12 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sharjah Saturday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/saturday/</guid><description>Geographic Information of Sharjah TimeZone: +04:00 - Latitude: 25.3374 - Longitude: 55.4121 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:03:54 Sunrise 06:12:05 Dhuhr (Noon) 12:06:39 Medium Coeli 12:06:39 Sunset 18:00:51 Maghrib 18:15:52 Isha (Night) 19:00:07 Sharia Midnight 23:32:35 Imum Coeli 00:06:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sharjah</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/</guid><description>Geographic Information of Sharjah TimeZone: +04:00 - Latitude: 25.3374 - Longitude: 55.4121 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:03:28 Sunrise 06:11:39 Dhuhr (Noon) 12:06:57 Medium Coeli 12:06:57 Sunset 18:01:52 Maghrib 18:16:54 Isha (Night) 19:01:08 Sharia Midnight 23:32:53 Imum Coeli 00:06:48 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sharjah Friday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/friday/</guid><description>Geographic Information of Sharjah TimeZone: +04:00 - Latitude: 25.3374 - Longitude: 55.4121 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:03:28 Sunrise 06:11:39 Dhuhr (Noon) 12:06:57 Medium Coeli 12:06:57 Sunset 18:01:52 Maghrib 18:16:54 Isha (Night) 19:01:08 Sharia Midnight 23:32:53 Imum Coeli 00:06:48 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Sharjah Thursday</title><link>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0400</pubDate><guid>https://astrology.ir/ephemeris/united_arab_emirates/sharjah/thursday/</guid><description>Geographic Information of Sharjah TimeZone: +04:00 - Latitude: 25.3374 - Longitude: 55.4121 - Altitude: 6.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:03:03 Sunrise 06:11:14 Dhuhr (Noon) 12:07:15 Medium Coeli 12:07:15 Sunset 18:02:55 Maghrib 18:17:55 Isha (Night) 19:02:10 Sharia Midnight 23:33:11 Imum Coeli 00:07:06 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

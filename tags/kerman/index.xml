@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kerman on Astrology</title><link>https://astrology.ir/tags/kerman/</link><description>Recent content in Kerman on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/kerman/index.xml" rel="self" type="application/rss+xml"/><item><title>Kerman Wednesday</title><link>https://astrology.ir/ephemeris/iran/kerman/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/wednesday/</guid><description>&lt;h2 id="geographic-information-of-kerman">Geographic Information of Kerman&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.2832
--
-Longitude: 57.0788
--
-Altitude: 1,760.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kerman, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2832', '57.0788');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kerman Tuesday</title><link>https://astrology.ir/ephemeris/iran/kerman/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/tuesday/</guid><description>&lt;h2 id="geographic-information-of-kerman">Geographic Information of Kerman&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.2832
--
-Longitude: 57.0788
--
-Altitude: 1,760.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kerman, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2832', '57.0788');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kerman Monday</title><link>https://astrology.ir/ephemeris/iran/kerman/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/monday/</guid><description>&lt;h2 id="geographic-information-of-kerman">Geographic Information of Kerman&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.2832
--
-Longitude: 57.0788
--
-Altitude: 1,760.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kerman, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2832', '57.0788');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kerman Sunday</title><link>https://astrology.ir/ephemeris/iran/kerman/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/sunday/</guid><description>&lt;h2 id="geographic-information-of-kerman">Geographic Information of Kerman&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.2832
--
-Longitude: 57.0788
--
-Altitude: 1,760.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kerman, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2832', '57.0788');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kerman Saturday</title><link>https://astrology.ir/ephemeris/iran/kerman/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/saturday/</guid><description>&lt;h2 id="geographic-information-of-kerman">Geographic Information of Kerman&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.2832
--
-Longitude: 57.0788
--
-Altitude: 1,760.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kerman, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2832', '57.0788');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kerman</title><link>https://astrology.ir/ephemeris/iran/kerman/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/</guid><description>&lt;h2 id="geographic-information-of-kerman">Geographic Information of Kerman&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.2832
--
-Longitude: 57.0788
--
-Altitude: 1,760.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kerman, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2832', '57.0788');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kerman Friday</title><link>https://astrology.ir/ephemeris/iran/kerman/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/friday/</guid><description>&lt;h2 id="geographic-information-of-kerman">Geographic Information of Kerman&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.2832
--
-Longitude: 57.0788
--
-Altitude: 1,760.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kerman, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2832', '57.0788');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Kerman Thursday</title><link>https://astrology.ir/ephemeris/iran/kerman/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/thursday/</guid><description>&lt;h2 id="geographic-information-of-kerman">Geographic Information of Kerman&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 30.2832
--
-Longitude: 57.0788
--
-Altitude: 1,760.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Kerman, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('30.2832', '57.0788');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kerman on Astrology</title><link>https://astrology.ir/tags/kerman/</link><description>Recent content in Kerman on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/tags/kerman/index.xml" rel="self" type="application/rss+xml"/><item><title>Kerman Wednesday</title><link>https://astrology.ir/ephemeris/iran/kerman/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/wednesday/</guid><description>Geographic Information of Kerman TimeZone: +03:30 - Latitude: 30.2832 - Longitude: 57.0788 - Altitude: 1,760.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:28:24 Sunrise 05:40:26 Dhuhr (Noon) 11:28:51 Medium Coeli 11:28:51 Sunset 17:16:49 Maghrib 17:33:11 Isha (Night) 18:19:31 Sharia Midnight 22:52:54 Imum Coeli 23:28:42 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kerman Tuesday</title><link>https://astrology.ir/ephemeris/iran/kerman/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/tuesday/</guid><description>Geographic Information of Kerman TimeZone: +03:30 - Latitude: 30.2832 - Longitude: 57.0788 - Altitude: 1,760.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:27:48 Sunrise 05:39:49 Dhuhr (Noon) 11:29:07 Medium Coeli 11:29:07 Sunset 17:17:59 Maghrib 17:34:20 Isha (Night) 18:20:39 Sharia Midnight 22:53:11 Imum Coeli 23:28:59 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kerman Monday</title><link>https://astrology.ir/ephemeris/iran/kerman/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/monday/</guid><description>Geographic Information of Kerman TimeZone: +03:30 - Latitude: 30.2832 - Longitude: 57.0788 - Altitude: 1,760.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:27:12 Sunrise 05:39:12 Dhuhr (Noon) 11:29:24 Medium Coeli 11:29:24 Sunset 17:19:09 Maghrib 17:35:30 Isha (Night) 18:21:49 Sharia Midnight 22:53:28 Imum Coeli 23:29:15 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kerman Sunday</title><link>https://astrology.ir/ephemeris/iran/kerman/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/sunday/</guid><description>Geographic Information of Kerman TimeZone: +03:30 - Latitude: 30.2832 - Longitude: 57.0788 - Altitude: 1,760.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:26:36 Sunrise 05:38:35 Dhuhr (Noon) 11:29:41 Medium Coeli 11:29:41 Sunset 17:20:20 Maghrib 17:36:40 Isha (Night) 18:22:59 Sharia Midnight 22:53:46 Imum Coeli 23:29:32 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kerman Saturday</title><link>https://astrology.ir/ephemeris/iran/kerman/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/saturday/</guid><description>Geographic Information of Kerman TimeZone: +03:30 - Latitude: 30.2832 - Longitude: 57.0788 - Altitude: 1,760.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:26:00 Sunrise 05:37:59 Dhuhr (Noon) 11:29:59 Medium Coeli 11:29:59 Sunset 17:21:32 Maghrib 17:37:51 Isha (Night) 18:24:09 Sharia Midnight 22:54:04 Imum Coeli 23:29:50 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kerman</title><link>https://astrology.ir/ephemeris/iran/kerman/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/</guid><description>Geographic Information of Kerman TimeZone: +03:30 - Latitude: 30.2832 - Longitude: 57.0788 - Altitude: 1,760.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:25:24 Sunrise 05:37:23 Dhuhr (Noon) 11:30:17 Medium Coeli 11:30:17 Sunset 17:22:44 Maghrib 17:39:02 Isha (Night) 18:25:21 Sharia Midnight 22:54:22 Imum Coeli 23:30:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kerman Friday</title><link>https://astrology.ir/ephemeris/iran/kerman/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/friday/</guid><description>Geographic Information of Kerman TimeZone: +03:30 - Latitude: 30.2832 - Longitude: 57.0788 - Altitude: 1,760.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:25:24 Sunrise 05:37:23 Dhuhr (Noon) 11:30:17 Medium Coeli 11:30:17 Sunset 17:22:44 Maghrib 17:39:02 Isha (Night) 18:25:21 Sharia Midnight 22:54:22 Imum Coeli 23:30:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Kerman Thursday</title><link>https://astrology.ir/ephemeris/iran/kerman/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/kerman/thursday/</guid><description>Geographic Information of Kerman TimeZone: +03:30 - Latitude: 30.2832 - Longitude: 57.0788 - Altitude: 1,760.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:24:49 Sunrise 05:36:47 Dhuhr (Noon) 11:30:35 Medium Coeli 11:30:35 Sunset 17:23:56 Maghrib 17:40:14 Isha (Night) 18:26:33 Sharia Midnight 22:54:40 Imum Coeli 23:30:26 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

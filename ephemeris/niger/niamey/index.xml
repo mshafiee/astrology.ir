@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Niamey on Astrology</title><link>https://astrology.ir/ephemeris/niger/niamey/</link><description>Recent content in Niamey on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/niger/niamey/index.xml" rel="self" type="application/rss+xml"/><item><title>Niamey Wednesday</title><link>https://astrology.ir/ephemeris/niger/niamey/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/wednesday/</guid><description>&lt;h2 id="geographic-information-of-niamey">Geographic Information of Niamey&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 13.5137
--
-Longitude: 2.1098
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Niamey, Niger | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.5137', '2.1098');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Niamey Tuesday</title><link>https://astrology.ir/ephemeris/niger/niamey/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/tuesday/</guid><description>&lt;h2 id="geographic-information-of-niamey">Geographic Information of Niamey&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 13.5137
--
-Longitude: 2.1098
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Niamey, Niger | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.5137', '2.1098');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Niamey Monday</title><link>https://astrology.ir/ephemeris/niger/niamey/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/monday/</guid><description>&lt;h2 id="geographic-information-of-niamey">Geographic Information of Niamey&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 13.5137
--
-Longitude: 2.1098
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Niamey, Niger | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.5137', '2.1098');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Niamey Sunday</title><link>https://astrology.ir/ephemeris/niger/niamey/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/sunday/</guid><description>&lt;h2 id="geographic-information-of-niamey">Geographic Information of Niamey&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 13.5137
--
-Longitude: 2.1098
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Niamey, Niger | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.5137', '2.1098');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Niamey Saturday</title><link>https://astrology.ir/ephemeris/niger/niamey/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/saturday/</guid><description>&lt;h2 id="geographic-information-of-niamey">Geographic Information of Niamey&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 13.5137
--
-Longitude: 2.1098
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Niamey, Niger | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.5137', '2.1098');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Niamey Friday</title><link>https://astrology.ir/ephemeris/niger/niamey/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/friday/</guid><description>&lt;h2 id="geographic-information-of-niamey">Geographic Information of Niamey&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 13.5137
--
-Longitude: 2.1098
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Niamey, Niger | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.5137', '2.1098');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Niamey Thursday</title><link>https://astrology.ir/ephemeris/niger/niamey/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/thursday/</guid><description>&lt;h2 id="geographic-information-of-niamey">Geographic Information of Niamey&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 13.5137
--
-Longitude: 2.1098
--
-Altitude: 206.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Niamey, Niger | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('13.5137', '2.1098');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Niamey on Astrology</title><link>https://astrology.ir/ephemeris/niger/niamey/</link><description>Recent content in Niamey on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/niger/niamey/index.xml" rel="self" type="application/rss+xml"/><item><title>Niamey Wednesday</title><link>https://astrology.ir/ephemeris/niger/niamey/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/wednesday/</guid><description>Geographic Information of Niamey TimeZone: +01:00 - Latitude: 13.5137 - Longitude: 2.1098 - Altitude: 206.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:37:49 Sunrise 06:41:25 Dhuhr (Noon) 12:38:41 Medium Coeli 12:38:41 Sunset 18:35:45 Maghrib 18:49:50 Isha (Night) 19:31:06 Sharia Midnight 00:06:49 Imum Coeli 00:38:33 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Niamey Tuesday</title><link>https://astrology.ir/ephemeris/niger/niamey/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/tuesday/</guid><description>Geographic Information of Niamey TimeZone: +01:00 - Latitude: 13.5137 - Longitude: 2.1098 - Altitude: 206.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:37:46 Sunrise 06:41:19 Dhuhr (Noon) 12:38:57 Medium Coeli 12:38:57 Sunset 18:36:24 Maghrib 18:50:28 Isha (Night) 19:31:42 Sharia Midnight 00:07:06 Imum Coeli 00:38:49 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Niamey Monday</title><link>https://astrology.ir/ephemeris/niger/niamey/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/monday/</guid><description>Geographic Information of Niamey TimeZone: +01:00 - Latitude: 13.5137 - Longitude: 2.1098 - Altitude: 206.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:37:43 Sunrise 06:41:14 Dhuhr (Noon) 12:39:14 Medium Coeli 12:39:14 Sunset 18:37:02 Maghrib 18:51:06 Isha (Night) 19:32:19 Sharia Midnight 00:07:24 Imum Coeli 00:39:05 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Niamey Sunday</title><link>https://astrology.ir/ephemeris/niger/niamey/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/sunday/</guid><description>Geographic Information of Niamey TimeZone: +01:00 - Latitude: 13.5137 - Longitude: 2.1098 - Altitude: 206.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:37:40 Sunrise 06:41:09 Dhuhr (Noon) 12:39:31 Medium Coeli 12:39:31 Sunset 18:37:41 Maghrib 18:51:45 Isha (Night) 19:32:57 Sharia Midnight 00:07:42 Imum Coeli 00:39:22 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Niamey Saturday</title><link>https://astrology.ir/ephemeris/niger/niamey/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/saturday/</guid><description>Geographic Information of Niamey TimeZone: +01:00 - Latitude: 13.5137 - Longitude: 2.1098 - Altitude: 206.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:37:37 Sunrise 06:41:05 Dhuhr (Noon) 12:39:49 Medium Coeli 12:39:49 Sunset 18:38:21 Maghrib 18:52:24 Isha (Night) 19:33:35 Sharia Midnight 00:08:00 Imum Coeli 00:39:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Niamey Friday</title><link>https://astrology.ir/ephemeris/niger/niamey/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/friday/</guid><description>Geographic Information of Niamey TimeZone: +01:00 - Latitude: 13.5137 - Longitude: 2.1098 - Altitude: 206.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:37:34 Sunrise 06:41:01 Dhuhr (Noon) 12:40:06 Medium Coeli 12:40:06 Sunset 18:39:01 Maghrib 18:53:03 Isha (Night) 19:34:13 Sharia Midnight 00:08:19 Imum Coeli 00:39:57 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Niamey Thursday</title><link>https://astrology.ir/ephemeris/niger/niamey/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/niger/niamey/thursday/</guid><description>Geographic Information of Niamey TimeZone: +01:00 - Latitude: 13.5137 - Longitude: 2.1098 - Altitude: 206.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:37:31 Sunrise 06:40:57 Dhuhr (Noon) 12:40:25 Medium Coeli 12:40:25 Sunset 18:39:42 Maghrib 18:53:43 Isha (Night) 19:34:53 Sharia Midnight 00:08:38 Imum Coeli 00:40:16 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

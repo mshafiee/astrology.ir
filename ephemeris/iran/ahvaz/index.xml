@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ahvaz on Astrology</title><link>https://astrology.ir/ephemeris/iran/ahvaz/</link><description>Recent content in Ahvaz on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/iran/ahvaz/index.xml" rel="self" type="application/rss+xml"/><item><title>Ahvaz Wednesday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/wednesday/</guid><description>&lt;h2 id="geographic-information-of-ahvaz">Geographic Information of Ahvaz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 31.3190
--
-Longitude: 48.6842
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ahvaz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.3190', '48.6842');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ahvaz Tuesday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/tuesday/</guid><description>&lt;h2 id="geographic-information-of-ahvaz">Geographic Information of Ahvaz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 31.3190
--
-Longitude: 48.6842
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ahvaz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.3190', '48.6842');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ahvaz Monday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/monday/</guid><description>&lt;h2 id="geographic-information-of-ahvaz">Geographic Information of Ahvaz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 31.3190
--
-Longitude: 48.6842
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ahvaz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.3190', '48.6842');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ahvaz Sunday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/sunday/</guid><description>&lt;h2 id="geographic-information-of-ahvaz">Geographic Information of Ahvaz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 31.3190
--
-Longitude: 48.6842
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ahvaz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.3190', '48.6842');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ahvaz Saturday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/saturday/</guid><description>&lt;h2 id="geographic-information-of-ahvaz">Geographic Information of Ahvaz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 31.3190
--
-Longitude: 48.6842
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ahvaz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.3190', '48.6842');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ahvaz Friday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/friday/</guid><description>&lt;h2 id="geographic-information-of-ahvaz">Geographic Information of Ahvaz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 31.3190
--
-Longitude: 48.6842
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ahvaz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.3190', '48.6842');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Ahvaz Thursday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/thursday/</guid><description>&lt;h2 id="geographic-information-of-ahvaz">Geographic Information of Ahvaz&lt;/h2>
-&lt;p>TimeZone: +03:30
--
-Latitude: 31.3190
--
-Longitude: 48.6842
--
-Altitude: 23.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Ahvaz, Iran | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('31.3190', '48.6842');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ahvaz on Astrology</title><link>https://astrology.ir/ephemeris/iran/ahvaz/</link><description>Recent content in Ahvaz on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0330</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/iran/ahvaz/index.xml" rel="self" type="application/rss+xml"/><item><title>Ahvaz Wednesday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/wednesday/</guid><description>Geographic Information of Ahvaz TimeZone: +03:30 - Latitude: 31.3190 - Longitude: 48.6842 - Altitude: 23.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:01:48 Sunrise 06:14:02 Dhuhr (Noon) 12:02:25 Medium Coeli 12:02:25 Sunset 17:50:21 Maghrib 18:06:18 Isha (Night) 18:53:08 Sharia Midnight 23:26:24 Imum Coeli 00:02:17 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Ahvaz Tuesday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/tuesday/</guid><description>Geographic Information of Ahvaz TimeZone: +03:30 - Latitude: 31.3190 - Longitude: 48.6842 - Altitude: 23.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:01:10 Sunrise 06:13:22 Dhuhr (Noon) 12:02:41 Medium Coeli 12:02:41 Sunset 17:51:33 Maghrib 18:07:29 Isha (Night) 18:54:19 Sharia Midnight 23:26:40 Imum Coeli 00:02:33 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Ahvaz Monday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/monday/</guid><description>Geographic Information of Ahvaz TimeZone: +03:30 - Latitude: 31.3190 - Longitude: 48.6842 - Altitude: 23.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:00:32 Sunrise 06:12:43 Dhuhr (Noon) 12:02:58 Medium Coeli 12:02:58 Sunset 17:52:46 Maghrib 18:08:41 Isha (Night) 18:55:30 Sharia Midnight 23:26:58 Imum Coeli 00:02:50 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Ahvaz Sunday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/sunday/</guid><description>Geographic Information of Ahvaz TimeZone: +03:30 - Latitude: 31.3190 - Longitude: 48.6842 - Altitude: 23.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:59:53 Sunrise 06:12:04 Dhuhr (Noon) 12:03:15 Medium Coeli 12:03:15 Sunset 17:53:59 Maghrib 18:09:54 Isha (Night) 18:56:42 Sharia Midnight 23:27:15 Imum Coeli 00:03:07 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Ahvaz Saturday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/saturday/</guid><description>Geographic Information of Ahvaz TimeZone: +03:30 - Latitude: 31.3190 - Longitude: 48.6842 - Altitude: 23.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:59:15 Sunrise 06:11:26 Dhuhr (Noon) 12:03:33 Medium Coeli 12:03:33 Sunset 17:55:13 Maghrib 18:11:07 Isha (Night) 18:57:55 Sharia Midnight 23:27:33 Imum Coeli 00:03:24 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Ahvaz Friday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/friday/</guid><description>Geographic Information of Ahvaz TimeZone: +03:30 - Latitude: 31.3190 - Longitude: 48.6842 - Altitude: 23.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:37 Sunrise 06:10:47 Dhuhr (Noon) 12:03:51 Medium Coeli 12:03:51 Sunset 17:56:27 Maghrib 18:12:21 Isha (Night) 18:59:09 Sharia Midnight 23:27:51 Imum Coeli 00:03:42 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Ahvaz Thursday</title><link>https://astrology.ir/ephemeris/iran/ahvaz/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0330</pubDate><guid>https://astrology.ir/ephemeris/iran/ahvaz/thursday/</guid><description>Geographic Information of Ahvaz TimeZone: +03:30 - Latitude: 31.3190 - Longitude: 48.6842 - Altitude: 23.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:59 Sunrise 06:10:09 Dhuhr (Noon) 12:04:09 Medium Coeli 12:04:09 Sunset 17:57:42 Maghrib 18:13:35 Isha (Night) 19:00:23 Sharia Midnight 23:28:09 Imum Coeli 00:04:00 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

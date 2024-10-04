@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luxembourg on Astrology</title><link>https://astrology.ir/tags/luxembourg/</link><description>Recent content in Luxembourg on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/luxembourg/index.xml" rel="self" type="application/rss+xml"/><item><title>Luxembourg Wednesday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/wednesday/</guid><description>&lt;h2 id="geographic-information-of-luxembourg">Geographic Information of Luxembourg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 49.6117
--
-Longitude: 6.1300
--
-Altitude: 316.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Luxembourg, Luxembourg | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.6117', '6.1300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Luxembourg Tuesday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/tuesday/</guid><description>&lt;h2 id="geographic-information-of-luxembourg">Geographic Information of Luxembourg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 49.6117
--
-Longitude: 6.1300
--
-Altitude: 316.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Luxembourg, Luxembourg | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.6117', '6.1300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Luxembourg Monday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/monday/</guid><description>&lt;h2 id="geographic-information-of-luxembourg">Geographic Information of Luxembourg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 49.6117
--
-Longitude: 6.1300
--
-Altitude: 316.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Luxembourg, Luxembourg | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.6117', '6.1300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Luxembourg Sunday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/sunday/</guid><description>&lt;h2 id="geographic-information-of-luxembourg">Geographic Information of Luxembourg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 49.6117
--
-Longitude: 6.1300
--
-Altitude: 316.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Luxembourg, Luxembourg | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.6117', '6.1300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Luxembourg Saturday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/saturday/</guid><description>&lt;h2 id="geographic-information-of-luxembourg">Geographic Information of Luxembourg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 49.6117
--
-Longitude: 6.1300
--
-Altitude: 316.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Luxembourg, Luxembourg | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.6117', '6.1300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Luxembourg</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/</guid><description>&lt;h2 id="geographic-information-of-luxembourg">Geographic Information of Luxembourg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 49.6117
--
-Longitude: 6.1300
--
-Altitude: 316.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Luxembourg, Luxembourg | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.6117', '6.1300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Luxembourg Friday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/friday/</guid><description>&lt;h2 id="geographic-information-of-luxembourg">Geographic Information of Luxembourg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 49.6117
--
-Longitude: 6.1300
--
-Altitude: 316.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Luxembourg, Luxembourg | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.6117', '6.1300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Luxembourg Thursday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/thursday/</guid><description>&lt;h2 id="geographic-information-of-luxembourg">Geographic Information of Luxembourg&lt;/h2>
-&lt;p>TimeZone: +02:00
--
-Latitude: 49.6117
--
-Longitude: 6.1300
--
-Altitude: 316.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Luxembourg, Luxembourg | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('49.6117', '6.1300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luxembourg on Astrology</title><link>https://astrology.ir/tags/luxembourg/</link><description>Recent content in Luxembourg on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://astrology.ir/tags/luxembourg/index.xml" rel="self" type="application/rss+xml"/><item><title>Luxembourg Wednesday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/wednesday/</guid><description>Geographic Information of Luxembourg TimeZone: +02:00 - Latitude: 49.6117 - Longitude: 6.1300 - Altitude: 316.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:12:17 Sunrise 07:47:56 Dhuhr (Noon) 13:22:36 Medium Coeli 13:22:36 Sunset 18:56:26 Maghrib 19:17:38 Isha (Night) 20:19:24 Sharia Midnight 00:35:07 Imum Coeli 01:22:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Luxembourg Tuesday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/tuesday/</guid><description>Geographic Information of Luxembourg TimeZone: +02:00 - Latitude: 49.6117 - Longitude: 6.1300 - Altitude: 316.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:10:44 Sunrise 07:46:23 Dhuhr (Noon) 13:22:52 Medium Coeli 13:22:52 Sunset 18:58:31 Maghrib 19:19:42 Isha (Night) 20:21:28 Sharia Midnight 00:35:24 Imum Coeli 01:22:44 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Luxembourg Monday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/monday/</guid><description>Geographic Information of Luxembourg TimeZone: +02:00 - Latitude: 49.6117 - Longitude: 6.1300 - Altitude: 316.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:09:10 Sunrise 07:44:51 Dhuhr (Noon) 13:23:09 Medium Coeli 13:23:09 Sunset 19:00:36 Maghrib 19:21:46 Isha (Night) 20:23:33 Sharia Midnight 00:35:40 Imum Coeli 01:23:01 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Luxembourg Sunday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/sunday/</guid><description>Geographic Information of Luxembourg TimeZone: +02:00 - Latitude: 49.6117 - Longitude: 6.1300 - Altitude: 316.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:07:36 Sunrise 07:43:19 Dhuhr (Noon) 13:23:26 Medium Coeli 13:23:26 Sunset 19:02:42 Maghrib 19:23:50 Isha (Night) 20:25:39 Sharia Midnight 00:35:56 Imum Coeli 01:23:18 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Luxembourg Saturday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/saturday/</guid><description>Geographic Information of Luxembourg TimeZone: +02:00 - Latitude: 49.6117 - Longitude: 6.1300 - Altitude: 316.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:06:02 Sunrise 07:41:47 Dhuhr (Noon) 13:23:44 Medium Coeli 13:23:44 Sunset 19:04:49 Maghrib 19:25:56 Isha (Night) 20:27:46 Sharia Midnight 00:36:12 Imum Coeli 01:23:35 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Luxembourg</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/</guid><description>Geographic Information of Luxembourg TimeZone: +02:00 - Latitude: 49.6117 - Longitude: 6.1300 - Altitude: 316.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:04:28 Sunrise 07:40:16 Dhuhr (Noon) 13:24:02 Medium Coeli 13:24:02 Sunset 19:06:56 Maghrib 19:28:02 Isha (Night) 20:29:54 Sharia Midnight 00:36:29 Imum Coeli 01:23:53 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Luxembourg Friday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/friday/</guid><description>Geographic Information of Luxembourg TimeZone: +02:00 - Latitude: 49.6117 - Longitude: 6.1300 - Altitude: 316.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:04:28 Sunrise 07:40:16 Dhuhr (Noon) 13:24:02 Medium Coeli 13:24:02 Sunset 19:06:56 Maghrib 19:28:02 Isha (Night) 20:29:54 Sharia Midnight 00:36:29 Imum Coeli 01:23:53 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Luxembourg Thursday</title><link>https://astrology.ir/ephemeris/luxembourg/luxembourg/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0200</pubDate><guid>https://astrology.ir/ephemeris/luxembourg/luxembourg/thursday/</guid><description>Geographic Information of Luxembourg TimeZone: +02:00 - Latitude: 49.6117 - Longitude: 6.1300 - Altitude: 316.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:02:52 Sunrise 07:38:44 Dhuhr (Noon) 13:24:20 Medium Coeli 13:24:20 Sunset 19:09:03 Maghrib 19:30:08 Isha (Night) 20:32:03 Sharia Midnight 00:36:45 Imum Coeli 01:24:11 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

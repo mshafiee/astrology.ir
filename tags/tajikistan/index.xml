@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tajikistan on Astrology</title><link>https://astrology.ir/tags/tajikistan/</link><description>Recent content in Tajikistan on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0500</lastBuildDate><atom:link href="https://astrology.ir/tags/tajikistan/index.xml" rel="self" type="application/rss+xml"/><item><title>Dushanbe Wednesday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/wednesday/</guid><description>&lt;h2 id="geographic-information-of-dushanbe">Geographic Information of Dushanbe&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 38.5358
--
-Longitude: 68.7790
--
-Altitude: 767.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dushanbe, Tajikistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.5358', '68.7790');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dushanbe Tuesday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/tuesday/</guid><description>&lt;h2 id="geographic-information-of-dushanbe">Geographic Information of Dushanbe&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 38.5358
--
-Longitude: 68.7790
--
-Altitude: 767.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dushanbe, Tajikistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.5358', '68.7790');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dushanbe Monday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/monday/</guid><description>&lt;h2 id="geographic-information-of-dushanbe">Geographic Information of Dushanbe&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 38.5358
--
-Longitude: 68.7790
--
-Altitude: 767.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dushanbe, Tajikistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.5358', '68.7790');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dushanbe Sunday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/sunday/</guid><description>&lt;h2 id="geographic-information-of-dushanbe">Geographic Information of Dushanbe&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 38.5358
--
-Longitude: 68.7790
--
-Altitude: 767.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dushanbe, Tajikistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.5358', '68.7790');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dushanbe Saturday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/saturday/</guid><description>&lt;h2 id="geographic-information-of-dushanbe">Geographic Information of Dushanbe&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 38.5358
--
-Longitude: 68.7790
--
-Altitude: 767.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dushanbe, Tajikistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.5358', '68.7790');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dushanbe</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/</guid><description>&lt;h2 id="geographic-information-of-dushanbe">Geographic Information of Dushanbe&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 38.5358
--
-Longitude: 68.7790
--
-Altitude: 767.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dushanbe, Tajikistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.5358', '68.7790');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dushanbe Friday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/friday/</guid><description>&lt;h2 id="geographic-information-of-dushanbe">Geographic Information of Dushanbe&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 38.5358
--
-Longitude: 68.7790
--
-Altitude: 767.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dushanbe, Tajikistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.5358', '68.7790');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Dushanbe Thursday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/thursday/</guid><description>&lt;h2 id="geographic-information-of-dushanbe">Geographic Information of Dushanbe&lt;/h2>
-&lt;p>TimeZone: +05:00
--
-Latitude: 38.5358
--
-Longitude: 68.7790
--
-Altitude: 767.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Dushanbe, Tajikistan | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('38.5358', '68.7790');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tajikistan on Astrology</title><link>https://astrology.ir/tags/tajikistan/</link><description>Recent content in Tajikistan on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0500</lastBuildDate><atom:link href="https://astrology.ir/tags/tajikistan/index.xml" rel="self" type="application/rss+xml"/><item><title>Dushanbe Wednesday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/wednesday/</guid><description>Geographic Information of Dushanbe TimeZone: +05:00 - Latitude: 38.5358 - Longitude: 68.7790 - Altitude: 767.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:09:09 Sunrise 06:28:22 Dhuhr (Noon) 12:12:03 Medium Coeli 12:12:03 Sunset 17:55:09 Maghrib 18:12:52 Isha (Night) 19:04:00 Sharia Midnight 23:32:37 Imum Coeli 00:11:55 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dushanbe Tuesday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/tuesday/</guid><description>Geographic Information of Dushanbe TimeZone: +05:00 - Latitude: 38.5358 - Longitude: 68.7790 - Altitude: 767.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:08:13 Sunrise 06:27:25 Dhuhr (Noon) 12:12:19 Medium Coeli 12:12:19 Sunset 17:56:39 Maghrib 18:14:21 Isha (Night) 19:05:28 Sharia Midnight 23:32:54 Imum Coeli 00:12:11 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dushanbe Monday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/monday/</guid><description>Geographic Information of Dushanbe TimeZone: +05:00 - Latitude: 38.5358 - Longitude: 68.7790 - Altitude: 767.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:17 Sunrise 06:26:28 Dhuhr (Noon) 12:12:36 Medium Coeli 12:12:36 Sunset 17:58:09 Maghrib 18:15:50 Isha (Night) 19:06:57 Sharia Midnight 23:33:11 Imum Coeli 00:12:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dushanbe Sunday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/sunday/</guid><description>Geographic Information of Dushanbe TimeZone: +05:00 - Latitude: 38.5358 - Longitude: 68.7790 - Altitude: 767.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:20 Sunrise 06:25:32 Dhuhr (Noon) 12:12:54 Medium Coeli 12:12:54 Sunset 17:59:40 Maghrib 18:17:20 Isha (Night) 19:08:28 Sharia Midnight 23:33:28 Imum Coeli 00:12:45 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dushanbe Saturday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/saturday/</guid><description>Geographic Information of Dushanbe TimeZone: +05:00 - Latitude: 38.5358 - Longitude: 68.7790 - Altitude: 767.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:24 Sunrise 06:24:36 Dhuhr (Noon) 12:13:11 Medium Coeli 12:13:11 Sunset 18:01:11 Maghrib 18:18:50 Isha (Night) 19:09:58 Sharia Midnight 23:33:45 Imum Coeli 00:13:02 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dushanbe</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/</guid><description>Geographic Information of Dushanbe TimeZone: +05:00 - Latitude: 38.5358 - Longitude: 68.7790 - Altitude: 767.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:04:27 Sunrise 06:23:40 Dhuhr (Noon) 12:13:29 Medium Coeli 12:13:29 Sunset 18:02:43 Maghrib 18:20:22 Isha (Night) 19:11:30 Sharia Midnight 23:34:03 Imum Coeli 00:13:20 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dushanbe Friday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/friday/</guid><description>Geographic Information of Dushanbe TimeZone: +05:00 - Latitude: 38.5358 - Longitude: 68.7790 - Altitude: 767.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:04:27 Sunrise 06:23:40 Dhuhr (Noon) 12:13:29 Medium Coeli 12:13:29 Sunset 18:02:43 Maghrib 18:20:22 Isha (Night) 19:11:30 Sharia Midnight 23:34:03 Imum Coeli 00:13:20 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Dushanbe Thursday</title><link>https://astrology.ir/ephemeris/tajikistan/dushanbe/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0500</pubDate><guid>https://astrology.ir/ephemeris/tajikistan/dushanbe/thursday/</guid><description>Geographic Information of Dushanbe TimeZone: +05:00 - Latitude: 38.5358 - Longitude: 68.7790 - Altitude: 767.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:03:30 Sunrise 06:22:44 Dhuhr (Noon) 12:13:48 Medium Coeli 12:13:48 Sunset 18:04:15 Maghrib 18:21:53 Isha (Night) 19:13:02 Sharia Midnight 23:34:21 Imum Coeli 00:13:38 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

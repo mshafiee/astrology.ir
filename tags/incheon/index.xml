@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Incheon on Astrology</title><link>https://astrology.ir/tags/incheon/</link><description>Recent content in Incheon on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://astrology.ir/tags/incheon/index.xml" rel="self" type="application/rss+xml"/><item><title>Incheon Wednesday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/wednesday/</guid><description>&lt;h2 id="geographic-information-of-incheon">Geographic Information of Incheon&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 37.4565
--
-Longitude: 126.7052
--
-Altitude: 43.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Incheon, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.4565', '126.7052');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Incheon Tuesday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/tuesday/</guid><description>&lt;h2 id="geographic-information-of-incheon">Geographic Information of Incheon&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 37.4565
--
-Longitude: 126.7052
--
-Altitude: 43.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Incheon, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.4565', '126.7052');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Incheon Monday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/monday/</guid><description>&lt;h2 id="geographic-information-of-incheon">Geographic Information of Incheon&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 37.4565
--
-Longitude: 126.7052
--
-Altitude: 43.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Incheon, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.4565', '126.7052');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Incheon Sunday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/sunday/</guid><description>&lt;h2 id="geographic-information-of-incheon">Geographic Information of Incheon&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 37.4565
--
-Longitude: 126.7052
--
-Altitude: 43.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Incheon, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.4565', '126.7052');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Incheon Saturday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/saturday/</guid><description>&lt;h2 id="geographic-information-of-incheon">Geographic Information of Incheon&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 37.4565
--
-Longitude: 126.7052
--
-Altitude: 43.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Incheon, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.4565', '126.7052');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Incheon</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/</guid><description>&lt;h2 id="geographic-information-of-incheon">Geographic Information of Incheon&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 37.4565
--
-Longitude: 126.7052
--
-Altitude: 43.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Incheon, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.4565', '126.7052');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Incheon Friday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/friday/</guid><description>&lt;h2 id="geographic-information-of-incheon">Geographic Information of Incheon&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 37.4565
--
-Longitude: 126.7052
--
-Altitude: 43.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Incheon, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.4565', '126.7052');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Incheon Thursday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/thursday/</guid><description>&lt;h2 id="geographic-information-of-incheon">Geographic Information of Incheon&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 37.4565
--
-Longitude: 126.7052
--
-Altitude: 43.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Incheon, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('37.4565', '126.7052');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Incheon on Astrology</title><link>https://astrology.ir/tags/incheon/</link><description>Recent content in Incheon on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://astrology.ir/tags/incheon/index.xml" rel="self" type="application/rss+xml"/><item><title>Incheon Wednesday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/wednesday/</guid><description>Geographic Information of Incheon TimeZone: +09:00 - Latitude: 37.4565 - Longitude: 126.7052 - Altitude: 43.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:17:45 Sunrise 06:35:31 Dhuhr (Noon) 12:20:23 Medium Coeli 12:20:23 Sunset 18:04:42 Maghrib 18:21:52 Isha (Night) 19:12:16 Sharia Midnight 23:41:40 Imum Coeli 00:20:15 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Incheon Tuesday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/tuesday/</guid><description>Geographic Information of Incheon TimeZone: +09:00 - Latitude: 37.4565 - Longitude: 126.7052 - Altitude: 43.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:16:52 Sunrise 06:34:37 Dhuhr (Noon) 12:20:40 Medium Coeli 12:20:40 Sunset 18:06:09 Maghrib 18:23:18 Isha (Night) 19:13:41 Sharia Midnight 23:41:57 Imum Coeli 00:20:32 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Incheon Monday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/monday/</guid><description>Geographic Information of Incheon TimeZone: +09:00 - Latitude: 37.4565 - Longitude: 126.7052 - Altitude: 43.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:15:58 Sunrise 06:33:43 Dhuhr (Noon) 12:20:57 Medium Coeli 12:20:57 Sunset 18:07:36 Maghrib 18:24:45 Isha (Night) 19:15:08 Sharia Midnight 23:42:14 Imum Coeli 00:20:48 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Incheon Sunday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/sunday/</guid><description>Geographic Information of Incheon TimeZone: +09:00 - Latitude: 37.4565 - Longitude: 126.7052 - Altitude: 43.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:15:05 Sunrise 06:32:49 Dhuhr (Noon) 12:21:14 Medium Coeli 12:21:14 Sunset 18:09:04 Maghrib 18:26:12 Isha (Night) 19:16:35 Sharia Midnight 23:42:31 Imum Coeli 00:21:05 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Incheon Saturday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/saturday/</guid><description>Geographic Information of Incheon TimeZone: +09:00 - Latitude: 37.4565 - Longitude: 126.7052 - Altitude: 43.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:14:11 Sunrise 06:31:56 Dhuhr (Noon) 12:21:32 Medium Coeli 12:21:32 Sunset 18:10:33 Maghrib 18:27:40 Isha (Night) 19:18:03 Sharia Midnight 23:42:49 Imum Coeli 00:21:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Incheon</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/</guid><description>Geographic Information of Incheon TimeZone: +09:00 - Latitude: 37.4565 - Longitude: 126.7052 - Altitude: 43.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:13:18 Sunrise 06:31:03 Dhuhr (Noon) 12:21:50 Medium Coeli 12:21:50 Sunset 18:12:02 Maghrib 18:29:09 Isha (Night) 19:19:32 Sharia Midnight 23:43:06 Imum Coeli 00:21:41 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Incheon Friday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/friday/</guid><description>Geographic Information of Incheon TimeZone: +09:00 - Latitude: 37.4565 - Longitude: 126.7052 - Altitude: 43.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:13:18 Sunrise 06:31:03 Dhuhr (Noon) 12:21:50 Medium Coeli 12:21:50 Sunset 18:12:02 Maghrib 18:29:09 Isha (Night) 19:19:32 Sharia Midnight 23:43:06 Imum Coeli 00:21:41 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Incheon Thursday</title><link>https://astrology.ir/ephemeris/korea_republic_of/incheon/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/incheon/thursday/</guid><description>Geographic Information of Incheon TimeZone: +09:00 - Latitude: 37.4565 - Longitude: 126.7052 - Altitude: 43.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:12:24 Sunrise 06:30:10 Dhuhr (Noon) 12:22:08 Medium Coeli 12:22:08 Sunset 18:13:31 Maghrib 18:30:37 Isha (Night) 19:21:01 Sharia Midnight 23:43:24 Imum Coeli 00:21:59 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

@@ -1,417 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ecuador on Astrology</title><link>https://astrology.ir/tags/ecuador/</link><description>Recent content in Ecuador on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/ecuador/index.xml" rel="self" type="application/rss+xml"/><item><title>Guayaquil Tuesday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/tuesday/</guid><description>&lt;h2 id="geographic-information-of-guayaquil">Geographic Information of Guayaquil&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -2.1962
--
-Longitude: -79.8862
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guayaquil, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-2.1962', '-79.8862');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Quito Tuesday</title><link>https://astrology.ir/ephemeris/ecuador/quito/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/tuesday/</guid><description>&lt;h2 id="geographic-information-of-quito">Geographic Information of Quito&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -0.2298
--
-Longitude: -78.5250
--
-Altitude: 2,854.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Quito, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.2298', '-78.5250');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guayaquil Monday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/monday/</guid><description>&lt;h2 id="geographic-information-of-guayaquil">Geographic Information of Guayaquil&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -2.1962
--
-Longitude: -79.8862
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guayaquil, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-2.1962', '-79.8862');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Quito Monday</title><link>https://astrology.ir/ephemeris/ecuador/quito/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/monday/</guid><description>&lt;h2 id="geographic-information-of-quito">Geographic Information of Quito&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -0.2298
--
-Longitude: -78.5250
--
-Altitude: 2,854.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Quito, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.2298', '-78.5250');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guayaquil Sunday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/sunday/</guid><description>&lt;h2 id="geographic-information-of-guayaquil">Geographic Information of Guayaquil&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -2.1962
--
-Longitude: -79.8862
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guayaquil, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-2.1962', '-79.8862');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Quito Sunday</title><link>https://astrology.ir/ephemeris/ecuador/quito/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/sunday/</guid><description>&lt;h2 id="geographic-information-of-quito">Geographic Information of Quito&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -0.2298
--
-Longitude: -78.5250
--
-Altitude: 2,854.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Quito, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.2298', '-78.5250');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guayaquil Saturday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/saturday/</guid><description>&lt;h2 id="geographic-information-of-guayaquil">Geographic Information of Guayaquil&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -2.1962
--
-Longitude: -79.8862
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guayaquil, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-2.1962', '-79.8862');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Quito Saturday</title><link>https://astrology.ir/ephemeris/ecuador/quito/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/saturday/</guid><description>&lt;h2 id="geographic-information-of-quito">Geographic Information of Quito&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -0.2298
--
-Longitude: -78.5250
--
-Altitude: 2,854.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Quito, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.2298', '-78.5250');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guayaquil Friday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/friday/</guid><description>&lt;h2 id="geographic-information-of-guayaquil">Geographic Information of Guayaquil&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -2.1962
--
-Longitude: -79.8862
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guayaquil, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-2.1962', '-79.8862');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Quito Friday</title><link>https://astrology.ir/ephemeris/ecuador/quito/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/friday/</guid><description>&lt;h2 id="geographic-information-of-quito">Geographic Information of Quito&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -0.2298
--
-Longitude: -78.5250
--
-Altitude: 2,854.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Quito, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.2298', '-78.5250');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guayaquil</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/</guid><description>&lt;h2 id="geographic-information-of-guayaquil">Geographic Information of Guayaquil&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -2.1962
--
-Longitude: -79.8862
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guayaquil, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-2.1962', '-79.8862');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guayaquil Thursday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/thursday/</guid><description>&lt;h2 id="geographic-information-of-guayaquil">Geographic Information of Guayaquil&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -2.1962
--
-Longitude: -79.8862
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guayaquil, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-2.1962', '-79.8862');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Quito</title><link>https://astrology.ir/ephemeris/ecuador/quito/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/</guid><description>&lt;h2 id="geographic-information-of-quito">Geographic Information of Quito&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -0.2298
--
-Longitude: -78.5250
--
-Altitude: 2,854.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Quito, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.2298', '-78.5250');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Quito Thursday</title><link>https://astrology.ir/ephemeris/ecuador/quito/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/thursday/</guid><description>&lt;h2 id="geographic-information-of-quito">Geographic Information of Quito&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -0.2298
--
-Longitude: -78.5250
--
-Altitude: 2,854.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Quito, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.2298', '-78.5250');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Guayaquil Wednesday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/wednesday/</guid><description>&lt;h2 id="geographic-information-of-guayaquil">Geographic Information of Guayaquil&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -2.1962
--
-Longitude: -79.8862
--
-Altitude: 1.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Guayaquil, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-2.1962', '-79.8862');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Quito Wednesday</title><link>https://astrology.ir/ephemeris/ecuador/quito/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/wednesday/</guid><description>&lt;h2 id="geographic-information-of-quito">Geographic Information of Quito&lt;/h2>
-&lt;p>TimeZone: -05:00
--
-Latitude: -0.2298
--
-Longitude: -78.5250
--
-Altitude: 2,854.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Quito, Ecuador | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-0.2298', '-78.5250');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ecuador on Astrology</title><link>https://astrology.ir/tags/ecuador/</link><description>Recent content in Ecuador on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://astrology.ir/tags/ecuador/index.xml" rel="self" type="application/rss+xml"/><item><title>Guayaquil Tuesday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/tuesday/</guid><description>Geographic Information of Guayaquil TimeZone: -05:00 - Latitude: -2.1962 - Longitude: -79.8862 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:00:28 Sunrise 06:02:28 Dhuhr (Noon) 12:06:52 Medium Coeli 12:06:52 Sunset 18:11:19 Maghrib 18:24:57 Isha (Night) 19:05:16 Sharia Midnight 23:35:42 Imum Coeli 00:06:44 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Quito Tuesday</title><link>https://astrology.ir/ephemeris/ecuador/quito/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/tuesday/</guid><description>Geographic Information of Quito TimeZone: -05:00 - Latitude: -0.2298 - Longitude: -78.5250 - Altitude: 2,854.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:55:58 Sunrise 05:58:40 Dhuhr (Noon) 12:01:26 Medium Coeli 12:01:26 Sunset 18:04:12 Maghrib 18:18:37 Isha (Night) 18:58:52 Sharia Midnight 23:29:55 Imum Coeli 00:01:17 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guayaquil Monday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/monday/</guid><description>Geographic Information of Guayaquil TimeZone: -05:00 - Latitude: -2.1962 - Longitude: -79.8862 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:00:52 Sunrise 06:02:48 Dhuhr (Noon) 12:07:09 Medium Coeli 12:07:09 Sunset 18:11:32 Maghrib 18:25:10 Isha (Night) 19:05:26 Sharia Midnight 23:36:00 Imum Coeli 00:07:01 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Quito Monday</title><link>https://astrology.ir/ephemeris/ecuador/quito/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/monday/</guid><description>Geographic Information of Quito TimeZone: -05:00 - Latitude: -0.2298 - Longitude: -78.5250 - Altitude: 2,854.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:56:18 Sunrise 05:58:57 Dhuhr (Noon) 12:01:42 Medium Coeli 12:01:42 Sunset 18:04:28 Maghrib 18:18:53 Isha (Night) 18:59:06 Sharia Midnight 23:30:13 Imum Coeli 00:01:34 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guayaquil Sunday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/sunday/</guid><description>Geographic Information of Guayaquil TimeZone: -05:00 - Latitude: -2.1962 - Longitude: -79.8862 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:01:15 Sunrise 06:03:09 Dhuhr (Noon) 12:07:26 Medium Coeli 12:07:26 Sunset 18:11:45 Maghrib 18:25:22 Isha (Night) 19:05:37 Sharia Midnight 23:36:18 Imum Coeli 00:07:17 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Quito Sunday</title><link>https://astrology.ir/ephemeris/ecuador/quito/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/sunday/</guid><description>Geographic Information of Quito TimeZone: -05:00 - Latitude: -0.2298 - Longitude: -78.5250 - Altitude: 2,854.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:56:38 Sunrise 05:59:15 Dhuhr (Noon) 12:01:59 Medium Coeli 12:01:59 Sunset 18:04:44 Maghrib 18:19:09 Isha (Night) 18:59:20 Sharia Midnight 23:30:31 Imum Coeli 00:01:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guayaquil Saturday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/saturday/</guid><description>Geographic Information of Guayaquil TimeZone: -05:00 - Latitude: -2.1962 - Longitude: -79.8862 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:01:39 Sunrise 06:03:30 Dhuhr (Noon) 12:07:44 Medium Coeli 12:07:44 Sunset 18:11:59 Maghrib 18:25:36 Isha (Night) 19:05:49 Sharia Midnight 23:36:37 Imum Coeli 00:07:35 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Quito Saturday</title><link>https://astrology.ir/ephemeris/ecuador/quito/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/saturday/</guid><description>Geographic Information of Quito TimeZone: -05:00 - Latitude: -0.2298 - Longitude: -78.5250 - Altitude: 2,854.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:56:58 Sunrise 05:59:33 Dhuhr (Noon) 12:02:17 Medium Coeli 12:02:17 Sunset 18:05:01 Maghrib 18:19:25 Isha (Night) 18:59:35 Sharia Midnight 23:30:49 Imum Coeli 00:02:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guayaquil Friday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/friday/</guid><description>Geographic Information of Guayaquil TimeZone: -05:00 - Latitude: -2.1962 - Longitude: -79.8862 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:02:03 Sunrise 06:03:52 Dhuhr (Noon) 12:08:01 Medium Coeli 12:08:01 Sunset 18:12:13 Maghrib 18:25:49 Isha (Night) 19:06:01 Sharia Midnight 23:36:56 Imum Coeli 00:07:52 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Quito Friday</title><link>https://astrology.ir/ephemeris/ecuador/quito/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/friday/</guid><description>Geographic Information of Quito TimeZone: -05:00 - Latitude: -0.2298 - Longitude: -78.5250 - Altitude: 2,854.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:19 Sunrise 05:59:51 Dhuhr (Noon) 12:02:35 Medium Coeli 12:02:35 Sunset 18:05:19 Maghrib 18:19:42 Isha (Night) 18:59:50 Sharia Midnight 23:31:08 Imum Coeli 00:02:26 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guayaquil</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/</guid><description>Geographic Information of Guayaquil TimeZone: -05:00 - Latitude: -2.1962 - Longitude: -79.8862 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:02:27 Sunrise 06:04:14 Dhuhr (Noon) 12:08:20 Medium Coeli 12:08:20 Sunset 18:12:27 Maghrib 18:26:03 Isha (Night) 19:06:13 Sharia Midnight 23:37:15 Imum Coeli 00:08:10 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guayaquil Thursday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/thursday/</guid><description>Geographic Information of Guayaquil TimeZone: -05:00 - Latitude: -2.1962 - Longitude: -79.8862 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:02:27 Sunrise 06:04:14 Dhuhr (Noon) 12:08:20 Medium Coeli 12:08:20 Sunset 18:12:27 Maghrib 18:26:03 Isha (Night) 19:06:13 Sharia Midnight 23:37:15 Imum Coeli 00:08:10 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Quito</title><link>https://astrology.ir/ephemeris/ecuador/quito/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/</guid><description>Geographic Information of Quito TimeZone: -05:00 - Latitude: -0.2298 - Longitude: -78.5250 - Altitude: 2,854.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:40 Sunrise 06:00:10 Dhuhr (Noon) 12:02:53 Medium Coeli 12:02:53 Sunset 18:05:36 Maghrib 18:19:59 Isha (Night) 19:00:06 Sharia Midnight 23:31:27 Imum Coeli 00:02:44 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Quito Thursday</title><link>https://astrology.ir/ephemeris/ecuador/quito/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/thursday/</guid><description>Geographic Information of Quito TimeZone: -05:00 - Latitude: -0.2298 - Longitude: -78.5250 - Altitude: 2,854.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:57:40 Sunrise 06:00:10 Dhuhr (Noon) 12:02:53 Medium Coeli 12:02:53 Sunset 18:05:36 Maghrib 18:19:59 Isha (Night) 19:00:06 Sharia Midnight 23:31:27 Imum Coeli 00:02:44 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Guayaquil Wednesday</title><link>https://astrology.ir/ephemeris/ecuador/guayaquil/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/guayaquil/wednesday/</guid><description>Geographic Information of Guayaquil TimeZone: -05:00 - Latitude: -2.1962 - Longitude: -79.8862 - Altitude: 1.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:02:51 Sunrise 06:04:36 Dhuhr (Noon) 12:08:38 Medium Coeli 12:08:38 Sunset 18:12:42 Maghrib 18:26:17 Isha (Night) 19:06:26 Sharia Midnight 23:37:34 Imum Coeli 00:08:29 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Quito Wednesday</title><link>https://astrology.ir/ephemeris/ecuador/quito/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0500</pubDate><guid>https://astrology.ir/ephemeris/ecuador/quito/wednesday/</guid><description>Geographic Information of Quito TimeZone: -05:00 - Latitude: -0.2298 - Longitude: -78.5250 - Altitude: 2,854.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:01 Sunrise 06:00:29 Dhuhr (Noon) 12:03:12 Medium Coeli 12:03:12 Sunset 18:05:54 Maghrib 18:20:16 Isha (Night) 19:00:22 Sharia Midnight 23:31:47 Imum Coeli 00:03:02 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

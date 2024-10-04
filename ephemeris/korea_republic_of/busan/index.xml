@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Busan on Astrology</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/</link><description>Recent content in Busan on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/korea_republic_of/busan/index.xml" rel="self" type="application/rss+xml"/><item><title>Busan Wednesday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/wednesday/</guid><description>&lt;h2 id="geographic-information-of-busan">Geographic Information of Busan&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 35.1017
--
-Longitude: 129.0300
--
-Altitude: 26.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Busan, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1017', '129.0300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Busan Tuesday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/tuesday/</guid><description>&lt;h2 id="geographic-information-of-busan">Geographic Information of Busan&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 35.1017
--
-Longitude: 129.0300
--
-Altitude: 26.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Busan, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1017', '129.0300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Busan Monday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/monday/</guid><description>&lt;h2 id="geographic-information-of-busan">Geographic Information of Busan&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 35.1017
--
-Longitude: 129.0300
--
-Altitude: 26.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Busan, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1017', '129.0300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Busan Sunday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/sunday/</guid><description>&lt;h2 id="geographic-information-of-busan">Geographic Information of Busan&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 35.1017
--
-Longitude: 129.0300
--
-Altitude: 26.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Busan, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1017', '129.0300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Busan Saturday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/saturday/</guid><description>&lt;h2 id="geographic-information-of-busan">Geographic Information of Busan&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 35.1017
--
-Longitude: 129.0300
--
-Altitude: 26.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Busan, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1017', '129.0300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Busan Friday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/friday/</guid><description>&lt;h2 id="geographic-information-of-busan">Geographic Information of Busan&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 35.1017
--
-Longitude: 129.0300
--
-Altitude: 26.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Busan, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1017', '129.0300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Busan Thursday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/thursday/</guid><description>&lt;h2 id="geographic-information-of-busan">Geographic Information of Busan&lt;/h2>
-&lt;p>TimeZone: +09:00
--
-Latitude: 35.1017
--
-Longitude: 129.0300
--
-Altitude: 26.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Busan, Korea, Republic of | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1017', '129.0300');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Busan on Astrology</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/</link><description>Recent content in Busan on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/korea_republic_of/busan/index.xml" rel="self" type="application/rss+xml"/><item><title>Busan Wednesday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/wednesday/</guid><description>Geographic Information of Busan TimeZone: +09:00 - Latitude: 35.1017 - Longitude: 129.0300 - Altitude: 26.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:09:18 Sunrise 06:24:44 Dhuhr (Noon) 12:11:05 Medium Coeli 12:11:05 Sunset 17:56:56 Maghrib 18:13:36 Isha (Night) 19:02:29 Sharia Midnight 23:33:30 Imum Coeli 00:10:57 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Busan Tuesday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/tuesday/</guid><description>Geographic Information of Busan TimeZone: +09:00 - Latitude: 35.1017 - Longitude: 129.0300 - Altitude: 26.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:08:30 Sunrise 06:23:55 Dhuhr (Noon) 12:11:22 Medium Coeli 12:11:22 Sunset 17:58:17 Maghrib 18:14:56 Isha (Night) 19:03:49 Sharia Midnight 23:33:47 Imum Coeli 00:11:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Busan Monday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/monday/</guid><description>Geographic Information of Busan TimeZone: +09:00 - Latitude: 35.1017 - Longitude: 129.0300 - Altitude: 26.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:43 Sunrise 06:23:07 Dhuhr (Noon) 12:11:39 Medium Coeli 12:11:39 Sunset 17:59:39 Maghrib 18:16:17 Isha (Night) 19:05:09 Sharia Midnight 23:34:04 Imum Coeli 00:11:30 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Busan Sunday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/sunday/</guid><description>Geographic Information of Busan TimeZone: +09:00 - Latitude: 35.1017 - Longitude: 129.0300 - Altitude: 26.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:56 Sunrise 06:22:20 Dhuhr (Noon) 12:11:56 Medium Coeli 12:11:56 Sunset 18:01:01 Maghrib 18:17:38 Isha (Night) 19:06:31 Sharia Midnight 23:34:22 Imum Coeli 00:11:47 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Busan Saturday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/saturday/</guid><description>Geographic Information of Busan TimeZone: +09:00 - Latitude: 35.1017 - Longitude: 129.0300 - Altitude: 26.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:08 Sunrise 06:21:32 Dhuhr (Noon) 12:12:14 Medium Coeli 12:12:14 Sunset 18:02:24 Maghrib 18:19:00 Isha (Night) 19:07:53 Sharia Midnight 23:34:40 Imum Coeli 00:12:05 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Busan Friday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/friday/</guid><description>Geographic Information of Busan TimeZone: +09:00 - Latitude: 35.1017 - Longitude: 129.0300 - Altitude: 26.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:05:21 Sunrise 06:20:45 Dhuhr (Noon) 12:12:32 Medium Coeli 12:12:32 Sunset 18:03:47 Maghrib 18:20:23 Isha (Night) 19:09:16 Sharia Midnight 23:34:57 Imum Coeli 00:12:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Busan Thursday</title><link>https://astrology.ir/ephemeris/korea_republic_of/busan/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0900</pubDate><guid>https://astrology.ir/ephemeris/korea_republic_of/busan/thursday/</guid><description>Geographic Information of Busan TimeZone: +09:00 - Latitude: 35.1017 - Longitude: 129.0300 - Altitude: 26.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:04:33 Sunrise 06:19:58 Dhuhr (Noon) 12:12:50 Medium Coeli 12:12:50 Sunset 18:05:11 Maghrib 18:21:46 Isha (Night) 19:10:39 Sharia Midnight 23:35:16 Imum Coeli 00:12:41 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

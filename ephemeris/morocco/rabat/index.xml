@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rabat on Astrology</title><link>https://astrology.ir/ephemeris/morocco/rabat/</link><description>Recent content in Rabat on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/morocco/rabat/index.xml" rel="self" type="application/rss+xml"/><item><title>Rabat Wednesday</title><link>https://astrology.ir/ephemeris/morocco/rabat/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/wednesday/</guid><description>&lt;h2 id="geographic-information-of-rabat">Geographic Information of Rabat&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 34.0132
--
-Longitude: -6.8326
--
-Altitude: 46.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rabat, Morocco | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0132', '-6.8326');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Rabat Tuesday</title><link>https://astrology.ir/ephemeris/morocco/rabat/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/tuesday/</guid><description>&lt;h2 id="geographic-information-of-rabat">Geographic Information of Rabat&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 34.0132
--
-Longitude: -6.8326
--
-Altitude: 46.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rabat, Morocco | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0132', '-6.8326');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Rabat Monday</title><link>https://astrology.ir/ephemeris/morocco/rabat/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/monday/</guid><description>&lt;h2 id="geographic-information-of-rabat">Geographic Information of Rabat&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 34.0132
--
-Longitude: -6.8326
--
-Altitude: 46.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rabat, Morocco | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0132', '-6.8326');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Rabat Sunday</title><link>https://astrology.ir/ephemeris/morocco/rabat/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/sunday/</guid><description>&lt;h2 id="geographic-information-of-rabat">Geographic Information of Rabat&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 34.0132
--
-Longitude: -6.8326
--
-Altitude: 46.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rabat, Morocco | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0132', '-6.8326');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Rabat Saturday</title><link>https://astrology.ir/ephemeris/morocco/rabat/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/saturday/</guid><description>&lt;h2 id="geographic-information-of-rabat">Geographic Information of Rabat&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 34.0132
--
-Longitude: -6.8326
--
-Altitude: 46.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rabat, Morocco | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0132', '-6.8326');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Rabat Friday</title><link>https://astrology.ir/ephemeris/morocco/rabat/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/friday/</guid><description>&lt;h2 id="geographic-information-of-rabat">Geographic Information of Rabat&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 34.0132
--
-Longitude: -6.8326
--
-Altitude: 46.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rabat, Morocco | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0132', '-6.8326');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Rabat Thursday</title><link>https://astrology.ir/ephemeris/morocco/rabat/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/thursday/</guid><description>&lt;h2 id="geographic-information-of-rabat">Geographic Information of Rabat&lt;/h2>
-&lt;p>TimeZone: +01:00
--
-Latitude: 34.0132
--
-Longitude: -6.8326
--
-Altitude: 46.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Rabat, Morocco | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('34.0132', '-6.8326');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rabat on Astrology</title><link>https://astrology.ir/ephemeris/morocco/rabat/</link><description>Recent content in Rabat on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/morocco/rabat/index.xml" rel="self" type="application/rss+xml"/><item><title>Rabat Wednesday</title><link>https://astrology.ir/ephemeris/morocco/rabat/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/wednesday/</guid><description>Geographic Information of Rabat TimeZone: +01:00 - Latitude: 34.0132 - Longitude: -6.8326 - Altitude: 46.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:13:21 Sunrise 07:27:49 Dhuhr (Noon) 13:14:26 Medium Coeli 13:14:26 Sunset 19:00:34 Maghrib 19:17:01 Isha (Night) 20:05:17 Sharia Midnight 00:37:20 Imum Coeli 01:14:18 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Rabat Tuesday</title><link>https://astrology.ir/ephemeris/morocco/rabat/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/tuesday/</guid><description>Geographic Information of Rabat TimeZone: +01:00 - Latitude: 34.0132 - Longitude: -6.8326 - Altitude: 46.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:12:37 Sunrise 07:27:03 Dhuhr (Noon) 13:14:43 Medium Coeli 13:14:43 Sunset 19:01:52 Maghrib 19:18:19 Isha (Night) 20:06:34 Sharia Midnight 00:37:36 Imum Coeli 01:14:34 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Rabat Monday</title><link>https://astrology.ir/ephemeris/morocco/rabat/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/monday/</guid><description>Geographic Information of Rabat TimeZone: +01:00 - Latitude: 34.0132 - Longitude: -6.8326 - Altitude: 46.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:11:52 Sunrise 07:26:18 Dhuhr (Noon) 13:14:59 Medium Coeli 13:14:59 Sunset 19:03:11 Maghrib 19:19:37 Isha (Night) 20:07:51 Sharia Midnight 00:37:54 Imum Coeli 01:14:51 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Rabat Sunday</title><link>https://astrology.ir/ephemeris/morocco/rabat/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/sunday/</guid><description>Geographic Information of Rabat TimeZone: +01:00 - Latitude: 34.0132 - Longitude: -6.8326 - Altitude: 46.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:11:07 Sunrise 07:25:32 Dhuhr (Noon) 13:15:17 Medium Coeli 13:15:17 Sunset 19:04:31 Maghrib 19:20:55 Isha (Night) 20:09:10 Sharia Midnight 00:38:11 Imum Coeli 01:15:08 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Rabat Saturday</title><link>https://astrology.ir/ephemeris/morocco/rabat/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/saturday/</guid><description>Geographic Information of Rabat TimeZone: +01:00 - Latitude: 34.0132 - Longitude: -6.8326 - Altitude: 46.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:10:23 Sunrise 07:24:48 Dhuhr (Noon) 13:15:34 Medium Coeli 13:15:34 Sunset 19:05:50 Maghrib 19:22:14 Isha (Night) 20:10:29 Sharia Midnight 00:38:28 Imum Coeli 01:15:25 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Rabat Friday</title><link>https://astrology.ir/ephemeris/morocco/rabat/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/friday/</guid><description>Geographic Information of Rabat TimeZone: +01:00 - Latitude: 34.0132 - Longitude: -6.8326 - Altitude: 46.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:09:38 Sunrise 07:24:03 Dhuhr (Noon) 13:15:52 Medium Coeli 13:15:52 Sunset 19:07:11 Maghrib 19:23:34 Isha (Night) 20:11:49 Sharia Midnight 00:38:47 Imum Coeli 01:15:43 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Rabat Thursday</title><link>https://astrology.ir/ephemeris/morocco/rabat/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0100</pubDate><guid>https://astrology.ir/ephemeris/morocco/rabat/thursday/</guid><description>Geographic Information of Rabat TimeZone: +01:00 - Latitude: 34.0132 - Longitude: -6.8326 - Altitude: 46.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 06:08:53 Sunrise 07:23:19 Dhuhr (Noon) 13:16:10 Medium Coeli 13:16:10 Sunset 19:08:32 Maghrib 19:24:55 Isha (Night) 20:13:09 Sharia Midnight 00:39:05 Imum Coeli 01:16:01 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

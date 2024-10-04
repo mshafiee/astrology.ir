@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moscow on Astrology</title><link>https://astrology.ir/tags/moscow/</link><description>Recent content in Moscow on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/moscow/index.xml" rel="self" type="application/rss+xml"/><item><title>Moscow Wednesday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/wednesday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow Tuesday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/tuesday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow Monday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/monday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/sunday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/saturday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow Friday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/friday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Moscow Thursday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/thursday/</guid><description>&lt;h2 id="geographic-information-of-moscow">Geographic Information of Moscow&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 55.7522
--
-Longitude: 37.6156
--
-Altitude: 144.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Moscow, Russian Federation | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('55.7522', '37.6156');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moscow on Astrology</title><link>https://astrology.ir/tags/moscow/</link><description>Recent content in Moscow on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/moscow/index.xml" rel="self" type="application/rss+xml"/><item><title>Moscow Wednesday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/wednesday/</guid><description>Geographic Information of Moscow TimeZone: +03:00 - Latitude: 55.7522 - Longitude: 37.6156 - Altitude: 144.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:58:13 Sunrise 06:48:35 Dhuhr (Noon) 12:16:41 Medium Coeli 12:16:41 Sunset 17:43:44 Maghrib 18:08:06 Isha (Night) 19:19:17 Sharia Midnight 23:21:59 Imum Coeli 00:16:33 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Moscow Tuesday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/tuesday/</guid><description>Geographic Information of Moscow TimeZone: +03:00 - Latitude: 55.7522 - Longitude: 37.6156 - Altitude: 144.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:56:11 Sunrise 06:46:35 Dhuhr (Noon) 12:16:57 Medium Coeli 12:16:57 Sunset 17:46:17 Maghrib 18:10:36 Isha (Night) 19:21:50 Sharia Midnight 23:22:15 Imum Coeli 00:16:49 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Moscow Monday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/monday/</guid><description>Geographic Information of Moscow TimeZone: +03:00 - Latitude: 55.7522 - Longitude: 37.6156 - Altitude: 144.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:54:07 Sunrise 06:44:35 Dhuhr (Noon) 12:17:14 Medium Coeli 12:17:14 Sunset 17:48:50 Maghrib 18:13:07 Isha (Night) 19:24:23 Sharia Midnight 23:22:30 Imum Coeli 00:17:06 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Moscow Sunday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/sunday/</guid><description>Geographic Information of Moscow TimeZone: +03:00 - Latitude: 55.7522 - Longitude: 37.6156 - Altitude: 144.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:52:03 Sunrise 06:42:35 Dhuhr (Noon) 12:17:31 Medium Coeli 12:17:31 Sunset 17:51:24 Maghrib 18:15:39 Isha (Night) 19:26:58 Sharia Midnight 23:22:45 Imum Coeli 00:17:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Moscow Saturday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/saturday/</guid><description>Geographic Information of Moscow TimeZone: +03:00 - Latitude: 55.7522 - Longitude: 37.6156 - Altitude: 144.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:49:59 Sunrise 06:40:36 Dhuhr (Noon) 12:17:49 Medium Coeli 12:17:49 Sunset 17:53:58 Maghrib 18:18:11 Isha (Night) 19:29:34 Sharia Midnight 23:23:00 Imum Coeli 00:17:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Moscow</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/</guid><description>Geographic Information of Moscow TimeZone: +03:00 - Latitude: 55.7522 - Longitude: 37.6156 - Altitude: 144.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:47:53 Sunrise 06:38:37 Dhuhr (Noon) 12:18:07 Medium Coeli 12:18:07 Sunset 17:56:32 Maghrib 18:20:44 Isha (Night) 19:32:12 Sharia Midnight 23:23:15 Imum Coeli 00:17:58 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Moscow Friday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/friday/</guid><description>Geographic Information of Moscow TimeZone: +03:00 - Latitude: 55.7522 - Longitude: 37.6156 - Altitude: 144.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:47:53 Sunrise 06:38:37 Dhuhr (Noon) 12:18:07 Medium Coeli 12:18:07 Sunset 17:56:32 Maghrib 18:20:44 Isha (Night) 19:32:12 Sharia Midnight 23:23:15 Imum Coeli 00:17:58 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Moscow Thursday</title><link>https://astrology.ir/ephemeris/russian_federation/moscow/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/russian_federation/moscow/thursday/</guid><description>Geographic Information of Moscow TimeZone: +03:00 - Latitude: 55.7522 - Longitude: 37.6156 - Altitude: 144.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:45:46 Sunrise 06:36:38 Dhuhr (Noon) 12:18:25 Medium Coeli 12:18:25 Sunset 17:59:07 Maghrib 18:23:18 Isha (Night) 19:34:51 Sharia Midnight 23:23:30 Imum Coeli 00:18:16 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

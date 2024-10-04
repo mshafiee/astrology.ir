@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicosia on Astrology</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/</link><description>Recent content in Nicosia on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/cyprus/nicosia/index.xml" rel="self" type="application/rss+xml"/><item><title>Nicosia Wednesday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/wednesday/</guid><description>&lt;h2 id="geographic-information-of-nicosia">Geographic Information of Nicosia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.1753
--
-Longitude: 33.3642
--
-Altitude: 147.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nicosia, Cyprus | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1753', '33.3642');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nicosia Tuesday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/tuesday/</guid><description>&lt;h2 id="geographic-information-of-nicosia">Geographic Information of Nicosia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.1753
--
-Longitude: 33.3642
--
-Altitude: 147.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nicosia, Cyprus | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1753', '33.3642');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nicosia Monday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/monday/</guid><description>&lt;h2 id="geographic-information-of-nicosia">Geographic Information of Nicosia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.1753
--
-Longitude: 33.3642
--
-Altitude: 147.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nicosia, Cyprus | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1753', '33.3642');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nicosia Sunday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/sunday/</guid><description>&lt;h2 id="geographic-information-of-nicosia">Geographic Information of Nicosia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.1753
--
-Longitude: 33.3642
--
-Altitude: 147.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nicosia, Cyprus | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1753', '33.3642');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nicosia Saturday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/saturday/</guid><description>&lt;h2 id="geographic-information-of-nicosia">Geographic Information of Nicosia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.1753
--
-Longitude: 33.3642
--
-Altitude: 147.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nicosia, Cyprus | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1753', '33.3642');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nicosia Friday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/friday/</guid><description>&lt;h2 id="geographic-information-of-nicosia">Geographic Information of Nicosia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.1753
--
-Longitude: 33.3642
--
-Altitude: 147.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nicosia, Cyprus | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1753', '33.3642');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Nicosia Thursday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/thursday/</guid><description>&lt;h2 id="geographic-information-of-nicosia">Geographic Information of Nicosia&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 35.1753
--
-Longitude: 33.3642
--
-Altitude: 147.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Nicosia, Cyprus | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('35.1753', '33.3642');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicosia on Astrology</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/</link><description>Recent content in Nicosia on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/cyprus/nicosia/index.xml" rel="self" type="application/rss+xml"/><item><title>Nicosia Wednesday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/wednesday/</guid><description>Geographic Information of Nicosia TimeZone: +03:00 - Latitude: 35.1753 - Longitude: 33.3642 - Altitude: 147.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:32:09 Sunrise 06:47:42 Dhuhr (Noon) 12:33:41 Medium Coeli 12:33:41 Sunset 18:19:09 Maghrib 18:35:52 Isha (Night) 19:24:49 Sharia Midnight 23:56:02 Imum Coeli 00:33:33 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nicosia Tuesday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/tuesday/</guid><description>Geographic Information of Nicosia TimeZone: +03:00 - Latitude: 35.1753 - Longitude: 33.3642 - Altitude: 147.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:31:21 Sunrise 06:46:53 Dhuhr (Noon) 12:33:57 Medium Coeli 12:33:57 Sunset 18:20:30 Maghrib 18:37:13 Isha (Night) 19:26:08 Sharia Midnight 23:56:19 Imum Coeli 00:33:49 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nicosia Monday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/monday/</guid><description>Geographic Information of Nicosia TimeZone: +03:00 - Latitude: 35.1753 - Longitude: 33.3642 - Altitude: 147.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:30:34 Sunrise 06:46:05 Dhuhr (Noon) 12:34:14 Medium Coeli 12:34:14 Sunset 18:21:52 Maghrib 18:38:33 Isha (Night) 19:27:29 Sharia Midnight 23:56:36 Imum Coeli 00:34:06 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nicosia Sunday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/sunday/</guid><description>Geographic Information of Nicosia TimeZone: +03:00 - Latitude: 35.1753 - Longitude: 33.3642 - Altitude: 147.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:29:46 Sunrise 06:45:17 Dhuhr (Noon) 12:34:31 Medium Coeli 12:34:31 Sunset 18:23:14 Maghrib 18:39:55 Isha (Night) 19:28:50 Sharia Midnight 23:56:54 Imum Coeli 00:34:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nicosia Saturday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/saturday/</guid><description>Geographic Information of Nicosia TimeZone: +03:00 - Latitude: 35.1753 - Longitude: 33.3642 - Altitude: 147.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:28:59 Sunrise 06:44:29 Dhuhr (Noon) 12:34:49 Medium Coeli 12:34:49 Sunset 18:24:37 Maghrib 18:41:17 Isha (Night) 19:30:12 Sharia Midnight 23:57:11 Imum Coeli 00:34:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nicosia Friday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/friday/</guid><description>Geographic Information of Nicosia TimeZone: +03:00 - Latitude: 35.1753 - Longitude: 33.3642 - Altitude: 147.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:28:11 Sunrise 06:43:42 Dhuhr (Noon) 12:35:07 Medium Coeli 12:35:07 Sunset 18:26:00 Maghrib 18:42:40 Isha (Night) 19:31:35 Sharia Midnight 23:57:29 Imum Coeli 00:34:58 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Nicosia Thursday</title><link>https://astrology.ir/ephemeris/cyprus/nicosia/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/cyprus/nicosia/thursday/</guid><description>Geographic Information of Nicosia TimeZone: +03:00 - Latitude: 35.1753 - Longitude: 33.3642 - Altitude: 147.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:27:23 Sunrise 06:42:55 Dhuhr (Noon) 12:35:25 Medium Coeli 12:35:25 Sunset 18:27:24 Maghrib 18:44:03 Isha (Night) 19:32:59 Sharia Midnight 23:57:47 Imum Coeli 00:35:16 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Medina on Astrology</title><link>https://astrology.ir/tags/medina/</link><description>Recent content in Medina on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/medina/index.xml" rel="self" type="application/rss+xml"/><item><title>Medina Wednesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/wednesday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Tuesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/tuesday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Monday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/monday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Sunday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/sunday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Saturday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/saturday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Friday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/friday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Medina Thursday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/thursday/</guid><description>&lt;h2 id="geographic-information-of-medina">Geographic Information of Medina&lt;/h2>
-&lt;p>TimeZone: +03:00
--
-Latitude: 24.4686
--
-Longitude: 39.6142
--
-Altitude: 603.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Medina, Saudi Arabia | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('24.4686', '39.6142');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Medina on Astrology</title><link>https://astrology.ir/tags/medina/</link><description>Recent content in Medina on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://astrology.ir/tags/medina/index.xml" rel="self" type="application/rss+xml"/><item><title>Medina Wednesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/wednesday/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/wednesday/</guid><description>Geographic Information of Medina TimeZone: +03:00 - Latitude: 24.4686 - Longitude: 39.6142 - Altitude: 603.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:08:50 Sunrise 06:16:49 Dhuhr (Noon) 12:08:41 Medium Coeli 12:08:41 Sunset 18:00:13 Maghrib 18:15:23 Isha (Night) 18:59:23 Sharia Midnight 23:34:43 Imum Coeli 00:08:33 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Medina Tuesday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/tuesday/</guid><description>Geographic Information of Medina TimeZone: +03:00 - Latitude: 24.4686 - Longitude: 39.6142 - Altitude: 603.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:08:26 Sunrise 06:16:24 Dhuhr (Noon) 12:08:58 Medium Coeli 12:08:58 Sunset 18:01:11 Maghrib 18:16:20 Isha (Night) 19:00:19 Sharia Midnight 23:35:00 Imum Coeli 00:08:49 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Medina Monday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/monday/</guid><description>Geographic Information of Medina TimeZone: +03:00 - Latitude: 24.4686 - Longitude: 39.6142 - Altitude: 603.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:08:02 Sunrise 06:15:59 Dhuhr (Noon) 12:09:14 Medium Coeli 12:09:14 Sunset 18:02:10 Maghrib 18:17:18 Isha (Night) 19:01:16 Sharia Midnight 23:35:18 Imum Coeli 00:09:06 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Medina Sunday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/sunday/</guid><description>Geographic Information of Medina TimeZone: +03:00 - Latitude: 24.4686 - Longitude: 39.6142 - Altitude: 603.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:38 Sunrise 06:15:34 Dhuhr (Noon) 12:09:32 Medium Coeli 12:09:32 Sunset 18:03:09 Maghrib 18:18:17 Isha (Night) 19:02:14 Sharia Midnight 23:35:35 Imum Coeli 00:09:23 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Medina Saturday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/saturday/</guid><description>Geographic Information of Medina TimeZone: +03:00 - Latitude: 24.4686 - Longitude: 39.6142 - Altitude: 603.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:07:15 Sunrise 06:15:10 Dhuhr (Noon) 12:09:49 Medium Coeli 12:09:49 Sunset 18:04:08 Maghrib 18:19:16 Isha (Night) 19:03:12 Sharia Midnight 23:35:53 Imum Coeli 00:09:40 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Medina</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/</guid><description>Geographic Information of Medina TimeZone: +03:00 - Latitude: 24.4686 - Longitude: 39.6142 - Altitude: 603.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:51 Sunrise 06:14:45 Dhuhr (Noon) 12:10:07 Medium Coeli 12:10:07 Sunset 18:05:08 Maghrib 18:20:15 Isha (Night) 19:04:11 Sharia Midnight 23:36:11 Imum Coeli 00:09:58 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Medina Friday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/friday/</guid><description>Geographic Information of Medina TimeZone: +03:00 - Latitude: 24.4686 - Longitude: 39.6142 - Altitude: 603.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:51 Sunrise 06:14:45 Dhuhr (Noon) 12:10:07 Medium Coeli 12:10:07 Sunset 18:05:08 Maghrib 18:20:15 Isha (Night) 19:04:11 Sharia Midnight 23:36:11 Imum Coeli 00:09:58 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Medina Thursday</title><link>https://astrology.ir/ephemeris/saudi_arabia/medina/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0300</pubDate><guid>https://astrology.ir/ephemeris/saudi_arabia/medina/thursday/</guid><description>Geographic Information of Medina TimeZone: +03:00 - Latitude: 24.4686 - Longitude: 39.6142 - Altitude: 603.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:06:28 Sunrise 06:14:22 Dhuhr (Noon) 12:10:26 Medium Coeli 12:10:26 Sunset 18:06:09 Maghrib 18:21:15 Isha (Night) 19:05:11 Sharia Midnight 23:36:30 Imum Coeli 00:10:16 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

@@ -1,209 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Phoenix on Astrology</title><link>https://astrology.ir/tags/phoenix/</link><description>Recent content in Phoenix on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0700</lastBuildDate><atom:link href="https://astrology.ir/tags/phoenix/index.xml" rel="self" type="application/rss+xml"/><item><title>Phoenix Tuesday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/tuesday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Monday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/monday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Sunday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/sunday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Saturday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/saturday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Friday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/friday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix</title><link>https://astrology.ir/ephemeris/united_states/phoenix/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Thursday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/thursday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Phoenix Wednesday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/wednesday/</guid><description>&lt;h2 id="geographic-information-of-phoenix">Geographic Information of Phoenix&lt;/h2>
-&lt;p>TimeZone: -07:00
--
-Latitude: 33.4484
--
-Longitude: -112.0740
--
-Altitude: 366.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Phoenix, United States | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('33.4484', '-112.0740');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Phoenix on Astrology</title><link>https://astrology.ir/tags/phoenix/</link><description>Recent content in Phoenix on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0700</lastBuildDate><atom:link href="https://astrology.ir/tags/phoenix/index.xml" rel="self" type="application/rss+xml"/><item><title>Phoenix Tuesday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/tuesday/</guid><description>Geographic Information of Phoenix TimeZone: -07:00 - Latitude: 33.4484 - Longitude: -112.0740 - Altitude: 366.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:13:57 Sunrise 06:28:02 Dhuhr (Noon) 12:15:36 Medium Coeli 12:15:36 Sunset 18:02:40 Maghrib 18:19:08 Isha (Night) 19:07:04 Sharia Midnight 23:38:40 Imum Coeli 00:15:28 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Phoenix Monday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/monday/</guid><description>Geographic Information of Phoenix TimeZone: -07:00 - Latitude: 33.4484 - Longitude: -112.0740 - Altitude: 366.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:13:14 Sunrise 06:27:18 Dhuhr (Noon) 12:15:53 Medium Coeli 12:15:53 Sunset 18:03:58 Maghrib 18:20:24 Isha (Night) 19:08:20 Sharia Midnight 23:38:57 Imum Coeli 00:15:44 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Phoenix Sunday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/sunday/</link><pubDate>Sun, 06 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/sunday/</guid><description>Geographic Information of Phoenix TimeZone: -07:00 - Latitude: 33.4484 - Longitude: -112.0740 - Altitude: 366.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:12:31 Sunrise 06:26:34 Dhuhr (Noon) 12:16:10 Medium Coeli 12:16:10 Sunset 18:05:16 Maghrib 18:21:41 Isha (Night) 19:09:37 Sharia Midnight 23:39:15 Imum Coeli 00:16:01 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Phoenix Saturday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/saturday/</guid><description>Geographic Information of Phoenix TimeZone: -07:00 - Latitude: 33.4484 - Longitude: -112.0740 - Altitude: 366.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:11:48 Sunrise 06:25:50 Dhuhr (Noon) 12:16:27 Medium Coeli 12:16:27 Sunset 18:06:34 Maghrib 18:22:59 Isha (Night) 19:10:54 Sharia Midnight 23:39:32 Imum Coeli 00:16:18 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Phoenix Friday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/friday/</guid><description>Geographic Information of Phoenix TimeZone: -07:00 - Latitude: 33.4484 - Longitude: -112.0740 - Altitude: 366.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:11:04 Sunrise 06:25:07 Dhuhr (Noon) 12:16:45 Medium Coeli 12:16:45 Sunset 18:07:53 Maghrib 18:24:17 Isha (Night) 19:12:13 Sharia Midnight 23:39:50 Imum Coeli 00:16:36 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Phoenix</title><link>https://astrology.ir/ephemeris/united_states/phoenix/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/</guid><description>Geographic Information of Phoenix TimeZone: -07:00 - Latitude: 33.4484 - Longitude: -112.0740 - Altitude: 366.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:10:21 Sunrise 06:24:24 Dhuhr (Noon) 12:17:03 Medium Coeli 12:17:03 Sunset 18:09:12 Maghrib 18:25:36 Isha (Night) 19:13:32 Sharia Midnight 23:40:08 Imum Coeli 00:16:54 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Phoenix Thursday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/thursday/</guid><description>Geographic Information of Phoenix TimeZone: -07:00 - Latitude: 33.4484 - Longitude: -112.0740 - Altitude: 366.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:10:21 Sunrise 06:24:24 Dhuhr (Noon) 12:17:03 Medium Coeli 12:17:03 Sunset 18:09:12 Maghrib 18:25:36 Isha (Night) 19:13:32 Sharia Midnight 23:40:08 Imum Coeli 00:16:54 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Phoenix Wednesday</title><link>https://astrology.ir/ephemeris/united_states/phoenix/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0700</pubDate><guid>https://astrology.ir/ephemeris/united_states/phoenix/wednesday/</guid><description>Geographic Information of Phoenix TimeZone: -07:00 - Latitude: 33.4484 - Longitude: -112.0740 - Altitude: 366.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:09:38 Sunrise 06:23:41 Dhuhr (Noon) 12:17:22 Medium Coeli 12:17:22 Sunset 18:10:32 Maghrib 18:26:56 Isha (Night) 19:14:52 Sharia Midnight 23:40:26 Imum Coeli 00:17:12 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>

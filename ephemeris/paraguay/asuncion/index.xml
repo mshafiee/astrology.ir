@@ -1,183 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Asuncion on Astrology</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/</link><description>Recent content in Asuncion on Astrology</description><generator>Hugo</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/paraguay/asuncion/index.xml" rel="self" type="application/rss+xml"/><item><title>Asuncion Tuesday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/tuesday/</link><pubDate>Tue, 01 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/tuesday/</guid><description>&lt;h2 id="geographic-information-of-asuncion">Geographic Information of Asuncion&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -25.2865
--
-Longitude: -57.6470
--
-Altitude: 107.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Asuncion, Paraguay | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-25.2865', '-57.6470');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Asuncion Monday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/monday/</link><pubDate>Mon, 30 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/monday/</guid><description>&lt;h2 id="geographic-information-of-asuncion">Geographic Information of Asuncion&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -25.2865
--
-Longitude: -57.6470
--
-Altitude: 107.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Asuncion, Paraguay | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-25.2865', '-57.6470');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Asuncion Sunday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/sunday/</link><pubDate>Sun, 29 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/sunday/</guid><description>&lt;h2 id="geographic-information-of-asuncion">Geographic Information of Asuncion&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -25.2865
--
-Longitude: -57.6470
--
-Altitude: 107.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Asuncion, Paraguay | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-25.2865', '-57.6470');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Asuncion Saturday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/saturday/</link><pubDate>Sat, 28 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/saturday/</guid><description>&lt;h2 id="geographic-information-of-asuncion">Geographic Information of Asuncion&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -25.2865
--
-Longitude: -57.6470
--
-Altitude: 107.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Asuncion, Paraguay | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-25.2865', '-57.6470');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Asuncion Friday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/friday/</link><pubDate>Fri, 27 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/friday/</guid><description>&lt;h2 id="geographic-information-of-asuncion">Geographic Information of Asuncion&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -25.2865
--
-Longitude: -57.6470
--
-Altitude: 107.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Asuncion, Paraguay | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-25.2865', '-57.6470');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Asuncion Thursday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/thursday/</link><pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/thursday/</guid><description>&lt;h2 id="geographic-information-of-asuncion">Geographic Information of Asuncion&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -25.2865
--
-Longitude: -57.6470
--
-Altitude: 107.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Asuncion, Paraguay | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-25.2865', '-57.6470');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item><item><title>Asuncion Wednesday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/wednesday/</link><pubDate>Wed, 25 Sep 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/wednesday/</guid><description>&lt;h2 id="geographic-information-of-asuncion">Geographic Information of Asuncion&lt;/h2>
-&lt;p>TimeZone: -04:00
--
-Latitude: -25.2865
--
-Longitude: -57.6470
--
-Altitude: 107.0000 meters&lt;/p>
-&lt;div class="shortcode shortcode-osm-maps">
-	&lt;script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js">&lt;/script>
-	&lt;link href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" rel="stylesheet"/>
-	&lt;div id="osm-map">&lt;/div>
-	&lt;script>
-		var element = document.getElementById('osm-map');
-		element.style = 'border: 1px solid #AAA; width:100%; height:300px';
-		var map = L.map(element);
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&lt;div dir="ltr">Asuncion, Paraguay | &amp;copy; &lt;a href="https://astrology.ir/">astrology.ir&lt;/a>&lt;/div>'
-		}).addTo(map);
-		map.attributionControl.setPrefix(false);
-		var target = L.latLng('-25.2865', '-57.6470');
-		map.setView(target, "12");
-		L.marker(target).addTo(map);
-	&lt;/script>
-&lt;/div>
-&lt;h2 id="sharia-times">Sharia Times&lt;/h2>
-&lt;p>The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Asuncion on Astrology</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/</link><description>Recent content in Asuncion on Astrology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© astrology.ir</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://astrology.ir/ephemeris/paraguay/asuncion/index.xml" rel="self" type="application/rss+xml"/><item><title>Asuncion Tuesday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/tuesday/</link><pubDate>Tue, 08 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/tuesday/</guid><description>Geographic Information of Asuncion TimeZone: -03:00 - Latitude: -25.2865 - Longitude: -57.6470 - Altitude: 107.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:13:05 Sunrise 06:22:29 Dhuhr (Noon) 12:37:56 Medium Coeli 12:37:56 Sunset 18:53:45 Maghrib 19:08:57 Isha (Night) 19:54:08 Sharia Midnight 00:02:51 Imum Coeli 00:37:48 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Asuncion Monday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/monday/</link><pubDate>Mon, 07 Oct 2024 00:00:00 -0300</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/monday/</guid><description>Geographic Information of Asuncion TimeZone: -03:00 - Latitude: -25.2865 - Longitude: -57.6470 - Altitude: 107.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:14:12 Sunrise 06:23:30 Dhuhr (Noon) 12:38:13 Medium Coeli 12:38:13 Sunset 18:53:18 Maghrib 19:08:28 Isha (Night) 19:53:36 Sharia Midnight 00:03:11 Imum Coeli 00:38:04 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Asuncion Saturday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/saturday/</link><pubDate>Sat, 05 Oct 2024 23:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/saturday/</guid><description>Geographic Information of Asuncion TimeZone: -03:00 - Latitude: -25.2865 - Longitude: -57.6470 - Altitude: 107.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 05:15:19 Sunrise 06:24:31 Dhuhr (Noon) 12:38:30 Medium Coeli 12:38:30 Sunset 18:52:51 Maghrib 19:08:00 Isha (Night) 19:53:04 Sharia Midnight 00:03:31 Imum Coeli 00:38:21 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Asuncion Saturday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/saturday/</link><pubDate>Sat, 05 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/saturday/</guid><description>Geographic Information of Asuncion TimeZone: -04:00 - Latitude: -25.2865 - Longitude: -57.6470 - Altitude: 107.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:16:26 Sunrise 05:25:33 Dhuhr (Noon) 11:38:47 Medium Coeli 11:38:47 Sunset 17:52:24 Maghrib 18:07:33 Isha (Night) 18:52:33 Sharia Midnight 23:03:51 Imum Coeli 23:38:38 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Asuncion Friday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/friday/</link><pubDate>Fri, 04 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/friday/</guid><description>Geographic Information of Asuncion TimeZone: -04:00 - Latitude: -25.2865 - Longitude: -57.6470 - Altitude: 107.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:17:33 Sunrise 05:26:35 Dhuhr (Noon) 11:39:05 Medium Coeli 11:39:05 Sunset 17:51:58 Maghrib 18:07:06 Isha (Night) 18:52:02 Sharia Midnight 23:04:12 Imum Coeli 23:38:56 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Asuncion Thursday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/thursday/</link><pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/thursday/</guid><description>Geographic Information of Asuncion TimeZone: -04:00 - Latitude: -25.2865 - Longitude: -57.6470 - Altitude: 107.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:18:41 Sunrise 05:27:37 Dhuhr (Noon) 11:39:23 Medium Coeli 11:39:23 Sunset 17:51:32 Maghrib 18:06:39 Isha (Night) 18:51:32 Sharia Midnight 23:04:32 Imum Coeli 23:39:14 Institute of Geophysics, University of Tehran Calculation Method</description></item><item><title>Asuncion Wednesday</title><link>https://astrology.ir/ephemeris/paraguay/asuncion/wednesday/</link><pubDate>Wed, 02 Oct 2024 00:00:00 -0400</pubDate><guid>https://astrology.ir/ephemeris/paraguay/asuncion/wednesday/</guid><description>Geographic Information of Asuncion TimeZone: -04:00 - Latitude: -25.2865 - Longitude: -57.6470 - Altitude: 107.0000 meters
+Sharia Times The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+LEVA IGUT MWL ISNA EGAS UISK UMQU Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method
+Moment Time Fajr (Dawn) 04:19:49 Sunrise 05:28:40 Dhuhr (Noon) 11:39:42 Medium Coeli 11:39:42 Sunset 17:51:06 Maghrib 18:06:13 Isha (Night) 18:51:02 Sharia Midnight 23:04:53 Imum Coeli 23:39:33 Institute of Geophysics, University of Tehran Calculation Method</description></item></channel></rss>
