@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:47:34 |
-| Sunrise | 06:49:25 |
+| Sunrise | 06:49:24 |
 | Dhuhr (Noon) | 12:52:21 |
 | Medium Coeli | 12:52:21 |
 | Sunset | 18:55:16 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:40:44 |
-| Sunrise | 06:49:25 |
+| Sunrise | 06:49:24 |
 | Dhuhr (Noon) | 12:52:21 |
 | Medium Coeli | 12:52:21 |
 | Sunset | 18:55:16 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:05:51|Night duration: 11:53:53|
+|Duration of the day: 12:05:52|Night duration: 11:53:53|
 |Every hour of day duration: 01:00:29|Every hour of night duration: 00:59:29|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:49:25|07:49:53|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Saturn|Servant|07:49:54|08:50:22|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Jupiter|Servant|08:50:23|09:50:51|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mars|Servant|09:50:52|10:51:21|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Sun|Servant|10:51:22|11:51:50|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Venus|Servant|11:51:51|12:52:19|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Moon|Ruler|06:49:24|07:49:52|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Saturn|Servant|07:49:53|08:50:21|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Jupiter|Servant|08:50:22|09:50:51|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Mars|Servant|09:50:52|10:51:20|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Sun|Servant|10:51:21|11:51:49|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Venus|Servant|11:51:50|12:52:19|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Mercury|Servant|12:52:20|13:52:48|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Moon|Ruler|13:52:49|14:53:18|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Saturn|Servant|14:53:19|15:53:47|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Moon|Ruler|13:52:49|14:53:17|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Saturn|Servant|14:53:18|15:53:47|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|15:53:48|16:54:16|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Mars|Servant|16:54:17|17:54:45|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Sun|Servant|17:54:46|18:55:15|The moon is in Scorpio, Not suitable for doing anything.|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:05:51|Night duration: 11:53:53|
+|Duration of the day: 12:05:52|Night duration: 11:53:53|
 |Every hour duration: 01:43:42|Every hour duration: 01:41:59|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:49:25|08:33:05|
-|Mid-morning|Saturn|Servant|08:33:06|10:16:47|
-|Late morning|Jupiter|Servant|10:16:48|12:00:28|
-|Noon|Mars|Servant|12:00:29|13:44:10|
-|Early afternoon|Sun|Servant|13:44:11|15:27:51|
+|Early morning|Moon|Ruler|06:49:24|08:33:04|
+|Mid-morning|Saturn|Servant|08:33:05|10:16:46|
+|Late morning|Jupiter|Servant|10:16:47|12:00:28|
+|Noon|Mars|Servant|12:00:29|13:44:09|
+|Early afternoon|Sun|Servant|13:44:10|15:27:51|
 |Mid-afternoon|Venus|Servant|15:27:52|17:11:33|
 |Late afternoon|Mercury|Servant|17:11:34|18:55:15|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°55'13.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°20'4.86" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°23'56.46" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|15°9'33.85" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|18°3'16.34" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|20°23'33.35" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|12°17'53.07" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|13°55'12.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°20'4.56" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|18°23'56.47" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|15°9'33.84" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|18°3'5.80" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|20°23'24.42" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|10°57'29.00" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Saturn|Venus|Moon|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°55'13.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°20'4.86" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°23'56.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|15°9'33.85" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|18°3'16.34" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°23'33.35" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|12°17'53.07" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|21°20'7.10" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°24'1.83" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|15°9'21.86" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|18°3'5.80" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°23'24.42" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|10°57'29.00" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

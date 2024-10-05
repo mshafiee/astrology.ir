@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°57'2.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°19'55.02" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°8'47.11" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°39'29.05" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|17°26'16.50" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|19°32'19.23" |Virgo|Simak|Venus|
-|☾ Moon|Direct|6°10'9.08" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|13°57'3.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°19'54.48" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|18°8'42.10" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°39'18.53" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|17°26'12.09" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|19°32'12.23" |Virgo|Simak|Venus|
+|☾ Moon|Direct|5°51'54.07" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°57'2.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°19'55.02" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°8'47.11" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°39'29.05" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|17°26'16.50" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|19°32'19.23" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|6°10'9.08" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|21°19'54.48" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°8'42.10" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°39'18.53" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|17°26'12.09" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|19°32'12.23" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|5°51'54.07" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운

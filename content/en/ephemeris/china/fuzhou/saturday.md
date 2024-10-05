@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:31 |
-| Sunrise | 05:56:42 |
+| Sunrise | 05:56:43 |
 | Dhuhr (Noon) | 11:51:07 |
 | Medium Coeli | 11:51:07 |
 | Sunset | 17:45:10 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:32:29 |
-| Sunrise | 05:56:43 |
+| Sunrise | 05:56:42 |
 | Dhuhr (Noon) | 11:51:07 |
 | Medium Coeli | 11:51:07 |
 | Sunset | 17:45:10 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:48:27|Night duration: 12:12:00|
+|Duration of the day: 11:48:28|Night duration: 12:12:00|
 |Every hour of day duration: 00:59:02|Every hour of night duration: 01:01:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:56:43|06:55:44|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:55:45|07:54:46|Peace among people|
-|3|Mars|Servant|07:54:47|08:53:48|Vengeful and evil deeds|
-|4|Sun|Servant|08:53:49|09:52:51|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|09:52:52|10:51:53|Auspicious|
-|6|Mercury|Servant|10:51:54|11:50:55|Writing, swapping and making promises|
+|1|Saturn|Ruler|05:56:42|06:55:43|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:55:44|07:54:45|Peace among people|
+|3|Mars|Servant|07:54:46|08:53:48|Vengeful and evil deeds|
+|4|Sun|Servant|08:53:49|09:52:50|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:52:51|10:51:52|Auspicious|
+|6|Mercury|Servant|10:51:53|11:50:55|Writing, swapping and making promises|
 |7|Moon|Servant|11:50:56|12:49:57|Not suitable for any task|
-|8|Saturn|Ruler|12:49:58|13:49:00|Destruction of enemies|
-|9|Jupiter|Servant|13:49:01|14:48:02|All good deeds|
+|8|Saturn|Ruler|12:49:58|13:48:59|Destruction of enemies|
+|9|Jupiter|Servant|13:49:00|14:48:02|All good deeds|
 |10|Mars|Servant|14:48:03|15:47:04|Doing evil deeds|
 |11|Sun|Servant|15:47:05|16:46:06|Acceptance of reconciliation between couples|
 |12|Venus|Servant|16:46:07|17:45:09|For gaining dignity|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|14°2'36.08" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°19'6.68" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|17°22'48.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|13°9'1.62" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|15°34'56.23" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|16°56'56.58" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|17°52'38.90" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|13°9'1.64" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|15°34'56.28" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|16°56'56.61" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|17°52'38.47" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

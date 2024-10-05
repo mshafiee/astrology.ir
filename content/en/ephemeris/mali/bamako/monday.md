@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°57'40.57" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°19'50.90" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°3'27.70" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°28'56.72" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|17°13'18.72" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|19°14'19.41" |Virgo|Simak|Venus|
-|☾ Moon|Direct|4°0'47.11" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|18°3'25.61" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°28'56.30" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|17°13'19.49" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|19°14'19.29" |Virgo|Simak|Venus|
+|☾ Moon|Direct|4°9'58.09" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Mercury|Servant|22:37:47|23:37:35|Separation, vengeful and hostile deeds|
 |6|Moon|Servant|23:37:36|00:37:25|Suitable for all good deeds|
 |7|Saturn|Servant|00:37:26|01:37:14|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:37:15|02:37:04|Extremely auspicious and attracts happiness|
+|8|Jupiter|Ruler|01:37:15|02:37:04|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|02:37:05|03:36:53|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:36:54|04:36:43|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|04:36:44|05:36:32|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°1'25.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°19'19.37" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°32'26.97" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|13°27'53.88" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|15°58'10.78" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|17°29'31.81" |Virgo|Simak|Venus|
-|☾ Moon|Direct|21°38'35.11" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|21°19'21.05" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°32'32.41" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|13°27'49.39" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|15°58'5.13" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|17°29'28.24" |Virgo|Simak|Venus|
+|☾ Moon|Direct|20°51'2.18" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Saturn|
-|☾ Moon|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Moon|
-|☾ Moon|Mars|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}

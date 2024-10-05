@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:46:37 |
-| Sunrise | 07:27:58 |
+| Sunrise | 07:27:57 |
 | Dhuhr (Noon) | 13:09:52 |
 | Medium Coeli | 13:09:52 |
 | Sunset | 18:51:00 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:44:49 |
-| Sunrise | 07:27:58 |
+| Sunrise | 07:27:57 |
 | Dhuhr (Noon) | 13:09:52 |
 | Medium Coeli | 13:09:52 |
 | Sunset | 18:51:00 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:35:45 |
-| Sunrise | 07:27:58 |
+| Sunrise | 07:27:57 |
 | Dhuhr (Noon) | 13:09:52 |
 | Medium Coeli | 13:09:52 |
 | Sunset | 18:51:00 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:44:49 |
-| Sunrise | 07:27:58 |
+| Sunrise | 07:27:57 |
 | Dhuhr (Noon) | 13:09:52 |
 | Medium Coeli | 13:09:52 |
 | Sunset | 18:51:00 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°1'27.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°19'18.85" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°32'15.01" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|13°27'31.70" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|15°57'44.74" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|17°28'54.81" |Virgo|Simak|Venus|
-|☾ Moon|Direct|21°33'12.13" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|14°1'26.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°19'18.79" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°32'16.09" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|13°27'32.37" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|15°57'44.57" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|17°28'55.15" |Virgo|Simak|Venus|
+|☾ Moon|Direct|21°32'18.40" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°1'27.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°19'19.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°32'16.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|13°27'32.43" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|15°57'44.68" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|17°28'55.25" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|21°32'18.53" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|14°1'26.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°19'18.79" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°32'16.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|13°27'32.37" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|15°57'44.57" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|17°28'55.15" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|21°32'18.40" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

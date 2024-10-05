@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:51:26|Night duration: 12:08:54|
+|Duration of the day: 11:51:26|Night duration: 12:08:53|
 |Every hour of day duration: 00:59:17|Every hour of night duration: 01:00:44|
 
  
@@ -233,17 +233,17 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|17:49:33|18:50:16|Related to talismans, amulets and responses|
-|2|Moon|Servant|18:50:17|19:51:01|Peace among people|
-|3|Saturn|Servant|19:51:02|20:51:45|Vengeful and evil deeds|
-|4|Jupiter|Servant|20:51:46|21:52:30|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|21:52:31|22:53:14|Auspicious|
-|6|Sun|Servant|22:53:15|23:53:59|Writing, swapping and making promises|
-|7|Venus|Servant|23:54:00|00:54:43|Not suitable for any task|
-|8|Mercury|Ruler|00:54:44|01:55:28|Destruction of enemies|
-|9|Moon|Servant|01:55:29|02:56:12|All good deeds|
-|10|Saturn|Servant|02:56:13|03:56:57|Doing evil deeds|
-|11|Jupiter|Servant|03:56:58|04:57:41|Acceptance of reconciliation between couples|
-|12|Mars|Servant|04:57:42|05:58:26|For gaining dignity|
+|2|Moon|Servant|18:50:17|19:51:00|Peace among people|
+|3|Saturn|Servant|19:51:01|20:51:45|Vengeful and evil deeds|
+|4|Jupiter|Servant|20:51:46|21:52:29|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|21:52:30|22:53:14|Auspicious|
+|6|Sun|Servant|22:53:15|23:53:58|Writing, swapping and making promises|
+|7|Venus|Servant|23:53:59|00:54:42|Not suitable for any task|
+|8|Mercury|Ruler|00:54:43|01:55:27|Destruction of enemies|
+|9|Moon|Servant|01:55:28|02:56:11|All good deeds|
+|10|Saturn|Servant|02:56:12|03:56:56|Doing evil deeds|
+|11|Jupiter|Servant|03:56:57|04:57:40|Acceptance of reconciliation between couples|
+|12|Mars|Servant|04:57:41|05:58:25|For gaining dignity|
 
  
  
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°2'22.24" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°19'9.53" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|17°24'43.20" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|13°12'46.67" |Virgo|Awwa|Venus|
+|♂ Mars|Direct|17°24'43.27" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|13°12'46.71" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|15°39'33.47" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|17°3'25.59" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°37'57.19" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|17°3'25.62" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°37'53.34" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
