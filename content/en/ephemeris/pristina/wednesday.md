@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:23:04 |
+| Fajr (Dawn) | 05:23:05 |
 | Sunrise | 06:41:52 |
 | Dhuhr (Noon) | 12:22:28 |
 | Medium Coeli | 12:22:28 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°50'50.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°20'15.25" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|19°0'47.72" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|13°50'50.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°20'15.56" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|19°0'47.70" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|16°23'20.14" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|19°33'55.57" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|22°28'16.06" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|27°39'26.58" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|19°33'55.62" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|22°28'16.08" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|27°39'27.42" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°50'50.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°20'15.25" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°0'47.72" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|16°23'20.14" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|19°33'55.57" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|22°28'16.06" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|27°39'26.58" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|13°50'50.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°20'17.88" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|19°0'54.46" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|16°23'12.58" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|19°33'47.29" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|22°28'10.08" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|26°33'0.80" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aries|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Moon|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

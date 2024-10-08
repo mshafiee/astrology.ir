@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°47'20.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°20'12.60" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|19°30'44.55" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|17°23'36.65" |Virgo|Simak|Venus|
-|♀ Venus|Direct|20°47'55.39" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°9'17.67" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|9°36'5.54" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|21°20'10.55" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|19°30'37.85" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|17°23'40.89" |Virgo|Simak|Venus|
+|♀ Venus|Direct|20°48'1.52" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°9'21.39" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|10°30'56.14" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Saturn|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
 |☿ Mercury|Mars|Mars|Venus|Moon|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Moon|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Sun|Sun|Gemini|Sun|Moon|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°47'20.66" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°20'10.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°30'37.85" |Cancer|Tarf|Mercury|
+|♂ Mars|Pre-Retrograde Shadow|19°30'37.85" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|17°23'40.89" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|20°48'1.52" |Scorpio|Qalb|Venus|
 |☿ Mercury|Direct|24°9'21.39" |Libra|Jubana|Jupiter|

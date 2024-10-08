@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°56'57.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°19'55.20" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°9'22.36" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°40'38.57" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|17°27'30.45" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|19°34'7.22" |Virgo|Simak|Venus|
-|☾ Moon|Direct|4°56'9.87" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|13°56'57.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°19'55.50" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|18°9'22.35" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°40'38.59" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|17°27'42.17" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|19°34'18.14" |Virgo|Simak|Venus|
+|☾ Moon|Direct|6°23'25.71" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Jupiter|Aries|Moon|Moon|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°56'57.92" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°19'55.50" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°9'22.35" |Cancer|Tarf|Mercury|
+|♂ Mars|Pre-Retrograde Shadow|18°9'22.35" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|14°40'38.59" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|17°27'42.17" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|19°34'18.14" |Libra|Jubana|Saturn|

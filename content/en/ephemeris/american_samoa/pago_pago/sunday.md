@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°56'5.07" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°20'0.70" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°16'43.90" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|18°16'43.90" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|14°55'12.97" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|17°45'38.48" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|19°59'10.12" |Virgo|Simak|Venus|
-|☾ Moon|Direct|8°38'24.98" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|9°17'4.68" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°56'5.07" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°20'0.70" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°16'43.90" |Cancer|Tarf|Mercury|
+|♂ Mars|Pre-Retrograde Shadow|18°16'43.90" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|14°55'12.97" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|17°45'38.48" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|19°59'10.12" |Libra|Jubana|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°57'54.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°19'48.95" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°1'30.37" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°25'4.08" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|17°8'33.14" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|19°7'42.69" |Virgo|Simak|Venus|
-|☾ Moon|Direct|3°9'31.07" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|13°57'54.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°19'49.25" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|18°1'30.36" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°25'4.09" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|17°8'33.19" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|19°7'42.72" |Virgo|Simak|Venus|
+|☾ Moon|Direct|3°9'30.78" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°57'54.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°19'48.95" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°1'30.37" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°25'4.08" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|17°8'33.14" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|19°7'42.69" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°9'31.07" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|13°57'54.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°19'49.25" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|18°1'30.36" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°25'4.09" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|17°8'33.19" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|19°7'42.72" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°9'30.78" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바

@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|18:14:31|19:14:38|Love and attraction of capital|
 |2|Mars|Servant|19:14:39|20:14:46|Unfortunate, no task is suitable|
-|3|Sun|Servant|20:14:47|21:14:55|Operations of tenderness and attraction of love|
+|3|Sun|Servant|20:14:47|21:14:55|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|21:14:56|22:15:03|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|22:15:04|23:15:11|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Moon|Servant|23:15:12|00:15:20|The moon is in Scorpio, Not suitable for doing anything.|
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°57'5.35" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°19'54.72" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|18°8'20.45" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|18°8'20.45" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|14°38'36.05" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|17°25'11.41" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|19°30'48.96" |Virgo|Simak|Venus|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°57'5.35" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°19'54.72" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°8'20.45" |Cancer|Tarf|Mercury|
+|♂ Mars|Pre-Retrograde Shadow|18°8'20.45" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|14°38'36.05" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|17°25'11.41" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|19°30'48.96" |Libra|Jubana|Saturn|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°45'37.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°20'3.14" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|19°45'26.97" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|13°45'37.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°20'3.46" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|19°45'26.96" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|17°53'52.92" |Virgo|Simak|Venus|
-|♀ Venus|Direct|21°25'4.39" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°59'28.77" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|16°23'58.46" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|21°25'4.43" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°59'37.11" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|17°5'46.73" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Saturn|
 |♀ Venus|Venus|Mercury|Mercury|Sun|
 |☿ Mercury|Mars|Mars|Venus|Moon|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Sun|Sun|Gemini|Sun|Moon|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°45'37.25" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°20'3.46" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°45'26.96" |Cancer|Tarf|Mercury|
+|♂ Mars|Pre-Retrograde Shadow|19°45'26.96" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|17°53'52.92" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|21°25'4.43" |Scorpio|Qalb|Venus|
 |☿ Mercury|Direct|24°59'37.11" |Libra|Jubana|Jupiter|
