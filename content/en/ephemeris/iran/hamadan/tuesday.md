@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:49:36 |
 | Maghrib | 18:06:49 |
 | Isha (Night) | 18:55:31 |
-| Sharia Midnight | 23:25:36 |
+| Sharia Midnight | 23:25:37 |
 | Imum Coeli | 00:03:14 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°54'37.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°20'7.26" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|18°28'50.72" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|15°19'20.42" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|18°15'17.27" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°40'9.02" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|14°20'7.51" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|21°20'6.91" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|18°28'49.29" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|15°19'20.43" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|18°15'17.99" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°40'9.16" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|14°29'7.52" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
