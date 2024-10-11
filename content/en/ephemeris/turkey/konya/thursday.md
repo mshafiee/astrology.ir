@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°47'30.94" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°20'11.04" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°29'8.23" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°29'8.23" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|17°20'39.99" |Virgo|Simak|Venus|
 |♀ Venus|Direct|20°44'18.57" |Libra|Jubana|Jupiter|
 |☿ Mercury|Direct|24°4'18.11" |Virgo|Simak|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°47'30.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°20'10.45" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|19°29'5.67" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|17°20'39.37" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|20°44'19.45" |Scorpio|Qalb|Venus|
-|☿ Mercury|Direct|24°4'17.95" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|10°10'53.18" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|21°20'11.16" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°29'8.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|17°20'39.26" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|20°44'17.94" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|24°4'17.57" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|9°49'21.58" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Jupiter|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Moon|
 |♀ Venus|Moon|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}

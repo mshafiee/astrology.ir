@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°37'39.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°18'45.73" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|20°55'15.42" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°18'15.29" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|24°21'59.01" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|28°57'7.16" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|20°0'7.73" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|21°18'47.70" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|20°55'21.35" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°18'9.01" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|24°21'51.96" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|28°57'1.98" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|19°38'2.51" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Venus|Moon|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Mars|Venus|Moon|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Mars|Venus|Cancer|Moon|Moon|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Moon|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°37'39.25" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°18'45.73" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|20°55'15.42" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°55'15.42" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|20°18'15.29" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|24°21'59.01" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|28°57'7.16" |Libra|Akleel|Jupiter|

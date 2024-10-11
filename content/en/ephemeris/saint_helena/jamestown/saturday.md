@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°40'34.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°19'24.75" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|20°29'30.09" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°24'19.28" |Virgo|Simak|Venus|
-|♀ Venus|Direct|23°15'54.49" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|27°28'57.10" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|6°42'8.49" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|21°19'23.07" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|20°29'19.66" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°24'22.17" |Virgo|Simak|Venus|
+|♀ Venus|Direct|23°16'1.63" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|27°29'0.45" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|7°54'26.44" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Venus|Mercury|Mercury|Sun|
 |☿ Mercury|Mars|Mars|Venus|Moon|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Mars|Mars|Cancer|Moon|Moon|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Moon|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°40'34.51" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°19'23.07" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|20°29'23.90" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°29'23.90" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|19°24'21.91" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|23°15'59.32" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|27°28'59.72" |Libra|Akleel|Jupiter|

@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:21:29|07:24:11|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mercury|Ruler|06:21:29|07:24:11|Acceptance of needs|
 |2|Moon|Servant|07:24:12|08:26:55|Unfortunate, no task is suitable|
 |3|Saturn|Servant|08:26:56|09:29:39|For overcoming diseases|
 |4|Jupiter|Servant|09:29:40|10:32:22|For all tasks, extremely auspicious|
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°46'45.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°20'8.65" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°35'44.51" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°35'44.51" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|17°34'3.61" |Virgo|Simak|Venus|
 |♀ Venus|Direct|21°0'46.17" |Libra|Jubana|Jupiter|
 |☿ Mercury|Direct|24°26'40.25" |Virgo|Simak|Mercury|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°46'45.02" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°20'8.65" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|19°35'44.51" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°35'44.51" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|17°34'3.61" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|21°0'46.17" |Scorpio|Qalb|Venus|
 |☿ Mercury|Direct|24°26'40.25" |Libra|Jubana|Jupiter|

@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°39'59.91" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°19'16.36" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|20°34'26.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°34'26.92" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°34'53.05" |Virgo|Simak|Venus|
 |♀ Venus|Direct|23°28'51.26" |Libra|Jubana|Jupiter|
 |☿ Mercury|Direct|27°46'12.81" |Virgo|Simak|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°39'59.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°19'16.36" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|20°34'26.92" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°34'53.05" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|23°28'51.26" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|27°46'12.81" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|9°44'42.60" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Retrograde|21°19'17.58" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°34'26.18" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°34'36.42" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|23°28'40.92" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|27°46'1.28" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|10°22'38.04" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Venus|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}

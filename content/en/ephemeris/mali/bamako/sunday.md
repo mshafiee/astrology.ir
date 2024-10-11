@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°37'18.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°18'40.27" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|20°58'21.47" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°24'47.79" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|24°29'57.80" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|29°7'43.84" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|21°23'10.37" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|13°37'19.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°18'38.95" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|20°58'13.66" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°24'41.17" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|24°29'57.53" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|29°7'40.27" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|22°36'34.60" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Venus|Moon|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Mars|Venus|Moon|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Mars|Venus|Cancer|Moon|Moon|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Moon|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°37'18.09" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°18'40.27" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|20°58'21.47" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°58'21.47" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|20°24'47.79" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|24°29'57.80" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|29°7'43.84" |Libra|Akleel|Jupiter|

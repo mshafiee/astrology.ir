@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°33'32.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°17'33.97" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|21°32'2.56" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°35'52.35" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|25°56'59.32" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|1°3'0.02" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|9°16'29.13" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|13°33'32.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°17'33.65" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°32'5.48" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°35'58.83" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|25°57'1.96" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|1°3'4.11" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|8°29'6.66" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Sun|Venus|Leo|Moon|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°33'32.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°17'33.97" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|21°32'5.45" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|21°35'58.82" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|13°33'32.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°17'33.65" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°32'5.48" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|21°35'58.83" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|25°57'1.99" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|1°3'4.14" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|8°29'6.52" |Pisces|FarghAlMuakhar|Saturn|

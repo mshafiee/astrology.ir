@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°33'17.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°17'28.92" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|21°34'19.90" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°40'40.91" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|26°2'54.45" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|1°10'48.82" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|10°47'49.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°17'28.80" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°34'23.02" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°40'51.13" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|26°2'59.37" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|1°10'55.48" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|9°40'56.01" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Sun|Venus|Leo|Moon|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°33'17.81" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°17'28.80" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|21°34'23.02" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°34'23.02" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|21°40'51.13" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|26°2'59.37" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|1°10'55.48" |Scorpio|Akleel|Mars|
