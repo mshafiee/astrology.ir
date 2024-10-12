@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°30'36.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°16'27.87" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°58'53.62" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°30'36.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°16'28.20" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°58'53.59" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°33'11.96" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|27°6'57.12" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|2°35'1.10" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|22°37'54.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|27°6'45.71" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|2°34'51.18" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|23°28'19.58" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Gemini|Sun|Moon|
 |♀ Venus|Sun|Mercury|Leo|Moon|Moon|
 |☿ Mercury|Venus|Venus|Scorpio|Sun|Venus|
-|☾ Moon|Mercury|Mars|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°30'36.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°16'27.87" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°58'53.62" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|13°30'36.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°16'28.20" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°58'53.59" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|22°33'11.96" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|27°6'57.12" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|2°35'1.10" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|22°37'54.30" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|27°6'57.15" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|2°35'1.12" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°37'53.77" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

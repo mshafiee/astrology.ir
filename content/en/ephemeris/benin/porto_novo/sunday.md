@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°57'27.18" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|20°22'53.74" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|24°27'38.34" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|29°4'38.36" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|20°56'58.70" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|29°4'34.29" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°29'35.81" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

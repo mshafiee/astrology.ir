@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°32'16.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°17'6.71" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°43'39.09" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°32'16.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°17'7.04" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°43'39.06" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°0'35.02" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|26°27'6.41" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|1°42'41.46" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|14°32'55.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°26'59.25" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|1°42'32.15" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|16°5'54.82" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Sun|Venus|Leo|Moon|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°32'16.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°17'6.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°43'39.09" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|13°32'16.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°17'7.04" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°43'39.06" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|22°0'35.02" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|26°27'6.41" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|1°42'41.46" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°33'43.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|26°27'6.44" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|1°42'41.48" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|14°32'55.50" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
