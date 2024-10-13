@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°34'13.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°17'47.27" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°26'0.19" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°23'3.82" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|25°41'14.63" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|0°42'13.38" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|5°21'43.09" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|21°17'48.97" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|21°26'0.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°22'46.60" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|25°41'3.36" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|0°42'1.29" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|6°38'16.93" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°34'13.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°17'48.97" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°26'0.69" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|21°22'46.60" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|25°41'3.36" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|0°42'1.29" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|6°38'16.93" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|21°17'47.27" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°26'0.19" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|21°23'3.82" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|25°41'14.63" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|0°42'13.38" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°21'43.09" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
