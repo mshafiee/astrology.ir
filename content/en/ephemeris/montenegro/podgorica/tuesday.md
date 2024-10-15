@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°31'16.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°16'44.24" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°52'46.73" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°20'5.16" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|26°50'56.41" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|2°14'0.82" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|19°25'8.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°16'43.66" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|21°52'42.16" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°19'59.43" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|26°50'55.10" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|2°13'57.51" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|20°17'36.49" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Jupiter|Venus|Mercury|Moon|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Sun|Mercury|Leo|Moon|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°31'16.93" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°16'44.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°52'46.73" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|21°52'46.73" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|22°20'5.16" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|26°50'56.41" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|2°14'0.82" |Scorpio|Akleel|Mars|

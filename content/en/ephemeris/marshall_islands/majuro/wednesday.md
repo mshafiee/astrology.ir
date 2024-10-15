@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'39.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°14'38.27" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|22°35'42.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°52'48.46" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|28°44'7.63" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|4°41'50.95" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°46'35.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°14'40.06" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|22°35'45.45" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°52'35.45" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|28°43'57.99" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|4°41'41.47" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°10'58.60" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Mars|Scorpio|Sun|Venus|
-|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'39.51" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°14'38.27" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°35'42.66" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|22°35'42.66" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|23°52'48.46" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|28°44'7.63" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|4°41'50.95" |Scorpio|Akleel|Mars|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°30'41.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°16'28.95" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|21°58'8.82" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°31'44.90" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|27°5'14.38" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|2°32'44.03" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|22°47'10.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|21°16'30.02" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|21°58'13.83" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°31'46.33" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|27°5'12.72" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|2°32'44.26" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|22°18'15.74" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Gemini|Sun|Moon|
 |♀ Venus|Sun|Mercury|Leo|Moon|Moon|
 |☿ Mercury|Venus|Venus|Scorpio|Sun|Venus|
-|☾ Moon|Mercury|Mars|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°30'41.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°16'30.02" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°58'13.83" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|22°31'46.33" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|27°5'12.72" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|2°32'44.26" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|22°18'15.74" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|21°16'30.48" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|21°58'15.82" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|22°31'46.19" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|27°5'11.61" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|2°32'43.86" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°10'43.96" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

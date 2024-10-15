@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°25'24.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°14'0.52" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|22°47'35.97" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°18'23.74" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|29°15'20.23" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|5°22'25.60" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|20°0'41.57" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|21°13'58.33" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|22°47'28.64" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|24°18'29.55" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|29°15'26.82" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|5°22'30.74" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|19°22'43.94" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°25'24.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°13'58.33" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°47'28.64" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|22°47'28.64" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|24°18'29.55" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|29°15'27.67" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|5°22'30.85" |Scorpio|Akleel|Mars|

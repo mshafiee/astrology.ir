@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'44.62" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°14'40.98" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|22°34'55.45" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°51'4.64" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|28°42'1.52" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|4°39'7.19" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°26'39.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|22°34'55.45" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°50'49.64" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|28°41'50.22" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|4°38'56.19" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°3'18.96" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Mars|Scorpio|Sun|Venus|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'44.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°14'43.16" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°34'59.01" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|23°50'49.64" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|21°14'40.98" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|22°34'55.45" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|23°51'4.64" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|28°42'1.52" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|4°39'7.19" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|12°26'39.36" |Aries|Sharatain|Sun|
