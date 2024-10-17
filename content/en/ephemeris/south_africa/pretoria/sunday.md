@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:16:21 |
 | Sunrise | 05:27:58 |
-| Dhuhr (Noon) | 11:51:57 |
-| Medium Coeli | 11:51:57 |
+| Dhuhr (Noon) | 11:51:56 |
+| Medium Coeli | 11:51:56 |
 | Sunset | 18:16:18 |
 | Maghrib | 18:32:12 |
 | Isha (Night) | 19:18:37 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:59:38 |
 | Sunrise | 05:27:58 |
-| Dhuhr (Noon) | 11:51:57 |
-| Medium Coeli | 11:51:57 |
+| Dhuhr (Noon) | 11:51:56 |
+| Medium Coeli | 11:51:56 |
 | Sunset | 18:16:18 |
 | Maghrib | 18:21:05 |
 | Isha (Night) | 19:35:14 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:04:26 |
 | Sunrise | 05:27:58 |
-| Dhuhr (Noon) | 11:51:57 |
-| Medium Coeli | 11:51:57 |
+| Dhuhr (Noon) | 11:51:56 |
+| Medium Coeli | 11:51:56 |
 | Sunset | 18:16:18 |
 | Maghrib | 18:21:05 |
 | Isha (Night) | 19:51:05 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°17'20.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°8'25.90" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°6'16.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°14'6.25" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|2°49'15.59" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|9°57'1.72" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°44'6.19" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|21°8'25.32" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|24°6'16.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°14'6.23" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|2°49'15.54" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|9°57'1.68" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°44'5.88" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°17'20.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|13°17'19.81" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°8'25.67" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|24°6'16.00" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|24°6'16.00" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|27°14'6.25" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|2°49'15.59" |Sagittarius|Shaulah|Mercury|
 |☿ Mercury|Direct|9°57'1.72" |Scorpio|Qalb|Mars|

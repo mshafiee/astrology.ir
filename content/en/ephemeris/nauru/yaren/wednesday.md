@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'37.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°14'37.51" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|22°35'57.29" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°53'19.93" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|28°44'46.24" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|4°42'41.18" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°57'15.22" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°14'39.66" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|22°35'59.90" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°53'3.60" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|28°44'34.58" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|4°42'29.40" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°44'56.06" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Mars|Scorpio|Sun|Venus|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'37.99" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°14'37.51" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|22°35'57.29" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|22°35'57.29" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|23°53'19.93" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|28°44'46.24" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|4°42'41.18" |Scorpio|Akleel|Mars|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°27'17.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°14'57.60" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|22°29'44.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°39'49.19" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|28°28'16.85" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|4°21'14.46" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|9°26'46.57" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|21°14'57.84" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|22°29'41.51" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°39'38.92" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|28°28'11.85" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|4°21'7.79" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|10°41'42.22" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Mars|Scorpio|Sun|Venus|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°27'17.64" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°14'57.60" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|22°29'44.40" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|22°29'44.40" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|23°39'49.19" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|28°28'16.85" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|4°21'14.46" |Scorpio|Akleel|Mars|
