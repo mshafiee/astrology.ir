@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'17.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'29.71" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°19'11.55" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°2'48.59" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°14'3.32" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°15'20.79" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|13°29'42.59" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|21°1'29.58" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|25°19'10.92" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°2'48.62" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°14'3.68" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°15'20.94" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°25'18.88" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'17.05" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°1'29.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°19'11.55" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|25°19'11.55" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|0°2'48.59" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|6°14'3.32" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|14°15'20.79" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°29'42.59" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|13°25'18.88" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kao-lan-hsien, Kaolan, LHW, Lan Chau, Lan Châu, Lan'chzhou, Lan'chzhou shaary, Lan'zhou, Lan-chiu-chhi, Lan-chou, Lan-chou-shih, Lan-cou, Lan-čou, Lanchjou, Lanchow, Lanchowfu, Lancsou, Landzhou, Landzou, Landžou, Lang-ciu, Langouo, Lantsjou, Lantsoou, Lanzcouh, Lanzhou, Lanzhou Shi, Lanĝoŭo, Laņdžou, Làng-ciŭ, Lân-chiu-chhī, hlan cow, lan zhou, lan zhou shi, lanazu, lanjeou si, lanjhu, lantshw, lanzhw, Λαντσόου, Ланджоу, Ланьжоу, Ланьчжоу, Ланьчжоу шаары, Ланџоу, لانتشو, لانزہو, لانژو, لەنجۇ شەھىرى, लान्झू, ਲਾਨਜ਼ੂ, หลานโจว, ལན་ཀྲོའུ།, 兰州, 兰州市, 蘭州, 蘭州市, 란저우 시

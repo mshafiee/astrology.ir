@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:04:01 |
 | Sunset | 17:49:49 |
 | Maghrib | 17:50:49 |
-| Isha (Night) | 18:53:49 |
+| Isha (Night) | 18:53:50 |
 | Sharia Midnight | 23:32:03 |
 | Imum Coeli | 00:03:55 |
 {{< /tab >}}
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°25'42.09" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°14'7.68" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|22°44'44.32" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|22°44'44.32" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|24°12'31.29" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|29°8'10.12" |Libra|Akleel|Jupiter|
 |☿ Mercury|Direct|5°13'3.45" |Libra|Ghafr|Moon|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°25'42.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°14'7.68" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°44'44.32" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|24°12'31.29" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|21°14'8.29" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|22°44'46.57" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|24°12'29.92" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|29°8'8.09" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|5°13'2.13" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|17°53'20.93" |Aries|Butain|Sun|

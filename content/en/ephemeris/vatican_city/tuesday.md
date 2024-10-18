@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'3.93" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°3'28.01" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°0'18.80" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°0'18.80" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°18'30.41" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°20'20.22" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|13°8'1.03" |Libra|Jubana|Saturn|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'3.93" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°3'28.01" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°0'11.18" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°18'20.80" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°20'18.33" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°7'55.91" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°1'56.97" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|25°0'18.80" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°18'30.41" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°20'20.22" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°8'1.03" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°25'14.15" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

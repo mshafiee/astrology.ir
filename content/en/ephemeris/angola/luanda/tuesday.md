@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'9.03" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°3'33.56" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|24°59'25.66" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|24°59'25.66" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°16'25.50" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°17'48.96" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|13°4'51.10" |Libra|Jubana|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'9.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°3'33.75" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°59'20.15" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°16'12.45" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°17'43.86" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°4'43.18" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°58'29.04" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|21°3'33.56" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|24°59'25.66" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°16'25.50" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°17'48.96" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°4'51.10" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°58'10.54" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LAD, Loanda, Louanda, Louanta, Luand, Luanda, Luandae, Luando, Lwanda, Lúanda, Saint Paul de Loanda, Sao Paolo de Loanda, Sao Paulo da Assuncao de Luanda, Sao Paulo de Loanda, Sao Paulo de Luanda, St Paul de Loanda, São Paolo de Loanda, São Paulo da Assunção de Luanda, São Paulo de Loanda, São Paulo de Luanda, lu'anda, luanda, luo an da, luvanta, luxanda, luyanda, lwanda, ruanda, Λουάντα, Луандæ, Луанда, Լուանդա, לואנדה, לואנדע, لوآندا, لواندا, لونڈا, लुआंडा, लुआण्डा, লুয়ান্ডা, ਲੁਆਂਦਾ, லுவாண்டா, ลูอันดา, ལའུན་ཌ།, ლუანდა, ሏንዳ, ルアンダ, 罗安达, 루안다

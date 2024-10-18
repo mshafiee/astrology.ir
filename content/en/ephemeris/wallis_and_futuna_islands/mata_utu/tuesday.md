@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'53.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°2'13.18" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°12'51.63" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|21°2'13.54" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|25°12'51.63" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°47'26.63" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°55'31.57" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|13°52'12.92" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|11°8'57.09" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|13°52'12.95" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|11°8'57.58" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°10'53.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°2'10.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°12'46.39" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°47'26.63" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|13°10'53.28" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°2'11.06" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°12'46.35" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°47'40.00" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|5°55'31.57" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|13°52'12.95" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|11°8'57.58" |Cancer|Nathrah|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

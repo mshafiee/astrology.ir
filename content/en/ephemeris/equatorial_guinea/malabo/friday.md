@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°22'32.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°12'14.67" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|23°14'59.49" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°19'7.04" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|0°29'20.19" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|6°57'56.45" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|4°49'25.83" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|13°22'32.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°12'15.00" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|23°14'59.45" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°19'5.53" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|0°29'19.38" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|6°57'55.47" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|5°0'9.43" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Cancer|Sun|Moon|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Mercury|Jupiter|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°22'32.06" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°12'14.67" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°14'59.49" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|25°19'7.04" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|13°22'32.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°12'15.00" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|23°14'59.45" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|25°19'7.06" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|0°29'20.24" |Sagittarius|Shaulah|Mercury|
 |☿ Mercury|Direct|6°57'56.49" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|4°49'24.44" |Taurus|Thurayya|Mercury|

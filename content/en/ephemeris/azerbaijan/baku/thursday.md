@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°25'37.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°14'4.77" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|22°45'17.34" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°13'48.67" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|29°9'54.42" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|5°15'16.37" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|19°28'35.77" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|21°14'6.20" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|22°45'24.50" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|24°13'58.81" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|29°9'57.14" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|5°15'22.25" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|18°17'56.48" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Mars|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°25'37.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°14'5.37" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°45'24.50" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|24°13'58.81" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|29°9'57.14" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|5°15'22.25" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|19°28'35.77" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|21°14'6.20" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|22°45'27.61" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|24°13'57.49" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|29°9'54.70" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|5°15'20.82" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|18°17'56.48" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

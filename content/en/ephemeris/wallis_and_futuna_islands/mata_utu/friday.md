@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°21'8.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°11'19.03" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|23°28'36.23" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°48'58.03" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|1°5'47.30" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°44'51.98" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|14°13'42.22" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|13°21'8.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°11'19.36" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|23°28'24.73" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°49'3.37" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|1°5'56.61" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°44'57.72" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|13°14'22.59" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Cancer|Sun|Moon|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Mercury|Jupiter|Capricorn|Sun|Venus|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°21'8.73" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°11'19.36" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°28'31.55" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|23°28'31.55" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|25°49'11.21" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|1°5'57.96" |Sagittarius|Shaulah|Mercury|
 |☿ Mercury|Direct|7°45'1.94" |Scorpio|Akleel|Mars|

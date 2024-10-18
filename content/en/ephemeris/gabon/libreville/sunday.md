@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°17'9.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°8'16.59" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|24°8'0.34" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°18'3.71" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|2°54'4.52" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|10°3'9.11" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|4°41'58.83" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|13°17'9.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°8'17.79" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|24°8'3.94" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°18'2.97" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|2°54'2.19" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|10°3'7.95" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|5°2'27.96" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Moon|
 |♀ Venus|Mars|Moon|Sagittarius|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°17'9.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°8'16.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°8'0.34" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|27°18'3.71" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|13°17'9.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°8'16.93" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|24°8'0.30" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|27°18'3.73" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|2°54'4.56" |Sagittarius|Shaulah|Mercury|
 |☿ Mercury|Direct|10°3'9.15" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|4°41'59.19" |Gemini|HanAh|Jupiter|

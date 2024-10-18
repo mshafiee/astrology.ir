@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'26.38" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'40.44" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°17'31.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°58'53.57" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|6°9'18.45" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°9'24.47" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|12°36'55.78" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|25°17'31.90" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°58'53.62" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|6°9'18.47" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°9'24.50" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|12°36'55.05" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'26.38" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°1'40.44" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°17'31.89" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|25°17'31.89" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°58'53.57" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°9'14.09" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°9'21.57" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°16'58.26" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|6°9'18.45" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°9'24.47" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°36'55.05" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시

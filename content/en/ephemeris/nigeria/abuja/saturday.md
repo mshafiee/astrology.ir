@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°19'46.92" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°10'20.86" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|23°41'52.15" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°18'46.15" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|1°42'7.89" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|8°31'24.40" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|21°47'37.96" |Aries|Butain|Venus|
+|♂ Mars|Pre-Retrograde Shadow|23°41'52.15" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°19'3.58" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|1°42'18.74" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|8°31'36.48" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|19°58'55.27" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Cancer|Sun|Moon|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Mercury|Jupiter|Capricorn|Sun|Venus|
-|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°19'46.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°10'22.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°41'52.12" |Cancer|Tarf|Moon|
+|♃ Jupiter|Retrograde|21°10'20.86" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|23°41'52.15" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|26°18'46.15" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|1°42'7.89" |Sagittarius|Shaulah|Mercury|
 |☿ Mercury|Direct|8°31'24.40" |Scorpio|Akleel|Mars|

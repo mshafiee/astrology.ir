@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:55:13 |
+| Fajr (Dawn) | 04:55:14 |
 | Sunrise | 06:21:02 |
 | Dhuhr (Noon) | 11:51:55 |
 | Medium Coeli | 11:51:55 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'17.08" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°3'41.91" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|24°58'0.46" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°13'5.20" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°13'44.86" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|12°59'46.47" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°45'51.48" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|24°58'0.46" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°13'7.96" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°13'48.88" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|12°59'49.27" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°9'48.81" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°12'16.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°3'41.56" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°58'0.50" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°13'7.95" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°13'48.84" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|12°59'49.24" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°9'48.14" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|13°12'17.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°3'41.91" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|24°58'0.46" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°13'7.96" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°13'48.88" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|12°59'49.27" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°9'48.81" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

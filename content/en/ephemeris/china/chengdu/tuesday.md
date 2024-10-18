@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'17.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'30.22" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°19'2.16" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°2'30.18" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°13'41.91" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°14'53.28" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|13°14'37.92" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|21°1'30.54" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|25°19'3.79" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°2'30.44" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°13'41.21" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°14'53.12" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°25'17.69" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'17.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'30.22" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°19'2.16" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°2'30.18" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|6°13'41.91" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°14'53.28" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°14'37.92" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|21°1'30.54" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°19'3.79" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°2'30.44" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|6°13'41.21" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°14'53.21" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°22'58.25" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CTU, Ccheng-tu, Cendu, Cengdu, Cengduo, Ch'eng-tu, Ch'eng-tu-hsien, Ch'eng-tu-shih, Chehndu, Chendu, Chengdu, Chengdu Shi, Chengdú, Chundu, Chөndү, Ch’eng-tu, Ch’eng-tu-hsien, Ch’eng-tu-shih, Csengtu, Cwngzduh, Hua-yang, Sang-tu-su, Seng-to-chhi, Sing-du, Sàng-tû-sṳ, Sêng-to͘-chhī, Sìng-dŭ, Thanh Do, Thành Đô, Tsen'nkntou, Txengdu, cengadu, centu, chantu, cheing tu, cheng dou, cheng dou shi, cheongdu si, chngdw, chyngdw, chېngdۇ shەھyr, tshnghdw, zngdw, Çengdu, Ĉengduo, Čcheng-tu, Čendu, Čengdu, Τσενγκντού, Ченгду, Ченду, Чънду, Чыңду, Чэнду, Чөндү, Չենդու, צנגדו, تشنغدو, چنگدو, چینگدو, چېڭدۇ شەھىر, चेंगदू, छंतू, ਚੇਂਗਦੂ, செங்டூ, เฉิงตู, ချင်းဒူမြို့, 成都, 成都市, 청두 시

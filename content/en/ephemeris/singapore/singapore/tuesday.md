@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'20.27" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'33.53" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°18'37.14" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°18'37.14" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|0°1'27.02" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|6°12'24.50" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|14°13'17.26" |Libra|Jubana|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°10'20.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'33.17" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°18'37.18" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°1'27.00" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|6°12'24.47" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°13'17.23" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°11'50.62" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|13°10'20.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°1'33.53" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°18'37.14" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°1'27.02" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|6°12'24.50" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°13'17.26" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°11'51.02" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴
