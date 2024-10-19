@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'21.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'35.22" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°18'20.39" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°0'47.87" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°11'37.10" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°12'17.90" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|13°2'40.50" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|21°1'35.21" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°18'20.44" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°0'48.21" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°11'37.28" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°12'18.13" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°2'18.62" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'21.81" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°1'35.21" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°18'20.44" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°18'20.44" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|0°0'48.21" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|6°11'37.10" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°12'17.90" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°2'40.50" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|6°11'37.28" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°12'18.13" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°2'18.62" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Bu-han-chhi, Bú-hàn-chhī, Gouchan, Owhan, U-hang, Uhan, Uhana, Uhanas, Uhaņa, Ukhan, Ukhan', Uxan, Vu Han, Vu-hon-su, Vuhan, Vuhani, Vuhano, Vujhan, Vukhan, Vú-hon-sṳ, Vũ Hán, WUH, Wu-chan, Wu-han-shih, Wuhan, Wuhan Shi, uhan si, ukhani, uuxan, vuhana, vukan, vukhana, wu han, wu han shi, wwhan, xu han, Ū-háng, Γουχάν, Вухан, Вухан балһсн, Ухан, Ухань, Үkhan', Үхань, Үһән, Ուհան, ווהאן, ووهان, ووھان, ووہان, ۋۇخەن شەھىرى, ܘܘܗܐܢ, वूहान, ਵੂਖ਼ਨ, வுகான், വൂഹാൻ, อู่ฮั่น, ཝུའུ་ཧན་གྲོང་ཁྱེར།, ဝူဟန့်မြို့, უხანი, ዉሃን, 武汉, 武汉市, 武漢, 武漢市, 우한 시, 𐍅𐌿𐌷𐌰𐌽

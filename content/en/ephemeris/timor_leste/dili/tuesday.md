@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°10'29.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'44.39" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°16'56.92" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°57'30.04" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|6°7'37.61" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°7'18.43" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|12°19'54.31" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|13°10'29.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°1'47.17" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°17'3.72" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°57'17.04" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|6°7'26.10" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°7'8.05" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°27'47.41" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Mars|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'29.72" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°1'44.39" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°16'56.92" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°16'56.92" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°57'30.04" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|6°7'37.61" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|14°7'18.43" |Scorpio|Qalb|Sun|

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°15'21.92" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°6'42.95" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°26'8.56" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°26'8.56" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|27°59'28.06" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|3°44'23.30" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|11°6'60.00" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|14°45'15.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|11°6'55.21" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|15°43'40.27" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Mars|Sun|Sagittarius|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°15'21.92" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°6'42.95" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|24°26'8.55" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|27°59'28.01" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|3°44'23.28" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|11°6'59.97" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°45'24.43" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°26'8.56" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|27°59'28.06" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|3°44'23.30" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|11°6'60.00" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°45'15.33" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

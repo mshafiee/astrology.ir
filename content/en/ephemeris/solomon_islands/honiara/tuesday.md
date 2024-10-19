@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'43.43" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'59.96" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°14'30.86" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°14'30.86" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°51'46.12" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|6°0'40.72" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|13°58'36.65" |Libra|Jubana|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°10'43.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°2'2.78" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°14'30.86" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°51'34.03" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°0'29.45" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°58'26.78" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°14'11.70" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|13°10'43.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°2'2.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°14'34.28" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°51'30.83" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°0'29.58" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°58'25.37" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|11°52'53.44" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

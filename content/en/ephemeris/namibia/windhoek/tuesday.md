@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'11.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°3'36.62" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°58'56.96" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°58'56.96" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°15'17.13" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°16'26.76" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|13°3'7.95" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°46'25.99" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|5°16'21.43" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|13°3'0.19" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°53'9.26" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'11.89" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°3'36.62" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|24°58'56.96" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|24°58'56.96" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°15'17.13" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°16'26.76" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°3'7.95" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°46'25.99" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°16'21.43" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°3'0.19" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°53'9.26" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Gouintchouk, Vindguk, Vindhuk, Vindhuka, Vindhukas, Vindhuko, Vindkhuk, Vinduque, Vindxuk, Vintchouk, WDH, Windhoek, Windhuk, Windoek, Windoèk, Wynhoeke, binteuhukeu, u~intofukku, vatahuka, vindahoka, vintok, wen de he ke, wen he ke, win dhuk, wwynthwq, wyndhwk, wyndhwq, wyndھwk, wynٹہwk, Βίντχουκ, Γουίντχουκ, Виндхук, Віндгук, Віндхук, Վինդհուկ, ווינטהוק, וינדהוק, ونڈہوک, ويندهوك, ویندهوک, ویندھوک, وینٹہوک, विंडहोक, ਵੰਟਹੁਕ, விந்தோக், วินด์ฮุก, ཝིན་ཌི་ཧོཡིཀ།, ვინდჰუკი, ዊንድሁክ, ウィントフック, 温得和克, 溫得和克, 溫荷克, 빈트후크

@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°11'34.00" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°2'55.94" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°5'33.52" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°5'33.52" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°30'46.45" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°35'12.67" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|13°26'41.42" |Libra|Jubana|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°11'34.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°2'55.94" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°5'33.52" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°30'46.45" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°35'12.67" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°26'41.42" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|6°12'57.66" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|21°2'55.58" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°5'33.57" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°30'46.43" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°35'12.63" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°26'41.38" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|6°12'57.09" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

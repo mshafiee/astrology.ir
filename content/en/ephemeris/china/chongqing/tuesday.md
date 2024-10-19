@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'18.86" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'31.82" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°18'51.96" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°2'2.35" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°13'7.96" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°14'10.96" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|13°10'19.84" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°18'51.96" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°2'2.56" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°13'7.39" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°14'10.83" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°18'58.47" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'18.86" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'31.55" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°18'50.63" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°2'2.35" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|6°13'7.96" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°14'10.96" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°10'19.84" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|21°1'31.82" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°18'51.96" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°2'2.56" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|6°13'7.19" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°14'10.73" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°21'18.73" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CKG, Cchung-cching, Ch'ung-ch'ing, Ch'ung-ch'ing-shih, Chongqing, Chongqing (Chongqing Shi), Chongqing - zhong qing, Chongqing - 重庆, Chongqing Shi, Chuncin, Chungking, Ch’ung-ch’ing, Ch’ung-ch’ing-shih, Congcing, Congcingas, Congcingo, Csungking, Cuncjina, Pa, Pa-hsien, Trung Khanh, Trùng Khánh, Tshung-khin, Tshùng-khin, Tsjoengking, Yu-chou, Yuzhou, Yü-chou, caungakiga, ceancin, chng ching, chungching si, chwng kyng, chwngchng, congachinga, congkinga, conkin, tshwnghtshyngh, z'wngz'yng, zhong qing, zhong qing shi, Çongçing, Ĉongĉingo, Čchung-čching, Čongčingas, Čuncjina, Чунгкинг, Чунцин, Чунцін, צ'ונגצ'ינג, تشونغتشينغ, چونگ کینگ, چونگچنگ, چونگ‌کینگ, چۇڭچىڭ شەھىرى, चोंगछिंग, चोंग्किंग, ਚੌਂਗਕਿੰਗ, சோங்கிங், ചോങ്ചിങ്, ฉงชิ่ง, ཁྲུང་ཆིན་གྲོང་ཁྱེར།, 重庆, 重庆市, 重慶, 重慶市, 충칭 시

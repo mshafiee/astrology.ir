@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°10'28.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'42.82" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°17'10.17" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°58'2.35" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|6°8'16.27" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°8'6.70" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|12°25'10.51" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|13°10'28.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°1'42.47" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°17'10.22" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°58'2.34" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|6°8'16.24" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°8'6.67" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|12°25'10.10" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°10'28.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'42.82" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°17'10.17" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°57'54.40" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°8'8.22" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°7'59.96" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°20'30.74" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|13°10'28.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°1'42.47" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°17'10.22" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°58'2.34" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°8'16.24" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°8'6.67" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°25'10.10" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오
