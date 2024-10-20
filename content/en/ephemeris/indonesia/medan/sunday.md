@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:11:48 |
 | Isha (Night) | 19:09:30 |
 | Sharia Midnight | 23:40:41 |
-| Imum Coeli | 00:09:58 |
+| Imum Coeli | 00:09:59 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:11:48 |
 | Isha (Night) | 19:41:48 |
 | Sharia Midnight | 23:33:33 |
-| Imum Coeli | 00:09:58 |
+| Imum Coeli | 00:09:59 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°15'12.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°6'34.36" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|24°27'41.63" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°3'1.12" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|3°48'42.14" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|11°12'27.77" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|15°37'9.21" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|13°15'12.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°6'34.54" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|24°27'40.60" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°3'0.83" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|3°48'42.47" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|11°12'27.75" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|15°33'6.27" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

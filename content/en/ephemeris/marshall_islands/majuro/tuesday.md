@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°13'56.65" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°50'26.82" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°59'4.02" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|13°56'35.48" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|10°42'12.35" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|13°56'25.57" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|11°32'52.89" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'46.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°2'3.43" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°13'56.65" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°50'26.82" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°59'4.02" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°56'35.48" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°42'12.35" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|21°2'5.58" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°14'0.46" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°50'13.60" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°58'53.96" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°56'25.57" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|11°32'52.89" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

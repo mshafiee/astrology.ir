@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'27.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'41.42" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°17'22.68" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°58'31.92" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|6°8'52.18" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°8'51.60" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|13°33'5.43" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|21°1'43.81" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°17'30.32" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°58'24.73" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|6°8'43.77" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°8'45.06" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°35'49.88" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'27.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'43.66" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°17'30.25" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°58'26.08" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°8'44.63" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°8'46.00" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°33'5.43" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|21°1'41.42" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°17'22.68" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°58'24.73" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°8'43.77" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°8'45.06" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°35'49.88" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

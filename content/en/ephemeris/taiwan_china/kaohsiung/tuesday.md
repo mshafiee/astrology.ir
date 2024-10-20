@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°10'24.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'38.49" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°17'46.64" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°59'28.53" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|6°10'0.59" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°10'17.18" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|12°44'3.60" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|13°10'24.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°1'38.85" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°17'52.17" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°59'25.42" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|6°9'55.79" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°10'13.92" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°27'27.66" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Mars|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°10'24.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'38.49" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°17'46.64" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°59'28.53" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°10'0.59" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°10'17.18" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°44'3.60" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|13°10'24.96" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°1'38.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°17'46.60" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°59'28.54" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°10'0.62" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°10'17.21" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°44'4.01" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시

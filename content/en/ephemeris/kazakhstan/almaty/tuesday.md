@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|29°7'53.80" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°7'27.95" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|12°51'50.38" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|0°39'28.34" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°58'12.62" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°12'29.77" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°3'55.03" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°55'45.81" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°7'53.78" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°7'27.91" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|12°51'50.35" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°58'11.93" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|13°12'29.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°3'55.38" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°55'45.77" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°7'53.80" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°7'27.95" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|12°51'50.38" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|0°58'12.62" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ALA, Alma Ata, Alma-Ata, Almaato, Almata, Almati, Almato, Almaty, Almatî, Almatõ, Almatý, Almatı, Almatʻa, Ałmaty, Vernyy, a la mu tu, alamati, almaaty, almati, almaty, arumatoi, xal mati, Αλμάτι, Алма-Ата, Алмаато, Алмати, Алматы, Ալմաթա, אלמאטיע, אלמטי, آلماآتی, آلماتی, ألماتي, ئالمۇتا, الماتی, अलमाती, अल्माटी, อัลมาตี, ཨཱལ་མ་ཊི།, ალმათი, アルマトイ, 阿拉木圖, 알마티

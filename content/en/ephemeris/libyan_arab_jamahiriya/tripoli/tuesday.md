@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'5.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°3'29.48" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°0'3.96" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°17'56.17" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°19'38.42" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|13°7'8.50" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°16'0.77" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|21°3'29.71" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°0'4.74" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°17'55.42" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°19'37.56" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|13°7'7.83" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°23'17.68" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|25°0'3.96" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°17'56.17" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|5°19'38.42" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°7'2.59" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°14'31.24" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|13°7'8.50" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°16'0.77" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리

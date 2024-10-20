@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'22.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'36.07" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°18'9.20" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°0'21.57" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°11'4.86" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°11'37.76" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|12°59'2.07" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|21°1'36.43" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°18'9.16" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°0'21.59" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°11'5.03" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°11'37.79" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|12°58'0.10" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'22.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'36.43" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°18'9.16" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°0'21.59" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|6°11'5.03" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°11'37.79" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°56'23.67" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|21°1'36.48" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°18'9.34" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°0'21.40" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|6°11'4.83" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°11'37.63" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°58'0.10" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Che-fej, Chefei, HFE, Hak-bui, Hap-pui-chhi, Ha̍p-pûi-chhī, Hefei, Hefei Shi, Hefejo, Hefejus, Hefėjus, Heyfey, Ho-fei, Ho-fei-hsien, Ho-fei-shih, Hofej, Hop Phi, Hozfeiz, Hăk-bùi, Hợp Phì, Khefej, Khehfehj, Khufej, Lu-chou, Luchow, Luchowfu, Lunchow, haphai, he fei, he fei shi, hefe'i, heopei si, hexfey, hfyy, khfy, Χεφέι, Хефей, Хефеј, Хъфей, Хэфэй, Хөфэй, Հեյֆեյ, خفي, خېفېي شەھىر, هفئی, ہیفئی, ہیفیئی, हफै, हेफ़ेई, เหอเฝย์, 合肥, 合肥市, 허페이 시
