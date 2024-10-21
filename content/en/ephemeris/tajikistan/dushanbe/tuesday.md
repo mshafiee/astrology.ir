@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'27.26" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°3'52.56" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|24°56'13.87" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|24°56'13.87" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°8'59.51" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°8'47.52" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|12°53'30.42" |Libra|Jubana|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'27.26" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°3'52.56" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°56'13.87" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|24°56'13.87" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°8'59.51" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|5°8'47.52" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|12°53'30.42" |Scorpio|Qalb|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베

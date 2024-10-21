@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'25.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'39.83" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°17'35.50" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°59'4.07" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|6°9'31.50" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°9'40.43" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|12°33'12.70" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|21°1'39.98" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|25°17'36.32" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°59'4.23" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|6°9'31.17" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°9'40.38" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|12°38'40.75" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'25.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'39.83" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°17'35.50" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°59'4.07" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°9'31.50" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°9'40.43" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°33'12.70" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|21°1'39.98" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°17'36.32" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°59'4.23" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°9'31.17" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°9'40.38" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°38'40.75" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: City of Manila, Dakbayan sa Manila, Lungsod ng Maynila, MNL, Mainile, Manila, Manilae, Manilla, Manillah, Manille, Manilo, Manyl, Maníla, Maynila, Menila, ma ni la, manila, manilla, manira, manyl, manyla, mnila, mnylh, myanila, Μανίλα, Манилæ, Манила, Маніла, מנילה, مانىلا, مانيلا, مانیل, مانیلا, मनिला, मनीला, ম্যানিলা, மணிலா, ಮನಿಲ, මැනිලා, มนิลา, มะนิลา, མ་ནི་ལ།, မနီလာမြို့, მანილა, ማኒላ, マニラ, 马尼拉, 마닐라

@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'24.86" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'38.67" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°17'48.77" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°17'48.77" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°59'32.82" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|6°10'6.34" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|14°10'24.42" |Libra|Jubana|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'24.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°1'38.67" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°17'48.77" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|25°17'48.77" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°59'32.82" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|6°10'6.34" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|14°10'24.42" |Scorpio|Qalb|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Cap Nhi Tan, Charbin, Charbinas, Charmpin, Cáp Nhĩ Tân, HRB, Ha'erbin, Ha-erh-pin, Ha-erh-pin-shih, Harbin, Harbin Shi, Harbin-chhi, Harbin-chhī, Harbina, Harbino, Ha’erbin, Kharbin, Lungsod ng Harbin, Pin-chiang, Pin-chiang-hsien, Pinkiang, Xarbin, ha er bin, ha er bin shi, ha-eolbin si, har bin, harabina, harbn, harbyn, harpina, harubin, harubin shi, hrbyn, kharbini, Χαρμπίν, Харбин, Харбін, Խարբին, חרבין, خاربىن شەھىرى, هاربن, هاربین, ہاربن, हारबिन, हार्पिन, ਹਾਰਬਿਨ, ฮาร์บิน, ဟာရ်ပင်းမြို့, ხარბინი, ハルビン, ハルビン市, 哈尔滨, 哈尔滨市, 哈爾濱, 하얼빈 시

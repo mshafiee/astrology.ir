@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°9'39.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°0'45.28" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°25'49.14" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°18'35.15" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°33'15.03" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°39'18.14" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|16°36'18.11" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|21°0'45.93" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|25°25'53.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°18'38.75" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°33'14.81" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°39'19.67" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|17°2'28.35" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Mars|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°9'39.55" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°0'45.93" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°25'53.69" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|25°25'53.69" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|0°18'38.75" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|6°33'14.81" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|14°39'19.67" |Scorpio|Qalb|Sun|

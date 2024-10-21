@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'45.09" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°4'11.15" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|24°53'7.26" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°1'44.92" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°0'0.21" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|12°42'27.19" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|29°31'51.43" |Taurus|HaqAh|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|24°53'7.26" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°1'32.49" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|4°59'48.73" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|12°42'17.13" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|0°56'1.66" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♂ Mars|Sun|Venus|Pisces|Moon|Jupiter|
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
-|♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
+|♀ Venus|Sun|Sun|Sagittarius|Moon|Mars|
 |☿ Mercury|Moon|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'45.09" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°4'11.15" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°53'7.26" |Cancer|Tarf|Moon|
+|♂ Mars|Pre-Retrograde Shadow|24°53'7.26" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°1'44.92" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|5°0'0.21" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|12°42'27.19" |Scorpio|Qalb|Sun|

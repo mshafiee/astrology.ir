@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'19.81" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°3'44.79" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|24°57'31.57" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|24°57'31.57" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°12'0.83" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°12'27.29" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|12°58'3.84" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|1°35'33.38" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|12°58'6.71" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|1°53'30.29" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'19.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°3'44.19" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°57'26.11" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°11'55.10" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°12'26.65" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|12°58'3.84" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|21°3'44.79" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|24°57'31.57" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°12'0.83" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°12'27.29" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|12°58'6.71" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|1°53'30.29" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al Kuwait, Al Kuwayt, Al-Kuwait, Ciudad de Kuwait, Ehl'-Kuvejt, KWI, Koeweit, Kota Kuwait, Koveyit, Koweit, Koweït, Kuvaeyt, Kuvajt, Kuvajto, Kuvajturbo, Kuveitas, Kuväyt, Kuwait, Kuwait City, Kuwait Stad, Kuwait by, Kuwait-Stadt, Kuwait-Urbo, Kuwayt, Kuweit, Kuwejt, Madinat al Kuwayt, Madinat al-Kuwait, Madīnat al Kuwayt, Pole tou Koubeit, aalkuayt, ke wei te shi, khuwet si ti, kuu~eto shi, kuweiteu, kuweiteusiti, kwwyt syty, mdynt alkwyt, Πόλη του Κουβέιτ, Эль-Кувейт, כווית סיטי, اَلْكُوَيْت, مدينة الكويت, คูเวตซิตี, クウェート市, 科威特市, 쿠웨이트, 쿠웨이트시티

@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'27.18" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'41.35" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°17'23.35" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°17'23.35" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°58'33.51" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|6°8'54.10" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|14°8'54.00" |Libra|Jubana|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'27.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'43.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°17'30.91" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°58'27.67" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°8'46.55" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°8'48.41" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°33'22.25" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|21°1'41.35" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°17'23.35" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°58'33.51" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°8'54.10" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°8'54.00" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°32'17.65" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시

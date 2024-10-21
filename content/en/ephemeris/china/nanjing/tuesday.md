@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'23.44" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'37.08" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|25°18'3.06" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°18'3.06" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|0°0'7.19" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°10'37.14" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°11'7.39" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|14°5'22.09" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|6°10'47.58" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°11'15.96" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|12°53'9.96" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Mars|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'23.44" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'39.95" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°18'11.39" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°59'57.28" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°10'37.14" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°11'7.39" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°5'22.09" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|21°1'37.08" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|25°18'3.06" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°0'7.19" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|6°10'46.84" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°11'15.59" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°1'41.25" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,7 +352,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Jupiter|Jupiter|Moon|Sun|
 |♃ Jupiter|Mars|Mars|Saturn|Jupiter|
 |♂ Mars|Jupiter|Venus|Jupiter|Mercury|
-|☉ Sun|Mars|Mars|Mercury|Sun|
+|☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
 |☾ Moon|Mercury|Mercury|Mars|Moon|
@@ -363,10 +363,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Leo|Moon|Jupiter|
 |♃ Jupiter|Mars|Mars|Aquarius|Moon|Jupiter|
 |♂ Mars|Venus|Saturn|Taurus|Sun|Mars|
-|☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
+|☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Lâm-kiaⁿ-chhī, NKG, Nam Kinh, Nam-kin-su, Namkin, Nan'czin, Nan'zhin, Nan-ching, Nan-ching-shih, Nanchino, Nanchinum, Nandzing, Nandzjina, Nandžing, Nang-ging, Nanjing, Nanjing Shi, Nankijn, Nankin, Nankinas, Nanking, Nankingo, Nankín, Nanquim, Nanquin, Nanquín, Nantsin'nk, Nanzging, Naņdzjina, Nàm-kîn-sṳ, Nàng-gĭng, hnan cing, namgyeong, nan jing, nan jing shi, nanajiga, nanajinga, nancin, nanjina, nanjing, nanjing si, nanjinga, nanjng, nanjyng, nanjyngh, nʼngyng, Ναντσίνγκ, Нанкин, Нанкинг, Нанкін, Наньжин, Наньцзин, Нәнҗиң, Նանկին, נאנגינג, نانجنگ, نانجينغ, نانجینگ, نەنجىڭ شەھىرى, नांजिंग, नानजिंग, नान्जिङ, ਨਾਨਜਿੰਗ, நாஞ்சிங், നാൻജിങ്, หนานจิง, နန်ကျင်းမြို့, ნანკინი, 南京, 南京市, 난징, 난징 시, 남경
