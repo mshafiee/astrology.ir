@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'51.00" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°2'8.49" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°13'10.21" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°48'36.55" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°56'50.84" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|13°53'48.80" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|10°19'24.87" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°13'14.71" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°48'21.33" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°56'39.19" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|13°53'37.35" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|11°18'8.99" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'51.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°2'8.49" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°13'10.21" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°48'36.55" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°56'50.84" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°53'48.80" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°19'24.87" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|21°2'11.01" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°13'14.67" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°48'21.33" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°56'39.22" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°53'37.35" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|11°18'8.51" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

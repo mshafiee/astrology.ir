@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'22.45" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'36.05" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°18'14.46" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°18'14.46" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|0°0'32.95" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|6°11'19.26" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|14°11'55.70" |Libra|Jubana|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'22.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'36.05" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°18'14.46" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°0'32.95" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|6°11'19.26" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°11'55.70" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°0'44.70" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|21°1'36.32" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°18'15.95" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°0'33.25" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|6°11'18.67" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°11'55.61" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°10'33.71" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥

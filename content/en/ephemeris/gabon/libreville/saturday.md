@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:06:05 |
 | Medium Coeli | 12:06:05 |
 | Sunset | 18:09:18 |
-| Maghrib | 18:25:15 |
+| Maghrib | 18:25:14 |
 | Isha (Night) | 19:04:14 |
 | Sharia Midnight | 23:30:56 |
 | Imum Coeli | 00:06:02 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°3'5.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°51'37.59" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|26°39'20.93" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°3'5.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°51'37.22" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|26°39'20.97" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|3°16'26.14" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|10°8'21.49" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|19°5'29.07" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|24°55'47.71" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°8'21.47" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|19°5'29.05" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|24°55'48.26" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°3'5.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°51'37.59" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|26°39'20.93" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|3°16'26.14" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|10°8'21.49" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|19°5'29.07" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|24°55'47.71" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|13°3'5.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°51'36.82" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°39'16.66" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|3°16'24.83" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|10°8'23.00" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|19°5'29.15" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|24°25'15.54" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

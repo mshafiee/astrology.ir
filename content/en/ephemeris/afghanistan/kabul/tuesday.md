@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'27.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°3'53.18" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°56'7.51" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°8'44.89" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°8'29.67" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|12°53'7.97" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|0°47'32.75" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|21°3'55.26" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|24°56'14.63" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°8'39.66" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°8'22.73" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|12°53'2.93" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°9'8.49" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'27.85" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°3'53.18" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|24°56'2.63" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°8'41.59" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°8'30.22" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|12°53'6.67" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°47'32.75" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|24°56'14.63" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°8'39.66" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°8'22.73" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|12°53'2.93" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°9'8.49" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Cabool, Caboul, Cabul, Cabul - kabl, Cabul - کابل, Cabura, Cabúl, Caubul, KBL, Kabil, Kaboel, Kabol, Kaboul, Kabul, Kabula, Kabulas, Kabuli, Kabulo, Kabura, Kabúl, Kabûl, Kampoul, Kobul, Kubha, Kábul, Kâbil, Kābol, ka bu er, kabl, kabul, kabula, kabuli, kaburu, kabwl, kapul, ke bu er, khabul, Καμπούλ, Кабул, Кобул, Քաբուլ, קאבול, كابل, كابۇل, کابل, کابول, काबुल, কাবুল, ਕਾਬੁਲ, କାବୁଲ, காபூல், ಕಾಬುಲ್, കാബൂൾ, කාබුල්, คาบูล, ཁ་པལ།, ཁ་པུལ།, ქაბული, ካቡል, ទីក្រុងកាបូល, カブール, カーブル, 喀布尔, 喀布爾, 카불

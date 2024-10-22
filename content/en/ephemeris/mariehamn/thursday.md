@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°7'21.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°57'51.95" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°50'53.32" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°18'26.34" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|7°45'44.74" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|16°9'31.92" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|29°28'24.40" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|20°57'52.96" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°50'59.14" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°18'27.29" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|7°45'42.25" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|16°9'31.35" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|0°9'59.58" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Sun|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Aries|Moon|Moon|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°7'21.64" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°57'52.96" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°50'59.14" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|25°50'59.14" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|1°18'27.29" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|7°45'42.25" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|16°9'31.35" |Scorpio|Qalb|Sun|

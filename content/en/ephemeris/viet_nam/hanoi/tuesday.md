@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'19.38" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'32.45" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°18'46.19" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°1'33.31" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°12'39.94" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°13'38.81" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|13°58'31.80" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°18'46.19" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°1'49.02" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°12'50.90" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|14°13'50.21" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°15'42.37" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'19.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'34.66" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°18'48.83" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°1'33.31" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|6°12'39.94" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°13'38.81" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°58'31.80" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|21°1'32.45" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°18'46.19" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°1'49.02" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|6°12'50.90" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°13'50.21" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°15'42.37" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'19.08" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|21°1'32.17" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°18'49.99" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°18'49.99" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|0°1'57.17" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|6°13'1.12" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|14°14'3.07" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|13°18'53.87" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|14°14'3.16" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°8'55.68" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'19.08" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°1'32.17" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°18'49.99" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°18'49.99" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|0°1'57.17" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|6°13'1.12" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°14'3.07" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°18'53.87" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|6°13'1.73" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°14'3.16" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°8'55.68" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Kota Padang, Kuta Padang, Kutha Padang, PDG, Padang, Padangas, Padango, ba dong, badangh, pa dang, padan, padang, padanga, padng  andwnzy, Паданг, بادانغ, پادانگ, پادنگ، اندونزی, پاڈانگ, पादांग, ปาดัง, パダン, 巴東, 파당

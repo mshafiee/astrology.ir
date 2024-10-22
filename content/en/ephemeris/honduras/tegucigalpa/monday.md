@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°11'26.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°2'50.09" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°6'56.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°33'37.76" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°38'47.34" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|13°31'13.60" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|7°54'52.26" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Retrograde|21°2'47.72" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°6'53.01" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°33'52.71" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°38'58.52" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|13°31'24.72" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|6°55'18.82" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°11'26.47" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°2'47.72" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°6'53.01" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°6'53.01" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°33'52.71" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|5°38'58.52" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|13°31'24.72" |Scorpio|Qalb|Sun|

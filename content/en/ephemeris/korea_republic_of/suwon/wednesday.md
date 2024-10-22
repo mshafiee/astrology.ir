@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:16:14 |
 | Medium Coeli | 12:16:14 |
 | Sunset | 17:44:41 |
-| Maghrib | 18:02:10 |
+| Maghrib | 18:02:09 |
 | Isha (Night) | 18:52:53 |
 | Sharia Midnight | 23:37:16 |
 | Imum Coeli | 00:16:10 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°8'6.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°58'51.06" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°42'45.91" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°58'47.08" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|7°21'52.27" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|15°39'54.85" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|25°53'26.38" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°8'6.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°58'50.70" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°42'45.95" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°58'47.07" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|7°21'52.24" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|15°39'54.83" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|25°53'26.25" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°8'6.32" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°58'51.06" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°42'45.91" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°42'45.91" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|0°58'47.08" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|7°21'52.27" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|15°39'54.85" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|25°53'26.38" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|7°21'52.33" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|15°39'54.91" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°52'56.20" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

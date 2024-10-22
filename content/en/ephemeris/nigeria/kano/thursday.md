@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°7'23.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°57'56.03" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°50'32.07" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°17'24.42" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|7°44'24.88" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|16°7'55.19" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|29°55'42.64" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°7'23.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°57'56.23" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°50'32.99" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°17'24.32" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|7°44'24.33" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|16°7'54.93" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|0°2'7.24" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Sun|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Aries|Moon|Moon|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°7'23.85" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°57'56.03" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°50'32.07" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|25°50'32.07" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|1°17'24.42" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|7°44'24.88" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|16°7'55.19" |Scorpio|Qalb|Sun|

@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'24.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°1'38.83" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°17'46.51" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|21°1'38.85" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°17'46.60" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°59'28.54" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|6°10'0.62" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|14°10'17.21" |Libra|Jubana|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'24.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°1'38.83" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°17'46.51" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°59'28.52" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°10'0.66" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|14°10'17.22" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°43'33.30" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|21°1'38.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°17'46.60" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°59'28.54" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°10'0.62" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|14°10'17.21" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°44'4.01" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시

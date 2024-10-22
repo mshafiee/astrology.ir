@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°11'46.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°3'9.31" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°3'31.46" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°25'53.78" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°29'21.30" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|13°19'23.97" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|5°8'44.20" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Retrograde|21°3'10.58" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°3'32.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°25'42.86" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°29'14.21" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|13°19'13.40" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|5°56'12.47" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°11'46.20" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°3'9.31" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°3'30.25" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°25'57.52" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°29'24.25" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°19'23.97" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|5°8'44.20" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|25°3'31.46" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°25'53.78" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°29'21.30" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°19'21.10" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|5°24'19.52" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: PSY, Port Stanley, Port Stenli, Port Stenlis, Port-Stehnli, Port-Stenli, Porto Arxentino/Stanley, Puerto Archentinas/Stenlis, Puerto Argentino, Stanlef, Stanlejo, Stanley, Stanley Harbour, Stehnli, Stenli, Stenlis, astnly  jzayr falklnd, asٹynlے  jzayr faklynڈ, icutanli, porta stenli, seutaenli, si tan li, si tan li gang, stanly, stnly, sutanre, sutanri, Στάνλεϋ, Порт Стенли, Порт-Стенлі, Порт-Стэнли, Стенли, Стэнлі, Պորտ Սթենլի, סטאנלי, סטנלי, استنلی، جزایر فالکلند, اسٹینلے، جزائر فاکلینڈ, ستانلي, سٹینلے, पोर्ट स्टॅन्ली, இசுடான்லி, സ്റ്റാൻലി, สแตนลีย์, スタンリー, スタンレー, 斯坦利, 斯坦利港, 스탠리

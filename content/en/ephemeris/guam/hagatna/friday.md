@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°3'51.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°52'50.91" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|26°30'26.37" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°3'51.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°52'50.54" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|26°30'26.41" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|2°54'26.61" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|9°41'46.90" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|18°32'51.85" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|20°24'59.18" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°41'42.40" |Scorpio|Qalb|Mars|
+|☿ Mercury|Direct|18°32'44.65" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|19°24'13.04" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Jupiter|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°3'51.44" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°52'50.91" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|26°30'26.37" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|26°30'26.37" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|2°54'26.61" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|9°41'46.90" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|18°32'51.85" |Scorpio|Qalb|Sun|

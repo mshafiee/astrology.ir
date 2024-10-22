@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 17:37:15 |
 | Maghrib | 17:38:54 |
 | Isha (Night) | 19:05:09 |
-| Sharia Midnight | 23:40:33 |
+| Sharia Midnight | 23:40:32 |
 | Imum Coeli | 00:24:09 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°12'12.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°3'36.68" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°58'53.19" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°15'10.19" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°16'17.60" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|13°2'56.24" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°40'27.43" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|13°12'11.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|21°3'36.32" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|24°58'53.23" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°15'10.18" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°16'17.56" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|13°2'56.20" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°40'26.77" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°12'12.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°3'36.68" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|24°58'53.19" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°15'10.19" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|5°16'17.60" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|13°2'57.09" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|13°12'11.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|21°3'36.32" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°58'53.23" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°15'10.18" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°16'17.56" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|13°2'56.20" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|2°18'44.11" |Cancer|Nathrah|Venus|
 
 

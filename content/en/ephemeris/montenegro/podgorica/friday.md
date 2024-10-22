@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°5'12.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°54'52.83" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|26°15'5.25" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°16'48.95" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|8°56'18.03" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|17°36'52.11" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|12°33'57.42" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|20°54'55.14" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|26°15'13.30" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°16'43.34" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|8°56'10.37" |Scorpio|Qalb|Mars|
+|☿ Mercury|Direct|17°36'46.45" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°19'7.71" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Jupiter|Mars|Moon|
+|☾ Moon|Mercury|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Jupiter|Venus|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°5'12.13" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°54'52.83" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|26°15'5.25" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|26°15'5.25" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|2°16'48.95" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|8°56'18.03" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|17°36'52.11" |Scorpio|Qalb|Sun|

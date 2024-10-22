@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'45.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°2'4.50" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°14'16.79" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°50'48.78" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|21°2'2.18" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|25°14'9.01" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°50'55.44" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°59'30.77" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|13°57'13.03" |Libra|Jubana|Saturn|
 |☾ Moon|Direct|11°54'51.30" |Gemini|HanAh|Mars|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°10'45.42" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|21°2'4.50" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|25°14'16.79" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°50'48.78" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|21°2'2.18" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°14'9.01" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°50'55.44" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|5°59'30.77" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|13°57'13.03" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|11°54'51.30" |Cancer|Nathrah|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

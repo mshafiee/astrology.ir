@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'32.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|21°3'58.06" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°55'19.41" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°6'52.55" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°6'13.40" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|12°50'16.64" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|0°42'54.14" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|21°3'57.26" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|24°55'15.37" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°6'51.77" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°6'15.04" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|12°50'16.90" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|0°19'48.28" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°12'32.44" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|21°3'58.06" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|24°55'19.41" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|24°55'19.41" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°6'52.55" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|5°6'13.40" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|12°50'16.64" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°42'54.14" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°19'48.28" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레
