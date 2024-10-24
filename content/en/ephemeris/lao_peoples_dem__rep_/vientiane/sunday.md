@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 11:33:15|Night duration: 12:27:07|
+|Duration of the day: 11:33:15|Night duration: 12:27:08|
 |Every hour duration: 01:39:02|Every hour duration: 01:46:44|
 
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Jupiter|Ruler|17:39:56|19:26:38|
-|Late evening|Mars|Servant|19:26:39|21:13:22|
-|Midnight|Sun|Servant|21:13:23|23:00:06|
-|Late at night|Venus|Servant|23:00:07|00:46:50|
-|Rooster song|Mercury|Servant|00:46:51|02:33:34|
-|False Dawn|Moon|Servant|02:33:35|04:20:18|
-|Dawn|Saturn|Servant|04:20:19|06:07:02|
+|Evening|Jupiter|Ruler|17:39:56|19:26:39|
+|Late evening|Mars|Servant|19:26:40|21:13:23|
+|Midnight|Sun|Servant|21:13:24|23:00:07|
+|Late at night|Venus|Servant|23:00:08|00:46:51|
+|Rooster song|Mercury|Servant|00:46:52|02:33:35|
+|False Dawn|Moon|Servant|02:33:36|04:20:19|
+|Dawn|Saturn|Servant|04:20:20|06:07:03|
 
 {{< /tab >}}
 
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°59'35.91" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°45'26.08" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|27°21'7.31" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|27°21'7.31" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|5°1'24.13" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|12°15'2.39" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|21°39'55.77" |Libra|Jubana|Jupiter|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°59'35.91" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°45'26.08" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°21'7.31" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|27°21'7.31" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|5°1'24.13" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|12°15'2.39" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|21°39'55.77" |Scorpio|Shaulah|Venus|

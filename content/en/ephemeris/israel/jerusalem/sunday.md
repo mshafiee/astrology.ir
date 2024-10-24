@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'9.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'20.46" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|27°2'8.69" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°13'20.59" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°17'4.05" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°29'28.01" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°30'29.32" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|20°48'21.12" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|27°2'11.49" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°13'19.65" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°17'1.99" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°29'26.71" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°43'0.46" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'9.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'20.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°2'8.73" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°13'20.58" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°17'4.03" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°29'28.00" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|6°30'30.11" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|20°48'20.46" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|27°2'8.69" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°13'20.59" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°17'4.05" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°29'28.01" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|6°30'29.32" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

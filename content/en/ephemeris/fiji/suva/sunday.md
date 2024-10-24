@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'3.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°46'20.33" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|27°15'43.71" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°47'12.70" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°57'55.41" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|21°19'13.44" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|13°34'40.57" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|20°46'17.51" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|27°15'28.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°47'10.62" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°58'2.60" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|21°19'15.72" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|12°3'0.93" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Mercury|Venus|Jupiter|Jupiter|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'3.13" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°46'18.25" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°15'35.66" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|27°15'35.66" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°47'17.67" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°58'2.65" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|21°19'18.76" |Scorpio|Qalb|Venus|
