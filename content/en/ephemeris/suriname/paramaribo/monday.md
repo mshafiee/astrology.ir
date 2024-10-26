@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|20°39'57.20" |Taurus|Dabaran|Saturn|
 |♂ Mars|Pre-Retrograde Shadow|27°54'19.63" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|6°27'6.47" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|13°58'17.60" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|23°44'27.43" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|1°54'37.16" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|13°58'18.57" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|23°44'31.50" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°9'53.46" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Mercury|Mars|Aries|Moon|Mars|
 |☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°56'58.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°39'56.84" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°54'12.26" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|6°26'57.94" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°58'17.60" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|23°44'27.43" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°54'37.16" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|20°39'57.20" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|27°54'19.63" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|6°27'6.47" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°58'18.57" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|23°44'31.50" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°9'53.46" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
 |♀ Venus|Venus|Sun|Taurus|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

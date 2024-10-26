@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 11:33:15|Night duration: 12:27:08|
+|Duration of the day: 11:33:15|Night duration: 12:27:07|
 |Every hour of day duration: 00:57:46|Every hour of night duration: 01:02:16|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|17:39:56|18:42:10|Love and attraction of capital|
 |2|Mars|Servant|18:42:11|19:44:26|Unfortunate, no task is suitable|
-|3|Sun|Servant|19:44:27|20:46:42|Operations of tenderness and attraction of love|
-|4|Venus|Servant|20:46:43|21:48:57|Unfortunate and repelling goodness|
-|5|Mercury|Servant|21:48:58|22:51:13|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|22:51:14|23:53:29|Suitable for all good deeds|
-|7|Saturn|Servant|23:53:30|00:55:44|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|00:55:45|01:58:00|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|01:58:01|03:00:16|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|03:00:17|04:02:31|Attracting happiness, solving financial problems|
-|11|Venus|Servant|04:02:32|05:04:47|Performing promises|
-|12|Mercury|Servant|05:04:48|06:07:03|Finding the fugitive and discovering the thief|
+|3|Sun|Servant|19:44:27|20:46:41|Operations of tenderness and attraction of love|
+|4|Venus|Servant|20:46:42|21:48:57|Unfortunate and repelling goodness|
+|5|Mercury|Servant|21:48:58|22:51:12|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|22:51:13|23:53:28|Suitable for all good deeds|
+|7|Saturn|Servant|23:53:29|00:55:44|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|00:55:45|01:57:59|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|01:58:00|03:00:15|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|03:00:16|04:02:30|Attracting happiness, solving financial problems|
+|11|Venus|Servant|04:02:31|05:04:46|Performing promises|
+|12|Mercury|Servant|05:04:47|06:07:02|Finding the fugitive and discovering the thief|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°59'35.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°45'26.08" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°21'7.31" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|5°1'24.13" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|12°15'2.39" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|21°39'55.77" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|16°9'50.31" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|20°45'25.71" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|27°21'7.36" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|5°1'24.12" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|12°15'2.37" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|21°39'55.76" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|16°9'51.08" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°59'35.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°45'26.08" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°21'7.31" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|5°1'24.13" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|12°15'2.39" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|21°39'55.77" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°9'50.31" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|12°59'35.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°45'25.71" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|27°21'7.36" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|5°1'24.12" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|12°15'2.37" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|21°39'55.76" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°9'51.08" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

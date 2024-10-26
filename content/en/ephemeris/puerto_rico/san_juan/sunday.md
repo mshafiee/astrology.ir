@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:08:12 |
 | Sunset | 17:54:03 |
 | Maghrib | 17:55:01 |
-| Isha (Night) | 19:08:44 |
+| Isha (Night) | 19:08:43 |
 | Sharia Midnight | 23:30:54 |
 | Imum Coeli | 00:08:10 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°58'42.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°43'40.74" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°32'6.06" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|12°58'42.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°43'40.36" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|27°32'6.12" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|5°29'30.41" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|12°48'55.23" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|22°20'56.33" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|21°45'51.94" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|12°48'55.22" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|22°20'56.32" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|21°45'52.59" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°58'42.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°43'40.74" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°32'6.06" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|12°58'42.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°43'40.36" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|27°32'6.12" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|5°29'30.41" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|12°48'55.23" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|12°48'51.41" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|22°20'50.02" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|20°31'45.83" |Virgo|Simak|Mercury|
 
