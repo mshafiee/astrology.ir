@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Naples
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 40.8522
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'1.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'6.27" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'44.01" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°17'20.01" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°21'53.23" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°35'20.36" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°17'23.50" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|20°48'6.44" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'44.72" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°17'19.74" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°21'52.69" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°35'20.01" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°20'20.49" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'1.76" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'6.27" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'44.01" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°3'44.01" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°17'20.01" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°21'53.23" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°35'20.36" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°17'23.50" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|20°35'20.01" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°20'20.49" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

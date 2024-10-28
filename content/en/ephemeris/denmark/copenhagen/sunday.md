@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Copenhagen
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 55.6759
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'58.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'0.43" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'21.58" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°18'53.13" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°23'46.29" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°37'38.14" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°32'15.59" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°0'58.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'0.80" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°4'21.53" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°18'53.14" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°23'46.30" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°37'38.15" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°32'14.79" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'58.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'0.43" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'21.58" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°18'53.13" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°23'46.29" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°37'38.14" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°32'15.59" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|13°0'58.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'0.80" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'21.53" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°18'53.14" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°23'46.30" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°37'38.15" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°32'14.79" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

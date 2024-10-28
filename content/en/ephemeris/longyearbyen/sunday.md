@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Longyearbyen
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 78.2233
 \-
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 16:08:45 |
+| Isha (Night) | 16:08:46 |
 | Sharia Midnight | 23:53:38 |
 | Imum Coeli | 23:49:12 |
 {{< /tab >}}

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Douglas
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 54.1500
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'53.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°47'51.25" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°5'24.97" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°0'53.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°47'50.88" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°5'25.01" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°21'33.18" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°26'59.34" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°41'33.20" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|8°4'53.57" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°26'59.32" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°41'33.57" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°33'30.18" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'53.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°47'51.25" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°5'24.97" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°0'53.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°47'50.88" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°5'25.01" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°21'33.18" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°26'59.34" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°41'33.20" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|8°4'53.57" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°26'59.32" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°41'33.19" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|8°4'54.38" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

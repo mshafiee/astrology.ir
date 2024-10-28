@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Vaduz
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 47.1415
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'59.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'1.85" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'13.13" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°18'33.83" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°23'23.56" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°37'10.10" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°22'54.90" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°0'59.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'1.20" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°4'12.83" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°18'35.47" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°23'24.69" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°37'11.30" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°27'26.02" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'59.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'1.48" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'13.93" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°0'59.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'1.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'13.88" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°18'34.77" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°23'23.68" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°37'10.56" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°31'1.02" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°23'23.70" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°37'10.57" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°31'0.22" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

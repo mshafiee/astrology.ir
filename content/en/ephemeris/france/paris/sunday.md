@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Paris
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.8534
 \-
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'56.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°47'56.74" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'44.76" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°0'56.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°47'57.12" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°4'45.55" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°19'52.87" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°24'59.39" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°39'6.83" |Libra|Jubana|Jupiter|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'56.70" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°47'57.12" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'45.55" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°19'54.39" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°24'59.85" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°39'7.68" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°46'35.82" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|27°4'44.76" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°19'52.87" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°24'59.39" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°39'6.83" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°36'13.41" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

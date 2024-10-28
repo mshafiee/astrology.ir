@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of London
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 51.5085
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'55.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°47'53.58" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'55.19" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°20'30.67" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°25'48.69" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°40'5.27" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°53'42.29" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|20°47'54.43" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°5'1.21" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°20'33.46" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°25'47.12" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°40'5.26" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°53'43.09" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'55.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°47'53.58" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'55.19" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°0'55.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°47'53.95" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'55.15" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°20'30.67" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°25'48.69" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°40'4.74" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°8'38.24" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°25'48.71" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°40'4.75" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°8'37.43" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

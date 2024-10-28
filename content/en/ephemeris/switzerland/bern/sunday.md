@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Bern
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 46.9481
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'58.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'0.29" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'21.82" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°0'58.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'0.66" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°4'21.77" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°18'54.66" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°23'47.68" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°37'39.78" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°35'3.75" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°23'47.69" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°37'39.79" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°13'17.66" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'58.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'0.29" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'21.82" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°18'54.66" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°23'47.68" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°37'39.78" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°35'3.75" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|13°0'58.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'0.66" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'21.77" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°18'54.04" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°23'49.14" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°37'40.15" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°13'17.66" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

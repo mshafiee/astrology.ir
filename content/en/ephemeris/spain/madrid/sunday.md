@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Madrid
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 40.4165
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'55.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|13°0'55.87" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°47'55.65" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'54.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'54.85" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°20'18.52" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°25'28.63" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°39'42.69" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°53'22.09" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|20°39'39.22" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°43'11.55" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'55.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°47'55.65" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'54.85" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°4'54.85" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°20'18.52" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°25'28.63" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°39'42.69" |Scorpio|Qalb|Venus|

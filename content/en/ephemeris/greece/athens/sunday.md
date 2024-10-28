@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Athens
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 37.9838
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'5.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'14.03" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'7.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°15'30.40" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°19'40.99" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°32'41.56" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°8'3.96" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|20°48'12.50" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'2.26" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°15'35.09" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°19'46.52" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°32'46.00" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°56'46.30" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'5.21" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'12.50" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'2.26" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°3'2.26" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°15'35.09" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°19'46.52" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°32'46.00" |Scorpio|Qalb|Venus|

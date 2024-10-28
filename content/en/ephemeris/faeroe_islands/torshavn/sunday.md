@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Torshavn
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 62.0097
 \-
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'50.65" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°47'46.05" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°6'0.25" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°6'0.25" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°23'1.16" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°28'45.99" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°43'43.09" |Libra|Jubana|Jupiter|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'50.65" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°47'46.05" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°6'0.25" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°6'0.25" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°23'1.16" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°28'45.99" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°43'43.09" |Scorpio|Qalb|Venus|

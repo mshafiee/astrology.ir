@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Dublin
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 53.3331
 \-
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'53.07" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°47'50.51" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°5'29.84" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°5'29.84" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°21'45.57" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°27'14.24" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°41'51.28" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|8°6'45.62" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°27'7.30" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°41'43.23" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°22'0.74" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'52.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°47'50.14" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°5'29.75" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°21'45.47" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°27'14.23" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°41'51.29" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|8°6'44.82" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|13°0'53.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°47'51.48" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°5'29.81" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°21'33.83" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°27'7.32" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°41'43.24" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°21'59.94" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

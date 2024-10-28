@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Saint Helier
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 49.1880
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'55.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°47'54.37" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°5'3.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°20'40.57" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°25'55.59" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°40'15.55" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°55'47.50" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°0'54.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°47'53.25" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°4'59.48" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°20'39.46" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°25'57.30" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°40'15.82" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°26'10.35" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'54.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°47'53.99" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°5'3.93" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°20'40.56" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°25'55.57" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°40'15.54" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°55'48.30" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|13°0'55.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°47'54.37" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°5'3.89" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°20'39.46" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°25'57.32" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°40'15.83" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°26'9.55" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

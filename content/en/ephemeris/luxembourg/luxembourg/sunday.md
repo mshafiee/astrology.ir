@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Luxembourg
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 49.6117
 \-
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'57.62" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°47'58.74" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'32.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'32.33" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°19'20.89" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°24'19.46" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°38'18.50" |Libra|Jubana|Jupiter|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'57.62" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°47'58.74" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'32.33" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°4'32.33" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°19'20.89" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°24'19.46" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°38'18.50" |Scorpio|Qalb|Venus|

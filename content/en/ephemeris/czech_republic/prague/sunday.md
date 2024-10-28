@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Prague
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 50.0880
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'0.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'3.53" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'0.41" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°18'0.43" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°22'42.38" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°36'20.28" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°23'20.77" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°1'0.47" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'3.90" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°4'8.52" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°17'55.59" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°22'35.15" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°36'15.02" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°50'19.00" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'0.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'3.53" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'0.41" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°18'0.43" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°22'42.38" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°36'20.28" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°23'20.77" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|13°1'0.47" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'6.13" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'8.52" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°17'55.59" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°22'35.15" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°36'15.02" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°50'19.00" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}

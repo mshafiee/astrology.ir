@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Sarajevo
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 43.8486
 \-
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'2.71" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°48'7.96" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'32.87" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'32.87" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°16'51.75" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°21'19.24" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°34'38.97" |Libra|Jubana|Jupiter|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'2.71" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'7.96" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'32.87" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°16'51.75" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°21'19.24" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°34'38.97" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°11'2.97" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|27°3'29.85" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°16'49.95" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°21'19.78" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°34'38.41" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|6°46'26.31" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Venus|Mars|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

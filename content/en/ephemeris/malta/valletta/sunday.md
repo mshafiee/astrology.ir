@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Valletta
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 35.8997
 \-
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'2.40" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°48'7.46" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'35.89" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'35.89" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°16'59.86" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°21'28.75" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°34'50.53" |Libra|Jubana|Jupiter|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'2.40" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'7.46" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'35.89" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°3'35.89" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°16'59.86" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°21'28.75" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°34'50.53" |Scorpio|Qalb|Venus|

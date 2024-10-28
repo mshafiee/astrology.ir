@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Kharkiv
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 49.9808
 \-
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'7.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|13°1'7.70" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°48'16.52" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°2'33.49" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°2'33.49" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°14'21.63" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°18'18.33" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°30'58.60" |Libra|Jubana|Jupiter|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'7.51" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'16.52" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°2'33.49" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°2'33.49" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°14'21.63" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°18'18.33" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°30'58.60" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|6°39'21.19" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°18'18.35" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°30'58.61" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|6°39'20.40" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

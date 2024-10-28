@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Tallinn
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 59.4370
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'1.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'5.93" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'45.20" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|20°48'6.30" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'45.16" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°17'21.04" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°21'55.39" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°35'23.09" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°12'27.41" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°21'55.40" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°35'23.10" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°12'26.62" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'1.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'5.93" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'45.20" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°1'1.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'6.30" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'45.16" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°17'21.04" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°21'55.39" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°35'23.09" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°12'27.41" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°21'55.40" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°35'23.10" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°12'26.62" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

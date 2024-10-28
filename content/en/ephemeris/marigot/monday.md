@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:58:39 |
 | Isha (Night) | 18:39:24 |
 | Sharia Midnight | 23:19:25 |
-| Imum Coeli | 23:56:00 |
+| Imum Coeli | 23:56:01 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°56'54.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°39'49.86" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°55'1.60" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|12°56'54.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°39'49.49" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°55'1.66" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|6°28'56.60" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°0'31.05" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|23°47'10.52" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°32'50.52" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|14°0'31.03" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|23°47'10.50" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°32'50.74" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°56'54.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°39'49.86" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°55'1.60" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|12°56'54.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°39'49.49" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°55'1.66" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|6°28'56.60" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°0'31.05" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|23°47'10.52" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°32'50.52" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°0'31.03" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|23°47'10.50" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°32'50.74" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

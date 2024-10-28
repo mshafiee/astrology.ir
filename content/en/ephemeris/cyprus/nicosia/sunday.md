@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Nicosia
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 35.1753
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'8.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'18.40" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°2'20.20" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°13'49.27" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°17'38.72" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°30'10.29" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°35'53.56" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°1'8.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'18.41" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°2'20.15" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°13'48.21" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°17'39.59" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°30'10.19" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°15'30.75" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'8.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'18.40" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°2'20.20" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°1'8.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'18.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°2'20.15" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°13'49.27" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°17'38.72" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|11°17'38.74" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°30'10.29" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|6°35'53.56" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|6°35'52.77" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

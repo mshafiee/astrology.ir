@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of San Marino
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 43.9367
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'0.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'4.42" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'56.55" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°1'0.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'4.05" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'56.59" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°17'51.38" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°22'31.20" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°36'6.62" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°23'1.21" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°22'31.19" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°36'6.61" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°23'2.01" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'0.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'4.05" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'55.67" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°17'51.74" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°22'31.88" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°36'7.05" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°19'9.36" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|27°3'56.59" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°17'51.38" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°22'20.18" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°35'54.52" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|6°29'50.25" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Venus|Mars|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

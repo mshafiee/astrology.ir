@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Berlin
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 52.5244
 \-
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'59.70" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°48'2.50" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'9.89" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'9.89" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°18'24.17" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°23'11.17" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°36'55.34" |Libra|Jubana|Jupiter|
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'59.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'2.50" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'9.89" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Retrograde|20°48'1.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'6.62" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°18'24.17" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°23'11.17" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°36'55.34" |Scorpio|Qalb|Venus|

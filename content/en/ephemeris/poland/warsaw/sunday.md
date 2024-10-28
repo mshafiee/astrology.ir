@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Warsaw
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 52.2298
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'2.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'7.12" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'39.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°17'6.56" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°21'37.50" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°35'1.24" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°11'53.39" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°1'2.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'6.74" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'39.11" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°17'6.55" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°21'37.48" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°35'1.23" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°11'54.19" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'2.26" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'7.12" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'33.19" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°16'56.22" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°21'34.53" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°34'55.47" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|5°58'49.22" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|27°3'39.06" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°17'6.56" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°21'37.50" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°35'1.24" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°11'53.39" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Venus|Mars|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

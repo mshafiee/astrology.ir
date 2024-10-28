@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Lisbon
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 38.7167
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'54.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°47'52.83" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°5'13.58" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°0'54.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°47'52.46" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°5'13.62" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°21'5.81" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°26'25.64" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°40'52.10" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|8°3'14.41" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°26'25.62" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°40'52.09" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|8°3'15.21" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'54.30" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°47'52.83" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°5'13.58" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°5'13.58" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°21'5.81" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°26'25.64" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°40'52.10" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|8°3'14.41" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°26'25.62" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°40'52.09" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|8°3'15.21" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

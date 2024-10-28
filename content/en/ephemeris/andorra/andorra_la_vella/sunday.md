@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Andorra la Vella
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 42.5078
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'57.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°47'58.25" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'37.61" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|20°47'57.74" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°4'34.26" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°19'34.32" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°24'37.51" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°38'39.07" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°22'27.15" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°24'37.53" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°38'39.08" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°44'9.08" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°0'57.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°47'57.88" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'37.65" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°19'34.93" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°24'36.10" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°38'38.73" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°22'26.35" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|13°0'57.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°47'58.25" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'37.61" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°19'34.94" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°24'36.11" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°38'38.74" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°44'9.08" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}

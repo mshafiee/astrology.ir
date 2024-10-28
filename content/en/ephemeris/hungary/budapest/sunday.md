@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Budapest
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 47.4984
 \-
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'2.42" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°48'7.43" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'36.64" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'36.64" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°17'0.93" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°21'30.47" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°34'52.66" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°22'55.86" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|20°34'48.34" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°7'25.45" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'2.42" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'7.43" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'36.64" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°17'0.93" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°21'30.47" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°34'52.66" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°12'3.40" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|20°48'7.23" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'30.81" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°16'52.71" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°21'28.73" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°34'48.34" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|6°7'25.45" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Venus|Mars|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

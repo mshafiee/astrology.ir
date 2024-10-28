@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Tirana
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.3275
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'3.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'9.08" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'22.82" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°1'3.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'9.45" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'22.77" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°16'26.51" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°20'48.67" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°34'1.72" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°6'31.88" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°20'48.68" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°34'1.73" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°6'31.08" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'3.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'9.08" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'22.82" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°1'3.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'9.45" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'22.77" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°16'26.51" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°20'48.67" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°34'1.72" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°6'31.88" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°20'48.68" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°34'1.73" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°6'31.08" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

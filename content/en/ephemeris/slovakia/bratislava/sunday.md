@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Bratislava
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.1482
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'1.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'5.72" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'45.69" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°1'1.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'6.09" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'45.64" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°17'23.54" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°21'57.77" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°35'25.93" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°16'26.84" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°21'57.79" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°35'25.94" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°16'26.04" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'1.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'5.72" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'45.69" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°1'1.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'6.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'45.64" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°17'23.54" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°21'57.77" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°35'25.93" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°16'26.84" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°21'57.79" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°35'25.94" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°16'26.04" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

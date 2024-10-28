@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Dnipro
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 48.4666
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'7.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'16.31" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°2'35.41" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°14'26.01" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|20°48'16.64" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°2'35.07" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°14'25.69" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°18'23.27" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°31'4.73" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°43'2.11" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|20°31'4.60" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°39'56.99" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'7.36" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'16.27" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°2'35.10" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°2'35.10" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°14'25.83" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°18'23.33" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°31'4.68" |Scorpio|Qalb|Venus|

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Skopje
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.9965
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'3.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'9.88" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'17.53" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°16'13.16" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°20'32.58" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°33'42.13" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°3'42.08" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|20°48'9.95" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'11.42" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°16'5.27" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°20'31.19" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°33'38.11" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°58'59.16" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Mercury|Venus|Jupiter|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'3.77" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'9.88" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'17.53" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°1'3.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'10.25" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'17.49" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°16'13.16" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°20'32.58" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°33'42.13" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°3'42.08" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°20'32.60" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°33'42.14" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°3'41.29" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

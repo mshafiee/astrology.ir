@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:46:59 |
 | Sunset | 17:35:24 |
 | Maghrib | 17:39:46 |
-| Isha (Night) | 18:45:22 |
+| Isha (Night) | 18:45:23 |
 | Sharia Midnight | 23:09:55 |
 | Imum Coeli | 23:46:56 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'13.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'27.96" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°1'15.89" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|13°1'14.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'28.33" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°1'15.84" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°11'7.87" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°14'23.74" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°26'12.64" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°4'16.49" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°14'23.76" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°26'12.65" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°4'15.71" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'13.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'27.96" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°1'15.89" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|13°1'14.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'28.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°1'15.84" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°11'7.87" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°14'23.74" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°26'12.64" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|6°4'16.49" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°14'23.76" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°26'12.65" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|6°4'15.71" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

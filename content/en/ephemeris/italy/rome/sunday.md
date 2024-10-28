@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Rome
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.8919
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'0.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'4.62" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°3'52.68" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°17'41.65" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°22'19.37" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°35'52.22" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°21'33.15" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°1'1.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'4.99" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°3'52.63" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°17'41.66" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°22'19.39" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°35'52.23" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°21'32.35" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'0.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°48'4.62" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°3'52.68" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|4°17'41.65" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°22'19.37" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°35'52.22" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°21'33.15" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|13°1'1.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°48'4.99" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°3'52.63" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|4°17'41.66" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°22'19.39" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°35'52.23" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°21'32.35" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

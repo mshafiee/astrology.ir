@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Donetsk
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 48.0230
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°1'8.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°48'18.39" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°2'23.27" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°13'56.22" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°17'47.59" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°30'21.12" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°34'43.87" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°1'8.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°48'18.14" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°2'22.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°13'56.88" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°17'48.62" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°30'21.84" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°29'53.44" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°1'8.53" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'18.39" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°2'23.27" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°2'23.27" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°13'56.22" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°17'47.59" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°30'21.12" |Scorpio|Qalb|Venus|

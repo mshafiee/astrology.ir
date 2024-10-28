@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Brussels
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 50.8505
 \-
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'57.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°47'57.68" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'41.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'41.92" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°19'45.03" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°24'48.66" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°38'54.06" |Libra|Jubana|Jupiter|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'57.02" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°47'57.68" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'41.92" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°4'41.92" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°19'45.03" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|11°24'48.66" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°38'54.06" |Scorpio|Qalb|Venus|

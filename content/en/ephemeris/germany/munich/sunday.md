@@ -14,7 +14,7 @@ description: 🗓 Sunday, 27 Oct 2024
 toc: false
 ---
 ## Geographic Information of Munich
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.1374
 \-
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'59.84" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°48'2.78" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|27°4'7.73" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°4'7.73" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°18'19.18" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°23'4.93" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|20°36'47.72" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|7°27'36.48" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|11°23'4.46" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|20°36'47.33" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|7°28'18.67" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°0'59.84" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°48'2.78" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|27°4'7.73" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°4'7.73" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|4°18'19.18" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°23'4.60" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°36'47.85" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|7°37'39.06" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°23'4.93" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|20°36'47.72" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°27'36.48" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
