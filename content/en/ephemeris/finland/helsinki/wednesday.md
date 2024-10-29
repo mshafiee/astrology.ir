@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°55'30.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°36'33.07" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|28°13'29.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°17'33.16" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°59'2.43" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|24°57'14.04" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|13°6'17.98" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|12°55'30.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°36'32.70" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|28°13'29.73" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°17'33.15" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°59'2.38" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|24°57'13.51" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|12°55'55.07" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°55'30.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°36'33.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°13'29.66" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|7°17'33.16" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|12°55'30.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°36'32.70" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°13'29.73" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|7°17'33.15" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|14°59'2.40" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|24°57'13.53" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|12°55'55.23" |Libra|Jubana|Saturn|

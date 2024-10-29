@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:15:49 |
 | Medium Coeli | 12:15:49 |
 | Sunset | 18:09:41 |
-| Maghrib | 18:23:58 |
+| Maghrib | 18:23:57 |
 | Isha (Night) | 19:05:29 |
 | Sharia Midnight | 23:43:46 |
 | Imum Coeli | 00:15:46 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°58'42.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°43'40.85" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|27°32'5.57" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|5°29'28.96" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|12°48'53.54" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|22°20'54.30" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|21°45'5.21" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|20°43'40.84" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|27°32'5.51" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|5°29'28.97" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|12°48'53.58" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|22°20'54.32" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|21°44'51.35" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°58'42.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°43'40.85" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°32'5.57" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|5°29'28.96" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|12°48'53.41" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°20'54.23" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|21°45'52.17" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|20°43'40.84" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°32'5.51" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|5°29'28.97" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|12°48'53.58" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|22°20'54.30" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°45'5.21" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

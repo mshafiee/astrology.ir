@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°16'7.00" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|10°8'23.46" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|18°24'13.44" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|28°59'22.02" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|15°56'0.43" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|28°59'27.87" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|16°59'2.64" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Saturn|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°51'6.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°24'5.05" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°16'0.59" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|10°8'12.54" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|18°24'10.81" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|28°59'22.02" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|15°56'0.43" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|12°51'6.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°24'4.35" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°16'7.08" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|10°8'23.44" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|18°24'13.41" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|28°59'27.84" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°59'2.30" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}

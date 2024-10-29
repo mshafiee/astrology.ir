@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:03:09 |
 | Medium Coeli | 12:03:09 |
 | Sunset | 18:08:59 |
-| Maghrib | 18:09:54 |
+| Maghrib | 18:09:53 |
 | Isha (Night) | 19:16:50 |
 | Sharia Midnight | 23:27:05 |
 | Imum Coeli | 00:03:07 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:03:09 |
 | Medium Coeli | 12:03:09 |
 | Sunset | 18:08:59 |
-| Maghrib | 18:09:54 |
+| Maghrib | 18:09:53 |
 | Isha (Night) | 19:08:32 |
 | Sharia Midnight | 23:33:19 |
 | Imum Coeli | 00:03:07 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:03:09 |
 | Medium Coeli | 12:03:09 |
 | Sunset | 18:08:59 |
-| Maghrib | 18:09:54 |
+| Maghrib | 18:09:53 |
 | Isha (Night) | 19:21:00 |
 | Sharia Midnight | 23:27:05 |
 | Imum Coeli | 00:03:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°53'31.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°31'22.56" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|28°40'47.26" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|8°30'52.16" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|16°27'9.65" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|26°41'55.36" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|27°35'45.33" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|12°53'31.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°31'22.18" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|28°40'47.33" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|8°30'52.15" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|16°27'9.62" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|26°41'55.34" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|27°35'44.80" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°53'31.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°31'22.56" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°40'47.26" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|8°30'52.16" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|12°53'31.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°31'22.18" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°40'47.33" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|8°30'52.15" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|16°27'9.65" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|26°41'55.36" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|27°35'45.33" |Libra|Akleel|Jupiter|

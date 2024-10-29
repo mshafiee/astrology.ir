@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:59:58 |
 | Isha (Night) | 19:05:45 |
 | Sharia Midnight | 23:30:46 |
-| Imum Coeli | 00:07:55 |
+| Imum Coeli | 00:07:54 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:59:58 |
 | Isha (Night) | 19:09:58 |
 | Sharia Midnight | 23:30:46 |
-| Imum Coeli | 00:07:55 |
+| Imum Coeli | 00:07:54 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -341,9 +341,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|12°57'25.27" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°40'57.34" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|27°48'28.71" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|6°11'51.64" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°39'56.86" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|23°22'27.55" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|6°11'49.95" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°39'53.74" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|23°22'25.40" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|0°9'51.53" |Libra|Ghafr|Moon|
 
 
