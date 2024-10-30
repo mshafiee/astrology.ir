@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°52'0.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°26'57.05" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|29°2'36.53" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°30'44.52" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|17°39'2.92" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|28°6'36.26" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|9°32'19.02" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|20°26'57.61" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|29°2'30.82" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°30'31.89" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|17°38'58.91" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|28°6'29.00" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|8°11'58.83" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°52'0.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°26'57.03" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°2'36.45" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|9°30'44.54" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|17°39'2.98" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|28°6'36.26" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°32'19.02" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Retrograde|20°26'57.05" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|29°2'36.53" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|9°30'44.52" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|17°39'2.92" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|28°6'36.23" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°32'13.17" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

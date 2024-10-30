@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:32:18 |
+| Fajr (Dawn) | 04:32:19 |
 | Sunrise | 06:06:02 |
 | Dhuhr (Noon) | 13:04:26 |
 | Medium Coeli | 13:04:26 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°50'15.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°21'7.76" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|29°29'33.61" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|29°29'33.61" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|10°46'15.55" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|19°9'39.56" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|29°52'20.51" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°12'45.51" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°11'27.49" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°50'15.02" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°21'7.76" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°29'33.61" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|29°29'33.61" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|10°46'15.55" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|19°9'39.56" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|29°52'20.51" |Scorpio|Shaulah|Venus|

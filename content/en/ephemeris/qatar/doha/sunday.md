@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|05:42:49|06:38:32|Love and attraction of capital|
-|2|Venus|Servant|06:38:33|07:34:17|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Venus|Servant|06:38:33|07:34:17|Unfortunate, no task is suitable|
 |3|Mercury|Servant|07:34:18|08:30:01|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Moon|Servant|08:30:02|09:25:46|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Saturn|Servant|09:25:47|10:21:30|The moon is in Scorpio, Not suitable for doing anything.|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°49'42.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°19'11.72" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|29°37'59.72" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|29°37'59.72" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°10'27.75" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|19°38'37.20" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|0°25'53.16" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|29°25'30.94" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|19°38'24.32" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|0°25'40.89" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|27°58'12.36" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°49'42.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°19'11.69" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°37'57.78" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|11°10'25.92" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|19°38'37.24" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|0°25'52.41" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|29°25'30.94" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|20°19'11.72" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|29°37'59.72" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|11°10'27.75" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|19°38'24.32" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|0°25'40.89" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|27°58'12.36" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

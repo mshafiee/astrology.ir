@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°50'41.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°22'39.70" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|29°22'38.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°26'40.84" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|18°46'10.64" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|29°25'3.02" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|20°25'11.37" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|20°22'40.33" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|29°22'34.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°26'30.80" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|18°46'7.17" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|29°24'57.11" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|19°28'37.58" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Venus|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mars|Mars|Mercury|Sun|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°50'41.51" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°22'39.70" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°22'38.00" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|29°22'38.00" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|10°26'40.84" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|18°46'10.64" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|29°25'3.02" |Scorpio|Shaulah|Venus|

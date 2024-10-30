@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°55'57.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°37'36.51" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|28°7'37.58" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°2'3.38" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°40'22.62" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|24°34'55.76" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|10°3'14.02" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|20°37'36.34" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|28°7'36.53" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°2'3.11" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°40'23.04" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|24°34'55.84" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|9°58'23.21" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Sagittarius|Sun|Venus|
 |♀ Venus|Mercury|Mars|Aries|Moon|Mars|
 |☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°55'57.19" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°37'36.51" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°7'37.58" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|28°7'37.58" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|7°2'3.38" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|14°40'22.62" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|24°34'55.76" |Scorpio|Shaulah|Venus|

@@ -222,7 +222,7 @@ Timetable of twelve day and night planetary hours
 |4|Moon|Servant|08:56:20|09:53:48|Unfortunate and repelling goodness|
 |5|Saturn|Servant|09:53:49|10:51:18|Separation, vengeful and hostile deeds|
 |6|Jupiter|Servant|10:51:19|11:48:48|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mars|Servant|11:48:49|12:46:17|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Mars|Servant|11:48:49|12:46:17|No task is suitable, causes misfortune|
 |8|Sun|Ruler|12:46:18|13:43:47|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Venus|Servant|13:43:48|14:41:17|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mercury|Servant|14:41:18|15:38:46|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°48'37.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°14'56.20" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|29°56'2.84" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|12°2'42.88" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|20°41'11.30" |Scorpio|Qalb|Venus|
-|☿ Mercury|Direct|1°37'55.29" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°8'5.48" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|12°48'37.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°14'56.59" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|29°56'2.75" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|12°2'42.90" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|20°41'11.33" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|1°37'55.33" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°8'5.13" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°48'37.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|12°48'37.45" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°14'56.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°56'2.75" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|29°56'2.75" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|12°2'42.90" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|20°41'11.33" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|1°37'55.33" |Sagittarius|Shaulah|Mercury|

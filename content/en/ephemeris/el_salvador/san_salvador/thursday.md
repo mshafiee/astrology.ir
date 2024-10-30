@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°51'57.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°26'46.00" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|29°3'29.29" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°33'10.85" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|17°41'58.50" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|28°10'2.19" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|10°1'43.09" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Retrograde|20°26'46.87" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|29°3'25.49" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°32'58.20" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|17°41'53.44" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|28°9'54.44" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|8°42'3.27" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mars|Mars|Mercury|Sun|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°51'57.06" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°26'46.00" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°3'29.29" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|29°3'29.29" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|9°33'10.85" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|17°41'58.50" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|28°10'2.19" |Scorpio|Shaulah|Venus|

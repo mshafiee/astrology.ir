@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:20:02 |
 | Dhuhr (Noon) | 11:45:58 |
 | Medium Coeli | 11:45:58 |
-| Sunset | 17:11:29 |
+| Sunset | 17:11:30 |
 | Maghrib | 17:30:48 |
 | Isha (Night) | 18:17:09 |
-| Sharia Midnight | 23:04:22 |
+| Sharia Midnight | 23:04:23 |
 | Imum Coeli | 23:45:57 |
 {{< /tab >}}
 
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:20:02 |
 | Dhuhr (Noon) | 11:45:58 |
 | Medium Coeli | 11:45:58 |
-| Sunset | 17:11:29 |
+| Sunset | 17:11:30 |
 | Maghrib | 17:12:37 |
 | Isha (Night) | 18:31:37 |
-| Sharia Midnight | 23:03:39 |
+| Sharia Midnight | 23:03:40 |
 | Imum Coeli | 23:45:57 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:20:02 |
 | Dhuhr (Noon) | 11:45:58 |
 | Medium Coeli | 11:45:58 |
-| Sunset | 17:11:29 |
+| Sunset | 17:11:30 |
 | Maghrib | 17:12:37 |
 | Isha (Night) | 18:21:58 |
-| Sharia Midnight | 23:10:53 |
+| Sharia Midnight | 23:10:54 |
 | Imum Coeli | 23:45:57 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:20:02 |
 | Dhuhr (Noon) | 11:45:58 |
 | Medium Coeli | 11:45:58 |
-| Sunset | 17:11:29 |
+| Sunset | 17:11:30 |
 | Maghrib | 17:12:37 |
 | Isha (Night) | 18:34:01 |
 | Sharia Midnight | 23:00:03 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:20:02 |
 | Dhuhr (Noon) | 11:45:58 |
 | Medium Coeli | 11:45:58 |
-| Sunset | 17:11:29 |
+| Sunset | 17:11:30 |
 | Maghrib | 17:12:37 |
 | Isha (Night) | 18:36:25 |
-| Sharia Midnight | 23:03:39 |
+| Sharia Midnight | 23:03:40 |
 | Imum Coeli | 23:45:57 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:51:27|Night duration: 13:09:26|
+|Duration of the day: 10:51:28|Night duration: 13:09:25|
 |Every hour of day duration: 00:54:17|Every hour of night duration: 01:05:47|
 
  
@@ -218,26 +218,26 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|06:20:02|07:14:18|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|07:14:19|08:08:35|Destruction of enemies|
-|3|Sun|Servant|08:08:36|09:02:52|Attraction of financial and emotional love|
-|4|Venus|Servant|09:02:53|09:57:10|Creating love, connection and marriage|
+|3|Sun|Servant|08:08:36|09:02:53|Attraction of financial and emotional love|
+|4|Venus|Servant|09:02:54|09:57:10|Creating love, connection and marriage|
 |5|Mercury|Servant|09:57:11|10:51:27|Indulgence|
-|6|Moon|Servant|10:51:28|11:45:44|Outer and inner journey|
-|7|Saturn|Servant|11:45:45|12:40:01|Achieving status and power|
-|8|Jupiter|Ruler|12:40:02|13:34:19|Attraction of happiness and fortune|
-|9|Mars|Servant|13:34:20|14:28:36|Reaching status and promotion|
-|10|Sun|Servant|14:28:37|15:22:53|Fulfilling needs|
-|11|Venus|Servant|15:22:54|16:17:10|Attraction of love and hearts|
-|12|Mercury|Servant|16:17:11|17:11:28|Attracting misfortune, not suitable for any task|
+|6|Moon|Servant|10:51:28|11:45:45|Outer and inner journey|
+|7|Saturn|Servant|11:45:46|12:40:02|Achieving status and power|
+|8|Jupiter|Ruler|12:40:03|13:34:19|Attraction of happiness and fortune|
+|9|Mars|Servant|13:34:20|14:28:37|Reaching status and promotion|
+|10|Sun|Servant|14:28:38|15:22:54|Fulfilling needs|
+|11|Venus|Servant|15:22:55|16:17:11|Attraction of love and hearts|
+|12|Mercury|Servant|16:17:12|17:11:29|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|17:11:29|18:17:15|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|18:17:16|19:23:02|Destruction of enemies|
-|3|Jupiter|Servant|19:23:03|20:28:49|Attraction of financial and emotional love|
-|4|Mars|Servant|20:28:50|21:34:36|Creating love, connection and marriage|
-|5|Sun|Servant|21:34:37|22:40:23|Indulgence|
-|6|Venus|Servant|22:40:24|23:46:11|Outer and inner journey|
+|1|Moon|Ruler|17:11:30|18:17:16|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|18:17:17|19:23:03|Destruction of enemies|
+|3|Jupiter|Servant|19:23:04|20:28:50|Attraction of financial and emotional love|
+|4|Mars|Servant|20:28:51|21:34:37|Creating love, connection and marriage|
+|5|Sun|Servant|21:34:38|22:40:24|Indulgence|
+|6|Venus|Servant|22:40:25|23:46:11|Outer and inner journey|
 |7|Mercury|Servant|23:46:12|00:51:58|Achieving status and power|
 |8|Moon|Ruler|00:51:59|01:57:45|Attraction of happiness and fortune|
 |9|Saturn|Servant|01:57:46|03:03:32|Reaching status and promotion|
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°54'1.61" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°32'44.69" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|28°33'44.94" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|28°33'44.94" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|8°11'49.08" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|16°4'16.00" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|26°14'48.81" |Libra|Akleel|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°54'1.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°32'44.21" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°33'44.48" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|8°11'49.15" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°4'16.33" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|26°14'49.00" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|23°50'34.84" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|20°32'44.69" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|28°33'44.94" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|8°11'49.08" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°4'16.00" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|26°14'48.81" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°51'3.03" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

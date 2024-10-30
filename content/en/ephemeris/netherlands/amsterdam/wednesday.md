@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°55'27.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°36'23.59" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|28°14'20.91" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°19'50.30" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°1'46.89" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|25°0'29.78" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|13°27'31.55" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|20°36'23.27" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|28°14'15.26" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°19'44.21" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°1'46.44" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|25°0'27.00" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|12°35'15.14" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Sagittarius|Sun|Venus|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Mars|Venus|Leo|Moon|Moon|
-|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°55'27.05" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°36'23.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°14'20.91" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|28°14'20.91" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|7°19'50.30" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°1'46.89" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|25°0'29.78" |Scorpio|Shaulah|Venus|
