@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'32.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°10'12.45" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|0°15'9.60" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°59'9.63" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|21°48'42.90" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|2°54'57.11" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|21°40'58.98" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|12°47'31.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°10'12.06" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°15'9.69" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°59'9.60" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|21°48'42.87" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|2°54'57.07" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|21°40'59.37" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|12°59'9.63" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|21°48'42.90" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|2°54'57.11" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|20°10'11.10" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|21°40'58.98" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Saturn|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Aries|Moon|Mars|
 |♀ Venus|Moon|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

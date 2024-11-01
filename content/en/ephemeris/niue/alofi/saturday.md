@@ -233,7 +233,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|18:28:38|19:24:21|Related to talismans, amulets and responses|
-|2|Moon|Servant|19:24:22|20:20:06|Peace among people|
+|2|Moon|Servant|19:24:22|20:20:06|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Saturn|Servant|20:20:07|21:15:51|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|21:15:52|22:11:35|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mars|Servant|22:11:36|23:07:20|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°48'58.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°16'23.54" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|29°50'7.39" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°45'14.76" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|20°20'17.57" |Scorpio|Qalb|Venus|
-|☿ Mercury|Direct|1°13'56.79" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|6°7'34.95" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|20°16'22.79" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|29°50'4.76" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°45'16.94" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|20°20'20.23" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|1°13'59.05" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|6°25'11.34" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

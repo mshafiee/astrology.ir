@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:03:09 |
 | Medium Coeli | 12:03:09 |
 | Sunset | 18:08:59 |
-| Maghrib | 18:09:54 |
+| Maghrib | 18:09:53 |
 | Isha (Night) | 19:18:55 |
 | Sharia Midnight | 23:23:58 |
 | Imum Coeli | 00:03:07 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:03:09 |
 | Medium Coeli | 12:03:09 |
 | Sunset | 18:08:59 |
-| Maghrib | 18:09:54 |
+| Maghrib | 18:09:53 |
 | Isha (Night) | 19:21:00 |
 | Sharia Midnight | 23:27:05 |
 | Imum Coeli | 00:03:07 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°53'31.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°31'22.33" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|28°40'46.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|8°30'52.80" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|16°27'10.34" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|26°41'55.96" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|27°38'42.46" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|20°31'22.56" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|28°40'47.26" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|8°30'52.16" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|16°27'9.65" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|26°41'55.36" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|27°35'45.33" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

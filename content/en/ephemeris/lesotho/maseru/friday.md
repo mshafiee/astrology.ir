@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:53:37 |
 | Sunset | 18:31:15 |
 | Maghrib | 18:36:17 |
-| Isha (Night) | 19:53:35 |
+| Isha (Night) | 19:53:34 |
 | Sharia Midnight | 23:09:39 |
 | Imum Coeli | 23:53:36 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°52'29.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°28'23.13" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|28°55'44.11" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°11'41.85" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|17°16'10.88" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|27°39'44.88" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|5°26'44.92" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|12°52'28.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°28'22.75" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|28°55'43.45" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°11'40.56" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|17°16'12.04" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|27°39'44.91" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|5°33'20.57" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|9°11'39.14" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|17°16'9.72" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|27°39'43.17" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°43'34.38" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°26'44.92" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

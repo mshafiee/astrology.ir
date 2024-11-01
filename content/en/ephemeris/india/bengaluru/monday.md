@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:14:20 |
 | Dhuhr (Noon) | 12:03:11 |
 | Medium Coeli | 12:03:11 |
-| Sunset | 17:51:53 |
+| Sunset | 17:51:52 |
 | Maghrib | 18:08:43 |
 | Isha (Night) | 18:48:54 |
-| Sharia Midnight | 23:26:56 |
+| Sharia Midnight | 23:26:55 |
 | Imum Coeli | 00:03:11 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:14:20 |
 | Dhuhr (Noon) | 12:03:11 |
 | Medium Coeli | 12:03:11 |
-| Sunset | 17:51:53 |
+| Sunset | 17:51:52 |
 | Maghrib | 17:56:25 |
 | Isha (Night) | 19:05:44 |
-| Sharia Midnight | 23:26:18 |
+| Sharia Midnight | 23:26:17 |
 | Imum Coeli | 00:03:11 |
 {{< /tab >}}
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|20°14'42.09" |Taurus|Dabaran|Saturn|
 |♂ Mars|Pre-Retrograde Shadow|29°57'2.80" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|12°5'38.44" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|20°44'42.00" |Scorpio|Qalb|Venus|
-|☿ Mercury|Direct|1°41'56.40" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°46'23.51" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|20°44'41.44" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|1°41'56.12" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°43'45.24" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°48'34.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°14'41.90" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|29°57'1.74" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|12°5'38.39" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|20°44'42.00" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|1°41'56.40" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|10°46'23.51" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|12°48'33.74" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°14'41.70" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|29°57'2.88" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|12°5'38.42" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|20°44'41.41" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|1°41'56.09" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|10°43'45.60" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

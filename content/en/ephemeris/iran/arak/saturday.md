@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|10°11'10.63" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|18°27'33.69" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|29°3'21.51" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|17°35'34.99" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|17°34'55.87" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
