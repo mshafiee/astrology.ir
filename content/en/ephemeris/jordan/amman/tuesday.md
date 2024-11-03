@@ -233,7 +233,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|17:42:50|18:49:01|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Jupiter|Servant|18:49:02|19:55:13|Attracting misfortune, no task is suitable|
+|2|Jupiter|Servant|18:49:02|19:55:13|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|19:55:14|21:01:25|Attracting connection and suitors|
 |4|Sun|Servant|21:01:26|22:07:37|Attracting material wealth, earnings and business prosperity|
 |5|Venus|Servant|22:07:38|23:13:49|Attracting misfortune, no task is suitable|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'15.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°8'58.23" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|0°20'7.97" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°13'46.72" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|22°6'10.31" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°14'45.67" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|24°14'45.24" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|12°47'15.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°8'57.19" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°20'3.27" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°13'48.84" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|22°6'14.09" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°14'48.52" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|24°42'5.31" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

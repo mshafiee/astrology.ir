@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:49:50 |
+| Fajr (Dawn) | 04:49:51 |
 | Sunrise | 06:24:14 |
 | Dhuhr (Noon) | 11:42:53 |
 | Medium Coeli | 11:42:53 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°45'32.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°59'46.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|0°54'0.22" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°57'50.68" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|24°10'28.35" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|12°45'32.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°59'46.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|0°54'0.27" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°57'50.70" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|24°10'28.33" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|5°33'57.97" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|16°29'15.93" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|16°29'2.98" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

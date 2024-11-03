@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:00:16 |
+| Fajr (Dawn) | 05:00:15 |
 | Sunrise | 06:44:31 |
 | Dhuhr (Noon) | 11:40:36 |
 | Medium Coeli | 11:40:36 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'13.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°8'46.56" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|0°20'43.69" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°15'48.53" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|22°8'37.67" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°17'30.97" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|25°2'38.95" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|12°47'13.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°8'46.95" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°20'43.60" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°15'48.55" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|22°8'37.70" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°17'31.01" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|25°2'38.60" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'13.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°8'46.56" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|0°20'43.69" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|13°15'48.53" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|22°8'37.71" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|3°17'30.92" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|25°2'41.00" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|12°47'13.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°8'46.95" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|0°20'43.60" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|13°15'48.55" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|22°8'37.70" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|3°17'31.01" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|25°2'38.60" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

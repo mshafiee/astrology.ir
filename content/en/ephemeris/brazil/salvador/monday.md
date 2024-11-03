@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:37:06|Night duration: 11:22:37|
+|Duration of the day: 12:37:06|Night duration: 11:22:38|
 |Every hour duration: 01:48:09|Every hour duration: 01:37:31|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Saturn|Servant|22:28:47|00:06:17|
 |Rooster song|Jupiter|Servant|00:06:18|01:43:48|
 |False Dawn|Mars|Servant|01:43:49|03:21:19|
-|Dawn|Sun|Servant|03:21:20|04:58:50|
+|Dawn|Sun|Servant|03:21:20|04:58:51|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'4.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°8'4.72" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|0°23'25.74" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°23'55.66" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|22°18'19.88" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°28'29.22" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|26°43'31.74" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|12°47'5.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°8'5.10" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°23'25.66" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°23'55.72" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|22°18'19.96" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°28'29.32" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|26°43'32.11" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'4.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°8'4.72" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|0°23'25.74" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|13°23'55.66" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|22°18'19.88" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|3°28'29.22" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|26°43'31.74" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|12°47'5.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°8'5.10" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|0°23'25.66" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|13°23'55.72" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|22°18'19.96" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|3°28'29.32" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|26°43'32.11" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

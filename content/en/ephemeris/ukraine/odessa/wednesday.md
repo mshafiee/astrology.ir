@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|14°16'3.24" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|23°20'36.03" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|4°38'28.04" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|7°36'38.52" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°8'15.18" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Sun|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°46'11.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°3'31.27" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|0°40'32.63" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|14°16'3.24" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|23°20'36.03" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|4°38'28.04" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°36'38.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|12°46'11.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°3'32.52" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|0°40'30.49" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|14°15'48.90" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|23°20'29.54" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|4°38'18.61" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°8'15.18" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Mercury|
 |☿ Mercury|Mars|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}

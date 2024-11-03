@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:14:20 |
 | Dhuhr (Noon) | 12:03:11 |
 | Medium Coeli | 12:03:11 |
-| Sunset | 17:51:53 |
+| Sunset | 17:51:52 |
 | Maghrib | 17:56:25 |
 | Isha (Night) | 19:03:38 |
-| Sharia Midnight | 23:23:09 |
+| Sharia Midnight | 23:23:08 |
 | Imum Coeli | 00:03:11 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:14:20 |
 | Dhuhr (Noon) | 12:03:11 |
 | Medium Coeli | 12:03:11 |
-| Sunset | 17:51:52 |
+| Sunset | 17:51:53 |
 | Maghrib | 17:56:25 |
 | Isha (Night) | 19:05:44 |
-| Sharia Midnight | 23:26:17 |
+| Sharia Midnight | 23:26:18 |
 | Imum Coeli | 00:03:11 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:37:33|Night duration: 12:22:46|
+|Duration of the day: 11:37:32|Night duration: 12:22:47|
 |Every hour of day duration: 00:58:08|Every hour of night duration: 01:01:54|
 
  
@@ -219,26 +219,26 @@ Timetable of twelve day and night planetary hours
 |1|Moon|Ruler|06:14:20|07:12:26|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Saturn|Servant|07:12:27|08:10:34|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Jupiter|Servant|08:10:35|09:08:42|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mars|Servant|09:08:43|10:06:50|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Sun|Servant|10:06:51|11:04:57|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Mars|Servant|09:08:43|10:06:49|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Sun|Servant|10:06:50|11:04:57|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|11:04:58|12:03:05|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mercury|Servant|12:03:06|13:01:13|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Moon|Ruler|13:01:14|13:59:21|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Saturn|Servant|13:59:22|14:57:28|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Jupiter|Servant|14:57:29|15:55:36|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Mars|Servant|15:55:37|16:53:44|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Sun|Servant|16:53:45|17:51:52|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Mercury|Servant|12:03:06|13:01:12|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Moon|Ruler|13:01:13|13:59:20|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Saturn|Servant|13:59:21|14:57:28|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Jupiter|Servant|14:57:29|15:55:35|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Mars|Servant|15:55:36|16:53:43|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Sun|Servant|16:53:44|17:51:51|The moon is in Scorpio, Not suitable for doing anything.|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|17:51:53|18:53:45|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mercury|Servant|18:53:46|19:55:39|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Moon|Servant|19:55:40|20:57:33|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Saturn|Servant|20:57:34|21:59:27|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Jupiter|Servant|21:59:28|23:01:21|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mars|Servant|23:01:22|00:03:15|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Sun|Servant|00:03:16|01:05:08|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Venus|Ruler|17:51:52|18:53:44|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mercury|Servant|18:53:45|19:55:38|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Moon|Servant|19:55:39|20:57:32|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Saturn|Servant|20:57:33|21:59:26|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Jupiter|Servant|21:59:27|23:01:20|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mars|Servant|23:01:21|00:03:14|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Sun|Servant|00:03:15|01:05:08|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Venus|Ruler|01:05:09|02:07:02|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mercury|Servant|02:07:03|03:08:56|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Moon|Servant|03:08:57|04:10:50|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°48'33.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°14'42.09" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|29°57'2.80" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|12°5'38.44" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|20°44'41.44" |Scorpio|Qalb|Venus|
-|☿ Mercury|Direct|1°41'56.12" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°43'45.24" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|12°48'33.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°14'41.70" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|29°57'2.88" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|12°5'38.42" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|20°44'41.41" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|1°41'56.09" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°43'45.60" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|12°5'38.42" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|20°44'41.41" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|1°41'56.09" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|10°43'45.60" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|10°46'23.51" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

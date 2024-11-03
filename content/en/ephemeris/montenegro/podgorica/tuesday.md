@@ -232,7 +232,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|16:31:01|17:40:18|Creating corruption, hatred and enmity|
+|1|Saturn|Ruler|16:31:01|17:40:18|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Jupiter|Servant|17:40:19|18:49:37|Attracting misfortune, no task is suitable|
 |3|Mars|Servant|18:49:38|19:58:56|Attracting connection and suitors|
 |4|Sun|Servant|19:58:57|21:08:15|Attracting material wealth, earnings and business prosperity|
