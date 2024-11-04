@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:02:31|07:03:02|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Sun|Ruler|06:02:31|07:03:02|Love and attraction of capital|
 |2|Venus|Servant|07:03:03|08:03:34|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mercury|Servant|08:03:35|09:04:06|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Moon|Servant|09:04:07|10:04:38|The moon is in Scorpio, Not suitable for doing anything.|
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°49'35.36" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°18'43.74" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|29°40'1.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°40'1.72" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°16'17.27" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|19°45'36.08" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|0°33'57.25" |Scorpio|Akleel|Mars|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°49'35.36" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°18'43.74" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|29°40'1.72" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|29°40'1.72" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|11°16'17.27" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|19°45'36.08" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|0°33'44.03" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|28°56'47.44" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|0°33'57.25" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°40'25.28" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Mercury|Saturn|Mars|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Jupiter|Mars|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}

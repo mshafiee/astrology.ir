@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°49'38.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°18'56.60" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|29°39'4.02" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°13'31.46" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|19°42'17.51" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|0°30'7.81" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|0°6'30.63" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|12°49'38.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°18'56.99" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|29°39'7.62" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°13'30.19" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|19°42'14.82" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|0°30'5.93" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|29°52'50.30" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°49'38.77" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°18'56.60" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|29°39'4.02" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|29°39'4.02" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|11°13'31.46" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|19°42'17.51" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|0°30'7.81" |Sagittarius|Shaulah|Mercury|

@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'3.59" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°49'38.64" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°28'4.64" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°28'4.64" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°46'56.34" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°20'30.65" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|7°56'5.99" |Scorpio|Akleel|Mars|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'3.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°49'38.64" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°28'4.64" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°46'56.34" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|19°49'38.74" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°27'58.74" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°46'48.62" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|26°20'30.00" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|7°56'2.40" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|10°46'38.32" |Aquarius|SaadAlAkhbia|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파

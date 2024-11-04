@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'25.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°52'21.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°19'14.10" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°19'14.10" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°18'9.05" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|25°46'13.03" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|7°19'0.25" |Scorpio|Akleel|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'25.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°52'21.88" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°19'14.10" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°18'9.05" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°46'13.03" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°19'0.25" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°44'43.60" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|19°52'22.43" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°19'11.82" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°18'2.43" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°46'10.86" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°18'56.29" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°59'20.71" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Birziminium, Padgoryca, Podgairitse, Podgairítse, Podgorica, Podgoricae, Podgoricja, Podgorico, Podgorika, Podgoritsa, Podgoritza, Podgorytsa, Podgòrica, Podqoritsa, Podugorica, Pontnkoritsa, TGD, Titograd, bo de ge li cha, bwdghwrytsa, padagoritasa, phx dk xrit sa, podagorika, podeugolicha, podogoritsu~a, potkorikka, pwdgwrytsa, pwdgwryzh, pۆdgۆrytsa, Ποντγκόριτσα, Падгорыца, Подгоритса, Подгорицæ, Подгорица, Подгориця, Подъгорица, Պոդգորիցա, פודגוריצה, بودغوريتسا, پودگوریتسا, پوڈگوریکا, پۆدگۆریتسا, पॉडगोरिका, ਪਾਡਗੋਰਿਤਸਾ, பொட்கொரிக்கா, พอดกอรีตซา, პოდგორიცა, ፖድጎሪጻ, ポドゴリツァ, 波德戈里察, 포드고리차

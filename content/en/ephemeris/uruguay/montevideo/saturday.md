@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Mars|Servant|22:44:09|23:36:06|Auspicious|
 |6|Sun|Servant|23:36:07|00:28:04|Writing, swapping and making promises|
 |7|Venus|Servant|00:28:05|01:20:02|Not suitable for any task|
-|8|Mercury|Ruler|01:20:03|02:12:00|Destruction of enemies|
+|8|Mercury|Ruler|01:20:03|02:12:00|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Moon|Servant|02:12:01|03:03:58|All good deeds|
 |10|Saturn|Servant|03:03:59|03:55:56|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Jupiter|Servant|03:55:57|04:47:54|The moon is in Scorpio, Not suitable for doing anything.|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°49'24.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°18'0.43" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|29°43'11.51" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°25'18.40" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|19°56'26.03" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|0°46'27.50" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°11'32.73" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|29°43'7.89" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°25'13.25" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|19°56'25.23" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|0°46'24.96" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°49'56.37" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°49'24.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°18'0.43" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|29°43'11.51" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|11°25'18.40" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|19°56'26.03" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|0°46'27.50" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°10'39.97" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|12°49'23.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°18'0.31" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°43'7.81" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|11°25'13.28" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|19°56'25.26" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|0°46'24.96" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|1°49'56.37" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

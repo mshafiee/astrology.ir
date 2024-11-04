@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°45'17.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°58'16.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|0°59'14.16" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°14'16.75" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|24°30'4.53" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|5°55'38.35" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|19°59'23.24" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Retrograde|12°45'17.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°58'16.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°59'14.25" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°14'14.41" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|24°30'4.80" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|5°55'37.53" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|20°11'6.96" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Saturn|Mercury|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aries|Moon|Moon|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°45'17.62" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°58'16.89" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|0°59'14.16" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|0°59'14.16" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|15°14'16.75" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|24°30'4.53" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|5°55'38.35" |Sagittarius|NaAaem|Mercury|

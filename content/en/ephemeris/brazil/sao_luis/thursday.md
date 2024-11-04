@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'18.92" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°51'37.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°21'40.26" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°21'40.26" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°26'3.83" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°55'38.30" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°29'13.52" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|5°28'51.69" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|25°55'29.91" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°29'2.40" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°29'36.03" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'18.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°51'37.22" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°21'40.26" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°26'3.83" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°55'38.30" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°29'13.52" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|5°28'51.69" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|19°51'39.43" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°21'40.72" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°25'48.30" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°55'29.91" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°29'2.40" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°29'36.03" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Maranham, Maranhao, Maranhão, SLZ, San Luisas, San-Luis, Sao Louis, Sao Luis, Sao Luis do Maranhao, Sao Luiz, Sao Luiz de Maranhao, Sao Luiz do Maranhao, Saun Luis, Saun Luís, São Luis, São Luiz, São Luiz de Maranhão, São Luiz do Maranhão, São Luís, São Luís do Maranhão, cavo luyicu, sa'o lu'isa, san-luisi, sanglu-iseu, saw lwyys, saw lwyz, sayw lwyys  maranhaw, sheng lu yi si, Σάο Λουίς, Сан-Луис, Сан-Луіс, Сан-Луїс, Сао Луис, סאו לואיס, ساؤ لوئیس, ساؤ لوئیس، مارانہاؤ, سائو لوئیس، مارانهاو, ساو لويز, साओ लुईस, সাও লুইস, சாவோ லூயிசு, სან-ლუისი, サン・ルイス, 圣路易斯, 상루이스

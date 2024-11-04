@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'32.31" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°53'14.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°16'18.76" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°16'18.76" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°8'43.15" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|25°34'58.51" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°6'46.90" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°43'26.94" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|7°6'46.87" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°42'16.43" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'32.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°53'14.52" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°16'18.66" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°8'43.14" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°34'58.60" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°6'46.90" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°43'26.94" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|12°44'32.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°53'14.95" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°16'18.76" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°8'43.15" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°34'58.51" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°6'46.87" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°42'16.43" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: PEW, Pesabar, Pesavar, Pesavara, Pesavaras, Pesavaro, Pesaver, Peschawar, Peshavar, Peshawar, Peshovar, Peshāwar, Pesjawar, Peszawar, Pexauar, Peŝavaro, Peşaver, Pešavaras, Pešāvara, Pişəvər, Péšávar, bai sha wa, byshawr, pecavar, pes war, pesa'oyara, pesavara, peshawaru, pesyawaleu, pshawr, pyshawr, Πεσαβάρ, Пешавар, Փեշավար, פשאוור, بيشاور, پشاور, پیشاور, پېشاۋار, پېښور, पेशावर, পেশাওয়ার, ਪੇਸ਼ਾਵਰ, பெசாவர், പെഷവാർ, เปศวาร์, პეშავარი, ペシャーワル, 白沙瓦, 페샤와르

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'24.77" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°52'19.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°19'23.94" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°18'35.53" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°46'44.06" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°19'34.33" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°41'10.98" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|1°19'22.68" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°18'34.87" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°46'44.43" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°19'34.26" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°48'59.67" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'24.77" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°52'19.53" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°19'22.68" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°19'22.68" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°18'34.87" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|25°46'44.43" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|7°19'34.26" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°41'10.98" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|3°48'59.67" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: IVilnyusi, VNO, Vil'njus, Vil'no, Vil'nyus, Viln', Vilna, Vilnia, Vilnias, Vilniaus miestas, Vilnious, Vilnis, Vilnius, Vilnjus, Vilnjûs, Vilnues, Vilnus, Vilnyus, Vilníus, Vilnüs, Viļņa, Vílnius, Wilna, Wilnius, Wilno, Wilnus, Wilñus, bhilani'usa, bilnyuseu, fylnyws, vhilniyasa, vilniusi, vilniyas, vu~irinyusu, vylnyws, wei er niu si, wi lni xus, wlnys, wylnh, wylnyws, Βίλνα, Βίλνιους, Βιλνιους, Вилниус, Вилнус, Вилнюс, Вилн҄ь, Вильнюс, Вилњус, Виљнус, Вільнюс, Վիլնյուս, ווילנע, וילנה, فيلنيوس, ولنیس, ویلنیوس, ڤیلنیوس, व्हिल्नियस, ভিলনিউস, வில்னியஸ், วิลนีอุส, ལྦེ་ནི་སུ་ནི།, ვილნიუსი, ቪልኒውስ, ᕕᓪᓂᐅᔅ/vilnius, ヴィリニュス, 维尔纽斯, 빌뉴스

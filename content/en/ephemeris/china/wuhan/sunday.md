@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:16:12 |
+| Fajr (Dawn) | 05:16:13 |
 | Sunrise | 06:38:58 |
 | Dhuhr (Noon) | 12:06:28 |
 | Medium Coeli | 12:06:28 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°48'40.23" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°15'7.87" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|29°55'16.02" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°55'16.02" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|12°0'26.12" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|20°38'27.75" |Scorpio|Qalb|Venus|
 |☿ Mercury|Direct|1°34'47.76" |Scorpio|Akleel|Mars|
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°48'40.23" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°15'7.87" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|29°55'16.02" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|29°55'16.02" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|12°0'26.12" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|20°38'27.75" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|20°38'17.20" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|1°34'47.76" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|9°38'53.85" |Sagittarius|NaAaem|Mercury|
 

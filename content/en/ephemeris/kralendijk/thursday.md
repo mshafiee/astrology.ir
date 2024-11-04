@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'15.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°51'10.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°23'7.84" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°30'49.79" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|26°1'18.64" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°35'22.12" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|6°31'51.08" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|12°44'15.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°51'9.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°23'7.93" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°30'49.78" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|26°1'18.62" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°35'22.09" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|6°31'50.81" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'15.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°51'11.22" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°23'9.83" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°30'43.63" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°1'14.30" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°35'17.16" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°20'51.62" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|12°44'15.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°51'9.74" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°23'7.93" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°30'49.78" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°1'18.62" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°35'22.09" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°31'50.81" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Kralendajk, Kralendehjk, Kralendeikas, Kralendejk, Kralendijk, Kralendiyk, Kralentik, Playa, ke la lun dai ke, keulallendeikeu, kralndyk, kralyndayk, kurarendaiku, Κράλεντικ, Кралендайк, Кралендајк, Кралендейк, Кралендэйк, Կրալենդիյկ, كراليندايك, کرالندیک, کرالن‌دیک, კრალენდეიკი, クラレンダイク, 克拉伦代克, 크랄렌데이크

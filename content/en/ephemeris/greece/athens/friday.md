@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'25.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°52'27.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°18'53.22" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°17'1.61" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°44'52.51" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°17'32.81" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°30'23.95" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|12°44'25.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°52'28.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°18'53.12" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°17'1.63" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°44'52.53" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°17'32.84" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°30'24.18" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'25.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°52'27.80" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°18'53.22" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°17'1.61" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°44'52.51" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°17'32.81" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°30'23.95" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|12°44'25.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°52'28.20" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°18'53.12" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°17'1.63" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°44'52.53" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°17'27.46" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°49'33.00" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Taurus|Sun|Sun|
 |♀ Venus|Saturn|Mars|Libra|Moon|Mercury|
 |☿ Mercury|Mars|Mercury|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: ATH, Afina, Afini, Afiny, An Aithin, Ateena, Atehny, Aten, Atena, Atenai, Atenas, Atenas - Athena, Atenas - Αθήνα, Atene, Atenes, Ateni, Ateno, Atenoj, Ateny, Athen, Athena, Athenae, Athenai, Athene, Athenes, Athens, Atheny, Athina, Athinai, Athinia, Athènes, Athén, Athénes, Athény, Athína, Athínai, Atina, Atény, Atēnas, Atėnai, Aþena, Kota Athena, Lungsod ng Athina, Lungsod ng Athína, atene, atene si, ateni, athensa, athyna, atn, etens, xethens, ya dian, Αθήνα, Αθήναι, Αθηνα, Αθηναι, Атина, Атэны, Афины, Афіни, Аѳины, Աթենք, אתונה, آتن, أثينا, ئافېنا, ܐܬܝܢܐ, अथेन्स, ஏதென்ஸ், เอเธนส์, ათენი, Ἀθῆναι, アテネ, 雅典, 아테네, 아테네 시

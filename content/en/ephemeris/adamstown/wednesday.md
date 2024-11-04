@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'56.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°56'1.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°7'2.13" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°38'55.24" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|24°59'28.63" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|6°27'59.17" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|25°11'51.70" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|19°56'1.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°7'9.62" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°38'41.18" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|24°59'16.96" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|6°27'46.95" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|24°13'0.35" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Saturn|Mercury|Moon|Saturn|
 |☿ Mercury|Mars|Venus|Mars|Mars|
-|☾ Moon|Saturn|Mars|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aries|Moon|Moon|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'56.58" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°56'1.46" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°7'2.13" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°7'2.13" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|15°38'55.24" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|24°59'28.63" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|6°27'59.17" |Sagittarius|NaAaem|Mercury|

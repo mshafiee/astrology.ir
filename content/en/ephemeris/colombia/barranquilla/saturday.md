@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Jupiter|Servant|20:38:32|21:39:55|Dominance, judgment and issuing verdict|
 |5|Mars|Servant|21:39:56|22:41:18|Auspicious|
 |6|Sun|Servant|22:41:19|23:42:42|Writing, swapping and making promises|
-|7|Venus|Servant|23:42:43|00:44:06|Not suitable for any task|
+|7|Venus|Servant|23:42:43|00:44:06|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mercury|Ruler|00:44:07|01:45:30|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Moon|Servant|01:45:31|02:46:53|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Saturn|Servant|02:46:54|03:48:17|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°49'16.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°17'32.75" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|29°45'4.79" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|12°49'16.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°17'33.13" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|29°45'4.70" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°30'50.82" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|20°3'2.15" |Scorpio|Qalb|Venus|
 |☿ Mercury|Direct|0°54'4.15" |Scorpio|Akleel|Mars|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°49'16.80" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°17'33.13" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|29°45'4.70" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|29°45'4.70" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|11°30'50.82" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|20°3'2.15" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|0°54'4.15" |Sagittarius|Shaulah|Mercury|

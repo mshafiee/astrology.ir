@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:08:56 |
 | Maghrib | 18:25:28 |
 | Isha (Night) | 19:05:37 |
-| Sharia Midnight | 23:43:16 |
+| Sharia Midnight | 23:43:15 |
 | Imum Coeli | 00:19:21 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°45'57.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°2'14.35" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|0°45'12.01" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°30'27.17" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|23°37'46.72" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|4°57'38.50" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°42'43.69" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|12°45'57.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°2'13.95" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|0°45'12.11" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°30'27.15" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|23°37'46.69" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|4°57'38.46" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°42'43.73" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°45'59.42" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°2'15.14" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|0°45'6.56" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|14°30'14.98" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|12°45'57.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°2'13.95" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°45'12.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|14°30'27.15" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|23°37'43.24" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|4°57'31.58" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|10°41'21.05" |Capricorn|SaadAlDhabib|Mars|

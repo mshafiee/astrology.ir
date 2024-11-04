@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°49'35.38" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|20°18'43.52" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|29°40'2.56" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°16'19.31" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|19°45'38.82" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|0°34'0.39" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|0°38'7.19" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|29°39'56.37" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°16'8.80" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|19°45'36.42" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|0°33'54.79" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|29°51'55.55" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°49'35.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°18'43.52" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|29°40'2.56" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|11°16'19.31" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|19°45'38.82" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|0°34'0.39" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|0°38'7.19" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|12°49'35.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°18'43.14" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°40'2.64" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|11°16'19.29" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|19°45'38.79" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|0°34'0.35" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°38'7.30" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

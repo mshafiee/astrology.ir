@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'15.14" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°51'7.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°23'15.59" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°23'15.59" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°31'12.91" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°1'46.92" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|7°35'52.62" |Scorpio|Akleel|Mars|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'15.14" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°51'7.99" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°23'15.59" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°23'15.59" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°31'12.91" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|26°1'46.92" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|7°35'52.62" |Sagittarius|NaAaem|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: FSP, Saint Pierre, Saint-Pierre, St Pierre, saengpieleu, 생피에르

@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'24.37" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°52'17.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°19'27.36" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°19'27.36" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°18'53.21" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|25°47'5.15" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|7°19'56.92" |Scorpio|Akleel|Mars|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'24.37" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°52'17.74" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°19'27.36" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°19'27.36" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°18'53.21" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°47'5.15" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°19'56.92" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°55'18.68" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|25°46'53.87" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°19'43.38" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°33'12.08" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

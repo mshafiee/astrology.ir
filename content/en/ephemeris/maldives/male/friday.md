@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'33.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°53'28.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°15'49.05" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°6'36.92" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°32'26.25" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°4'3.01" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|0°24'30.38" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|19°53'26.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°15'40.91" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°6'41.27" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°32'33.14" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°4'8.60" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°16'6.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'33.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°53'26.39" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°15'40.91" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°15'40.91" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°6'41.27" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|25°32'33.14" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|7°4'8.60" |Sagittarius|NaAaem|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

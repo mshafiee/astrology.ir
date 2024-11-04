@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 10:50:54|Night duration: 13:09:54|
-|Every hour of day duration: 00:54:15|Every hour of night duration: 01:05:49|
+|Every hour of day duration: 00:54:15|Every hour of night duration: 01:05:50|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°45'30.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°59'34.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|0°54'42.67" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°0'3.79" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|12°45'30.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°59'34.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°54'42.77" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°0'3.77" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|24°13'7.01" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|5°36'53.70" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|16°57'53.41" |Sagittarius|NaAaem|Moon|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°45'30.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°59'34.46" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|0°54'42.67" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|15°0'3.79" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|19°59'34.07" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°54'42.77" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|15°0'3.77" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|24°13'7.01" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|5°36'53.70" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|16°57'53.41" |Capricorn|SaadAlBula|Mars|
