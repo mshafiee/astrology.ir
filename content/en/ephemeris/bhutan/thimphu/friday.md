@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'35.00" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°53'34.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°15'14.73" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|1°15'14.73" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°5'17.25" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|25°30'53.04" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|7°2'19.52" |Scorpio|Akleel|Mars|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'35.00" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°53'34.19" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°15'14.73" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|1°15'14.73" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°5'17.25" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|25°30'53.04" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|7°2'19.52" |Sagittarius|NaAaem|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°48'35.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°14'51.22" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|29°56'35.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|12°4'0.01" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|20°42'41.89" |Scorpio|Qalb|Venus|
-|☿ Mercury|Direct|1°39'40.89" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|9°59'27.29" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Retrograde|20°14'50.05" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|29°56'29.79" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|12°4'1.91" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|20°42'45.93" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|1°39'43.75" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°23'53.43" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Jupiter|Jupiter|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Moon|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Venus|Venus|Pisces|Moon|Mars|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°48'35.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°14'50.05" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°56'29.79" |Cancer|Jabhah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|29°56'29.79" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|12°4'1.91" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|20°42'45.93" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|1°39'43.75" |Sagittarius|Shaulah|Mercury|

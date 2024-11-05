@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°43'51.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°48'2.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°33'22.81" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|12°43'51.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°48'0.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|1°33'22.81" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|17°3'51.21" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°40'38.62" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Direct|8°17'45.66" |Scorpio|Akleel|Mars|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°43'51.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°48'0.56" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°33'14.19" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|17°3'59.72" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°40'47.92" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°17'54.44" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|13°49'39.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|12°43'51.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°48'3.13" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°33'22.72" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|17°3'51.22" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°40'38.64" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°17'54.41" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|13°4'45.00" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도

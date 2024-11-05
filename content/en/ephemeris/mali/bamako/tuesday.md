@@ -225,7 +225,7 @@ Timetable of twelve day and night planetary hours
 |7|Jupiter|Servant|12:15:31|13:13:39|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mars|Ruler|13:13:40|14:11:49|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Sun|Servant|14:11:50|15:09:59|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Venus|Servant|15:10:00|16:08:08|Attracting misfortune, no task is suitable|
+|10|Venus|Servant|15:10:00|16:08:08|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Mercury|Servant|16:08:09|17:06:18|Attracting connection and suitors|
 |12|Moon|Servant|17:06:19|18:04:28|Hatred, corruption and creating negative energy for disruption|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'9.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°8'24.80" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|0°22'8.50" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°20'5.55" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|22°13'44.19" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°23'17.69" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|26°1'18.51" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|12°47'8.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|20°8'24.41" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°22'8.59" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°20'5.53" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|22°13'44.17" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°23'17.65" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|26°1'18.85" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°47'9.15" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|20°8'24.80" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°22'8.50" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°22'8.50" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|13°20'5.55" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|22°13'44.19" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|3°23'17.69" |Sagittarius|Shaulah|Mercury|

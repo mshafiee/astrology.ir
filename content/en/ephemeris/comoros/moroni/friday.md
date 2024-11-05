@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'30.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°53'2.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°17'0.39" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°10'55.66" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°37'36.72" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°9'39.02" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°10'6.33" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|12°44'30.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°53'2.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|1°17'0.30" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°10'55.67" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°37'36.74" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°9'39.06" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°42'5.66" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'30.41" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°53'2.29" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°17'0.39" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|1°17'0.39" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°10'55.66" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|25°37'36.72" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|7°9'39.02" |Sagittarius|NaAaem|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니

@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:07:27 |
+| Fajr (Dawn) | 05:07:26 |
 | Sunrise | 06:38:31 |
 | Dhuhr (Noon) | 11:23:40 |
 | Medium Coeli | 11:23:40 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°43'43.10" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°46'48.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°37'0.23" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°16'26.63" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|26°55'37.67" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|8°33'46.49" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|16°35'37.76" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°36'56.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°16'26.86" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|26°55'39.99" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|8°33'47.86" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|17°0'40.76" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Moon|
 |♀ Venus|Jupiter|Jupiter|Virgo|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Sun|Venus|Cancer|Sun|Venus|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°43'43.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°46'48.76" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°37'0.23" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|17°16'26.63" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°55'37.67" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°33'46.49" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|16°35'37.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|12°43'42.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°46'48.36" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°37'0.33" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|17°16'26.62" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°55'37.65" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°33'47.90" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|17°0'41.19" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Taurus|Sun|Sun|
 |♀ Venus|Saturn|Jupiter|Libra|Moon|Mercury|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
+|☾ Moon|Sun|Jupiter|Leo|Moon|Mars|
 
 
 {{< /tab >}}

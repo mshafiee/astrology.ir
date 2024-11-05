@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°45'26.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°59'13.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°56'12.64" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°4'12.91" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|24°18'3.79" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|5°42'24.05" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|16°53'40.34" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|19°59'11.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|0°56'4.18" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°4'19.68" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|24°18'12.15" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|5°42'31.38" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|17°52'53.82" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Saturn|Mercury|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aries|Moon|Moon|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°45'26.43" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°59'11.24" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°56'4.18" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°56'4.18" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|15°4'19.68" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|24°18'12.15" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|5°42'31.38" |Sagittarius|NaAaem|Mercury|
