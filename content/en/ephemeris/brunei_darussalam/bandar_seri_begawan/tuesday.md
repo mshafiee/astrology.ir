@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Mars|Servant|20:02:33|21:02:51|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|21:02:52|22:03:11|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Venus|Servant|22:03:12|23:03:30|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mercury|Servant|23:03:31|00:03:50|Repelling negative energy of evil eye|
+|6|Mercury|Servant|23:03:31|00:03:50|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|00:03:51|01:04:10|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Saturn|Ruler|01:04:11|02:04:29|Creating corruption, destroying enemies, making enemies sick|
 |9|Jupiter|Servant|02:04:30|03:04:49|Heart tenderness|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|20°4'59.81" |Taurus|Dabaran|Saturn|
 |♂ Mars|Pre-Retrograde Shadow|0°35'5.21" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|13°59'20.65" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|23°0'38.14" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|4°16'6.68" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|4°10'25.85" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|23°0'25.98" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|4°15'53.02" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°52'3.82" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Mars|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

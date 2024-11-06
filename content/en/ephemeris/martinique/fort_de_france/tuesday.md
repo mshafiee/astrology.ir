@@ -220,7 +220,7 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|06:58:53|07:56:39|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Venus|Servant|07:56:40|08:54:26|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mercury|Servant|08:54:27|09:52:13|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Moon|Servant|09:52:14|10:50:00|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Moon|Servant|09:52:14|10:50:00|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|10:50:01|11:47:47|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|11:47:48|12:45:34|Attracting love and hearts|
 |8|Mars|Ruler|12:45:35|13:43:21|Creating corruption, destroying enemies, making enemies sick|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°45'58.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°2'20.70" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|0°44'48.96" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°29'15.91" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|23°36'21.65" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|4°56'3.69" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°27'48.23" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|20°2'24.24" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°44'58.95" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°29'1.81" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|23°36'8.47" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|4°55'50.79" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|9°0'33.13" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Sun|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}

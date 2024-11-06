@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'26.36" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°52'31.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°18'41.24" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°16'24.09" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°44'8.20" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°16'44.54" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°25'0.49" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|1°18'41.63" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°16'24.10" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°44'7.94" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°16'44.39" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°21'58.36" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'26.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°52'31.27" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°18'41.24" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°16'24.09" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°44'8.20" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°16'44.54" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°25'0.49" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|19°52'31.74" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°18'41.63" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°16'24.10" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°44'7.94" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°16'44.39" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°21'58.36" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bizanc, Bizánc, Byzance, Byzantion, Byzantium, Byzanz, Constantinoble, Constantinopla, Constantinople, Constantinopolen, Constantinopoli, Constantinopolis, Costantinopoli, Estambul, IST, Istamboul, Istambul, Istambuł, Istampoul, Istanbul, Istanbúl, Isztambul, Konstantinapoly, Konstantinopel, Konstantinopolo, Konstantinoupoli, Konstantinoupolis, Konstantinápoly, Kustantiniyah, Micklagard, Micklagård, Mikligardur, Mikligarður, Stamboul, Stambul, Stambula, Stambuł, Tsarigrad, Vizantija (Vizantija), Vyzantio, astnbwl, bijantium, byuzantion, byzntywn, iseutanbul, istambula, isutanburu, stin Poli [stimˈboli], yi si tan bu er, İstanbul, Βυζάντιο, Βυζαντιο, Ισταμπουλ, Ισταμπούλ, Κωνσταντινουπολη, Κωνσταντινούπολη, Κωνσταντινούπολις, στην Πόλι [stimˈboli], Византија (Vizantija), Истанбул, Стамбул, ביזנטיון, اسطنبول, इस्तांबुल, ইস্তাম্বুল, イスタンブール, ビュザンティオン, 伊斯坦布尔, 비잔티움, 이스탄불

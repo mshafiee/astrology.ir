@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°47'21.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|20°9'22.43" |Taurus|Dabaran|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|0°18'25.50" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°8'54.83" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|22°0'22.92" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|3°8'10.85" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|23°38'54.40" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|20°9'25.51" |Taurus|Dabaran|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|0°18'32.94" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°8'41.91" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|22°0'11.71" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|3°7'59.63" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°18'8.25" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Mars|Moon|Sagittarius|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'21.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|20°9'22.43" |Gemini|Dhira|Sun|
-|♂ Mars|Pre-Retrograde Shadow|0°18'25.50" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|13°8'54.83" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|12°47'21.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|20°9'25.12" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|0°18'33.03" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|13°8'41.89" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|22°0'22.92" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|3°8'10.85" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|23°38'54.40" |Sagittarius|Baldah|Saturn|

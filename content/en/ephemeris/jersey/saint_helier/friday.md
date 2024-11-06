@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'21.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°51'57.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°20'33.61" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°22'25.52" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°51'18.86" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°24'32.13" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|4°40'3.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|12°44'21.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°51'57.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|1°20'33.51" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°22'25.53" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°51'18.88" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°24'32.16" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°40'3.89" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'21.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°51'57.38" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°20'33.61" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°22'25.52" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°51'18.86" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°24'32.13" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|4°40'3.65" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|12°44'21.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°51'57.78" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°20'33.51" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°22'25.53" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°51'18.88" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°24'32.16" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|4°40'3.89" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: JER, Saint Helier, Saint-Helier, Saint-Hélier, Sent-Khel'er, St Helier, St. Helier, seinteuhellieo, Сент-Хельер, 세인트헬리어

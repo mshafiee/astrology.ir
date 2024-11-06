@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'14.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°51'9.09" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°23'21.40" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°31'11.38" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°1'52.83" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°35'57.76" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°29'34.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|19°51'6.72" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°23'19.03" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°31'25.78" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°2'1.70" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°36'8.69" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°39'26.02" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BDA, Chamilton, Gamil'tan, Gamil'ton, Hamilton, Hamilton pa Bermuda, Hamilton på Bermuda, Hamiltonas, Hamiltono, Khamilton, Khamiltun, amiltan, ha mi er dun, haemilteon, hamiruton, hamyltwn, hemiltana, hmyltwn, Χάμιλτον, Гамильтон, Гамільтан, Гамільтон, Хамилтон, Хамилтън, המילטון, هاميلتون, همیلتون, ہیملٹن, हॅमिल्टन, ஆமில்டன், แฮมิลตัน, ჰამილტონი, ハミルトン, 哈密尔顿, 해밀턴
