@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:06:45 |
 | Sunset | 18:18:56 |
 | Maghrib | 18:19:52 |
-| Isha (Night) | 19:20:05 |
+| Isha (Night) | 19:20:04 |
 | Sharia Midnight | 23:36:11 |
 | Imum Coeli | 00:06:48 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°43'45.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°47'13.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°35'41.64" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°12'6.57" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|26°50'27.73" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|8°28'15.29" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|15°37'34.14" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|12°43'45.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°47'13.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|1°35'41.74" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°12'6.56" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|26°50'27.71" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|8°28'15.26" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|15°37'33.73" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°43'45.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°47'13.88" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°35'41.64" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|17°12'6.57" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°50'27.73" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°28'15.29" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|15°37'34.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|12°43'45.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°47'13.47" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°35'41.74" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|17°12'6.56" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°50'27.71" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|8°28'15.26" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°37'33.73" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'42.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°36'31.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|2°7'35.93" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°0'44.04" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°59'35.51" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|10°43'58.66" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°16'9.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|12°42'42.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°36'33.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|2°7'42.96" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°0'40.86" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°59'29.81" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|10°43'54.03" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|9°44'32.03" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Venus|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Jupiter|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|2°7'35.86" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|19°0'44.10" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|28°59'35.52" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|10°43'58.69" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|10°43'58.69" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|10°15'44.89" |Pisces|FarghAlMuakhar|Jupiter|
 
 

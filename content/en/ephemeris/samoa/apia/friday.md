@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|1°28'1.58" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°46'47.57" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°20'19.85" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°55'54.41" |Scorpio|Akleel|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°55'54.41" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|10°1'11.83" |Capricorn|SaadAlDhabib|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|1°28'1.58" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°46'47.57" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|26°20'19.85" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°55'54.41" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|7°55'54.41" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|10°1'11.83" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

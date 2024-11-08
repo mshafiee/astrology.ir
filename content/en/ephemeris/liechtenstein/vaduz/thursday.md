@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 09:42:03|Night duration: 14:19:27|
+|Duration of the day: 09:42:03|Night duration: 14:19:26|
 |Every hour of day duration: 00:48:30|Every hour of night duration: 01:11:37|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Moon|Ruler|16:56:20|18:07:56|Attraction of material wealth, earning and prosperity|
 |2|Saturn|Servant|18:07:57|19:19:33|Destruction of enemies|
 |3|Jupiter|Servant|19:19:34|20:31:10|Attraction of financial and emotional love|
-|4|Mars|Servant|20:31:11|21:42:48|Creating love, connection and marriage|
-|5|Sun|Servant|21:42:49|22:54:25|Indulgence|
-|6|Venus|Servant|22:54:26|00:06:02|Outer and inner journey|
+|4|Mars|Servant|20:31:11|21:42:47|Creating love, connection and marriage|
+|5|Sun|Servant|21:42:48|22:54:24|Indulgence|
+|6|Venus|Servant|22:54:25|00:06:02|Outer and inner journey|
 |7|Mercury|Servant|00:06:03|01:17:39|Achieving status and power|
-|8|Moon|Ruler|01:17:40|02:29:17|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:29:18|03:40:54|Reaching status and promotion|
-|10|Jupiter|Servant|03:40:55|04:52:31|Fulfilling needs|
-|11|Mars|Servant|04:52:32|06:04:08|Attraction of love and hearts|
-|12|Sun|Servant|06:04:09|07:15:46|Attracting misfortune, not suitable for any task|
+|8|Moon|Ruler|01:17:40|02:29:16|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:29:17|03:40:53|Reaching status and promotion|
+|10|Jupiter|Servant|03:40:54|04:52:30|Fulfilling needs|
+|11|Mars|Servant|04:52:31|06:04:07|Attraction of love and hearts|
+|12|Sun|Servant|06:04:08|07:15:45|Attracting misfortune, not suitable for any task|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 09:42:03|Night duration: 14:19:27|
+|Duration of the day: 09:42:03|Night duration: 14:19:26|
 |Every hour duration: 01:23:09|Every hour duration: 02:02:47|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Moon|Ruler|16:56:20|18:59:05|
 |Late evening|Saturn|Servant|18:59:06|21:01:52|
-|Midnight|Jupiter|Servant|21:01:53|23:04:39|
-|Late at night|Mars|Servant|23:04:40|01:07:25|
-|Rooster song|Sun|Servant|01:07:26|03:10:12|
-|False Dawn|Venus|Servant|03:10:13|05:12:59|
-|Dawn|Mercury|Servant|05:13:00|07:15:46|
+|Midnight|Jupiter|Servant|21:01:53|23:04:38|
+|Late at night|Mars|Servant|23:04:39|01:07:25|
+|Rooster song|Sun|Servant|01:07:26|03:10:11|
+|False Dawn|Venus|Servant|03:10:12|05:12:58|
+|Dawn|Mercury|Servant|05:12:59|07:15:45|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°45'12.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°57'45.81" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°1'2.65" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°19'57.42" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|24°36'51.40" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|6°3'6.96" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|21°9'41.27" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|12°45'12.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°57'45.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|1°1'2.74" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°19'57.41" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|24°36'51.37" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|6°3'6.92" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|21°9'41.15" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|1°1'2.65" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|15°19'57.42" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|24°36'51.40" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|6°3'6.96" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°9'41.27" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|6°3'7.90" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|21°19'10.87" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

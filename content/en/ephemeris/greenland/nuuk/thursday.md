@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'13.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°50'53.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°23'55.86" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°33'36.06" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|26°4'38.72" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°38'57.59" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|7°28'12.08" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|19°50'54.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|1°23'59.70" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°33'33.09" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|26°4'35.01" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|7°38'54.29" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°4'44.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'13.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°50'54.47" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°23'59.80" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°33'33.08" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°4'34.99" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°38'54.26" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°4'43.93" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|12°44'13.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°50'54.87" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°23'59.70" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°33'33.09" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°4'35.01" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°38'54.29" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°4'44.20" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

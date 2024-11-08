@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 10:29:28|Night duration: 13:31:30|
-|Every hour of day duration: 00:52:27|Every hour of night duration: 01:07:38|
+|Every hour of day duration: 00:52:27|Every hour of night duration: 01:07:37|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|1°35'56.74" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|17°12'57.55" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°51'28.31" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|8°29'20.08" |Scorpio|Akleel|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|8°29'20.08" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|15°49'4.85" |Capricorn|SaadAlBula|Mars|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|19°47'8.86" |Gemini|Dhira|Mars|
 |♂ Mars|Pre-Retrograde Shadow|1°35'56.74" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|17°12'57.55" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°51'28.41" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°29'20.12" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|15°50'14.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°51'28.31" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|8°29'20.08" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°49'4.85" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

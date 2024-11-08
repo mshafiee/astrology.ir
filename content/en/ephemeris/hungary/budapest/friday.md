@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|1°19'24.36" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°18'41.56" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|25°46'51.98" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|7°19'42.52" |Scorpio|Akleel|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°19'42.52" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|3°51'19.34" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'24.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°52'18.45" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°19'24.45" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°18'41.55" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°46'51.96" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|7°19'42.49" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°51'19.10" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|12°44'24.63" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°52'18.85" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°19'24.36" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°18'41.56" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°46'51.98" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°19'42.52" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°51'19.34" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BUD, Boedapes, Boedapest, Boudapes, Boudapeste, Boudapès, Budaipeist, Budapescht, Budapeshha, Budapesht, Budapesht osh, Budapest, Budapesta, Budapestas, Budapeste, Budapesti, Budapestinum, Budapesto, Budapeszt, Budapeŝto, Budapeşt, Budapeşte, Budapešt, Budapešta, Budapeštas, Budapešť, Budapèst, Budapésht, Budimpeshta, Budimpesta, Budimpešta, Bùdapest, Bùdapeszt, Búdaipeist, Búdapest, bu da pei si, budapaisata, budapeseuteu, budapesrr, budapest, budapesta, budapesuto, bwdabst, bwdabyst, bwdapst, bwdpst, putapest, Βουδαπέστη, Будапешт, Будапешт ош, Будапеща, Будимпешта, Բուդապեշտ, בודאפעשט, בודפשט, بودابست, بودابيست, بوداپست, بوداپێست, بوډاپسټ, बुडापेस्ट, बुदापेस्त, বুদাপেস্ট, ਬੁਦਾਪੈਸਤ, બુડાપેસ્ટ, ବୁଦାପେଷ୍ଟ, புடாபெஸ்ட், ಬುಡಾಪೆಸ್ಟ್, ബുഡാപെസ്റ്റ്, บูดาเปสต์, བུ་ད་ཕེ་སིད།, ဗူးဒပက်မြို့, ბუდაპეშტი, ቡዳፔስት, ブダペスト, 布达佩斯, 부다페스트

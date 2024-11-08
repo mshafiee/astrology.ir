@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'15.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°30'13.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|2°25'15.70" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°2'49.27" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|0°13'25.11" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|11°59'7.95" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|25°56'55.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°30'10.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|2°25'10.03" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°3'6.46" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|0°13'36.93" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|11°59'22.28" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|24°53'39.79" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|2°25'10.03" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|20°3'6.46" |Scorpio|Qalb|Venus|
 |♀ Venus|Direct|0°13'36.93" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|11°59'22.28" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|11°59'22.28" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|24°53'39.79" |Pisces|Rescha|Mars|
 
 

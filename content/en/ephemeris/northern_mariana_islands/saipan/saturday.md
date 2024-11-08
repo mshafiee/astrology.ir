@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°43'17.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°42'58.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°48'41.99" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|12°43'17.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°42'59.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|1°48'41.89" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|17°55'43.70" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|27°42'20.60" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°23'12.93" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|24°56'54.40" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|27°42'20.61" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|9°23'22.61" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|25°23'28.24" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Venus|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|1°48'41.89" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|17°55'43.70" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|27°42'20.61" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°23'22.61" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|9°23'22.61" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|25°23'28.24" |Aquarius|FarghAlMuqaddam|Moon|
 
 
