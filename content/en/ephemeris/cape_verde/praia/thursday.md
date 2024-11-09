@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'20.85" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°51'51.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°20'52.31" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°23'29.10" |Libra|Jubana|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|1°20'59.27" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°23'25.36" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|25°52'27.82" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|7°25'48.64" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°25'48.64" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|4°12'19.59" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'20.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°51'51.73" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°20'52.31" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°23'29.10" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°52'33.72" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°25'53.46" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|19°51'53.29" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°20'59.27" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°23'25.36" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°52'27.82" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°25'48.64" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|4°12'19.59" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Braia, Cidade da Praia, Municipio da Praia, Município da Praia, Pragia, Praia, Praja, Praje, Prajo, Prajė, Praya, RAI, braya, pei ya, peulaia, pirxa, pra'i'a, pra'iya, praya, prayya, puraia, Πράγια, Πράια, Прая, Праја, Պրայա, פראיה, برايا, پرائا, پرائیا, پرايا, پرایا, پڕایا, प्राईया, ਪ੍ਰਾਈਆ, ไปรอา, ཕུ་ར་ཡ།, პრაია, ፕራያ, プライア, 培亞, 프라이아

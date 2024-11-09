@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'42.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°36'36.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|2°7'21.44" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|18°59'51.93" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°58'33.96" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|10°42'55.11" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°5'36.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°36'37.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|2°7'24.03" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|18°59'51.65" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°58'32.33" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|10°42'54.05" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|9°50'37.12" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Jupiter|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|2°7'21.44" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|18°59'51.93" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|28°58'33.96" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|10°42'55.11" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|10°42'55.11" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|10°5'36.40" |Pisces|FarghAlMuakhar|Jupiter|
 
 

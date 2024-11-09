@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'29.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|12°44'29.75" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°52'57.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°17'18.51" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°11'51.97" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°38'44.54" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|7°10'52.74" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°20'31.95" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|1°17'25.46" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°11'50.89" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°38'40.09" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°10'49.83" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°37'15.94" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°44'29.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°52'57.55" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°17'18.51" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°11'51.97" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°38'44.54" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°10'52.74" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°20'31.95" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|12°44'29.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°52'57.15" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°17'25.36" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°11'50.90" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°38'40.11" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°10'49.87" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°37'16.17" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투

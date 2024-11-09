@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'25.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°52'21.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°19'14.63" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|16°18'10.45" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°46'14.80" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|7°19'2.16" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°44'48.83" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|1°19'10.55" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|16°18'8.07" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|25°46'15.87" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|7°19'1.75" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°10'35.08" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|19°52'21.76" |Gemini|Dhira|Mars|
 |♂ Mars|Pre-Retrograde Shadow|1°19'14.63" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°18'10.45" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°46'13.39" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°19'1.52" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°27'59.64" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|25°46'14.80" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°19'2.16" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°44'48.83" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드

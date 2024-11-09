@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|1°23'39.88" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°32'34.30" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°3'23.10" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|7°37'36.79" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°37'36.79" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|6°54'44.54" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|12°44'14.02" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°51'0.24" |Gemini|Dhira|Mars|
 |♂ Mars|Pre-Retrograde Shadow|1°23'39.88" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°32'27.97" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°3'21.44" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°37'33.22" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°15'23.11" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|16°32'34.30" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°3'23.10" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°37'36.79" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°54'44.54" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

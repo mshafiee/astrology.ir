@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'50.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°22'3.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|2°46'13.99" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|21°20'40.48" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|1°45'32.32" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|13°30'7.14" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°33'9.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°22'2.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|2°46'14.37" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|21°20'40.47" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|1°45'32.15" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|13°30'7.02" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°32'1.35" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|12°41'50.49" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°22'2.87" |Gemini|Dhira|Mars|
 |♂ Mars|Pre-Retrograde Shadow|2°46'14.10" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|21°20'37.50" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|1°45'33.30" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|13°30'6.41" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|14°10'41.61" |Aries|Butain|Sun|
+|☉ Sun|Direct|21°20'40.47" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|1°45'32.31" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|13°30'7.11" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|13°33'9.41" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mercury|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

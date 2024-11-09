@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|1°18'8.89" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°14'38.69" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|25°42'2.19" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|7°14'27.75" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°14'27.75" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|2°59'25.66" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°44'27.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°52'41.62" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°18'8.89" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°14'38.69" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°42'2.19" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°14'27.75" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°59'25.66" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|19°52'42.38" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|1°18'12.69" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°14'37.44" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°41'59.38" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|7°14'25.68" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°35'42.34" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포
