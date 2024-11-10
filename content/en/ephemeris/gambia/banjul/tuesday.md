@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'7.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|12°42'7.73" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°28'3.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|2°30'47.41" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°23'29.71" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|0°37'47.40" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|12°23'33.79" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|29°44'41.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|2°30'43.27" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°23'28.80" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|0°37'49.30" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|12°23'34.49" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|0°11'12.12" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'7.73" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°28'3.46" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|2°30'47.31" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|2°30'47.31" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|20°23'29.72" |Scorpio|Qalb|Venus|
 |♀ Venus|Direct|0°37'47.41" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|12°23'33.79" |Sagittarius|NaAaem|Moon|

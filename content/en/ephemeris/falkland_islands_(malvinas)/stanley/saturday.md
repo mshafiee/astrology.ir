@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 20:14:08 |
 | Maghrib | 20:15:47 |
 | Isha (Night) | 22:56:23 |
-| Sharia Midnight | 22:55:10 |
+| Sharia Midnight | 22:55:11 |
 | Imum Coeli | 00:35:20 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°43'1.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°40'6.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|1°57'19.03" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|18°24'57.72" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°17'5.35" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°59'52.12" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|1°44'53.61" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|12°43'1.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°40'7.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°57'18.93" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|18°24'54.85" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°17'5.44" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|9°59'50.95" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|2°11'53.49" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°43'1.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°40'7.18" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|1°57'18.93" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|18°24'54.85" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°17'5.44" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°59'50.95" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°11'53.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|19°40'6.81" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°57'21.75" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|18°24'59.65" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°17'6.28" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|9°59'53.47" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°37'51.05" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
