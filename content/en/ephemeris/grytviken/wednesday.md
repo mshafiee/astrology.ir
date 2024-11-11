@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:15:00 |
-| Dhuhr (Noon) | 12:10:23 |
-| Medium Coeli | 12:10:23 |
+| Dhuhr (Noon) | 12:10:22 |
+| Medium Coeli | 12:10:22 |
 | Sunset | 20:06:58 |
 | Maghrib | 20:40:35 |
 | Isha (Night) | 22:29:28 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:15:00 |
-| Dhuhr (Noon) | 12:10:23 |
-| Medium Coeli | 12:10:23 |
+| Dhuhr (Noon) | 12:10:22 |
+| Medium Coeli | 12:10:22 |
 | Sunset | 20:06:58 |
 | Maghrib | 20:08:48 |
 | Isha (Night) | 21:38:48 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'39.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°15'28.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°2'16.09" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|22°22'3.99" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|2°58'12.47" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|14°39'15.98" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|28°47'43.98" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|12°41'38.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°15'29.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°2'12.00" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|22°21'56.72" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|2°58'11.38" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|14°39'12.05" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|29°50'50.37" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

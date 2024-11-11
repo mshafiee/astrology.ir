@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:12:52 |
 | Medium Coeli | 13:12:52 |
 | Sunset | 17:24:36 |
-| Maghrib | 17:51:55 |
+| Maghrib | 17:51:54 |
 | Isha (Night) | 19:06:09 |
 | Sharia Midnight | 00:15:25 |
 | Imum Coeli | 01:12:57 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'34.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°10'3.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°14'55.42" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°11'50.87" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|3°57'1.31" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|15°33'20.42" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|11°6'40.27" |Aries|Sharatain|Sun|
+|♃ Jupiter|Retrograde|19°10'2.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°14'53.55" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°11'50.76" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|3°57'2.36" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|15°33'21.01" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|11°10'32.56" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'34.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°10'3.06" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°14'55.42" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°11'50.87" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|3°57'1.31" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|15°33'20.42" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|11°6'40.27" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|19°10'2.84" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|3°14'53.55" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°11'50.76" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|3°57'2.36" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|15°33'21.01" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|11°10'32.56" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:50:33 |
 | Sunrise | 07:42:55 |
-| Dhuhr (Noon) | 12:02:15 |
-| Medium Coeli | 12:02:15 |
+| Dhuhr (Noon) | 12:02:16 |
+| Medium Coeli | 12:02:16 |
 | Sunset | 16:20:58 |
 | Maghrib | 16:47:13 |
 | Isha (Night) | 17:59:22 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'49.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°21'32.70" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|12°41'49.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°21'33.11" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°47'30.90" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|21°25'25.73" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|1°51'11.24" |Sagittarius|Shaulah|Mercury|
 |☿ Mercury|Direct|13°35'34.43" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°55'24.79" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|15°32'38.56" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'49.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°21'32.70" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|2°47'30.90" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|21°25'25.73" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|1°51'11.24" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|13°35'34.43" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|14°55'24.79" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|12°41'49.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°21'32.87" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|2°47'26.09" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|21°25'23.15" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|1°51'12.80" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|13°35'34.21" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|15°32'38.56" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Venus|Sun|Taurus|Sun|Jupiter|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
