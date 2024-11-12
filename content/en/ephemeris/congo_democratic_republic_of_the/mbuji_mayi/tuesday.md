@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'10.53" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°28'52.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°28'38.28" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°15'41.17" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|0°28'32.84" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|12°14'20.06" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|28°1'14.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|2°28'39.03" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°15'41.43" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|0°28'32.53" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°14'20.00" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|27°55'43.22" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'10.53" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°28'52.09" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|2°28'38.28" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|20°15'41.17" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|0°28'32.84" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|12°14'20.06" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|28°1'14.58" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°28'52.15" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|2°28'39.03" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|20°15'41.43" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|0°28'32.53" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°14'20.00" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|27°55'43.22" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mercury|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

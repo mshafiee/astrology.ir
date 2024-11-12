@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:05:38 |
 | Maghrib | 18:06:36 |
 | Isha (Night) | 19:09:12 |
-| Sharia Midnight | 23:12:07 |
+| Sharia Midnight | 23:12:08 |
 | Imum Coeli | 23:43:59 |
 {{< /tab >}}
 
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|3°29'53.04" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|24°13'12.61" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|5°9'27.60" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|16°37'18.00" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|26°9'23.73" |Aries|Thurayya|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|16°37'18.00" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|26°16'31.20" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'33.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°3'13.79" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°29'53.15" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|24°13'12.59" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|5°9'27.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|16°37'17.95" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|26°9'24.16" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|12°41'33.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°3'14.20" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|3°29'53.04" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|24°13'12.61" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|5°9'27.60" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|16°37'18.00" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|26°9'23.73" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

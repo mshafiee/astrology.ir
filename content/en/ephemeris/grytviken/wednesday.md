@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:15:00 |
-| Dhuhr (Noon) | 12:10:22 |
-| Medium Coeli | 12:10:22 |
+| Dhuhr (Noon) | 12:10:23 |
+| Medium Coeli | 12:10:23 |
 | Sunset | 20:06:58 |
 | Maghrib | 20:40:35 |
 | Isha (Night) | 22:29:28 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:15:00 |
-| Dhuhr (Noon) | 12:10:22 |
-| Medium Coeli | 12:10:22 |
+| Dhuhr (Noon) | 12:10:23 |
+| Medium Coeli | 12:10:23 |
 | Sunset | 20:06:58 |
 | Maghrib | 20:08:48 |
 | Isha (Night) | 21:38:48 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'38.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°15'29.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°2'12.00" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|22°21'56.72" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|2°58'11.38" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|14°39'12.05" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|29°50'50.37" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|12°41'39.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°15'29.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°2'19.09" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|22°21'58.81" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|2°58'8.21" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°39'11.09" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|29°15'43.31" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|3°2'19.09" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|22°21'58.81" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|2°58'8.21" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|14°39'11.09" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|29°15'43.31" |Aries|Thurayya|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|14°39'11.09" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|29°50'50.37" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

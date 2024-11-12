@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'4.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°26'47.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°34'8.16" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°35'41.91" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|0°52'21.11" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|12°37'59.55" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°32'9.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|12°42'3.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°26'46.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°34'9.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°35'49.15" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|0°52'23.93" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°38'4.36" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°41'52.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Venus|Venus|Aries|Moon|Mars|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'3.57" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°26'46.43" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|2°34'9.43" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|20°35'49.15" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|0°52'23.93" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|12°37'59.55" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Direct|2°34'8.16" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|20°35'41.91" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|0°52'21.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°37'59.55" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|3°32'9.78" |Aries|Sharatain|Mars|
 
 
