@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'54.79" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°23'41.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°42'6.24" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|2°42'6.24" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|21°5'11.82" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|1°27'12.82" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|13°12'3.63" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|11°8'29.21" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|13°12'18.16" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|9°50'42.72" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'54.79" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°23'41.48" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|2°42'6.24" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|2°42'6.24" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|21°5'11.82" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|1°27'12.82" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|13°12'3.63" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|11°8'29.21" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|1°27'13.04" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|13°12'14.97" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|11°10'3.02" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
