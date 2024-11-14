@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 08:19:47|Night duration: 15:42:07|
+|Duration of the day: 08:19:47|Night duration: 15:42:08|
 |Every hour of day duration: 00:41:39|Every hour of night duration: 01:18:31|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|16:13:29|17:31:58|Love and attraction of capital|
 |2|Mars|Servant|17:31:59|18:50:29|Unfortunate, no task is suitable|
-|3|Sun|Servant|18:50:30|20:08:59|Operations of tenderness and attraction of love|
-|4|Venus|Servant|20:09:00|21:27:30|Unfortunate and repelling goodness|
-|5|Mercury|Servant|21:27:31|22:46:00|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|22:46:01|00:04:31|Suitable for all good deeds|
-|7|Saturn|Servant|00:04:32|01:23:02|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:23:03|02:41:32|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|02:41:33|04:00:03|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|04:00:04|05:18:33|Attracting happiness, solving financial problems|
-|11|Venus|Servant|05:18:34|06:37:04|Performing promises|
-|12|Mercury|Servant|06:37:05|07:55:35|Finding the fugitive and discovering the thief|
+|3|Sun|Servant|18:50:30|20:09:00|Operations of tenderness and attraction of love|
+|4|Venus|Servant|20:09:01|21:27:30|Unfortunate and repelling goodness|
+|5|Mercury|Servant|21:27:31|22:46:01|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|22:46:02|00:04:32|Suitable for all good deeds|
+|7|Saturn|Servant|00:04:33|01:23:02|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:23:03|02:41:33|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:41:34|04:00:04|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|04:00:05|05:18:34|Attracting happiness, solving financial problems|
+|11|Venus|Servant|05:18:35|06:37:05|Performing promises|
+|12|Mercury|Servant|06:37:06|07:55:36|Finding the fugitive and discovering the thief|
 
  
  

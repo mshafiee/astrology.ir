@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'39.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°16'16.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|3°0'20.71" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|22°14'32.42" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|2°49'17.32" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°30'55.15" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|26°47'38.84" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|12°41'39.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|19°16'17.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|3°0'20.60" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|22°14'32.43" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|2°49'17.21" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°30'55.10" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|26°47'14.60" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'39.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°16'16.98" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|3°0'20.71" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|22°14'32.42" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|2°49'17.32" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°30'55.15" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|26°47'38.84" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|12°41'39.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°16'17.42" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|3°0'20.79" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|22°14'32.41" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|2°49'17.21" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°30'55.10" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|26°47'14.60" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:55:17 |
 | Medium Coeli | 11:55:17 |
 | Sunset | 18:44:54 |
-| Maghrib | 18:50:07 |
+| Maghrib | 18:50:08 |
 | Isha (Night) | 20:20:08 |
 | Sharia Midnight | 23:07:44 |
 | Imum Coeli | 23:55:24 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'53.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°49'14.55" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|3°58'8.44" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°15'57.58" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|7°34'3.45" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|18°34'41.65" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|26°1'23.08" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|18°49'14.97" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|3°58'8.32" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°15'56.29" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|7°33'58.50" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|18°34'37.94" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|26°30'28.71" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

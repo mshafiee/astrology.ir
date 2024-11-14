@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|26°13'13.93" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|7°30'50.01" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Pre-Retrograde Shadow|18°32'15.57" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|25°47'59.15" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|25°10'59.55" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Leo|Moon|Moon|
 |♀ Venus|Mars|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'52.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°49'33.22" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|3°57'38.80" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°13'11.06" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|7°30'43.98" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|18°32'10.40" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|25°47'58.94" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|12°41'52.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°49'33.57" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|3°57'30.41" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°13'13.90" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|7°30'50.31" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|18°32'15.57" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|25°10'59.55" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Aries|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

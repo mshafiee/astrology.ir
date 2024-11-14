@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 15:31:33 |
 | Maghrib | 15:59:55 |
 | Isha (Night) | 17:16:24 |
-| Sharia Midnight | 22:29:27 |
+| Sharia Midnight | 22:29:28 |
 | Imum Coeli | 23:28:50 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'54.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°48'51.06" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|3°58'52.03" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°19'18.41" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|7°37'59.18" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|18°37'40.39" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|26°44'0.07" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|18°48'51.66" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|3°58'52.20" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°19'17.39" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|7°37'58.56" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|18°37'39.51" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|26°49'49.83" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

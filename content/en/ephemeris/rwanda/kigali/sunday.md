@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:07:46 |
 | Isha (Night) | 18:48:12 |
 | Sharia Midnight | 23:08:13 |
-| Imum Coeli | 23:44:52 |
+| Imum Coeli | 23:44:53 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'40.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°56'2.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|3°44'54.86" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°16'50.31" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°24'26.28" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|17°40'1.94" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|18°56'2.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|3°44'49.51" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°16'53.39" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°24'30.82" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|17°40'6.25" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|11°38'25.87" |Taurus|Dabaran|Moon|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'40.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°56'2.94" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|3°44'54.86" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°16'50.31" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|6°24'26.28" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|17°40'1.94" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|12°5'1.72" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|12°41'40.73" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°56'2.22" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|3°44'49.51" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|25°16'53.39" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|6°24'30.82" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|17°40'6.25" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|11°38'25.87" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Mercury|Saturn|Sun|
 |☿ Mercury|Mercury|Mercury|Mars|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
