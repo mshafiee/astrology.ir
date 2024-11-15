@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 08:50:54|Night duration: 15:10:49|
-|Every hour of day duration: 00:44:15|Every hour of night duration: 01:15:54|
+|Every hour of day duration: 00:44:14|Every hour of night duration: 01:15:54|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'33.66" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°9'17.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|3°16'34.61" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°18'38.04" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|4°5'3.20" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|15°40'34.58" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°48'31.09" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°16'31.74" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°18'39.74" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|4°5'5.68" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|15°40'36.87" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°39'57.78" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'33.66" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°9'17.98" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|3°16'34.61" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°16'34.61" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|23°18'38.04" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|4°5'3.20" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|15°40'34.58" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|12°39'57.78" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|15°40'34.58" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|12°48'31.09" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

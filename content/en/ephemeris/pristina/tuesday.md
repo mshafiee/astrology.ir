@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 16:08:58 |
 | Maghrib | 16:14:10 |
 | Isha (Night) | 17:46:21 |
-| Sharia Midnight | 22:26:51 |
+| Sharia Midnight | 22:26:52 |
 | Imum Coeli | 23:20:54 |
 {{< /tab >}}
 
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'15.17" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°41'27.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°12'26.53" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°12'26.53" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|27°22'38.38" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|8°52'24.67" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|19°31'30.58" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|19°31'30.58" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|11°24'20.76" |Gemini|HanAh|Mars|
 
 
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'15.17" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°41'27.05" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°12'26.53" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°12'26.53" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°22'38.38" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|8°52'24.67" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|19°31'30.58" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|19°31'30.58" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|11°24'20.76" |Cancer|Nathrah|Mercury|
 
 

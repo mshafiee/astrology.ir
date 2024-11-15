@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:22:55 |
+| Fajr (Dawn) | 05:22:54 |
 | Sunrise | 06:26:41 |
 | Dhuhr (Noon) | 12:03:45 |
 | Medium Coeli | 12:03:45 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'19.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°39'58.96" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°15'0.98" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°35'3.89" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°6'59.30" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|19°41'28.93" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°7'52.98" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|12°42'19.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°39'58.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°15'1.10" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°35'3.85" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°6'59.28" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|19°41'28.89" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°7'53.07" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'19.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°39'58.96" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°15'0.98" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|12°42'19.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°39'58.55" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|4°15'0.98" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°35'3.89" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|9°6'59.30" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|19°41'28.93" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|19°41'28.93" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|14°7'52.98" |Cancer|Tarf|Mercury|
 
 

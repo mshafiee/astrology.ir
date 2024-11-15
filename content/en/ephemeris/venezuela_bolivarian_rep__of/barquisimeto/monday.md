@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°42'20.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°40'0.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°15'11.74" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°35'3.37" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°7'6.95" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|19°41'25.77" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|15°28'11.16" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|18°39'57.02" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°15'4.39" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°35'20.39" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°7'18.66" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|19°41'42.04" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°11'24.93" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'19.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°39'56.61" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°15'4.51" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|12°42'20.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°39'57.02" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|4°15'4.39" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°35'20.39" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|9°7'18.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|19°41'42.04" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|19°41'42.04" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|14°11'24.93" |Cancer|Tarf|Mercury|
 
 

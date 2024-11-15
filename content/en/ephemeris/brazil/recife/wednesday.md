@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'38.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|19°15'3.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|3°3'21.10" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|22°26'1.16" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|3°2'54.54" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°43'38.38" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°12'44.48" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|19°15'2.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°3'19.20" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|22°26'6.49" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|3°2'58.16" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|14°43'42.97" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|29°39'37.13" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Capricorn|Sun|Jupiter|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'38.17" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|19°15'2.41" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|3°3'19.20" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°3'19.20" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|22°26'6.49" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|3°2'58.16" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°43'42.97" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|14°43'42.97" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|29°39'37.13" |Aries|Thurayya|Venus|
 
 

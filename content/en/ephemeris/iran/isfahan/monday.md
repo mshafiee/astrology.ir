@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:48:30 |
 | Sunset | 17:00:16 |
 | Maghrib | 17:05:38 |
-| Isha (Night) | 18:22:34 |
+| Isha (Night) | 18:22:33 |
 | Sharia Midnight | 23:05:10 |
 | Imum Coeli | 23:48:37 |
 {{< /tab >}}
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'53.51" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°49'14.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|3°58'7.63" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°16'0.62" |Libra|Akleel|Jupiter|
+|♂ Mars|Direct|3°58'7.63" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°16'0.79" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|7°34'6.22" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|18°34'44.63" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|18°34'44.63" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|25°49'47.42" |Taurus|HaqAh|Saturn|
 
 
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°41'53.51" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°49'14.29" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|3°58'7.63" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°58'7.63" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°16'0.79" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|7°34'6.22" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|18°34'44.63" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|18°34'44.63" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|25°49'47.42" |Gemini|Dhira|Sun|
 
 
