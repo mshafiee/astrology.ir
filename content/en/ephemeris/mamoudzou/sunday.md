@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:18:37 |
+| Fajr (Dawn) | 04:18:38 |
 | Sunrise | 05:22:13 |
 | Dhuhr (Noon) | 11:44:05 |
 | Medium Coeli | 11:44:05 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'40.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°56'23.96" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°44'5.56" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°13'39.76" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°20'43.08" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|17°37'0.96" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°56'4.58" |Taurus|Dabaran|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°41'40.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°56'27.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|3°44'17.78" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°13'27.37" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°20'30.09" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|17°36'46.97" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°30'40.11" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Leo|Moon|Moon|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'40.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°41'40.25" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°56'24.38" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°44'5.44" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|3°44'5.44" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|25°13'39.79" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|6°20'43.10" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|17°37'1.01" |Sagittarius|Baldah|Moon|

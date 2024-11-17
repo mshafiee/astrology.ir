@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:28:53|Night duration: 12:31:34|
+|Duration of the day: 11:28:53|Night duration: 12:31:35|
 |Every hour duration: 01:38:25|Every hour duration: 01:47:22|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Jupiter|Servant|22:48:06|00:35:27|
 |Rooster song|Mars|Servant|00:35:28|02:22:49|
 |False Dawn|Sun|Servant|02:22:50|04:10:11|
-|Dawn|Venus|Servant|04:10:12|05:57:33|
+|Dawn|Venus|Servant|04:10:12|05:57:34|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'44.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°53'37.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°49'36.09" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°37'50.59" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°49'11.04" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|17°59'53.74" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|16°39'38.21" |Taurus|Dabaran|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°41'44.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°53'38.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|3°49'35.98" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°37'50.66" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°49'11.11" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|17°59'53.82" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|16°39'38.46" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'44.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°41'44.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°53'38.34" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°49'35.98" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|3°49'35.98" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|25°37'50.66" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|6°49'11.11" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|17°59'53.82" |Sagittarius|Baldah|Moon|

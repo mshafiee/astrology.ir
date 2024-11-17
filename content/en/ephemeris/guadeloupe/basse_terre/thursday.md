@@ -1,6 +1,6 @@
 ---
-date: 2024-11-14T00:00:00-04:00
-lastmod: 2024-11-14T00:00:00-04:00
+date: 2024-11-21T00:00:00-04:00
+lastmod: 2024-11-21T00:00:00-04:00
 title: BasseTerre Thursday
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - BasseTerre
-description: 🗓 Thursday, 14 Nov 2024
+description: 🗓 Thursday, 21 Nov 2024
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
-|♋ Cancer|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
+|♌ Leo|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -337,10 +337,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>□ Square|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 16:31:43 |
 | Maghrib | 17:00:05 |
 | Isha (Night) | 18:04:51 |
-| Sharia Midnight | 23:09:45 |
+| Sharia Midnight | 23:09:46 |
 | Imum Coeli | 00:08:10 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'34.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°41'34.31" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|19°2'34.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°31'18.63" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|3°31'18.63" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|24°19'8.13" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°16'27.54" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|16°43'18.41" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|27°45'3.52" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|5°16'18.68" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|16°43'10.46" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|28°23'21.62" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°41'34.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|19°2'34.32" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°31'18.63" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|24°19'8.13" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|5°16'27.54" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|16°43'18.41" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|27°45'3.52" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°41'34.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|19°2'36.54" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|3°31'29.35" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|24°19'2.76" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|5°16'18.68" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|16°43'10.46" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|28°23'21.62" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

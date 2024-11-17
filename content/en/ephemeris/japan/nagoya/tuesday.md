@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'31.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°36'39.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°20'44.71" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°2'59.50" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°39'46.05" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|20°3'7.77" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|20°29'7.48" |Gemini|Dhira|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°42'31.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°36'40.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|4°20'44.59" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°2'59.53" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°39'46.07" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|20°3'7.82" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|20°31'50.73" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'31.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°36'39.78" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|4°20'44.71" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°2'59.50" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|9°39'46.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|20°3'7.82" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°29'7.52" |Cancer|Tarf|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°42'31.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°36'40.32" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°20'44.88" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°2'58.90" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|9°39'45.63" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|20°3'7.20" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°31'50.73" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

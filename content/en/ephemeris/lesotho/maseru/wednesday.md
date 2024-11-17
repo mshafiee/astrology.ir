@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'38.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°42'38.46" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°35'0.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°23'34.80" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|4°23'34.80" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|28°16'59.05" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|9°56'11.61" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|20°13'33.62" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|24°23'37.31" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°43'5.38" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Moon|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'38.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°35'1.35" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|4°23'42.21" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°16'57.64" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|9°56'6.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|20°13'29.65" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|24°23'37.31" |Cancer|Tarf|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°42'38.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°35'0.38" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°23'34.80" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°16'59.05" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|9°56'11.61" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|20°13'33.62" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|23°43'5.38" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

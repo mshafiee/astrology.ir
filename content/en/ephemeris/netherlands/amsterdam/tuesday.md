@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'16.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°42'16.80" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°40'58.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°13'17.96" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|4°13'17.96" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|27°26'41.52" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|8°57'10.69" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|19°34'46.86" |Scorpio|Qalb|Sun|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°42'16.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°42'16.80" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°40'58.46" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|4°13'17.96" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|4°13'17.96" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°26'41.52" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°57'0.40" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°34'32.47" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|13°33'31.65" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|8°57'10.69" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|19°34'46.86" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|12°25'3.76" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Saturn|Sun|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Virgo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Aries|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
