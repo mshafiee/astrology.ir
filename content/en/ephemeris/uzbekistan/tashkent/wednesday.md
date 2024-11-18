@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 16:59:58 |
 | Maghrib | 17:22:50 |
 | Isha (Night) | 18:16:04 |
-| Sharia Midnight | 23:20:57 |
+| Sharia Midnight | 23:20:56 |
 | Imum Coeli | 00:08:55 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'37.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°35'14.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°23'9.86" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°14'59.24" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°53'50.49" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|20°12'5.63" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|23°11'29.05" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°42'37.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°35'17.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°23'19.84" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°14'47.49" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°53'39.46" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|20°11'52.39" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|24°18'42.36" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Moon|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'37.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°35'14.43" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°23'6.16" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°14'48.21" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|9°53'48.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|20°11'58.18" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|23°9'57.95" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°42'37.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°35'14.01" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|4°23'19.72" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°14'47.52" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|9°53'39.48" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|20°11'52.44" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|24°18'42.48" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

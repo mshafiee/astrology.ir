@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:30 |
-| Sunrise | 05:57:35 |
+| Sunrise | 05:57:34 |
 | Dhuhr (Noon) | 11:41:49 |
 | Medium Coeli | 11:41:49 |
 | Sunset | 17:25:57 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:42:13 |
-| Sunrise | 05:57:35 |
+| Sunrise | 05:57:34 |
 | Dhuhr (Noon) | 11:41:49 |
 | Medium Coeli | 11:41:49 |
 | Sunset | 17:25:57 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:55:05 |
-| Sunrise | 05:57:35 |
+| Sunrise | 05:57:34 |
 | Dhuhr (Noon) | 11:41:49 |
 | Medium Coeli | 11:41:49 |
 | Sunset | 17:25:57 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:42:13 |
-| Sunrise | 05:57:35 |
+| Sunrise | 05:57:34 |
 | Dhuhr (Noon) | 11:41:49 |
 | Medium Coeli | 11:41:49 |
 | Sunset | 17:25:57 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:04 |
-| Sunrise | 05:57:35 |
+| Sunrise | 05:57:34 |
 | Dhuhr (Noon) | 11:41:49 |
 | Medium Coeli | 11:41:49 |
 | Sunset | 17:25:57 |
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°41'59.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°41'59.85" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°46'38.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°3'0.11" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°3'0.11" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°38'21.51" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|8°0'22.40" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Direct|18°54'22.88" |Scorpio|Qalb|Sun|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°41'59.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°41'59.85" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°46'38.44" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°3'0.11" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°3'0.11" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°38'21.51" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|8°0'22.40" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|18°54'22.88" |Sagittarius|Baldah|Moon|

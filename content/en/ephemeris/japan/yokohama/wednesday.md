@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 16:50:22 |
 | Isha (Night) | 17:41:58 |
 | Sharia Midnight | 22:47:24 |
-| Imum Coeli | 23:27:08 |
+| Imum Coeli | 23:27:07 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 16:33:33 |
 | Isha (Night) | 17:57:06 |
 | Sharia Midnight | 22:42:22 |
-| Imum Coeli | 23:27:08 |
+| Imum Coeli | 23:27:07 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 16:33:33 |
 | Isha (Night) | 17:47:01 |
 | Sharia Midnight | 22:49:56 |
-| Imum Coeli | 23:27:08 |
+| Imum Coeli | 23:27:07 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'2.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°43'2.13" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°29'27.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°32'37.00" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°32'37.00" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|29°3'9.38" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|10°50'17.72" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|20°45'57.59" |Scorpio|Qalb|Venus|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'2.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°43'2.13" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°29'27.44" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°32'37.00" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°32'37.00" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°3'9.38" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|10°50'17.72" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Direct|20°45'57.59" |Sagittarius|Baldah|Saturn|
