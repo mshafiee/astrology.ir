@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'29.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°44'29.91" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°13'17.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°56'27.40" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|4°56'27.40" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°15'6.57" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|13°24'36.20" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|21°58'54.49" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°23'14.28" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°20'12.51" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'30.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°13'18.30" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|4°56'27.83" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°15'6.48" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|13°24'35.81" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|21°58'54.18" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°23'13.62" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°44'29.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°13'17.82" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°56'27.40" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°15'6.57" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|13°24'36.20" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|21°58'54.49" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°20'12.51" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LHE, Lachori, Lahaur, Lahor, Lahora, Lahoras, Lahore, Lahorium, Lakhor, Lohur, Láhaur, Lâhore, Lāhaur, la h xr, la he er, lahaura, laholeu, lahor, lahora, lahori, lahwr, lakur, lwہwr, rahoru, Λαχόρη, Лахор, Լահոր, לאהור, لاهور, لاھور, لاھۆر, لاہور, لوہوٗر, لہور, लाहोर, लाहौर, লাহোর, ਲਹੌਰ, લાહોર, லாகூர், లాహోర్, ಲಾಹೋರ್, ലാഹോർ, ลาฮอร์, ლაჰორი, ラホール, ラーホール, 拉合尔, 拉合爾, 라호르

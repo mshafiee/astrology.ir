@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'2.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°8'25.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°3'10.44" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°54'33.18" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°10'45.36" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°14'4.21" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°45'2.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°8'21.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°3'1.96" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°54'49.34" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°10'56.85" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|22°14'21.70" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|9°21'0.31" |Leo|Zubrah|Saturn|
 
 
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'2.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°45'2.39" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°8'21.71" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°3'1.96" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°3'1.96" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°54'49.34" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°10'56.85" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|22°14'21.70" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

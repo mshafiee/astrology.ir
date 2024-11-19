@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:15:49 |
 | Sunset | 17:43:27 |
 | Maghrib | 17:59:16 |
-| Isha (Night) | 18:45:05 |
+| Isha (Night) | 18:45:06 |
 | Sharia Midnight | 23:40:40 |
 | Imum Coeli | 00:15:57 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'50.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°44'50.68" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°10'6.09" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°0'44.54" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°0'44.54" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°40'51.59" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°54'39.13" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°9'18.81" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°33'1.87" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|13°54'34.12" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|22°9'8.64" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°2'38.83" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'50.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°10'7.17" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°0'45.23" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°40'42.96" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|13°54'35.48" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°9'11.03" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°7'0.06" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°44'50.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°10'8.10" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°0'45.78" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°40'40.52" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|13°54'34.12" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|22°9'8.64" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°2'38.83" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

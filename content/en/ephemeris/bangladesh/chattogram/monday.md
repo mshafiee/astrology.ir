@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°41'51.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°41'51.51" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°50'6.64" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°56'27.52" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°8'28.46" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|7°25'13.92" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|18°27'59.33" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|23°59'49.84" |Taurus|HaqAh|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|3°56'27.52" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°8'28.43" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|7°25'13.73" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|18°27'59.20" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|24°0'50.76" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°41'51.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°41'51.51" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°50'6.64" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°56'27.52" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|3°56'27.52" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°8'28.46" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|7°25'13.92" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|18°27'59.33" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|23°59'49.84" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°0'50.76" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Saturn|Sun|
 |☿ Mercury|Mercury|Mercury|Mars|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

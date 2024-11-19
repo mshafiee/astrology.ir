@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°42'15.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°41'17.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°12'43.56" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°23'60.00" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|8°54'0.47" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|19°32'36.67" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|11°42'40.10" |Gemini|HanAh|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°42'15.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°41'19.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|4°12'45.94" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°23'48.22" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|8°53'53.95" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|19°32'26.46" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°27'15.06" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Moon|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°42'15.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°41'17.43" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|4°12'43.56" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°23'60.00" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°42'15.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°41'17.01" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°12'43.68" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°23'59.97" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|8°54'0.45" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|19°32'36.62" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|11°42'40.21" |Cancer|Nathrah|Mercury|

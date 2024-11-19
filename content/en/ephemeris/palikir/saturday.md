@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'6.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°45'6.64" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°7'43.45" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°3'56.51" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°59'51.75" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°16'46.71" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°16'2.53" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°51'56.61" |Leo|Zubrah|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|5°3'50.22" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°59'53.98" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°16'51.53" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|22°16'6.92" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|10°22'49.35" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'6.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°7'44.36" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°3'56.51" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°59'51.75" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|14°16'46.71" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°16'2.53" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|10°51'56.61" |Virgo|Awwa|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°45'6.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°7'43.45" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°3'50.22" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°59'53.98" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|14°16'51.53" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|22°16'6.92" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|10°22'49.35" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르
