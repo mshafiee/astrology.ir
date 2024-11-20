@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:06:01|Night duration: 13:54:56|
+|Duration of the day: 10:06:01|Night duration: 13:54:57|
 |Every hour of day duration: 00:50:30|Every hour of night duration: 01:09:35|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Mercury|Ruler|16:28:47|17:38:20|Related to talismans, amulets and responses|
 |2|Moon|Servant|17:38:21|18:47:55|Peace among people|
 |3|Saturn|Servant|18:47:56|19:57:30|Vengeful and evil deeds|
-|4|Jupiter|Servant|19:57:31|21:07:04|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|21:07:05|22:16:39|Auspicious|
+|4|Jupiter|Servant|19:57:31|21:07:05|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|21:07:06|22:16:39|Auspicious|
 |6|Sun|Servant|22:16:40|23:26:14|Writing, swapping and making promises|
-|7|Venus|Servant|23:26:15|00:35:48|Not suitable for any task|
-|8|Mercury|Ruler|00:35:49|01:45:23|Destruction of enemies|
-|9|Moon|Servant|01:45:24|02:54:58|All good deeds|
-|10|Saturn|Servant|02:54:59|04:04:32|Doing evil deeds|
-|11|Jupiter|Servant|04:04:33|05:14:07|Acceptance of reconciliation between couples|
-|12|Mars|Servant|05:14:08|06:23:42|For gaining dignity|
+|7|Venus|Servant|23:26:15|00:35:49|Not suitable for any task|
+|8|Mercury|Ruler|00:35:50|01:45:24|Destruction of enemies|
+|9|Moon|Servant|01:45:25|02:54:58|All good deeds|
+|10|Saturn|Servant|02:54:59|04:04:33|Doing evil deeds|
+|11|Jupiter|Servant|04:04:34|05:14:08|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:14:09|06:23:43|For gaining dignity|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:06:01|Night duration: 13:54:57|
+|Duration of the day: 10:06:01|Night duration: 13:54:56|
 |Every hour duration: 01:26:34|Every hour duration: 01:59:17|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|16:28:47|18:28:02|
 |Late evening|Moon|Servant|18:28:03|20:27:19|
-|Midnight|Saturn|Servant|20:27:20|22:26:36|
-|Late at night|Jupiter|Servant|22:26:37|00:25:52|
-|Rooster song|Mars|Servant|00:25:53|02:25:09|
-|False Dawn|Sun|Servant|02:25:10|04:24:26|
-|Dawn|Venus|Servant|04:24:27|06:23:43|
+|Midnight|Saturn|Servant|20:27:20|22:26:35|
+|Late at night|Jupiter|Servant|22:26:36|00:25:52|
+|Rooster song|Mars|Servant|00:25:53|02:25:08|
+|False Dawn|Sun|Servant|02:25:09|04:24:25|
+|Dawn|Venus|Servant|04:24:26|06:23:42|
 
 {{< /tab >}}
 
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|12°45'11.01" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°7'4.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°4'40.63" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°5'4.19" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°22'53.70" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°17'48.99" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°24'10.06" |Leo|Zubrah|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|5°4'40.64" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°5'4.23" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°22'53.75" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|22°17'49.00" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°24'10.38" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|5°4'40.63" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°5'4.19" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°22'53.70" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°17'49.02" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°24'10.35" |Virgo|Awwa|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°17'48.99" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°24'10.06" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

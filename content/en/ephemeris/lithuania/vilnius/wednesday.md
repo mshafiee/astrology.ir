@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:04:34 |
 | Sunset | 16:09:13 |
 | Maghrib | 16:12:03 |
-| Isha (Night) | 18:19:42 |
+| Isha (Night) | 18:19:41 |
 | Sharia Midnight | 22:59:44 |
 | Imum Coeli | 00:04:41 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'42.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°34'7.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°25'2.75" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°42'41.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°34'7.33" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|4°25'2.49" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|28°24'19.31" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°4'46.95" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°18'54.49" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|25°21'22.84" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°4'46.72" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|20°18'54.44" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|25°20'58.06" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'42.05" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°34'7.74" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°25'2.75" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°42'41.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°34'7.33" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°25'2.49" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°24'19.31" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|10°4'46.95" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|20°18'55.21" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|25°21'22.84" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|20°18'55.17" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°21'22.68" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

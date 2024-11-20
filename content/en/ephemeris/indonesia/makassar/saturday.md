@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|12°45'11.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°7'0.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°4'45.85" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°5'39.13" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°23'34.15" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°18'0.69" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°31'41.62" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|18°7'0.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°4'47.28" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°5'38.72" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°23'33.10" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|22°17'59.79" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°38'37.84" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|5°4'45.85" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°5'39.13" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°23'34.15" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°18'0.69" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°18'0.69" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|11°31'41.62" |Virgo|Awwa|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Djumpandang, Kota Makassar, Macassar, Makasar, Makasaras, Makassar, Makasser, UPG, Udjung Pandang, Ujungpandang, makasaleu, makasar, makassaru, Макассар, ماکاسار, マカッサル, 마카사르

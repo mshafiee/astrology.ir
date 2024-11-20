@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 07:03:46|Night duration: 16:58:37|
+|Duration of the day: 07:03:46|Night duration: 16:58:36|
 |Every hour of day duration: 00:35:19|Every hour of night duration: 01:24:53|
 
  
@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Saturn|Servant|03:16:50|04:41:42|Reaching status and promotion|
 |10|Jupiter|Servant|04:41:43|06:06:35|Fulfilling needs|
 |11|Mars|Servant|06:06:36|07:31:28|Attraction of love and hearts|
-|12|Sun|Servant|07:31:29|08:56:22|Attracting misfortune, not suitable for any task|
+|12|Sun|Servant|07:31:29|08:56:21|Attracting misfortune, not suitable for any task|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'16.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°26'33.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°37'12.58" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°27'9.67" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°18'25.70" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|21°1'28.25" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|8°59'42.67" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°43'16.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°26'32.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|4°37'4.81" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°27'8.74" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°18'30.11" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|21°1'30.49" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|8°14'30.29" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|4°37'12.58" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°27'9.67" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|11°18'25.70" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|21°1'28.25" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|21°1'28.25" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|8°59'42.67" |Leo|Zubrah|Saturn|
 
 

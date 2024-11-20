@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'42.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°11'28.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°59'10.70" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°30'1.64" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°42'7.26" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°4'54.08" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°34'44.34" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°44'42.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°11'25.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|4°59'2.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°30'13.01" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°42'16.65" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|22°5'7.04" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°23'36.95" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'42.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°11'26.26" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°59'2.73" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°30'13.04" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|13°42'16.66" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°5'7.08" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°23'37.51" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°44'42.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°11'25.84" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°59'2.85" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°30'13.01" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|13°42'15.50" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|22°5'8.58" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°59'35.87" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: PSY, Port Stanley, Port Stenli, Port Stenlis, Port-Stehnli, Port-Stenli, Porto Arxentino/Stanley, Puerto Archentinas/Stenlis, Puerto Argentino, Stanlef, Stanlejo, Stanley, Stanley Harbour, Stehnli, Stenli, Stenlis, astnly  jzayr falklnd, asٹynlے  jzayr faklynڈ, icutanli, porta stenli, seutaenli, si tan li, si tan li gang, stanly, stnly, sutanre, sutanri, Στάνλεϋ, Порт Стенли, Порт-Стенлі, Порт-Стэнли, Стенли, Стэнлі, Պորտ Սթենլի, סטאנלי, סטנלי, استنلی، جزایر فالکلند, اسٹینلے، جزائر فاکلینڈ, ستانلي, سٹینلے, पोर्ट स्टॅन्ली, இசுடான்லி, സ്റ്റാൻലി, สแตนลีย์, スタンリー, スタンレー, 斯坦利, 斯坦利港, 스탠리

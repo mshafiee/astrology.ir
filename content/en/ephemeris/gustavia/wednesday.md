@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:57:08 |
 | Medium Coeli | 11:57:08 |
 | Sunset | 17:34:14 |
-| Maghrib | 17:35:14 |
+| Maghrib | 17:35:13 |
 | Isha (Night) | 18:46:47 |
 | Sharia Midnight | 23:18:51 |
 | Imum Coeli | 23:57:16 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:57:08 |
 | Medium Coeli | 11:57:08 |
 | Sunset | 17:34:14 |
-| Maghrib | 17:35:14 |
+| Maghrib | 17:35:13 |
 | Isha (Night) | 18:48:58 |
 | Sharia Midnight | 23:15:35 |
 | Imum Coeli | 23:57:16 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 11:57:08 |
 | Sunset | 17:34:14 |
 | Maghrib | 17:35:14 |
-| Isha (Night) | 19:05:14 |
+| Isha (Night) | 19:05:13 |
 | Sharia Midnight | 23:17:45 |
 | Imum Coeli | 23:57:16 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|12°43'21.12" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°25'29.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°38'48.67" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|4°38'48.72" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|29°35'54.45" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°28'38.22" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|21°6'54.96" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|10°42'49.39" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|11°28'38.19" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|21°6'54.94" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|10°43'4.85" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|4°38'48.67" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°35'54.45" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|11°28'38.22" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|21°6'54.96" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|21°6'54.96" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|10°42'49.39" |Leo|Zubrah|Jupiter|
 
 

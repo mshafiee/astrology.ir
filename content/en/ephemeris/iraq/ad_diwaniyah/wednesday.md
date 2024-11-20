@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:59:56 |
+| Fajr (Dawn) | 04:59:55 |
 | Sunrise | 06:33:21 |
 | Dhuhr (Noon) | 11:45:58 |
 | Medium Coeli | 11:45:58 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|12°42'38.95" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°34'51.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°23'48.03" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°18'11.97" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°57'36.16" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|20°14'27.72" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|23°51'33.75" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|4°23'48.24" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°18'11.92" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°57'36.08" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|20°14'27.62" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|23°52'6.31" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'38.95" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°34'51.37" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°23'48.03" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°18'11.97" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|9°57'36.16" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|20°14'27.72" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|23°51'33.75" |Cancer|Tarf|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°42'38.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°34'51.38" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°23'48.13" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°18'11.92" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|9°57'36.08" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|20°14'27.62" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|23°52'6.44" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

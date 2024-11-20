@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'48.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°10'29.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°0'14.02" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°37'46.89" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°51'3.54" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°8'8.66" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°55'49.60" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°44'47.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°10'28.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°0'14.13" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°37'46.86" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°51'3.53" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|22°8'8.62" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°55'49.10" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'48.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°10'29.11" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°0'14.02" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°37'46.89" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|13°51'3.54" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°8'8.66" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°55'49.60" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°44'47.96" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°10'28.69" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°0'14.13" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°37'46.86" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|13°51'3.53" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|22°8'8.62" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°55'49.10" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

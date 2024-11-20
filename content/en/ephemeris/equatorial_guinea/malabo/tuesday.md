@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'14.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°41'32.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°12'15.41" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°21'48.45" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|8°51'25.41" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|19°30'50.22" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|11°6'42.48" |Gemini|HanAh|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°42'14.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°41'36.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|4°12'28.49" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°21'38.09" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|8°51'12.98" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|19°30'37.07" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°34'35.23" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Moon|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Leo|Moon|Moon|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|4°12'15.41" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°21'48.45" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|8°51'25.41" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°30'50.22" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|19°30'50.22" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|11°6'42.48" |Cancer|Nathrah|Mercury|
 
 

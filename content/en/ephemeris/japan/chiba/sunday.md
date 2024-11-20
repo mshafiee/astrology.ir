@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:53:12 |
-| Sunrise | 06:23:44 |
+| Sunrise | 06:23:43 |
 | Dhuhr (Noon) | 11:26:12 |
 | Medium Coeli | 11:26:12 |
 | Sunset | 16:28:24 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|5°14'3.06" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|3°5'47.04" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°33'37.75" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°33'25.68" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°33'25.68" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|23°26'56.74" |Leo|Sarfrah|Mars|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|12°46'6.68" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°59'25.72" |Gemini|Dhira|Mars|
 |♂ Mars|Pre-Retrograde Shadow|5°14'3.06" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°5'36.32" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|15°33'25.98" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°33'11.19" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|23°42'0.94" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°5'47.04" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|15°33'37.75" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|22°33'25.68" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|23°26'56.74" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

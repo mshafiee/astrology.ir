@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:50:26 |
 | Sunrise | 05:57:03 |
-| Dhuhr (Noon) | 12:00:23 |
-| Medium Coeli | 12:00:23 |
+| Dhuhr (Noon) | 12:00:22 |
+| Medium Coeli | 12:00:22 |
 | Sunset | 18:03:42 |
 | Maghrib | 18:19:00 |
 | Isha (Night) | 19:01:47 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:41:51 |
 | Sunrise | 05:57:03 |
-| Dhuhr (Noon) | 12:00:23 |
-| Medium Coeli | 12:00:23 |
+| Dhuhr (Noon) | 12:00:22 |
+| Medium Coeli | 12:00:22 |
 | Sunset | 18:03:42 |
 | Maghrib | 18:08:01 |
 | Isha (Night) | 19:18:58 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|5°0'23.20" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°38'41.80" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|13°52'7.72" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°8'29.54" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°8'29.54" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|6°6'44.47" |Leo|Jabhah|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'48.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°10'22.30" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°0'23.20" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°38'41.80" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|13°52'7.72" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°8'29.54" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°6'44.47" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°44'49.96" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°10'23.80" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°0'22.24" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°38'32.28" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|13°52'4.68" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|22°8'21.58" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°28'57.66" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

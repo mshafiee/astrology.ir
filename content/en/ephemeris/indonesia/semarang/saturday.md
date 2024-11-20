@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|18°6'49.82" |Taurus|Dabaran|Moon|
 |♂ Mars|Pre-Retrograde Shadow|5°4'59.32" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°7'3.02" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°25'10.75" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°18'26.82" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°59'11.51" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°25'12.02" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|22°18'27.69" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°48'23.74" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|5°4'59.32" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°7'3.02" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°25'12.02" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°18'27.69" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°18'27.69" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|11°48'23.74" |Virgo|Awwa|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kota Semarang, Kutha Semarang, SRG, Samarang, Semaran'nk, Semarang, Semarangas, cemaran, san bao long, san ma leng, se ma rang, semarangi, seumalang, smarang, sumaran, symarang, symaranj, Σεμαράνγκ, Семаранг, سمارانگ, سيمارانج, سیمارانگ, செமாராங், เซมารัง, სემარანგი, スマラン, 三孖冷, 三宝垄, 三寶瓏, 스마랑

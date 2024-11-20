@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|18°12'28.03" |Taurus|Dabaran|Moon|
 |♂ Mars|Pre-Retrograde Shadow|4°57'35.66" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°21'51.27" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°32'28.80" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°1'45.60" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°42'20.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|13°32'28.42" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|22°1'45.33" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°46'7.54" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'35.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°12'28.03" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°57'35.66" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°21'51.27" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|13°32'28.80" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°1'45.60" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°42'20.90" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°44'35.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°12'27.61" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°57'35.77" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°21'51.24" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|13°32'28.42" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|22°1'45.37" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°46'8.16" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프

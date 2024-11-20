@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:52:54 |
 | Sunset | 18:14:12 |
 | Maghrib | 18:15:10 |
-| Isha (Night) | 19:31:31 |
+| Isha (Night) | 19:31:30 |
 | Sharia Midnight | 23:14:19 |
 | Imum Coeli | 23:53:02 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'9.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°27'53.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°35'11.29" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°16'8.81" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°5'28.61" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°54'26.51" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|6°59'56.06" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°43'9.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°27'52.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|4°35'6.45" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°16'10.22" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°5'32.25" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|20°54'29.56" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|6°31'41.74" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|4°35'6.34" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°16'10.25" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|11°5'32.26" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|20°54'29.60" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|20°54'29.60" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|6°31'42.29" |Leo|Jabhah|Saturn|
 
 

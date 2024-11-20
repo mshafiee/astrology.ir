@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'5.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°28'36.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°33'57.60" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°10'5.83" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°58'26.09" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|20°50'32.32" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|5°16'19.15" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°43'6.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°28'37.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|4°33'57.49" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°10'5.86" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°58'26.10" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|20°50'32.36" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|5°16'19.66" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'5.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°28'36.80" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°33'57.60" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°10'5.83" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|10°58'26.09" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|20°50'32.32" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°16'19.15" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°43'6.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°28'37.22" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|4°33'57.49" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°10'5.86" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|10°58'26.10" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|20°50'32.36" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°16'19.66" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

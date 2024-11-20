@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:45:09 |
 | Maghrib | 17:46:05 |
 | Isha (Night) | 18:57:03 |
-| Sharia Midnight | 23:04:11 |
+| Sharia Midnight | 23:04:10 |
 | Imum Coeli | 23:44:25 |
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|4°23'22.71" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|28°16'6.35" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|9°55'8.63" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|20°12'55.37" |Scorpio|Qalb|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|20°12'55.37" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|23°22'2.86" |Gemini|Dhira|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|4°23'22.71" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°16'6.35" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|9°55'8.63" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|20°12'55.37" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|20°12'55.37" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|23°22'2.86" |Cancer|Tarf|Moon|
 
 

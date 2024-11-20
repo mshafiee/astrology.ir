@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|5°4'28.77" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°3'54.18" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|14°21'31.61" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|22°17'26.77" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°17'26.77" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|11°10'57.45" |Leo|Zubrah|Jupiter|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|5°4'28.77" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°3'54.18" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°21'31.61" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|22°17'26.77" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°17'26.77" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|11°10'57.45" |Virgo|Awwa|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드
