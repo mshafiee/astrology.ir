@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'43.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°11'10.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°59'21.55" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°32'10.59" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°44'38.19" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°5'53.11" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°21'38.89" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|12°44'43.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°11'10.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°59'24.89" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°32'18.47" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°44'38.28" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°5'58.18" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°15'15.73" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Venus|Sun|Taurus|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'43.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°44'43.83" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°11'10.62" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°59'21.55" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°59'21.55" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°32'16.64" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|13°44'39.67" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°5'57.89" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°5'57.89" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|4°48'45.81" |Virgo|Awwa|Sun|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'36.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°35'31.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°22'41.78" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°12'37.58" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°51'4.48" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|20°10'20.60" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|22°41'20.56" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°42'36.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°35'34.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°22'50.92" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°12'22.81" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°50'52.65" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|20°10'5.25" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|23°51'23.82" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'36.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°42'36.35" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°35'31.49" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°22'41.78" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°22'41.78" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°12'37.58" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|9°51'4.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|20°10'20.60" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|20°10'20.60" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|22°41'20.56" |Cancer|Tarf|Moon|
 
 

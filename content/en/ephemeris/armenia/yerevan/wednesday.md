@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'39.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°34'44.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°23'58.59" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°19'2.49" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°58'35.75" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|20°15'4.68" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|24°5'2.44" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°42'39.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°34'45.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°23'58.47" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°19'2.52" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°58'25.25" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|20°14'52.48" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|25°9'59.06" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'39.40" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°42'39.40" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°34'45.37" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°23'58.47" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°23'58.47" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°19'2.52" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|9°58'35.75" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|20°15'4.68" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|20°15'4.68" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|24°5'2.44" |Cancer|Tarf|Moon|
 
 

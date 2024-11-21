@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'35.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°12'28.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°57'33.89" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°21'50.24" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°32'29.57" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°1'45.36" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°27'48.35" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|12°44'35.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°12'27.97" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°57'35.57" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°21'51.58" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°32'29.05" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°1'45.87" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°42'27.91" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Venus|Sun|Taurus|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°44'35.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°44'35.39" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°12'27.97" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°57'35.57" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°57'35.57" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°21'51.58" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|13°32'29.05" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°1'45.87" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°1'45.87" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|2°42'27.91" |Virgo|Sarfrah|Sun|
 
 

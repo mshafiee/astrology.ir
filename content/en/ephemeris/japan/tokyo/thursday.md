@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'38.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°22'8.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°44'1.78" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°3'33.48" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|12°1'8.26" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|21°23'6.26" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|16°46'1.26" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|12°43'38.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°22'8.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°44'9.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°3'38.16" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|12°1'5.38" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|21°23'7.21" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|17°36'59.46" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Sun|Moon|Aries|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'38.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°43'38.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°22'5.28" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°43'57.29" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°43'57.29" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°3'48.29" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|12°1'17.01" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|21°23'20.38" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|21°23'20.38" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|16°37'54.97" |Leo|Zubrah|Jupiter|
 
 

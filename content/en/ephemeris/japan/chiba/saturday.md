@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:06:01|Night duration: 13:54:56|
+|Duration of the day: 10:06:01|Night duration: 13:54:57|
 |Every hour duration: 01:26:34|Every hour duration: 01:59:17|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|16:28:47|18:28:02|
 |Late evening|Moon|Servant|18:28:03|20:27:19|
-|Midnight|Saturn|Servant|20:27:20|22:26:35|
-|Late at night|Jupiter|Servant|22:26:36|00:25:52|
-|Rooster song|Mars|Servant|00:25:53|02:25:08|
-|False Dawn|Sun|Servant|02:25:09|04:24:25|
-|Dawn|Venus|Servant|04:24:26|06:23:42|
+|Midnight|Saturn|Servant|20:27:20|22:26:36|
+|Late at night|Jupiter|Servant|22:26:37|00:25:52|
+|Rooster song|Mars|Servant|00:25:53|02:25:09|
+|False Dawn|Sun|Servant|02:25:10|04:24:26|
+|Dawn|Venus|Servant|04:24:27|06:23:43|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°45'11.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°7'4.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°4'40.64" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°5'4.23" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°22'53.75" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°17'49.00" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°24'10.38" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|12°45'11.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°7'4.65" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°4'40.51" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°5'4.22" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°22'53.71" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°17'49.02" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°24'10.35" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°45'11.01" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°7'4.23" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°4'40.63" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°5'4.19" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|14°22'53.70" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°17'48.99" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°24'10.06" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|12°45'11.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°7'4.65" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°4'40.52" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°5'4.26" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|14°22'53.76" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°17'49.04" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°24'10.68" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

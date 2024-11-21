@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:55:22 |
+| Fajr (Dawn) | 05:55:23 |
 | Sunrise | 07:30:32 |
 | Dhuhr (Noon) | 12:23:58 |
 | Medium Coeli | 12:23:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°47'11.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°51'21.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°23'7.33" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°9'18.12" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°47'30.76" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°40'18.45" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°53'32.43" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|12°47'11.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°51'21.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°23'7.62" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°9'18.05" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°47'30.55" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°40'18.28" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°54'33.15" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°47'11.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°47'11.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°51'21.59" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°23'7.62" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°23'7.62" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°9'18.05" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°47'30.75" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°40'18.41" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°53'32.53" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|16°47'30.55" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°40'18.28" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°54'33.15" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°46'28.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°56'37.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°17'12.32" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°27'51.41" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°59'22.54" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°36'59.08" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|27°17'30.68" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|12°46'28.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°56'38.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°17'16.88" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°27'52.76" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°59'20.11" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°36'58.62" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|27°50'13.87" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Venus|Sun|Gemini|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°46'28.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°46'28.59" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°56'38.08" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°17'16.88" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°17'16.88" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°27'52.76" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|15°59'20.11" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°36'58.62" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°36'58.62" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|27°50'13.87" |Virgo|Simak|Mercury|
 
 

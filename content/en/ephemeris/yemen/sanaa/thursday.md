@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:52:03 |
 | Sunrise | 06:08:47 |
-| Dhuhr (Noon) | 11:49:05 |
-| Medium Coeli | 11:49:05 |
+| Dhuhr (Noon) | 11:49:06 |
+| Medium Coeli | 11:49:06 |
 | Sunset | 17:29:17 |
 | Maghrib | 17:33:49 |
 | Isha (Night) | 18:46:02 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:53 |
 | Sunrise | 06:08:47 |
-| Dhuhr (Noon) | 11:49:05 |
-| Medium Coeli | 11:49:05 |
+| Dhuhr (Noon) | 11:49:06 |
+| Medium Coeli | 11:49:06 |
 | Sunset | 17:29:17 |
 | Maghrib | 17:33:49 |
 | Isha (Night) | 19:03:49 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'10.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°27'43.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°35'25.00" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°17'29.05" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°7'15.27" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|20°55'17.41" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|6°55'24.12" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|12°43'10.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°27'41.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°35'23.64" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°17'44.71" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°7'22.48" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|20°55'30.77" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|6°49'32.13" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°43'10.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°27'43.95" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°35'25.00" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°17'29.05" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°7'15.27" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|20°55'17.41" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°55'24.12" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|12°43'10.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°27'41.57" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|4°35'23.64" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°17'44.71" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°7'22.48" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|20°55'30.77" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°49'32.13" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

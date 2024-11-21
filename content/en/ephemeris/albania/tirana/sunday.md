@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:27:30 |
 | Medium Coeli | 11:27:30 |
 | Sunset | 16:15:03 |
-| Maghrib | 16:17:15 |
+| Maghrib | 16:17:14 |
 | Isha (Night) | 17:37:12 |
 | Sharia Midnight | 22:46:44 |
 | Imum Coeli | 23:27:39 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:27:30 |
 | Medium Coeli | 11:27:30 |
 | Sunset | 16:15:03 |
-| Maghrib | 16:17:15 |
+| Maghrib | 16:17:14 |
 | Isha (Night) | 17:50:53 |
 | Sharia Midnight | 22:34:26 |
 | Imum Coeli | 23:27:39 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 11:27:30 |
 | Medium Coeli | 11:27:30 |
 | Sunset | 16:15:03 |
-| Maghrib | 16:17:15 |
+| Maghrib | 16:17:14 |
 | Isha (Night) | 17:53:37 |
 | Sharia Midnight | 22:38:31 |
 | Imum Coeli | 23:27:39 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:27:30 |
 | Medium Coeli | 11:27:30 |
 | Sunset | 16:15:03 |
-| Maghrib | 16:17:15 |
-| Isha (Night) | 17:47:15 |
+| Maghrib | 16:17:14 |
+| Isha (Night) | 17:47:14 |
 | Sharia Midnight | 22:37:09 |
 | Imum Coeli | 23:27:39 |
 {{< /tab >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°45'29.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°45'29.65" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°4'27.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°7'58.85" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°7'58.85" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°25'57.17" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|14°47'14.44" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°24'7.61" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|22°24'7.61" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|15°33'17.45" |Leo|Zubrah|Jupiter|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°45'29.65" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°45'29.65" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°4'27.52" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°7'58.85" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°7'58.85" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°25'57.17" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°47'14.44" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°24'7.61" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°24'7.61" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|15°33'17.45" |Virgo|Awwa|Venus|
 
 

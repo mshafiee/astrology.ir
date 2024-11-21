@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'38.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°34'49.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°23'50.97" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°18'27.24" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°57'53.94" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|20°14'38.97" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|23°53'49.11" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°42'39.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°34'49.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°23'52.61" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°18'25.51" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°57'52.22" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|20°14'36.95" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|24°5'27.27" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Moon|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°42'39.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°42'39.03" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°34'49.58" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°23'50.97" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°23'50.97" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°18'27.24" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|9°57'53.94" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|20°14'38.97" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|20°14'38.97" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|23°53'49.11" |Cancer|Tarf|Moon|
 
 

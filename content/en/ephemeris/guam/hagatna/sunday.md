@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°46'4.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°59'45.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°13'39.96" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°3'16.72" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°30'42.29" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°32'58.03" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|22°59'9.99" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|12°46'4.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°59'47.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°13'40.91" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°3'3.62" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°30'36.90" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°32'45.70" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°59'30.65" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Venus|Sun|Gemini|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°46'4.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°46'4.34" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°59'45.11" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°13'39.96" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°13'39.96" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°3'16.72" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|15°30'42.29" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°32'58.03" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°32'58.03" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|22°59'9.99" |Virgo|Simak|Mercury|
 
 

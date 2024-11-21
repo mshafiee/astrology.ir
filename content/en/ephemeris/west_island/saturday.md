@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°45'14.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°6'36.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°5'16.97" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°8'46.92" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°27'24.29" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°18'53.76" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°12'43.57" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|12°45'14.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°6'35.23" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°5'18.16" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°8'59.81" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°27'28.32" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°19'4.70" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°28'22.36" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°45'14.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°6'34.81" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°5'18.27" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°8'59.78" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|14°27'28.32" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°19'4.67" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|12°11'27.61" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|12°45'14.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°6'35.05" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°5'12.42" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°8'57.60" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|14°27'31.13" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°19'4.94" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°28'22.36" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬

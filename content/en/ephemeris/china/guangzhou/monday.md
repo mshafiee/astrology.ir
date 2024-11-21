@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:14:00 |
 | Sunset | 17:40:44 |
 | Maghrib | 17:41:46 |
-| Isha (Night) | 18:56:09 |
+| Isha (Night) | 18:56:10 |
 | Sharia Midnight | 23:34:14 |
 | Imum Coeli | 00:14:09 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°47'12.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°51'15.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°23'12.83" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°9'59.96" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°48'18.80" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°40'20.49" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°5'57.56" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|12°47'12.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°51'16.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°23'13.86" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°9'59.01" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°48'18.81" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°40'20.53" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°5'57.46" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°47'12.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°47'12.55" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°51'16.16" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°23'12.70" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°23'12.70" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°9'59.99" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|16°48'18.81" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°40'20.53" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°40'20.53" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|6°5'57.46" |Libra|Ghafr|Moon|
 
 
