@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 16:49:17 |
 | Maghrib | 17:10:22 |
 | Isha (Night) | 18:00:06 |
-| Sharia Midnight | 23:04:45 |
+| Sharia Midnight | 23:04:46 |
 | Imum Coeli | 23:49:30 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°47'32.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°48'59.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°25'37.11" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°27'45.25" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°8'56.83" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°40'22.55" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°32'9.79" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|17°49'0.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°25'38.68" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°27'44.73" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°8'55.64" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°40'21.47" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°36'43.56" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°47'32.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°48'59.90" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°25'31.62" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|4°27'40.68" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|17°8'58.89" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°40'20.22" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°35'41.20" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|17°48'59.91" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°25'37.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|4°27'45.25" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|17°8'56.83" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°40'22.55" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°32'9.79" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

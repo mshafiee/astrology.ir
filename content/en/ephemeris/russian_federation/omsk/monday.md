@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:45:57 |
+| Fajr (Dawn) | 06:45:58 |
 | Sunrise | 08:57:22 |
 | Dhuhr (Noon) | 12:53:33 |
 | Medium Coeli | 12:53:33 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°46'20.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°57'39.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°16'8.22" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°19'46.21" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|12°46'20.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°57'40.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°16'8.10" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°19'46.23" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°49'55.46" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|22°35'46.11" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|26°7'29.06" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°35'46.15" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|26°7'28.98" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°46'20.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°57'39.61" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°16'8.22" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°19'46.21" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|12°46'20.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°57'40.03" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°16'8.10" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°19'46.23" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|15°49'55.46" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°35'46.15" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|26°7'28.98" |Virgo|Simak|Mercury|

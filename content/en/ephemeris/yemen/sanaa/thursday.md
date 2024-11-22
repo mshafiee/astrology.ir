@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:52:03 |
 | Sunrise | 06:08:47 |
-| Dhuhr (Noon) | 11:49:06 |
-| Medium Coeli | 11:49:06 |
+| Dhuhr (Noon) | 11:49:05 |
+| Medium Coeli | 11:49:05 |
 | Sunset | 17:29:17 |
 | Maghrib | 17:33:49 |
 | Isha (Night) | 18:41:43 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:05:03 |
 | Sunrise | 06:08:47 |
-| Dhuhr (Noon) | 11:49:06 |
-| Medium Coeli | 11:49:06 |
+| Dhuhr (Noon) | 11:49:05 |
+| Medium Coeli | 11:49:05 |
 | Sunset | 17:29:17 |
 | Maghrib | 17:33:49 |
 | Isha (Night) | 18:33:02 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:52:03 |
 | Sunrise | 06:08:47 |
-| Dhuhr (Noon) | 11:49:06 |
-| Medium Coeli | 11:49:06 |
+| Dhuhr (Noon) | 11:49:05 |
+| Medium Coeli | 11:49:05 |
 | Sunset | 17:29:17 |
 | Maghrib | 17:33:49 |
 | Isha (Night) | 18:46:02 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:53 |
 | Sunrise | 06:08:47 |
-| Dhuhr (Noon) | 11:49:06 |
-| Medium Coeli | 11:49:06 |
+| Dhuhr (Noon) | 11:49:05 |
+| Medium Coeli | 11:49:05 |
 | Sunset | 17:29:17 |
 | Maghrib | 17:33:49 |
 | Isha (Night) | 19:03:49 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°43'10.33" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°27'41.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°35'23.64" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|4°35'23.64" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|29°17'44.71" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|11°7'22.48" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Retrograde|20°55'30.77" |Scorpio|Qalb|Venus|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°43'10.33" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°27'41.57" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|4°35'23.64" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|4°35'23.64" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°17'44.71" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|11°7'22.48" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Retrograde|20°55'30.77" |Sagittarius|Baldah|Saturn|

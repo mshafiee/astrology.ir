@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'3.86" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°8'8.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°3'18.76" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°3'18.76" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°56'33.42" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|14°12'58.22" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Retrograde|22°14'57.71" |Scorpio|Shaulah|Venus|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'3.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°8'8.70" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°3'18.76" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°56'23.76" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|14°12'56.24" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°14'50.21" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°50'6.66" |Virgo|Awwa|Sun|
+|♂ Mars|Pre-Retrograde Shadow|5°3'18.76" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°56'33.42" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|14°12'58.22" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°14'57.71" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°41'52.89" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

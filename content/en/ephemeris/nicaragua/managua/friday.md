@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'50.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°10'7.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°0'39.60" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°40'37.45" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°54'31.19" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|22°9'11.15" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°41'19.87" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|18°10'6.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°0'43.40" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°40'45.34" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°54'31.74" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°9'16.58" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°31'52.05" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Mars|Mercury|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'50.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°10'7.86" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°0'39.48" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°40'37.45" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|13°54'31.19" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|18°10'6.87" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°0'43.40" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°40'45.34" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|13°54'31.74" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°9'11.19" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|5°41'20.34" |Virgo|Awwa|Sun|
 

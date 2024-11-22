@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°47'35.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°48'35.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°26'3.89" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°30'56.76" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°12'40.18" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°40'15.48" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°3'4.18" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|17°48'34.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°25'58.53" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°30'58.84" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°12'44.36" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°40'19.45" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°49'35.96" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Mercury|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Mercury|Mercury|Gemini|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°47'35.72" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°48'35.53" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°26'3.89" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°26'3.89" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°30'56.76" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|17°12'40.18" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°40'15.48" |Sagittarius|Baldah|Saturn|
