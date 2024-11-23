@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°43'56.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°18'54.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|4°48'35.61" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°29'42.82" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|12°31'34.15" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|21°37'15.70" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|22°44'13.16" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°43'56.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°18'54.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°48'35.73" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°29'42.79" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|12°31'34.14" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|21°37'22.33" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|22°0'46.00" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Sun|Moon|Taurus|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Venus|Saturn|Aries|Sun|Mars|
+|☾ Moon|Venus|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°43'56.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°18'56.09" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|4°48'44.04" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|0°29'38.79" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|12°43'56.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°18'54.20" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|4°48'35.73" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|0°29'42.79" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|12°31'27.30" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Retrograde|21°37'15.70" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|22°44'13.16" |Leo|Sarfrah|Mars|

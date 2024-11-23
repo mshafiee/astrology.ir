@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'2.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°8'21.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°3'1.96" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°54'49.34" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°10'57.47" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|22°14'17.37" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°22'32.80" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|18°8'23.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°2'59.75" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°54'38.67" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°10'54.20" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°14'13.16" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°28'19.66" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'2.39" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°8'21.71" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°3'1.96" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°3'1.96" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°54'49.34" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°10'56.85" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°14'21.70" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°22'32.80" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|9°21'0.31" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

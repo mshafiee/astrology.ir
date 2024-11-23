@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'1.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°8'25.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°2'56.22" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°2'56.22" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°54'15.53" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|14°10'17.24" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Retrograde|22°14'10.21" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'1.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°8'25.47" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°2'56.34" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°54'15.51" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|12°45'1.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°8'25.89" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°2'56.22" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°54'15.53" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°10'17.24" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°14'10.18" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°14'26.83" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|22°14'10.21" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°14'27.21" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투
