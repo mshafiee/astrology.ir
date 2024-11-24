@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'51.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°34'7.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°39'43.56" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°22'54.27" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°22'29.92" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°19'36.62" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°4'56.49" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°49'51.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°34'8.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°39'43.42" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°22'54.30" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°22'20.43" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°19'25.21" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°49'9.67" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'51.01" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°34'7.58" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°39'43.56" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°22'54.27" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°22'29.92" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°19'36.62" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°4'56.49" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°49'51.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°34'8.00" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°39'43.42" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°22'54.30" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°22'29.93" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°19'36.67" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°4'56.04" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네

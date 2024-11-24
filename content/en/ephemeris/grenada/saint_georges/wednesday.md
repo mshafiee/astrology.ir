@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'14.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°31'52.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°41'32.04" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°40'15.34" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°42'39.26" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°13'12.01" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°7'38.22" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°50'14.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°31'55.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°41'50.90" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°40'1.43" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°42'22.39" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°12'51.17" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°30'50.38" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'14.06" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°50'14.06" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°31'51.90" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°41'36.45" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°41'36.45" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°40'17.79" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°42'39.26" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°13'12.01" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°7'38.22" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°42'37.11" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°13'13.13" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°39'57.20" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Fort Royal, Georgetown, Grenada City, Lewis, Port Louis, Port Royal, Saint George, Saint George's, Saint George.s, Saint-Georges, Sent Dzordzas, Sent Džordžas, Sent Tzortzes, Sent-Dzhorzhes, St Georges, St. George's, seinteujojiseu, sentojojizu, snt g'wrg', Σεντ Τζόρτζες, Сент-Джоржес, סנט ג'ורג', セントジョージズ, 세인트조지스

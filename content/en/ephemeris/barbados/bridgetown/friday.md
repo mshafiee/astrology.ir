@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'46.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°44'46.94" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°10'39.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°59'59.65" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|4°59'59.65" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°36'19.83" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|13°49'21.96" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Retrograde|22°7'35.12" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'46.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°10'39.95" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|4°59'59.65" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°36'19.83" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|13°49'21.96" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°7'35.12" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°38'16.97" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°44'46.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°10'42.97" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°0'4.46" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°36'4.81" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|13°49'13.17" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°7'20.16" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°17'9.86" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -362,7 +362,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Sun|Venus|Leo|Moon|Jupiter|
 |♃ Jupiter|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|♂ Mars|Venus|Venus|Virgo|Sun|Sun|
+|♂ Mars|Venus|Venus|Libra|Sun|Sun|
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|

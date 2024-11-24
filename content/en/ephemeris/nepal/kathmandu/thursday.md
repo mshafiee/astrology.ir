@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 11:51:43 |
 | Sunset | 17:08:06 |
 | Maghrib | 17:27:38 |
-| Isha (Night) | 18:13:07 |
+| Isha (Night) | 18:13:08 |
 | Sharia Midnight | 23:10:45 |
 | Imum Coeli | 23:51:53 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'42.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°49'42.97" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°34'56.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°39'0.38" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°39'0.38" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°16'38.59" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|19°15'14.29" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°21'35.03" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°53'46.35" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|22°21'44.88" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°56'45.54" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'42.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°34'58.48" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°39'11.23" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°16'32.66" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°15'5.24" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°21'35.08" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°53'45.94" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°49'42.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°34'56.62" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°39'0.38" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°16'38.59" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°15'14.29" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°21'44.88" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°56'45.54" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

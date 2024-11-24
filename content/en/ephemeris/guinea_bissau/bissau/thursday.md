@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'4.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°32'56.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°40'53.76" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°32'12.73" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°33'24.27" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°15'53.22" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°36'47.72" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°50'3.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°32'52.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°40'45.56" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°32'29.30" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°33'34.84" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°16'13.24" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°7'12.15" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'3.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°32'52.51" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°40'45.70" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°32'29.27" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°33'34.83" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°15'53.27" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°36'47.23" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°50'3.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°32'52.93" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°40'45.56" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°32'29.30" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°33'34.84" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°16'13.24" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°7'12.15" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우

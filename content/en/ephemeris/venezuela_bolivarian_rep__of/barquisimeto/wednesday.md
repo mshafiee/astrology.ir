@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'15.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°50'15.61" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°31'42.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°41'43.92" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°41'43.92" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°41'27.18" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|19°43'57.42" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°12'45.55" |Scorpio|Shaulah|Venus|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'15.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°31'42.86" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°41'43.92" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°41'27.18" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°43'57.42" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°12'45.55" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°50'15.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°31'46.82" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°41'54.43" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°41'9.94" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°43'45.04" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°12'23.94" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|5°53'44.54" |Scorpio|Akleel|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

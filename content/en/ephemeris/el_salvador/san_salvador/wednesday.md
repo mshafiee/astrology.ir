@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'20.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°50'20.44" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°31'14.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°42'7.09" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°45'3.14" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°48'7.36" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°11'18.11" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°36'23.63" |Libra|Ghafr|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°42'7.09" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°44'53.29" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°48'5.86" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°11'8.50" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°17'23.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Mars|Mars|
 |♀ Venus|Mercury|Saturn|Mars|Mercury|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'20.44" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°50'20.44" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°31'14.70" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°42'7.09" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°45'3.14" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°48'7.36" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°11'18.11" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°42'4.70" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°44'53.29" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°48'5.86" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°11'8.50" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|5°17'23.65" |Scorpio|Akleel|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: SAL, Salvador, San Salbador, San Salvado, San Salvador, San Salvadoras, San Salvadori, San Salvadò, San Salwador, San-Sal'vador, San-Salvador, San-Salvadoro, Sansalvadora, Urbs Sancti Salvatoris, can calvator, san salvadwr, san salwadwr, san slfadwr, san-salvadori, sana salavadora, sana salvhadora, sana-salvadora, sansalbadoleu, sansalwadxr, sansarubadoru, sheng sa er wa duo, sn slwwdwr, Σαν Σαλβαδόρ, Сан Салвадор, Сан-Сальвадор, Սան Սալվադոր, סאן סאלוואדאר, סן סלוודור, سان سالوادور, سان سالۋادور, سان سلفادور, سان سلواڈور, सान साल्व्हाडोर, सान-साल्वाडोर, ਸਾਨ ਸਾਲਵਾਦੋਰ, சான் சல்வடோர், ซันซัลวาดอร์, སན་སལ་ཝ་ཌོར།, სან-სალვადორი, ሳን ሳልቫዶር, サンサルバドル, 聖薩爾瓦多, 산살바도르

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'11.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°7'0.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°4'45.85" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°5'39.13" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°23'34.15" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|22°18'0.69" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°31'41.62" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°45'11.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°7'0.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°4'48.40" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°5'38.58" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°23'32.33" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°17'59.23" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°44'49.43" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'11.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°45'11.61" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|18°7'0.31" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°4'45.85" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°4'45.85" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°5'39.13" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°23'34.15" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°18'0.69" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Djumpandang, Kota Makassar, Macassar, Makasar, Makasaras, Makassar, Makasser, UPG, Udjung Pandang, Ujungpandang, makasaleu, makasar, makassaru, Макассар, ماکاسار, マカッサル, 마카사르

@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'17.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°50'17.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°31'34.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°41'50.73" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°41'50.73" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°42'30.49" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|19°45'10.69" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°12'20.16" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'17.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°50'17.02" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°31'34.61" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°41'50.73" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°42'30.49" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°44'57.68" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°11'58.90" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°46'56.98" |Scorpio|Akleel|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°41'50.73" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°42'17.48" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°45'6.75" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°12'6.54" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°31'55.10" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: CTG, Caratagena de Indias, Cartagena, Cartagena das Indias, Cartagena das Índias, Cartagena de Indias, Cartaxena de Indias, Carthagene, Carthagene des Indes, Carthagène, Carthagène des Indes, Kartachena, Kartageno, Kartakhena, Kartakhena de Indijas, ka ta he na, kaleutahena, kartagyna, kartajyna, karutahena, qrtajnt  kwlwmbya, qrthnh, Картахена, Картахена де Индијас, קרטחנה, قرطاجنة، كولومبيا, کارتاجینا, کارتاگینا, კარტახენა, カルタヘナ, 卡塔赫纳, 카르타헤나

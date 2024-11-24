@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'22.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°50'22.66" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°31'4.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°42'19.35" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°42'19.35" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°46'26.06" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|19°49'45.57" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°10'35.74" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'22.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°31'3.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°42'12.52" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°46'29.44" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°49'51.13" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°10'41.51" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°29'57.75" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°50'22.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°31'4.30" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°42'19.35" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°46'26.06" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°49'45.57" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°10'35.74" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°27'9.38" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

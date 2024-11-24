@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'15.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°50'15.37" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°31'48.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°41'55.21" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°41'55.21" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°40'59.06" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|19°43'30.95" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°12'27.95" |Scorpio|Shaulah|Venus|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'15.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°31'48.36" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°41'55.21" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°40'59.06" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°43'30.95" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°50'15.37" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°31'44.52" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°41'43.20" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°41'15.33" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°43'44.02" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°12'27.95" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|4°30'58.01" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'58.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°33'19.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°40'23.10" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°29'3.08" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°29'36.14" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°17'29.01" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°26'24.39" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°49'59.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°33'19.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°40'22.95" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°29'3.12" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°29'36.15" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°17'29.06" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°26'23.90" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'58.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°33'19.36" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°40'23.10" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°29'3.08" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°29'36.14" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°17'29.01" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°26'24.39" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°49'59.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°33'19.78" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°40'22.95" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°29'3.12" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°29'36.15" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°17'29.06" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°26'23.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Borto-Novo, Porta-Nova, Porto Neuvo, Porto Nobo, Porto Novas, Porto Novo, Porto-Novo, Portonovo, Portus Novus, Poto-Novo, Pòrto Neuvo, Pòto-Novo, Pôrto-Novo, bo duo nuo fu, bo tu nu bu, bwrtw nwfw, poleutonobo, porato-novo, porto-novho, porutonobo, pwrtw nwbw, pwrtw nwww, pxr to-no wo, xin gang, Πόρτο Νόβο, Πόρτο-Νόβο, Порта-Нова, Порто Ново, Порто-Ново, Պորտո Նովո, פארטא-נאווא, פורטו נובו, بورتو نوفو, پورتو نووو, پورٹو نووو, پۆرتۆ نۆڤۆ, पोर्तो-नोव्हो, ਪੋਰਤੋ-ਨੋਵੋ, ปอร์โต-โนโว, པོར་ཊོ་-ནོ་བོ།, პორტო-ნოვო, ፖርቶ ኖቮ, ポルトノボ, 新港, 波圖奴埠, 波多诺伏, 포르토노보

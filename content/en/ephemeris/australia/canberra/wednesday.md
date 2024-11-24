@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:58:02 |
+| Fajr (Dawn) | 03:58:03 |
 | Sunrise | 05:42:55 |
 | Dhuhr (Noon) | 12:51:05 |
 | Medium Coeli | 12:51:05 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'22.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°36'57.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°37'16.04" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°1'5.41" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°57'14.48" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°26'24.31" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|27°41'22.30" |Virgo|Simak|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°49'23.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°36'58.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°37'15.90" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°1'5.44" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°57'14.50" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°26'24.35" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|27°41'21.98" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'22.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°36'57.73" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°37'16.04" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°1'5.41" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°49'23.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°36'58.15" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°37'15.90" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°1'5.44" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|18°57'14.50" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°26'24.35" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|27°41'21.98" |Libra|Akleel|Jupiter|

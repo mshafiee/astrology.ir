@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°46'30.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°56'22.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°17'35.74" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°29'55.59" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°1'43.78" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|22°37'13.09" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|28°10'30.47" |Leo|Sarfrah|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°46'30.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°56'22.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°17'30.55" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°29'55.87" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°1'47.12" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°37'15.28" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|27°43'52.59" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°46'30.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°56'22.15" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°17'35.74" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°29'55.59" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°1'43.78" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°37'13.09" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°10'30.47" |Virgo|Simak|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°46'30.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°56'22.57" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°17'30.55" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°29'55.87" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°1'47.12" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°37'15.28" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°43'52.59" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Saturn|Mars|Venus|Moon|
+|☾ Moon|Mars|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

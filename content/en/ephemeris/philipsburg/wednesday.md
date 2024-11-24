@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'14.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°50'14.93" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°31'46.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°41'40.13" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°40'49.79" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°43'19.86" |Sagittarius|Baldah|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°41'40.64" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°40'56.10" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°43'21.50" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°12'57.77" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|5°46'59.91" |Libra|Ghafr|Moon|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'14.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°50'14.93" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°31'48.00" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°41'40.13" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°41'40.13" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°40'49.79" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|19°43'19.86" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°12'57.77" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°46'59.91" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°12'51.28" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°59'37.46" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Filip'smpournk, Filipsburg, Filipsburgas, Great Bay, Philipsburg, fei li pu si bao, fi lipsburkh, firippusuburufu, flpsbrg, fylypsbwrg  synt martn, pilipcuparku, pillibseubwileuheu, Φίλιπσμπουργκ, Филипсбург, Філіпсбург, فلپسبرگ, فیلیپسبورگ، سینت مارتن, பிலிப்சுபர்கு, ฟีลิปส์บืร์ค, ფილიპსბურგი, フィリップスブルフ, 菲利普斯堡, 필립스뷔르흐

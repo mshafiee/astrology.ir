@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'20.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°31'13.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°42'8.24" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°45'13.46" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°48'19.33" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°11'13.77" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°38'6.22" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°50'20.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°31'14.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°42'5.37" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°45'4.53" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°48'18.44" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°11'5.29" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°24'9.05" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Mars|Mars|
 |♀ Venus|Mercury|Saturn|Mars|Mercury|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'20.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°50'20.68" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°31'13.35" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°42'8.24" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°42'8.24" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°45'13.46" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°48'19.33" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°11'13.77" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°38'6.22" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°48'18.44" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°11'5.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°24'9.05" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Saturn|Venus|Mars|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: BCV, Bel'mapan, Bel'mopan, Belmopan, Belmopana, Belmopanas, Belmopano, Belmopanum, Belmopán, Belmópan, Bèlmopan, Hattieville, Mopan, Mpelmopan, bailamopana, bei er mo bang, bei er mo pan, belmopan, belmopana, berumopan, blmwban, blmwpan, blmwpn, bylmwpan, pelmoppan, Μπελμοπάν, Белмопан, Бельмапан, Бельмопан, Բելմոպան, בלמופן, בעלמאפאן, بلموبان, بلموپان, بیلموپان, बेल्मोपान, ਬੈਲਮੋਪਾਨ, பெல்மோப்பான், เบลโมแพน, པེར་མོ་ཕན།, ბელმოპანი, ቤልሞፓን, ベルモパン, 貝爾墨邦, 貝爾莫潘, 벨모판

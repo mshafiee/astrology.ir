@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:49:44 |
 | Sunset | 17:15:58 |
 | Maghrib | 17:17:00 |
-| Isha (Night) | 18:36:01 |
+| Isha (Night) | 18:36:02 |
 | Sharia Midnight | 23:09:56 |
 | Imum Coeli | 23:49:55 |
 {{< /tab >}}
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'41.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°49'41.49" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°35'5.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°38'52.64" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°38'52.64" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°15'31.00" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|19°13'55.90" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°22'7.19" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'41.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°35'4.97" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°38'52.78" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°15'30.97" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°13'55.88" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°22'7.14" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°44'39.05" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°49'41.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°35'5.39" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°39'7.50" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°15'15.52" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°13'41.12" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°21'46.17" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°49'55.83" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Saturn|Venus|Mars|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

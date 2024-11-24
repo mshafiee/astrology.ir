@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'53.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°50'53.20" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°28'7.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°44'37.94" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°44'37.94" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°8'58.88" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|20°15'48.72" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|22°0'36.53" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'53.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°50'53.20" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°28'7.31" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°44'37.94" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°8'58.88" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°15'48.72" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|22°0'36.53" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°15'53.60" |Scorpio|Qalb|Sun|
+|♂ Mars|Pre-Retrograde Shadow|5°44'37.92" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°8'58.90" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°15'48.74" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|22°0'36.56" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°15'57.65" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경

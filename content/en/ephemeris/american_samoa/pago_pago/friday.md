@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'0.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|18°8'32.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°2'46.78" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°53'16.16" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°9'8.06" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|22°13'49.36" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°2'29.72" |Leo|Zubrah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°45'1.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|18°8'33.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°2'46.66" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°53'16.19" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°9'8.07" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|22°13'49.39" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°2'30.10" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'0.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°8'32.89" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°2'46.78" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°53'16.16" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|14°9'8.06" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°13'49.36" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°2'29.72" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°45'1.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°8'33.31" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°2'46.66" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°53'16.19" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|14°9'8.07" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°13'49.39" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°2'30.10" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

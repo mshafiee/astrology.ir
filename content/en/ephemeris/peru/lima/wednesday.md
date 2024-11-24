@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'15.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°31'44.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°41'43.26" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°41'14.54" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°43'43.12" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°12'49.29" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°47'42.69" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°50'15.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°31'44.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°41'43.11" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°41'14.57" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°43'43.14" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°12'49.34" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°47'42.13" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'15.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°31'44.20" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°41'43.26" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°41'14.54" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°43'43.12" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°12'49.29" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°47'42.69" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°50'15.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°31'44.62" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°41'43.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°41'14.57" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°43'43.14" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°12'49.34" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°43'36.16" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마

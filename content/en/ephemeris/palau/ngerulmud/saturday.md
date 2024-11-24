@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'10.08" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°45'10.08" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|18°7'13.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°4'28.77" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°4'28.77" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°3'54.18" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|14°21'31.61" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Retrograde|22°17'26.77" |Scorpio|Shaulah|Venus|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'10.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|18°7'15.15" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°4'39.04" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°45'10.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|18°7'13.39" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°4'39.04" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°3'49.20" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|14°21'23.24" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°17'18.43" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

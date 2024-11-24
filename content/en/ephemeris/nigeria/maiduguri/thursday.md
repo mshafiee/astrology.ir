@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'57.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°33'30.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°40'13.71" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°49'57.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°33'30.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°40'14.10" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°27'38.14" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°27'57.80" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°17'38.27" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°36'35.06" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|19°27'57.45" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°17'59.51" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°11'13.45" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'57.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°33'34.41" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°40'22.93" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°27'20.52" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°27'46.11" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°17'38.27" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°36'35.06" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°49'57.28" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°33'30.82" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°40'13.57" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°27'38.18" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°27'57.81" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°17'59.51" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°11'13.45" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: MIU, Maidiguri, Maidugari, Maiduguri, Maiduguris, Majduguri, mai du gu li, maido~uguri, maiduguli, maydwghwry, maydwgwrw, maydwjwry, mydghry, mydwgwry, Маидугури, Майдугури, Майдугурі, מידוגורי, مايدوجوري, مايدوغوري, مايدوگورو, ميدغري, マイドゥグリ, 邁杜古里, 마이두구리
