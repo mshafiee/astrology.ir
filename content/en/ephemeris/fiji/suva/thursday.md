@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|12°50'38.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°29'31.78" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°43'44.30" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°58'21.12" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°3'28.06" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|22°5'21.19" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°4'55.21" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Retrograde|17°29'30.05" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°43'32.81" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°58'26.52" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°3'27.39" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|22°5'14.47" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|8°8'23.82" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Moon|Virgo|Sun|Venus|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

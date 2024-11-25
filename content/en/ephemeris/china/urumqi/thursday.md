@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|12°49'44.70" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°34'46.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°39'9.75" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°17'53.97" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°16'42.19" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°21'18.11" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°5'12.23" |Libra|Ghafr|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°39'7.34" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°17'52.88" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°16'43.43" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°21'17.80" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°48'42.29" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|12°49'44.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°34'46.92" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°39'9.75" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°17'53.97" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°16'42.19" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°21'18.11" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°5'12.23" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|17°34'46.95" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°39'7.34" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°17'52.88" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°16'43.43" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°21'17.80" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°48'42.29" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Dikhua, OEremce, Ouroumtchi, Ouroumtsi, Ti-hua, Ti-hua-ch'eng, Ti-hua-ch’eng, Ti-hua-hsien, Ti-hua-shih, Tihwa, Tihwafu, Tikhua, Tikhva, UEruemchi-su, UEruemcsi, UEruemqi, UEruemqi-chhi, URC, Urumchi, Urumci, Urumcio, Urumcis, Urumczi, Urumptsi, Urumqi, Urumqi Shi, Urumtschi, Urumtsi, Urumutsi, Urumçi, Urumĉio, Urumči, Urumčis, Urunchi, Wu-lu-mu-ch'i, Wu-lu-mu-ch'i-shih, Wu-lu-mu-ch’i, Wu-lu-mu-ch’i-shih, Wulumuqi, Wurumch'ih, Wurumch’ih, arwmchy, awrwmchy, awrwmtshy, ulumuchi si, urumaci, urumaki, urumchi, urumucci, urumuchi, urumuchi shi, wu lu mu qi, wu lu mu qi shi, xu rum chi, Öremçe, Ürümchi, Ürümchi-sṳ, Ürümcsi, Ürümqi, Ürümqi Shi, Ürümqi-chhī, Ουρούμτσι, Урумчи, Урумчі, Урумћи, Үрімжі, Үрүмчи, Үрүмчү, Өрөмч хот, Ուրումչի, אורומצי, أورومتشي, ئۈرۈمچى, ئۈرۈمچى شەھىرى, ئۈرۈمچی, ارومچی, اورومچی, उरुमची, उरुम्छी, ਉਰੂਮਕੀ, உருமுச்சி, อุรุมชี, ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།, ウルムチ, ウルムチ市, 乌鲁木齐, 乌鲁木齐市, 烏魯木齊, 烏魯木齊市, 우루무치 시

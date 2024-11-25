@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|12°50'49.37" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°28'28.46" |Taurus|Dabaran|Moon|
 |♂ Mars|Pre-Retrograde Shadow|5°44'20.62" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°6'16.59" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°12'40.57" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|22°1'55.73" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°49'11.94" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|7°6'5.76" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°12'28.92" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°1'40.11" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|10°6'53.00" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판
