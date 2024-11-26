@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°50'17.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°31'34.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°41'52.68" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°42'35.16" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°45'17.08" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°12'1.11" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°7'52.06" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|12°50'17.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°31'33.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°41'52.83" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°42'35.13" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°45'17.07" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°12'14.71" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°55'57.94" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°50'17.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°31'34.15" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°41'52.68" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°42'24.74" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°45'8.43" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°12'1.11" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°7'52.06" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|12°50'17.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°31'33.73" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°41'52.83" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°42'35.13" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°45'17.07" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°12'14.71" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°55'57.94" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: FSP, Saint Pierre, Saint-Pierre, St Pierre, saengpieleu, 생피에르

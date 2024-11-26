@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°49'59.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°33'22.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°40'34.01" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°28'58.08" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°29'38.72" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°17'2.91" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°57'28.56" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|12°49'59.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°33'20.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°40'24.74" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°29'2.22" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°29'46.17" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°17'10.32" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°53'54.48" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°49'59.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°33'18.14" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°40'24.34" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°29'15.69" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°29'50.71" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°17'24.49" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°28'51.97" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|12°49'59.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°33'20.69" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°40'24.74" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°29'2.22" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°29'46.17" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°17'10.32" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°53'54.48" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

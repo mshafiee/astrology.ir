@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 12:09:25|Night duration: 11:50:54|
-|Every hour of day duration: 01:00:47|Every hour of night duration: 00:59:14|
+|Every hour of day duration: 01:00:47|Every hour of night duration: 00:59:15|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°49'22.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°49'22.65" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°36'59.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°37'12.10" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°37'12.10" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°0'50.31" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|18°56'55.65" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°26'32.98" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°49'22.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°36'59.77" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°37'12.10" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°0'50.31" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|18°56'55.65" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°26'32.98" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°51'34.11" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|12°49'22.65" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°37'3.38" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°37'24.29" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°0'33.53" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|18°56'42.27" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°26'11.70" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|26°41'34.80" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
 
 
 {{< /tab >}}

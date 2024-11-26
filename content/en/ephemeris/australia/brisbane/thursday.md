@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°50'43.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°29'3.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°44'1.00" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°1'54.31" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°7'37.18" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|22°3'47.73" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°40'0.40" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|12°50'43.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°29'2.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°43'55.40" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°1'57.60" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°7'41.92" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°3'53.04" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°47'14.70" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°50'43.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°50'43.53" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°29'2.58" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°43'55.40" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°1'57.60" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°7'41.92" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|22°3'53.04" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°47'14.70" |Scorpio|Qalb|Mars|
+|♂ Mars|Direct|5°44'1.00" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°1'54.31" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°7'37.18" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|22°3'47.73" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°40'0.40" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번

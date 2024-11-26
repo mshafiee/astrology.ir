@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°50'45.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°50'45.69" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°28'49.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°44'4.13" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°44'4.13" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°3'36.59" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|20°9'35.50" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|22°3'10.85" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°50'45.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°50'45.69" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°28'49.38" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°44'4.13" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°44'4.13" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|7°3'36.59" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°9'35.50" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|22°3'10.85" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|10°17'38.17" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|20°9'30.37" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|22°3'6.21" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|10°19'36.42" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르

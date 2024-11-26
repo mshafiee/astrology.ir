@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°50'16.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°31'35.96" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°41'49.69" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°42'20.06" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°44'58.68" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°12'24.13" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°3'24.63" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|12°50'16.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°31'35.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°41'49.84" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°42'20.03" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°44'58.67" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°12'24.08" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°3'25.20" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°50'16.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°50'16.65" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°31'35.96" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°41'49.69" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°41'49.69" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°42'20.06" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|19°44'58.68" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°12'24.13" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: STI, Sant'jago-de-los-Kabal'eros, Sant'jago-de-los-Trejnta-Kabal'eros, Santiago, Santiago de los Caballeros, Santiago de los Kampagieros, Santjago de los Kabaljerosas, santiagodeloseukabayeloseu, sheng de ya ge, Σαντιάγο δε λος Καμπαγιέρος, Сантьяго-де-лос-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальєрос, סנטיאגו דה לוס קביירוס, سانتیاغو دے لوس کابائیروس, サンティアゴ・デ・ロス・カバリェロス, 聖地牙哥, 산티아고데로스카바예로스

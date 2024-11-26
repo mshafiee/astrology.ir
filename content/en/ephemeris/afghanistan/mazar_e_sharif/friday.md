@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:20:49 |
 | Sunrise | 06:53:32 |
-| Dhuhr (Noon) | 11:49:56 |
-| Medium Coeli | 11:49:56 |
+| Dhuhr (Noon) | 11:49:55 |
+| Medium Coeli | 11:49:55 |
 | Sunset | 16:46:04 |
 | Maghrib | 16:49:46 |
 | Isha (Night) | 18:18:47 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:18:15 |
 | Sunrise | 06:53:32 |
-| Dhuhr (Noon) | 11:49:56 |
-| Medium Coeli | 11:49:56 |
+| Dhuhr (Noon) | 11:49:55 |
+| Medium Coeli | 11:49:55 |
 | Sunset | 16:46:04 |
 | Maghrib | 16:49:46 |
 | Isha (Night) | 18:19:46 |
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°51'10.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°51'10.48" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°26'30.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°45'52.98" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°45'52.98" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°21'21.34" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|20°30'7.21" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|21°54'25.33" |Scorpio|Shaulah|Venus|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°51'10.48" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°51'10.48" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°26'30.19" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°45'52.98" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°45'52.98" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|7°21'21.34" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|20°30'7.21" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Retrograde|21°54'25.33" |Sagittarius|Baldah|Saturn|

@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:57:51 |
 | Sunrise | 06:17:49 |
-| Dhuhr (Noon) | 11:40:49 |
-| Medium Coeli | 11:40:49 |
+| Dhuhr (Noon) | 11:40:48 |
+| Medium Coeli | 11:40:48 |
 | Sunset | 17:03:38 |
 | Maghrib | 17:22:20 |
 | Isha (Night) | 18:06:38 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:56:29 |
 | Sunrise | 06:17:49 |
-| Dhuhr (Noon) | 11:40:49 |
-| Medium Coeli | 11:40:49 |
+| Dhuhr (Noon) | 11:40:48 |
+| Medium Coeli | 11:40:48 |
 | Sunset | 17:03:38 |
 | Maghrib | 17:07:48 |
 | Isha (Night) | 18:20:24 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:38 |
 | Sunrise | 06:17:49 |
-| Dhuhr (Noon) | 11:40:49 |
-| Medium Coeli | 11:40:49 |
+| Dhuhr (Noon) | 11:40:48 |
+| Medium Coeli | 11:40:48 |
 | Sunset | 17:03:38 |
 | Maghrib | 17:07:48 |
 | Isha (Night) | 18:22:42 |
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°48'34.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°48'34.83" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°42'0.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°32'34.98" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°32'34.98" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°22'7.12" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|18°12'2.62" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°35'14.95" |Scorpio|Shaulah|Venus|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°48'34.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°48'34.83" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°42'0.36" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°32'34.98" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°32'34.98" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°22'7.12" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|18°12'2.62" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°35'14.95" |Sagittarius|Baldah|Saturn|
