@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:57:41 |
+| Fajr (Dawn) | 04:57:40 |
 | Sunrise | 06:13:01 |
 | Dhuhr (Noon) | 11:53:10 |
 | Medium Coeli | 11:53:10 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°54'46.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°7'51.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°57'55.64" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°42'49.53" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°13'24.18" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|20°11'37.40" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|12°13'16.75" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|12°54'46.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°7'50.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°57'59.23" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°42'52.01" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°13'22.35" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|20°11'18.73" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|11°1'48.49" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°54'46.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°7'51.28" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°57'59.07" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|9°42'52.05" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°13'22.37" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|20°11'39.62" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|12°28'53.73" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°58'15.80" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|9°42'37.93" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°13'7.24" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|20°11'18.67" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°1'48.85" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Saturn|Sun|Venus|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

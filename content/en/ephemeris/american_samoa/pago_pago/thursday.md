@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°52'2.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°21'47.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°49'31.25" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°57'28.91" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°11'57.13" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|21°33'20.05" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|19°44'20.30" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|17°21'44.25" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°49'22.57" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°57'42.17" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°12'6.85" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|21°33'37.42" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°1'48.07" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Venus|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Mercury|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°52'2.69" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°21'44.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°49'22.57" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°49'22.57" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|7°57'42.17" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|21°12'6.85" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Retrograde|21°33'37.42" |Sagittarius|Baldah|Saturn|

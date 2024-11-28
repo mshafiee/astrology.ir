@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:18:31 |
 | Sunset | 17:14:08 |
 | Maghrib | 17:19:52 |
-| Isha (Night) | 18:42:12 |
+| Isha (Night) | 18:42:13 |
 | Sharia Midnight | 23:32:11 |
 | Imum Coeli | 00:18:41 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'54.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°49'54.54" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°33'46.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°40'0.82" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°40'1.57" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°25'36.00" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°25'36.90" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°18'41.37" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°39'33.55" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|19°25'36.50" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°18'41.19" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°41'50.42" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'54.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°33'46.79" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°40'1.03" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°25'36.05" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°25'36.78" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°18'41.35" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°40'36.21" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|12°49'54.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°33'46.41" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°40'1.42" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°25'36.03" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°25'36.51" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°18'41.19" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°41'50.42" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

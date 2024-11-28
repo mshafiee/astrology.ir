@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:39:07 |
-| Sunrise | 05:24:05 |
+| Sunrise | 05:24:04 |
 | Dhuhr (Noon) | 12:33:37 |
 | Medium Coeli | 12:33:37 |
 | Sunset | 19:43:28 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:28:36 |
-| Sunrise | 05:24:05 |
+| Sunrise | 05:24:04 |
 | Dhuhr (Noon) | 12:33:37 |
 | Medium Coeli | 12:33:37 |
 | Sunset | 19:43:28 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:39:07 |
-| Sunrise | 05:24:05 |
+| Sunrise | 05:24:04 |
 | Dhuhr (Noon) | 12:33:37 |
 | Medium Coeli | 12:33:37 |
 | Sunset | 19:43:28 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°54'39.00" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°8'28.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°57'41.04" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°57'41.04" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|9°38'11.20" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|23°8'0.21" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|20°15'51.92" |Scorpio|Qalb|Venus|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°54'39.00" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°8'28.88" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°57'41.04" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°57'41.04" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|9°38'11.20" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|23°8'0.21" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Retrograde|20°15'51.92" |Sagittarius|Baldah|Saturn|

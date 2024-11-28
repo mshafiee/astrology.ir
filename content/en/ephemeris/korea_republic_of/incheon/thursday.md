@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°50'56.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°27'48.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°44'52.22" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°11'21.57" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°18'33.98" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|21°59'27.31" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°42'53.91" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Retrograde|17°27'48.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°44'52.74" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°11'20.43" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°18'36.94" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|21°59'27.68" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°20'59.46" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°50'56.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°27'48.64" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°44'52.22" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°11'21.57" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°18'33.98" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|21°59'27.31" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°42'53.91" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|17°27'48.68" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°44'52.59" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°11'21.50" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°18'36.92" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|21°59'27.63" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°21'0.18" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Chemulpo, Incchon, Inch'on, Inch'ŏn, Incheon, Incheon-si, Inchkhon, Inchkhun, Inchon, Inchona, Incon, Inconas, Incshon, Intson, Inĉon, Inčchon, Inčhona, Inčonas, JCN, Nhan Xuyen, Nhân Xuyên, anchn, antshwn, aynchywn, incevona, incheon, incheongwang-yeogsi, incheonsi, inkiyon, ren chuan guang yu shi, xin chxn, İncheon, Ίντσον, Інчхон, Инчон, Инчхон, Инчхън, אינצ'ון, إنتشون, انچن, اینچئون, इंचेवॉन, இங்கியோன், อินช็อน, 仁川广域市, 仁川広域市, 仁川廣域市, 인천, 인천광역시, 인천시

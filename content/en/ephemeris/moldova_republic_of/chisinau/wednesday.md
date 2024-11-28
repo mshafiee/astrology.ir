@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 11:52:17 |
 | Medium Coeli | 11:52:17 |
 | Sunset | 16:19:37 |
-| Maghrib | 16:45:38 |
+| Maghrib | 16:45:39 |
 | Isha (Night) | 17:45:28 |
 | Sharia Midnight | 22:58:30 |
 | Imum Coeli | 23:52:27 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°48'41.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°41'19.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°33'15.29" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°27'26.24" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°18'13.56" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°34'15.93" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|21°8'52.63" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|12°48'41.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°41'18.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°33'15.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°27'26.21" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°18'13.54" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°34'15.88" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°8'52.79" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°48'41.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°41'19.29" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°33'15.29" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°27'26.24" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|12°48'41.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°41'18.88" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°33'15.43" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°27'26.21" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|18°18'13.56" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|22°34'15.93" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|21°8'52.63" |Libra|Jubana|Jupiter|

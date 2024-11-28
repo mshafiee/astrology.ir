@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'14.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°50'14.78" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°31'47.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°41'40.08" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°41'40.08" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°40'49.67" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|19°43'14.07" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°13'0.29" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°45'49.67" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|5°45'50.23" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'14.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°31'47.74" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°41'39.94" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°40'49.71" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°43'14.09" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°13'0.34" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°45'49.67" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|12°50'14.63" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°31'47.32" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°41'40.08" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°40'49.67" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°43'14.07" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°13'0.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°45'50.23" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Basse Terre Town, Basseterre, Baste, Bastehr, Baster, Bastera, Basteras, Bastero, Bastè, Mpaster, SKB, ba si te er, basetera, baseteru, baseuteleu, bastyr, basytyr, pacettere, Μπαστέρ, Бастер, Бастэр, באסטר, باستير, باسه‌تر, باسیتیر, बासेतेर, பாசெட்டெரே, บาสแตร์, པ་སི་ཐེར།, ბასტერი, ባስቴር, バセテール, 巴斯特尔, 바스테르

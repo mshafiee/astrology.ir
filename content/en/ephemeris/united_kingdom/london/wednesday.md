@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:48:15 |
 | Medium Coeli | 11:48:15 |
 | Sunset | 15:57:49 |
-| Maghrib | 15:59:33 |
+| Maghrib | 15:59:32 |
 | Isha (Night) | 17:53:15 |
 | Sharia Midnight | 22:47:37 |
 | Imum Coeli | 23:48:25 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:48:15 |
 | Medium Coeli | 11:48:15 |
 | Sunset | 15:57:49 |
-| Maghrib | 15:59:33 |
+| Maghrib | 15:59:32 |
 | Isha (Night) | 17:40:01 |
 | Sharia Midnight | 22:57:32 |
 | Imum Coeli | 23:48:25 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 11:48:15 |
 | Medium Coeli | 11:48:15 |
 | Sunset | 15:57:49 |
-| Maghrib | 15:59:33 |
+| Maghrib | 15:59:32 |
 | Isha (Night) | 17:59:49 |
 | Sharia Midnight | 22:47:37 |
 | Imum Coeli | 23:48:25 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:48:15 |
 | Medium Coeli | 11:48:15 |
 | Sunset | 15:57:49 |
-| Maghrib | 15:59:33 |
-| Isha (Night) | 17:29:33 |
+| Maghrib | 15:59:32 |
+| Isha (Night) | 17:29:32 |
 | Sharia Midnight | 22:45:58 |
 | Imum Coeli | 23:48:25 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°48'48.28" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°40'35.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°33'56.71" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°33'56.71" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°33'4.02" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|18°24'45.50" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Retrograde|22°33'10.01" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|22°12'36.59" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|21°28'31.73" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°48'48.28" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°40'35.70" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°33'56.71" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°33'4.02" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|18°24'45.50" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°33'10.01" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|22°12'36.59" |Libra|Jubana|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|5°33'52.37" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°33'0.29" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|18°24'47.11" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°33'7.80" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|21°28'31.73" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

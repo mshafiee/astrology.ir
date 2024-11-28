@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°53'11.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°15'43.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°53'22.98" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°43'22.53" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|22°4'49.09" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|21°1'57.29" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|0°19'50.10" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|17°15'47.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°53'35.64" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°43'7.30" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|22°4'36.20" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|21°1'36.31" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|28°51'1.42" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Moon|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°53'11.52" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°15'43.33" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°53'22.98" |Leo|Jabhah|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|5°53'22.98" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°43'22.53" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|22°4'49.09" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Retrograde|21°1'57.29" |Sagittarius|Baldah|Saturn|

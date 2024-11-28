@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°55'32.11" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°4'14.09" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°59'51.16" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°59'51.16" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|10°10'9.05" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|23°44'37.85" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|19°45'1.00" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|16°31'17.65" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|23°44'37.29" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|19°45'13.07" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|17°30'42.74" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Mercury|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,20 +338,20 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°55'31.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°4'13.68" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°59'51.33" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°10'9.01" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|23°44'46.28" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|19°45'21.71" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|18°6'58.02" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|12°55'32.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°4'15.68" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|6°0'2.32" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°10'3.95" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|23°44'37.29" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|19°45'13.07" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|17°30'42.74" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Jupiter|Moon|Sun|
 |♃ Jupiter|Mars|Venus|Venus|Mars|
-|♂ Mars|Jupiter|Saturn|Sun|Venus|
+|♂ Mars|Venus|Mercury|Sun|Venus|
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|

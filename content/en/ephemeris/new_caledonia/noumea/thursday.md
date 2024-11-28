@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°50'41.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°29'16.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°43'43.68" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°0'8.34" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°5'35.31" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|22°4'43.97" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°28'19.68" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|17°29'19.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°43'43.83" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°0'8.31" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°5'35.29" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°4'43.92" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°28'20.34" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'41.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°29'16.79" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°43'43.68" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°0'8.34" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°5'35.31" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|22°4'43.97" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°28'19.68" |Scorpio|Qalb|Mars|
+|♄ Saturn|Direct|12°50'40.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°29'16.38" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°43'43.83" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°0'8.31" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°5'35.29" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|22°4'43.92" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°28'20.34" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°50'43.77" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°29'0.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°44'7.01" |Cancer|Nathrah|Venus|
+|♂ Mars|Pre-Retrograde Shadow|5°44'7.01" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°1'56.43" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°7'45.60" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|22°3'28.87" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°39'46.48" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°7'57.85" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°3'49.01" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°58'2.33" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°50'43.77" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°29'0.52" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°43'55.79" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°2'11.98" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°7'57.87" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|22°3'49.07" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°58'1.66" |Scorpio|Qalb|Mars|
+|♄ Saturn|Direct|12°50'43.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°29'3.84" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°44'7.15" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°1'56.39" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°7'45.58" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|22°3'28.82" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|8°39'46.48" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라
