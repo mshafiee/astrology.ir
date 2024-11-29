@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°52'57.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°16'57.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°52'36.58" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°33'58.15" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°53'58.89" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|21°8'55.46" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|28°14'51.51" |Libra|Akleel|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°52'57.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°17'1.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°52'49.21" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°33'42.76" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°53'45.95" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|21°8'34.37" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|26°46'20.38" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Moon|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°52'57.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°52'57.18" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°16'57.88" |Gemini|Dhira|Mars|
 |♂ Mars|Pre-Retrograde Shadow|5°52'36.58" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°33'58.15" |Sagittarius|NaAaem|Mercury|

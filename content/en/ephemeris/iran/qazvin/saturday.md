@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:02:14 |
 | Dhuhr (Noon) | 11:58:44 |
 | Medium Coeli | 11:58:44 |
-| Sunset | 16:55:00 |
+| Sunset | 16:55:01 |
 | Maghrib | 17:00:50 |
 | Isha (Night) | 18:22:32 |
 | Sharia Midnight | 23:12:41 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 07:02:14 |
 | Dhuhr (Noon) | 11:58:44 |
 | Medium Coeli | 11:58:44 |
-| Sunset | 16:55:00 |
+| Sunset | 16:55:01 |
 | Maghrib | 17:00:50 |
 | Isha (Night) | 18:30:50 |
-| Sharia Midnight | 23:11:24 |
+| Sharia Midnight | 23:11:25 |
 | Imum Coeli | 23:58:55 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°52'43.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°52'43.57" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°18'8.24" |Taurus|Dabaran|Moon|
 |♂ Mars|Pre-Retrograde Shadow|5°51'50.11" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|8°25'3.79" |Scorpio|Akleel|Mars|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°52'43.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°18'7.83" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°51'50.27" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°25'3.75" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°43'42.06" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|21°15'21.67" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|26°30'23.39" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°52'43.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°18'8.24" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°51'50.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°25'3.79" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°43'42.08" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|21°15'21.99" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|26°27'58.41" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:21:19 |
 | Isha (Night) | 19:05:03 |
 | Sharia Midnight | 23:48:50 |
-| Imum Coeli | 00:22:30 |
+| Imum Coeli | 00:22:31 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:07:20 |
 | Isha (Night) | 19:18:06 |
 | Sharia Midnight | 23:44:29 |
-| Imum Coeli | 00:22:31 |
+| Imum Coeli | 00:22:30 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:07:20 |
 | Isha (Night) | 19:20:16 |
 | Sharia Midnight | 23:41:14 |
-| Imum Coeli | 00:22:31 |
+| Imum Coeli | 00:22:30 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°56'31.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|16°59'39.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|6°2'6.83" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°44'39.69" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|24°24'29.42" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|19°9'4.72" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|24°30'6.84" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°56'31.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|16°59'37.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|6°2'0.45" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°44'47.18" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|24°24'35.79" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|19°9'15.45" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°18'23.20" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Mercury|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°56'31.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|16°59'39.55" |Gemini|HanAh|Mars|
-|♂ Mars|Pre-Retrograde Shadow|6°2'6.83" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°44'39.69" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|24°24'29.42" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|19°9'4.72" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|24°30'6.84" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°56'31.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|16°59'37.37" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|6°2'0.45" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°44'47.18" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|24°24'35.79" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|19°9'15.45" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|25°18'23.20" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

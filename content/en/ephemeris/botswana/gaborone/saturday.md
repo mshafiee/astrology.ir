@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Mercury|Servant|10:57:32|12:05:13|Writing, swapping and making promises|
 |7|Moon|Servant|12:05:14|13:12:55|Not suitable for any task|
 |8|Saturn|Ruler|13:12:56|14:20:37|Destruction of enemies|
-|9|Jupiter|Servant|14:20:38|15:28:19|All good deeds|
+|9|Jupiter|Servant|14:20:38|15:28:19|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mars|Servant|15:28:20|16:36:01|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Sun|Servant|16:36:02|17:43:43|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Venus|Servant|17:43:44|18:51:25|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°52'42.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°52'42.71" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°18'12.89" |Taurus|Dabaran|Moon|
 |♂ Mars|Pre-Retrograde Shadow|5°51'47.66" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|8°24'29.75" |Scorpio|Akleel|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°52'42.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°52'42.71" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°18'12.89" |Gemini|Dhira|Mars|
 |♂ Mars|Pre-Retrograde Shadow|5°51'47.66" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°24'29.75" |Sagittarius|NaAaem|Mercury|

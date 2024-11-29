@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:39:07 |
-| Sunrise | 05:24:04 |
+| Sunrise | 05:24:05 |
 | Dhuhr (Noon) | 12:33:37 |
 | Medium Coeli | 12:33:37 |
 | Sunset | 19:43:28 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:28:36 |
-| Sunrise | 05:24:04 |
+| Sunrise | 05:24:05 |
 | Dhuhr (Noon) | 12:33:37 |
 | Medium Coeli | 12:33:37 |
 | Sunset | 19:43:28 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:39:07 |
-| Sunrise | 05:24:04 |
+| Sunrise | 05:24:05 |
 | Dhuhr (Noon) | 12:33:37 |
 | Medium Coeli | 12:33:37 |
 | Sunset | 19:43:28 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:35:39 |
-| Sunrise | 05:24:05 |
+| Sunrise | 05:24:04 |
 | Dhuhr (Noon) | 12:33:37 |
 | Medium Coeli | 12:33:37 |
 | Sunset | 19:43:28 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:19:23|Night duration: 09:40:27|
+|Duration of the day: 14:19:24|Night duration: 09:40:27|
 |Every hour of day duration: 01:11:37|Every hour of night duration: 00:48:22|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:24:05|06:35:40|Related to talismans, amulets and responses|
+|1|Saturn|Ruler|05:24:04|06:35:40|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|06:35:41|07:47:17|Peace among people|
 |3|Mars|Servant|07:47:18|08:58:54|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|08:58:55|10:10:31|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°54'39.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°54'39.00" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°8'28.88" |Taurus|Dabaran|Moon|
 |♂ Mars|Pre-Retrograde Shadow|5°57'41.04" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|9°38'11.20" |Scorpio|Qalb|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°54'39.00" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°54'39.00" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°8'28.88" |Gemini|HanAh|Mars|
 |♂ Mars|Pre-Retrograde Shadow|5°57'41.04" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|9°38'11.20" |Sagittarius|NaAaem|Mercury|

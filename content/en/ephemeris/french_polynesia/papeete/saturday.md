@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:06:51 |
+| Fajr (Dawn) | 04:06:50 |
 | Sunrise | 05:14:05 |
 | Dhuhr (Noon) | 11:47:13 |
 | Medium Coeli | 11:47:13 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°55'7.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°6'10.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°58'53.13" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°55'33.31" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°27'59.08" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|19°59'38.02" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°59'55.27" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°55'7.47" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°6'10.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°58'53.29" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°55'33.27" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°27'59.06" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|19°59'37.96" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°59'55.59" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°55'7.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°6'11.13" |Gemini|HanAh|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°58'49.49" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|9°55'26.55" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°27'59.96" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|19°59'30.62" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|14°19'27.33" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°55'7.47" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°6'10.08" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°58'53.29" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|9°55'33.27" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°27'59.06" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|19°59'37.96" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|13°48'57.20" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

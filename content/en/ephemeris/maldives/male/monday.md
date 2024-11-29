@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:54:16|Night duration: 12:06:10|
+|Duration of the day: 11:54:16|Night duration: 12:06:11|
 |Every hour of day duration: 00:59:31|Every hour of night duration: 01:00:31|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Saturn|Servant|20:54:06|21:54:36|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|21:54:37|22:55:07|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mars|Servant|22:55:08|23:55:38|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Sun|Servant|23:55:39|00:56:08|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Venus|Ruler|00:56:09|01:56:39|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Mercury|Servant|01:56:40|02:57:10|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|02:57:11|03:57:41|Good for any task|
-|11|Saturn|Servant|03:57:42|04:58:12|Creating enmity and negative energy|
-|12|Jupiter|Servant|04:58:13|05:58:43|Heart tenderness|
+|7|Sun|Servant|23:55:39|00:56:09|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Venus|Ruler|00:56:10|01:56:40|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Mercury|Servant|01:56:41|02:57:11|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|02:57:12|03:57:42|Good for any task|
+|11|Saturn|Servant|03:57:43|04:58:13|Creating enmity and negative energy|
+|12|Jupiter|Servant|04:58:14|05:58:44|Heart tenderness|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:54:16|Night duration: 12:06:10|
+|Duration of the day: 11:54:16|Night duration: 12:06:11|
 |Every hour duration: 01:42:02|Every hour duration: 01:43:44|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Venus|Ruler|17:52:34|19:36:17|
 |Late evening|Mercury|Servant|19:36:18|21:20:01|
-|Midnight|Moon|Servant|21:20:02|23:03:45|
-|Late at night|Saturn|Servant|23:03:46|00:47:30|
-|Rooster song|Jupiter|Servant|00:47:31|02:31:14|
-|False Dawn|Mars|Servant|02:31:15|04:14:58|
-|Dawn|Sun|Servant|04:14:59|05:58:43|
+|Midnight|Moon|Servant|21:20:02|23:03:46|
+|Late at night|Saturn|Servant|23:03:47|00:47:30|
+|Rooster song|Jupiter|Servant|00:47:31|02:31:15|
+|False Dawn|Mars|Servant|02:31:16|04:14:59|
+|Dawn|Sun|Servant|04:15:00|05:58:44|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°55'49.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°2'53.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|6°0'30.55" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°20'15.25" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|23°56'23.61" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|19°35'8.01" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|20°12'24.04" |Scorpio|Qalb|Venus|
+|♄ Saturn|Post-Retrograde Shadow|12°55'49.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°2'53.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|6°0'30.38" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°20'15.29" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|23°56'23.63" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|19°35'8.07" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|20°12'23.84" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°55'49.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°55'49.31" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°2'53.56" |Gemini|HanAh|Mars|
 |♂ Mars|Pre-Retrograde Shadow|6°0'30.38" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°20'15.29" |Sagittarius|NaAaem|Moon|

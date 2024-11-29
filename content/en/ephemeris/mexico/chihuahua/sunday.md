@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:24:58 |
+| Fajr (Dawn) | 06:24:59 |
 | Sunrise | 07:40:28 |
 | Dhuhr (Noon) | 12:53:39 |
 | Medium Coeli | 12:53:39 |
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°56'45.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|16°58'35.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|6°2'27.56" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°52'29.35" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|12°56'45.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|16°58'36.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|6°2'27.40" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°52'29.39" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|24°33'27.18" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|19°0'48.83" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|26°51'1.11" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°56'45.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|16°58'36.28" |Gemini|HanAh|Mars|
-|♂ Mars|Pre-Retrograde Shadow|6°2'27.40" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°52'29.39" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|24°33'27.18" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|19°0'48.83" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|26°51'1.11" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|12°56'45.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|16°58'39.07" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|6°2'34.90" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°52'17.22" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|24°33'19.00" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|19°0'31.95" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|25°37'58.46" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

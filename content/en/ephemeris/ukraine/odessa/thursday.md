@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'57.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°33'28.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°40'16.31" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°27'50.90" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°28'14.06" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°17'51.30" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°57'45.52" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|12°49'57.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°33'28.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|5°40'20.59" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°27'37.55" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°28'6.89" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°17'35.90" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°38'15.01" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°49'57.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°33'29.31" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°40'16.16" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°27'50.94" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°28'14.07" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°17'51.35" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°57'45.05" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|12°49'57.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°33'28.84" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|5°40'16.58" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°27'51.30" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°28'14.00" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°17'51.63" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°1'33.76" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Adehsa, Ades, ODS, Odesa, Odess, Odessa, Odessa osh, Odessae, Odesse, Odessos, Odessus, Odessza, Odissos, Oděsa, Udessa, ao de sa, awdsa, awdysa, odesa, odessa, Ódessa, ʼwdysʼ, Οδησσός, Адэса, Одеса, Одесс, Одессæ, Одесса, Одесса ош, Одессе, Օդեսա, אדעס, אודיסא, אודסה, أوديسا, اودسا, اوديسا, اودیسا, ओदेसा, အိုဒက်ဆာမြို့, ოდესა, オデッサ, 敖德薩, 오데사
