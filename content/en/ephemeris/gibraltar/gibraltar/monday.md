@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Mercury|Servant|19:17:41|20:28:24|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Moon|Servant|20:28:25|21:39:07|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|21:39:08|22:49:51|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Jupiter|Servant|22:49:52|00:00:34|Answering needs, attracting love and wealth|
+|5|Jupiter|Servant|22:49:52|00:00:34|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mars|Servant|00:00:35|01:11:18|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|01:11:19|02:22:01|Making promises|
 |8|Venus|Ruler|02:22:02|03:32:45|Reconciliation of two persons, attracting love|
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°56'16.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|12°56'16.81" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|17°0'46.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|6°1'30.31" |Cancer|Nathrah|Venus|
+|♂ Mars|Retrograde|6°1'30.31" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|10°36'8.83" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|24°14'40.52" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|19°18'29.32" |Scorpio|Qalb|Sun|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°56'16.81" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°56'16.81" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|17°0'46.84" |Gemini|HanAh|Mars|
-|♂ Mars|Pre-Retrograde Shadow|6°1'30.31" |Leo|Jabhah|Saturn|
+|♂ Mars|Retrograde|6°1'30.31" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°36'8.83" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|24°14'40.52" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Retrograde|19°18'29.32" |Sagittarius|Baldah|Moon|

@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:16:57 |
+| Fajr (Dawn) | 06:16:58 |
 | Sunrise | 08:13:10 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°52'57.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°16'54.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°52'39.95" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°34'21.32" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|21°54'26.40" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|21°8'34.83" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|28°9'20.71" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|12°52'57.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°16'54.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°52'39.79" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°34'21.36" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|21°54'26.42" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|21°8'34.89" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|28°9'19.99" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°52'57.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°16'54.76" |Gemini|Dhira|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°52'33.34" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°34'20.63" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°54'30.58" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|21°8'35.87" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°56'5.65" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|12°52'57.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°16'54.98" |Gemini|Dhira|Mars|
+|♂ Mars|Retrograde|5°52'39.79" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°34'21.36" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°54'26.42" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|21°8'34.89" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|28°9'19.99" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

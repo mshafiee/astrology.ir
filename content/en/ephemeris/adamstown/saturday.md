@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:41:55 |
 | Dhuhr (Noon) | 12:29:20 |
 | Medium Coeli | 12:29:20 |
-| Sunset | 19:16:57 |
+| Sunset | 19:16:58 |
 | Maghrib | 19:18:19 |
 | Isha (Night) | 20:29:44 |
-| Sharia Midnight | 23:53:03 |
+| Sharia Midnight | 23:53:04 |
 | Imum Coeli | 00:29:32 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:41:55 |
 | Dhuhr (Noon) | 12:29:20 |
 | Medium Coeli | 12:29:20 |
-| Sunset | 19:16:57 |
+| Sunset | 19:16:58 |
 | Maghrib | 19:18:19 |
 | Isha (Night) | 20:43:09 |
-| Sharia Midnight | 23:40:51 |
+| Sharia Midnight | 23:40:52 |
 | Imum Coeli | 00:29:32 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:41:55 |
 | Dhuhr (Noon) | 12:29:20 |
 | Medium Coeli | 12:29:20 |
-| Sunset | 19:16:57 |
+| Sunset | 19:16:58 |
 | Maghrib | 19:18:19 |
 | Isha (Night) | 20:45:52 |
-| Sharia Midnight | 23:44:59 |
+| Sharia Midnight | 23:45:00 |
 | Imum Coeli | 00:29:32 |
 {{< /tab >}}
 
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:41:55 |
 | Dhuhr (Noon) | 12:29:20 |
 | Medium Coeli | 12:29:20 |
-| Sunset | 19:16:57 |
+| Sunset | 19:16:58 |
 | Maghrib | 19:18:19 |
 | Isha (Night) | 20:48:19 |
-| Sharia Midnight | 23:43:37 |
+| Sharia Midnight | 23:43:38 |
 | Imum Coeli | 00:29:32 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:35:02|Night duration: 10:25:00|
+|Duration of the day: 13:35:03|Night duration: 10:24:59|
 |Every hour of day duration: 01:07:55|Every hour of night duration: 00:52:05|
 
  
@@ -219,20 +219,20 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|05:41:55|06:49:49|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Jupiter|Servant|06:49:50|07:57:44|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|07:57:45|09:05:39|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Sun|Servant|09:05:40|10:13:34|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Venus|Servant|10:13:35|11:21:29|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mercury|Servant|11:21:30|12:29:25|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Sun|Servant|09:05:40|10:13:35|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Venus|Servant|10:13:36|11:21:30|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mercury|Servant|11:21:31|12:29:25|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|12:29:26|13:37:20|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Saturn|Ruler|13:37:21|14:45:15|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Jupiter|Servant|14:45:16|15:53:10|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mars|Servant|15:53:11|17:01:05|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Sun|Servant|17:01:06|18:09:00|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Venus|Servant|18:09:01|19:16:56|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Saturn|Ruler|13:37:21|14:45:16|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Jupiter|Servant|14:45:17|15:53:11|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mars|Servant|15:53:12|17:01:06|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Sun|Servant|17:01:07|18:09:01|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Venus|Servant|18:09:02|19:16:57|The moon is in Scorpio, Not suitable for doing anything.|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|19:16:57|20:09:01|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mercury|Ruler|19:16:58|20:09:01|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Moon|Servant|20:09:02|21:01:06|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Saturn|Servant|21:01:07|21:53:11|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|21:53:12|22:45:16|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°55'1.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|17°6'41.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Pre-Retrograde Shadow|5°58'37.59" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°51'38.60" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°23'29.27" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|20°3'20.81" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|14°7'28.81" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|12°55'1.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°6'41.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°58'37.42" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°51'38.64" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°23'29.29" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|20°3'20.88" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|14°7'28.48" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|12°55'1.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|17°6'41.29" |Gemini|HanAh|Mars|
-|♂ Mars|Pre-Retrograde Shadow|5°58'37.59" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|9°51'38.60" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°23'29.27" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|20°3'20.81" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|14°7'28.81" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|12°55'1.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|17°6'41.70" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°58'37.42" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|9°51'38.64" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°23'29.29" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|20°3'20.88" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|14°7'28.48" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
