@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Moon|Servant|19:55:38|20:53:51|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|20:53:52|21:52:06|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|21:52:07|22:50:20|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mars|Servant|22:50:21|23:48:34|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mars|Servant|22:50:21|23:48:34|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|23:48:35|00:46:48|Making promises|
 |8|Venus|Ruler|00:46:49|01:45:03|Reconciliation of two persons, attracting love|
 |9|Mercury|Servant|01:45:04|02:43:17|Attracting and repelling enemies and causing separation|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|17°1'39.68" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|6°1'5.40" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|10°29'31.37" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|24°7'3.17" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|24°7'3.16" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|19°25'31.24" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|22°6'34.82" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|22°6'34.76" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|17°1'39.68" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|6°1'5.40" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°29'31.37" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|24°7'3.17" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|24°7'3.16" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Retrograde|19°25'31.24" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|22°6'34.82" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|22°6'34.76" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

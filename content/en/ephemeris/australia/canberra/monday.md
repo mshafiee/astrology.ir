@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|11°5'9.29" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|24°48'1.02" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|18°46'35.07" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|29°12'0.71" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|29°17'35.84" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

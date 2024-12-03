@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Mars|Ruler|05:41:36|06:56:27|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|06:56:28|08:11:20|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Venus|Servant|08:11:21|09:26:12|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mercury|Servant|09:26:13|10:41:05|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Mercury|Servant|09:26:13|10:41:05|Attracting material wealth, earnings and business prosperity|
 |5|Moon|Servant|10:41:06|11:55:57|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|11:55:58|13:10:50|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|13:10:51|14:25:43|Attracting love and hearts|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|16°49'28.87" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|6°5'54.39" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|12°0'55.94" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|25°52'5.36" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Retrograde|17°40'20.15" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|11°7'1.74" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|25°52'1.72" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Retrograde|17°40'22.48" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|10°59'10.45" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
