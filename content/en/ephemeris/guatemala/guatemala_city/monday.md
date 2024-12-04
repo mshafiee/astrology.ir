@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°58'28.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|12°58'28.94" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|16°50'58.86" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|6°5'21.90" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|11°49'38.86" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|25°39'3.78" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Retrograde|17°54'23.82" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|8°54'49.18" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°19'4.04" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Saturn|Mars|Sun|Venus|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Mercury|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°58'28.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|12°58'28.94" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|16°50'58.86" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°5'39.11" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|11°49'25.39" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Retrograde|6°5'21.90" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|11°49'38.86" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|25°38'48.59" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Retrograde|17°54'3.62" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|7°19'4.04" |Capricorn|SaadAlDhabib|Jupiter|
