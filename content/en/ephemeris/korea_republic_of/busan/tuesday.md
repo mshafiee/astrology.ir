@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°15'16.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°15'16.94" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|15°50'21.29" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|6°3'49.53" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|19°21'53.46" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|4°13'45.23" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|8°35'40.25" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|18°30'11.90" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|4°13'55.73" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|8°35'45.55" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|19°1'0.29" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°15'16.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°50'22.79" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°4'2.31" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|19°21'47.89" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|4°13'45.23" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|8°35'40.25" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|18°30'11.90" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°15'16.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°50'21.29" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°3'49.53" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|19°21'53.46" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|4°13'55.73" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|8°35'45.55" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|19°1'0.29" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:55:13 |
 | Sunrise | 05:22:37 |
-| Dhuhr (Noon) | 12:02:28 |
-| Medium Coeli | 12:02:28 |
+| Dhuhr (Noon) | 12:02:27 |
+| Medium Coeli | 12:02:27 |
 | Sunset | 18:42:24 |
 | Maghrib | 18:43:26 |
 | Isha (Night) | 20:13:26 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°10'31.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°10'31.15" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|16°5'39.19" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|6°8'24.81" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|17°27'38.15" |Scorpio|Qalb|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°10'31.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°10'31.15" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|16°5'39.19" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|6°8'24.81" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|17°27'38.15" |Sagittarius|Baldah|Moon|

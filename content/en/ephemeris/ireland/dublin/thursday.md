@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 16:08:21 |
 | Maghrib | 16:10:14 |
 | Isha (Night) | 18:15:11 |
-| Sharia Midnight | 23:05:52 |
+| Sharia Midnight | 23:05:51 |
 | Imum Coeli | 00:16:00 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°2'7.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°2'7.91" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|16°35'59.52" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|6°9'7.73" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|13°41'39.32" |Scorpio|Qalb|Sun|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°2'7.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|16°35'59.52" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°9'7.73" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|13°41'39.32" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°47'19.75" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Retrograde|15°28'59.58" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|2°36'10.91" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|13°2'7.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|16°35'59.73" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°9'5.23" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|13°41'35.88" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|27°47'21.05" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Retrograde|15°28'54.77" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|2°46'21.86" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

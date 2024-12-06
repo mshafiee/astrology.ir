@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:28:33 |
 | Maghrib | 18:32:28 |
 | Isha (Night) | 19:41:43 |
-| Sharia Midnight | 00:47:47 |
+| Sharia Midnight | 00:47:46 |
 | Imum Coeli | 01:24:19 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°8'42.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°8'42.41" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|16°11'48.21" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|6°9'26.92" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°41'47.66" |Scorpio|Qalb|Sun|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°8'42.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|16°11'48.21" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°9'26.92" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|16°41'47.66" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°12'34.97" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|11°28'56.24" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|12°23'23.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°8'42.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|16°11'48.85" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°9'21.99" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|16°41'44.53" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°12'38.37" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|11°28'50.68" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|13°11'35.86" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Gemini|Moon|Mercury|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}

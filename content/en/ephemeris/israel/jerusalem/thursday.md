@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:10:12|Night duration: 13:50:35|
+|Duration of the day: 10:10:12|Night duration: 13:50:34|
 |Every hour duration: 01:27:10|Every hour duration: 01:58:39|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Moon|Ruler|16:34:54|18:33:32|
 |Late evening|Saturn|Servant|18:33:33|20:32:11|
 |Midnight|Jupiter|Servant|20:32:12|22:30:50|
-|Late at night|Mars|Servant|22:30:51|00:29:30|
-|Rooster song|Sun|Servant|00:29:31|02:28:09|
-|False Dawn|Venus|Servant|02:28:10|04:26:48|
-|Dawn|Mercury|Servant|04:26:49|06:25:28|
+|Late at night|Mars|Servant|22:30:51|00:29:29|
+|Rooster song|Sun|Servant|00:29:30|02:28:08|
+|False Dawn|Venus|Servant|02:28:09|04:26:47|
+|Dawn|Mercury|Servant|04:26:48|06:25:27|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°1'47.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|16°37'20.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|6°8'52.35" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°31'37.17" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|27°35'50.41" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|15°42'38.70" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°36'10.96" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|13°1'47.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|16°37'19.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|6°8'52.52" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°31'37.14" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|27°35'50.39" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|15°42'38.65" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|0°36'11.22" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°1'47.30" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|16°37'20.03" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°8'52.35" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|13°31'37.17" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°35'47.51" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Retrograde|15°42'37.28" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|0°18'21.21" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|13°1'47.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|16°37'19.62" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°8'52.52" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|13°31'37.14" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|27°35'45.00" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Retrograde|15°42'34.59" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|0°3'5.29" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

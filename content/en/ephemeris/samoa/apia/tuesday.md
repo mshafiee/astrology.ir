@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°14'40.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°14'40.88" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|15°52'13.01" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|6°4'31.71" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|19°7'57.28" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|3°58'10.82" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|8°48'2.66" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|16°14'43.73" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|8°48'21.68" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|15°43'16.39" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°14'40.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°52'13.01" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°4'46.12" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|19°7'43.02" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|3°57'58.65" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|8°48'2.66" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|16°14'43.73" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°14'40.74" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°52'12.61" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°4'31.89" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|19°7'57.27" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|3°58'10.82" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|8°48'21.67" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°43'15.73" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

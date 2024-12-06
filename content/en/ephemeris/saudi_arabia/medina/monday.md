@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:33:21 |
+| Fajr (Dawn) | 05:33:20 |
 | Sunrise | 06:54:07 |
 | Dhuhr (Noon) | 12:14:01 |
 | Medium Coeli | 12:14:01 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°10'46.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°10'46.66" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|16°4'47.38" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|6°8'13.43" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|17°34'3.44" |Scorpio|Qalb|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°10'46.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°10'46.66" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|16°4'47.38" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|6°8'13.43" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|17°34'3.44" |Sagittarius|Baldah|Moon|

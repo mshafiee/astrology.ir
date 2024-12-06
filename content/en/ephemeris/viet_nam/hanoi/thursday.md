@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:57:39 |
+| Fajr (Dawn) | 04:57:38 |
 | Sunrise | 06:19:32 |
 | Dhuhr (Noon) | 11:47:18 |
 | Medium Coeli | 11:47:18 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°3'26.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|16°30'57.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|6°10'0.60" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°19'23.14" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°30'28.64" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|14°37'5.18" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|9°45'53.98" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|13°3'26.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|16°30'53.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|6°9'44.75" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°19'39.68" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°30'43.10" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|14°37'29.18" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|11°2'35.30" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°3'26.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|16°30'53.30" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°9'44.75" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|14°19'39.68" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|28°30'43.10" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Retrograde|14°37'5.18" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|9°45'53.98" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|13°3'26.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|16°30'56.96" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°10'0.78" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|14°19'23.11" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|28°30'28.62" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Retrograde|14°37'5.14" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|9°45'54.35" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
