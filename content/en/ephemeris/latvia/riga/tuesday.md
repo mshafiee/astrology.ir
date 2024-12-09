@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 15:42:59 |
 | Maghrib | 15:45:14 |
 | Isha (Night) | 18:02:42 |
-| Sharia Midnight | 23:03:14 |
+| Sharia Midnight | 23:03:13 |
 | Imum Coeli | 00:16:45 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°13'36.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°55'38.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|6°5'46.69" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|18°42'24.38" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°29'21.62" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|9°12'38.89" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|10°17'32.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°13'35.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°55'38.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|6°5'46.88" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|18°42'23.42" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°29'18.31" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|9°12'38.39" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|9°58'40.91" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Aquarius|Moon|Saturn|
 |☿ Mercury|Venus|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°13'36.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°13'36.01" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|15°55'38.44" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|6°5'46.69" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|18°42'23.44" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|3°29'18.31" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|9°12'38.40" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|9°58'41.57" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°12'24.48" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|9°58'40.91" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

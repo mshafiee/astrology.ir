@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:56:28 |
 | Sunset | 15:27:53 |
 | Maghrib | 15:31:53 |
-| Isha (Night) | 17:44:28 |
+| Isha (Night) | 17:44:27 |
 | Sharia Midnight | 22:44:48 |
 | Imum Coeli | 23:56:41 |
 {{< /tab >}}
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°10'55.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|16°4'17.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|6°8'9.67" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°37'50.15" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°16'12.21" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°10'55.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|16°4'16.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|6°8'9.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°37'50.13" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°16'12.20" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Retrograde|10°21'37.77" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|25°5'58.85" |Aquarius|FarghAlMuqaddam|Moon|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°10'55.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|16°4'16.91" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°8'9.85" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|17°37'50.13" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|2°16'12.20" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|10°21'37.77" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|25°5'58.85" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|13°10'56.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|16°4'17.13" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°8'9.84" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|17°37'49.15" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|2°16'12.12" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|10°21'36.21" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|25°12'27.45" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°11'0.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|16°4'1.40" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|6°8'4.92" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°39'44.40" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°18'21.03" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|10°19'32.09" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|25°30'1.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|13°11'0.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|16°4'1.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|6°7'59.48" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°39'44.75" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°18'25.27" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|10°19'31.59" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|26°4'4.84" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°11'0.42" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|16°4'1.40" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°8'4.92" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|17°39'44.40" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|13°11'0.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|16°4'1.81" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°8'4.74" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|17°39'44.42" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|2°18'21.04" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Retrograde|10°19'32.10" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|25°30'1.50" |Pisces|Rescha|Mars|

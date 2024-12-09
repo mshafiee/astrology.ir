@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°16'20.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°47'7.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|6°2'30.51" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°46'3.62" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|4°41'13.30" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|8°15'11.49" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|24°46'54.25" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|13°16'20.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°47'8.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|6°2'27.80" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°46'1.69" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|4°41'15.44" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|8°15'7.57" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|25°20'6.97" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Jupiter|Saturn|Aquarius|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°16'20.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°47'7.87" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°2'30.51" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|19°46'3.62" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|13°16'20.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°47'8.30" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°2'27.80" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|19°46'1.69" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|4°41'15.44" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Retrograde|8°15'7.57" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|25°20'6.97" |Aries|Butain|Venus|
