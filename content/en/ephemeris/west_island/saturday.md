@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°26'41.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°17'47.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°44'7.86" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°27'36.66" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°50'2.61" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|6°28'11.60" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|16°58'6.99" |Taurus|Dabaran|Moon|
+|♄ Saturn|Post-Retrograde Shadow|13°26'41.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°17'51.33" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°44'13.96" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°27'23.48" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°49'58.56" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|6°27'52.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|18°31'48.07" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Aries|Moon|Saturn|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°26'41.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°17'47.69" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°44'7.86" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°27'36.66" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|15°17'51.33" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°44'13.77" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°27'23.50" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|8°49'58.57" |Aquarius|SaadAlAkhbia|Venus|
 |☿ Mercury|Retrograde|6°27'52.93" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|18°31'49.10" |Gemini|Dhira|Mars|

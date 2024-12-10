@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:34:58 |
+| Fajr (Dawn) | 04:34:59 |
 | Sunrise | 05:42:49 |
 | Dhuhr (Noon) | 11:55:34 |
 | Medium Coeli | 11:55:34 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°17'53.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°42'25.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|6°0'17.18" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|20°21'15.62" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|5°20'53.41" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°17'53.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°42'26.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|6°0'17.00" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|20°21'15.63" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|5°20'53.42" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Retrograde|7°48'27.17" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°49'51.53" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°49'52.09" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°17'53.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°42'25.76" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°0'17.18" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|20°21'15.62" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|5°20'53.41" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°17'53.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°42'26.17" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°0'17.00" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|20°21'15.63" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|5°20'53.42" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Retrograde|7°48'27.17" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°49'51.53" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°49'52.09" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
