@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°26'42.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°26'42.23" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|15°17'45.51" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°44'5.26" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°27'55.72" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°50'23.68" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|6°28'9.24" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|17°0'8.42" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°27'48.33" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°50'14.09" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|6°28'2.23" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|17°43'51.68" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Aries|Moon|Saturn|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°26'42.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°26'42.09" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|15°17'45.51" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°44'5.37" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°27'55.71" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|8°50'23.68" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Retrograde|6°28'9.24" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Retrograde|5°44'5.26" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°27'55.72" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|8°50'23.77" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Retrograde|6°28'9.22" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|17°0'6.77" |Gemini|HanAh|Mars|
 
 

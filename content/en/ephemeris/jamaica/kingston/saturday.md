@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:02:08 |
 | Sunset | 17:34:09 |
 | Maghrib | 17:35:25 |
-| Isha (Night) | 18:39:28 |
+| Isha (Night) | 18:39:29 |
 | Sharia Midnight | 23:29:43 |
 | Imum Coeli | 00:02:22 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°28'16.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°13'38.64" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°40'36.51" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°59'18.61" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|13°28'16.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°13'39.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°40'36.31" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°59'18.63" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|9°25'27.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|6°24'42.70" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|24°24'31.92" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|6°24'42.72" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|24°24'32.76" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°28'16.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°13'38.64" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°40'36.51" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°59'18.61" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|13°28'16.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°13'39.03" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°40'36.31" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°59'18.63" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|9°25'27.26" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Retrograde|6°24'42.70" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|24°24'31.92" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|6°24'42.72" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|24°24'32.76" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

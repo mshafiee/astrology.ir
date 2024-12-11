@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 10:45:20|Night duration: 13:15:18|
-|Every hour of day duration: 00:53:47|Every hour of night duration: 01:06:17|
+|Every hour of day duration: 00:53:47|Every hour of night duration: 01:06:16|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°15'20.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°50'8.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|6°3'43.87" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°23'26.08" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|4°15'39.98" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|8°34'26.05" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|19°19'16.13" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|13°15'20.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°50'8.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|6°3'44.05" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°23'26.07" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|4°15'39.97" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|8°34'26.04" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|19°19'15.50" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°15'20.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°50'8.84" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|6°3'43.87" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|19°23'26.08" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|4°15'39.98" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|8°34'26.05" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|19°19'16.13" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°15'20.73" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°50'8.43" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|6°3'44.05" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|19°23'26.07" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|4°15'39.97" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|8°34'26.04" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|19°19'15.50" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
