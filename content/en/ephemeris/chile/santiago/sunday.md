@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°31'7.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°6'22.81" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°33'53.41" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|24°55'5.43" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°31'7.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°6'23.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°33'53.21" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°55'5.45" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|10°27'39.18" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°25'14.39" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|9°5'7.01" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°25'14.42" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°31'50.19" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°31'7.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°31'7.62" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|15°6'23.20" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°33'53.21" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|24°55'5.43" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|24°55'5.45" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|10°27'39.18" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°25'14.39" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°31'49.85" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°25'14.42" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°31'50.19" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

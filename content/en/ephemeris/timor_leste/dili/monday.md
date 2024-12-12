@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°32'41.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°2'29.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°29'56.59" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°25'6.38" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°1'2.43" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°28'56.62" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°10'58.26" |Gemini|HanAh|Mars|
+|♄ Saturn|Post-Retrograde Shadow|13°32'41.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°2'32.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°30'17.31" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°24'51.77" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°0'45.72" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|6°28'42.66" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|15°54'49.08" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°32'41.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°2'29.03" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°29'56.59" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°25'6.38" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°32'41.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°2'29.42" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°29'56.39" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|25°25'6.40" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|11°1'2.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°28'56.62" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|6°28'56.65" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|14°10'58.29" |Cancer|Tarf|Mercury|
 
 
