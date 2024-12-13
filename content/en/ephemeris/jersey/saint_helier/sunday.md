@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:03:45 |
 | Medium Coeli | 12:03:45 |
 | Sunset | 16:10:49 |
-| Maghrib | 16:12:29 |
+| Maghrib | 16:12:30 |
 | Isha (Night) | 18:02:51 |
 | Sharia Midnight | 23:04:51 |
 | Imum Coeli | 00:04:00 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:03:45 |
 | Medium Coeli | 12:03:45 |
 | Sunset | 16:10:49 |
-| Maghrib | 16:12:29 |
+| Maghrib | 16:12:30 |
 | Isha (Night) | 18:09:12 |
 | Sharia Midnight | 23:04:51 |
 | Imum Coeli | 00:04:00 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°27'49.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|13°27'48.99" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|15°14'50.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°41'41.15" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|23°50'11.43" |Scorpio|Shaulah|Venus|

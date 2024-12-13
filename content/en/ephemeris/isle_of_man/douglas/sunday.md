@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°27'53.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°14'39.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°41'31.95" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°51'39.32" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|9°16'55.78" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|6°25'12.82" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|23°3'47.20" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°27'53.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°14'39.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°41'32.14" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°51'39.30" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|9°16'55.77" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|6°25'12.80" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|23°3'46.30" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°27'53.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°14'39.46" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°41'31.95" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°51'39.32" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°16'55.78" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Retrograde|6°25'12.82" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°3'47.20" |Gemini|Dhira|Sun|
+|♄ Saturn|Post-Retrograde Shadow|13°27'53.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°14'39.07" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°41'32.14" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°51'39.30" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°16'58.15" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Retrograde|6°25'8.41" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|23°19'16.74" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

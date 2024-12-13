@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:09:06 |
+| Fajr (Dawn) | 06:09:05 |
 | Sunrise | 07:25:42 |
 | Dhuhr (Noon) | 12:20:01 |
 | Medium Coeli | 12:20:01 |
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|26°29'9.21" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°12'9.29" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Retrograde|6°44'7.09" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|28°40'53.14" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°43'4.24" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

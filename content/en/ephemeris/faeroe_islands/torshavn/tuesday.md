@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:42:54 |
-| Sunrise | 09:47:31 |
+| Sunrise | 09:47:30 |
 | Dhuhr (Noon) | 12:23:24 |
 | Medium Coeli | 12:23:24 |
 | Sunset | 14:59:12 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:29:42 |
-| Sunrise | 09:47:31 |
+| Sunrise | 09:47:30 |
 | Dhuhr (Noon) | 12:23:24 |
 | Medium Coeli | 12:23:24 |
 | Sunset | 14:59:12 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:42:54 |
-| Sunrise | 09:47:31 |
+| Sunrise | 09:47:30 |
 | Dhuhr (Noon) | 12:23:24 |
 | Medium Coeli | 12:23:24 |
 | Sunset | 14:59:12 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°34'23.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°58'23.40" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°25'39.16" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°56'54.88" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°36'24.80" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°35'11.43" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|21°57'9.18" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|14°58'23.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°25'39.17" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°56'54.84" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°36'24.75" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|6°35'11.42" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|21°57'8.56" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
