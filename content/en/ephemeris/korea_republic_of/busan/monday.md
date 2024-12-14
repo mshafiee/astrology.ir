@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 17:13:54 |
 | Maghrib | 17:15:08 |
 | Isha (Night) | 18:30:29 |
-| Sharia Midnight | 23:41:29 |
+| Sharia Midnight | 23:41:30 |
 | Imum Coeli | 00:19:46 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°32'50.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°32'51.03" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|15°2'6.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°29'33.72" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°28'4.98" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°4'21.48" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°29'24.48" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|15°1'22.17" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°29'34.24" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°28'4.82" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°4'21.03" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|6°29'24.46" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|15°3'9.41" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°32'51.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°2'6.01" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°29'33.93" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°28'4.96" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|11°4'21.48" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°29'24.45" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|15°1'22.16" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|13°32'51.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°2'6.42" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°29'34.24" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|25°28'4.82" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|11°4'21.03" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|6°29'24.46" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°3'9.41" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°32'21.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°3'19.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°30'47.50" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°18'41.41" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|10°53'54.24" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°27'58.28" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°42'16.40" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|13°32'21.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°3'21.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°31'3.63" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°18'33.23" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|10°53'40.80" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|6°27'52.39" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|13°49'49.53" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Venus|Mars|
 |☿ Mercury|Mars|Venus|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°32'21.30" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°32'21.30" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|15°3'19.23" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°30'47.50" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|25°18'41.41" |Sagittarius|Baldah|Saturn|

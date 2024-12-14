@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'45.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'42.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°19'9.17" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°41'5.21" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°25'21.86" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°48'0.52" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°21'34.23" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°36'45.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'42.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°19'8.50" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°41'5.50" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°25'22.43" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|6°48'0.66" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°18'32.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'45.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'42.21" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'9.17" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°41'5.21" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°25'21.86" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°48'0.52" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°21'34.23" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°36'45.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'42.29" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°19'8.47" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°41'5.00" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°25'22.59" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|6°47'59.86" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°18'56.87" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MHD, Masant, Masat, Maschhad, Mashad, Mashado, Mashhad, Mashkhad, Masyhad, Maxhad, Maŝhado, Maşat, Mašhad, Mașhad, Meixad, Meshed, Mesheda, Meshedas, Meshkhed, MeshkhӀed, Meszhed, Mexed, Meşhed, Mešheda, Mešhedas, Məshəd, Məşhəd, ma shen ha de, mach had, macukat, masahada, mashuhado, masyuhadeu, meshhedi, mshd, mshhd, Μασάντ, Машхад, Машҳад, Мешхед, МешхӀед, Мешһед, Мәшһәд, Մաշհադ, משהד, مشهد, مشہد, مەشھەد, मशहद, মাশহাদ, ਮਸ਼ਹਦ, மசுகாத், മശ്‌ഹദ്, มัชฮัด, მეშჰედი, マシュハド, 馬什哈德, 마슈하드

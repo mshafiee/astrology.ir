@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°38'32.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°38'32.31" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°48'33.13" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°14'6.37" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|27°13'33.14" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°38'32.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°48'32.75" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°14'6.57" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°13'33.12" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°1'18.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°0'8.86" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|8°17'8.40" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°38'32.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°48'34.18" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°14'4.83" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°13'29.19" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°1'21.42" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|7°0'1.93" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|8°9'4.87" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

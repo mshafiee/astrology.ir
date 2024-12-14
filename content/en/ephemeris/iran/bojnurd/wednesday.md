@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'47.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°36'47.30" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°52'38.07" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°19'3.03" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°41'37.32" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°25'58.04" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°48'10.43" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°26'34.05" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°48'11.43" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°22'23.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'47.30" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'38.27" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'3.84" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°41'36.46" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°25'57.48" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°48'10.43" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°26'34.05" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°36'47.30" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'38.07" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°19'3.03" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°41'37.32" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°25'58.04" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|6°48'11.43" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°22'23.10" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BJB, Bodzhnurd, Bojnord, Bojnourd, Bojnurd, Bojnūrd, Bujnurd, Bujnūrd, bjnwrd, Боджнурд, بجنورد

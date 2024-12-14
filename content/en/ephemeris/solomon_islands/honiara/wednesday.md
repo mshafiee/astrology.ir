@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°38'58.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°47'36.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°13'11.94" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°21'7.53" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°9'39.55" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°3'12.64" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|11°27'41.08" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|13°38'58.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°47'36.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°13'11.30" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°21'7.07" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°9'40.32" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|7°3'11.58" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|11°24'21.78" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°38'58.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°47'33.37" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°12'51.31" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°21'21.00" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°9'56.04" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°3'24.22" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|9°54'49.23" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|13°38'58.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°47'32.99" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°12'51.51" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°21'20.99" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°9'56.05" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|7°3'24.19" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|9°54'49.65" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

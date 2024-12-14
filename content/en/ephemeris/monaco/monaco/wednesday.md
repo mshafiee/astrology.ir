@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'17.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°51'29.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°17'47.79" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°50'43.60" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|13°37'17.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°51'27.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°17'39.94" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°50'52.65" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°36'8.44" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Retrograde|6°51'13.87" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|4°10'50.40" |Cancer|Nathrah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'17.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°37'17.70" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°51'27.10" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°17'39.94" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°50'52.65" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°36'13.75" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Retrograde|6°51'24.53" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|4°10'50.80" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°32'22.14" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MCM, Monaco, Monaco-Ville, Monako, Mònaco, Mónaco, Mónakó, monako, Μονακό, Монако, 모나코

@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:50:18 |
 | Medium Coeli | 12:50:18 |
 | Sunset | 20:02:29 |
-| Maghrib | 20:21:26 |
+| Maghrib | 20:21:25 |
 | Isha (Night) | 21:21:28 |
 | Sharia Midnight | 00:04:28 |
 | Imum Coeli | 00:50:32 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°29'11.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°29'11.54" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|15°11'17.49" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°38'31.22" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|24°17'24.82" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°29'11.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°11'17.49" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°38'31.22" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|24°17'24.82" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°45'39.91" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Retrograde|6°23'56.39" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|28°49'50.92" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|13°29'11.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°11'19.67" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°38'36.60" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|24°17'14.09" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°45'36.70" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Retrograde|6°23'41.37" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|29°58'46.92" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

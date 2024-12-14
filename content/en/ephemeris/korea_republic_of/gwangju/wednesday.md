@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°39'29.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°46'22.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°11'23.36" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°30'36.00" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°20'10.05" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°7'24.20" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°1'45.96" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|13°39'29.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°46'23.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°11'34.21" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°30'32.19" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°20'0.45" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|7°7'23.30" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|12°53'39.49" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°39'29.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°46'22.40" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°11'23.57" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°30'35.98" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|13°39'29.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°46'22.78" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°11'23.36" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°30'36.00" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|13°20'10.05" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°7'24.17" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|12°1'46.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|7°7'24.20" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|12°1'45.96" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Gouanjou, Gwangju, Gwangju Kong-hek-chhi, Gwangju Kóng-he̍k-chhī, Gwangju-si, KWJ, Koshu, Kosyu, Kuandzhu, Kuangju, Kuangjuo, Kvandzhu, Kvandzu, Kvandžu, Kvangdzsu, Kvangdzu, Kvanju, Kvanzhe, Kvaңdzhu, Kwang-choo, Kwang-dschu, Kwangdzu, Kwangdžu, Kwangju, Kōshū, Kōsyū, Kŭangĵuo, Quansua, ghwanghjw, guang zhou, guang zhou guang yu shi, guang zhou shi, gvangaju, gwang jw, gwangju, gwangjugwang-yeogsi, gwangjusi, gwangjw, kh wang cu, Квангџу, Кванджу, Кванже, Кваңджу, Куанджу, Куанжү, קוואנגגו, غوانغجو, گوانگ جو, گوانگجو, ग्वांगजू, ควังจู, 光州, 光州市, 光州广域市, 光州広域市, 光州廣域市, 광주, 광주광역시, 광주시

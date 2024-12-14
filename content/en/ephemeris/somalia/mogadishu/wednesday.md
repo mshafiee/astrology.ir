@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'43.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'46.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°19'11.43" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°40'34.23" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°24'47.88" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°47'50.86" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°1'40.91" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°36'43.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'46.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°19'15.23" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°40'31.62" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°24'45.05" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|6°47'48.41" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°18'30.74" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'43.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'46.08" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'11.43" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°40'34.23" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°24'47.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°47'50.86" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°1'40.91" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°36'43.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'45.69" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°19'11.64" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°40'34.21" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°24'47.89" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|6°47'50.83" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°1'41.32" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈
