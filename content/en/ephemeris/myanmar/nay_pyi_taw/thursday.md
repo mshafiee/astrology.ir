@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°39'41.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|13°39'41.67" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°45'53.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°11'0.96" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°34'15.19" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°24'7.33" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°9'1.61" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|13°56'30.01" |Cancer|Tarf|Mercury|
+|♂ Mars|Retrograde|5°10'45.32" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°34'23.01" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°24'20.51" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|7°9'6.55" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|12°44'16.66" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°39'41.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°39'41.67" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°45'53.78" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°10'45.32" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°34'23.01" |Sagittarius|Baldah|Saturn|

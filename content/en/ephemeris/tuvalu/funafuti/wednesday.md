@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°38'47.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°47'57.81" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°13'21.89" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°18'9.24" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°6'23.98" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°2'3.44" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|9°13'21.03" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°38'47.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°48'0.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°13'27.98" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°17'58.76" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°6'20.91" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|7°1'49.75" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|9°37'43.87" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°38'47.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°38'47.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°47'57.81" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°13'21.89" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°18'9.24" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티
