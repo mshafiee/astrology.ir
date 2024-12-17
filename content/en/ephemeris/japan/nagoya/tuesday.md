@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 16:42:33 |
 | Maghrib | 16:43:47 |
 | Isha (Night) | 18:12:03 |
-| Sharia Midnight | 22:58:55 |
+| Sharia Midnight | 22:58:54 |
 | Imum Coeli | 23:48:44 |
 {{< /tab >}}
 
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'2.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°54'24.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°21'8.32" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°27'48.67" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°36'2.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°54'24.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°21'8.52" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°27'48.65" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°10'40.18" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°43'41.45" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°43'41.45" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|28°28'40.06" |Gemini|Dhira|Sun|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'2.39" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°54'24.32" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°21'7.27" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°27'49.54" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°36'2.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°54'24.52" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°21'8.32" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°27'48.67" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°10'40.98" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°43'42.35" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|28°23'21.70" |Cancer|Jabhah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|6°43'42.32" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|28°23'22.07" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

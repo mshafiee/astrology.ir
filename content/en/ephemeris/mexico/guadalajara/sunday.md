@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:11:16 |
+| Fajr (Dawn) | 06:11:15 |
 | Sunrise | 07:22:44 |
 | Dhuhr (Noon) | 12:49:02 |
 | Medium Coeli | 12:49:02 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|13°31'38.79" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|15°5'4.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°32'34.61" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°4'49.99" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|10°38'37.25" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°25'54.20" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|11°20'22.93" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|25°5'6.69" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|10°38'47.96" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°26'14.35" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|9°39'38.85" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Venus|Mars|
 |☿ Mercury|Mars|Venus|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|13°31'38.79" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|15°5'4.87" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°32'34.61" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°5'6.69" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|10°38'47.96" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°26'14.35" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|9°39'38.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°5'6.65" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|10°38'48.47" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°26'14.04" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|9°38'52.25" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

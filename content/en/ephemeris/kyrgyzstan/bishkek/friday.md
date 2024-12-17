@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°43'29.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°37'24.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°59'17.11" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°41'32.49" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|14°38'30.54" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°43'44.24" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|26°35'47.84" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Retrograde|14°37'23.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°59'20.70" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°41'33.00" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|14°38'26.71" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°43'46.74" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|27°0'28.56" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|4°59'17.11" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°41'32.49" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|14°38'30.54" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°43'44.24" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°43'44.24" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|26°35'47.84" |Leo|Sarfrah|Mars|
 
 

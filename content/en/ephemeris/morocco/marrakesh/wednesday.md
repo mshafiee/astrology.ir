@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°37'21.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°51'20.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°17'33.54" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°51'53.13" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°37'27.83" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°51'38.35" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|4°9'2.39" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|14°51'18.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°17'27.95" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°52'2.66" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°37'30.84" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°51'50.82" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°40'9.64" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°37'21.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°51'18.01" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°17'27.95" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°52'2.66" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°37'30.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°51'50.82" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°40'9.64" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|14°51'18.92" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°17'24.25" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°51'59.93" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°37'35.07" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°51'44.83" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°25'33.99" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什

@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:31:58 |
+| Fajr (Dawn) | 05:31:57 |
 | Sunrise | 07:00:25 |
 | Dhuhr (Noon) | 11:59:08 |
 | Medium Coeli | 11:59:08 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'52.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'24.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°18'48.09" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°43'19.31" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°36'52.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'25.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°18'47.88" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°43'19.33" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°27'51.29" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°48'45.88" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°46'42.00" |Cancer|Nathrah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|6°48'45.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°46'41.59" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'52.73" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'24.66" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°18'48.09" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°43'19.31" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°36'52.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'25.04" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°18'47.88" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°43'19.33" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°27'51.29" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°48'45.88" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°46'42.00" |Leo|Jabhah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|6°48'45.91" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°46'41.59" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

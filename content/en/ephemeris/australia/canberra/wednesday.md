@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°38'56.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°47'37.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°12'58.53" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°20'47.44" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°9'19.57" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°3'8.70" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|9°57'18.26" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°38'56.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°47'37.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°12'58.73" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°20'47.42" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°9'19.58" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°3'8.66" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|9°57'18.67" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°38'56.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°47'37.92" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°12'58.53" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°20'47.44" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°9'19.57" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°3'8.70" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|9°57'18.26" |Leo|Zubrah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°38'56.28" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°47'37.54" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°12'58.73" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°20'47.42" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°9'19.58" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°3'8.66" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|9°57'18.67" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CBR, Camberra, Canberra, Canberrah, Kamberra, Kambra, Kampera, Kanapera, Kanbera, Kanbero, Kanberr, Kanberra, Kanberrae, Kanberre, Kanbérra, Kham-phi-la, Khâm-phì-là, Kānapera, kaenbeola, kainabara, kainberra, kan pei la, kanabera, kanbra, kanpara, kenabera, kyanabara, kyanabera, kyanbera, kynbra, kʼanbera, qnbrh, Καμπέρα, Канбера, Канберрæ, Канберра, Канберре, Канбєра, Կանբերրա, קאנבערא, קנברה, كانبرا, کانبرا, کانبێرا, کینبرا, कॅनबेरा, कैनबरा, कैन्बेर्रा, क्यानबरा, ক্যানবেরা, ਕੈਨਬਰਾ, କାନବେରା, கான்பரா, കാൻബറ, කැන්බරා, แคนเบอร์รา, ཁན་པེ་ར།, კანბერა, ካንበራ, キャンベラ, 坎培拉, 堪培拉, 캔버라

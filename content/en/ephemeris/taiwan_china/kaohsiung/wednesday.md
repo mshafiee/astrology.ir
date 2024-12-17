@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 11:55:23 |
 | Medium Coeli | 11:55:23 |
 | Sunset | 17:18:09 |
-| Maghrib | 17:34:16 |
+| Maghrib | 17:34:17 |
 | Isha (Night) | 18:20:55 |
 | Sharia Midnight | 23:19:39 |
 | Imum Coeli | 23:55:37 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°39'28.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°46'23.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°11'23.17" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°30'27.86" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°19'56.41" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°7'21.81" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°37'56.21" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|14°46'23.35" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°11'23.36" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°30'30.88" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°20'4.09" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°7'22.49" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|11°56'17.78" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Saturn|Venus|Libra|Moon|Venus|
 |♂ Mars|Saturn|Sun|Virgo|Moon|Moon|
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
-|♀ Venus|Sun|Mars|Gemini|Moon|Saturn|
+|♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Jupiter|Venus|Sagittarius|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|5°11'23.17" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°30'31.05" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|13°20'4.23" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°7'22.67" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°7'22.67" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|11°55'29.12" |Leo|Zubrah|Jupiter|
 
 

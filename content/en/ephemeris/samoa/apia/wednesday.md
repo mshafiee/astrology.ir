@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|5°13'40.70" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|27°16'12.32" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|13°4'14.75" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°1'14.66" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°1'14.66" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|8°49'13.20" |Cancer|Nathrah|Venus|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°38'41.08" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°48'12.76" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°14'1.89" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°15'56.14" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°3'58.45" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°0'59.03" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°23'48.17" |Leo|Zubrah|Jupiter|
+|♂ Mars|Retrograde|5°13'40.70" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°16'12.32" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°4'14.75" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°1'14.66" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°8'11.10" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

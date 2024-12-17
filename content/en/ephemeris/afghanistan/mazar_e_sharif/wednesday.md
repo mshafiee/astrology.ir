@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'41.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'51.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°19'19.92" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°39'50.74" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°24'0.35" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°47'34.76" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°2'56.75" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°36'41.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'51.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°19'19.71" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°39'50.76" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°23'55.76" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°47'36.70" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°22'25.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'41.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'51.42" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'19.92" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°39'50.74" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°24'0.35" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°47'34.76" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°2'56.75" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°36'41.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'51.81" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°19'19.71" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°39'50.76" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°24'0.34" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°47'34.79" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°2'56.35" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프

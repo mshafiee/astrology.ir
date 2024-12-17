@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°41'19.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°42'13.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°5'56.12" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°3'21.27" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°56'19.72" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°23'1.18" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|18°51'36.33" |Cancer|Tarf|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|13°41'19.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°42'16.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°6'18.25" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°3'5.14" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°56'2.61" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°22'46.37" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|20°20'5.62" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|5°5'56.12" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°3'21.27" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|13°56'19.72" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°23'1.18" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°23'1.18" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|18°51'36.33" |Leo|Zubrah|Jupiter|
 
 

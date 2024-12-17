@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'29.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°50'58.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°17'5.49" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°54'34.95" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°40'19.74" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°52'45.88" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|4°17'10.62" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°37'29.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°50'58.72" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°17'5.29" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°54'34.97" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°40'19.73" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°52'45.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°17'10.20" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'29.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°50'58.34" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°17'5.49" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°54'34.95" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°40'19.74" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°52'45.88" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|4°17'10.62" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°37'29.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°50'58.72" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°17'5.29" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°54'34.97" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°40'19.73" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°52'45.91" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|4°17'10.20" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

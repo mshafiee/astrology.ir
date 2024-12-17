@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°30'19.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°8'23.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°35'48.41" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|24°39'39.67" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|10°10'26.81" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°24'16.17" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°55'38.20" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°30'19.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°8'23.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°35'49.17" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°39'38.82" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|10°10'27.10" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°24'15.34" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°57'59.71" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°30'19.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°8'23.42" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°35'49.41" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|24°39'39.28" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|10°10'26.81" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°24'16.17" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°55'38.20" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°30'19.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|15°8'22.95" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°35'48.61" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|24°39'39.65" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|10°10'27.65" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°24'16.35" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°52'25.11" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

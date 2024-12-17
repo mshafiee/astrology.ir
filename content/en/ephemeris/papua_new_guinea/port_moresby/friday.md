@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°46'2.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°31'51.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°51'17.02" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°25'42.11" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|15°26'57.64" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°11'4.19" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|6°12'37.31" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|14°31'51.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°51'14.30" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°25'42.51" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|15°27'0.32" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°11'3.48" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°55'44.26" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°46'2.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°31'51.47" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°51'16.82" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°25'42.13" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|15°26'57.62" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°11'4.19" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|14°31'51.12" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°51'14.30" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°25'42.51" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°27'0.32" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|8°11'3.48" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|5°55'44.26" |Virgo|Awwa|Sun|
 
 

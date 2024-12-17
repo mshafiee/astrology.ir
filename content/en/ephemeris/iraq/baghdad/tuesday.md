@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 16:57:24 |
 | Maghrib | 17:18:12 |
 | Isha (Night) | 18:07:14 |
-| Sharia Midnight | 23:14:40 |
+| Sharia Midnight | 23:14:41 |
 | Imum Coeli | 23:58:53 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°33'35.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|15°0'16.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°27'36.98" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°42'14.91" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°20'6.88" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|6°32'1.37" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|18°10'21.78" |Gemini|Dhira|Mars|
+|♃ Jupiter|Retrograde|15°0'16.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°27'37.82" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°42'14.97" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°20'6.09" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°32'1.84" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|18°12'21.60" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°33'35.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|15°0'16.53" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°27'36.98" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°42'14.91" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|11°20'6.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|6°32'1.37" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|18°10'21.78" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|15°0'16.49" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°27'37.82" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|25°42'14.97" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|11°20'6.09" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°32'1.84" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|18°12'21.60" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

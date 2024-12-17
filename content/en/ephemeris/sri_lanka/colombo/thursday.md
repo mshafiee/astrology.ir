@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°39'47.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°45'40.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°10'27.53" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°36'9.45" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°26'17.97" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|7°9'55.06" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|13°4'45.01" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|14°45'40.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°10'36.29" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°36'6.39" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°26'10.21" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°9'54.35" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|13°47'2.21" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°39'47.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°45'39.83" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°10'27.73" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°36'9.43" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|14°45'40.21" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°10'27.53" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°36'9.45" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|13°26'17.97" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|7°9'55.03" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|13°4'45.40" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|7°9'55.06" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|13°4'45.01" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
