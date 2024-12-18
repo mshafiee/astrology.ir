@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°40'13.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°44'40.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°9'13.07" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°43'53.67" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°34'51.36" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°13'28.77" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°51'38.66" |Cancer|Tarf|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|13°40'13.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°44'41.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°9'11.52" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°43'53.52" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°34'52.73" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|7°13'27.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|14°44'9.78" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°40'13.50" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°44'40.97" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°9'13.07" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°43'53.67" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°34'51.36" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°13'28.77" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|14°51'38.66" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°40'13.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°44'41.35" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°9'12.86" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°43'53.69" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°34'51.35" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|7°13'28.80" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|14°51'38.28" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

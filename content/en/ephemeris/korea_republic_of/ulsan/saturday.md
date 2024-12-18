@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°50'4.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°23'26.81" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°38'12.69" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°33'28.78" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°41'14.62" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|8°59'3.68" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|20°30'21.43" |Leo|Zubrah|Mars|
+|♃ Jupiter|Retrograde|14°23'26.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°38'1.77" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°33'32.71" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°41'24.68" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|8°59'4.43" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|19°37'14.36" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Venus|
 |☿ Mercury|Venus|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|4°38'1.77" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°33'32.71" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|16°41'24.68" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°59'4.43" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|8°59'4.43" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|19°37'14.36" |Virgo|Simak|Venus|
 
 

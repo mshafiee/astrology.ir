@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|14°52'45.30" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°19'11.22" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°40'40.70" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°24'50.81" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°47'51.42" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°31'36.53" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|12°24'55.33" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°47'52.42" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°7'55.57" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|5°19'11.22" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°40'40.70" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°24'55.33" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°47'52.42" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|6°47'52.42" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|1°7'55.57" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: DXB, Dabei, Dibai, Dibay, Doubayi, Dubae, Dubai, Dubai City, Dubai emiraat, Dubaija, Dubaj, Dubajo, Dubajus, Dubay, Dubayy, Dubaï, Dubái, Dúbæ, Ehmirat Dubaj, Fort Dabei, Ntoumpai, dby, dbyy, di bai, dobai, du bai, duba'i, dubai, dubay, dubi, dwbyy, tupai, Ντουμπάι, Дубаи, Дубай, Эмірат Дубай, Դուբայի Էմիրություն, דובאי, דוביי, دبئی, دبى, دبي, دبی, دوبەی, دۇبائى, दुबई, দুবাই, துபை, దుబాయ్, ದುಬೈ, ദുബായ്, ดูไบ, დუბაი, ドバイ, 杜拜, 迪拜, 두바이

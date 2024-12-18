@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'55.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°49'57.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°15'50.27" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°2'29.92" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°49'4.92" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°55'46.01" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|5°51'23.94" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°37'55.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°49'57.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°15'50.07" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°2'29.94" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°49'4.91" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°55'46.04" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°51'23.51" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|5°15'50.07" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°2'29.94" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°49'4.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°55'46.04" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|6°55'46.04" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|5°51'23.51" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

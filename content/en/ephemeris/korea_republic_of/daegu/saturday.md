@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°50'4.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°23'25.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°38'6.93" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°33'40.66" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°41'28.38" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|8°59'12.55" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|20°20'6.83" |Leo|Zubrah|Mars|
+|♃ Jupiter|Retrograde|14°23'24.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°37'59.99" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°33'42.38" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°41'35.14" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|8°59'11.83" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|19°40'14.23" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Venus|
 |☿ Mercury|Venus|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|4°37'59.85" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°33'42.39" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|16°41'35.29" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°59'11.77" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|8°59'11.77" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|19°39'12.51" |Virgo|Simak|Venus|
 
 

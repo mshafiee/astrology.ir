@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:22:57 |
+| Fajr (Dawn) | 05:22:58 |
 | Sunrise | 07:00:12 |
 | Dhuhr (Noon) | 12:00:02 |
 | Medium Coeli | 12:00:02 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|5°18'59.43" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°42'2.53" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°26'26.20" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°48'19.68" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|6°48'19.68" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|1°29'26.44" |Cancer|Nathrah|Venus|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'48.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'34.49" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°18'59.63" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°42'1.94" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°26'26.24" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°48'18.80" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°30'29.50" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°36'48.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'34.88" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°18'59.43" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°42'2.53" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°26'26.20" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°48'19.68" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°29'26.44" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

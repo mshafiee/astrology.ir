@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°40'31.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|13°40'31.46" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°44'0.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°8'18.26" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°49'13.98" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°40'44.50" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°16'2.14" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|15°51'56.77" |Cancer|Tarf|Mercury|
+|♂ Mars|Retrograde|5°8'35.63" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°49'4.83" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°40'29.99" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|7°15'55.95" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|17°11'10.97" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Mars|Capricorn|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°40'31.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°44'0.16" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°8'18.46" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°49'13.97" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°40'44.51" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°16'2.10" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|14°44'0.54" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°8'18.26" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°49'13.98" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°40'44.50" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|7°16'2.14" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|15°51'56.77" |Leo|Zubrah|Jupiter|
 
 

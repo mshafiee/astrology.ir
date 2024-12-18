@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'47.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|13°36'47.19" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°52'38.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°19'3.26" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°41'35.50" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°25'56.17" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°48'10.69" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|6°48'10.69" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|1°21'56.57" |Cancer|Nathrah|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°36'47.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'37.93" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'3.46" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°41'35.48" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|14°52'38.31" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°19'3.26" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°41'35.50" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°25'56.17" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°48'10.66" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°21'56.98" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|6°48'10.69" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°21'56.57" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Chimaz, Chiraz, SYZ, Schiras, Sheroz, Shiraz, Shyraz, Shīrāz, Siraz, Siraza, Sirazas, Sirazo, Siráz, Sjiraz, Sziraz, Xiraz, chi ras, she la zi, shirazi, shirazu, shyraz, silajeu, Ŝirazo, Şiraz, Şîraz, Širaz, Širazas, Šíráz, Šīrāz, Šīrāza, Σιράζ, Шероз, Шираз, Шыраз, Շիրազ, שיראז, شيراز, شیراز, ชีราซ, შირაზი, シーラーズ, 設拉子, 시라즈

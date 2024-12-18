@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|5°18'15.11" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°46'45.90" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°31'39.59" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°49'58.80" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|6°49'58.80" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|2°23'14.37" |Cancer|Nathrah|Venus|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°37'4.02" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°51'58.45" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°18'18.95" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°46'36.49" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°31'38.41" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°49'45.60" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°45'38.15" |Leo|Jabhah|Saturn|
+|♂ Mars|Retrograde|5°18'15.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°46'45.90" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°31'39.59" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°49'58.80" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°23'14.37" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Libra|Moon|Mercury|
 |♀ Venus|Mars|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Aquarius|Sun|Jupiter|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라

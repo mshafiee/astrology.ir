@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°39'26.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°46'28.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°11'30.72" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°29'49.67" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°19'19.69" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°7'3.08" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|11°50'8.00" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|14°46'28.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°11'30.63" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°29'50.23" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°19'19.42" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|7°7'4.03" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|11°51'11.81" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°39'26.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°46'28.74" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°11'30.52" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°29'49.68" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°39'26.56" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°46'28.59" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°11'30.63" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°29'50.23" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|13°19'19.42" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°7'4.03" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|7°7'4.03" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|11°51'11.81" |Leo|Zubrah|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'48.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'36.09" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°19'3.93" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°41'52.46" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°26'16.04" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°48'15.48" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°46'59.79" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|13°36'48.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'36.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°19'4.06" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°41'53.46" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°26'15.48" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°48'15.71" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°44'31.47" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'48.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'36.09" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'3.93" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°41'53.16" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°26'15.04" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°48'15.48" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°46'59.79" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|13°36'48.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'36.48" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°19'3.73" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°41'52.48" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°26'16.03" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°48'14.00" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°44'31.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: OMS, Om'sku, Omby, Omium, Oms'k, Omsc, Omsk, Omska, Omskas, Omszk, Omva, amsk, awmsk, e mu si ke, omseukeu, omska, omusuku, xxm skh, Ομσκ, Омбы, Омва, Омск, Омськ, Омьскъ, Օմսկ, אומסק, أومسك, امسک, اومسک, ओम्स्क, ออมสค์, ომსკი, オムスク, 鄂木斯克, 옴스크

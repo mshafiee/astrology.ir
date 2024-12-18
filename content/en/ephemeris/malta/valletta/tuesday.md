@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°33'52.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°59'38.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°27'9.97" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|25°47'19.98" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°25'50.76" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°32'50.58" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|20°58'37.94" |Gemini|Dhira|Sun|
+|♄ Saturn|Post-Retrograde Shadow|13°33'52.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°59'35.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°26'53.65" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°47'37.42" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°26'2.71" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°33'10.84" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|19°20'15.59" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Venus|Mars|
 |☿ Mercury|Mars|Venus|Mars|Mars|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|5°26'53.65" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|25°47'35.91" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|11°26'2.69" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°33'8.58" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|6°33'8.58" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|19°26'14.48" |Cancer|Tarf|Mercury|
 
 

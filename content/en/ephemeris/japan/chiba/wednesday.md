@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|5°11'44.69" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|27°28'24.50" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|13°17'44.72" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°6'26.12" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°6'26.12" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|11°33'50.85" |Cancer|Nathrah|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°39'21.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°46'39.53" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°11'44.69" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°28'24.50" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°17'44.72" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°6'26.12" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|11°33'50.85" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|14°46'41.90" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°12'2.09" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°28'13.87" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°17'30.60" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|7°6'17.55" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|12°52'7.93" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Libra|Moon|Mercury|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Aquarius|Sun|Jupiter|
-|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
+|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시
