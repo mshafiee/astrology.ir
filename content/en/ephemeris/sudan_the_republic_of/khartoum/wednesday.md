@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'54.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'21.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°18'42.73" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°43'45.73" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°28'20.12" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°48'55.93" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°45'22.36" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°36'54.08" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'22.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°18'40.59" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°43'42.72" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°28'22.91" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°48'50.20" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°39'24.78" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'54.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°36'54.21" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°52'21.54" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°18'42.73" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°43'45.73" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

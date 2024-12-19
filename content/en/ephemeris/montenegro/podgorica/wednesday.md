@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'10.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°51'43.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°17'59.92" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°37'10.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°51'45.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°18'6.15" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°48'32.98" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°33'43.84" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°50'27.82" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°34'8.70" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|6°50'27.79" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°34'9.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'10.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°51'43.95" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°17'59.92" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°48'40.96" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°33'47.86" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|6°50'37.54" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°2'43.58" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°37'10.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°51'45.91" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°18'6.15" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°48'32.98" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°33'43.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°50'27.82" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°34'8.70" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Libra|Moon|Mercury|
 |♀ Venus|Mars|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Aquarius|Sun|Jupiter|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Birziminium, Padgoryca, Podgairitse, Podgairítse, Podgorica, Podgoricae, Podgoricja, Podgorico, Podgorika, Podgoritsa, Podgoritza, Podgorytsa, Podgòrica, Podqoritsa, Podugorica, Pontnkoritsa, TGD, Titograd, bo de ge li cha, bwdghwrytsa, padagoritasa, phx dk xrit sa, podagorika, podeugolicha, podogoritsu~a, potkorikka, pwdgwrytsa, pwdgwryzh, pۆdgۆrytsa, Ποντγκόριτσα, Падгорыца, Подгоритса, Подгорицæ, Подгорица, Подгориця, Подъгорица, Պոդգորիցա, פודגוריצה, بودغوريتسا, پودگوریتسا, پوڈگوریکا, پۆدگۆریتسا, पॉडगोरिका, ਪਾਡਗੋਰਿਤਸਾ, பொட்கொரிக்கா, พอดกอรีตซา, პოდგორიცა, ፖድጎሪጻ, ポドゴリツァ, 波德戈里察, 포드고리차

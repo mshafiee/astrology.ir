@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'17.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°37'17.86" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°51'26.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°17'44.23" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°50'46.14" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°36'15.79" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°51'11.93" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°59'10.16" |Cancer|Nathrah|Venus|
+|♂ Mars|Retrograde|5°17'36.49" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°50'59.10" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°36'20.02" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°51'28.80" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°18'58.95" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mars|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'17.86" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°51'29.31" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°17'44.23" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°50'46.14" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°36'15.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|6°51'11.93" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°59'10.16" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°37'17.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°51'26.83" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°17'39.26" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°50'55.64" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°36'18.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°51'24.61" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°33'15.39" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: FNA, Freetown, Frijtaun, Fritaun, Fritauna, Fritaunas, Fritauno, Fritaŭno, Fritonn, Frytaun, Frītauna, Phritaoun, Saint George, Urbs Libera, farita'una, fri thawn, frita'una, frytawn, frytwn, fu li dun, furitaun, peulitaun, phrita'una, phritaun, piritavun, zi you shi, Φρίταουν, Фрийтаун, Фритаун, Фрытаўн, Фрітаун, Ֆրիթաուն, פריטאון, فريتاون, فريتون, فری ٹاؤن, فریتاون, فری‌تاون, फ़्रीटाउन, फ्रीटाउन, ਫ਼ਰੀਟਾਊਨ, பிரீடவுன், ಫ್ರೀಟೌನ್, ฟรีทาวน์, ཕིརི་ཊའུན།, ფრიტაუნი, ፍሪታውን, フリータウン, 弗里敦, 自由市, 프리타운

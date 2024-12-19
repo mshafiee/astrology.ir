@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'40.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°36'40.19" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°52'54.58" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°19'21.69" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°39'28.44" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°23'35.11" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°47'28.47" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|0°49'7.82" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°39'23.72" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°23'27.23" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°47'25.33" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°32'44.83" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'40.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°36'40.19" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°52'54.58" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'21.69" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°39'28.44" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°23'35.11" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|6°47'28.47" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|0°49'7.82" |Leo|Jabhah|Saturn|
+|♂ Mars|Retrograde|5°19'31.31" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°39'23.72" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°23'27.23" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°47'25.33" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°32'44.83" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Mambutzou, Mamoudzou, Mamoutzou, Mamudzu, Mamutzu, mamuju, Мамудзу, 마무주

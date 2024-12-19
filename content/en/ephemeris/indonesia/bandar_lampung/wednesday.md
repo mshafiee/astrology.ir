@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°39'30.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°46'21.09" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°11'30.48" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|27°30'50.93" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°20'21.38" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|7°7'31.69" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°54'9.11" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|13°39'29.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°46'19.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°11'18.78" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|27°30'56.00" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°20'31.64" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|7°7'34.09" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|11°57'47.28" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°39'30.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°46'20.12" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°11'18.58" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°30'56.01" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°20'31.63" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|7°7'34.13" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|11°57'46.88" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|13°39'29.96" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°46'19.73" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°11'18.78" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°30'56.00" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°20'31.64" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|7°7'34.09" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|11°57'47.28" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°55'38.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°55'38.77" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°12'16.81" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|4°18'38.18" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°4'44.88" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|18°20'59.80" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|10°13'54.82" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|7°15'54.46" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|7°15'53.77" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°55'38.77" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°12'18.93" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°18'47.17" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°4'36.08" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|18°20'54.48" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|10°13'45.71" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|7°15'54.46" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|13°55'38.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°12'16.81" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°18'38.18" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°4'44.88" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|18°20'59.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|10°13'54.80" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|7°33'53.16" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'6.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°51'51.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°18'7.25" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°47'37.60" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°32'36.87" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°50'16.98" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°34'41.70" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°37'6.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°51'51.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°18'7.45" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°47'37.59" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°32'36.88" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°50'16.95" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°34'42.12" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'6.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°51'51.88" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°18'6.83" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°47'37.43" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°32'37.32" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|6°50'16.51" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°33'8.31" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°37'6.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°51'51.45" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°18'7.45" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°47'37.59" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°32'36.88" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°50'16.95" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°34'42.12" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

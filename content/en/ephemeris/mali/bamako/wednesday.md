@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'15.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°51'30.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°17'41.83" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°50'24.85" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°35'42.14" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°51'16.41" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°12'7.42" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°37'15.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°51'32.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°17'43.24" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°50'17.11" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°35'42.71" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°51'4.83" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°22'57.17" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mars|Gemini|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'15.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°37'15.99" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°51'30.42" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°17'41.83" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°50'24.85" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

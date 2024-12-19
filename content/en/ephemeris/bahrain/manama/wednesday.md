@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'47.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'38.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°19'3.11" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°41'34.93" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°25'55.43" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°48'10.72" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°20'18.61" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°36'47.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'40.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°19'14.67" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°41'25.79" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°25'46.51" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°48'1.65" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°15'14.11" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'47.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°36'47.14" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°52'38.36" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°19'3.11" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°41'34.93" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al Manama, Al Manamah, Al Manāma, Al Manāmah, Al-Manama, Al-Manamah, Al-Manāmah, Maenamae, Manaama, Manam, Manama, Manamae, Manamah, Manameh, Manamo, Manáma, Manāma, Menama, Mename, Mänamä, WGF, aalmanamat, almnamh, almnamt, mai na ma, mai na mai, manama, mnamh, mnamہ, Μανάμα, Манамæ, Манама, Մանամա, מנאמה, المنامة, المنامه, اَلْمَنَامَة, منامه, منامہ, مەنامە, मनामा, মানামা, ਮਨਾਮਾ, ମାନାମା, மனாமா, മനാമ, มานามา, མ་ན་མ།, მანამა, ማናማ, マナーマ, 麥納瑪, 麦纳麦, 마나마

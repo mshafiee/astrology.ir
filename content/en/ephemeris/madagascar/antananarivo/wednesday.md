@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'37.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°53'1.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°19'29.91" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°38'35.89" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°22'37.01" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°47'10.65" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|0°39'26.62" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°36'37.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°53'1.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°19'38.14" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°38'33.04" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°22'30.03" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°47'9.79" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°15'24.31" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'37.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°53'1.37" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'29.91" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°38'35.89" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°22'37.01" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|6°47'10.65" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|0°39'26.62" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°36'37.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°53'0.98" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°19'30.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°38'35.88" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°22'37.02" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°47'10.62" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|0°39'27.03" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보

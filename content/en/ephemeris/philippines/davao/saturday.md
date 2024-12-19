@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°49'57.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°23'41.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°38'40.17" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°31'32.44" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°39'8.97" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|8°57'34.36" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|20°10'22.14" |Leo|Zubrah|Mars|
+|♄ Saturn|Direct|13°49'57.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°23'39.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°38'22.24" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°31'42.71" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°39'23.72" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|8°57'41.51" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|19°12'46.12" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Cancer|Sun|Venus|
 |☿ Mercury|Venus|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°49'57.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°49'57.53" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°23'39.59" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|4°38'22.24" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°31'42.71" |Capricorn|SaadAlDhabib|Jupiter|

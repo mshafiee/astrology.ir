@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:28:02|Night duration: 13:32:30|
+|Duration of the day: 10:28:02|Night duration: 13:32:29|
 |Every hour duration: 01:29:43|Every hour duration: 01:56:04|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Moon|Ruler|18:04:17|20:00:20|
 |Late evening|Saturn|Servant|20:00:21|21:56:24|
 |Midnight|Jupiter|Servant|21:56:25|23:52:28|
-|Late at night|Mars|Servant|23:52:29|01:48:33|
-|Rooster song|Sun|Servant|01:48:34|03:44:37|
-|False Dawn|Venus|Servant|03:44:38|05:40:41|
-|Dawn|Mercury|Servant|05:40:42|07:36:46|
+|Late at night|Mars|Servant|23:52:29|01:48:32|
+|Rooster song|Sun|Servant|01:48:33|03:44:36|
+|False Dawn|Venus|Servant|03:44:37|05:40:40|
+|Dawn|Mercury|Servant|05:40:41|07:36:45|
 
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°43'4.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°43'4.66" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°38'18.74" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°0'36.28" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|28°34'16.96" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°43'4.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°43'4.66" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°38'18.74" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°0'36.28" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°34'16.96" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°30'25.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|7°39'37.90" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|25°23'51.36" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°30'26.47" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|7°39'37.89" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|25°20'46.35" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

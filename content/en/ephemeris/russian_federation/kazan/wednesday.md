@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'2.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'3.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°18'24.48" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°46'12.23" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|13°37'2.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'2.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°18'24.69" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°46'12.21" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|12°31'3.82" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°49'43.57" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°41'36.51" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|6°49'43.54" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°41'36.92" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'2.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'3.21" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°18'24.48" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°46'12.23" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°31'3.82" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|6°49'43.57" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°41'36.51" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°37'2.37" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'2.83" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°18'24.69" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°46'10.74" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°31'3.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°49'41.40" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°44'28.66" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔

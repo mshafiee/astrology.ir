@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:22:01 |
-| Sunrise | 07:36:47 |
+| Sunrise | 07:36:46 |
 | Dhuhr (Noon) | 12:50:46 |
 | Medium Coeli | 12:50:46 |
 | Sunset | 18:04:45 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:27:58|Night duration: 13:32:32|
+|Duration of the day: 10:27:59|Night duration: 13:32:32|
 |Every hour of day duration: 00:52:20|Every hour of night duration: 01:07:43|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|07:36:47|08:29:05|Love, creating love and attracting hearts|
-|2|Mercury|Servant|08:29:06|09:21:25|Attracting auspiciousness|
-|3|Moon|Servant|09:21:26|10:13:45|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|10:13:46|11:06:05|Unfortunate hour|
-|5|Jupiter|Servant|11:06:06|11:58:25|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:58:26|12:50:45|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:50:46|13:43:04|Promotion and attracting wealth|
+|1|Venus|Ruler|07:36:46|08:29:04|Love, creating love and attracting hearts|
+|2|Mercury|Servant|08:29:05|09:21:24|Attracting auspiciousness|
+|3|Moon|Servant|09:21:25|10:13:44|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|10:13:45|11:06:04|Unfortunate hour|
+|5|Jupiter|Servant|11:06:05|11:58:24|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:58:25|12:50:44|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:50:45|13:43:04|Promotion and attracting wealth|
 |8|Venus|Ruler|13:43:05|14:35:24|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:35:25|15:27:44|Causing separation and homelessness|
 |10|Moon|Servant|15:27:45|16:20:04|Extremely unfortunate|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:27:58|Night duration: 13:32:32|
+|Duration of the day: 10:27:59|Night duration: 13:32:32|
 |Every hour duration: 01:29:43|Every hour duration: 01:56:05|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|07:36:47|09:06:28|
-|Mid-morning|Mercury|Servant|09:06:29|10:36:11|
-|Late morning|Moon|Servant|10:36:12|12:05:53|
-|Noon|Saturn|Servant|12:05:54|13:35:36|
-|Early afternoon|Jupiter|Servant|13:35:37|15:05:18|
+|Early morning|Venus|Ruler|07:36:46|09:06:27|
+|Mid-morning|Mercury|Servant|09:06:28|10:36:10|
+|Late morning|Moon|Servant|10:36:11|12:05:53|
+|Noon|Saturn|Servant|12:05:54|13:35:35|
+|Early afternoon|Jupiter|Servant|13:35:36|15:05:18|
 |Mid-afternoon|Mars|Servant|15:05:19|16:35:01|
 |Late afternoon|Sun|Servant|16:35:02|18:04:44|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°46'37.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°30'39.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°49'25.33" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°35'23.17" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|15°37'38.36" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|8°17'27.89" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|7°55'54.25" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°46'36.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°30'38.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°49'25.53" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°35'23.16" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|15°37'38.38" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|8°17'27.86" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°55'54.50" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°46'37.05" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°30'39.05" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°49'25.33" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°35'23.17" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|13°46'36.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°30'39.02" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°49'24.73" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°35'23.37" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|15°37'38.91" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|8°17'27.91" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|7°52'46.85" |Virgo|Awwa|Sun|

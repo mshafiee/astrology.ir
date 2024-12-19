@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'44.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|13°36'44.90" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°52'43.72" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°19'9.68" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|26°40'53.34" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'44.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°52'43.80" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|5°19'11.31" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|26°40'52.88" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°25'8.03" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|6°47'56.39" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°20'9.01" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°36'44.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°52'43.72" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|5°19'9.68" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|26°40'53.34" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°25'9.48" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|6°47'56.36" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°13'1.46" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Carmana, Dakbayan sa Kerman, Dakbayan sa Kermān, KER, Kerman, Kermanas, Kermano, Kermon, Kermán, Kermān, Kirman, Kirmon, karmana, ke er man, keleuman, kermani, keruman, krman, Керман, Кирмон, Կերման, כרמאן, كرمان, کرمان, कर्मान, ქერმანი, ケルマーン, 克尔曼, 케르만

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'15.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°51'36.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°17'55.66" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°49'54.42" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°35'17.63" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°50'52.58" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|4°5'51.81" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°37'15.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°51'33.27" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°17'48.32" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°50'5.50" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°35'21.96" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°51'6.67" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°28'59.74" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°37'15.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°37'15.21" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°51'33.27" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°17'48.32" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°50'5.50" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바

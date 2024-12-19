@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'46.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°52'39.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|5°19'4.26" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°41'30.12" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°25'49.64" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|6°48'8.91" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°24'47.34" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°36'46.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°52'39.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|5°19'5.68" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°41'29.70" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°25'49.02" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|6°48'8.70" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°28'9.35" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°36'46.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°36'46.91" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°52'39.02" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|5°19'4.26" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|26°41'30.12" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: AZD, Dakbayan sa Yazd, Giaznt, Jazd, Jazdo, Jezd, Jezdas, Yasd, Yazd, Yezd, Yəzd, iezdi, ya ci de, yajeudeu, yazda, yazudo, yzd, Γιαζντ, Јазд, Йезд, Язд, Յազդ, יזד, يزد, یزد, यज़्द, იეზდი, ヤズド, 亚兹德, 야즈드
