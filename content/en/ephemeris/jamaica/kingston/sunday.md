@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°55'50.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°11'52.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°17'54.57" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°8'2.85" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°24'35.50" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|10°16'49.08" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|8°12'30.54" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|13°55'51.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°11'52.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°17'54.37" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°8'2.86" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°24'18.49" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|10°16'38.41" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|8°42'47.67" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°55'50.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°11'52.48" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°17'54.57" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°8'2.85" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|13°55'51.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°11'52.85" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°17'54.37" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°8'2.86" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|18°24'35.48" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|10°16'49.11" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|8°12'31.27" |Libra|Ghafr|Moon|

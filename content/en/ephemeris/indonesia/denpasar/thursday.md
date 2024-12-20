@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:19 |
-| Sunrise | 05:57:08 |
+| Sunrise | 05:57:09 |
 | Dhuhr (Noon) | 12:16:16 |
 | Medium Coeli | 12:16:16 |
 | Sunset | 18:35:23 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:52:39 |
-| Sunrise | 05:57:08 |
+| Sunrise | 05:57:09 |
 | Dhuhr (Noon) | 12:16:16 |
 | Medium Coeli | 12:16:16 |
 | Sunset | 18:35:23 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:32:01 |
-| Sunrise | 05:57:08 |
+| Sunrise | 05:57:09 |
 | Dhuhr (Noon) | 12:16:16 |
 | Medium Coeli | 12:16:16 |
 | Sunset | 18:35:23 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|13°42'50.21" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°38'50.42" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|5°1'19.72" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°30'5.41" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|14°25'48.50" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|7°37'16.91" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|24°28'18.48" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|28°30'4.94" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|14°25'45.99" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|7°37'17.43" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|24°43'7.82" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

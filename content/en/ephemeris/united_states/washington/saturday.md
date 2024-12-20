@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 09:26:54|Night duration: 14:33:34|
+|Duration of the day: 09:26:54|Night duration: 14:33:35|
 |Every hour of day duration: 00:47:15|Every hour of night duration: 01:12:48|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Jupiter|Servant|20:28:22|21:41:09|Dominance, judgment and issuing verdict|
 |5|Mars|Servant|21:41:10|22:53:57|Auspicious|
 |6|Sun|Servant|22:53:58|00:06:45|Writing, swapping and making promises|
-|7|Venus|Servant|00:06:46|01:19:32|Not suitable for any task|
-|8|Mercury|Ruler|01:19:33|02:32:20|Destruction of enemies|
-|9|Moon|Servant|02:32:21|03:45:08|All good deeds|
-|10|Saturn|Servant|03:45:09|04:57:56|Doing evil deeds|
-|11|Jupiter|Servant|04:57:57|06:10:44|Acceptance of reconciliation between couples|
-|12|Mars|Servant|06:10:45|07:23:32|For gaining dignity|
+|7|Venus|Servant|00:06:46|01:19:33|Not suitable for any task|
+|8|Mercury|Ruler|01:19:34|02:32:21|Destruction of enemies|
+|9|Moon|Servant|02:32:22|03:45:09|All good deeds|
+|10|Saturn|Servant|03:45:10|04:57:57|Doing evil deeds|
+|11|Jupiter|Servant|04:57:58|06:10:45|Acceptance of reconciliation between couples|
+|12|Mars|Servant|06:10:46|07:23:33|For gaining dignity|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 09:26:54|Night duration: 14:33:34|
+|Duration of the day: 09:26:54|Night duration: 14:33:35|
 |Every hour duration: 01:20:59|Every hour duration: 02:04:48|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mercury|Ruler|16:49:59|18:54:45|
 |Late evening|Moon|Servant|18:54:46|20:59:33|
 |Midnight|Saturn|Servant|20:59:34|23:04:21|
-|Late at night|Jupiter|Servant|23:04:22|01:09:08|
-|Rooster song|Mars|Servant|01:09:09|03:13:56|
-|False Dawn|Sun|Servant|03:13:57|05:18:44|
-|Dawn|Venus|Servant|05:18:45|07:23:32|
+|Late at night|Jupiter|Servant|23:04:22|01:09:09|
+|Rooster song|Mars|Servant|01:09:10|03:13:57|
+|False Dawn|Sun|Servant|03:13:58|05:18:45|
+|Dawn|Venus|Servant|05:18:46|07:23:33|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°52'12.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°19'4.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°30'43.76" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°8'58.50" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|17°20'9.75" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|9°26'50.48" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|26°37'41.66" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|13°52'12.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°19'5.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°30'39.41" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°8'57.75" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|17°20'14.73" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|9°26'47.31" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|25°58'25.68" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°52'12.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°19'4.41" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°30'43.76" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°8'58.50" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|17°20'9.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|9°26'50.48" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°37'41.66" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|13°52'12.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°19'4.78" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°30'43.55" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°8'58.55" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|17°20'9.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|9°26'50.54" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|26°37'42.08" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
