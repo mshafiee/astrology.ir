@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°50'40.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°22'11.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°36'16.93" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°43'29.64" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°52'14.25" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|9°6'42.59" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|22°36'1.35" |Leo|Sarfrah|Mars|
+|♄ Saturn|Post-Retrograde Shadow|13°50'40.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°22'11.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°36'5.19" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°43'38.26" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°52'23.04" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°6'50.16" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|22°15'20.64" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Venus|
 |☿ Mercury|Venus|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°50'40.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°50'40.85" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°22'11.23" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|4°35'57.91" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°43'40.55" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|16°52'29.92" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|9°6'50.15" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°6'50.15" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|21°37'30.87" |Virgo|Simak|Mercury|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°55'48.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°11'59.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°18'21.28" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°7'12.06" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°23'36.68" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|10°16'6.40" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|8°42'18.62" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|13°55'48.60" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°11'57.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°18'3.64" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°7'22.19" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°23'51.26" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°16'13.23" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|8°4'27.66" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°55'48.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°55'48.60" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°11'57.80" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|4°18'3.64" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°7'22.19" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|18°23'51.26" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|10°16'13.23" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|10°16'13.23" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|8°4'27.66" |Libra|Ghafr|Moon|
 
 

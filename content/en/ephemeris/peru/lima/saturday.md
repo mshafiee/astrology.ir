@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°51'57.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|13°51'57.07" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°19'36.16" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|4°31'35.46" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°4'41.37" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|17°15'28.16" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|9°23'23.82" |Scorpio|Qalb|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°23'23.82" |Scorpio|Qalb|Mars|
 |☾ Moon|Direct|25°45'32.87" |Leo|Sarfrah|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°51'57.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°19'36.16" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°31'35.46" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°4'41.37" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|17°15'28.16" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|9°23'23.82" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|25°45'32.87" |Virgo|Simak|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|13°51'57.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°19'39.70" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°31'49.74" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°4'26.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|17°15'19.58" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°23'8.36" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|25°31'48.13" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Leo|Moon|Mars|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
+|☾ Moon|Sun|Sun|Cancer|Sun|Moon|
 
 
 {{< /tab >}}

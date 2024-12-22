@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°51'7.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°21'15.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°34'23.80" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°51'10.10" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|17°0'41.14" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|9°12'40.50" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|23°4'44.44" |Leo|Sarfrah|Mars|
+|♄ Saturn|Post-Retrograde Shadow|13°51'7.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°21'18.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°34'29.14" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°51'0.56" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|17°0'39.88" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°12'28.37" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|22°27'46.35" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Venus|
 |☿ Mercury|Venus|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°51'7.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°51'7.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°21'15.74" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|4°34'23.80" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°51'10.10" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|17°0'41.14" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|9°12'40.50" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°12'40.50" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|23°4'44.44" |Virgo|Simak|Mercury|
 
 

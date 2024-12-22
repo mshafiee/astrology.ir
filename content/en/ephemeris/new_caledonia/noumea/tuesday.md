@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°0'46.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°2'32.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|3°59'55.29" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°25'53.13" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|19°49'12.52" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|11°28'53.70" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|23°9'57.72" |Virgo|Simak|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|14°0'46.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°2'32.25" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|3°59'55.25" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°25'54.44" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|19°49'11.68" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|11°28'55.68" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|23°25'16.75" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
+|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°0'46.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|14°0'46.49" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°2'32.25" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|3°59'55.25" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°25'54.44" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|19°49'11.68" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|11°28'55.68" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|11°28'55.68" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|23°25'16.75" |Libra|Jubana|Jupiter|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°56'8.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°11'21.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°17'1.11" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°12'29.71" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°29'27.83" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|10°20'44.92" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|9°1'8.04" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|13°56'8.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°11'20.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°16'52.28" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°12'33.63" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°29'35.76" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°20'46.59" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|8°30'49.35" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°56'8.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°56'8.19" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°11'21.25" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|4°17'1.11" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°12'29.71" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|18°29'27.83" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|10°20'44.92" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|10°20'44.92" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|9°1'8.04" |Libra|Ghafr|Moon|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°47'47.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°28'9.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°45'33.47" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°55'27.39" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|15°59'39.83" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|8°31'14.61" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|11°57'29.85" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°47'47.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°28'9.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°45'40.82" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°55'25.12" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|15°59'32.97" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°31'14.65" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|12°36'39.12" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Sun|Venus|Cancer|Sun|Venus|
 |☿ Mercury|Sun|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
+|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°47'47.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|13°47'47.94" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|14°28'9.05" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|4°45'33.47" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°55'27.39" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|15°59'39.83" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|8°31'14.61" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|8°31'14.61" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|11°57'29.85" |Virgo|Awwa|Venus|
 
 

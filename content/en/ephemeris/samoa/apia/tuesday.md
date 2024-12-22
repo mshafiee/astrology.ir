@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°0'34.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|14°0'34.98" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°2'53.51" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|4°0'37.61" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|3°22'55.18" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|19°45'42.92" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|11°25'49.23" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|22°31'54.66" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|19°45'57.19" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|11°26'2.47" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|21°48'26.21" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
+|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°0'34.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°2'56.89" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°0'57.84" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°22'39.96" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|19°45'42.92" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|11°25'49.23" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|22°31'54.66" |Libra|Jubana|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|14°0'34.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°2'53.51" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°0'37.61" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°22'55.18" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|19°45'57.19" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|11°26'2.47" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|22°51'3.94" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
