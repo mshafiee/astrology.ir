@@ -1,6 +1,6 @@
 ---
-date: 2024-12-21T00:00:00-04:00
-lastmod: 2024-12-21T00:00:00-04:00
+date: 2024-12-28T00:00:00-04:00
+lastmod: 2024-12-28T00:00:00-04:00
 title: BasseTerre Saturday
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - BasseTerre
-description: 🗓 Saturday, 21 Dec 2024
+description: 🗓 Saturday, 28 Dec 2024
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

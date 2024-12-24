@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°12'33.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°41'51.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|3°14'11.27" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°23'42.26" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°1'2.39" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|14°35'5.86" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|27°53'40.12" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|13°41'50.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|3°14'9.82" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°23'46.79" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°0'59.97" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|14°35'12.12" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|28°44'3.83" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°12'33.20" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°41'50.47" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|3°14'11.27" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°23'42.26" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°1'2.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|14°35'5.86" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|27°53'40.12" |Scorpio|Shaulah|Venus|
+|♂ Mars|Retrograde|3°14'9.82" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°23'46.79" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°0'59.97" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|14°35'12.12" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|28°44'3.83" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

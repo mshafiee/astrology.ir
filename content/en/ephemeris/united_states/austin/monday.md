@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°0'0.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°3'58.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°2'48.45" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°13'49.59" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|19°36'5.74" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|11°17'18.77" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|21°2'3.84" |Virgo|Simak|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|14°0'0.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°3'58.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°2'49.98" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°13'49.48" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|19°36'3.98" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|11°17'19.36" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|21°13'11.69" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°0'0.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°3'58.59" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°2'48.45" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°13'49.59" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|19°36'5.74" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|11°17'18.77" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|21°2'3.84" |Libra|Jubana|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|14°0'0.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°3'58.15" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°2'50.19" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°13'49.47" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|19°36'3.98" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|11°17'19.36" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|21°13'11.69" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

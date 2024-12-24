@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:03:27 |
 | Maghrib | 17:28:15 |
 | Isha (Night) | 18:34:13 |
-| Sharia Midnight | 00:00:39 |
+| Sharia Midnight | 00:00:38 |
 | Imum Coeli | 00:52:20 |
 {{< /tab >}}
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|13°57'56.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°7'52.08" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°10'25.03" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°41'21.55" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|19°0'50.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|10°46'51.25" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|13°57'56.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°7'51.71" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°10'25.24" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°41'21.54" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|19°0'50.93" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|10°46'51.23" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|14°39'35.39" |Libra|Jubana|Saturn|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°7'11.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°50'58.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|3°35'24.56" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°4'12.82" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°35'29.10" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|13°8'36.25" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°40'55.48" |Libra|Ghafr|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|14°7'11.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°50'58.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|3°35'25.13" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°4'12.03" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°35'27.45" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|13°8'35.56" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°41'8.82" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°7'11.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°50'58.83" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|3°35'23.18" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°4'13.13" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|21°35'29.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|13°8'36.25" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|12°40'55.48" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|14°7'11.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°50'58.71" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|3°35'25.35" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°4'12.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|21°35'27.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|13°8'35.54" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|12°41'8.82" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

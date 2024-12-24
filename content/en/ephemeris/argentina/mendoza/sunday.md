@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|13°55'30.52" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|14°12'33.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|4°19'9.29" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°2'31.13" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°18'34.53" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°11'57.41" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|7°7'17.95" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|2°2'31.32" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°18'35.84" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°11'57.08" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|6°59'12.30" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Jupiter|Jupiter|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°55'30.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|14°12'33.27" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|4°19'9.29" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°2'31.13" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|18°18'34.53" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|10°11'57.41" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|7°7'17.95" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|14°12'33.29" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|4°19'8.06" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°2'31.32" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|18°18'35.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|10°11'57.08" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|6°59'12.30" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

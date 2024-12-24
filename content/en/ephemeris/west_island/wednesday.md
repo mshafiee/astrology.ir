@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°5'34.48" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|13°53'49.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|3°41'41.35" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°39'44.70" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°9'4.04" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|12°42'59.24" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|7°56'55.86" |Libra|Ghafr|Moon|
+|♂ Mars|Retrograde|3°41'53.07" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°39'31.38" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°8'59.82" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|12°42'44.61" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|6°32'47.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Venus|Moon|Virgo|Sun|Venus|
 |☿ Mercury|Venus|Venus|Aries|Moon|Mars|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°5'34.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°53'53.36" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|3°41'52.85" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|4°39'31.39" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|21°8'59.80" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Post-Retrograde Shadow|14°5'34.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°53'49.43" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|3°41'41.57" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|4°39'44.70" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|21°9'4.06" |Aquarius|SaadAlAkhbia|Moon|
 |☿ Mercury|Post-Retrograde Shadow|12°42'44.63" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|6°32'48.72" |Scorpio|Akleel|Mars|
 

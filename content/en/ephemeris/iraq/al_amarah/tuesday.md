@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 11:51:08 |
 | Medium Coeli | 11:51:08 |
 | Sunset | 16:53:34 |
-| Maghrib | 17:11:20 |
+| Maghrib | 17:11:21 |
 | Isha (Night) | 18:02:08 |
 | Sharia Midnight | 23:12:07 |
 | Imum Coeli | 23:51:22 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|13°58'26.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|14°6'54.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|4°8'32.13" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°49'22.23" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|19°9'32.70" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°54'15.89" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|16°15'39.75" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|14°6'54.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|4°8'32.38" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°49'22.25" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|19°9'32.39" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°54'16.05" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|16°17'53.57" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

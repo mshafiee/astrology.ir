@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°4'50.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°55'9.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|3°44'33.97" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°28'29.02" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°56'54.88" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|12°31'22.31" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|5°39'3.06" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|14°4'50.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°55'12.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|3°44'44.09" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°28'17.50" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°56'50.93" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|12°31'9.73" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|4°29'2.74" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Venus|Moon|Virgo|Sun|Venus|
 |☿ Mercury|Venus|Venus|Aries|Moon|Mars|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|14°4'50.14" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°55'9.07" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|3°44'33.97" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|4°28'28.40" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|20°56'54.05" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Post-Retrograde Shadow|12°31'21.88" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|5°39'2.76" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°28'29.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|20°56'54.88" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Post-Retrograde Shadow|12°31'22.31" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|5°39'3.06" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

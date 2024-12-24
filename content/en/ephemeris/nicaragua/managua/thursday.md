@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°11'52.54" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|13°42'58.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|3°16'52.86" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°13'50.26" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|22°50'19.98" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|14°24'7.40" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|26°44'20.82" |Libra|Akleel|Jupiter|
+|♂ Mars|Retrograde|3°16'59.97" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°13'41.26" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|22°50'19.07" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|14°23'57.06" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°30'58.24" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Mercury|Moon|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Mars|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°11'52.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°42'58.24" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|3°16'52.86" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|14°11'52.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°42'57.88" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|3°16'53.08" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°13'50.26" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|22°50'19.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|14°24'7.40" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|26°44'20.82" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|22°50'20.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|14°24'7.37" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|26°44'21.14" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
