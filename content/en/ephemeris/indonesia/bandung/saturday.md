@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°17'57.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°33'4.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°52'6.98" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°41'52.03" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°24'31.41" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°4'29.80" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°49'17.96" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|13°33'3.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°52'7.65" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°41'52.00" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°24'30.80" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°4'29.97" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°50'50.75" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°17'57.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°33'4.00" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°52'6.98" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°41'52.03" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°24'31.41" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|16°4'29.80" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|14°50'49.81" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|14°17'57.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°33'3.65" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°52'7.20" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°41'52.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°24'31.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°4'29.78" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|14°49'18.89" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

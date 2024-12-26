@@ -69,12 +69,12 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:06:46 |
-| Sunrise | 07:27:21 |
+| Sunrise | 07:27:20 |
 | Dhuhr (Noon) | 12:53:29 |
 | Medium Coeli | 12:53:29 |
 | Sunset | 18:19:39 |
 | Maghrib | 18:24:33 |
-| Isha (Night) | 19:35:42 |
+| Isha (Night) | 19:35:41 |
 | Sharia Midnight | 00:13:26 |
 | Imum Coeli | 00:53:44 |
 {{< /tab >}}
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:00:00 |
-| Sunrise | 07:27:21 |
+| Sunrise | 07:27:20 |
 | Dhuhr (Noon) | 12:53:29 |
 | Medium Coeli | 12:53:29 |
 | Sunset | 18:19:39 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:06:46 |
-| Sunrise | 07:27:20 |
+| Sunrise | 07:27:21 |
 | Dhuhr (Noon) | 12:53:29 |
 | Medium Coeli | 12:53:29 |
 | Sunset | 18:19:39 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:04:30 |
-| Sunrise | 07:27:21 |
+| Sunrise | 07:27:20 |
 | Dhuhr (Noon) | 12:53:29 |
 | Medium Coeli | 12:53:29 |
 | Sunset | 18:19:39 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 10:52:18|Night duration: 13:08:08|
+|Duration of the day: 10:52:19|Night duration: 13:08:08|
 |Every hour duration: 01:33:11|Every hour duration: 01:52:35|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|07:27:21|09:00:31|
-|Mid-morning|Sun|Servant|09:00:32|10:33:42|
-|Late morning|Venus|Servant|10:33:43|12:06:53|
-|Noon|Mercury|Servant|12:06:54|13:40:04|
+|Early morning|Mars|Ruler|07:27:20|09:00:30|
+|Mid-morning|Sun|Servant|09:00:31|10:33:41|
+|Late morning|Venus|Servant|10:33:42|12:06:52|
+|Noon|Mercury|Servant|12:06:53|13:40:04|
 |Early afternoon|Moon|Servant|13:40:05|15:13:15|
 |Mid-afternoon|Saturn|Servant|15:13:16|16:46:26|
 |Late afternoon|Jupiter|Servant|16:46:27|18:19:38|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°3'57.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|14°3'57.44" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|13°56'43.08" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|3°47'54.18" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°15'6.21" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°42'27.16" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|12°17'42.64" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°3'32.62" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|4°15'6.17" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°42'27.85" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|12°17'42.31" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°59'2.00" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°3'57.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°56'43.08" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|3°47'54.18" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|4°15'6.21" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|20°42'27.16" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Post-Retrograde Shadow|12°17'42.64" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|3°3'32.62" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|14°3'57.44" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°56'43.13" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|3°47'53.67" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|4°15'6.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|20°42'27.83" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Post-Retrograde Shadow|12°17'42.33" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|2°59'3.32" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

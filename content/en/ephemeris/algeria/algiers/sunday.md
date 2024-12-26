@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Jupiter|Ruler|02:01:38|03:13:13|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|03:13:14|04:24:49|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|04:24:50|05:36:25|Attracting happiness, solving financial problems|
-|11|Venus|Servant|05:36:26|06:48:01|Performing promises|
+|11|Venus|Servant|05:36:26|06:48:01|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|06:48:02|07:59:37|Finding the fugitive and discovering the thief|
 
  
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|13°30'42.43" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|2°45'56.15" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|8°3'12.84" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°47'17.42" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°29'34.77" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|19°2'39.03" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|24°47'3.14" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°29'23.30" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|17°43'31.47" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
