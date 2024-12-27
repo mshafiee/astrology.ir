@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°22'21.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°26'12.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°33'43.84" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°44'13.63" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|25°30'55.14" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|17°18'27.56" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|27°49'27.74" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|14°22'22.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°26'13.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°33'58.73" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°44'6.03" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|25°30'40.90" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|17°18'23.88" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|27°14'26.86" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Taurus|Sun|Sun|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°22'21.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°26'12.18" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°33'43.84" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|14°22'22.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°26'12.53" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°33'43.61" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°44'13.64" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|25°30'55.12" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Post-Retrograde Shadow|17°18'27.59" |Sagittarius|Baldah|Moon|

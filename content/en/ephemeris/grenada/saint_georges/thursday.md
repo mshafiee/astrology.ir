@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°11'35.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°43'26.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|3°18'1.27" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°9'40.02" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|22°45'51.45" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|14°19'29.82" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|25°53'46.94" |Libra|Akleel|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|14°11'35.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°43'27.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|3°18'1.29" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°9'36.81" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|22°45'54.14" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|14°19'25.01" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°13'18.96" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Mercury|Moon|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Sun|Venus|Leo|Moon|Moon|
+|☾ Moon|Mars|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°11'35.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°43'26.41" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|3°18'1.27" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|14°11'35.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°43'26.77" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|3°18'1.05" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°9'40.02" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|22°45'51.42" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Post-Retrograde Shadow|14°19'29.84" |Sagittarius|NaAaem|Moon|

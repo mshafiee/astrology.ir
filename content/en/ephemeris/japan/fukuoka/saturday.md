@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°17'54.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°33'8.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°52'20.33" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°41'13.79" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°23'51.05" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°3'45.76" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°29'56.04" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|14°17'54.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°33'8.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°52'20.11" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°41'13.80" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°23'51.03" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°3'45.78" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°29'55.12" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°17'54.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°33'8.06" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°52'20.33" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°41'13.79" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°23'51.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|16°3'45.76" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|14°29'56.04" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|14°17'54.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°33'8.41" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°52'20.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°41'13.80" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°23'51.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°3'45.78" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|14°29'55.12" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
