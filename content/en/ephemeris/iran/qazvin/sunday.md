@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°18'53.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°31'35.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°48'16.65" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°55'13.02" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°38'46.19" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°20'9.14" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|17°25'3.93" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|14°18'53.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°31'35.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°48'16.87" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°55'12.53" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°38'45.60" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|16°20'8.77" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|17°22'38.73" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°18'53.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°31'35.39" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°48'15.86" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°55'13.02" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°38'46.19" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|16°20'9.14" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|17°25'3.93" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|14°18'53.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°31'35.13" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°48'16.87" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°55'12.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°38'45.58" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|16°20'8.80" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|17°22'37.78" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

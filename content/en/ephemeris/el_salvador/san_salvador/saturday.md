@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°20'25.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°29'15.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°41'53.34" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°16'49.93" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|25°1'47.11" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°45'41.90" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|22°5'43.54" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|13°29'15.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°42'8.55" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°16'36.72" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|25°1'39.70" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|16°45'29.44" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|20°37'3.88" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Saturn|Mars|Mercury|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Mercury|Jupiter|Taurus|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|2°41'53.34" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°16'49.93" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|25°1'47.11" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|16°45'41.90" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|16°45'41.90" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|22°5'43.54" |Sagittarius|Baldah|Saturn|
 
 

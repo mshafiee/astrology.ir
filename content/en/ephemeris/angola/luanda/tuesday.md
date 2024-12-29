@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°27'51.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°18'2.45" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°10'22.70" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°0'9.11" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|26°51'21.79" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Post-Retrograde Shadow|18°51'14.88" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°12'10.68" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|13°18'3.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°10'38.42" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°0'1.31" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|26°51'6.89" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|18°51'11.13" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°20'56.74" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°27'51.21" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°18'2.45" |Gemini|HanAh|Mars|
+|♄ Saturn|Post-Retrograde Shadow|14°27'51.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°18'2.10" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|2°10'22.70" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°0'9.11" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|26°51'21.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|18°51'14.88" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|18°51'14.88" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|14°12'10.68" |Capricorn|SaadAlBula|Mars|
 
 

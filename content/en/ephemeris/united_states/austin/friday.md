@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°16'19.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°35'40.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°58'51.67" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°18'29.47" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°59'34.19" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|15°37'21.87" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|9°49'37.10" |Scorpio|Qalb|Mars|
+|♄ Saturn|Post-Retrograde Shadow|14°16'19.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°35'40.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°58'51.89" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°18'29.46" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°59'34.21" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|15°37'21.84" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|9°49'37.96" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°16'19.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°35'40.43" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°58'51.67" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°18'29.47" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°59'33.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|15°37'20.30" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|9°38'31.01" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|14°16'19.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°35'40.08" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°58'51.89" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°18'29.46" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°59'34.21" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|15°37'21.84" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|9°49'37.96" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

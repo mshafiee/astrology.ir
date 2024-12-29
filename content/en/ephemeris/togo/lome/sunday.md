@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Jupiter|Ruler|00:58:42|01:59:49|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|01:59:50|03:00:57|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:00:58|04:02:05|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Venus|Servant|04:02:06|05:03:13|Performing promises|
+|11|Venus|Servant|04:02:06|05:03:13|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|05:03:14|06:04:22|Finding the fugitive and discovering the thief|
 
  
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|2°46'34.56" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|8°0'53.73" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|24°44'48.72" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°26'49.87" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|16°26'49.87" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|18°46'57.01" |Scorpio|Qalb|Sun|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°19'17.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°30'57.57" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°46'34.56" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°0'53.73" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°44'48.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|16°26'49.87" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|18°46'57.01" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Retrograde|13°31'1.54" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°46'56.72" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°0'36.76" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°44'34.95" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|16°26'35.30" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|17°5'44.83" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Venus|Sun|Gemini|Moon|Mercury|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°35'45.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°6'56.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°36'17.15" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|11°46'34.22" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|28°43'16.07" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Post-Retrograde Shadow|21°5'46.13" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|6°25'20.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|13°6'55.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°36'3.79" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|11°46'40.97" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|28°43'29.97" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|21°5'49.09" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°25'25.02" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|1°36'3.58" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|11°46'40.96" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|28°43'29.94" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|21°5'49.10" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|21°5'49.10" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|7°25'24.40" |Aquarius|SaadAlSaud|Venus|
 
 

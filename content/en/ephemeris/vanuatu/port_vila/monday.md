@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°25'52.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°20'55.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°18'48.82" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°33'5.30" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°22'44.28" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Post-Retrograde Shadow|18°17'51.08" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|8°19'53.14" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|14°25'52.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°20'55.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°19'8.51" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°32'54.21" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°22'27.16" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|18°17'44.46" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|7°12'38.02" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Moon|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|2°18'48.82" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|9°33'5.30" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|26°22'44.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|18°17'51.08" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|18°17'51.08" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|8°19'53.14" |Capricorn|SaadAlDhabib|Jupiter|
 
 

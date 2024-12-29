@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|3°0'57.75" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°11'2.02" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|23°51'35.70" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|15°28'46.29" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|15°28'46.29" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|8°23'47.95" |Scorpio|Akleel|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°15'48.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°36'30.42" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|3°0'58.80" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°11'1.87" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°51'34.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|15°28'46.61" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|8°27'17.93" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|13°36'33.53" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|3°1'8.47" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°10'50.55" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°51'32.39" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|15°28'34.14" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|6°58'15.06" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Venus|Mercury|Mars|Mercury|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Venus|Sun|Gemini|Moon|Mercury|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|14°22'28.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°26'3.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°33'20.23" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°45'37.00" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|25°32'24.00" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|17°20'8.51" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|27°57'17.01" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|13°26'3.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°33'22.60" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°45'36.62" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|25°32'20.74" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|17°20'9.19" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|27°59'26.42" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°22'28.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°26'3.62" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°33'20.23" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°45'37.00" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|25°32'24.00" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|17°20'8.51" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|27°57'17.01" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|14°22'27.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°26'3.46" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°33'22.60" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°45'36.62" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|25°32'20.74" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|17°20'9.19" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|27°59'26.42" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
