@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:46:33 |
 | Maghrib | 18:47:41 |
 | Isha (Night) | 20:02:47 |
-| Sharia Midnight | 23:13:03 |
+| Sharia Midnight | 23:13:02 |
 | Imum Coeli | 23:51:07 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°30'29.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°30'29.45" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|13°14'15.41" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|1°59'1.96" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|10°36'1.45" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°29'13.41" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|19°36'2.14" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|21°55'12.50" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|27°29'7.63" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|19°36'0.82" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|21°33'39.66" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°30'29.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°14'15.41" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|1°59'1.96" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°36'1.45" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°29'13.41" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|19°36'2.14" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|21°55'12.50" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|14°30'29.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°14'15.79" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|1°59'7.80" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°35'58.55" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|27°29'7.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|19°36'0.82" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|21°33'39.66" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

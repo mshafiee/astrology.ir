@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°27'25.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°18'41.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°12'18.04" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°54'8.24" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°45'0.78" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|18°43'48.65" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°40'18.90" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|14°27'25.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°18'41.02" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°12'25.41" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°54'5.69" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°44'51.96" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|18°43'48.73" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°23'48.11" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°27'25.00" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°27'25.00" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°18'41.00" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|2°12'18.04" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|9°54'8.24" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|26°45'0.78" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|18°43'48.65" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|18°43'48.65" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|12°40'18.90" |Capricorn|SaadAlDhabib|Mars|
 
 

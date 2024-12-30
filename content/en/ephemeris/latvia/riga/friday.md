@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°42'3.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°58'39.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°8'24.11" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°9'3.72" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|0°9'35.81" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|22°52'49.58" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°33'5.20" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|14°42'3.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°58'39.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°8'20.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°9'4.93" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|0°9'40.19" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Post-Retrograde Shadow|22°52'53.12" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°45'40.41" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Taurus|Sun|Jupiter|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°42'3.22" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°42'3.22" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|12°58'39.35" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|1°8'24.11" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|13°9'3.72" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|0°9'35.81" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|22°52'53.14" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|22°52'53.14" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|25°25'22.95" |Aquarius|FarghAlMuqaddam|Moon|
 
 

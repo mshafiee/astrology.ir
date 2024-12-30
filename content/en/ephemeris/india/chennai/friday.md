@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°40'53.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°0'9.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°13'34.76" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°53'53.37" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|29°53'41.52" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|22°33'0.06" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|21°52'6.97" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|14°40'53.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°0'8.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°13'28.25" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°53'56.23" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|29°53'49.21" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|22°33'0.81" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|22°27'14.98" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°40'53.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°40'53.04" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°0'8.91" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|1°13'28.25" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|12°53'56.23" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|29°53'49.21" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|22°33'0.81" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|22°33'0.81" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|22°27'14.98" |Aquarius|FarghAlMuqaddam|Moon|
 
 

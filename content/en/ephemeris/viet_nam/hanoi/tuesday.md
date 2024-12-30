@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°31'21.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°13'1.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°55'15.03" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°47'49.37" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°41'39.18" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|19°50'53.18" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|14°31'21.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°13'4.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°55'39.39" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°47'33.06" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|27°41'21.83" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|19°50'40.93" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|22°43'40.47" |Sagittarius|Baldah|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°31'21.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°31'21.88" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°13'1.23" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|1°55'15.03" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°47'49.37" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|27°41'39.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|19°50'53.18" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|24°29'33.94" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|19°50'40.93" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|22°43'40.47" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}

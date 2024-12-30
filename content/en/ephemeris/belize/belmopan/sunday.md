@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°24'48.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°22'31.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°23'23.88" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°18'13.04" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°6'58.26" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|17°59'28.61" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°59'29.46" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|14°24'48.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°22'32.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°23'24.29" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°18'9.70" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°7'3.03" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|17°59'33.94" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|4°39'53.27" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Moon|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°24'48.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°24'48.45" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°22'31.60" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|2°23'23.88" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|9°18'13.04" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|26°6'59.13" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|17°59'38.98" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|17°59'38.98" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|5°6'13.17" |Capricorn|SaadAlDhabib|Jupiter|
 
 

@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Mercury|Servant|22:25:10|23:27:36|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Moon|Servant|23:27:37|00:30:03|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Saturn|Servant|00:30:04|01:32:29|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:32:30|02:34:56|Extremely auspicious and attracts happiness|
+|8|Jupiter|Ruler|01:32:30|02:34:56|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|02:34:57|03:37:23|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Sun|Servant|03:37:24|04:39:49|Attracting happiness, solving financial problems|
 |11|Venus|Servant|04:39:50|05:42:16|Performing promises|
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°24'30.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°24'30.15" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|13°22'58.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|2°24'41.07" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|9°13'59.76" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|26°2'30.59" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|17°54'29.99" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|17°54'29.99" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|4°14'15.33" |Sagittarius|Shaulah|Mercury|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°24'30.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°24'30.15" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°22'58.87" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|2°24'41.07" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|9°13'59.76" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|26°2'30.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|17°54'29.99" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|17°54'29.99" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|4°14'15.33" |Capricorn|SaadAlDhabib|Jupiter|
 
 

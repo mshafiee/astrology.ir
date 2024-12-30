@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°40'54.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°0'7.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°13'34.44" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°54'10.58" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|29°53'58.17" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|22°33'25.33" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|21°27'45.32" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|14°40'54.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°0'6.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°13'22.53" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°54'16.57" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|29°54'10.60" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|22°33'28.00" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|22°26'25.12" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°40'54.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°40'54.67" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°0'6.99" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|1°13'22.53" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|12°54'16.57" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|29°54'10.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|22°33'28.00" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|22°33'28.00" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|22°26'25.12" |Aquarius|FarghAlMuqaddam|Moon|
 
 

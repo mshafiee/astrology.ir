@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°28'24.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°17'15.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°8'5.71" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°7'40.91" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|26°59'19.96" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|19°0'38.04" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|15°20'23.97" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|14°28'24.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°17'17.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°8'13.00" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°7'33.52" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|26°59'18.53" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|19°0'30.36" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°34'52.92" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°28'24.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°28'24.59" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°17'15.00" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|2°8'5.71" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°7'40.91" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|26°59'19.96" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|19°0'38.04" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|19°0'38.04" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|15°20'23.97" |Capricorn|SaadAlBula|Mars|
 
 

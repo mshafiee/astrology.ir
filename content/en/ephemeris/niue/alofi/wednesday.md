@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°39'16.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°39'16.29" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|13°2'15.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|1°20'36.18" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|12°32'53.49" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|29°31'51.24" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|22°5'33.22" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|22°5'33.22" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|17°46'32.84" |Capricorn|SaadAlBula|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°39'16.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°2'14.93" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|1°20'36.40" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°32'53.50" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|29°31'51.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|22°5'33.21" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|17°46'33.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°39'16.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°2'15.27" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|1°21'0.15" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°32'36.18" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|29°31'37.16" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°5'19.10" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°17'44.34" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
 
 
 {{< /tab >}}

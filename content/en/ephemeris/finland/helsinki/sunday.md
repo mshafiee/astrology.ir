@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°19'31.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°30'35.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°45'33.66" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°4'16.83" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°48'31.34" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|16°30'48.34" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|19°2'1.95" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|14°19'31.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°30'36.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°45'42.49" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°4'13.06" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°48'22.39" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°30'47.18" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|18°52'58.49" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°19'31.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°19'31.91" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°30'36.22" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|2°45'42.49" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°4'13.06" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|24°48'22.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|16°30'47.18" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°30'47.18" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|18°52'58.49" |Sagittarius|Baldah|Moon|
 
 

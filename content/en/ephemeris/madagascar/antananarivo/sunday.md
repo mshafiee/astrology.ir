@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°18'36.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°18'36.27" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|13°32'2.37" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|2°49'25.85" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°51'8.43" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|24°34'24.95" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|16°15'21.41" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°15'21.41" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|16°43'1.23" |Scorpio|Qalb|Sun|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°18'36.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°32'2.37" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°49'25.85" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°51'8.43" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°34'24.95" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|16°15'21.41" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|16°43'1.23" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|14°18'36.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°32'2.65" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°49'34.00" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°51'4.99" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°34'16.69" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°15'20.40" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|16°36'31.25" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Venus|Sun|Gemini|Moon|Mercury|
-|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}

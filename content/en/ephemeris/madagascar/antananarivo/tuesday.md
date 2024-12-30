@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°27'22.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°18'44.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°12'35.36" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°53'29.00" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°44'14.21" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|18°43'2.62" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°20'43.06" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|14°27'22.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°18'44.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|2°12'29.05" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°53'32.12" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°44'20.32" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|18°43'4.05" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°41'22.29" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°27'22.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°27'22.26" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°18'44.68" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|2°12'27.27" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|9°53'32.55" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|26°44'22.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|18°43'3.73" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|18°43'3.73" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|12°44'18.72" |Capricorn|SaadAlDhabib|Mars|
 
 

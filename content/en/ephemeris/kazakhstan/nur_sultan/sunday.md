@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°18'47.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°18'47.69" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|13°31'45.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|2°48'38.22" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°53'51.17" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°37'18.00" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|16°18'32.53" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|17°20'8.09" |Scorpio|Qalb|Sun|
+|♂ Mars|Retrograde|2°48'43.91" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°53'46.76" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°37'14.59" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°18'28.67" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|16°52'31.72" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Mars|Taurus|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°18'47.69" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°31'44.25" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|2°48'38.22" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°53'51.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|14°18'47.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°31'45.21" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|2°48'43.91" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°53'46.76" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|24°37'14.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|16°18'28.67" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°18'28.67" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|16°52'31.72" |Sagittarius|NaAaem|Moon|
 
 

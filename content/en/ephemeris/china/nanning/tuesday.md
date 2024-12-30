@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°31'20.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°13'2.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°55'20.43" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°47'33.04" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°41'22.01" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|19°50'32.65" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|24°25'7.30" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|14°31'20.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°13'6.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°55'44.26" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°47'16.28" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|27°41'6.36" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|19°50'19.36" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|22°38'56.97" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°31'20.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°31'20.68" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°13'2.95" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|1°55'20.43" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°47'33.04" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|27°41'22.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|19°50'32.65" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|19°50'32.65" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|24°25'7.30" |Capricorn|SaadAlBula|Sun|
 
 

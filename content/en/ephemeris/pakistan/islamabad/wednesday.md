@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°31'51.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°12'19.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°53'6.10" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°54'33.73" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°48'45.10" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|19°59'18.02" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|25°31'33.50" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|14°31'51.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°12'19.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°53'6.17" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°54'33.75" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|27°48'44.93" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|19°59'24.32" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°50'39.84" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|14°31'51.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°31'51.97" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|13°12'19.17" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|1°53'6.10" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°54'33.73" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|27°48'45.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|19°59'24.25" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|19°59'24.25" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|25°50'48.71" |Capricorn|SaadAlSaud|Sun|
 
 
