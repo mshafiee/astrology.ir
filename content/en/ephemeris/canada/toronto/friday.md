@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°47'58.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°51'15.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|0°42'12.96" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°24'59.82" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°28'21.53" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|24°33'37.82" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°29'24.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°51'13.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|0°41'53.72" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°25'11.34" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°28'38.12" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|24°33'45.08" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°43'58.23" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|0°41'53.72" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|14°25'11.34" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|1°28'38.12" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|24°33'45.08" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|24°33'45.08" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|12°43'58.23" |Pisces|FarghAlMuakhar|Jupiter|
 
 

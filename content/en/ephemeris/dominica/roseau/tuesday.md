@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°33'26.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°10'9.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°46'23.68" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|11°15'36.48" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|28°11'1.54" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Post-Retrograde Shadow|20°26'8.26" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|29°43'0.35" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|13°10'6.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°46'11.17" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|11°15'48.00" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|28°11'4.93" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|20°26'19.65" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|0°40'31.87" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Sagittarius|Sun|Venus|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|1°46'11.17" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|11°15'48.00" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|28°11'4.93" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|20°26'19.65" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|20°26'19.65" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|0°40'31.87" |Aquarius|SaadAlSaud|Venus|
 
 

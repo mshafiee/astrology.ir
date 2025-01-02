@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|1°46'17.24" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|11°15'28.57" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|28°10'44.47" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Post-Retrograde Shadow|20°25'54.81" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|20°25'54.81" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|0°37'42.69" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°33'25.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°10'8.72" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|1°46'17.24" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|11°15'28.57" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|28°10'44.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|20°25'54.81" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°37'42.69" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|13°10'10.80" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|1°46'35.88" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|11°15'17.31" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|28°10'29.10" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|20°25'47.43" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°19'9.73" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Venus|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Mercury|Saturn|Sun|Venus|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mercury|Venus|Leo|Moon|Mercury|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}

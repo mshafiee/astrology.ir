@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:02:04 |
 | Medium Coeli | 13:02:04 |
 | Sunset | 16:30:56 |
-| Maghrib | 16:36:27 |
+| Maghrib | 16:36:28 |
 | Isha (Night) | 18:34:34 |
 | Sharia Midnight | 00:00:18 |
 | Imum Coeli | 01:02:18 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|1°10'31.78" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|13°2'50.50" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|0°3'6.97" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|22°44'43.34" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°0'52.45" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|22°44'43.34" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°1'34.71" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|1°10'31.78" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|13°2'50.50" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|0°3'6.97" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|22°44'44.26" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|24°0'52.45" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|22°44'43.34" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|24°1'34.71" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

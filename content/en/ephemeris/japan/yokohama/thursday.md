@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:45:21 |
 | Medium Coeli | 11:45:21 |
 | Sunset | 16:40:26 |
-| Maghrib | 16:41:40 |
+| Maghrib | 16:41:41 |
 | Isha (Night) | 18:07:20 |
 | Sharia Midnight | 22:59:31 |
 | Imum Coeli | 23:45:35 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:45:21 |
 | Medium Coeli | 11:45:21 |
 | Sunset | 16:40:26 |
-| Maghrib | 16:41:40 |
+| Maghrib | 16:41:41 |
 | Isha (Night) | 18:09:53 |
 | Sharia Midnight | 22:55:43 |
 | Imum Coeli | 23:45:35 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:45:21 |
 | Medium Coeli | 11:45:21 |
 | Sunset | 16:40:26 |
-| Maghrib | 16:41:40 |
-| Isha (Night) | 18:11:40 |
+| Maghrib | 16:41:41 |
+| Isha (Night) | 18:11:41 |
 | Sharia Midnight | 22:58:15 |
 | Imum Coeli | 23:45:35 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'15.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|13°0'57.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|1°16'16.74" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°45'46.80" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|29°45'18.93" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Post-Retrograde Shadow|22°22'22.17" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°28'19.84" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|14°40'15.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|13°0'57.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|1°16'16.96" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°45'46.81" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|29°45'18.97" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|22°22'22.16" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°28'20.00" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'15.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|13°0'57.94" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|1°16'16.74" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°45'46.80" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|29°45'18.93" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|22°22'22.17" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°28'19.84" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|14°40'15.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|13°0'57.60" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|1°16'16.96" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°45'46.81" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|29°45'18.97" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|22°22'22.16" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°28'20.00" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
