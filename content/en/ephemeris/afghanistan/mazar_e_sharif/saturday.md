@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:06:31 |
 | Sunset | 16:58:54 |
 | Maghrib | 17:02:38 |
-| Isha (Night) | 18:32:39 |
+| Isha (Night) | 18:32:38 |
 | Sharia Midnight | 23:18:35 |
 | Imum Coeli | 00:06:45 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°45'57.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°53'42.81" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|0°50'59.82" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°59'22.31" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°1'53.83" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|23°59'21.61" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°47'27.36" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|12°53'42.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|0°50'54.71" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°59'26.08" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°1'56.44" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|23°59'24.77" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°58'22.17" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°45'57.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°53'43.56" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|0°50'59.82" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|13°59'22.31" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|1°1'53.83" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|23°59'21.61" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°47'27.36" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|12°53'42.69" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|0°50'54.71" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|13°59'26.08" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|1°1'56.44" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|23°59'24.77" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°58'22.17" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

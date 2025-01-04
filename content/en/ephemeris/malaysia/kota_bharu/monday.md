@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:16:51 |
 | Medium Coeli | 13:16:51 |
 | Sunset | 19:10:38 |
-| Maghrib | 19:11:36 |
+| Maghrib | 19:11:35 |
 | Isha (Night) | 20:13:03 |
 | Sharia Midnight | 00:45:51 |
 | Imum Coeli | 01:17:04 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:16:51 |
 | Medium Coeli | 13:16:51 |
 | Sunset | 19:10:38 |
-| Maghrib | 19:11:36 |
+| Maghrib | 19:11:35 |
 | Isha (Night) | 20:23:52 |
 | Sharia Midnight | 00:36:07 |
 | Imum Coeli | 01:17:04 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°59'56.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°37'22.17" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|29°47'56.09" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°54'25.15" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|4°2'4.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|14°59'57.06" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°37'22.50" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|29°47'55.88" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°54'25.13" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|4°2'4.47" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|27°56'10.83" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°35'48.39" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°35'49.30" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
