@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:53:07 |
 | Maghrib | 18:54:06 |
 | Isha (Night) | 19:56:42 |
-| Sharia Midnight | 00:40:14 |
+| Sharia Midnight | 00:40:15 |
 | Imum Coeli | 01:12:03 |
 {{< /tab >}}
 
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°51'44.95" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|12°46'42.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|0°25'3.08" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°12'41.04" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|2°17'45.48" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|25°37'34.26" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|23°42'29.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|0°24'55.08" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°12'47.42" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|2°17'47.80" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|25°37'40.11" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°36'54.48" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°51'45.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°46'43.95" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|0°25'3.08" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|15°12'41.04" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|2°17'45.48" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|25°37'34.26" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|23°42'29.87" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|14°51'44.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°46'42.28" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|0°24'55.08" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|15°12'47.42" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|2°17'47.80" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|25°37'40.11" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|23°36'54.48" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
