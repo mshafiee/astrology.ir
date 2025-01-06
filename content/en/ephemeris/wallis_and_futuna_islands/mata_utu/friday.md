@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°19'13.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°18'0.25" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°21'5.23" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°43'49.62" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°53'42.15" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°17'21.35" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°51'53.24" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Retrograde|12°18'0.83" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°21'19.52" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°43'41.28" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|7°53'24.91" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°17'17.13" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°52'58.96" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

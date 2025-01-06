@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:30:27|Night duration: 13:29:35|
+|Duration of the day: 10:30:27|Night duration: 13:29:34|
 |Every hour of day duration: 00:52:32|Every hour of night duration: 01:07:28|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|20:48:55|21:56:22|Unfortunate hour|
 |5|Moon|Servant|21:56:23|23:03:50|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|23:03:51|00:11:18|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:11:19|01:18:46|Promotion and attracting wealth|
-|8|Mars|Ruler|01:18:47|02:26:14|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:26:15|03:33:42|Causing separation and homelessness|
-|10|Venus|Servant|03:33:43|04:41:10|Extremely unfortunate|
-|11|Mercury|Servant|04:41:11|05:48:38|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:48:39|06:56:06|Suitable for asking for a need|
+|7|Jupiter|Servant|00:11:19|01:18:45|Promotion and attracting wealth|
+|8|Mars|Ruler|01:18:46|02:26:13|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:26:14|03:33:41|Causing separation and homelessness|
+|10|Venus|Servant|03:33:42|04:41:09|Extremely unfortunate|
+|11|Mercury|Servant|04:41:10|05:48:37|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:48:38|06:56:05|Suitable for asking for a need|
 
  
  
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|20°2'22.87" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|7°12'15.97" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|2°18'34.17" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|29°32'22.72" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|29°32'22.62" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°18'21.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°18'47.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°24'57.49" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°33'51.80" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|7°43'45.53" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°3'12.11" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|6°41'28.78" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|12°18'47.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°24'57.19" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°33'51.74" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|7°43'46.30" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|3°3'11.90" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|6°45'23.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°18'21.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°18'47.48" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°24'57.49" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°33'51.80" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°43'45.53" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°3'12.11" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°41'28.78" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|15°18'21.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°18'47.90" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°24'57.19" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°33'51.74" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|7°43'46.30" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°3'11.90" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°45'23.04" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Atemaxac, GDL, Gouadalachara, Guadalajara, Guadalajara i Jalisco, Guadalakhara, Guadalaxara, Gvadalachara, Gvadalahara, Gvadalaharo, Gvadalakhara, Gvadalakharae, gatalajara, ghwadalakhara, gu'adalahara, gua da la ha la, guadarahara, gvadalahara, gvadalakhara, gwadalakhara  khalyskw, gwadallahala, gwwdlhrh, kwa da la ha ra, Ātemaxac, Γουαδαλαχάρα, Гвадалахарæ, Гвадалахара, Гуадалахара, גוודלחרה, غوادالاخارا, گوادالاخارا، خالیسکو, گواڈلہارا, ग्वादालाहारा, ਗੁਆਦਾਲਾਹਾਰਾ, ഗൗതലജാറ, กวาดาลาฮารา, გვადალახარა, グアダラハラ, 瓜达拉哈拉, 과달라하라
