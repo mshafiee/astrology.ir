@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°17'42.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°19'24.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°27'55.47" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°26'7.95" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|7°36'2.07" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|2°52'13.01" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|4°52'36.20" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|12°19'26.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°28'12.25" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°25'57.71" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|7°35'45.18" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|2°52'6.92" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|5°6'23.98" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°17'42.06" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°19'24.76" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°27'55.47" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°26'7.95" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°36'2.07" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|2°52'13.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°52'36.20" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Retrograde|12°19'26.08" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°28'12.25" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°25'57.71" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|7°35'45.18" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|2°52'6.92" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°6'23.98" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Moon|Virgo|Sun|Venus|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub> |<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

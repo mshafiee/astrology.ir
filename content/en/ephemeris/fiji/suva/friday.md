@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|28°20'52.67" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|20°44'22.51" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|7°54'14.97" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°18'8.23" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|9°0'0.79" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|3°17'58.81" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|9°51'58.15" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°19'16.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°17'57.67" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°20'52.67" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°44'22.51" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°54'14.97" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°18'8.23" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°0'0.79" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|15°19'16.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°17'57.35" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°20'52.87" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°44'22.54" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|7°54'15.00" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°18'8.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|9°0'1.09" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

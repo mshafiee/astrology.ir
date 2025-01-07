@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°1'35.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°35'36.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|29°40'37.27" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|17°14'11.18" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|4°22'20.09" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|28°23'33.34" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|21°42'8.04" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|15°1'35.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°35'35.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|29°40'37.48" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|17°14'22.45" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|4°22'26.48" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|28°23'42.88" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°10'15.63" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Gemini|Moon|Mercury|
 |♀ Venus|Jupiter|Mars|Pisces|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
+|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°1'35.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°35'36.18" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|29°40'37.27" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|17°14'22.42" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|4°22'26.45" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|15°1'35.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°35'35.85" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|29°40'37.48" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|17°14'22.45" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|4°22'24.27" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|28°23'42.88" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|21°10'16.56" |Aries|Butain|Venus|
 

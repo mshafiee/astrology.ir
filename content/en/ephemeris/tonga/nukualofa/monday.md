@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:32:04 |
+| Fajr (Dawn) | 04:32:05 |
 | Sunrise | 06:05:20 |
 | Dhuhr (Noon) | 12:46:31 |
 | Medium Coeli | 12:46:31 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°58'38.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°38'49.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|29°53'50.36" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°38'23.21" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°45'41.39" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|14°58'38.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°38'48.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|29°53'50.57" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°38'23.23" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°45'41.43" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|27°34'9.72" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|12°57'47.15" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|12°57'46.26" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°58'38.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°38'49.10" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|29°53'50.36" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°38'23.21" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|3°45'41.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|14°58'38.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°38'48.76" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|29°53'50.57" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°38'23.23" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|3°45'41.43" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|27°34'9.72" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|12°57'47.15" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°57'46.26" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

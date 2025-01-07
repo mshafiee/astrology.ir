@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:22:36 |
 | Dhuhr (Noon) | 12:08:45 |
 | Medium Coeli | 12:08:45 |
-| Sunset | 17:54:57 |
+| Sunset | 17:54:58 |
 | Maghrib | 17:55:56 |
 | Isha (Night) | 19:25:56 |
 | Sharia Midnight | 23:30:00 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:32:21|Night duration: 12:27:54|
+|Duration of the day: 11:32:22|Night duration: 12:27:53|
 |Every hour of day duration: 00:57:42|Every hour of night duration: 01:02:19|
 
  
@@ -220,24 +220,24 @@ Timetable of twelve day and night planetary hours
 |2|Jupiter|Servant|07:20:17|08:17:58|Peace among people|
 |3|Mars|Servant|08:17:59|09:15:40|Vengeful and evil deeds|
 |4|Sun|Servant|09:15:41|10:13:22|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:13:23|11:11:03|Auspicious|
-|6|Mercury|Servant|11:11:04|12:08:45|Writing, swapping and making promises|
-|7|Moon|Servant|12:08:46|13:06:27|Not suitable for any task|
+|5|Venus|Servant|10:13:23|11:11:04|Auspicious|
+|6|Mercury|Servant|11:11:05|12:08:46|Writing, swapping and making promises|
+|7|Moon|Servant|12:08:47|13:06:27|Not suitable for any task|
 |8|Saturn|Ruler|13:06:28|14:04:09|Destruction of enemies|
-|9|Jupiter|Servant|14:04:10|15:01:50|All good deeds|
-|10|Mars|Servant|15:01:51|15:59:32|Doing evil deeds|
-|11|Sun|Servant|15:59:33|16:57:14|Acceptance of reconciliation between couples|
-|12|Venus|Servant|16:57:15|17:54:56|For gaining dignity|
+|9|Jupiter|Servant|14:04:10|15:01:51|All good deeds|
+|10|Mars|Servant|15:01:52|15:59:33|Doing evil deeds|
+|11|Sun|Servant|15:59:34|16:57:15|Acceptance of reconciliation between couples|
+|12|Venus|Servant|16:57:16|17:54:57|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|17:54:57|18:57:15|Related to talismans, amulets and responses|
-|2|Moon|Servant|18:57:16|19:59:35|Peace among people|
-|3|Saturn|Servant|19:59:36|21:01:54|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:01:55|22:04:14|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:04:15|23:06:33|Auspicious|
-|6|Sun|Servant|23:06:34|00:08:53|Writing, swapping and making promises|
+|1|Mercury|Ruler|17:54:58|18:57:16|Related to talismans, amulets and responses|
+|2|Moon|Servant|18:57:17|19:59:35|Peace among people|
+|3|Saturn|Servant|19:59:36|21:01:55|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:01:56|22:04:14|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:04:15|23:06:34|Auspicious|
+|6|Sun|Servant|23:06:35|00:08:53|Writing, swapping and making promises|
 |7|Venus|Servant|00:08:54|01:11:12|Not suitable for any task|
 |8|Mercury|Ruler|01:11:13|02:13:32|Destruction of enemies|
 |9|Moon|Servant|02:13:33|03:15:51|All good deeds|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°25'51.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°12'6.40" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|27°51'31.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°0'3.09" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°9'24.61" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|5°6'19.95" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°15'31.98" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Retrograde|12°12'6.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|27°51'31.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°0'3.12" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°9'24.64" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|5°6'19.96" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|26°15'32.37" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°25'51.15" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°12'6.40" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|15°25'51.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°12'6.09" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|27°51'31.04" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°0'3.09" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|9°9'24.61" |Pisces|FarghAlMuakhar|Saturn|

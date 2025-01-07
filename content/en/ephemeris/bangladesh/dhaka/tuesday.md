@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°0'13.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°37'4.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|29°46'47.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°57'42.93" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|4°5'21.48" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|28°0'45.65" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°47'46.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|15°0'13.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°37'4.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|29°46'43.68" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°57'44.06" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|4°5'27.71" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|28°0'45.23" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°21'15.89" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Gemini|Moon|Mercury|
 |♀ Venus|Saturn|Mars|Pisces|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°0'13.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°37'4.80" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|29°46'43.68" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°57'44.06" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|15°0'13.28" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°37'4.47" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|29°46'43.89" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°57'44.09" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|4°5'27.71" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|28°0'45.23" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|17°21'16.81" |Aries|Butain|Sun|

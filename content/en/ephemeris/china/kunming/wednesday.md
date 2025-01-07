@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:33:33 |
+| Fajr (Dawn) | 06:33:34 |
 | Sunrise | 07:56:08 |
 | Dhuhr (Noon) | 13:15:48 |
 | Medium Coeli | 13:15:48 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:33:33 |
+| Fajr (Dawn) | 06:33:34 |
 | Sunrise | 07:56:08 |
 | Dhuhr (Noon) | 13:15:48 |
 | Medium Coeli | 13:15:48 |
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°10'12.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°26'38.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|29°1'37.84" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|18°58'4.61" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|6°7'36.52" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|15°10'12.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°26'37.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|29°1'38.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|18°58'4.63" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|6°7'36.56" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|0°47'58.75" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|14°48'6.98" |Aries|Butain|Sun|
 
