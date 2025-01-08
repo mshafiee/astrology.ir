@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°23'4.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°14'32.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°3'54.71" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°28'12.98" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|8°37'52.27" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|4°20'42.02" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|19°4'38.80" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|12°14'35.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°4'20.54" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°27'56.23" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|8°37'35.00" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|4°20'29.89" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|20°34'37.68" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Sun|Venus|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Leo|Moon|Mercury|
 |♀ Venus|Mars|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Mars|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°23'4.28" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|12°14'32.24" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°4'20.54" |Cancer|Jabhah|Moon|
+|♂ Mars|Retrograde|28°3'54.71" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°27'56.23" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|8°37'35.00" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|4°20'29.89" |Capricorn|SaadAlDhabib|Jupiter|

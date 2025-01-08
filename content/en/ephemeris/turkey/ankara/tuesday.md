@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:54:55 |
 | Medium Coeli | 12:54:55 |
 | Sunset | 17:39:39 |
-| Maghrib | 17:59:55 |
+| Maghrib | 17:59:56 |
 | Isha (Night) | 18:56:03 |
 | Sharia Midnight | 00:11:22 |
 | Imum Coeli | 00:55:08 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°1'9.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°36'3.83" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|29°42'33.58" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|17°9'6.19" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|4°17'3.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|15°1'9.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°36'4.16" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|29°42'33.37" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|17°9'6.16" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|4°17'3.90" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|28°16'25.97" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|19°57'24.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°57'25.69" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

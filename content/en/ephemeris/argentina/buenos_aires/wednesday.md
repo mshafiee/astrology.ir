@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°12'7.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|15°12'7.57" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|12°24'44.20" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|28°52'59.42" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°20'46.89" |Sagittarius|Baldah|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°12'7.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°24'44.53" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°52'59.22" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|19°20'46.87" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|6°30'29.27" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|1°19'52.00" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|19°58'8.69" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|12°24'44.20" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°53'10.36" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|19°20'38.85" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|6°30'26.08" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|1°19'45.06" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|20°50'44.19" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Venus|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Venus|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Saturn|Saturn|Capricorn|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}

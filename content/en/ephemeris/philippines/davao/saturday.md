@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:52:53 |
 | Dhuhr (Noon) | 11:45:25 |
 | Medium Coeli | 11:45:25 |
-| Sunset | 17:37:59 |
+| Sunset | 17:38:00 |
 | Maghrib | 17:38:57 |
 | Isha (Night) | 18:40:11 |
-| Sharia Midnight | 23:14:30 |
+| Sharia Midnight | 23:14:31 |
 | Imum Coeli | 23:45:37 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:45:06|Night duration: 12:15:12|
+|Duration of the day: 11:45:07|Night duration: 12:15:11|
 |Every hour of day duration: 00:58:46|Every hour of night duration: 01:01:16|
 
  
@@ -222,17 +222,17 @@ Timetable of twelve day and night planetary hours
 |4|Sun|Servant|08:49:09|09:47:54|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|09:47:55|10:46:39|Auspicious|
 |6|Mercury|Servant|10:46:40|11:45:25|Writing, swapping and making promises|
-|7|Moon|Servant|11:45:26|12:44:10|Not suitable for any task|
-|8|Saturn|Ruler|12:44:11|13:42:56|Destruction of enemies|
-|9|Jupiter|Servant|13:42:57|14:41:41|All good deeds|
-|10|Mars|Servant|14:41:42|15:40:27|Doing evil deeds|
-|11|Sun|Servant|15:40:28|16:39:12|Acceptance of reconciliation between couples|
-|12|Venus|Servant|16:39:13|17:37:58|For gaining dignity|
+|7|Moon|Servant|11:45:26|12:44:11|Not suitable for any task|
+|8|Saturn|Ruler|12:44:12|13:42:56|Destruction of enemies|
+|9|Jupiter|Servant|13:42:57|14:41:42|All good deeds|
+|10|Mars|Servant|14:41:43|15:40:27|Doing evil deeds|
+|11|Sun|Servant|15:40:28|16:39:13|Acceptance of reconciliation between couples|
+|12|Venus|Servant|16:39:14|17:37:59|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|17:37:59|18:39:14|Related to talismans, amulets and responses|
+|1|Mercury|Ruler|17:38:00|18:39:14|Related to talismans, amulets and responses|
 |2|Moon|Servant|18:39:15|19:40:30|Peace among people|
 |3|Saturn|Servant|19:40:31|20:41:46|Vengeful and evil deeds|
 |4|Jupiter|Servant|20:41:47|21:43:02|Dominance, judgment and issuing verdict|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:45:06|Night duration: 12:15:12|
+|Duration of the day: 11:45:07|Night duration: 12:15:11|
 |Every hour duration: 01:40:44|Every hour duration: 01:45:02|
 
  
@@ -267,19 +267,19 @@ Timetable of septet day and night planetary hours
 |Early morning|Saturn|Ruler|05:52:53|07:33:35|
 |Mid-morning|Jupiter|Servant|07:33:36|09:14:19|
 |Late morning|Mars|Servant|09:14:20|10:55:03|
-|Noon|Sun|Servant|10:55:04|12:35:46|
-|Early afternoon|Venus|Servant|12:35:47|14:16:30|
-|Mid-afternoon|Mercury|Servant|14:16:31|15:57:14|
-|Late afternoon|Moon|Servant|15:57:15|17:37:58|
+|Noon|Sun|Servant|10:55:04|12:35:47|
+|Early afternoon|Venus|Servant|12:35:48|14:16:31|
+|Mid-afternoon|Mercury|Servant|14:16:32|15:57:15|
+|Late afternoon|Moon|Servant|15:57:16|17:37:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|17:37:59|19:22:59|
-|Late evening|Moon|Servant|19:23:00|21:08:01|
-|Midnight|Saturn|Servant|21:08:02|22:53:03|
-|Late at night|Jupiter|Servant|22:53:04|00:38:04|
-|Rooster song|Mars|Servant|00:38:05|02:23:06|
+|Evening|Mercury|Ruler|17:38:00|19:23:00|
+|Late evening|Moon|Servant|19:23:01|21:08:02|
+|Midnight|Saturn|Servant|21:08:03|22:53:03|
+|Late at night|Jupiter|Servant|22:53:04|00:38:05|
+|Rooster song|Mars|Servant|00:38:06|02:23:06|
 |False Dawn|Sun|Servant|02:23:07|04:08:08|
 |Dawn|Venus|Servant|04:08:09|05:53:10|
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°25'31.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|15°25'31.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|12°12'23.65" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|27°52'59.68" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°56'14.96" |Sagittarius|Baldah|Saturn|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|27°52'59.68" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°56'14.96" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|9°5'38.97" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|5°0'52.21" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|25°22'32.66" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|5°0'45.94" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|26°2'59.55" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Virgo|Sun|Venus|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

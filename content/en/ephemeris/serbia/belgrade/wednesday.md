@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:25:27 |
 | Sunrise | 07:14:42 |
-| Dhuhr (Noon) | 11:44:55 |
-| Medium Coeli | 11:44:55 |
+| Dhuhr (Noon) | 11:44:54 |
+| Medium Coeli | 11:44:54 |
 | Sunset | 16:15:23 |
 | Maghrib | 16:17:51 |
 | Isha (Night) | 17:47:51 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°6'26.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°30'28.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|29°18'48.80" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|18°12'55.80" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|5°21'50.61" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|29°44'57.29" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°54'7.29" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|12°30'28.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|29°18'43.43" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|18°12'57.96" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|5°21'59.70" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|29°44'57.27" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°34'36.22" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Cancer|Moon|Mercury|
 |♀ Venus|Jupiter|Mars|Aries|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

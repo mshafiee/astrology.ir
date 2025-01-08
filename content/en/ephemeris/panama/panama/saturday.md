@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°28'35.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°9'49.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|27°39'47.27" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°30'55.88" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°39'49.38" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|5°50'58.66" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|4°51'58.10" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|15°28'35.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°9'46.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|27°39'21.65" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°31'12.53" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°40'9.82" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|5°51'10.04" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°17'30.18" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Virgo|Moon|Mercury|
 |♀ Venus|Mars|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°28'35.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°9'46.51" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|27°39'21.45" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°31'12.50" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|15°28'35.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°9'46.20" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|27°39'21.65" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°31'12.53" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|9°40'9.79" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|5°51'10.04" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|3°17'29.81" |Cancer|Nathrah|Venus|

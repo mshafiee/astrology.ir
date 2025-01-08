@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°16'16.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°20'44.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°34'18.87" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°9'34.80" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|7°19'28.38" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|2°28'45.42" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|1°8'27.68" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|15°16'16.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°20'44.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°34'18.47" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°9'35.04" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|7°19'28.83" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|2°28'45.54" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|1°8'31.27" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°16'16.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°20'44.63" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°34'18.27" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°9'35.01" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°19'28.79" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|2°28'45.53" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|1°8'31.13" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|15°16'16.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°20'44.31" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°34'18.47" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°9'35.04" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|7°19'28.34" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|2°28'45.41" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|1°8'27.54" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

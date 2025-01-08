@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:07:01 |
 | Sunset | 17:17:53 |
 | Maghrib | 17:23:11 |
-| Isha (Night) | 18:41:24 |
+| Isha (Night) | 18:41:23 |
 | Sharia Midnight | 23:20:38 |
 | Imum Coeli | 00:07:13 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°10'57.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°25'53.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°58'16.81" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|15°10'57.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°25'53.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°58'15.22" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°6'58.60" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|6°16'33.74" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|1°0'29.11" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|16°46'44.68" |Aries|Butain|Sun|
+|♀ Venus|Direct|6°16'33.78" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|1°0'29.12" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|16°46'44.35" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,7 +341,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|15°10'57.72" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|12°25'53.15" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|28°58'15.42" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|19°6'58.57" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°6'59.31" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|6°16'33.74" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|1°0'29.11" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|16°46'44.68" |Taurus|Dabaran|Moon|

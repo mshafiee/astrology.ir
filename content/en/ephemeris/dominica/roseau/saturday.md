@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 17:52:43 |
 | Maghrib | 17:53:43 |
 | Isha (Night) | 19:05:10 |
-| Sharia Midnight | 23:35:22 |
+| Sharia Midnight | 23:35:23 |
 | Imum Coeli | 00:13:49 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°28'21.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°9'58.31" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|27°40'23.89" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°28'33.83" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|9°37'33.43" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|5°47'21.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°44'14.12" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|12°9'57.85" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|27°40'24.50" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°28'33.69" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|9°37'31.86" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|5°47'21.76" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°41'57.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
