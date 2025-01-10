@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°16'44.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°20'21.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°32'35.95" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°14'46.05" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|7°24'41.56" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|2°36'16.50" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°35'22.95" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|15°16'44.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°20'18.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°32'11.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°15'2.50" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|7°24'56.57" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|2°36'28.88" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°18'46.52" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Jupiter|Jupiter|Aries|Sun|Saturn|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°16'44.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°20'21.60" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°32'35.95" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°14'46.05" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°24'41.56" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|2°36'16.51" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°35'23.14" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|15°16'44.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°20'18.13" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°32'11.24" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°15'2.50" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|7°24'56.57" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|2°36'28.88" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°18'46.52" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Moon|Virgo|Sun|Venus|
 |♀ Venus|Mars|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

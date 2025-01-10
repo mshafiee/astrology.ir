@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:10:55 |
 | Sunset | 18:22:54 |
 | Maghrib | 18:23:51 |
-| Isha (Night) | 19:34:18 |
+| Isha (Night) | 19:34:17 |
 | Sharia Midnight | 23:33:13 |
 | Imum Coeli | 00:11:06 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°36'23.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°3'28.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|27°5'3.30" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°58'43.78" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|11°5'55.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|7°57'59.07" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°46'44.07" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|15°36'22.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°3'28.35" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|27°5'3.56" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°58'43.65" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|11°5'54.34" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|7°57'59.21" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°46'44.30" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°36'23.10" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|12°3'28.47" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|27°5'3.30" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°58'43.78" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|11°5'55.78" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|7°57'59.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|22°46'44.30" |Cancer|Tarf|Moon|
+|♂ Mars|Retrograde|27°5'3.76" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°58'43.68" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|11°5'54.37" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|7°57'59.21" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°47'3.95" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

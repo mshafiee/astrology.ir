@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°15'47.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|15°15'47.45" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|12°21'12.52" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|28°36'30.54" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|20°3'50.12" |Sagittarius|Baldah|Saturn|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|12°21'12.68" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|28°36'31.90" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|20°3'49.24" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°13'43.39" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|2°20'37.11" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|29°48'55.98" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°13'42.50" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|2°20'36.47" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|29°52'32.36" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

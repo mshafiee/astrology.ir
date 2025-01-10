@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°18'48.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°18'23.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°22'57.47" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°38'59.25" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|7°48'52.43" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|3°10'28.44" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|7°46'8.92" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|12°18'27.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°23'21.84" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°38'42.67" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|7°48'40.89" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|3°10'15.24" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|9°26'33.61" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Sun|Venus|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°18'48.37" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|12°18'23.29" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°23'9.46" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°38'50.36" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°48'52.41" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°10'20.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°6'34.31" |Gemini|HanAh|Jupiter|
+|♂ Mars|Retrograde|28°23'21.84" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°38'42.67" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|7°48'40.89" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°10'15.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|9°26'33.61" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

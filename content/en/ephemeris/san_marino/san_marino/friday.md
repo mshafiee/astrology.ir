@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°16'52.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°20'11.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°31'42.61" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°16'27.64" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|7°26'21.90" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|2°38'32.03" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°55'30.42" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|12°20'11.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°31'42.81" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°16'27.67" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|7°26'21.94" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|2°38'32.04" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°55'30.60" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°16'52.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°20'11.67" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°31'42.61" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°16'27.64" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|7°26'21.90" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|2°38'32.03" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°55'30.42" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|15°16'52.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°20'11.34" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°31'42.81" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°16'27.67" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|7°26'21.94" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|2°38'32.04" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°55'30.60" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub> |<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Agios Marinos, Altepetl San Marino, Cathair San Mairine, Cathair San Mairíne, Ceety o San Marino, Cidade de San Marino, Cita e San Marino, Citad da San Marino, Citta di San Marino, Città di San Marino, City of San Marino, Cità e San Marino, Ciuda de San Marino, Ciudad de San Marino, Ciudá de San Marino, Ciutat de San Marino, Civitas Sancti Marini, Dinas San Marino, Ilu San Marino, Ker San Marino, Kêr San Marino, Orasul San Marino, Orașul San Marino, SAI, Saint-Marin, San Marinas, San Marino, San Marino Citta, San Marino Città, San Marino by, San Marino i San Marino, San Marino sehri, San Marino şehri, San Marins, San Maríno, San Marínó, San-Marino, San-Maryna, Sanmarino, Sanmarīno, Sant Marin, Sao Marino, Sen Maren, Sita de San Marin, Sita ed San Marin, Sità de San Marin, Sità ëd San Marin, Stadt San Marino, São Marino, Thanh pho San Marino, Thành phố San Marino, Ville de Saint-Marin, ceyint marino nakaram, san ma ri no, san marynw almdynt, san-marino, sanmalino, sanmarino, sanmarino shi, sheng ma li nuo, sheng ma lian nu cheng, sn marynw, sn mrynw, Ìlú San Màrínò, Άγιος Μαρίνος, Сан Марино, Сан-Марино, Сан-Марына, Սան Մարինո, סן מרינו, سان مارينو المدينة, سان مارینو شہر, سان مارینۆ, سان مرینو شہر, سن مارینو, செயின்ட் மரினோ நகரம், ซานมารีโน, སན་མ་རི་ནོ།, სან-მარინო, ሳን ማሪኖ, サンマリノ, サンマリノ市, 聖馬力諾, 聖馬連奴城, 산마리노
