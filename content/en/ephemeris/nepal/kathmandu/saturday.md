@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:41:28 |
-| Sunrise | 06:56:06 |
+| Sunrise | 06:56:07 |
 | Dhuhr (Noon) | 12:11:38 |
 | Medium Coeli | 12:11:38 |
 | Sunset | 17:27:19 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:33:28 |
-| Sunrise | 06:56:06 |
+| Sunrise | 06:56:07 |
 | Dhuhr (Noon) | 12:11:38 |
 | Medium Coeli | 12:11:38 |
 | Sunset | 17:27:19 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:46:11 |
-| Sunrise | 06:56:07 |
+| Sunrise | 06:56:06 |
 | Dhuhr (Noon) | 12:11:38 |
 | Medium Coeli | 12:11:38 |
 | Sunset | 17:27:19 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:43 |
-| Sunrise | 06:56:07 |
+| Sunrise | 06:56:06 |
 | Dhuhr (Noon) | 12:11:38 |
 | Medium Coeli | 12:11:38 |
 | Sunset | 17:27:19 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°20'55.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°16'27.15" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|28°13'30.83" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°3'30.44" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|8°13'18.79" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°45'24.69" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|13°31'28.29" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|12°16'27.78" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|28°13'41.09" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°3'24.35" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|8°13'5.25" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°45'21.80" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|13°32'42.38" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

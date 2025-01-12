@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 11:47:48 |
 | Medium Coeli | 11:47:48 |
 | Sunset | 16:07:23 |
-| Maghrib | 16:34:36 |
+| Maghrib | 16:34:35 |
 | Isha (Night) | 17:36:39 |
 | Sharia Midnight | 22:51:38 |
 | Imum Coeli | 23:48:00 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°21'52.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°15'36.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|28°9'20.82" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°14'23.24" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|8°24'8.18" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|4°0'58.40" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|16°16'5.27" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|12°15'36.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|28°9'20.21" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°14'23.66" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|8°24'8.34" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|4°0'58.76" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|16°12'54.68" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

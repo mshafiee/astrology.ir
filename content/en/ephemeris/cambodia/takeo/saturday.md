@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:22:36 |
 | Dhuhr (Noon) | 12:08:45 |
 | Medium Coeli | 12:08:45 |
-| Sunset | 17:54:58 |
+| Sunset | 17:54:57 |
 | Maghrib | 18:12:00 |
 | Isha (Night) | 18:53:21 |
-| Sharia Midnight | 23:31:44 |
+| Sharia Midnight | 23:31:43 |
 | Imum Coeli | 00:08:57 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:22:36 |
 | Dhuhr (Noon) | 12:08:45 |
 | Medium Coeli | 12:08:45 |
-| Sunset | 17:54:58 |
+| Sunset | 17:54:57 |
 | Maghrib | 17:55:56 |
 | Isha (Night) | 19:08:30 |
-| Sharia Midnight | 23:27:51 |
+| Sharia Midnight | 23:27:50 |
 | Imum Coeli | 00:08:57 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:22:36 |
 | Dhuhr (Noon) | 12:08:45 |
 | Medium Coeli | 12:08:45 |
-| Sunset | 17:54:58 |
+| Sunset | 17:54:57 |
 | Maghrib | 17:55:56 |
 | Isha (Night) | 19:10:39 |
-| Sharia Midnight | 23:31:05 |
+| Sharia Midnight | 23:31:04 |
 | Imum Coeli | 00:08:57 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°25'51.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°12'6.40" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|27°51'31.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°0'3.09" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°9'24.61" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|5°6'19.95" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°15'31.98" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|15°25'51.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°12'6.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|27°51'31.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°0'3.06" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°9'24.56" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|5°6'19.93" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|26°15'40.93" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

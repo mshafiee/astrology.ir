@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:06:58 |
 | Sunset | 16:51:03 |
 | Maghrib | 16:56:15 |
-| Isha (Night) | 19:05:34 |
+| Isha (Night) | 19:05:35 |
 | Sharia Midnight | 23:55:51 |
 | Imum Coeli | 01:07:08 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°43'23.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°58'13.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|26°34'48.05" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°16'0.79" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°20'51.93" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|9°51'5.39" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°18'3.11" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|15°43'23.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°58'13.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|26°34'48.25" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°16'0.81" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°20'51.96" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|9°51'5.40" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°18'3.01" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°43'23.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°58'13.89" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|26°34'48.05" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°16'0.79" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|15°43'23.00" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°58'13.59" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|26°34'48.25" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°16'0.81" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|12°20'51.93" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|9°51'5.39" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|10°18'3.11" |Leo|Zubrah|Jupiter|

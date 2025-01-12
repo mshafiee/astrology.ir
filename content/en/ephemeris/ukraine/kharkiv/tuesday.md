@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°38'5.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°2'9.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|26°57'42.65" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°17'40.70" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|11°24'22.26" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|8°25'40.16" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|27°30'43.32" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|15°38'5.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°2'10.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|26°57'42.45" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|24°17'40.68" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|11°24'22.23" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|8°25'40.21" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°29'39.10" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Mercury|
 |♀ Venus|Mars|Saturn|Gemini|Sun|Saturn|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°38'5.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°2'9.78" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|26°57'42.65" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|24°17'40.70" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|15°38'5.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|12°2'10.09" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|26°57'42.19" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°17'40.84" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|11°24'22.72" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|8°25'40.21" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|27°29'39.10" |Cancer|Jabhah|Moon|

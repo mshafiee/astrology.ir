@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 08:00:49 |
 | Dhuhr (Noon) | 12:19:16 |
 | Medium Coeli | 12:19:16 |
-| Sunset | 16:38:06 |
+| Sunset | 16:38:05 |
 | Maghrib | 17:05:45 |
 | Isha (Night) | 18:08:49 |
 | Sharia Midnight | 23:22:08 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 08:00:49 |
 | Dhuhr (Noon) | 12:19:16 |
 | Medium Coeli | 12:19:16 |
-| Sunset | 16:38:06 |
+| Sunset | 16:38:05 |
 | Maghrib | 16:39:42 |
 | Isha (Night) | 18:34:11 |
-| Sharia Midnight | 23:21:12 |
+| Sharia Midnight | 23:21:11 |
 | Imum Coeli | 00:19:27 |
 {{< /tab >}}
 
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|15°38'40.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|12°1'42.98" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|15°38'40.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|12°1'43.29" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|26°55'9.34" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|24°24'10.09" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|11°30'40.64" |Aquarius|SaadAlAkhbia|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°38'40.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°1'43.29" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|26°55'9.34" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|24°24'10.09" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|11°30'40.64" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|8°35'8.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|28°55'25.82" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Retrograde|12°1'42.36" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|26°55'10.02" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°24'9.86" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|11°30'31.89" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|8°35'9.91" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|28°58'34.60" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

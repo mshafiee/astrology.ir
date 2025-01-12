@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:33:09 |
 | Maghrib | 18:49:12 |
 | Isha (Night) | 19:36:24 |
-| Sharia Midnight | 23:22:43 |
+| Sharia Midnight | 23:22:42 |
 | Imum Coeli | 23:59:06 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°37'23.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|12°2'41.54" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|12°2'41.32" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|27°0'38.33" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|24°9'58.80" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|11°16'53.17" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|24°9'58.41" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|11°16'53.20" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|8°14'22.81" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|25°16'17.90" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|25°16'18.11" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
