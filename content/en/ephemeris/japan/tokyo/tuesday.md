@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|15°41'52.13" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°59'19.84" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|26°41'16.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°59'8.91" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°4'36.49" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|9°26'28.38" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°48'19.05" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°59'23.27" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°4'48.68" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|9°26'39.15" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°21'40.01" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Sun|Venus|
 |♀ Venus|Venus|Venus|Mercury|Moon|
 |☿ Mercury|Jupiter|Venus|Jupiter|Moon|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Mercury|
 |♀ Venus|Mars|Saturn|Gemini|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|24°59'23.27" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|12°4'48.68" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|9°26'39.15" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°48'19.05" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|6°21'40.01" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}

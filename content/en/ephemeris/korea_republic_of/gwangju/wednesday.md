@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°55'12.05" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|26°16'26.09" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|26°2'34.76" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°5'30.66" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|10°59'36.23" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|20°15'44.21" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|13°5'39.00" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|10°59'36.51" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|19°51'10.36" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Jupiter|Venus|Mars|Mercury|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Jupiter|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Libra|Moon|Mercury|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°47'38.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°55'12.05" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|26°16'26.09" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°2'34.76" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|13°5'39.00" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°55'11.60" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|26°16'28.85" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°2'32.91" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|13°5'30.66" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|10°59'36.23" |Capricorn|SaadAlDhabib|Mars|
 |☾ Moon|Direct|20°15'44.21" |Leo|Zubrah|Mars|
 

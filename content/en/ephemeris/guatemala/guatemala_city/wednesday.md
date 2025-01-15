@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°50'54.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°52'59.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|26°2'42.54" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°37'46.35" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°39'17.55" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|11°51'42.66" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|27°41'6.21" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Retrograde|11°52'58.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|26°2'32.10" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°37'53.15" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°39'24.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|11°51'47.47" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|27°3'22.86" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Libra|Moon|Mercury|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|26°2'32.10" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|26°37'53.15" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|13°39'24.84" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|11°51'47.47" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|27°3'22.86" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°51'39.95" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|27°46'31.40" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Mars|Mars|Taurus|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}

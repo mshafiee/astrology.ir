@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|25°0'0.09" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°5'24.29" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|9°27'33.05" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°29'52.21" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|6°28'47.88" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°41'55.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°59'17.47" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|26°41'2.14" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|24°59'59.85" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|12°5'24.51" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|9°27'32.79" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|11°59'17.37" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|26°41'1.78" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°0'0.09" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|12°5'24.29" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|9°27'33.05" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|6°28'47.88" |Leo|Jabhah|Saturn|
 
 
@@ -352,7 +352,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Jupiter|Mercury|Moon|Sun|
 |♃ Jupiter|Jupiter|Jupiter|Venus|Mars|
 |♂ Mars|Saturn|Venus|Jupiter|Mercury|
-|☉ Sun|Saturn|Saturn|Mercury|Jupiter|
+|☉ Sun|Saturn|Mars|Mercury|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Moon|Sun|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
 |☾ Moon|Venus|Mercury|Sun|Venus|
@@ -363,7 +363,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Mars|Virgo|Sun|Jupiter|
 |♃ Jupiter|Saturn|Saturn|Libra|Sun|Mercury|
 |♂ Mars|Mercury|Jupiter|Taurus|Sun|Mars|
-|☉ Sun|Mercury|Sun|Libra|Sun|Venus|
+|☉ Sun|Mercury|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Aries|Moon|Saturn|
 |☾ Moon|Venus|Venus|Libra|Sun|Sun|

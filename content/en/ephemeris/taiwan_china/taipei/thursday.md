@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°53'17.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°51'23.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|25°52'25.77" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°3'42.47" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°3'59.80" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|12°30'6.56" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|2°29'54.68" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|11°51'23.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|25°52'34.57" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°3'36.44" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°3'44.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|12°30'3.70" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°30'1.29" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Libra|Moon|Mercury|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Jupiter|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°53'17.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°51'23.57" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|25°52'25.77" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|27°3'42.47" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|14°3'59.80" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|12°30'6.56" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|11°51'23.50" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|25°52'34.57" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|27°3'36.44" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|14°3'44.15" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|12°30'3.70" |Capricorn|SaadAlDhabib|Mars|
 |☾ Moon|Direct|2°29'54.68" |Virgo|Sarfrah|Sun|
 
 
