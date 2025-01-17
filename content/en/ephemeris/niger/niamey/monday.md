@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:03:32 |
 | Isha (Night) | 19:44:45 |
 | Sharia Midnight | 00:25:37 |
-| Imum Coeli | 01:02:45 |
+| Imum Coeli | 01:02:46 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°12'29.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°40'8.04" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|24°33'48.19" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°26'22.16" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|17°13'39.38" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|17°34'18.36" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|12°56'16.82" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|11°40'7.88" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|24°33'47.93" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°26'22.22" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|17°13'38.29" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|17°34'18.56" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|13°1'56.17" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

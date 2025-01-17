@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:01:34 |
 | Maghrib | 19:16:52 |
 | Isha (Night) | 20:02:25 |
-| Sharia Midnight | 23:59:04 |
+| Sharia Midnight | 23:59:05 |
 | Imum Coeli | 00:34:04 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°12'26.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°40'9.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|24°33'59.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°25'50.63" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|17°13'9.38" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|17°33'29.93" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|13°50'16.12" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|16°12'26.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°40'9.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|24°33'59.21" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°25'50.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|17°13'9.40" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|17°33'29.96" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|12°53'57.83" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mercury|Mercury|Mars|Mercury|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Leo|Moon|Mars|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°12'26.53" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°40'9.42" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|24°33'59.04" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°25'50.63" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|17°13'9.38" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|17°33'29.93" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|12°53'57.03" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|16°12'26.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°40'9.13" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|24°33'59.21" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°25'50.65" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|17°13'9.40" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|17°33'29.96" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|12°53'57.83" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

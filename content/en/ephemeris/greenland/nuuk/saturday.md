@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°42'27.38" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|24°51'10.43" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°41'28.90" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°31'54.10" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|16°26'26.32" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|5°27'17.09" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|16°32'8.41" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°26'28.66" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|4°32'5.89" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Sun|Saturn|Leo|Moon|Mars|
 |☿ Mercury|Venus|Sun|Gemini|Moon|Mercury|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°8'11.42" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°42'27.19" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|24°51'16.78" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°41'23.94" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|16°31'54.10" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|16°26'26.32" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|5°27'17.09" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|11°42'27.38" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|24°51'10.43" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°41'28.90" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|16°32'8.41" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°26'28.66" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|4°32'5.89" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Venus|Mars|Virgo|Sun|Jupiter|
 |☿ Mercury|Sun|Venus|Cancer|Sun|Venus|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

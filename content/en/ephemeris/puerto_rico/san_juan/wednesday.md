@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:33:58 |
 | Sunset | 18:08:40 |
 | Maghrib | 18:09:40 |
-| Isha (Night) | 19:39:40 |
+| Isha (Night) | 19:39:41 |
 | Sharia Midnight | 23:54:09 |
 | Imum Coeli | 00:34:08 |
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°53'13.13" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|26°4'4.25" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|26°33'59.13" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°35'41.52" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|11°46'1.09" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|26°16'18.53" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|13°35'33.68" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|11°45'50.79" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|27°12'7.26" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Jupiter|Venus|Mars|Mercury|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Libra|Moon|Mercury|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
