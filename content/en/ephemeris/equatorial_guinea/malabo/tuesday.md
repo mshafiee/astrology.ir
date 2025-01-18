@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:25:06 |
+| Fajr (Dawn) | 05:25:05 |
 | Sunrise | 06:37:51 |
 | Dhuhr (Noon) | 12:36:12 |
 | Medium Coeli | 12:36:12 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°18'14.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°37'13.96" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|24°11'12.63" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°25'41.73" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|18°7'58.78" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°4'29.80" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|24°54'40.66" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|16°18'14.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°37'14.25" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|24°11'12.47" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°25'41.70" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|18°7'58.76" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°4'33.16" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|24°38'43.23" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°18'14.40" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|11°37'14.25" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|24°11'20.11" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|1°25'36.51" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|18°7'50.63" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|19°4'29.83" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|24°54'40.84" |Libra|Jubana|Jupiter|
+|♂ Mars|Retrograde|24°11'12.47" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|1°25'41.70" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|18°7'58.76" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|19°4'33.16" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|24°38'43.23" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

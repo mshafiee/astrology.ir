@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|15°59'28.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°47'29.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|25°26'46.82" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°9'34.00" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|15°6'7.53" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|14°8'21.90" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|16°52'48.79" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|11°47'30.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|25°26'44.12" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°9'36.22" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°6'18.46" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|14°8'22.23" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|16°9'38.88" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Sun|Saturn|Leo|Moon|Mars|
 |☿ Mercury|Venus|Sun|Taurus|Sun|Jupiter|
-|☾ Moon|Moon|Mercury|Aquarius|Moon|Venus|
+|☾ Moon|Moon|Sun|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|25°26'44.12" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|28°9'36.22" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|15°6'18.46" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|14°8'21.90" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|16°52'48.79" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|14°8'22.23" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|16°9'38.88" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Venus|Mars|Virgo|Sun|Jupiter|
 |☿ Mercury|Sun|Venus|Gemini|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
+|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
 
 
 {{< /tab >}}

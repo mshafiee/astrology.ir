@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:11:41 |
 | Medium Coeli | 13:11:41 |
 | Sunset | 18:01:11 |
-| Maghrib | 18:05:50 |
-| Isha (Night) | 19:35:50 |
+| Maghrib | 18:05:49 |
+| Isha (Night) | 19:35:49 |
 | Sharia Midnight | 00:20:52 |
 | Imum Coeli | 01:11:50 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°12'1.00" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°40'23.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|24°35'45.92" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°21'23.18" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|17°9'2.35" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|17°26'47.62" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|12°9'47.02" |Virgo|Awwa|Venus|
+|♂ Mars|Retrograde|24°35'46.10" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°21'23.21" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|17°9'2.38" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|17°26'47.65" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|12°9'47.86" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°12'1.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°40'23.31" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|24°35'45.92" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°21'23.18" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|17°9'2.35" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|17°26'47.62" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|12°9'47.02" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|16°12'0.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°40'23.02" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|24°35'46.10" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°21'23.21" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|17°9'2.38" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|17°26'47.65" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|12°9'47.86" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

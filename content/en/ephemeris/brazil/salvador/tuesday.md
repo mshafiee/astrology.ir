@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 12:45:49|Night duration: 11:14:42|
-|Every hour of day duration: 01:03:49|Every hour of night duration: 00:56:14|
+|Every hour of day duration: 01:03:49|Every hour of night duration: 00:56:13|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°24'54.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°34'8.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|23°45'38.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°33'44.94" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|19°9'37.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°34'8.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|23°45'38.02" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°33'44.69" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|19°9'35.23" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|20°48'45.49" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°0'54.83" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|8°9'24.55" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°24'53.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°34'8.57" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|23°45'38.18" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|2°33'44.94" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|19°9'37.17" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|16°24'54.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°34'8.65" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|23°45'38.02" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|2°33'44.69" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|19°9'35.23" |Pisces|Rescha|Jupiter|
 |☿ Mercury|Direct|20°48'45.49" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|8°0'54.83" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|8°9'24.55" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

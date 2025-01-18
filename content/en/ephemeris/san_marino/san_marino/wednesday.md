@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:28:16 |
 | Isha (Night) | 18:26:54 |
 | Sharia Midnight | 23:36:11 |
-| Imum Coeli | 00:21:56 |
+| Imum Coeli | 00:21:57 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:12:53 |
 | Isha (Night) | 18:32:36 |
 | Sharia Midnight | 23:39:01 |
-| Imum Coeli | 00:21:57 |
+| Imum Coeli | 00:21:56 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:12:53 |
 | Isha (Night) | 18:46:47 |
 | Sharia Midnight | 23:26:19 |
-| Imum Coeli | 00:21:57 |
+| Imum Coeli | 00:21:56 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:12:53 |
 | Isha (Night) | 18:49:36 |
 | Sharia Midnight | 23:30:32 |
-| Imum Coeli | 00:21:56 |
+| Imum Coeli | 00:21:57 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:12:53 |
 | Isha (Night) | 18:42:53 |
 | Sharia Midnight | 23:29:07 |
-| Imum Coeli | 00:21:56 |
+| Imum Coeli | 00:21:57 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°24'27.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°34'21.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|23°47'25.26" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°29'10.71" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|19°5'29.25" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°41'47.87" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°5'19.39" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|16°24'27.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°34'21.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|23°47'25.42" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°29'10.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|19°5'29.27" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°41'47.91" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°5'19.12" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

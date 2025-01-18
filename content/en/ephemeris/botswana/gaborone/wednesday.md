@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:22:54|Night duration: 10:37:52|
+|Duration of the day: 13:22:54|Night duration: 10:37:51|
 |Every hour duration: 01:54:42|Every hour duration: 01:31:07|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Sun|Ruler|19:09:16|20:40:22|
 |Late evening|Venus|Servant|20:40:23|22:11:29|
-|Midnight|Mercury|Servant|22:11:30|23:42:37|
-|Late at night|Moon|Servant|23:42:38|01:13:44|
-|Rooster song|Saturn|Servant|01:13:45|02:44:52|
-|False Dawn|Jupiter|Servant|02:44:53|04:15:59|
-|Dawn|Mars|Servant|04:16:00|05:47:07|
+|Midnight|Mercury|Servant|22:11:30|23:42:36|
+|Late at night|Moon|Servant|23:42:37|01:13:44|
+|Rooster song|Saturn|Servant|01:13:45|02:44:51|
+|False Dawn|Jupiter|Servant|02:44:52|04:15:58|
+|Dawn|Mars|Servant|04:15:59|05:47:06|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°23'44.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°34'39.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|23°50'9.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°21'54.55" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|18°58'48.12" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°30'41.07" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°18'29.55" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|11°34'39.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|23°50'1.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°22'1.13" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|18°59'2.95" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°30'44.85" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°42'7.06" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mercury|Saturn|Sun|Venus|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

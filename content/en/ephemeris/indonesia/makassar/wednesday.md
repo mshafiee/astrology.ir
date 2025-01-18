@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:56:23 |
-| Sunrise | 06:02:35 |
+| Sunrise | 06:02:34 |
 | Dhuhr (Noon) | 12:13:48 |
 | Medium Coeli | 12:13:48 |
 | Sunset | 18:24:57 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:00:44 |
-| Sunrise | 06:02:35 |
+| Sunrise | 06:02:34 |
 | Dhuhr (Noon) | 12:13:48 |
 | Medium Coeli | 12:13:48 |
 | Sunset | 18:24:57 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°32'39.86" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|23°32'43.96" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|3°8'30.45" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|19°40'46.77" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°42'16.18" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|15°0'47.62" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|19°40'48.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|21°42'16.08" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|14°53'30.20" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}
