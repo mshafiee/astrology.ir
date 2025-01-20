@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 07:05:01 |
 | Sunrise | 09:03:04 |
-| Dhuhr (Noon) | 13:05:35 |
-| Medium Coeli | 13:05:35 |
+| Dhuhr (Noon) | 13:05:34 |
+| Medium Coeli | 13:05:34 |
 | Sunset | 17:08:39 |
 | Maghrib | 17:36:47 |
 | Isha (Night) | 18:52:24 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:47:16 |
 | Sunrise | 09:03:04 |
-| Dhuhr (Noon) | 13:05:35 |
-| Medium Coeli | 13:05:35 |
+| Dhuhr (Noon) | 13:05:34 |
+| Medium Coeli | 13:05:34 |
 | Sunset | 17:08:39 |
 | Maghrib | 17:13:00 |
 | Isha (Night) | 18:43:00 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°17'50.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°37'26.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|24°12'52.11" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°21'35.02" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|18°4'12.37" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|18°58'21.46" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|23°58'7.92" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|16°17'50.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°37'26.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|24°12'52.62" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°21'34.73" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|18°4'12.50" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|18°58'21.21" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|23°56'4.96" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

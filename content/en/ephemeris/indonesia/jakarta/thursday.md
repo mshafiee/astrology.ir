@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°30'8.20" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|23°9'36.23" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°11'37.88" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|20°36'55.78" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Direct|23°19'56.33" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°26'7.10" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|20°36'54.69" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Direct|23°19'56.45" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°31'30.31" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Venus|Mars|Libra|Moon|Mars|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°34'36.68" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Retrograde|11°30'8.20" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|23°9'36.54" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°11'37.86" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|20°36'55.78" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|23°19'56.33" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|27°26'7.10" |Scorpio|Shaulah|Venus|
+|♂ Mars|Retrograde|23°9'36.23" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°11'37.88" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|20°36'54.69" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|23°19'56.45" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|27°31'30.31" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Mercury|Moon|Libra|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|23°49'41.84" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|2°23'1.68" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|18°59'56.85" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°32'19.01" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°23'29.92" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|20°32'20.32" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°53'21.90" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mercury|Saturn|Sun|Venus|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°23'51.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°34'37.07" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|23°49'44.88" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|2°22'58.83" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|18°59'47.61" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|20°32'19.01" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|6°23'29.92" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|11°34'37.40" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|23°49'41.84" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|2°23'1.68" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|18°59'56.85" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|20°32'20.32" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|5°53'21.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Mercury|Mercury|Moon|Sun|
 |☿ Mercury|Venus|Saturn|Mercury|Jupiter|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
