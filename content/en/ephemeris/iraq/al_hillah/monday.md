@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°11'56.14" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°40'25.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|24°36'3.57" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°20'33.45" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|17°8'16.73" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|17°25'31.23" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|11°57'27.82" |Virgo|Awwa|Venus|
+|♂ Mars|Retrograde|24°36'7.98" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°20'30.07" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|17°8'6.73" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|17°25'29.68" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|12°35'20.78" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Sun|Jupiter|Leo|Moon|Mars|
 |☿ Mercury|Mercury|Mercury|Gemini|Moon|Mercury|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°11'56.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°40'25.68" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|24°36'3.57" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°20'33.45" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|17°8'16.73" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|17°25'31.23" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|11°57'27.82" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|16°11'56.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°40'25.39" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|24°36'3.74" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°20'33.48" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|17°8'16.75" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|17°25'31.26" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|11°57'28.66" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

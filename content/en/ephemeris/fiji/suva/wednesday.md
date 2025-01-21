@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:06:10 |
 | Isha (Night) | 19:50:05 |
 | Sharia Midnight | 23:38:22 |
-| Imum Coeli | 00:17:50 |
+| Imum Coeli | 00:17:51 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:49:42 |
 | Isha (Night) | 20:04:18 |
 | Sharia Midnight | 23:37:39 |
-| Imum Coeli | 00:17:50 |
+| Imum Coeli | 00:17:51 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:49:42 |
 | Isha (Night) | 20:06:42 |
 | Sharia Midnight | 23:34:02 |
-| Imum Coeli | 00:17:50 |
+| Imum Coeli | 00:17:51 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:49:42 |
 | Isha (Night) | 20:09:05 |
 | Sharia Midnight | 23:37:39 |
-| Imum Coeli | 00:17:50 |
+| Imum Coeli | 00:17:51 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:49:42 |
 | Isha (Night) | 20:19:42 |
 | Sharia Midnight | 23:36:27 |
-| Imum Coeli | 00:17:50 |
+| Imum Coeli | 00:17:51 |
 {{< /tab >}}
 
 {{< /tabs >}}

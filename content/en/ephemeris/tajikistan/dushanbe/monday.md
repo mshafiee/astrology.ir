@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:35:53 |
 | Medium Coeli | 12:35:53 |
 | Sunset | 17:33:12 |
-| Maghrib | 17:38:43 |
+| Maghrib | 17:38:44 |
 | Isha (Night) | 19:02:11 |
 | Sharia Midnight | 23:48:46 |
 | Imum Coeli | 00:36:02 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:35:53 |
 | Medium Coeli | 12:35:53 |
 | Sunset | 17:33:12 |
-| Maghrib | 17:38:43 |
+| Maghrib | 17:38:44 |
 | Isha (Night) | 19:04:48 |
 | Sharia Midnight | 23:44:52 |
 | Imum Coeli | 00:36:02 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°11'35.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°40'36.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|24°37'26.28" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°16'59.93" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|17°4'59.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|17°20'8.28" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|11°17'20.47" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|11°40'38.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|24°37'32.26" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°16'56.66" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|17°5'3.35" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|17°20'5.03" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|10°49'9.67" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

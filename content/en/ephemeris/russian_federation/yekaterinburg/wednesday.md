@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 07:51:42|Night duration: 16:06:42|
-|Every hour of day duration: 00:39:18|Every hour of night duration: 01:20:34|
+|Every hour of day duration: 00:39:19|Every hour of night duration: 01:20:34|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°23'51.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°34'37.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|23°49'44.62" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°23'4.07" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|18°59'58.30" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°32'26.69" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°53'13.27" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|16°23'51.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°34'37.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|23°49'44.78" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°23'4.09" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|18°59'58.31" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°32'26.72" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°53'13.03" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°23'51.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°34'37.67" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|23°49'44.62" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|2°23'4.07" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|18°59'58.30" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|20°32'26.69" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|5°53'13.27" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|16°23'51.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°34'37.39" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|23°49'44.78" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|2°23'4.09" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|18°59'58.31" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|20°32'26.72" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|5°53'13.03" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

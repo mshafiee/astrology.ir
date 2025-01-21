@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:02:47 |
 | Maghrib | 18:23:49 |
 | Isha (Night) | 19:13:33 |
-| Sharia Midnight | 00:14:22 |
+| Sharia Midnight | 00:14:23 |
 | Imum Coeli | 00:59:23 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°24'32.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°34'20.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|23°47'24.32" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°29'47.66" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|19°5'57.73" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°42'54.73" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°21'1.74" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|11°34'18.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|23°47'5.50" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°30'0.57" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|19°6'14.38" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°43'3.60" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°15'27.63" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -324,7 +324,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Sun|Saturn|Leo|Moon|Mars|
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Sun|Venus|Pisces|Moon|Jupiter|
-|☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Mercury|Venus|Leo|Moon|Mercury|
 |☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°24'32.21" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°34'18.98" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|23°47'5.50" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|2°30'0.57" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|19°6'14.38" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|20°43'3.60" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|7°15'27.63" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|16°24'32.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°34'18.70" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|23°47'5.66" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|2°30'0.60" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|19°6'14.40" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|20°43'3.64" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|7°15'27.36" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Mercury|Servant|00:19:59|01:34:47|Achieving status and power|
 |8|Moon|Ruler|01:34:48|02:49:37|Attraction of happiness and fortune|
 |9|Saturn|Servant|02:49:38|04:04:27|Reaching status and promotion|
-|10|Jupiter|Servant|04:04:28|05:19:17|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Jupiter|Servant|04:04:28|05:19:17|Fulfilling needs|
 |11|Mars|Servant|05:19:18|06:34:07|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Sun|Servant|06:34:08|07:48:57|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°30'47.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°31'40.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|23°23'45.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°33'17.19" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|20°2'58.84" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Direct|22°20'36.85" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|19°10'38.53" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|16°30'47.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°31'39.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|23°23'41.81" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°33'18.58" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|20°2'54.62" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Direct|22°20'38.47" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|19°41'38.23" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
