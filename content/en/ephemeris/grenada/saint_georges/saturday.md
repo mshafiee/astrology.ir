@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:21:16 |
 | Isha (Night) | 19:04:08 |
 | Sharia Midnight | 23:46:27 |
-| Imum Coeli | 00:19:30 |
+| Imum Coeli | 00:19:29 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:07:36 |
 | Isha (Night) | 19:16:55 |
 | Sharia Midnight | 23:42:11 |
-| Imum Coeli | 00:19:30 |
+| Imum Coeli | 00:19:29 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:07:36 |
 | Isha (Night) | 19:08:24 |
 | Sharia Midnight | 23:48:34 |
-| Imum Coeli | 00:19:30 |
+| Imum Coeli | 00:19:29 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:07:36 |
 | Isha (Night) | 19:19:03 |
 | Sharia Midnight | 23:39:00 |
-| Imum Coeli | 00:19:30 |
+| Imum Coeli | 00:19:29 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:07:36 |
 | Isha (Night) | 19:21:11 |
 | Sharia Midnight | 23:42:11 |
-| Imum Coeli | 00:19:30 |
+| Imum Coeli | 00:19:29 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|22°15'52.57" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|6°43'19.75" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|22°48'48.42" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|27°17'12.04" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|27°59'4.72" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|27°17'22.49" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|28°57'38.49" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°52'36.98" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°24'10.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|22°7'12.77" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°9'9.21" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°10'38.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°58'22.59" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°46'44.28" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Retrograde|22°6'57.10" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°9'21.48" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°11'0.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°58'30.59" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°32'12.01" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Mercury|Mars|Scorpio|Moon|Mars|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°52'36.86" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°24'10.45" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|22°6'57.25" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|7°9'21.50" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|16°52'36.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°24'10.72" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|22°6'57.10" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|7°9'21.48" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|23°11'0.03" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|27°58'30.61" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|4°32'11.51" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|27°58'30.59" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|4°32'12.01" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

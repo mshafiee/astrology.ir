@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°45'39.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°26'15.09" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|22°30'27.95" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|6°1'18.62" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|16°45'39.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°26'15.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|22°30'27.80" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|6°1'18.59" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|22°12'42.37" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|26°11'12.53" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|20°7'1.61" |Scorpio|Qalb|Venus|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°26'15.09" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|22°30'27.95" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|6°1'18.62" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|22°12'18.27" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|26°11'1.56" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|19°15'38.84" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|22°12'42.37" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|26°11'12.53" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|20°7'1.61" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Mars|Mercury|Jupiter|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aries|Sun|Saturn|
 |♀ Venus|Moon|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Moon|Sun|Scorpio|Sun|Venus|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:22:21 |
-| Sunrise | 05:47:08 |
+| Sunrise | 05:47:07 |
 | Dhuhr (Noon) | 12:28:13 |
 | Medium Coeli | 12:28:13 |
 | Sunset | 19:09:01 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:36:16 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:08 |
 | Dhuhr (Noon) | 12:28:13 |
 | Medium Coeli | 12:28:13 |
 | Sunset | 19:09:01 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:12:55 |
-| Sunrise | 05:47:08 |
+| Sunrise | 05:47:07 |
 | Dhuhr (Noon) | 12:28:13 |
 | Medium Coeli | 12:28:13 |
 | Sunset | 19:09:01 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:20:47 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:08 |
 | Dhuhr (Noon) | 12:28:13 |
 | Medium Coeli | 12:28:13 |
 | Sunset | 19:09:01 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:21:53|Night duration: 10:38:52|
+|Duration of the day: 13:21:54|Night duration: 10:38:52|
 |Every hour duration: 01:54:33|Every hour duration: 01:31:16|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|05:47:08|07:41:40|
-|Mid-morning|Mars|Servant|07:41:41|09:36:13|
-|Late morning|Sun|Servant|09:36:14|11:30:46|
-|Noon|Venus|Servant|11:30:47|13:25:20|
-|Early afternoon|Mercury|Servant|13:25:21|15:19:53|
+|Early morning|Jupiter|Ruler|05:47:07|07:41:39|
+|Mid-morning|Mars|Servant|07:41:40|09:36:12|
+|Late morning|Sun|Servant|09:36:13|11:30:46|
+|Noon|Venus|Servant|11:30:47|13:25:19|
+|Early afternoon|Mercury|Servant|13:25:20|15:19:53|
 |Mid-afternoon|Moon|Servant|15:19:54|17:14:26|
 |Late afternoon|Saturn|Servant|17:14:27|19:09:00|
 
