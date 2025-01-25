@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:18:16 |
 | Sunset | 17:59:35 |
 | Maghrib | 18:16:41 |
-| Isha (Night) | 18:58:02 |
+| Isha (Night) | 18:58:01 |
 | Sharia Midnight | 23:41:06 |
 | Imum Coeli | 00:18:22 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°59'46.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°22'18.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|21°43'35.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|8°18'50.73" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°9'35.53" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°48'54.08" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|19°45'29.92" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|16°59'46.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°22'19.02" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|21°43'35.36" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|8°18'50.27" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°9'34.64" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|29°48'53.79" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|19°43'21.03" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°59'46.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°22'18.75" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|21°43'35.00" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|8°18'50.73" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|24°9'35.53" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|29°48'54.08" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|19°45'29.92" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|16°59'46.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°22'19.01" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|21°43'34.85" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|8°18'50.71" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|24°9'35.52" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|29°48'54.07" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|19°45'30.03" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

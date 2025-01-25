@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:13:42 |
 | Sunset | 18:03:51 |
 | Maghrib | 18:09:45 |
-| Isha (Night) | 19:44:04 |
+| Isha (Night) | 19:44:03 |
 | Sharia Midnight | 00:23:30 |
 | Imum Coeli | 01:13:49 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°35'30.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°29'48.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|23°6'27.34" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°20'32.34" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|20°44'45.19" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Direct|23°33'50.19" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|29°8'59.31" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|16°35'30.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°29'48.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|23°6'27.19" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°20'32.31" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|20°44'45.18" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Direct|23°33'50.16" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°8'59.41" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°35'30.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°29'48.00" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|23°6'27.34" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°20'32.34" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|20°44'45.19" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|16°35'30.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°29'48.28" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|23°6'27.19" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°20'32.31" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|20°44'45.18" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|23°33'50.16" |Capricorn|SaadAlBula|Sun|
 |☾ Moon|Direct|29°8'59.41" |Scorpio|Shaulah|Venus|
 
