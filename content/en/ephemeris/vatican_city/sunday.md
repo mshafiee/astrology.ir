@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Sun|Ruler|13:12:06|14:01:15|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Venus|Servant|14:01:16|14:50:25|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mercury|Servant|14:50:26|15:39:35|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Moon|Servant|15:39:36|16:28:45|Performing promises|
+|11|Moon|Servant|15:39:36|16:28:45|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Saturn|Servant|16:28:46|17:17:55|Finding the fugitive and discovering the thief|
 
  
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|22°19'31.90" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|6°32'55.50" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|22°39'52.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°0'57.54" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|26°12'43.32" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|27°1'0.90" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|26°28'46.03" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|16°48'53.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°25'15.96" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|22°19'31.90" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|6°32'55.50" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|22°39'52.79" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|27°1'0.90" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|26°28'46.03" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|11°25'14.88" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|22°19'30.12" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|6°32'54.69" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|22°39'42.38" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°1'1.13" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|26°57'28.19" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aries|Sun|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Mercury|Scorpio|Sun|Venus|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

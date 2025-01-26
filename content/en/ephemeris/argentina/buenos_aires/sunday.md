@@ -220,7 +220,7 @@ Timetable of twelve day and night planetary hours
 |2|Venus|Servant|07:17:21|08:27:02|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mercury|Servant|08:27:03|09:36:44|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Moon|Servant|09:36:45|10:46:26|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Saturn|Servant|10:46:27|11:56:08|Separation, vengeful and hostile deeds|
+|5|Saturn|Servant|10:46:27|11:56:08|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Jupiter|Servant|11:56:09|13:05:50|Suitable for all good deeds|
 |7|Mars|Servant|13:05:51|14:15:32|No task is suitable, causes misfortune|
 |8|Sun|Ruler|14:15:33|15:25:14|Extremely auspicious and attracts happiness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|16°55'50.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°23'17.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|21°56'17.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°40'47.93" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°37'38.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°48'20.62" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°25'54.43" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|16°55'50.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°23'18.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|21°56'16.89" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°40'47.91" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°37'38.15" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°48'20.60" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|10°5'38.63" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

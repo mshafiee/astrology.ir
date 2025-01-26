@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:37:56 |
 | Sunset | 17:44:06 |
 | Maghrib | 17:49:51 |
-| Isha (Night) | 19:13:58 |
+| Isha (Night) | 19:13:57 |
 | Sharia Midnight | 23:47:46 |
 | Imum Coeli | 00:38:01 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°7'9.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°20'41.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|21°20'30.98" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°29'44.47" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|25°8'19.88" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|17°7'9.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°20'41.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|21°20'30.85" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°29'44.45" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|25°8'19.87" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|1°42'27.59" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°26'58.87" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°26'58.42" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°7'9.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°20'41.38" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|21°20'30.98" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°29'44.47" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|25°8'19.88" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°7'9.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°20'41.64" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|21°20'30.85" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°29'44.45" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|25°8'19.87" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|1°42'27.59" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|5°26'58.87" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|5°26'58.42" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

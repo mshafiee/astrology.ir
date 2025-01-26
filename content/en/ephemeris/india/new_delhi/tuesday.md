@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°0'11.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|17°0'11.55" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°22'13.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|21°42'16.94" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|8°22'48.70" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°12'54.56" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°55'14.29" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°33'38.82" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Retrograde|21°42'17.55" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|8°22'48.18" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°12'53.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|29°55'13.95" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°31'2.25" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
