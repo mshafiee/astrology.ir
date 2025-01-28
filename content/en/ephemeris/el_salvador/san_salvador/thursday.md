@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°22'16.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'14.64" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°36'15.64" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°52'55.72" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°3'40.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|5°34'34.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°47'50.92" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|17°22'16.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°18'14.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°36'15.77" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°52'55.75" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|27°3'40.08" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|5°34'34.06" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°47'50.90" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°22'16.28" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'14.64" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°36'15.64" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°52'55.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°3'40.05" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|5°34'34.07" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|8°47'50.92" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|17°22'16.16" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°18'14.39" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°36'15.77" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°52'55.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°3'40.08" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|5°34'34.06" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|8°47'50.90" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: SAL, Salvador, San Salbador, San Salvado, San Salvador, San Salvadoras, San Salvadori, San Salvadò, San Salwador, San-Sal'vador, San-Salvador, San-Salvadoro, Sansalvadora, Urbs Sancti Salvatoris, can calvator, san salvadwr, san salwadwr, san slfadwr, san-salvadori, sana salavadora, sana salvhadora, sana-salvadora, sansalbadoleu, sansalwadxr, sansarubadoru, sheng sa er wa duo, sn slwwdwr, Σαν Σαλβαδόρ, Сан Салвадор, Сан-Сальвадор, Սան Սալվադոր, סאן סאלוואדאר, סן סלוודור, سان سالوادور, سان سالۋادور, سان سلفادور, سان سلواڈور, सान साल्व्हाडोर, सान-साल्वाडोर, ਸਾਨ ਸਾਲਵਾਦੋਰ, சான் சல்வடோர், ซันซัลวาดอร์, སན་སལ་ཝ་ཌོར།, სან-სალვადორი, ሳን ሳልቫዶር, サンサルバドル, 聖薩爾瓦多, 산살바도르

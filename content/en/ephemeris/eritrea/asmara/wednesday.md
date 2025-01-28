@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:37:23 |
 | Sunset | 18:20:24 |
 | Maghrib | 18:38:03 |
-| Isha (Night) | 19:19:02 |
+| Isha (Night) | 19:19:03 |
 | Sharia Midnight | 00:00:10 |
 | Imum Coeli | 00:37:28 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°7'7.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°20'41.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|21°20'33.51" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°29'27.54" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|25°8'7.09" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°41'54.70" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°6'52.57" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|11°20'41.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|21°20'33.65" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°29'27.57" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|25°8'7.11" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°41'58.10" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°39'18.24" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

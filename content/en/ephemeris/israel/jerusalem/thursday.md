@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:52:24 |
 | Sunset | 17:11:36 |
 | Maghrib | 17:16:33 |
-| Isha (Night) | 18:31:53 |
+| Isha (Night) | 18:31:54 |
 | Sharia Midnight | 23:09:48 |
 | Imum Coeli | 23:52:29 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°13'42.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°19'29.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|21°0'50.54" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°32'2.87" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|25°59'4.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|17°13'42.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°19'29.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|21°0'50.67" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°32'2.90" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|25°59'4.97" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|3°22'59.10" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|19°49'22.54" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|19°49'23.06" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°13'42.25" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°19'29.39" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|21°0'50.54" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°32'2.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|25°59'4.95" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°13'42.14" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°19'29.13" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|21°0'50.67" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°32'2.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|25°59'4.97" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|3°22'59.10" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|19°49'22.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|19°49'23.06" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°21'59.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'16.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°37'10.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°50'9.60" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°1'14.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|5°30'11.41" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°57'42.36" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°18'16.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°37'3.22" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°50'17.91" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|27°1'35.12" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|5°30'16.74" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°6'59.21" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Venus|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°21'59.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'16.68" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|11°18'16.80" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°37'3.22" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|11°50'17.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°1'14.43" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|5°30'11.41" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|6°57'42.36" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|27°1'35.12" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|5°30'16.74" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|8°6'59.21" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Moon|
 |♀ Venus|Mars|Saturn|Mars|Mars|
 |☿ Mercury|Mercury|Saturn|Saturn|Saturn|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |☿ Mercury|Jupiter|Mars|Aries|Sun|Saturn|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운

@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°22'13.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'16.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°36'26.65" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°52'31.43" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|11°18'15.29" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°36'26.43" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°52'29.40" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|27°3'27.85" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°33'54.67" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|8°53'53.18" |Aquarius|SaadAlAkhbia|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°22'13.62" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'15.29" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°36'26.43" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°52'29.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°3'17.82" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|5°33'53.66" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|8°25'38.03" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|11°18'16.12" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°36'26.65" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°52'31.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°3'27.85" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|5°33'54.67" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|8°53'53.18" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |☿ Mercury|Jupiter|Mars|Aries|Sun|Saturn|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC
