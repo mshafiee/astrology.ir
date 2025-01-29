@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°21'39.89" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|21°34'41.49" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|8°45'50.56" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°32'5.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|24°32'5.43" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|0°32'1.46" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|25°46'36.75" |Sagittarius|Baldah|Saturn|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°2'35.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Retrograde|11°21'41.57" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|21°34'55.78" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|8°45'41.11" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|24°31'56.28" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|0°31'54.71" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|24°43'1.79" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|11°21'39.89" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|21°34'41.49" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|8°45'50.56" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Pre-Retrograde Shadow|24°32'5.43" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|0°32'1.46" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|25°46'36.75" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Saturn|Saturn|Saturn|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Taurus|Sun|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Venus|Aquarius|Sun|Saturn|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:30:46 |
 | Maghrib | 18:31:42 |
 | Isha (Night) | 19:43:54 |
-| Sharia Midnight | 23:56:49 |
+| Sharia Midnight | 23:56:50 |
 | Imum Coeli | 00:33:24 |
 {{< /tab >}}
 
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|17°12'6.73" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°19'45.44" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|21°5'30.17" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°16'57.08" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|25°46'53.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°58'31.25" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|16°36'11.11" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|10°16'52.64" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Pre-Retrograde Shadow|25°46'58.12" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°58'27.47" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|16°10'53.95" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°19'45.44" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|21°5'30.17" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°16'57.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|25°46'53.07" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|25°46'53.07" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|2°58'31.25" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|16°36'11.11" |Aquarius|SaadAlAkhbia|Mercury|
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°36'41.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°17'0.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°58'23.46" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°7'0.80" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|28°47'4.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|9°15'51.23" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°0'11.31" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|11°16'58.65" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°58'2.21" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°7'17.60" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|28°47'28.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|9°16'2.89" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°12'0.16" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°16'58.65" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|19°58'2.21" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|14°7'17.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|28°47'28.88" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|28°47'28.88" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|9°16'2.89" |Aquarius|SaadAlAkhbia|Venus|
 |☾ Moon|Direct|10°12'0.16" |Aries|Sharatain|Sun|
 

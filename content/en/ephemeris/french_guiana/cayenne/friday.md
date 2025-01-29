@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:42:47 |
 | Medium Coeli | 12:42:47 |
 | Sunset | 18:40:26 |
-| Maghrib | 18:41:22 |
+| Maghrib | 18:41:21 |
 | Isha (Night) | 19:49:07 |
 | Sharia Midnight | 00:06:26 |
 | Imum Coeli | 00:42:52 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:42:47 |
 | Medium Coeli | 12:42:47 |
 | Sunset | 18:40:26 |
-| Maghrib | 18:41:22 |
+| Maghrib | 18:41:21 |
 | Isha (Night) | 19:40:44 |
 | Sharia Midnight | 00:12:42 |
 | Imum Coeli | 00:42:52 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:42:47 |
 | Medium Coeli | 12:42:47 |
 | Sunset | 18:40:26 |
-| Maghrib | 18:41:22 |
+| Maghrib | 18:41:21 |
 | Isha (Night) | 19:51:12 |
 | Sharia Midnight | 00:03:17 |
 | Imum Coeli | 00:42:52 |
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°28'3.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°17'36.48" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|17°28'3.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°17'36.73" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°20'26.17" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|12°47'8.80" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°46'5.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°46'5.72" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|7°3'29.97" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|21°29'59.08" |Aquarius|FarghAlMuqaddam|Moon|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°17'36.73" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°20'26.17" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|12°47'8.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°46'5.72" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°46'5.72" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|7°3'29.97" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|21°29'59.08" |Pisces|Rescha|Mars|
 

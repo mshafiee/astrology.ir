@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:19:41 |
 | Maghrib | 19:36:59 |
 | Isha (Night) | 20:30:11 |
-| Sharia Midnight | 23:49:11 |
+| Sharia Midnight | 23:49:12 |
 | Imum Coeli | 00:29:52 |
 {{< /tab >}}
 
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'46.15" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°47'27.31" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°15'33.16" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|26°34'1.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|26°34'1.36" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°33'34.78" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|0°10'19.27" |Aquarius|SaadAlSaud|Venus|
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°18'17.88" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Retrograde|11°18'46.15" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°47'27.18" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°15'33.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°34'1.34" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°33'34.78" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|0°10'19.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|20°47'27.31" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°15'32.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°34'6.46" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°33'34.05" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|0°15'18.03" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

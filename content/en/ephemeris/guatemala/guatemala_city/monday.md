@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°3'3.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°21'33.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|21°33'12.57" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|8°50'21.62" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°35'50.57" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|0°39'14.94" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|26°49'11.12" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|11°21'34.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|21°33'26.40" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|8°50'9.41" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|24°35'25.91" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|0°39'7.07" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|25°44'47.91" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Sun|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Capricorn|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°21'33.55" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|21°33'12.57" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°50'21.62" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|24°35'50.57" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|24°35'50.57" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|0°39'14.94" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|26°49'11.12" |Capricorn|SaadAlSaud|Sun|
 

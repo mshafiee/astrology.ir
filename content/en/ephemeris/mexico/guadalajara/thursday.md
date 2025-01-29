@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'12.51" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°35'26.48" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°55'43.93" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°5'52.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°5'52.38" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°39'9.72" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|9°23'31.58" |Aquarius|SaadAlAkhbia|Venus|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'12.51" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°35'26.48" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|11°55'43.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°5'52.38" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°5'52.38" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°39'9.72" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|9°23'31.58" |Pisces|FarghAlMuakhar|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Atemaxac, GDL, Gouadalachara, Guadalajara, Guadalajara i Jalisco, Guadalakhara, Guadalaxara, Gvadalachara, Gvadalahara, Gvadalaharo, Gvadalakhara, Gvadalakharae, gatalajara, ghwadalakhara, gu'adalahara, gua da la ha la, guadarahara, gvadalahara, gvadalakhara, gwadalakhara  khalyskw, gwadallahala, gwwdlhrh, kwa da la ha ra, Ātemaxac, Γουαδαλαχάρα, Гвадалахарæ, Гвадалахара, Гуадалахара, גוודלחרה, غوادالاخارا, گوادالاخارا، خالیسکو, گواڈلہارا, ग्वादालाहारा, ਗੁਆਦਾਲਾਹਾਰਾ, ഗൗതലജാറ, กวาดาลาฮารา, გვადალახარა, グアダラハラ, 瓜达拉哈拉, 과달라하라

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°21'19.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'21.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°38'54.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°43'59.97" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|26°56'37.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|17°21'19.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°18'21.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°38'54.18" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°44'0.00" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°56'37.30" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°19'57.77" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°47'55.28" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|6°47'55.33" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°21'19.21" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'21.79" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°38'54.06" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°43'59.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°56'37.27" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°21'19.09" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°18'21.54" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°38'54.18" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°44'0.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°56'37.30" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°19'57.77" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|6°47'55.28" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°47'55.33" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: POA, Porto Alegre, Porto Alegri, Porto Alegrė, Porto Alenkre, Porto de Sao Francisco dos Casaes, Porto-Alegro, Portu-Alegre, Portu-Alegri, Portu-Alegry, Portualegri, Portus Alacer, Puerto Alegre, Pôrto de São Francisco dos Casaes, a lei ge li gang, bwrtw alyghry, parto alegre, poleutuallegeuli, portu alegri, pwrtw algrh, Πόρτο Αλέγκρε, Порто Алегре, Порто Алегри, Порту-Алегре, Порту-Алегри, Порту-Алегры, Порту-Алегрі, פורטו אלגרה, بورتو أليغري, پورتو الگره, پورتو الیگرے, पोर्तू अलेग्री, পর্টো আলেগ্রে, პორტუ-ალეგრი, ポルト・アレグレ, 阿雷格里港, 포르투알레그리

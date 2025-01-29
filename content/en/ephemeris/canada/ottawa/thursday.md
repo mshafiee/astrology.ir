@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'15.10" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°36'20.62" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°52'52.40" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°3'35.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°3'35.48" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°34'32.16" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|8°25'34.00" |Aquarius|SaadAlSaud|Venus|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'15.10" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°36'20.62" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|11°52'52.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°3'35.48" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°3'35.48" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°34'32.16" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|8°25'34.00" |Pisces|FarghAlMuakhar|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와

@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 21:06:27 |
 | Isha (Night) | 22:52:10 |
 | Sharia Midnight | 10:46:34 |
-| Imum Coeli | 00:39:05 |
+| Imum Coeli | 00:39:06 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 20:35:03 |
 | Isha (Night) | 00:25:43 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:39:05 |
+| Imum Coeli | 00:39:06 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 20:35:03 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:39:05 |
+| Imum Coeli | 00:39:06 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 20:35:03 |
 | Isha (Night) | 22:05:03 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:39:05 |
+| Imum Coeli | 00:39:06 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°20'32.97" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|21°18'16.21" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°36'40.89" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|25°14'2.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|25°14'2.20" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|1°53'36.21" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|7°10'36.15" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°20'32.97" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|21°18'16.21" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°36'40.89" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|25°14'2.20" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|25°14'2.20" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|1°53'36.21" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|7°10'36.15" |Aquarius|SaadAlSaud|Venus|
 

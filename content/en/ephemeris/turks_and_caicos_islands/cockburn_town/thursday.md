@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'16.80" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°37'3.22" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°50'17.91" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°1'35.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°1'35.12" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°30'16.74" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|8°6'59.21" |Aquarius|SaadAlSaud|Venus|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'16.80" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°37'3.22" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|11°50'17.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°1'35.12" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°1'35.12" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°30'16.74" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|8°6'59.21" |Pisces|FarghAlMuakhar|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운

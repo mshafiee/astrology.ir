@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:11:11 |
+| Fajr (Dawn) | 05:11:12 |
 | Sunrise | 06:24:02 |
 | Dhuhr (Noon) | 12:36:21 |
 | Medium Coeli | 12:36:21 |
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'33.40" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°43'3.36" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°30'6.07" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|26°45'36.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|26°45'36.34" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°57'16.62" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|3°35'14.72" |Aquarius|SaadAlSaud|Venus|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'33.40" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°43'3.36" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|11°30'6.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°45'36.34" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°45'36.34" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|4°57'16.62" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|3°35'14.72" |Pisces|FarghAlMuqaddam|Saturn|
 

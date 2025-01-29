@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'28.54" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°41'20.87" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°35'49.11" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|26°50'8.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|26°50'8.38" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°6'36.57" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|4°52'36.23" |Aquarius|SaadAlSaud|Venus|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'28.54" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°41'20.87" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|11°35'49.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°50'8.38" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°50'8.38" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°6'36.57" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|4°52'36.23" |Pisces|FarghAlMuakhar|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

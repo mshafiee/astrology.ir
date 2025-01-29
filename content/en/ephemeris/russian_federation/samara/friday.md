@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:52:49 |
 | Sunset | 17:21:37 |
 | Maghrib | 17:24:26 |
-| Isha (Night) | 19:16:59 |
+| Isha (Night) | 19:17:00 |
 | Sharia Midnight | 23:51:30 |
 | Imum Coeli | 00:52:53 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'6.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'31.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°42'25.42" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°32'34.01" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|26°47'30.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|17°20'6.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°18'31.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°42'25.54" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°32'34.03" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°47'30.76" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°1'23.57" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°33'32.49" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|3°33'32.62" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'6.62" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'31.93" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°42'25.42" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°32'34.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°47'30.73" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°20'6.50" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°18'31.68" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°42'25.54" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°32'34.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°47'30.76" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°1'23.57" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|3°33'32.49" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°33'32.62" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

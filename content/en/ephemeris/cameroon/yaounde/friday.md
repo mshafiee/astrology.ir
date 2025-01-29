@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°18'28.92" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°41'28.95" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°35'22.19" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|26°49'47.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|26°49'47.04" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°5'52.65" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|4°46'19.42" |Aquarius|SaadAlSaud|Venus|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°20'24.19" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'28.60" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°41'38.29" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°35'12.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°49'24.13" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|5°5'46.36" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|3°28'19.18" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°18'28.92" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°41'28.95" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°35'22.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°49'47.04" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|5°5'52.65" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|4°46'19.42" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |☿ Mercury|Jupiter|Mars|Aries|Sun|Saturn|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Giaounte, Jande, Jaunde, Jaundeh, Jaundeo, Jaundė, Jaúnde, Jánde, YAO, Yaounde, Yaoundé, Yaunde, Yaundé, Yawunde, iaunde, ya wen de, ya'unde, yaunde, yavunte, yawndy, yaxunde, yaywndh, ye wen de, Γιαουντέ, Јаунде, Яунде, Яўндэ, Յաունդե, יאונדה, יאונדע, ياوندي, یاؤندے, یائونده, یائوندێ, یاونڈی, याउंदे, ਯਾਊਂਦੇ, யாவுண்டே, ยาอุนเด, ཡོན་དྷི།, იაუნდე, ያዉንዴ, ヤウンデ, 耶溫得, 雅温得, 야운데
