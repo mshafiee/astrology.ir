@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:08:34 |
 | Maghrib | 18:12:33 |
 | Isha (Night) | 19:23:04 |
-| Sharia Midnight | 23:55:47 |
+| Sharia Midnight | 23:55:48 |
 | Imum Coeli | 00:35:23 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°39'37.84" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°16'49.85" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°50'44.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°34'22.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|29°7'39.44" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|11°16'50.83" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°50'46.60" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°34'24.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|29°7'50.94" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|10°1'12.63" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|15°38'10.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°38'9.27" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

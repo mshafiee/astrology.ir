@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'29.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'28.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°41'14.58" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°36'10.10" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Pre-Retrograde Shadow|26°50'24.58" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|5°7'10.95" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°56'1.54" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|17°20'29.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°18'28.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°41'14.75" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°36'10.20" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°50'25.08" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|5°7'10.99" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°54'30.25" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°20'29.29" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'28.25" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°41'14.63" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°36'10.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|26°50'25.05" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°20'29.17" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°18'28.00" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°41'14.75" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°36'10.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°50'25.08" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°7'10.99" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|4°57'10.07" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°57'10.18" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
