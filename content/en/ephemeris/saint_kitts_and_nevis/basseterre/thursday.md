@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°21'48.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'17.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°37'32.52" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°48'38.31" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Pre-Retrograde Shadow|27°0'16.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|17°21'48.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°18'18.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°37'32.40" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°48'38.28" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|27°0'16.64" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°27'33.52" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°46'2.46" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|7°46'2.45" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°21'48.77" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'17.83" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°37'32.52" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°48'38.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|27°0'16.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°21'48.89" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°18'18.08" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°37'32.40" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°48'38.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°0'16.64" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°27'33.52" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|7°46'2.46" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°46'2.45" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Basse Terre Town, Basseterre, Baste, Bastehr, Baster, Bastera, Basteras, Bastero, Bastè, Mpaster, SKB, ba si te er, basetera, baseteru, baseuteleu, bastyr, basytyr, pacettere, Μπαστέρ, Бастер, Бастэр, באסטר, باستير, باسه‌تر, باسیتیر, बासेतेर, பாசெட்டெரே, บาสแตร์, པ་སི་ཐེར།, ბასტერი, ባስቴር, バセテール, 巴斯特尔, 바스테르

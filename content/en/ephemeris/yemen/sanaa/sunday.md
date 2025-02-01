@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°32'54.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°17'15.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°8'3.52" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|13°32'2.85" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|28°20'40.11" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|8°17'49.89" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|1°23'16.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°17'12.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°7'41.63" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|13°32'16.84" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|28°20'51.23" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|8°18'0.00" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|1°58'13.91" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°32'54.75" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'12.76" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°7'41.63" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|13°32'16.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|28°20'51.23" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|8°18'0.00" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|1°58'13.91" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|11°17'15.67" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°8'3.52" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|13°32'2.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|28°20'40.11" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|8°17'49.89" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°23'16.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: SAH, Sano, San'ah, San`a', Sana, Sana'a, Sana'a', Sanaa, Sanaà, Sanaá, San’ah, sa na, sana, sanua, snʿaʾ, Şana‘ā', Şan‘ā’, Σάνα, Сана, Санъо, צנעא, صنعاء, ሳና, サヌア, 萨那, 사나

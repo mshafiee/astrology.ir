@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°39'54.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°16'49.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°50'2.26" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°37'2.76" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|29°9'50.74" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|10°5'35.70" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|17°5'9.37" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|17°39'53.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°16'50.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°50'13.97" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°36'50.08" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|29°9'22.75" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|10°5'27.18" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|15°39'42.22" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Mercury|Venus|Mars|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Taurus|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°16'49.98" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|19°50'2.26" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|14°37'2.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|29°9'50.74" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°9'50.74" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|10°5'35.70" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|17°5'9.37" |Aries|Butain|Sun|
 

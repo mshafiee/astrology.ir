@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°16'54.20" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|19°54'14.96" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|14°21'18.21" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|28°58'2.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|28°58'2.48" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|9°39'21.39" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|13°26'39.04" |Pisces|FarghAlMuakhar|Jupiter|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°38'12.48" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°16'54.20" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°54'14.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°21'18.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|28°58'2.48" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|9°39'21.39" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|13°26'39.04" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|11°16'53.93" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°54'14.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°21'17.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|28°57'59.38" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|9°39'21.12" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|13°15'0.80" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥

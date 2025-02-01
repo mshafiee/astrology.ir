@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°17'10.20" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°5'59.86" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|13°38'31.62" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|28°25'36.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|28°25'36.12" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|8°28'22.66" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|3°16'13.66" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|17°33'35.25" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Retrograde|11°17'10.20" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°5'59.86" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|13°38'17.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|28°25'19.47" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|8°28'12.74" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|2°22'36.01" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|13°38'31.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|28°25'36.12" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|8°28'22.66" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|3°16'13.66" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타

@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:33:02 |
 | Sunset | 18:13:08 |
 | Maghrib | 18:14:07 |
-| Isha (Night) | 19:24:51 |
+| Isha (Night) | 19:24:50 |
 | Sharia Midnight | 23:55:02 |
 | Imum Coeli | 00:33:07 |
 {{< /tab >}}
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°21'51.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'17.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°37'24.92" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°49'4.23" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Pre-Retrograde Shadow|27°0'37.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|17°21'51.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°18'17.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°37'24.79" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°49'4.21" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|27°0'37.07" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|5°28'15.98" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|7°51'32.10" |Aquarius|SaadAlSaud|Venus|
 
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°21'51.53" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'17.49" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°37'24.92" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°49'4.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|27°0'37.10" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°21'51.65" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°18'17.75" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°37'24.79" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°49'4.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°0'37.07" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|5°28'15.98" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|7°51'32.10" |Pisces|FarghAlMuakhar|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Amalienborg, Amalienburg, Carlota Amalia, Carlotamalio, Charlotte Amalia, Charlotte Amalie, Charlotte Amalie pa Dei amerikanske Jomfruoyane, Charlotte Amalie på Dei amerikanske Jomfruøyane, Di Dorp, Dorp, Het Dorp, Saint Thomas, Saint Thomas City, Sanct Thomas, Sarlot Amali, Sarlote Amalija, Sarlotta Amaliya, Savan, Scharlotte Amelia, Sharlot Amali, Sharlota Amalija, Sharlota-Amalija, Sharlotta-Amalija, Tap House, Tap Hus, Taphuis, Taphus, Taphuus, Taphys, Tappus, Wirtshaus, Zapfhaus, charlxttxa mali, sarlata ameli, sharlwt amaly, srlwt ʼmʼly, syalleos-amallie, xia luo te a ma li ya, Ĉarlotamalio, Şarlotta Amaliya, Šarlotė Amalija, Σαρλότ Αμαλί, Шарлот Амали, Шарлота Амалия, Шарлота Амалија, Шарлота-Амалія, Шарлотта-Амалия, Шарлотта-Амалія, שרלוט אמאלי, شارلوت آمالی, شارلوت أمالي, شارلٹ ایملی, शार्लट आमेली, ชาร์ลอตต์อะมาลี, შარლოტა-ამალია, シャーロット・アマリー, 夏洛特阿马利亚, 샬럿아말리에

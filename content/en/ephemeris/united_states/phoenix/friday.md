@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:24:36 |
 | Dhuhr (Noon) | 12:41:47 |
 | Medium Coeli | 12:41:47 |
-| Sunset | 17:59:20 |
+| Sunset | 17:59:19 |
 | Maghrib | 18:19:09 |
 | Isha (Night) | 19:06:12 |
 | Sharia Midnight | 23:59:14 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:24:36 |
 | Dhuhr (Noon) | 12:41:47 |
 | Medium Coeli | 12:41:47 |
-| Sunset | 17:59:20 |
+| Sunset | 17:59:19 |
 | Maghrib | 18:02:44 |
 | Isha (Night) | 19:20:50 |
-| Sharia Midnight | 23:58:31 |
+| Sharia Midnight | 23:58:30 |
 | Imum Coeli | 00:41:51 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:24:36 |
 | Dhuhr (Noon) | 12:41:47 |
 | Medium Coeli | 12:41:47 |
-| Sunset | 17:59:20 |
+| Sunset | 17:59:19 |
 | Maghrib | 18:02:44 |
 | Isha (Night) | 19:25:41 |
-| Sharia Midnight | 23:58:31 |
+| Sharia Midnight | 23:58:30 |
 | Imum Coeli | 00:41:51 |
 {{< /tab >}}
 
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:34:44|Night duration: 13:24:34|
-|Every hour duration: 01:30:41|Every hour duration: 01:54:56|
+|Duration of the day: 10:34:43|Night duration: 13:24:35|
+|Every hour duration: 01:30:40|Every hour duration: 01:54:56|
 
  
  
@@ -265,21 +265,21 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Venus|Ruler|07:24:36|08:55:15|
-|Mid-morning|Mercury|Servant|08:55:16|10:25:56|
-|Late morning|Moon|Servant|10:25:57|11:56:36|
-|Noon|Saturn|Servant|11:56:37|13:27:17|
-|Early afternoon|Jupiter|Servant|13:27:18|14:57:57|
-|Mid-afternoon|Mars|Servant|14:57:58|16:28:38|
-|Late afternoon|Sun|Servant|16:28:39|17:59:19|
+|Mid-morning|Mercury|Servant|08:55:16|10:25:55|
+|Late morning|Moon|Servant|10:25:56|11:56:36|
+|Noon|Saturn|Servant|11:56:37|13:27:16|
+|Early afternoon|Jupiter|Servant|13:27:17|14:57:57|
+|Mid-afternoon|Mars|Servant|14:57:58|16:28:37|
+|Late afternoon|Sun|Servant|16:28:38|17:59:18|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|17:59:20|19:54:15|
-|Late evening|Sun|Servant|19:54:16|21:49:11|
-|Midnight|Venus|Servant|21:49:12|23:44:07|
-|Late at night|Mercury|Servant|23:44:08|01:39:04|
-|Rooster song|Moon|Servant|01:39:05|03:34:00|
+|Evening|Mars|Ruler|17:59:19|19:54:14|
+|Late evening|Sun|Servant|19:54:15|21:49:10|
+|Midnight|Venus|Servant|21:49:11|23:44:07|
+|Late at night|Mercury|Servant|23:44:08|01:39:03|
+|Rooster song|Moon|Servant|01:39:04|03:34:00|
 |False Dawn|Saturn|Servant|03:34:01|05:28:56|
 |Dawn|Jupiter|Servant|05:28:57|07:23:53|
 
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°17'30.11" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°17'7.72" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|12°58'53.35" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|27°55'9.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|27°55'9.83" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|7°22'52.94" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|24°1'25.68" |Aquarius|FarghAlMuqaddam|Moon|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°29'19.30" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'29.86" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°17'7.84" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|12°58'53.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|27°55'9.86" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|7°22'52.93" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|24°1'25.23" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°29'19.42" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°17'30.11" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°17'7.72" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|12°58'53.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°55'9.83" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|7°22'52.94" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|24°1'25.68" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

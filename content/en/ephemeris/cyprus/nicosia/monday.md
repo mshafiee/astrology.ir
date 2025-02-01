@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°39'49.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°16'50.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°50'20.25" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°36'8.26" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|29°9'7.86" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|10°4'8.05" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|16°42'54.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°16'50.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°50'25.55" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°36'0.26" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|29°8'45.66" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|10°4'2.81" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|15°29'16.18" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Jupiter|Mercury|Venus|Mars|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Taurus|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°16'50.55" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|19°50'20.25" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|14°36'8.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|29°9'7.86" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°9'7.86" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|10°4'8.05" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|16°42'54.41" |Aries|Butain|Sun|
 
