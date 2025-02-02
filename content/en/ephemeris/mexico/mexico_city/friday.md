@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°28'59.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°17'31.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|20°17'58.07" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|12°55'51.29" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|27°52'49.96" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|7°17'51.38" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|23°26'31.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|17°28'59.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°17'34.29" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|20°18'18.97" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|12°55'37.07" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°52'35.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|7°17'41.23" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°28'38.32" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°28'59.68" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'31.43" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|17°28'59.80" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°17'31.68" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°17'57.95" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|12°55'51.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°52'49.92" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°52'49.92" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|7°17'51.38" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|23°26'31.86" |Pisces|Rescha|Mars|
 

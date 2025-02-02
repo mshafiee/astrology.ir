@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°26'22.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|17°26'22.39" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°17'46.81" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|20°24'59.57" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|12°31'22.99" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°33'49.69" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|6°37'35.52" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|17°45'31.25" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|27°33'38.80" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|6°37'25.34" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|16°49'5.05" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Sun|Jupiter|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°26'22.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'49.77" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|20°25'21.65" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|12°31'8.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°33'38.77" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|6°37'25.34" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|17°26'22.39" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°17'46.56" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|20°24'59.69" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|12°31'23.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|27°33'49.72" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|6°37'35.52" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|16°49'5.34" |Pisces|FarghAlMuakhar|Jupiter|
 
 

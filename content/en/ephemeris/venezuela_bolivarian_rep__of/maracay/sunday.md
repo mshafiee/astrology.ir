@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:35:25 |
 | Maghrib | 18:38:32 |
 | Isha (Night) | 19:48:51 |
-| Sharia Midnight | 00:07:23 |
+| Sharia Midnight | 00:07:24 |
 | Imum Coeli | 00:44:08 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°41'30.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°16'46.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°46'9.17" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°51'46.46" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|29°20'49.36" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|10°30'12.07" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|20°27'34.30" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°41'30.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°16'46.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°46'9.28" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°51'46.48" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|29°20'49.39" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|10°30'12.06" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|20°27'33.35" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°41'30.96" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°16'46.85" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°46'9.17" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|17°41'30.84" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°16'46.60" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°46'9.28" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|14°51'46.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|29°20'49.36" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|29°20'49.36" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|10°30'12.07" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|20°27'34.30" |Aries|Butain|Venus|
 

@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:23:47 |
 | Sunset | 16:55:39 |
 | Maghrib | 16:57:24 |
-| Isha (Night) | 18:56:44 |
+| Isha (Night) | 18:56:45 |
 | Sharia Midnight | 23:19:18 |
 | Imum Coeli | 00:23:48 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°0'25.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°17'3.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°3'51.03" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|17°44'2.44" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|1°24'45.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|18°0'25.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°17'3.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°3'51.14" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|17°44'2.46" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|1°24'45.52" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|15°21'21.64" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|0°1'26.21" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°1'24.87" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°0'25.92" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'3.85" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°3'51.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|17°44'2.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|1°24'45.49" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|15°21'21.64" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°1'26.21" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|18°0'25.80" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°17'3.61" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°3'51.14" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|17°44'2.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|1°24'57.20" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|15°21'22.90" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|0°39'31.10" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°0'30.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°17'2.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°3'32.03" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|17°44'51.10" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|1°25'15.25" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|15°22'40.61" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|29°31'10.00" |Aries|Thurayya|Venus|
+|♃ Jupiter|Retrograde|11°17'4.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°3'39.88" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|17°44'47.69" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|1°25'17.53" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|15°22'38.15" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|0°10'26.97" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Venus|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Cancer|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°17'4.04" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|19°3'39.88" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|17°44'47.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|1°25'17.53" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|1°25'17.53" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|15°22'38.15" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|0°10'26.97" |Gemini|HaqAh|Jupiter|
 

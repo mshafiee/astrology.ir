@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:00:48 |
+| Fajr (Dawn) | 05:00:49 |
 | Sunrise | 06:20:12 |
 | Dhuhr (Noon) | 12:16:05 |
 | Medium Coeli | 12:16:05 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°48'16.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°16'41.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°30'11.97" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|15°53'47.55" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|0°6'26.28" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|17°48'16.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°16'41.32" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°30'12.33" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|15°53'47.22" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|0°6'26.31" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|12°14'15.30" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|4°45'35.16" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°45'33.86" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°48'16.97" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°16'41.30" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°30'11.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|15°53'47.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|0°6'26.28" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|17°48'16.85" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°16'41.06" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°30'12.08" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|15°53'47.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|0°6'26.31" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|12°14'15.30" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°45'35.16" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°45'33.86" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:05:21 |
-| Sunrise | 06:24:05 |
+| Sunrise | 06:24:06 |
 | Dhuhr (Noon) | 12:53:07 |
 | Medium Coeli | 12:53:07 |
 | Sunset | 19:21:51 |
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°17'13.39" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|18°58'15.09" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|18°8'17.98" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|1°41'36.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|1°41'36.68" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|16°2'44.95" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|5°18'13.12" |Taurus|Thurayya|Mercury|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°17'13.39" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°58'15.09" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|18°8'17.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|1°41'36.68" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|1°41'36.68" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|16°2'44.95" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|5°18'13.12" |Gemini|HanAh|Jupiter|
 
