@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:30:10 |
 | Medium Coeli | 12:30:10 |
 | Sunset | 19:04:46 |
-| Maghrib | 19:09:41 |
+| Maghrib | 19:09:42 |
 | Isha (Night) | 20:28:27 |
 | Sharia Midnight | 23:48:30 |
 | Imum Coeli | 00:30:13 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°39'35.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°16'50.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°50'48.66" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°34'8.35" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|29°7'40.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|10°0'44.73" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|16°25'3.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|17°39'35.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°16'50.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°50'48.77" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°34'8.38" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|29°7'40.37" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|10°0'44.72" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|16°25'2.98" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°39'35.98" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°16'50.73" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°50'48.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°34'8.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|29°7'40.33" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|10°0'44.73" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|16°25'3.83" |Aries|Butain|Sun|
+|♄ Saturn|Direct|17°39'35.86" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°16'50.48" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°50'48.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°34'8.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|29°7'40.37" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|10°0'44.72" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|16°25'2.98" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

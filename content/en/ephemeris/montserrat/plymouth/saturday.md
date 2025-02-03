@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:39:36 |
 | Dhuhr (Noon) | 12:22:27 |
 | Medium Coeli | 12:22:27 |
-| Sunset | 18:05:29 |
+| Sunset | 18:05:28 |
 | Maghrib | 18:06:47 |
 | Isha (Night) | 19:16:24 |
-| Sharia Midnight | 23:44:51 |
+| Sharia Midnight | 23:44:50 |
 | Imum Coeli | 00:22:30 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:39:36 |
 | Dhuhr (Noon) | 12:22:27 |
 | Medium Coeli | 12:22:27 |
-| Sunset | 18:05:28 |
+| Sunset | 18:05:29 |
 | Maghrib | 18:06:47 |
 | Isha (Night) | 19:18:32 |
-| Sharia Midnight | 23:41:38 |
+| Sharia Midnight | 23:41:39 |
 | Imum Coeli | 00:22:30 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:39:36 |
 | Dhuhr (Noon) | 12:22:27 |
 | Medium Coeli | 12:22:27 |
-| Sunset | 18:05:28 |
+| Sunset | 18:05:29 |
 | Maghrib | 18:06:47 |
 | Isha (Night) | 19:20:41 |
-| Sharia Midnight | 23:44:50 |
+| Sharia Midnight | 23:44:51 |
 | Imum Coeli | 00:22:30 |
 {{< /tab >}}
 
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:39:36 |
 | Dhuhr (Noon) | 12:22:27 |
 | Medium Coeli | 12:22:27 |
-| Sunset | 18:05:28 |
+| Sunset | 18:05:29 |
 | Maghrib | 18:06:47 |
 | Isha (Night) | 19:36:47 |
-| Sharia Midnight | 23:43:46 |
+| Sharia Midnight | 23:43:47 |
 | Imum Coeli | 00:22:30 |
 {{< /tab >}}
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|17°34'51.49" |Pisces|Rescha|Jupiter|
 |♃ Jupiter|Retrograde|11°17'5.05" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|20°2'42.18" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|13°50'10.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|28°34'30.51" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|8°47'47.05" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|5°57'23.70" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|13°50'19.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|28°34'36.29" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|8°47'53.54" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|6°9'51.22" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

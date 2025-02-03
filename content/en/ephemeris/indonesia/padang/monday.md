@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:23:10 |
+| Fajr (Dawn) | 05:23:11 |
 | Sunrise | 06:27:32 |
 | Dhuhr (Noon) | 12:32:21 |
 | Medium Coeli | 12:32:21 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°16'42.34" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|19°37'50.33" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|15°23'41.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|29°44'26.16" |Pisces|Rescha|Mars|
+|♀ Venus|Pre-Retrograde Shadow|29°44'26.13" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|11°23'38.57" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|27°50'53.58" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|27°50'54.71" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

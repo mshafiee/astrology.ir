@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:07:43 |
 | Sunset | 18:10:15 |
 | Maghrib | 18:16:25 |
-| Isha (Night) | 19:42:41 |
+| Isha (Night) | 19:42:40 |
 | Sharia Midnight | 00:18:35 |
 | Imum Coeli | 01:07:46 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°40'28.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°16'49.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°48'46.12" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°42'7.04" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|29°13'35.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|17°40'28.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°16'49.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|19°48'46.00" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°42'7.02" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|29°13'35.31" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|10°14'7.70" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|18°3'36.41" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|18°3'37.31" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°40'28.06" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°16'49.02" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°48'46.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°42'7.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|29°13'35.34" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|17°40'28.18" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°16'49.26" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°48'46.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°42'7.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|29°13'35.31" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|10°14'7.70" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|18°3'36.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°3'37.31" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
