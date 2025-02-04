@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:03:25 |
 | Sunset | 17:36:26 |
 | Maghrib | 17:37:35 |
-| Isha (Night) | 18:55:43 |
+| Isha (Night) | 18:55:42 |
 | Sharia Midnight | 23:23:42 |
 | Imum Coeli | 00:03:27 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°52'5.05" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°16'43.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|19°21'38.25" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|16°28'26.19" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|0°31'24.84" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|13°12'45.61" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|12°34'49.14" |Aries|Sharatain|Sun|
+|♂ Mars|Retrograde|19°21'39.21" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|16°28'25.82" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|0°31'25.62" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|13°12'45.34" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|12°40'55.39" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|17°52'4.93" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°16'43.74" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°21'39.32" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|16°28'25.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|0°31'25.65" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|17°52'5.05" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°16'43.98" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°21'39.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|16°28'25.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|0°31'25.62" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|13°12'45.34" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°40'53.95" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°40'55.39" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

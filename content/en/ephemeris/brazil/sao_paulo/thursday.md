@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:49:05 |
 | Dhuhr (Noon) | 12:20:36 |
 | Medium Coeli | 12:20:36 |
-| Sunset | 18:51:48 |
+| Sunset | 18:51:47 |
 | Maghrib | 18:56:16 |
 | Isha (Night) | 20:11:18 |
 | Sharia Midnight | 23:36:07 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:02:43|Night duration: 10:57:56|
+|Duration of the day: 13:02:42|Night duration: 10:57:57|
 |Every hour of day duration: 01:05:14|Every hour of night duration: 00:54:50|
 
  
@@ -222,26 +222,26 @@ Timetable of twelve day and night planetary hours
 |4|Venus|Servant|09:04:45|10:09:58|Creating love, connection and marriage|
 |5|Mercury|Servant|10:09:59|11:15:11|Indulgence|
 |6|Moon|Servant|11:15:12|12:20:25|Outer and inner journey|
-|7|Saturn|Servant|12:20:26|13:25:39|Achieving status and power|
-|8|Jupiter|Ruler|13:25:40|14:30:52|Attraction of happiness and fortune|
-|9|Mars|Servant|14:30:53|15:36:06|Reaching status and promotion|
-|10|Sun|Servant|15:36:07|16:41:19|Fulfilling needs|
-|11|Venus|Servant|16:41:20|17:46:33|Attraction of love and hearts|
-|12|Mercury|Servant|17:46:34|18:51:47|Attracting misfortune, not suitable for any task|
+|7|Saturn|Servant|12:20:26|13:25:38|Achieving status and power|
+|8|Jupiter|Ruler|13:25:39|14:30:52|Attraction of happiness and fortune|
+|9|Mars|Servant|14:30:53|15:36:05|Reaching status and promotion|
+|10|Sun|Servant|15:36:06|16:41:19|Fulfilling needs|
+|11|Venus|Servant|16:41:20|17:46:32|Attraction of love and hearts|
+|12|Mercury|Servant|17:46:33|18:51:46|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|18:51:48|19:46:36|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|19:46:37|20:41:26|Destruction of enemies|
-|3|Jupiter|Servant|20:41:27|21:36:16|Attraction of financial and emotional love|
-|4|Mars|Servant|21:36:17|22:31:05|Creating love, connection and marriage|
-|5|Sun|Servant|22:31:06|23:25:55|Indulgence|
-|6|Venus|Servant|23:25:56|00:20:45|Outer and inner journey|
-|7|Mercury|Servant|00:20:46|01:15:34|Achieving status and power|
+|1|Moon|Ruler|18:51:47|19:46:35|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|19:46:36|20:41:25|Destruction of enemies|
+|3|Jupiter|Servant|20:41:26|21:36:15|Attraction of financial and emotional love|
+|4|Mars|Servant|21:36:16|22:31:05|Creating love, connection and marriage|
+|5|Sun|Servant|22:31:06|23:25:54|Indulgence|
+|6|Venus|Servant|23:25:55|00:20:44|Outer and inner journey|
+|7|Mercury|Servant|00:20:45|01:15:34|Achieving status and power|
 |8|Moon|Ruler|01:15:35|02:10:24|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:10:25|03:05:14|Reaching status and promotion|
-|10|Jupiter|Servant|03:05:15|04:00:03|Fulfilling needs|
+|9|Saturn|Servant|02:10:25|03:05:13|Reaching status and promotion|
+|10|Jupiter|Servant|03:05:14|04:00:03|Fulfilling needs|
 |11|Mars|Servant|04:00:04|04:54:53|Attraction of love and hearts|
 |12|Sun|Servant|04:54:54|05:49:43|Attracting misfortune, not suitable for any task|
 
@@ -256,31 +256,31 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:02:43|Night duration: 10:57:56|
-|Every hour duration: 01:51:49|Every hour duration: 01:33:59|
+|Duration of the day: 13:02:42|Night duration: 10:57:57|
+|Every hour duration: 01:51:49|Every hour duration: 01:34:00|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|05:49:05|07:40:53|
-|Mid-morning|Mars|Servant|07:40:54|09:32:42|
-|Late morning|Sun|Servant|09:32:43|11:24:31|
-|Noon|Venus|Servant|11:24:32|13:16:20|
-|Early afternoon|Mercury|Servant|13:16:21|15:08:09|
-|Mid-afternoon|Moon|Servant|15:08:10|16:59:58|
-|Late afternoon|Saturn|Servant|16:59:59|18:51:47|
+|Early morning|Jupiter|Ruler|05:49:05|07:40:52|
+|Mid-morning|Mars|Servant|07:40:53|09:32:41|
+|Late morning|Sun|Servant|09:32:42|11:24:30|
+|Noon|Venus|Servant|11:24:31|13:16:19|
+|Early afternoon|Mercury|Servant|13:16:20|15:08:08|
+|Mid-afternoon|Moon|Servant|15:08:09|16:59:57|
+|Late afternoon|Saturn|Servant|16:59:58|18:51:46|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|18:51:48|20:25:46|
-|Late evening|Saturn|Servant|20:25:47|21:59:45|
-|Midnight|Jupiter|Servant|21:59:46|23:33:45|
-|Late at night|Mars|Servant|23:33:46|01:07:44|
-|Rooster song|Sun|Servant|01:07:45|02:41:44|
-|False Dawn|Venus|Servant|02:41:45|04:15:43|
+|Evening|Moon|Ruler|18:51:47|20:25:45|
+|Late evening|Saturn|Servant|20:25:46|21:59:45|
+|Midnight|Jupiter|Servant|21:59:46|23:33:44|
+|Late at night|Mars|Servant|23:33:45|01:07:44|
+|Rooster song|Sun|Servant|01:07:45|02:41:43|
+|False Dawn|Venus|Servant|02:41:44|04:15:43|
 |Dawn|Mercury|Servant|04:15:44|05:49:43|
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°7'44.77" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'37.33" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|18°49'19.62" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|18°49'47.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|2°9'59.99" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°14'7.17" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|15°39'16.29" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|11°17'35.50" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|18°49'7.94" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|18°49'52.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|2°9'55.65" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|17°14'10.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|14°37'17.99" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Leo|Moon|Mars|
-|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}

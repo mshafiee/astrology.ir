@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|18°46'6.34" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Pre-Retrograde Shadow|2°7'20.03" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|17°7'44.32" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|13°56'59.86" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°57'38.91" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
