@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|18°23'41.93" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Pre-Retrograde Shadow|1°52'6.53" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|16°29'13.55" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|8°57'37.25" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|8°55'39.85" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:35:49 |
+| Fajr (Dawn) | 05:35:50 |
 | Sunrise | 06:39:41 |
 | Dhuhr (Noon) | 12:39:25 |
 | Medium Coeli | 12:39:25 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°11'56.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'0.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|18°41'12.94" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°27'25.33" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|2°35'1.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|18°11'56.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°18'0.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|18°41'13.05" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°27'25.35" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|2°35'1.17" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|18°19'0.48" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|23°1'0.64" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°1'0.22" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°11'56.56" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'0.38" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|18°41'12.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°27'25.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|2°35'1.15" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|18°11'56.44" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|11°18'0.15" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|18°41'13.05" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°27'25.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|2°35'1.17" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|18°19'0.48" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|23°1'0.64" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°1'0.22" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

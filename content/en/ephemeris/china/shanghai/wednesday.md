@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|17°58'8.79" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|11°16'56.26" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|19°8'32.98" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|17°23'25.04" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|1°10'24.61" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|14°46'7.17" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|25°14'27.93" |Aries|Butain|Venus|
+|☉ Sun|Direct|17°23'18.83" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Pre-Retrograde Shadow|1°10'3.95" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|14°46'2.97" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|24°23'18.64" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Venus|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Gemini|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|17°58'8.79" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°16'58.11" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|19°8'48.62" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|17°23'13.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°16'56.26" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|19°8'32.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|17°23'25.04" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Pre-Retrograde Shadow|1°10'24.61" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|14°46'7.17" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|25°14'27.93" |Taurus|HaqAh|Saturn|
