@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:18:07 |
-| Sunrise | 06:24:06 |
+| Sunrise | 06:24:05 |
 | Dhuhr (Noon) | 12:53:07 |
 | Medium Coeli | 12:53:07 |
 | Sunset | 19:21:51 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:56:45 |
-| Sunrise | 06:24:06 |
+| Sunrise | 06:24:05 |
 | Dhuhr (Noon) | 12:53:07 |
 | Medium Coeli | 12:53:07 |
 | Sunset | 19:21:51 |
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°3'7.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°17'13.39" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°17'13.39" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|18°58'15.09" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|18°8'17.98" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|1°41'36.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|1°41'36.68" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|16°2'44.95" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|5°18'13.12" |Taurus|Thurayya|Mercury|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°3'7.07" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'13.39" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°17'13.39" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°58'15.09" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|18°8'17.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|1°41'36.68" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|1°41'36.68" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|16°2'44.95" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|5°18'13.12" |Gemini|HanAh|Jupiter|
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°30'15.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°20'40.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|18°10'21.51" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|22°9'49.02" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|4°18'10.81" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|23°2'54.72" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|28°29'9.09" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|18°30'15.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|11°20'42.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|18°10'40.74" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|22°9'33.23" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|4°17'48.00" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|23°2'43.53" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|0°6'40.92" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Virgo|Sun|Venus|
 |♀ Venus|Mars|Sun|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Moon|Libra|Sun|Venus|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|11°20'40.98" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°10'21.51" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|22°9'49.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|4°18'10.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|4°18'10.81" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|23°2'54.72" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|28°29'9.09" |Cancer|Jabhah|Moon|
 

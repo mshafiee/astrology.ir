@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°20'28.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°19'4.84" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°19'4.84" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|18°26'5.88" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|20°43'20.19" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|3°24'21.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|3°24'21.69" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|20°31'1.07" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|9°46'15.42" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|10°8'35.15" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Saturn|Mercury|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Virgo|Sun|Venus|
 |♀ Venus|Jupiter|Sun|Aries|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Venus|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°20'28.38" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°19'4.84" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°19'4.84" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°26'5.88" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|20°43'20.19" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Pre-Retrograde Shadow|3°24'21.69" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|3°24'21.69" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|20°31'1.07" |Aquarius|SaadAlAkhbia|Moon|
 |☾ Moon|Direct|9°46'15.42" |Cancer|Nathrah|Venus|
 

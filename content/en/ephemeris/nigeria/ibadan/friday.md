@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|11°17'31.38" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|18°50'39.99" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|18°42'49.48" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Pre-Retrograde Shadow|2°5'9.06" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|2°5'9.06" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|17°2'2.82" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|13°5'3.13" |Taurus|Dabaran|Moon|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°6'57.63" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'30.70" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|18°50'43.70" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|18°42'41.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|2°4'44.94" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°1'57.20" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°33'27.00" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|11°17'31.51" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|18°50'40.81" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|18°42'49.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|2°5'9.14" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|17°2'2.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|13°9'3.75" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Sun|Jupiter|Leo|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
