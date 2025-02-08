@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°27'30.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°20'14.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|18°14'52.54" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|21°45'26.57" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|4°3'16.84" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|22°20'6.78" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|24°33'48.19" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|11°20'11.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|18°14'37.60" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|21°45'35.23" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|4°3'20.87" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|22°20'12.80" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|23°23'47.43" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°27'30.79" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°20'11.62" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|18°27'30.66" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°20'11.62" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°14'37.60" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|21°45'35.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|4°3'20.87" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|4°3'20.87" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|22°20'12.80" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|23°23'47.43" |Cancer|Tarf|Moon|
 

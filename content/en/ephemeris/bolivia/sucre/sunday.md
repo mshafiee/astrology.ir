@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°28'38.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°20'25.45" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|18°13'5.21" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|21°55'23.91" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|4°9'20.67" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|22°37'38.90" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|26°35'34.86" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|11°20'23.65" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|18°12'50.41" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|21°55'33.74" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|4°9'29.60" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|22°37'45.78" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|25°24'59.76" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Virgo|Sun|Venus|
 |♀ Venus|Jupiter|Sun|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Moon|Libra|Sun|Venus|
-|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°20'23.65" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°12'50.41" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|21°55'33.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|4°9'29.60" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|4°9'29.60" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|22°37'45.78" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|25°24'59.76" |Cancer|Tarf|Moon|
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°11'30.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°17'57.55" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°17'57.55" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|18°42'1.04" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|19°23'31.68" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|2°32'26.56" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|2°32'26.56" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|18°12'15.80" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|21°56'10.48" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|22°7'32.70" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Venus|Mars|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°11'30.26" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°17'57.32" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|18°42'1.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°23'31.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|2°32'26.58" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|18°11'30.38" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°17'57.55" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|18°42'1.04" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°23'31.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|2°32'26.56" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|18°12'15.80" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|22°7'32.23" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|22°7'32.70" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

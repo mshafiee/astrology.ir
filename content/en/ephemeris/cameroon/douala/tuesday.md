@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°34'13.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°21'29.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|18°4'46.84" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|22°44'24.43" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|4°38'54.84" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|24°4'19.45" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|7°19'1.53" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|11°21'26.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|18°4'29.57" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|22°44'35.28" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|4°39'2.92" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|24°4'27.00" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|6°0'21.41" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Libra|Sun|Venus|
 |♀ Venus|Mars|Sun|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Sun|Libra|Sun|Venus|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°21'26.87" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°4'29.57" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|22°44'35.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|4°39'2.92" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|4°39'2.92" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|24°4'27.00" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|6°0'21.41" |Leo|Jabhah|Saturn|
 

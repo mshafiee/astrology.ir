@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°27'19.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°20'9.96" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|18°14'59.23" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|21°43'51.76" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|4°2'13.94" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|22°17'14.14" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|23°20'51.30" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|18°27'19.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°20'12.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|18°15'13.28" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|21°43'44.20" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|4°2'12.14" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|22°17'8.87" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|24°25'41.43" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Saturn|Saturn|Mercury|Jupiter|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°27'19.08" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°20'9.96" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°20'9.96" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°14'59.23" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|21°43'51.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|4°2'13.94" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|4°2'13.94" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|22°17'14.14" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|23°20'51.30" |Cancer|Tarf|Moon|
 

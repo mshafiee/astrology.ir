@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:55:15 |
 | Isha (Night) | 18:42:29 |
 | Sharia Midnight | 23:30:40 |
-| Imum Coeli | 00:13:25 |
+| Imum Coeli | 00:13:24 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:36:40 |
 | Isha (Night) | 18:47:24 |
 | Sharia Midnight | 23:37:17 |
-| Imum Coeli | 00:13:25 |
+| Imum Coeli | 00:13:24 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:36:40 |
 | Isha (Night) | 19:06:40 |
 | Sharia Midnight | 23:28:43 |
-| Imum Coeli | 00:13:25 |
+| Imum Coeli | 00:13:24 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°18'14.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|11°18'46.51" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°18'46.51" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|18°29'58.49" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|20°23'31.51" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|3°11'37.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|3°11'37.51" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|19°56'29.89" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|5°39'47.74" |Gemini|HanAh|Jupiter|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°18'14.48" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Retrograde|11°18'46.28" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|18°29'58.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|20°23'31.52" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|3°11'37.53" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°56'29.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|5°39'47.82" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|18°18'14.60" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°18'46.51" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|18°29'58.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|20°23'31.51" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Pre-Retrograde Shadow|3°11'37.51" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°56'29.01" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°46'50.31" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
