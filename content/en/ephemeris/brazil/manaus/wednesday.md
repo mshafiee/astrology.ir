@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°49'26.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'56.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°44'26.82" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|18°49'25.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°24'56.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°44'26.92" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|24°57'20.92" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°54'34.70" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|28°1'38.22" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|3°49'10.88" |Leo|Jabhah|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|5°54'34.73" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|28°1'38.21" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|3°49'11.29" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°49'26.05" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'56.99" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°44'26.82" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|18°49'25.93" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°24'56.76" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°44'26.92" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°57'20.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°54'34.70" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|28°1'38.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°49'10.88" |Virgo|Sarfrah|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°54'34.73" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|28°1'38.21" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°49'11.29" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯

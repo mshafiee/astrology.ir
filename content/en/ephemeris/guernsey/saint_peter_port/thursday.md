@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°48'37.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'44.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°45'30.20" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°50'17.81" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°50'38.06" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°49'2.98" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|2°57'24.58" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|18°48'37.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°24'44.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°45'30.10" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°50'17.80" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°50'38.03" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°49'2.99" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|2°57'24.12" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°48'37.45" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'44.77" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|18°48'37.57" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°24'44.77" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°45'30.20" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°50'17.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°50'46.52" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|27°49'6.41" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°27'43.25" |Virgo|Sarfrah|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°50'38.06" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|27°49'2.98" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°57'24.58" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GCI, Saint Peter Port, Saint Pierre Port, Saint-Pierre-Port, Sanktapetrurbo, Sejnt Pitur Port, Sent Piter Port, Sent Piter Portas, Sent-Pitehr-Port, Sent-Piter-Port, Sentpiterporta, Sentpīterporta, St Peter Port, St. Peter Port, san bytr bwrt, seinteupiteopoteu, sent pi texr phxrt, sheng bi de gang, sn ptr pwrt, snt pytr pwrt, Сейнт Питър Порт, Сент Питер Порт, Сент-Питер-Порт, Сент-Пітер-Порт, Сент-Пітэр-Порт, סנט פיטר פורט, سان بيتر بورت, سن پتر پورت, سینٹ پیٹر پورٹ, เซนต์ปีเตอร์พอร์ต, სენტ-პიტერ-პორტი, セント・ピーター・ポート, 圣彼得港, 세인트피터포트

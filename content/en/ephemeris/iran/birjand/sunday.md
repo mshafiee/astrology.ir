@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:50:29|Night duration: 13:08:38|
+|Duration of the day: 10:50:29|Night duration: 13:08:39|
 |Every hour duration: 01:32:56|Every hour duration: 01:52:40|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Jupiter|Ruler|17:12:43|19:05:21|
 |Late evening|Mars|Servant|19:05:22|20:58:01|
 |Midnight|Sun|Servant|20:58:02|22:50:41|
-|Late at night|Venus|Servant|22:50:42|00:43:20|
-|Rooster song|Mercury|Servant|00:43:21|02:36:00|
-|False Dawn|Moon|Servant|02:36:01|04:28:40|
-|Dawn|Saturn|Servant|04:28:41|06:21:20|
+|Late at night|Venus|Servant|22:50:42|00:43:21|
+|Rooster song|Mercury|Servant|00:43:22|02:36:01|
+|False Dawn|Moon|Servant|02:36:02|04:28:41|
+|Dawn|Saturn|Servant|04:28:42|06:21:21|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°19'40.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°18'58.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|18°27'30.36" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|20°36'14.62" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|3°19'47.49" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|20°18'40.69" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|8°26'56.72" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|18°19'40.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°18'58.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|18°27'30.17" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|20°36'14.21" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|3°19'45.79" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|20°18'40.42" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|8°25'28.23" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°19'40.41" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°18'58.08" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|18°27'30.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|20°36'14.62" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Pre-Retrograde Shadow|3°19'47.49" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|20°18'40.69" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|8°26'56.72" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|18°19'40.53" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°18'58.31" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|18°27'30.26" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|20°36'14.60" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Pre-Retrograde Shadow|3°19'47.47" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|20°18'40.70" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|8°26'56.54" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

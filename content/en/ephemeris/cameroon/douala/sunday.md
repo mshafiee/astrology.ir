@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°20'27.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°19'4.70" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°19'4.70" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|18°26'7.55" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|20°43'11.52" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|3°24'16.15" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|20°30'45.95" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|9°44'26.64" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|20°43'1.59" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|3°24'12.36" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|20°30'38.98" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|11°8'7.56" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Saturn|Mercury|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Virgo|Sun|Venus|
 |♀ Venus|Jupiter|Sun|Aries|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Venus|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°20'27.40" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°19'4.70" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|11°19'4.70" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|18°26'7.55" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|20°43'11.52" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Pre-Retrograde Shadow|3°24'16.15" |Aries|Sharatain|Mars|
