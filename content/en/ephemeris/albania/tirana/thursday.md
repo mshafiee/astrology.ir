@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:01:05 |
+| Fajr (Dawn) | 05:01:06 |
 | Sunrise | 06:37:53 |
 | Dhuhr (Noon) | 11:54:52 |
 | Medium Coeli | 11:54:52 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°48'7.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°24'37.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°46'5.41" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°45'54.99" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°48'15.79" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°41'9.17" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|1°55'22.61" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|11°24'36.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°46'3.13" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°45'55.76" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°48'14.45" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°41'9.63" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|1°51'38.19" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°48'7.26" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°24'37.11" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°24'37.11" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°46'5.41" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°45'54.99" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Pre-Retrograde Shadow|5°48'15.79" |Aries|Sharatain|Mars|

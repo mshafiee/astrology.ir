@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:39:23 |
-| Sunrise | 07:16:35 |
+| Sunrise | 07:16:36 |
 | Dhuhr (Noon) | 12:29:41 |
 | Medium Coeli | 12:29:41 |
 | Sunset | 17:43:23 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:37:42 |
-| Sunrise | 07:16:35 |
+| Sunrise | 07:16:36 |
 | Dhuhr (Noon) | 12:29:41 |
 | Medium Coeli | 12:29:41 |
 | Sunset | 17:43:23 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:19 |
-| Sunrise | 07:16:35 |
+| Sunrise | 07:16:36 |
 | Dhuhr (Noon) | 12:29:41 |
 | Medium Coeli | 12:29:41 |
 | Sunset | 17:43:23 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:37:42 |
-| Sunrise | 07:16:35 |
+| Sunrise | 07:16:36 |
 | Dhuhr (Noon) | 12:29:41 |
 | Medium Coeli | 12:29:41 |
 | Sunset | 17:43:23 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°55'0.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°26'27.99" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°26'27.99" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°38'10.42" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°45'37.78" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Pre-Retrograde Shadow|6°20'13.08" |Pisces|FarghAlMuakhar|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°55'0.65" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°26'27.99" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°26'27.99" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°38'10.42" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|25°45'37.78" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Pre-Retrograde Shadow|6°20'13.08" |Aries|Sharatain|Mars|

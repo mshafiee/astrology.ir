@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:05:32 |
 | Medium Coeli | 13:05:32 |
 | Sunset | 18:21:48 |
-| Maghrib | 18:23:07 |
+| Maghrib | 18:23:06 |
 | Isha (Night) | 19:40:10 |
 | Sharia Midnight | 00:26:04 |
 | Imum Coeli | 01:05:31 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:05:32 |
 | Medium Coeli | 13:05:32 |
 | Sunset | 18:21:48 |
-| Maghrib | 18:23:07 |
+| Maghrib | 18:23:06 |
 | Isha (Night) | 19:53:32 |
 | Sharia Midnight | 00:14:04 |
 | Imum Coeli | 01:05:31 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:05:32 |
 | Medium Coeli | 13:05:32 |
 | Sunset | 18:21:48 |
-| Maghrib | 18:23:07 |
-| Isha (Night) | 19:53:07 |
+| Maghrib | 18:23:06 |
+| Isha (Night) | 19:53:06 |
 | Sharia Midnight | 00:16:44 |
 | Imum Coeli | 01:05:31 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°41'30.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°23'1.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°54'27.79" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|23°48'18.38" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°16'4.37" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|25°57'55.20" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|19°55'22.14" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°23'0.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°54'27.29" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|23°48'18.69" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°16'4.59" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|25°57'55.42" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|19°53'16.05" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°41'30.29" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°23'1.05" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°23'1.05" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°54'27.79" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|23°48'18.38" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Pre-Retrograde Shadow|5°16'4.37" |Aries|Sharatain|Mars|

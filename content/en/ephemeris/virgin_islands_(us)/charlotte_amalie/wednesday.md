@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°49'37.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°25'0.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°44'14.59" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°59'0.86" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°55'27.13" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|28°4'39.74" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|4°19'36.92" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|11°25'0.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°44'17.76" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°58'52.32" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°55'1.99" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|28°4'33.23" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|5°18'20.33" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Sagittarius|Sun|Venus|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°49'37.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°25'0.13" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°25'0.13" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°44'14.59" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|24°59'0.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°55'27.13" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|28°4'39.74" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°19'36.92" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|24°58'52.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|5°55'1.99" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|28°4'33.23" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°18'20.33" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°41'35.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°23'2.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°54'19.39" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|23°49'5.84" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°16'37.27" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|25°59'16.99" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|19°47'51.81" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°23'2.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°54'22.45" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|23°49'2.34" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°16'30.04" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|25°59'14.45" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|20°9'19.38" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Saturn|Mars|Mercury|Jupiter|
-|☾ Moon|Jupiter|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Sun|Scorpio|Sun|Venus|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°41'35.47" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°23'2.14" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°23'2.14" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°54'19.94" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|23°49'3.98" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Pre-Retrograde Shadow|5°16'31.45" |Aries|Sharatain|Mars|
