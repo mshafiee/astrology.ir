@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°47'49.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'32.44" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°24'32.44" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°46'25.43" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|24°43'21.30" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°46'53.30" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°36'31.32" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|1°13'55.51" |Leo|Jabhah|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|5°46'25.87" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°36'24.19" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|2°16'42.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°47'49.50" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'32.44" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|11°24'32.44" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°46'25.43" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°43'21.30" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Pre-Retrograde Shadow|5°46'53.30" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ

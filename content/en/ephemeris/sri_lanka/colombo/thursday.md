@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°46'46.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'16.27" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°24'16.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°47'40.76" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°34'10.96" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°41'53.03" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°20'0.40" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|29°5'23.10" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°34'2.60" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°41'27.73" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°19'54.06" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|0°0'29.06" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mars|Mars|Mercury|Jupiter|
-|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Scorpio|Sun|Venus|
-|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°46'46.09" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'16.27" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|11°24'16.27" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°47'40.76" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°34'10.96" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Pre-Retrograde Shadow|5°41'53.03" |Aries|Sharatain|Mars|

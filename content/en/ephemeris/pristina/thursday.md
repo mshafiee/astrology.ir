@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°48'6.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'36.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°46'6.66" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°45'47.35" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°48'11.39" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°40'55.63" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|11°24'35.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°46'2.67" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°45'44.64" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Pre-Retrograde Shadow|5°47'54.41" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°40'53.28" |Capricorn|SaadAlSaud|Sun|
 |☾ Moon|Direct|1°55'2.57" |Leo|Jabhah|Saturn|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°48'6.39" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°24'36.91" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°46'6.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|24°45'47.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°48'11.39" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|27°40'55.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|1°55'2.57" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|11°24'35.58" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°46'2.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|24°45'44.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|5°47'54.41" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|27°40'53.28" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°16'41.43" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: PRN, Prestena, Prishhina, Prishtina, Prishtinae, Prishtine, Prishtinë, Prisjtina, Pristin, Pristina, Pristine, Pristino, Pristína, Prisztina, Prixtina, Priŝtino, Priştina, Priştine, Prištin, Priština, Priștina, Pryshcina, Prìstina, Prėštėna, bryshtyna, peulisyutina, phrich ti na, piristina, prisatina, pristina, pryshtyna, prystynh, prysٹyna, pu li shen di na, purishutina, Πρίστινα, Приштинæ, Приштина, Прищина, Прышціна, Պրիշտինա, פרישטינה, بريشتينا, پریسٹینا, پریشتینا, प्रिस्टिना, ਪ੍ਰਿਸ਼ਤੀਨਾ, பிரிஸ்டினா, พริชตีนา, པི་རི་སི་ཊི་ན།, პრიშტინა, プリシュティナ, 普里什蒂納, 普里什蒂纳, 프리슈티나
