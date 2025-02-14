@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°51'58.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°25'37.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°41'29.75" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|25°19'23.57" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|6°6'26.14" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|28°41'21.93" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|8°24'52.74" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|11°25'38.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°41'43.39" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|25°19'7.77" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|6°5'53.52" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|28°41'10.34" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|10°5'24.76" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mars|Mars|Mercury|Jupiter|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Sagittarius|Sun|Venus|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°25'37.43" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°41'29.75" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|25°19'23.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|6°6'26.14" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|6°6'26.14" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|28°41'21.93" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|8°24'52.74" |Virgo|Awwa|Sun|
 

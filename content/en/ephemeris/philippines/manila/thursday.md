@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°25'54.00" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°40'21.36" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°28'10.02" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|6°11'5.55" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|6°11'5.55" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|28°57'12.60" |Capricorn|SaadAlSaud|Sun|
 |☾ Moon|Direct|10°16'27.72" |Leo|Zubrah|Jupiter|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°25'54.00" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°40'21.36" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|25°28'10.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|6°11'5.55" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|6°11'5.55" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|28°57'12.60" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|10°16'27.72" |Virgo|Awwa|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: City of Manila, Dakbayan sa Manila, Lungsod ng Maynila, MNL, Mainile, Manila, Manilae, Manilla, Manillah, Manille, Manilo, Manyl, Maníla, Maynila, Menila, ma ni la, manila, manilla, manira, manyl, manyla, mnila, mnylh, myanila, Μανίλα, Манилæ, Манила, Маніла, מנילה, مانىلا, مانيلا, مانیل, مانیلا, मनिला, मनीला, ম্যানিলা, மணிலா, ಮನಿಲ, මැනිලා, มนิลา, มะนิลา, མ་ནི་ལ།, မနီလာမြို့, მანილა, ማኒላ, マニラ, 马尼拉, 마닐라

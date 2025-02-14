@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°9'28.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°30'56.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°24'9.40" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|27°50'3.90" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|7°22'2.52" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°15'9.37" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|9°1'23.23" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|19°9'28.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°30'56.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°24'17.54" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|27°49'53.22" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|7°21'38.72" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°15'1.31" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|10°1'53.69" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mercury|Saturn|Saturn|Saturn|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Mars|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Pisces|Sun|Saturn|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°30'55.62" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°24'6.82" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|27°50'5.10" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|7°22'2.26" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|7°22'2.26" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|3°15'10.12" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|9°2'14.65" |Libra|Ghafr|Moon|
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°50'3.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°25'7.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°43'46.84" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|18°50'3.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°25'7.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°43'46.94" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°2'46.54" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°57'25.67" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|28°11'29.43" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|5°26'3.72" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|5°57'25.71" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|28°11'29.42" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|5°26'4.07" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°50'3.79" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°25'7.28" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°43'46.84" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|18°50'3.66" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°25'7.06" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°43'46.94" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|25°2'46.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°57'25.67" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|28°11'29.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°26'3.72" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|5°57'25.71" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|28°11'29.42" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°26'4.07" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Taronta, Torontas, Toronto, Torontu, Torontum, Torontó, YTO, duo lun duo, roranro, taronto, teareantea, tho rxn to, tolonto, toramto, toranto, toronto, twrntw, twrwntw, Τορόντο, Таронта, Торонто, Տորոնտո, טאראנטא, טורונטו, تورنتو, تورونتو, ٹورانٹو, ٹورنٹو, टोरण्टो, टोरन्टो, टोराँटो, तोरन्तो, টরোন্টো, ਟੋਰਾਂਟੋ, ரொறன்ரோ, టొరంటో, ಟೊರಾಂಟೋ, ടോറോണ്ടോ, โทรอนโต, တိုရွန်တိုမြို့, ტორონტო, トロント, 多伦多, 多倫多, 토론토

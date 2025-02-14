@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:12:44 |
 | Medium Coeli | 13:12:44 |
 | Sunset | 17:53:24 |
-| Maghrib | 17:55:19 |
+| Maghrib | 17:55:20 |
 | Isha (Night) | 20:07:25 |
 | Sharia Midnight | 00:01:10 |
 | Imum Coeli | 01:12:42 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 13:12:44 |
 | Sunset | 17:53:24 |
 | Maghrib | 17:55:19 |
-| Isha (Night) | 19:25:19 |
+| Isha (Night) | 19:25:20 |
 | Sharia Midnight | 23:59:09 |
 | Imum Coeli | 01:12:42 |
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°30'49.84" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°24'25.76" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|27°47'26.98" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|7°20'43.22" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°10'24.94" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|8°48'0.63" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|7°20'43.64" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°10'23.37" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|8°46'38.84" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°9'9.91" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°30'50.71" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°24'31.13" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|27°47'24.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|7°20'43.64" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|3°10'23.37" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|8°46'38.84" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|19°9'9.89" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°30'49.84" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°24'25.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|27°47'26.98" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°20'43.22" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|3°10'24.94" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|8°48'0.63" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

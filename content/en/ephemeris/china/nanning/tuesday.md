@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°28'37.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°38'1.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°10'43.02" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|0°33'16.52" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|8°32'30.48" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|8°14'55.22" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|11°5'32.69" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|19°28'37.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°38'1.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°10'43.09" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|0°33'16.53" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°32'30.55" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|8°14'55.20" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|11°5'32.60" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°28'37.52" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°38'1.33" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°10'43.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°33'16.52" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|8°32'30.48" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|8°14'55.22" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|11°5'32.69" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|19°28'37.40" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°38'1.12" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°10'43.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°33'16.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|8°32'30.55" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|8°14'55.20" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|11°5'32.60" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°25'1.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°36'35.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°12'59.42" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|0°2'28.17" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|8°19'44.84" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°18'25.74" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|5°55'3.70" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|11°36'35.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°12'45.06" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|0°2'45.49" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°20'21.52" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|7°18'38.83" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|4°57'43.66" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Aries|Sun|Saturn|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°36'35.05" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°12'45.06" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°2'45.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|8°20'21.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|8°20'21.52" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|7°18'38.83" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|4°57'43.66" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오

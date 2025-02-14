@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°48'5.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°24'36.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°46'9.18" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°45'40.78" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°48'5.83" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°40'45.69" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|2°4'43.84" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|18°48'5.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°24'36.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°46'9.28" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°45'40.79" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|5°48'5.86" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°40'45.68" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|2°4'44.33" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°48'5.71" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°24'36.91" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°46'9.18" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|24°45'40.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°48'5.83" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|27°40'45.69" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°4'43.84" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|18°48'5.58" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°24'36.69" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°46'9.28" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|24°45'40.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|5°48'5.86" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|27°40'45.68" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°4'44.33" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MSQ, Mins'k, Minsc, Minscum, Minsk, Minsk - Minsk, Minsk - Мінск, Minsk osh, Minska, Minskaj, Minskas, Minsko, Minszk, Mińsk, Myensk, Myenyesk, Mînsk, ming si ke, ming si ke shi, minseukeu, minsk, minsuku, mnsk, mynsk, mynsq, mynysky, Μινσκ, Минск, Минск ош, Минскай, Мінск, Мінськ, Мѣньскъ, Մինսկ, מינסק, منسک, مىنىسكى, مينسك, مینسک, मिन्‍स्‍क, மின்ஸ்க், ಮಿನ್ಸ್ಕ್, മിൻസ്ക്, มินสก์, མིན་སིཀ།, მინსკი, ミンスク, 明斯克, 明斯克市, 민스크

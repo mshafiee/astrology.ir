@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 08:53:56|Night duration: 15:03:06|
+|Duration of the day: 08:53:56|Night duration: 15:03:05|
 |Every hour duration: 01:16:17|Every hour duration: 02:09:01|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mars|Ruler|17:08:42|19:17:41|
 |Late evening|Sun|Servant|19:17:42|21:26:42|
 |Midnight|Venus|Servant|21:26:43|23:35:43|
-|Late at night|Mercury|Servant|23:35:44|01:44:44|
-|Rooster song|Moon|Servant|01:44:45|03:53:45|
-|False Dawn|Saturn|Servant|03:53:46|06:02:46|
-|Dawn|Jupiter|Servant|06:02:47|08:11:47|
+|Late at night|Mercury|Servant|23:35:44|01:44:43|
+|Rooster song|Moon|Servant|01:44:44|03:53:44|
+|False Dawn|Saturn|Servant|03:53:45|06:02:45|
+|Dawn|Jupiter|Servant|06:02:46|08:11:46|
 
 {{< /tab >}}
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°26'42.96" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°37'16.93" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°53'4.87" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|6°24'2.83" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|29°42'21.71" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|15°59'59.07" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|6°24'2.83" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|29°42'23.17" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|15°58'56.58" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°26'42.96" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°37'16.93" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|25°53'4.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|6°24'2.83" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|29°42'18.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|16°33'53.01" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|6°24'2.83" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|29°42'21.71" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|15°59'59.07" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

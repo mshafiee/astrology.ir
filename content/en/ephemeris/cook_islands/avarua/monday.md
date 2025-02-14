@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°26'37.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°37'14.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°12'1.86" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|0°16'11.59" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|8°25'48.77" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°43'32.15" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|7°10'43.20" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|19°26'37.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°37'12.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°11'48.52" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|0°16'18.53" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°25'50.41" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|7°43'36.43" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|7°38'21.33" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°26'37.31" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°37'12.91" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°11'48.45" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|19°26'37.19" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°37'12.70" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°11'48.52" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°16'18.52" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|8°25'50.34" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|8°25'50.34" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|7°43'36.45" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|7°38'21.50" |Scorpio|Akleel|Mars|
 

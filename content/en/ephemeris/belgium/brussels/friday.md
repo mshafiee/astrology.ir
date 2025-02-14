@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:23:10 |
+| Fajr (Dawn) | 06:23:09 |
 | Sunrise | 07:56:12 |
 | Dhuhr (Noon) | 12:56:42 |
 | Medium Coeli | 12:56:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°55'29.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°26'36.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°37'39.80" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|18°55'29.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°26'36.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°37'39.90" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°49'48.32" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|6°22'22.72" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|29°36'24.03" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|15°9'4.50" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|6°22'22.76" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|29°36'24.02" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|15°9'4.53" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°55'29.67" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°26'36.28" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°37'39.80" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|18°55'29.54" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°26'36.06" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°37'39.90" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|25°49'48.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|6°22'22.72" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|29°36'24.03" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|15°9'4.50" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|6°22'22.76" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|29°36'24.02" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|15°9'4.53" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

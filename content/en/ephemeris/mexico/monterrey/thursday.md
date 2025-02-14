@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°57'21.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°27'7.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°35'37.45" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°5'52.44" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|6°30'46.31" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|0°5'26.02" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|18°3'43.78" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|11°27'7.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°35'37.34" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|26°5'53.08" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|6°30'48.23" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|0°5'26.51" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|17°58'53.28" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mercury|Saturn|Saturn|Saturn|
-|☾ Moon|Mercury|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°57'21.11" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°27'7.74" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°35'37.01" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|26°5'52.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|6°30'44.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°27'7.89" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°35'37.45" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|26°5'52.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|6°30'46.31" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|0°5'26.02" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|18°3'43.78" |Virgo|Simak|Venus|
 

@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°24'40.80" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°45'42.44" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|24°48'14.53" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°49'36.55" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|5°49'36.55" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|27°45'15.87" |Capricorn|SaadAlSaud|Sun|
 |☾ Moon|Direct|1°59'22.16" |Leo|Jabhah|Saturn|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°24'40.80" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°45'42.44" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°48'14.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°49'36.55" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|5°49'36.55" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|27°45'15.87" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|1°59'22.16" |Virgo|Sarfrah|Sun|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: ABJ, Abican, Abidjan, Abidzan, Abidzana, Abidzanas, Abidzans, Abidzhan, Abidzhan shaary, Abidżan, Abidžan, Abidžana, Abidžanas, Abidžans, Abigano, Abijan, Abiyan, Abiyán, Abizhan khot, Abiĝano, Ampitzan, a bi rang, a bi ren, abdjan, abijan, abijana, abijang, abijani, abydjan, abyjan, xabi can, ʼbydgʼn, Αμπιτζάν, Абиджан, Абиджан шаары, Абижан хот, Абиџан, Абіджан, Աբիջան, אבידגאן, אבידזשאן, آبدجان, آبیجان, أبيدجان, आबिजान, আবিজান, ਅਬੀਜਾਨ, അബിജാൻ, อาบีจาน, აბიჯანი, アビジャン, 阿必仁, 阿比让, 아비장

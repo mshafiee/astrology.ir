@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°27'28.96" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°34'19.14" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|26°16'21.18" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|6°36'11.78" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|6°36'11.78" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|0°24'23.02" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|19°55'16.74" |Leo|Zubrah|Jupiter|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|18°58'33.84" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°27'28.96" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°34'19.14" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|26°16'21.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|6°36'11.78" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|0°24'23.02" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|19°55'16.74" |Virgo|Simak|Venus|
+|♃ Jupiter|Direct|11°27'31.29" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°34'38.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|26°16'9.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|6°36'1.99" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|0°24'14.67" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|20°45'31.09" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
+|☾ Moon|Jupiter|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Mars|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
+|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}

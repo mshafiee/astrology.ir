@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:15:25|Night duration: 10:45:31|
+|Duration of the day: 13:15:24|Night duration: 10:45:32|
 |Every hour of day duration: 01:06:17|Every hour of night duration: 00:53:48|
 
  
@@ -227,19 +227,19 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|15:12:35|16:18:51|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|16:18:52|17:25:08|Attracting happiness, solving financial problems|
 |11|Moon|Servant|17:25:09|18:31:25|Performing promises|
-|12|Saturn|Servant|18:31:26|19:37:43|Finding the fugitive and discovering the thief|
+|12|Saturn|Servant|18:31:26|19:37:42|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|19:37:44|20:31:30|Love and attraction of capital|
-|2|Mars|Servant|20:31:31|21:25:18|Unfortunate, no task is suitable|
-|3|Sun|Servant|21:25:19|22:19:05|Operations of tenderness and attraction of love|
-|4|Venus|Servant|22:19:06|23:12:53|Unfortunate and repelling goodness|
-|5|Mercury|Servant|23:12:54|00:06:40|Separation, vengeful and hostile deeds|
+|1|Jupiter|Ruler|19:37:43|20:31:29|Love and attraction of capital|
+|2|Mars|Servant|20:31:30|21:25:17|Unfortunate, no task is suitable|
+|3|Sun|Servant|21:25:18|22:19:05|Operations of tenderness and attraction of love|
+|4|Venus|Servant|22:19:06|23:12:52|Unfortunate and repelling goodness|
+|5|Mercury|Servant|23:12:53|00:06:40|Separation, vengeful and hostile deeds|
 |6|Moon|Servant|00:06:41|01:00:28|Suitable for all good deeds|
-|7|Saturn|Servant|01:00:29|01:54:16|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:54:17|02:48:03|Extremely auspicious and attracts happiness|
+|7|Saturn|Servant|01:00:29|01:54:15|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:54:16|02:48:03|Extremely auspicious and attracts happiness|
 |9|Mars|Servant|02:48:04|03:41:51|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Sun|Servant|03:41:52|04:35:38|Attracting happiness, solving financial problems|
 |11|Venus|Servant|04:35:39|05:29:26|Performing promises|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°8'49.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°30'42.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°24'36.44" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|27°44'35.59" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|7°19'32.32" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°5'3.72" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|7°38'18.39" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|11°30'42.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°24'39.55" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|27°44'34.80" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|7°19'34.80" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°5'3.34" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|7°32'7.03" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°8'49.56" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°30'42.43" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°24'36.44" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|19°8'49.44" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°30'42.22" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°24'36.53" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|27°44'35.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|7°19'32.32" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|3°5'3.72" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°38'18.39" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|7°19'32.37" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|3°5'3.70" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|7°38'18.26" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

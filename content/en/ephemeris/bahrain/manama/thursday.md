@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°47'25.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°24'26.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°46'53.94" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|18°47'25.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°24'26.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°46'54.04" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|24°39'54.77" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°45'0.40" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°30'19.75" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|0°28'17.14" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|5°45'0.43" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°30'19.74" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|0°28'17.68" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°47'25.72" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°24'26.38" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°46'53.94" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|18°47'25.59" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°24'26.16" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°46'54.04" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°39'54.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°45'0.40" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|27°30'19.75" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°28'17.14" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|5°45'0.43" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|27°30'19.74" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|0°28'17.68" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Al Manama, Al Manamah, Al Manāma, Al Manāmah, Al-Manama, Al-Manamah, Al-Manāmah, Maenamae, Manaama, Manam, Manama, Manamae, Manamah, Manameh, Manamo, Manáma, Manāma, Menama, Mename, Mänamä, WGF, aalmanamat, almnamh, almnamt, mai na ma, mai na mai, manama, mnamh, mnamہ, Μανάμα, Манамæ, Манама, Մանամա, מנאמה, المنامة, المنامه, اَلْمَنَامَة, منامه, منامہ, مەنامە, मनामा, মানামা, ਮਨਾਮਾ, ମାନାମା, மனாமா, മനാമ, มานามา, མ་ན་མ།, მანამა, ማናማ, マナーマ, 麥納瑪, 麦纳麦, 마나마

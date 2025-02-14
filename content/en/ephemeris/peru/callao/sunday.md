@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°33'53.06" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°17'26.42" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°2'13.44" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|7°54'48.58" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|7°54'48.58" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|5°27'18.07" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|23°0'10.49" |Virgo|Simak|Mercury|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°17'54.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°33'53.94" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°17'41.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°1'56.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|7°54'12.69" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|5°27'5.08" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|24°13'16.47" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|11°33'53.06" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°17'26.42" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°2'13.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°54'48.58" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|5°27'18.07" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|23°0'10.49" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
+|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
 
 
 {{< /tab >}}

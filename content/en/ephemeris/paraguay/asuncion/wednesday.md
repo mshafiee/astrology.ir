@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 12:59:54|Night duration: 11:00:45|
-|Every hour of day duration: 01:05:00|Every hour of night duration: 00:55:04|
+|Every hour of day duration: 01:04:59|Every hour of night duration: 00:55:04|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|18°49'16.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°24'54.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°44'37.77" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|18°49'16.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°24'54.33" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°44'37.86" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|24°55'59.21" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Pre-Retrograde Shadow|5°53'50.67" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°59'10.89" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|3°30'29.99" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|5°53'20.33" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°58'59.16" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|5°11'36.41" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|11°24'54.55" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°44'37.77" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°55'59.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|5°53'50.67" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|5°53'50.67" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|27°59'10.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°30'29.99" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|5°11'36.81" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

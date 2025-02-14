@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°38'0.85" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°10'42.53" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|0°33'8.75" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|8°32'29.21" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|8°14'39.65" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|11°1'25.47" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|8°31'56.34" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|8°14'27.40" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|11°39'31.82" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°28'36.56" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°38'0.81" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°10'43.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°33'7.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|8°32'26.79" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|8°14'38.91" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|11°5'44.84" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|11°38'0.85" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°10'42.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°33'8.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|8°32'29.21" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|8°14'39.65" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|11°1'25.47" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Cathair Ho Chi Minh, Cidade de Ho Chi Minh, Ciudad Ho Chi Minh, HCMC, HCMV, Ho Chi Minh, Ho Chi Minh City, Ho Chi Minh Ville, Ho Chi Minh-borg, Ho Chi Minh-byen, Ho Chi Minhin kaupunki, Ho Chi Minhstad, Ho Ci Minovo Mesto, Ho Si Minh-varos, Ho Si Minh-város, Ho Či Minovo Město, Ho-Chi-Minh-Stadt, Ho-Chi-Minh-Ville, Ho-Ci-Min-urbo, Ho-Ĉi-Min-urbo, Hociminovo Mesto, Hosimina, Hosiminh, Hočiminovo Mesto, Hošimina, Hošiminh, Hô Chi Minh Ville, Hô-Chi-Minh-Ville, Hồ Chí Minhin kaupunki, Khoshimin, Kota Ho Chi Minh, Kota Hồ Chí Minh, SGN, Sai Gon, Saigon, Saïgon, Sài Gòn, TPHCM, Thanh pho Ho Chi Minh, Thành phố Hồ Chí Minh, hochimin, hochimin shi, hojjimin, hu zhi ming shi, hw z'y myn syty, mdynt hw tshy mynh, saigon, saygwn, Хошимин, הו צ'י מין סיטי, سايگون, مدينة هو تشي مينه, サイゴン, ホーチミン, ホーチミン市, 胡志明市, 호찌민, 호치민

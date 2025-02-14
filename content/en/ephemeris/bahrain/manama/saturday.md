@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°1'25.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°28'20.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°31'28.17" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°41'3.86" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|6°48'37.08" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|1°9'18.36" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|26°31'5.95" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|19°1'25.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°28'20.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°31'28.26" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|26°41'3.87" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|6°48'37.12" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|1°9'18.35" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|25°9'50.08" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Sun|Venus|
 |♀ Venus|Mars|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Aquarius|Sun|Saturn|
-|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°1'25.99" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°28'20.86" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|19°1'25.87" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°28'20.64" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°31'28.17" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|26°41'3.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|6°48'37.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|6°48'37.08" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|1°9'18.36" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|25°9'50.21" |Virgo|Simak|Mercury|
 
