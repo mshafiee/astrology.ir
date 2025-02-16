@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°27'33.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°37'35.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°11'26.72" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|0°24'0.39" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°28'23.93" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°58'3.99" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|10°13'9.91" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|11°37'35.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°11'16.68" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|0°24'15.47" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°29'0.17" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|7°58'15.72" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|9°13'35.08" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°27'33.57" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°37'35.46" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°37'35.46" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°11'16.68" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°24'15.47" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|8°29'0.17" |Aries|Sharatain|Mars|

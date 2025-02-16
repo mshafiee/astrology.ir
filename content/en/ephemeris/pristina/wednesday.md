@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°30'27.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°38'46.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°9'46.73" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|0°48'48.02" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°38'28.69" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|8°43'35.30" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|14°14'40.10" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|19°30'27.63" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°38'44.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°9'41.99" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|0°48'45.04" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°38'10.11" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|8°43'32.11" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|15°10'23.17" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°30'27.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°38'46.32" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°9'46.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'48.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|11°38'46.53" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°9'46.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°48'48.01" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|8°38'28.62" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|8°43'35.32" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|14°14'40.08" |Scorpio|Qalb|Sun|

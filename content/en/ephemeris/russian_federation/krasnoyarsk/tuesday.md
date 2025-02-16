@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°22'2.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°35'26.35" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'26.35" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°14'43.51" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°37'20.60" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°9'35.05" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°31'59.15" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|0°39'5.16" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|8°9'40.48" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|6°31'59.37" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|0°18'39.59" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°22'2.31" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°35'26.35" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'26.35" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°14'43.51" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°37'20.60" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|8°9'40.48" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: KJA, Krasnoiarsk, Krasnojarsk, Krasnoyarsk, Krasnoïarsk, Krsk, keulaseunoyaleuseukeu, Красноярск, 크라스노야르스크

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'36.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°36'2.41" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'2.41" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°13'41.66" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°50'42.99" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|8°15'17.43" |Pisces|FarghAlMuakhar|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'36.64" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°36'2.41" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°13'41.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°50'42.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°15'17.43" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°56'34.01" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°50'1.02" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'2.68" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°13'44.63" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°50'41.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|8°15'17.94" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°56'33.25" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°43'11.83" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MCM, Monaco, Monaco-Ville, Monako, Mònaco, Mónaco, Mónakó, monako, Μονακό, Монако, 모나코

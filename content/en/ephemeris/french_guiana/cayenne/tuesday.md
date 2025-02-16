@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:26:23 |
-| Sunrise | 06:43:35 |
+| Sunrise | 06:43:36 |
 | Dhuhr (Noon) | 12:43:09 |
 | Medium Coeli | 12:43:09 |
 | Sunset | 18:42:47 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:32:30 |
-| Sunrise | 06:43:35 |
+| Sunrise | 06:43:36 |
 | Dhuhr (Noon) | 12:43:09 |
 | Medium Coeli | 12:43:09 |
 | Sunset | 18:42:47 |
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:59:12|Night duration: 12:00:35|
-|Every hour duration: 01:42:45|Every hour duration: 01:42:56|
+|Duration of the day: 11:59:11|Night duration: 12:00:35|
+|Every hour duration: 01:42:44|Every hour duration: 01:42:56|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|06:43:35|08:26:18|
-|Mid-morning|Sun|Servant|08:26:19|10:09:03|
-|Late morning|Venus|Servant|10:09:04|11:51:47|
-|Noon|Mercury|Servant|11:51:48|13:34:32|
-|Early afternoon|Moon|Servant|13:34:33|15:17:16|
-|Mid-afternoon|Saturn|Servant|15:17:17|17:00:01|
+|Early morning|Mars|Ruler|06:43:36|08:26:19|
+|Mid-morning|Sun|Servant|08:26:20|10:09:03|
+|Late morning|Venus|Servant|10:09:04|11:51:48|
+|Noon|Mercury|Servant|11:51:49|13:34:32|
+|Early afternoon|Moon|Servant|13:34:33|15:17:17|
+|Mid-afternoon|Saturn|Servant|15:17:18|17:00:01|
 |Late afternoon|Jupiter|Servant|17:00:02|18:42:46|
 
  
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°31'44.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°39'17.97" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|19°31'44.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°39'17.97" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°9'3.97" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|0°59'39.80" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|8°42'44.19" |Pisces|FarghAlMuakhar|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°31'44.50" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°39'17.97" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°39'17.97" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°9'3.97" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°59'39.80" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|8°42'44.19" |Aries|Sharatain|Mars|

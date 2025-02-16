@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'3.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°35'49.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°13'58.21" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|29°46'2.59" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°13'28.48" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°47'52.54" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|1°40'0.87" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|19°23'3.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'48.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°13'58.28" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|29°46'2.60" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|8°13'28.54" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|6°47'52.52" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°40'0.63" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'3.43" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°35'49.17" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°13'58.21" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°46'2.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°13'28.48" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°47'52.54" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°40'0.87" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|19°23'3.31" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'48.96" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°13'58.28" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°46'2.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|8°13'29.89" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°47'52.72" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|1°35'32.59" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи

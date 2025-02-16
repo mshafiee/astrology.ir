@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°23'32.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°36'0.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°13'46.80" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|29°50'8.68" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°15'16.69" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°55'28.71" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|2°1'11.92" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|19°23'31.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'0.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°13'46.88" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|29°50'3.64" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|8°14'57.42" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|6°55'24.33" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|2°49'54.14" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Aries|Sun|Saturn|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'31.99" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°36'0.70" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°13'46.88" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°50'3.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°14'57.42" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'1.91" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°13'47.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°50'8.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|8°15'16.63" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°55'24.33" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|2°49'54.14" |Scorpio|Akleel|Mars|
 
