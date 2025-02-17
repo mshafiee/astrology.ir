@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:40:40 |
-| Sunrise | 06:43:35 |
+| Sunrise | 06:43:36 |
 | Dhuhr (Noon) | 12:43:09 |
 | Medium Coeli | 12:43:09 |
 | Sunset | 18:42:47 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:32:30 |
-| Sunrise | 06:43:35 |
+| Sunrise | 06:43:36 |
 | Dhuhr (Noon) | 12:43:09 |
 | Medium Coeli | 12:43:09 |
 | Sunset | 18:42:47 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:44:45 |
-| Sunrise | 06:43:36 |
+| Sunrise | 06:43:35 |
 | Dhuhr (Noon) | 12:43:09 |
 | Medium Coeli | 12:43:09 |
 | Sunset | 18:42:47 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:26:23 |
-| Sunrise | 06:43:36 |
+| Sunrise | 06:43:35 |
 | Dhuhr (Noon) | 12:43:09 |
 | Medium Coeli | 12:43:09 |
 | Sunset | 18:42:47 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:59:11|Night duration: 12:00:35|
+|Duration of the day: 11:59:12|Night duration: 12:00:35|
 |Every hour of day duration: 00:59:56|Every hour of night duration: 01:00:03|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:43:36|07:43:30|Creating corruption, hatred and enmity|
+|1|Mars|Ruler|06:43:35|07:43:30|Creating corruption, hatred and enmity|
 |2|Sun|Servant|07:43:31|08:43:26|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|08:43:27|09:43:22|Attracting connection and suitors|
 |4|Mercury|Servant|09:43:23|10:43:18|Attracting material wealth, earnings and business prosperity|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°31'44.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°39'17.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°9'3.97" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|0°59'39.80" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°42'44.19" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|9°3'32.75" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|16°16'4.89" |Libra|Jubana|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|11°39'17.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°9'4.04" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|0°59'39.81" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Pre-Retrograde Shadow|8°42'44.26" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|9°3'32.73" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|16°16'5.02" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°31'44.50" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°39'17.97" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°9'3.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°59'39.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|8°42'44.19" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|9°3'32.75" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|16°16'4.89" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|19°31'44.38" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°39'17.76" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°9'4.04" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°59'39.81" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°42'44.26" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|9°3'32.73" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|16°16'5.02" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:17:32 |
+| Fajr (Dawn) | 05:17:31 |
 | Sunrise | 06:48:40 |
 | Dhuhr (Noon) | 12:20:34 |
 | Medium Coeli | 12:20:34 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°8'30.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°30'36.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°24'55.80" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|19°8'30.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°30'36.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°24'55.89" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|27°41'51.81" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|7°18'10.63" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|3°0'7.93" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|7°21'35.32" |Virgo|Awwa|Sun|
+|♀ Venus|Pre-Retrograde Shadow|7°18'10.68" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|3°0'7.92" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|7°21'35.19" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°8'30.61" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°30'36.34" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°24'55.80" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|19°8'30.49" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°30'36.13" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°24'55.89" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|27°41'51.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|7°18'10.63" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|3°0'7.93" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°21'35.32" |Libra|Ghafr|Moon|
+|♀ Venus|Pre-Retrograde Shadow|7°18'9.56" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|3°0'7.82" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|7°24'19.52" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

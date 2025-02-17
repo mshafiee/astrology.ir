@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°32'5.91" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Post-Retrograde Shadow|11°39'26.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°8'53.71" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|1°2'41.75" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°43'52.58" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|9°9'8.69" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|16°52'51.87" |Libra|Jubana|Saturn|
+|♂ Mars|Retrograde|17°9'9.14" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|1°2'25.30" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Pre-Retrograde Shadow|8°43'20.75" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|9°8'56.45" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|17°15'39.16" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Saturn|Jupiter|Aries|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°32'5.91" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°39'26.76" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°8'53.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°2'41.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|8°43'52.58" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|9°9'8.69" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|16°52'51.87" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|19°32'6.04" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°39'26.97" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°8'53.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°2'41.74" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°43'52.50" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|9°9'8.71" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|16°52'51.71" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

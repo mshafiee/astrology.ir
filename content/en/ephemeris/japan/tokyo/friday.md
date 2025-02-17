@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°49'34.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°47'16.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°2'38.78" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°29'48.09" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°33'48.53" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|13°40'14.63" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|16°36'56.71" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|11°47'16.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°2'38.72" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°29'48.08" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Pre-Retrograde Shadow|9°33'48.43" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|13°40'14.64" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|16°36'55.27" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°49'34.67" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°47'16.61" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°2'38.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°29'48.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|9°33'48.53" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|13°40'14.63" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|16°36'56.71" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|19°49'34.79" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°47'16.81" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°2'38.72" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°29'48.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|9°33'48.43" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|13°40'14.64" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|16°36'55.27" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

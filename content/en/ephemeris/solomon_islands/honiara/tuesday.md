@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°37'33.28" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°11'19.44" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|0°23'31.01" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°28'42.74" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°28'42.74" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|7°56'53.56" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|9°4'21.95" |Libra|Ghafr|Moon|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°37'33.28" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°11'19.44" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°23'31.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|8°28'42.74" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°28'42.74" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|7°56'53.56" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|9°4'21.95" |Scorpio|Qalb|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

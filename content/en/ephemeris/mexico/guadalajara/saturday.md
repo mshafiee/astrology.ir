@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:07:26 |
+| Fajr (Dawn) | 06:07:27 |
 | Sunrise | 07:23:25 |
 | Dhuhr (Noon) | 13:07:36 |
 | Medium Coeli | 13:07:36 |
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°31'36.32" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°22'24.35" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|28°7'17.54" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|7°30'5.51" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|7°30'5.51" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|3°46'36.67" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|12°17'26.94" |Virgo|Awwa|Venus|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°31'36.32" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°22'24.35" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|28°7'17.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|7°30'5.51" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|3°46'36.67" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°17'26.94" |Libra|Ghafr|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|7°30'5.51" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|3°46'36.73" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°14'35.27" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

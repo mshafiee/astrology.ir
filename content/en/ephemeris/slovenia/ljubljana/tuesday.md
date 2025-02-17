@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'29.31" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Post-Retrograde Shadow|11°35'59.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°13'46.56" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|29°49'40.62" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°14'51.14" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°54'39.57" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|2°38'47.43" |Libra|Ghafr|Moon|
+|♂ Mars|Retrograde|17°14'0.16" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|29°49'29.97" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Pre-Retrograde Shadow|8°14'36.82" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|6°54'32.07" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|2°47'29.55" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°35'59.61" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°13'46.56" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°49'40.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°14'51.14" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°14'51.14" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°54'39.57" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|2°38'47.43" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Aemona, Jubaljana, LJU, Laibach, Laiboch, Lioumpliana, Liubliana, Liublianne, Liublijana, Liuibleana, Liúibleána, Ljubljan, Ljubljana, Ljubljana osh, Ljubljanae, Ljubljano, Lubian-a, Lubiana, Lubiane, Lubiann-a, Lubjana, Lublan, Lublana, Lublaň, Lubliano, Lubljana, Luebiana, Lueblaen, Lueblana, Lyoubyana, Lyublyana, Lübiana, Lüblâna, Lüblän, li'ubali'ana, li'ubliyana, liubliana, liyubliyana, liyupliyana, lu bu er ya na, lub li ya na, lyubeullyana, lywblyana, ryuburyana, Ļubļana, Ľubľana, Łubiana, Λιουμπλιάνα, Љубљана, Люблян, Люблянæ, Любляна, Любляна ош, Люблꙗна, Լյուբլյանա, ליובליאנה, ليوبليانا, ليۇبليانا, لیوبلیانا, लियुब्लियाना, লিউব্লিয়ানা, ਲਿਊਬਲਿਆਨਾ, லியுப்லியானா, ลูบลิยานา, ལི་པོ་ཡ་ན།, ლიუბლიანა, ልዩብልያና, リュブリャナ, 卢布尔雅那, 盧布爾雅那, 류블랴나

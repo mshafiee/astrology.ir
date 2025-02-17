@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°38'0.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°10'45.87" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|0°32'51.76" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°32'18.53" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|8°14'11.16" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|11°3'53.84" |Libra|Ghafr|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°32'18.42" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|8°14'10.96" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|11°2'36.72" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°38'0.31" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°10'45.87" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°32'51.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|8°32'18.53" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°32'18.53" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|8°14'11.16" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|11°3'53.84" |Scorpio|Qalb|Sun|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: CGO, Cencou, Ceng-cou, Cengcou, Cheng, Cheng-chou, Cheng-chou-shih, Cheng-hsien, Chengchow, Chhiang-chu-su, Chhiáng-chû-sṳ, Chzhehnchzhou, Chzhenchzhou, Cjencjou, Csengcsou, Cwngcouh, Czengczou, Dang-ciu, Dzendzou, Dzengdzou, Dzhundzhou, Dâng-ciŭ, Džendžou, Džengdžou, Genggouo, Trinh Chau, Trịnh Châu, Tsentsoou, Tēⁿ-chiu-chhī, Zengzou, Zhengtsjou, Zhengzhou, Zhengzhou Shi, canaco, cancau, ceing cow, cencavu, jeongjeou si, jhengajho'u, tshnghtshw, zheng zhou, zheng zhou shi, zhngzhw, zhyngzhw, Çengçou, Çjençjou, Čeng-čou, Ĝengĝoŭo, Žengžou, Τσεντσόου, Џенгџоу, Джънджоу, Жөнжоу, Чженчжоу, Чжэнчжоу, Чжэнчжоў, تشنغتشو, جېڭجۇ شەھىرى, ژنگژو, ژینگژو, चंचौ, झेंगझोऊ, ਚੰਙਚੋ, செங்சவு, เจิ้งโจว, ကျင့်ကျိုးမြို့, 郑州, 郑州市, 鄭州, 鄭州市, 정저우 시

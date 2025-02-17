@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'24.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°35'57.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°13'45.86" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|29°49'4.60" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°14'33.36" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°53'31.91" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|2°44'24.18" |Libra|Ghafr|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'0.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°14'3.56" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|29°48'55.57" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Pre-Retrograde Shadow|8°14'31.80" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|6°53'26.27" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|2°14'7.56" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Aries|Sun|Saturn|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°35'58.00" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°13'50.19" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°49'2.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°14'34.03" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°14'34.03" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°53'30.79" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|2°34'11.83" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바
