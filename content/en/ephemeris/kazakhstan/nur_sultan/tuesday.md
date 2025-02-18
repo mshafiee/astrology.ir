@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°22'24.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°35'34.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°14'28.52" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|29°40'29.75" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|8°11'0.90" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°37'46.52" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|0°53'14.13" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|19°22'24.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°35'34.77" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°14'28.44" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|29°40'29.74" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|8°11'0.84" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|6°37'46.54" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|0°53'14.36" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°22'24.40" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°35'34.55" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°14'28.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°40'29.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|8°11'0.90" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°37'46.52" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°53'14.13" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|19°22'24.53" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°35'34.77" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°14'28.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°40'29.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|8°11'0.84" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°37'46.54" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°53'14.36" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Ak-Mola, Akmola, Akmolins'k, Akmolinsk, Aqmola, Astana, Astano, Astanà, Astaná, Asztana, Aστάνα, Cilinograd, NQZ, Noer-Soeltan, Nour-Soultan, Nur-Soltan, Nur-Sultan, Nur-Sultano, Nur-Sultán, Nursultʻan, Nұr-Sұltan, Ostona, Qaraotkel, Qaraötkel, TSE, Tselinograd, a si ta na, aseutana, astana, astanh, astant, astanٱ, astanہ, astʼana, asutana, nwr sltan, nwrsltan, nwrswltan, nۇrsۇltan, yastana, ʼstnh, Ак-Мола, Акмола, Акмолінськ, Астана, Нур-Солтан, Нур-Султан, Нұр-Сұлтан, Остона, Цілиноград, Աստանա, Նուրսուլթան, אסטנה, آستانا, آستانه, آستانٱ, آستانہ, أستانة, أسطانا, ئاستانا, استانا, استانه, نور سلطان, نورسلطان, نورسولتان, نۇرسۇلتان, আস্তানা, ასტანა, አስታና, アスタナ, 阿斯塔纳, 아스타나

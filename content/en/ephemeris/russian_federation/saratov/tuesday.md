@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°22'54.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°35'46.40" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°35'46.40" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°14'9.08" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°44'47.40" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Pre-Retrograde Shadow|8°12'48.23" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|8°12'48.23" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|6°45'40.78" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|1°43'52.98" |Libra|Ghafr|Moon|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°22'54.84" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°35'45.39" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°14'1.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°44'52.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Pre-Retrograde Shadow|8°12'52.35" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°45'44.11" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°48'57.67" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|11°35'47.20" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°14'14.46" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°44'44.41" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|8°12'46.85" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°45'38.85" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|1°37'10.22" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: ISaratov, RTW, Saratau, Saratof, Saratov, Saratov osh, Saratova, Saratovas, Saratovia, Saratovu, Saratow, Saratu, Saratuovs, Saratów, Saretow, Sarytau, Saràtov, Sarátov, Szaratov, sa la tuo fu, salatopeu, saratofu, saratova, saratwf, srʼtwb, Σαράτοφ, Сарăту, Саратаў, Саратов, Саратов балһсн, Саратов ош, Саратовъ, Сарытау, Һарытау, Սարատով, סראטוב, ساراتوف, ساراٹوف, सारातोव, სარატოვი, サラトフ, 薩拉托夫, 사라토프

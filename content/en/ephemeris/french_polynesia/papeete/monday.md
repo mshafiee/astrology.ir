@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°26'26.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°37'8.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°11'54.96" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|0°14'44.15" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|8°25'12.52" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°40'42.54" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|7°19'41.21" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|19°26'26.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°37'8.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°11'54.89" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|0°14'44.14" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°25'12.45" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|7°40'42.56" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|7°19'41.39" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°26'26.06" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°37'8.27" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°11'54.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°14'44.15" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|8°25'12.52" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°40'42.54" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|7°19'41.21" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|19°26'26.19" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°37'8.48" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°11'54.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°14'44.14" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|8°25'12.45" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°40'42.56" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°19'41.39" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

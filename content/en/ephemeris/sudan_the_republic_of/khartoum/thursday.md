@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Jupiter|Ruler|13:02:10|14:00:44|Attraction of happiness and fortune|
 |9|Mars|Servant|14:00:45|14:59:18|Reaching status and promotion|
 |10|Sun|Servant|14:59:19|15:57:53|Fulfilling needs|
-|11|Venus|Servant|15:57:54|16:56:27|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Venus|Servant|15:57:54|16:56:27|Attraction of love and hearts|
 |12|Mercury|Servant|16:56:28|17:55:02|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°37'15.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°41'38.89" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°41'38.89" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°6'33.94" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°46'13.39" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|8°59'50.02" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|8°59'50.02" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|10°29'26.26" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|25°34'34.13" |Libra|Jubana|Jupiter|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°37'15.36" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°41'39.02" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°6'36.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°46'11.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|8°59'45.26" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|10°29'24.49" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|25°36'16.65" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|11°41'38.89" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°6'33.94" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°46'13.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|8°59'50.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|10°29'26.26" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|25°34'34.13" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
