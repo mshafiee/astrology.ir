@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Mars|Servant|22:42:20|23:42:47|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Sun|Servant|23:42:48|00:43:16|Writing, swapping and making promises|
 |7|Venus|Servant|00:43:17|01:43:44|Not suitable for any task|
-|8|Mercury|Ruler|01:43:45|02:44:12|Destruction of enemies|
+|8|Mercury|Ruler|01:43:45|02:44:12|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Moon|Servant|02:44:13|03:44:41|All good deeds|
 |10|Saturn|Servant|03:44:42|04:45:09|Doing evil deeds|
 |11|Jupiter|Servant|04:45:10|05:45:37|Acceptance of reconciliation between couples|
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°52'7.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°48'30.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°2'4.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°51'6.20" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°40'10.83" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|14°19'18.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|11°48'31.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°2'16.98" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°50'51.70" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Pre-Retrograde Shadow|9°39'40.74" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|14°19'6.95" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|21°6'56.59" |Scorpio|Qalb|Venus|
 
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°52'7.29" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°48'30.10" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°48'30.10" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°2'4.26" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°51'6.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|9°40'10.83" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|9°40'10.83" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|14°19'18.05" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|21°6'56.59" |Sagittarius|Baldah|Saturn|
 

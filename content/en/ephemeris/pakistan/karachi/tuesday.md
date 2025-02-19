@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°22'19.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°35'32.51" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'32.51" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°14'28.42" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°39'48.56" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°10'48.90" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°10'48.90" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|6°36'26.82" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|0°33'50.65" |Libra|Ghafr|Moon|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°22'19.53" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°35'32.51" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°14'28.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°39'48.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°10'48.90" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'32.27" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°14'27.24" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°39'48.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|8°10'47.53" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°36'26.82" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|0°33'50.65" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Carachi, KHI, Karaaji, Karaces, Karachi, Karachi - krachy, Karachi - كراچى, Karachy, Karaci, Karacio, Karacis, Karacsi, Karaczi, Karanchi, Karatschi, Karatsi, Karatsji, Karatxi, Karaçi, Karaĉio, Karači, Karačis, Karačės, Karochi, Karáči, Karáčí, Karâchi, Karāchi, Karāči, Keraci, Keraçî, Kurrachee, Kurrachi, Kəraçi, ka la qi, ka ra ci, kalachi, karaaci, karacci, karachi, karachy, karaci, karatshy, ke la chi, krachy, kratshy, pechs, qrʼzy, Καράτσι, Карачи, Карачы, Карачі, Կարաչի, קאראטשי, קראצי, كاراتشى, كاراچى, كراتشي, کراچی, کراچۍ, کَرٲچی, کەراچی, ڪراچي, ކަރާޗީ, कराची, করাচী, কৰাচী, ਕਰਾਚੀ, કરાચી, କରାଚୀ, கராச்சி, కరాచీ, ಕರಾಚಿ, കറാച്ചി, การาจี, ཀ་ར་ཆི, ကရာချိမြို့, კარაჩი, ከራቺ, カラチ, カラーチー, 卡拉奇, 喀拉蚩, 카라치

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°59'21.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°52'6.42" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°52'6.42" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°1'4.00" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°51'30.58" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°56'7.76" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|16°9'35.99" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°11'37.18" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|9°56'38.58" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|16°9'47.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°56'31.46" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°59'21.04" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°52'6.42" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°52'6.42" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°1'4.00" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°51'16.12" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°56'7.76" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|16°9'35.99" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|3°11'37.18" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|4°51'30.58" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|9°56'38.58" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|16°9'47.18" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|3°56'31.46" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°2'36.58" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|11°53'47.32" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°53'47.32" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°0'50.66" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°18'23.77" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|10°2'44.42" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|16°58'59.02" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|9°1'15.28" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|5°18'41.17" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Pre-Retrograde Shadow|10°3'25.00" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°59'12.89" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|9°54'20.43" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°2'36.58" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|11°53'47.92" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°1'3.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°18'23.77" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|10°2'44.42" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|16°58'59.02" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|9°1'15.28" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°53'47.32" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°0'50.66" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°18'41.17" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|10°3'25.00" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|16°59'12.89" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|9°54'20.43" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

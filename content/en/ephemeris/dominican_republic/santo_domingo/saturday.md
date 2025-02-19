@@ -232,7 +232,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:43:23|19:44:55|Related to talismans, amulets and responses|
+|1|Mercury|Ruler|18:43:23|19:44:55|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Moon|Servant|19:44:56|20:46:29|Peace among people|
 |3|Saturn|Servant|20:46:30|21:48:02|Vengeful and evil deeds|
 |4|Jupiter|Servant|21:48:03|22:49:36|Dominance, judgment and issuing verdict|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°0'56.34" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|11°52'55.42" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°52'55.42" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°0'57.51" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|5°4'45.03" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°59'56.96" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|16°33'54.99" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°45'29.54" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|9°59'44.67" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|16°33'48.09" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°33'16.70" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aries|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°0'56.34" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|11°52'55.42" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°52'55.42" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°0'57.51" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|5°4'45.03" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°59'56.96" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|9°59'56.96" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|16°33'54.99" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|6°45'29.54" |Capricorn|SaadAlDhabib|Jupiter|
 

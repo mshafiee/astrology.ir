@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°22'28.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°35'35.94" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'35.94" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°14'23.88" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°41'1.96" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°11'17.90" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°11'17.90" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|6°38'43.16" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|0°51'54.11" |Libra|Ghafr|Moon|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°22'28.22" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°35'35.94" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'35.94" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°14'23.88" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°41'1.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°11'17.90" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°11'17.90" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°38'43.16" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|0°51'54.11" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特

@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°0'21.18" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|11°52'37.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°52'37.19" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°0'58.61" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°59'52.42" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°58'47.06" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|9°58'47.06" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|16°25'0.71" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|5°47'11.51" |Sagittarius|NaAaem|Mercury|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°0'21.18" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|11°52'36.60" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°0'57.21" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°59'50.39" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|9°58'37.59" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|16°24'58.57" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|5°59'35.75" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|11°52'37.19" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°0'58.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°59'52.42" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|9°58'47.06" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|16°25'0.71" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|5°47'11.51" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°28'3.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°37'47.93" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°37'47.93" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°11'2.88" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|0°28'31.89" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°30'36.00" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°30'36.00" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|8°6'12.30" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|10°12'58.36" |Libra|Ghafr|Saturn|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°28'3.99" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°37'47.93" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°37'47.93" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°11'2.88" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°28'31.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|8°30'36.00" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°30'36.00" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|8°6'12.30" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|10°12'58.36" |Scorpio|Qalb|Sun|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경

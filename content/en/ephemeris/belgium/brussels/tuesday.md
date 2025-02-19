@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'43.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°36'5.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°13'38.15" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|29°51'43.58" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°15'40.86" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°58'26.71" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|3°5'4.14" |Libra|Ghafr|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'7.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°13'49.46" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|29°51'38.07" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Pre-Retrograde Shadow|8°15'40.82" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|6°58'23.34" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|2°43'0.49" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'43.81" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°36'5.30" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'5.30" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°13'38.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°51'43.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°15'40.86" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°58'26.71" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|3°5'4.14" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|29°51'38.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|8°15'40.82" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°58'23.34" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°43'0.49" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: An Bhruiseil, An Bhruiséil, BRU, Breissel, Brisel, Brisele, Briuselis, Brjuksel, Brjusel', Brjussel', Brueksel, Bruessel, Bruesszel, Bruiseal, Bruksel, Bruksela, Brukseli, Brukselo, Brusehl', Brusel, Brusela, Bruselas, Bruseles, Bruselj, Bruselo, Brusel·les, Brussel, Brussele, Brussels, Brussel·les, Bruxel, Bruxelas, Bruxellae, Bruxelles, Brwsel, Bryssel, Bryusel, Bryxelles, Bréissel, Brüksel, Brüssel, Brüsszel, Citta di Bruxelles, Città di Bruxelles, City of Brussels, Kota Brusel, beulwisel, braselasa, braselsa, brassels, briuseli, brwksl, brysl, bu lu sai er, buryusseru, Βρυξέλλες, Брисел, Брусэль, Брюксел, Брюсель, Брюссель, Բրյուսել, בריסל, بروكسل, بروکسل, بريۇسسېل, ܒܪܘܟܣܠ, ब्रसेल्स, ব্রাসেলস, บรัสเซลส์, ბრიუსელი, ブリュッセル, 布魯塞爾, 布鲁塞尔, 브뤼셀

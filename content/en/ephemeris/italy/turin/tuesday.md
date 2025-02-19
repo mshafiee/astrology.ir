@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'36.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°36'2.55" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'2.55" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°13'41.65" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°50'45.45" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°15'18.16" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°15'18.16" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|6°56'38.74" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|2°51'4.29" |Libra|Ghafr|Moon|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°23'36.94" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°36'2.55" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°36'2.55" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°13'41.65" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°50'45.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°15'18.16" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°15'18.16" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°56'38.74" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|2°51'4.29" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린

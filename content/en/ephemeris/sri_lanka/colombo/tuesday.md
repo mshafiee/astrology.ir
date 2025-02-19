@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°21'59.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°35'23.95" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'23.95" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°14'41.26" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°36'52.60" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°9'13.83" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°9'13.83" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|6°31'9.78" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|1°0'59.28" |Libra|Ghafr|Moon|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°21'59.76" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°35'24.82" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'24.82" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°14'39.72" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°37'1.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°9'41.15" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°9'41.15" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°31'16.78" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|29°55'27.30" |Libra|Akleel|Jupiter|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

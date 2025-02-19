@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°21'53.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|11°35'22.67" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'22.67" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°14'45.49" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|29°36'8.48" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°9'16.18" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|8°9'16.18" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|6°29'42.23" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|29°51'22.77" |Virgo|Simak|Mercury|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°21'53.67" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Direct|11°35'22.67" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°35'22.67" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°14'45.49" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°36'8.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°9'16.18" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|8°9'16.18" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°29'42.23" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|29°51'22.77" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|0°57'42.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}

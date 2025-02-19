@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°3'33.36" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|11°54'17.07" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°54'17.07" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°0'49.59" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|5°26'33.67" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|10°5'15.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|10°5'15.27" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|17°13'31.54" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|11°33'58.97" |Sagittarius|NaAaem|Moon|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°3'33.36" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|11°54'17.07" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°54'17.07" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°0'49.59" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|5°26'33.67" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|10°5'15.27" |Aries|Sharatain|Sun|
+|♀ Venus|Pre-Retrograde Shadow|10°5'15.27" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|17°13'31.54" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|11°33'58.97" |Capricorn|SaadAlDhabib|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르
