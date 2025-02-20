@@ -233,7 +233,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|17:40:46|18:45:03|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Saturn|Servant|18:45:04|19:49:22|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Saturn|Servant|18:45:04|19:49:22|Destruction of enemies|
 |3|Jupiter|Servant|19:49:23|20:53:41|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|20:53:42|21:57:59|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Sun|Servant|21:58:00|23:02:18|The moon is in Scorpio, Not suitable for doing anything.|
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°40'47.40" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Pre-Retrograde Shadow|8°57'50.08" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|10°19'27.34" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|25°22'50.01" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°31'15.80" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Mars|Venus|Leo|Moon|Moon|
+|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
