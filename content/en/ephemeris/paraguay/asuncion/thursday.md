@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Jupiter|Ruler|06:39:41|07:43:43|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|07:43:44|08:47:46|Destruction of enemies|
 |3|Sun|Servant|08:47:47|09:51:49|Attraction of financial and emotional love|
-|4|Venus|Servant|09:51:50|10:55:53|Creating love, connection and marriage|
+|4|Venus|Servant|09:51:50|10:55:53|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|10:55:54|11:59:56|Indulgence|
 |6|Moon|Servant|11:59:57|13:03:59|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Saturn|Servant|13:04:00|14:08:02|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°46'4.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°45'36.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°3'26.61" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°0'28.87" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|9°24'46.07" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|12°46'15.60" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°57'45.89" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|11°45'37.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°3'28.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°0'29.60" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Pre-Retrograde Shadow|9°24'52.33" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|12°46'16.60" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|10°38'21.45" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

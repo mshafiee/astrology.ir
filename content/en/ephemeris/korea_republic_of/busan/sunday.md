@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|07:00:52|07:56:56|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Venus|Servant|07:56:57|08:53:02|Unfortunate, no task is suitable|
+|2|Venus|Servant|07:56:57|08:53:02|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mercury|Servant|08:53:03|09:49:08|Operations of tenderness and attraction of love|
 |4|Moon|Servant|09:49:09|10:45:13|Unfortunate and repelling goodness|
 |5|Saturn|Servant|10:45:14|11:41:19|Separation, vengeful and hostile deeds|
