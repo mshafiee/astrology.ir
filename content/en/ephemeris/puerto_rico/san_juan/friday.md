@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°53'37.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°49'15.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°1'58.11" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°3'37.81" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|11°49'14.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°1'48.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°3'43.51" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Pre-Retrograde Shadow|9°43'41.28" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|14°42'23.76" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|23°1'41.82" |Scorpio|Shaulah|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°53'37.71" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°49'14.25" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°1'48.68" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°3'43.52" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|9°43'45.85" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|14°42'27.38" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|23°44'23.74" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|11°49'15.78" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°1'58.05" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°3'37.80" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|9°43'41.17" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|14°42'23.77" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|23°1'40.60" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Venus|Mars|Leo|Moon|Jupiter|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}

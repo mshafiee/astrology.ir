@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:21:52|07:19:25|Love and attraction of capital|
+|1|Sun|Ruler|06:21:52|07:19:25|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Venus|Servant|07:19:26|08:17:00|Unfortunate, no task is suitable|
 |3|Mercury|Servant|08:17:01|09:14:35|Operations of tenderness and attraction of love|
 |4|Moon|Servant|09:14:36|10:12:10|Unfortunate and repelling goodness|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°54'42.48" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°0'49.97" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|5°33'12.96" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|10°6'45.13" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|17°25'37.17" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|13°10'23.58" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Pre-Retrograde Shadow|10°6'45.58" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|17°25'37.37" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|12°56'51.82" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

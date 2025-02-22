@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:24 |
+| Sunset | 18:06:23 |
 | Maghrib | 18:29:40 |
 | Isha (Night) | 19:36:49 |
-| Sharia Midnight | 00:00:16 |
+| Sharia Midnight | 00:00:15 |
 | Imum Coeli | 00:52:36 |
 {{< /tab >}}
 
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:24 |
+| Sunset | 18:06:23 |
 | Maghrib | 18:33:04 |
 | Isha (Night) | 19:36:49 |
 | Sharia Midnight | 23:54:33 |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:24 |
+| Sunset | 18:06:23 |
 | Maghrib | 18:08:58 |
 | Isha (Night) | 19:56:58 |
 | Sharia Midnight | 23:53:32 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:23 |
+| Sunset | 18:06:24 |
 | Maghrib | 18:08:58 |
 | Isha (Night) | 19:43:32 |
-| Sharia Midnight | 00:03:36 |
+| Sharia Midnight | 00:03:37 |
 | Imum Coeli | 00:52:36 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:23 |
+| Sunset | 18:06:24 |
 | Maghrib | 18:08:58 |
 | Isha (Night) | 20:00:20 |
-| Sharia Midnight | 23:48:27 |
+| Sharia Midnight | 23:48:28 |
 | Imum Coeli | 00:52:36 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:24 |
+| Sunset | 18:06:23 |
 | Maghrib | 18:08:58 |
 | Isha (Night) | 20:03:43 |
 | Sharia Midnight | 23:53:32 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:24 |
+| Sunset | 18:06:23 |
 | Maghrib | 18:08:58 |
 | Isha (Night) | 19:38:58 |
 | Sharia Midnight | 23:51:51 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°51'47.26" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°1'11.98" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°46'7.36" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|9°55'5.21" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|16°0'3.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|2°31'53.54" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|9°55'5.33" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|16°0'3.42" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°31'54.23" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

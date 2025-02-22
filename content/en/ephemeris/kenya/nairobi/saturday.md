@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Jupiter|Servant|21:48:05|22:47:24|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mars|Servant|22:47:25|23:46:44|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Sun|Servant|23:46:45|00:46:04|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Venus|Servant|00:46:05|01:45:24|Not suitable for any task|
+|7|Venus|Servant|00:46:05|01:45:24|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mercury|Ruler|01:45:25|02:44:44|Destruction of enemies|
 |9|Moon|Servant|02:44:45|03:44:04|All good deeds|
 |10|Saturn|Servant|03:44:05|04:43:24|Doing evil deeds|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|11°48'11.93" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°2'11.03" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°45'53.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|9°38'41.28" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|14°9'44.30" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|20°2'36.77" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|9°38'30.28" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|14°9'39.53" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|19°39'0.42" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Sun|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Venus|Mars|Leo|Moon|Jupiter|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}

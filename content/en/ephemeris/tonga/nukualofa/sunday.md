@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°2'55.25" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|11°53'57.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°0'49.95" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°21'16.65" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|10°4'2.21" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|17°3'55.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°28'21.64" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|20°2'55.12" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|11°53'56.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°0'50.02" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|5°21'16.66" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Pre-Retrograde Shadow|10°4'2.33" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|17°3'55.20" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|10°28'21.83" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°2'55.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|11°53'57.06" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°0'49.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°21'16.65" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|10°4'2.21" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|17°3'55.21" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|10°28'21.64" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|20°2'55.12" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|11°53'56.86" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°0'50.02" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°21'16.66" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|10°4'2.33" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|17°3'55.20" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|10°28'21.83" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>□ Square|<sub>△ Trine|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파
