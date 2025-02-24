@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°15'26.75" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°0'45.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°1'30.62" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|7°5'19.56" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|10°25'37.68" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|20°11'1.80" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|3°42'26.39" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|20°15'25.99" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Direct|12°0'47.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°1'45.22" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|7°5'7.23" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|10°25'17.29" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|20°10'52.97" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|2°14'14.77" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°15'26.75" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°0'45.49" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|12°0'45.49" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°1'30.62" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|7°5'19.56" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|10°25'37.68" |Aries|Sharatain|Sun|
+|♀ Venus|Retrograde|10°25'37.68" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|20°11'1.80" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|3°42'26.39" |Aquarius|SaadAlSaud|Venus|
 

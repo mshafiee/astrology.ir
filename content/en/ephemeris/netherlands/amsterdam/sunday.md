@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°59'36.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°52'14.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°1'7.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°53'38.68" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|9°57'1.15" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|16°13'46.16" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°8'34.86" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|19°59'36.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°52'16.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°1'17.21" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°53'34.33" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|9°57'2.49" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|16°13'43.97" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°14'13.23" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|19°59'36.60" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°52'14.84" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|11°52'14.84" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°1'7.02" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°53'38.68" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|9°57'1.15" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|9°57'1.15" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|16°13'46.16" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|4°8'34.86" |Capricorn|SaadAlDhabib|Jupiter|
 

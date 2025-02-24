@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°20'39.96" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°3'46.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°2'33.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|7°48'30.50" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|10°32'46.30" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°27'24.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|13°9'34.69" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|20°20'39.83" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Direct|12°3'44.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°2'25.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|7°48'32.72" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|10°32'41.93" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|21°27'24.84" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|13°42'33.57" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Mars|Libra|Moon|Mars|
-|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
+|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°20'39.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°3'44.58" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|12°3'44.58" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°2'25.89" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|7°48'32.72" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|10°32'41.93" |Aries|Sharatain|Sun|
+|♀ Venus|Retrograde|10°32'41.93" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|21°27'24.84" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|13°42'33.57" |Aquarius|SaadAlAkhbia|Mercury|
 

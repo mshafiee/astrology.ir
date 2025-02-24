@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:24 |
+| Sunset | 18:06:23 |
 | Maghrib | 18:08:58 |
 | Isha (Night) | 19:43:32 |
-| Sharia Midnight | 00:03:37 |
+| Sharia Midnight | 00:03:36 |
 | Imum Coeli | 00:52:36 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:39:51 |
 | Dhuhr (Noon) | 12:52:40 |
 | Medium Coeli | 12:52:40 |
-| Sunset | 18:06:24 |
+| Sunset | 18:06:23 |
 | Maghrib | 18:08:58 |
 | Isha (Night) | 20:00:20 |
-| Sharia Midnight | 23:48:28 |
+| Sharia Midnight | 23:48:27 |
 | Imum Coeli | 00:52:36 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:26:32|Night duration: 13:31:16|
+|Duration of the day: 10:26:33|Night duration: 13:31:15|
 |Every hour of day duration: 00:52:13|Every hour of night duration: 01:07:36|
 
  
@@ -219,28 +219,28 @@ Timetable of twelve day and night planetary hours
 |1|Sun|Ruler|07:39:51|08:32:02|Love and attraction of capital|
 |2|Venus|Servant|08:32:03|09:24:15|Unfortunate, no task is suitable|
 |3|Mercury|Servant|09:24:16|10:16:28|Operations of tenderness and attraction of love|
-|4|Moon|Servant|10:16:29|11:08:40|Unfortunate and repelling goodness|
-|5|Saturn|Servant|11:08:41|12:00:53|Separation, vengeful and hostile deeds|
+|4|Moon|Servant|10:16:29|11:08:41|Unfortunate and repelling goodness|
+|5|Saturn|Servant|11:08:42|12:00:53|Separation, vengeful and hostile deeds|
 |6|Jupiter|Servant|12:00:54|12:53:06|Suitable for all good deeds|
-|7|Mars|Servant|12:53:07|13:45:18|No task is suitable, causes misfortune|
-|8|Sun|Ruler|13:45:19|14:37:31|Extremely auspicious and attracts happiness|
-|9|Venus|Servant|14:37:32|15:29:44|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Mercury|Servant|15:29:45|16:21:56|Attracting happiness, solving financial problems|
-|11|Moon|Servant|16:21:57|17:14:09|Performing promises|
-|12|Saturn|Servant|17:14:10|18:06:22|Finding the fugitive and discovering the thief|
+|7|Mars|Servant|12:53:07|13:45:19|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:45:20|14:37:32|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|14:37:33|15:29:44|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|15:29:45|16:21:57|Attracting happiness, solving financial problems|
+|11|Moon|Servant|16:21:58|17:14:10|Performing promises|
+|12|Saturn|Servant|17:14:11|18:06:23|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|18:06:23|19:13:58|Love and attraction of capital|
-|2|Mars|Servant|19:13:59|20:21:34|Unfortunate, no task is suitable|
-|3|Sun|Servant|20:21:35|21:29:11|Operations of tenderness and attraction of love|
-|4|Venus|Servant|21:29:12|22:36:47|Unfortunate and repelling goodness|
-|5|Mercury|Servant|22:36:48|23:44:23|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:44:24|00:52:00|Suitable for all good deeds|
+|1|Jupiter|Ruler|18:06:24|19:13:59|Love and attraction of capital|
+|2|Mars|Servant|19:14:00|20:21:35|Unfortunate, no task is suitable|
+|3|Sun|Servant|20:21:36|21:29:11|Operations of tenderness and attraction of love|
+|4|Venus|Servant|21:29:12|22:36:48|Unfortunate and repelling goodness|
+|5|Mercury|Servant|22:36:49|23:44:24|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|23:44:25|00:52:00|Suitable for all good deeds|
 |7|Saturn|Servant|00:52:01|01:59:36|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:59:37|03:07:12|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|03:07:13|04:14:49|Summoning the person of interest, attracting hearts, heart tenderness|
+|8|Jupiter|Ruler|01:59:37|03:07:13|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|03:07:14|04:14:49|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Sun|Servant|04:14:50|05:22:25|Attracting happiness, solving financial problems|
 |11|Venus|Servant|05:22:26|06:30:01|Performing promises|
 |12|Mercury|Servant|06:30:02|07:37:38|Finding the fugitive and discovering the thief|
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°58'42.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|11°51'47.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°1'11.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°46'7.36" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Pre-Retrograde Shadow|9°55'5.33" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|19°58'42.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|11°51'47.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°1'12.04" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°46'7.37" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|9°55'5.33" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|16°0'3.42" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|2°31'54.23" |Sagittarius|Shaulah|Mercury|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°58'42.51" |Pisces|Rescha|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|11°51'47.26" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°1'11.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°46'7.36" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|9°55'5.21" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|16°0'3.43" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|2°31'53.54" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|19°58'42.39" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|11°51'47.05" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°1'12.04" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°46'7.37" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|9°55'5.33" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|16°0'3.42" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|2°31'54.23" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
