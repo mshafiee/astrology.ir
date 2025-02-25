@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°37'25.82" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|12°13'55.65" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°13'55.65" |Taurus|Dabaran|Moon|
 |♂ Mars|Retrograde|17°7'50.12" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|10°6'50.68" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°47'33.20" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|25°24'10.94" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|17°1'38.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°46'47.06" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|25°23'55.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|15°4'32.27" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Sun|Jupiter|Leo|Moon|Mars|
+|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°37'25.82" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|12°13'55.65" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°7'50.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°6'50.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°47'33.20" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|25°24'10.94" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|20°37'25.94" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°13'55.84" |Gemini|HanAh|Mars|
+|♂ Mars|Retrograde|17°7'50.04" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|10°6'50.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°47'32.99" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|25°24'10.93" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|17°1'38.48" |Pisces|FarghAlMuakhar|Jupiter|
 
 

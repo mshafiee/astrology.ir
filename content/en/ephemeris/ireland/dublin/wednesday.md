@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:37:47 |
 | Sunset | 17:57:53 |
 | Maghrib | 18:21:01 |
-| Isha (Night) | 19:28:16 |
+| Isha (Night) | 19:28:17 |
 | Sharia Midnight | 23:45:19 |
 | Imum Coeli | 00:37:41 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°21'37.24" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|12°4'18.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°2'48.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|7°56'23.99" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Retrograde|10°33'48.01" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°41'18.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°41'0.02" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°4'18.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Retrograde|17°2'42.08" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|7°56'24.93" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|10°33'41.02" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|21°41'17.72" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|15°4'27.69" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Mars|Libra|Moon|Mars|
-|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
+|☾ Moon|Sun|Venus|Cancer|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°21'37.24" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|12°4'18.55" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°4'18.55" |Gemini|HanAh|Mars|
 |♂ Mars|Retrograde|17°2'42.08" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|7°56'24.93" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|10°33'41.02" |Aries|Sharatain|Sun|
