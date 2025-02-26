@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°20'51.49" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°3'51.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°2'27.02" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|20°20'51.61" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°3'51.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°2'26.94" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|7°50'9.75" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Retrograde|10°32'31.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°33'0.32" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|21°30'13.52" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°25'7.03" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|14°16'0.71" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Saturn|Saturn|
 |♀ Venus|Venus|Jupiter|Moon|Sun|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Mars|Libra|Moon|Mars|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°20'51.61" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|12°3'51.45" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°2'26.94" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°2'26.94" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|7°50'9.75" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|10°33'0.32" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|21°30'13.52" |Pisces|Rescha|Mars|

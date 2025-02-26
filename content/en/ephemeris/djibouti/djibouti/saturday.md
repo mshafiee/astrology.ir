@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°42'22.68" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|12°17'6.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°10'9.43" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°10'9.43" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|10°47'29.15" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|10°49'29.60" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|26°30'58.47" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°42'22.68" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°17'5.16" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°10'8.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°47'19.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°48'52.61" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|26°30'47.89" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|25°29'29.61" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°17'6.39" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°10'9.43" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|10°47'29.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°49'29.60" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|26°30'58.47" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°47'57.26" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Venus|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Saturn|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
