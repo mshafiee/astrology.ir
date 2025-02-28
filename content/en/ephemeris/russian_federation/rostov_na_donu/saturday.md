@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°42'34.13" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°17'14.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Retrograde|17°10'21.04" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|10°49'0.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°49'20.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°17'14.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°10'18.34" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|10°49'1.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°49'22.20" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|26°33'32.29" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|26°34'49.09" |Aquarius|FarghAlMuqaddam|Moon|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°42'34.13" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°17'14.56" |Gemini|HanAh|Mars|
-|♂ Mars|Retrograde|17°10'21.04" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°49'0.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°49'20.08" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|26°33'31.20" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°34'49.09" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|12°17'14.19" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°10'18.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|10°49'1.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°49'22.20" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|26°33'32.29" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°43'35.64" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Saturn|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

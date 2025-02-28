@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°51'52.45" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°23'24.99" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°23'24.99" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°15'28.26" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|12°5'21.68" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|10°50'13.67" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|28°34'23.85" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°47'30.07" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|15°46'46.26" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°51'52.45" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°23'24.99" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|12°23'24.99" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|17°15'28.26" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|12°5'21.68" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°50'13.67" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|28°34'23.85" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°47'30.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°46'46.26" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°47'59.93" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°20'48.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°13'11.39" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|11°33'35.80" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°50'19.85" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|27°44'51.21" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°12'0.14" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|20°47'59.80" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Direct|12°20'48.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°13'11.46" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|11°33'35.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°50'20.09" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|27°44'51.22" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|7°50'20.17" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Moon|
 |♀ Venus|Venus|Jupiter|Moon|Sun|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°47'59.80" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°20'48.43" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|12°20'48.43" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|17°13'11.46" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|11°33'35.82" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°50'20.09" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|27°44'53.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|8°12'0.22" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|27°44'51.22" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°50'20.17" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
