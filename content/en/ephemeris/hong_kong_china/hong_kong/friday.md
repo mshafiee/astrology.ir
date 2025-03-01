@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°40'57.64" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|12°16'11.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°9'28.60" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|10°35'50.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°48'59.34" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|26°12'0.20" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|23°50'30.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|20°40'57.52" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°16'11.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°9'41.66" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|10°35'35.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°48'26.33" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|26°11'48.38" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|22°15'41.24" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°40'57.52" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|12°16'11.22" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°9'28.68" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|20°40'57.64" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°16'11.42" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°9'28.60" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|10°35'50.26" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°48'59.34" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|26°12'0.20" |Pisces|Rescha|Mars|

@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:44:35 |
 | Sunset | 18:38:44 |
 | Maghrib | 18:43:06 |
-| Isha (Night) | 19:51:01 |
+| Isha (Night) | 19:51:02 |
 | Sharia Midnight | 00:03:59 |
 | Imum Coeli | 00:44:28 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°7'20.77" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|12°34'17.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°26'31.66" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°11'46.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°42'36.73" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|1°39'17.51" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|16°9'50.36" |Aries|Butain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|12°34'17.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°26'31.66" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°11'47.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°42'38.96" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|1°39'18.28" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|16°14'27.14" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°7'20.64" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|12°34'17.37" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°26'31.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°11'46.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°42'36.45" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|1°39'17.50" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|16°9'50.54" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|21°7'20.77" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°34'17.44" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°26'31.66" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°11'47.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°42'38.96" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|1°39'18.28" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|16°14'27.14" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

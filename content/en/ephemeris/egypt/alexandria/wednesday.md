@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:01:45 |
 | Maghrib | 18:17:41 |
 | Isha (Night) | 19:04:30 |
-| Sharia Midnight | 23:35:22 |
+| Sharia Midnight | 23:35:23 |
 | Imum Coeli | 00:11:38 |
 {{< /tab >}}
 
@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°12'7.24" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|12°37'47.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°30'32.37" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°37'47.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°30'32.37" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|14°50'41.43" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|10°38'1.35" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|2°31'39.70" |Pisces|FarghAlMuqaddam|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°12'7.24" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|12°37'47.68" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°30'32.37" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°50'41.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°38'1.35" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|2°31'39.70" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°22'20.27" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|12°37'46.19" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°30'28.08" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°50'35.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°37'33.92" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|2°31'31.63" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|24°15'32.01" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Leo|Moon|Jupiter|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Mars|Mars|Taurus|Sun|Mars|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
