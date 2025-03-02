@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:12:22|Night duration: 12:45:18|
+|Duration of the day: 11:12:22|Night duration: 12:45:17|
 |Every hour of day duration: 00:56:02|Every hour of night duration: 01:03:46|
 
  
@@ -233,17 +233,17 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|18:27:16|19:31:01|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|19:31:02|20:34:48|Destruction of enemies|
-|3|Jupiter|Servant|20:34:49|21:38:34|Attraction of financial and emotional love|
-|4|Mars|Servant|21:38:35|22:42:21|Creating love, connection and marriage|
-|5|Sun|Servant|22:42:22|23:46:07|Indulgence|
-|6|Venus|Servant|23:46:08|00:49:54|Outer and inner journey|
-|7|Mercury|Servant|00:49:55|01:53:40|Achieving status and power|
-|8|Moon|Ruler|01:53:41|02:57:27|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:57:28|04:01:13|Reaching status and promotion|
-|10|Jupiter|Servant|04:01:14|05:05:00|Fulfilling needs|
-|11|Mars|Servant|05:05:01|06:08:46|Attraction of love and hearts|
-|12|Sun|Servant|06:08:47|07:12:33|Attracting misfortune, not suitable for any task|
+|2|Saturn|Servant|19:31:02|20:34:47|Destruction of enemies|
+|3|Jupiter|Servant|20:34:48|21:38:34|Attraction of financial and emotional love|
+|4|Mars|Servant|21:38:35|22:42:20|Creating love, connection and marriage|
+|5|Sun|Servant|22:42:21|23:46:07|Indulgence|
+|6|Venus|Servant|23:46:08|00:49:53|Outer and inner journey|
+|7|Mercury|Servant|00:49:54|01:53:39|Achieving status and power|
+|8|Moon|Ruler|01:53:40|02:57:26|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:57:27|04:01:12|Reaching status and promotion|
+|10|Jupiter|Servant|04:01:13|05:04:59|Fulfilling needs|
+|11|Mars|Servant|05:05:00|06:08:45|Attraction of love and hearts|
+|12|Sun|Servant|06:08:46|07:12:32|Attracting misfortune, not suitable for any task|
 
  
  

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°47'22.85" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°20'23.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°12'47.77" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|11°28'32.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°50'27.33" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|27°36'49.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°58'2.35" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|20°47'22.73" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°20'23.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°12'47.84" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|11°28'18.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°49'57.78" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|27°36'38.71" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°41'42.17" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°47'22.85" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°20'23.71" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°12'47.77" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|12°20'23.52" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°12'47.84" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|11°28'32.98" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°50'27.33" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|27°36'49.98" |Pisces|Rescha|Mars|

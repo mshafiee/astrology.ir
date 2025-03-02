@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°55'20.10" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°25'46.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°17'40.18" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|12°33'42.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°49'34.11" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|29°17'38.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|22°49'29.29" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|20°55'20.23" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°25'47.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°17'40.11" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|12°33'42.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°49'33.86" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|29°17'38.61" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|22°49'29.13" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°55'20.10" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°25'46.90" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°17'40.18" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|12°33'42.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°49'34.11" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|29°17'38.62" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|22°49'29.29" |Aries|Butain|Venus|
+|♄ Saturn|Direct|20°55'20.23" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°25'47.09" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°17'40.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|12°33'42.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°49'33.86" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|29°17'38.61" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|22°49'29.13" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:07:32 |
 | Dhuhr (Noon) | 12:14:30 |
 | Medium Coeli | 12:14:30 |
-| Sunset | 18:21:21 |
+| Sunset | 18:21:20 |
 | Maghrib | 18:22:14 |
 | Isha (Night) | 19:32:13 |
 | Sharia Midnight | 23:39:00 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:07:32 |
 | Dhuhr (Noon) | 12:14:30 |
 | Medium Coeli | 12:14:30 |
-| Sunset | 18:21:21 |
+| Sunset | 18:21:20 |
 | Maghrib | 18:22:14 |
 | Isha (Night) | 19:52:14 |
-| Sharia Midnight | 23:37:59 |
+| Sharia Midnight | 23:37:58 |
 | Imum Coeli | 00:14:23 |
 {{< /tab >}}
 
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|17°41'21.04" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|16°25'16.58" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|10°22'41.36" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|4°28'15.14" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|16°53'6.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|4°28'32.25" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|17°14'36.97" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Leo|Moon|Mars|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mars|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|21°23'44.84" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|12°46'36.19" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|17°41'21.04" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|16°25'0.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°21'49.68" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|4°28'15.14" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|16°53'6.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|16°25'16.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°22'41.36" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|4°28'32.25" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|17°14'36.97" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
-|☾ Moon|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:03:26 |
+| Fajr (Dawn) | 05:03:25 |
 | Sunrise | 06:41:03 |
 | Dhuhr (Noon) | 12:23:11 |
 | Medium Coeli | 12:23:11 |
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°2'59.34" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|21°2'59.33" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|12°31'9.46" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|17°23'8.80" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|13°36'13.50" |Pisces|FarghAlMuakhar|Jupiter|
