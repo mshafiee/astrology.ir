@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°29'4.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°50'46.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°47'1.61" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|17°8'22.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°12'57.90" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|5°16'30.92" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|27°37'49.06" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|12°50'46.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°46'51.18" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|17°8'34.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°13'29.14" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|5°16'41.77" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|27°0'8.11" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -324,10 +324,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Mars|Libra|Moon|Mars|
 |♃ Jupiter|Moon|Mars|Libra|Moon|Venus|
 |♂ Mars|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☉ Sun|Sun|Jupiter|Leo|Moon|Mars|
+|☉ Sun|Venus|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°29'4.85" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|12°50'46.77" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°46'50.95" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°46'50.95" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|17°8'34.92" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|10°13'29.24" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|5°16'41.82" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|5°16'41.82" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|26°58'50.66" |Gemini|Dhira|Sun|
 
 

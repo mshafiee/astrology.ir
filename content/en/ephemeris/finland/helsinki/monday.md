@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°57'37.71" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|12°27'23.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°19'18.47" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°19'18.47" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|12°52'25.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°48'10.39" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|29°45'37.35" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|26°21'55.55" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|10°48'26.18" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|29°45'43.24" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|26°46'16.36" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°57'37.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°27'22.82" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°19'18.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|12°52'25.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°48'26.44" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|29°45'43.25" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°46'16.53" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|20°57'37.71" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°27'23.01" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°19'18.47" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|12°52'25.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°48'26.18" |Aries|Sharatain|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|29°45'43.24" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°46'16.36" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

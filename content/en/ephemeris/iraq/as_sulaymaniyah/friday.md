@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°26'34.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°48'48.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°44'16.40" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|16°48'15.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°17'46.61" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|4°54'32.80" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|22°29'1.60" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|21°26'34.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°48'48.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°44'16.34" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|16°48'15.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°17'46.32" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|4°54'32.79" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|22°29'2.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°26'34.64" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°48'48.71" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°44'16.40" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|16°48'15.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°17'46.61" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|4°54'32.80" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|22°29'1.60" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|21°26'34.77" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°48'48.90" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°44'16.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|16°48'15.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°17'46.32" |Aries|Sharatain|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|4°54'32.79" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|22°29'2.61" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

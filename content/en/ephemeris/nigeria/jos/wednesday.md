@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°12'30.39" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°38'4.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°30'50.93" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°53'50.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°37'42.96" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|2°35'47.25" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|26°11'8.49" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|21°12'30.27" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°38'4.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°30'50.99" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°53'50.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°37'43.25" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|2°35'47.27" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|26°11'7.99" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°12'30.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°38'4.67" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°30'50.93" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°53'50.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°37'42.96" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|2°35'47.25" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|26°11'8.49" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|21°12'30.27" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°38'4.48" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°30'50.99" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°53'50.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°37'43.25" |Aries|Sharatain|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|2°35'47.27" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|26°11'7.99" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:22:03 |
 | Medium Coeli | 12:22:03 |
 | Sunset | 18:01:17 |
-| Maghrib | 18:06:28 |
+| Maghrib | 18:06:27 |
 | Isha (Night) | 19:32:59 |
 | Sharia Midnight | 23:32:59 |
 | Imum Coeli | 00:21:56 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:22:03 |
 | Sunset | 18:01:17 |
 | Maghrib | 18:06:28 |
-| Isha (Night) | 19:36:28 |
+| Isha (Night) | 19:36:27 |
 | Sharia Midnight | 23:31:35 |
 | Imum Coeli | 00:21:56 |
 {{< /tab >}}
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°57'47.47" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|12°27'29.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°19'23.45" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°19'23.45" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|12°53'45.57" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|10°48'28.85" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|29°47'41.24" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|29°47'41.24" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|27°17'15.19" |Pisces|Rescha|Mars|
 
 
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°57'47.47" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|12°27'29.59" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°19'23.45" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°19'23.45" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|12°53'45.57" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°48'28.85" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|29°47'41.24" |Pisces|Rescha|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|29°47'41.24" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|27°17'15.19" |Aries|Thurayya|Venus|
 
 

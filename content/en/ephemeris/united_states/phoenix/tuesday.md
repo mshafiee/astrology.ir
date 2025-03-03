@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:46:47 |
 | Isha (Night) | 19:32:23 |
 | Sharia Midnight | 23:58:23 |
-| Imum Coeli | 00:39:43 |
+| Imum Coeli | 00:39:44 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:31:09 |
 | Isha (Night) | 20:01:09 |
 | Sharia Midnight | 23:56:28 |
-| Imum Coeli | 00:39:43 |
+| Imum Coeli | 00:39:44 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°15'2.19" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|12°39'58.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°33'6.96" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°33'6.96" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|15°14'25.79" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|10°34'42.36" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|3°2'25.73" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|3°2'25.73" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|0°55'32.30" |Taurus|Thurayya|Mercury|
 
 
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°15'2.19" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|12°39'58.04" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°33'6.96" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°33'6.96" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|15°14'25.79" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°34'42.36" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|3°2'25.73" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|3°2'25.73" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|0°55'32.30" |Gemini|HaqAh|Jupiter|
 
 

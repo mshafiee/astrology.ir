@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:12:22|Night duration: 12:45:18|
+|Duration of the day: 11:12:22|Night duration: 12:45:17|
 |Every hour duration: 01:36:03|Every hour duration: 01:49:20|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Moon|Ruler|18:27:16|20:16:34|
 |Late evening|Saturn|Servant|20:16:35|22:05:54|
-|Midnight|Jupiter|Servant|22:05:55|23:55:14|
-|Late at night|Mars|Servant|23:55:15|01:44:33|
-|Rooster song|Sun|Servant|01:44:34|03:33:53|
-|False Dawn|Venus|Servant|03:33:54|05:23:13|
-|Dawn|Mercury|Servant|05:23:14|07:12:33|
+|Midnight|Jupiter|Servant|22:05:55|23:55:13|
+|Late at night|Mars|Servant|23:55:14|01:44:33|
+|Rooster song|Sun|Servant|01:44:34|03:33:52|
+|False Dawn|Venus|Servant|03:33:53|05:23:12|
+|Dawn|Mercury|Servant|05:23:13|07:12:32|
 
 {{< /tab >}}
 
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°19'9.24" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|12°43'4.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°36'57.21" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°36'57.21" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|15°47'55.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|10°29'14.24" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|3°44'15.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|3°44'15.52" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|8°40'23.38" |Taurus|Dabaran|Mercury|
 
 
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°19'9.24" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|12°43'4.83" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°36'57.21" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°36'57.21" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|15°47'55.89" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°29'14.24" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|3°44'15.52" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|3°44'15.52" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|8°40'23.38" |Gemini|HanAh|Jupiter|
 
 
