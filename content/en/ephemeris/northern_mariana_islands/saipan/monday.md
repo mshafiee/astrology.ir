@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°2'20.49" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°30'41.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°22'37.63" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|13°30'57.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°46'19.04" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|0°41'55.49" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|6°30'52.21" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°30'41.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°22'39.22" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|13°30'57.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°46'23.00" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|0°41'56.49" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°43'21.85" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°2'20.49" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°30'41.58" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°22'37.63" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|12°30'41.79" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°22'37.63" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|13°30'57.18" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°46'19.04" |Aries|Sharatain|Sun|
-|☿ Mercury|Pre-Retrograde Shadow|0°41'55.49" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|0°41'55.49" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|6°30'52.21" |Taurus|Thurayya|Mercury|
 
 

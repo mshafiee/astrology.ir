@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:43:46 |
+| Fajr (Dawn) | 05:43:47 |
 | Sunrise | 06:42:34 |
 | Dhuhr (Noon) | 12:41:42 |
 | Medium Coeli | 12:41:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°21'27.53" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°44'50.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°39'6.26" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|16°6'40.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°26'10.43" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|4°6'47.09" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|13°1'3.78" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|21°21'27.40" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°44'50.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°39'6.32" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|16°6'40.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°26'10.72" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|4°6'47.11" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|13°1'2.89" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°21'27.53" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°44'50.29" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°39'6.26" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|16°6'40.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°26'10.43" |Aries|Sharatain|Sun|
-|☿ Mercury|Pre-Retrograde Shadow|4°6'47.09" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°1'3.78" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|21°21'27.40" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°44'50.10" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°39'6.32" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|16°6'40.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°26'9.52" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|4°6'46.85" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°57'2.08" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

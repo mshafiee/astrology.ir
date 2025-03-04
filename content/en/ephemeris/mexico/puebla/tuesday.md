@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°14'43.32" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°39'43.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°32'48.88" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|15°11'52.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°35'9.79" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|2°59'9.38" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|0°22'21.63" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|21°14'43.20" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°39'43.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°32'48.94" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|15°11'52.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°35'10.07" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|2°59'9.39" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|0°22'21.01" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°14'43.32" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°39'43.78" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°32'48.88" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|15°11'52.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°35'9.79" |Aries|Sharatain|Sun|
-|☿ Mercury|Pre-Retrograde Shadow|2°59'9.38" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°22'21.63" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|21°14'43.20" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°39'43.60" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°32'48.94" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|15°11'52.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°35'10.07" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|2°59'9.39" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°22'21.01" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

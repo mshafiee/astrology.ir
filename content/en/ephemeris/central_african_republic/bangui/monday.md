@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°57'33.37" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|12°27'19.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°19'10.57" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|12°51'51.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°48'46.27" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|29°44'49.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|27°9'43.39" |Pisces|Rescha|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°19'10.57" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|12°51'41.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°48'7.61" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|29°44'37.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|25°41'40.60" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Moon|
 |♀ Venus|Venus|Jupiter|Moon|Sun|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|20°57'33.37" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|12°27'19.41" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°19'10.57" |Cancer|Tarf|Mercury|
+|♂ Mars|Post-Retrograde Shadow|17°19'10.57" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|12°51'51.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°48'46.27" |Aries|Sharatain|Sun|
-|☿ Mercury|Pre-Retrograde Shadow|29°44'49.33" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|29°44'49.33" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|27°9'43.39" |Aries|Thurayya|Venus|
 
 
