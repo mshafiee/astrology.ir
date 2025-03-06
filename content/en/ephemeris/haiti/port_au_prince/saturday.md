@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°43'45.40" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°2'41.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°3'37.13" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°7'32.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°41'27.78" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°9'42.54" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|23°7'48.90" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|13°2'42.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°3'49.27" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°7'18.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°40'49.84" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|7°9'29.23" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|24°24'13.06" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°43'45.40" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|21°43'45.27" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|13°2'41.90" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|18°3'37.13" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|19°7'32.52" |Pisces|Rescha|Jupiter|

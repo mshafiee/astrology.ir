@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:07:32 |
 | Dhuhr (Noon) | 12:14:30 |
 | Medium Coeli | 12:14:30 |
-| Sunset | 18:21:21 |
+| Sunset | 18:21:20 |
 | Maghrib | 18:35:07 |
 | Isha (Night) | 19:15:52 |
 | Sharia Midnight | 23:43:05 |
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:07:32 |
 | Dhuhr (Noon) | 12:14:30 |
 | Medium Coeli | 12:14:30 |
-| Sunset | 18:21:21 |
+| Sunset | 18:21:20 |
 | Maghrib | 18:37:09 |
 | Isha (Night) | 19:15:52 |
-| Sharia Midnight | 23:39:37 |
+| Sharia Midnight | 23:39:36 |
 | Imum Coeli | 00:14:23 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:07:32 |
 | Dhuhr (Noon) | 12:14:30 |
 | Medium Coeli | 12:14:30 |
-| Sunset | 18:21:20 |
+| Sunset | 18:21:21 |
 | Maghrib | 18:22:14 |
 | Isha (Night) | 19:28:07 |
 | Sharia Midnight | 23:39:00 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:07:32 |
 | Dhuhr (Noon) | 12:14:30 |
 | Medium Coeli | 12:14:30 |
-| Sunset | 18:21:20 |
+| Sunset | 18:21:21 |
 | Maghrib | 18:22:14 |
 | Isha (Night) | 19:19:57 |
-| Sharia Midnight | 23:45:07 |
+| Sharia Midnight | 23:45:08 |
 | Imum Coeli | 00:14:23 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:07:32 |
 | Dhuhr (Noon) | 12:14:30 |
 | Medium Coeli | 12:14:30 |
-| Sunset | 18:21:21 |
+| Sunset | 18:21:20 |
 | Maghrib | 18:22:14 |
 | Isha (Night) | 19:30:10 |
-| Sharia Midnight | 23:35:56 |
+| Sharia Midnight | 23:35:55 |
 | Imum Coeli | 00:14:23 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:07:32 |
 | Dhuhr (Noon) | 12:14:30 |
 | Medium Coeli | 12:14:30 |
-| Sunset | 18:21:20 |
+| Sunset | 18:21:21 |
 | Maghrib | 18:22:14 |
 | Isha (Night) | 19:32:13 |
 | Sharia Midnight | 23:39:00 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:13:49|Night duration: 11:46:11|
+|Duration of the day: 12:13:48|Night duration: 11:46:12|
 |Every hour of day duration: 01:01:09|Every hour of night duration: 00:58:51|
 
  
@@ -227,12 +227,12 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|14:16:44|15:17:52|Reaching status and promotion|
 |10|Sun|Servant|15:17:53|16:19:01|Fulfilling needs|
 |11|Venus|Servant|16:19:02|17:20:10|Attraction of love and hearts|
-|12|Mercury|Servant|17:20:11|18:21:20|Attracting misfortune, not suitable for any task|
+|12|Mercury|Servant|17:20:11|18:21:19|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|18:21:21|19:20:10|Attraction of material wealth, earning and prosperity|
+|1|Moon|Ruler|18:21:20|19:20:10|Attraction of material wealth, earning and prosperity|
 |2|Saturn|Servant|19:20:11|20:19:01|Destruction of enemies|
 |3|Jupiter|Servant|20:19:02|21:17:52|Attraction of financial and emotional love|
 |4|Mars|Servant|21:17:53|22:16:43|Creating love, connection and marriage|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°23'44.84" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°46'36.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°41'21.04" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|16°25'16.58" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°22'41.36" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|4°28'32.25" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|17°14'36.97" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°46'35.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°41'23.66" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|16°25'2.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°21'53.21" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|4°28'16.51" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|16°34'10.84" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Leo|Moon|Mars|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mars|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°23'44.84" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°46'36.19" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°41'21.04" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|16°25'16.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°22'41.36" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|4°28'32.25" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|17°14'36.97" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|21°23'44.71" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°46'36.01" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°41'21.10" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|16°25'16.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°21'49.96" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|4°28'15.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|16°45'35.42" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
-|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:13 |
-| Sunrise | 07:12:33 |
+| Sunrise | 07:12:34 |
 | Dhuhr (Noon) | 12:50:21 |
 | Medium Coeli | 12:50:21 |
 | Sunset | 18:29:08 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:36:03 |
-| Sunrise | 07:12:33 |
+| Sunrise | 07:12:34 |
 | Dhuhr (Noon) | 12:50:21 |
 | Medium Coeli | 12:50:21 |
 | Sunset | 18:29:08 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:57 |
-| Sunrise | 07:12:34 |
+| Sunrise | 07:12:33 |
 | Dhuhr (Noon) | 12:50:21 |
 | Medium Coeli | 12:50:21 |
 | Sunset | 18:29:08 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°26'32.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°48'47.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°44'17.65" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|16°47'53.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°17'42.94" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|4°54'8.91" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|22°39'24.46" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|21°26'32.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°48'46.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°44'15.43" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|16°47'53.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°17'43.34" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|4°54'9.08" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|22°26'16.13" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mars|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
