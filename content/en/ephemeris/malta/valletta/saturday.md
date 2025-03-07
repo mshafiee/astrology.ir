@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°34'36.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°55'11.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°52'55.02" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|17°53'22.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°2'24.58" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|6°2'40.45" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|7°2'48.93" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|21°34'36.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°55'11.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°52'55.08" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|17°53'22.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°2'24.87" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|6°2'40.47" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°2'47.73" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°34'36.29" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°55'11.78" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°52'55.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|17°53'22.50" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|10°2'24.58" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|6°2'40.45" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°2'48.93" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°34'36.16" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°55'11.60" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°52'55.08" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|17°53'22.52" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|10°2'24.87" |Aries|Sharatain|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|6°2'40.47" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°2'47.73" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

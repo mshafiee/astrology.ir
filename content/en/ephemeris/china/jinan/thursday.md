@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:35:52 |
 | Dhuhr (Noon) | 12:23:15 |
 | Medium Coeli | 12:23:15 |
-| Sunset | 18:11:11 |
+| Sunset | 18:11:10 |
 | Maghrib | 18:28:09 |
 | Isha (Night) | 19:18:06 |
 | Sharia Midnight | 23:44:25 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:35:52 |
 | Dhuhr (Noon) | 12:23:15 |
 | Medium Coeli | 12:23:15 |
-| Sunset | 18:11:11 |
+| Sunset | 18:11:10 |
 | Maghrib | 18:12:18 |
 | Isha (Night) | 19:33:07 |
-| Sharia Midnight | 23:39:25 |
+| Sharia Midnight | 23:39:24 |
 | Imum Coeli | 00:23:07 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:35:52 |
 | Dhuhr (Noon) | 12:23:15 |
 | Medium Coeli | 12:23:15 |
-| Sunset | 18:11:11 |
+| Sunset | 18:11:10 |
 | Maghrib | 18:12:18 |
 | Isha (Night) | 19:23:06 |
 | Sharia Midnight | 23:46:55 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:35:52 |
 | Dhuhr (Noon) | 12:23:15 |
 | Medium Coeli | 12:23:15 |
-| Sunset | 18:11:11 |
+| Sunset | 18:11:10 |
 | Maghrib | 18:12:18 |
 | Isha (Night) | 19:42:18 |
 | Sharia Midnight | 23:38:09 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|17°42'46.27" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|16°36'20.49" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|10°20'15.33" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|4°41'11.32" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|4°41'11.32" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|19°47'1.99" |Taurus|Dabaran|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|17°42'46.27" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|16°36'20.49" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°20'15.33" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|4°41'11.32" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|4°41'11.32" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|19°47'1.99" |Gemini|Dhira|Mars|
 
 

@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°17'53.99" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|20°37'53.13" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Retrograde|9°10'53.32" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|8°15'4.17" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|8°15'4.17" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|12°13'57.34" |Cancer|Nathrah|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°54'55.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°12'10.46" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°17'53.99" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|20°37'53.13" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|9°10'53.32" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|8°15'4.17" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°13'57.34" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|13°12'9.42" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°17'50.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|20°37'51.76" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|9°10'44.82" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|8°15'1.08" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°2'33.46" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루

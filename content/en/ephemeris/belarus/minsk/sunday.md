@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°41'46.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°1'5.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°1'23.65" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|18°51'29.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°46'11.15" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°56'13.52" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|20°38'47.93" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|13°1'3.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°1'16.47" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|18°51'30.24" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°46'4.62" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|6°56'11.53" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|19°56'14.40" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°1'16.47" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|18°51'30.24" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|9°46'4.62" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°56'11.53" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|6°56'11.53" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|19°56'14.40" |Cancer|Tarf|Mercury|
 
 

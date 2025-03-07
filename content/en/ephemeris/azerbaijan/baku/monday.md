@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°48'40.73" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|13°6'50.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°9'47.32" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°47'22.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°28'27.50" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°40'46.92" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°51'47.70" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|18°9'46.32" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°47'13.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°27'50.42" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°40'34.12" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°0'46.22" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°9'47.32" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|19°47'22.78" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|9°28'27.50" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°40'46.92" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°40'46.92" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|1°51'47.70" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠

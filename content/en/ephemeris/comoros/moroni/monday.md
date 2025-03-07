@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°48'44.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|21°48'44.38" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|13°6'53.01" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|18°9'49.00" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|19°47'53.62" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|9°28'33.37" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°41'11.24" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°41'11.24" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|1°37'25.03" |Cancer|Nathrah|Venus|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°48'44.38" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|13°6'53.01" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°9'49.21" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°47'40.20" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°27'43.93" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°40'54.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°58'17.16" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|18°9'49.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°47'53.62" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°28'33.37" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°41'11.24" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°37'25.03" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°9'43.28" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|19°47'4.99" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|9°28'39.73" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°40'19.53" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°58'10.85" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|7°40'34.45" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|1°39'54.17" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°9'43.28" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|19°47'4.99" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|9°28'39.73" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°40'34.45" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°40'34.45" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|1°39'54.17" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al Manama, Al Manamah, Al Manāma, Al Manāmah, Al-Manama, Al-Manamah, Al-Manāmah, Maenamae, Manaama, Manam, Manama, Manamae, Manamah, Manameh, Manamo, Manáma, Manāma, Menama, Mename, Mänamä, WGF, aalmanamat, almnamh, almnamt, mai na ma, mai na mai, manama, mnamh, mnamہ, Μανάμα, Манамæ, Манама, Մանամա, מנאמה, المنامة, المنامه, اَلْمَنَامَة, منامه, منامہ, مەنامە, मनामा, মানামা, ਮਨਾਮਾ, ମାନାମା, மனாமா, മനാമ, มานามา, མ་ན་མ།, მანამა, ማናማ, マナーマ, 麥納瑪, 麦纳麦, 마나마

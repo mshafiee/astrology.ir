@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°19'51.37" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°43'36.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°37'36.56" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|15°53'38.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°28'18.15" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|3°51'11.56" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|10°0'18.32" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|21°19'51.50" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°43'37.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°37'36.49" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|15°53'38.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°28'17.86" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|3°51'11.55" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|10°0'19.16" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°19'51.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°43'36.87" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°37'36.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|15°53'38.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°28'18.15" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|3°51'11.56" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°0'18.32" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|21°19'51.50" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°43'37.06" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°37'36.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|15°53'38.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°28'17.86" |Aries|Sharatain|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|3°51'11.55" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|10°0'19.16" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

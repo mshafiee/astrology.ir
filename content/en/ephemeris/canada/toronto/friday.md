@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:28:32 |
 | Sunset | 18:14:32 |
 | Maghrib | 18:17:05 |
-| Isha (Night) | 19:51:21 |
+| Isha (Night) | 19:51:20 |
 | Sharia Midnight | 23:39:42 |
 | Imum Coeli | 00:28:24 |
 {{< /tab >}}
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|17°55'8.06" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|18°9'9.57" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|9°58'11.09" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|6°17'54.41" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|6°17'54.41" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|10°34'39.79" |Gemini|HanAh|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|17°55'8.06" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|18°9'9.57" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|9°58'11.09" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°17'54.41" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|6°17'54.41" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|10°34'39.79" |Cancer|Nathrah|Mercury|
 
 

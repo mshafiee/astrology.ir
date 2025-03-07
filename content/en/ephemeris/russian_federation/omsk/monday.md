@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°48'13.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'27.65" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°9'14.83" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°43'46.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°29'32.92" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°38'6.04" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°14'55.47" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°48'14.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'27.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°9'14.77" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°43'46.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°29'32.66" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°38'6.03" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|1°14'57.08" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°48'13.92" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'27.65" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°9'14.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°43'46.29" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°29'32.92" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°38'6.04" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°14'55.47" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|21°48'14.05" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'27.83" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°9'14.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°43'46.28" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°29'32.66" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°38'6.03" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°14'57.08" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

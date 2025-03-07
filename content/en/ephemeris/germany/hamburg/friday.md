@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°27'21.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°49'25.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°45'6.75" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|16°54'35.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°16'16.65" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|5°1'32.59" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|23°57'28.56" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|21°27'21.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|12°49'25.92" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°45'6.69" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|16°54'35.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°16'16.36" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|5°1'32.57" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|23°57'29.58" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°27'21.55" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|12°49'25.73" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|17°45'6.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|16°54'35.73" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|10°16'16.65" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|5°1'32.59" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|23°57'28.56" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|21°27'21.67" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|12°49'25.92" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|17°45'6.69" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|16°54'35.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|10°16'16.36" |Aries|Sharatain|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|5°1'32.57" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|23°57'29.58" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

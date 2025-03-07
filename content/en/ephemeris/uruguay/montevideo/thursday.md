@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:24:09 |
+| Fajr (Dawn) | 05:24:08 |
 | Sunrise | 06:36:14 |
 | Dhuhr (Noon) | 12:55:52 |
 | Medium Coeli | 12:55:52 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°28'31.26" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|12°50'20.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|17°46'15.27" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|17°4'2.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|10°14'31.88" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|5°11'48.89" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|25°57'32.74" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|12°50'19.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|17°46'14.99" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|17°3'57.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|10°14'13.07" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|5°11'42.78" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|25°41'9.00" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Leo|Moon|Mars|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|17°46'15.27" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|17°4'2.48" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|10°14'31.88" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|5°11'48.89" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|5°11'48.89" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|25°57'32.74" |Gemini|Dhira|Sun|
 
 

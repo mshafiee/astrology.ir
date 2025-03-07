@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°8'48.46" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|19°41'16.91" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|9°30'37.07" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°36'15.92" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°36'15.92" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|0°24'11.70" |Cancer|Nathrah|Venus|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|13°6'11.77" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|18°8'48.46" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|19°41'16.91" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°30'37.07" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°36'15.92" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°24'11.70" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|9°30'33.76" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°36'14.79" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°21'18.76" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: IXR, Ranchi, Ranci, Rancis, Rancsi, Ranĉi, Rančis, Ráncsí, Ráňčí, Rānchi, Rānchī, lan qi, lanchi, raci, ramci, ranchi, ranchy, ranci, ranci jilla, ranshy, rʼnzy, Ранчи, Ранчі, ראנצי, رانشي, رانچي, رانچی, राँची, रांची, रांची जिल्ला, রাঁচি, রাচি, ਰਾਂਚੀ, રાંચી, ରାଞ୍ଚି, ராஞ்சி, రాంచీ, ರಾಂಚಿ, റാഞ്ചി, რანჩი, ラーンチー, 蘭契, 란치

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°48'9.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'23.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°9'7.10" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°43'10.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°29'54.91" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°37'40.24" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°54'9.67" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°48'9.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'23.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°9'7.17" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°43'10.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°29'55.18" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°37'40.25" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°54'8.06" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°48'9.51" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'23.75" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°9'7.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°43'10.30" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°29'54.91" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°37'40.24" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°54'9.67" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|21°48'9.38" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'23.56" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°9'7.17" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°43'10.31" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°29'55.18" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°37'40.25" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°54'8.06" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
