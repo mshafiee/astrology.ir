@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°49'6.02" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'12.01" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°10'18.55" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°50'52.69" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°27'32.01" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'11.81" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°10'20.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°50'47.12" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°27'13.61" |Aries|Sharatain|Mars|
 |☿ Mercury|Pre-Retrograde Shadow|7°43'15.96" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|2°42'2.47" |Leo|Jabhah|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프

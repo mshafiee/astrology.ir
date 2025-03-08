@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°41'7.44" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°0'30.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°0'27.27" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|18°46'13.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°47'50.98" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|6°51'38.70" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|18°34'39.19" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|21°41'7.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°0'30.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°0'26.88" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|18°46'12.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°47'45.75" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|6°51'37.02" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|18°32'31.75" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°41'7.44" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°0'30.89" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°0'27.27" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|18°46'13.98" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°47'50.98" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|6°51'38.70" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|18°34'39.19" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|21°41'7.57" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°0'31.07" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°0'27.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|18°46'13.97" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°47'50.70" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|6°51'38.68" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|18°34'40.63" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
