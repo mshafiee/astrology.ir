@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°20'40.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°35'22.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°55'47.25" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°6'2.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|7°40'45.84" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|9°32'29.03" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|25°5'40.80" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|22°20'40.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°35'23.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°55'47.19" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°6'2.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|7°40'45.59" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°32'29.03" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|25°5'40.19" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°20'40.23" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°35'22.94" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°55'47.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|24°6'2.38" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|7°40'45.84" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°32'29.03" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°5'40.80" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|22°20'40.36" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°35'23.12" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°55'47.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|24°6'2.37" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|7°40'45.59" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°32'29.03" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|25°5'40.19" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

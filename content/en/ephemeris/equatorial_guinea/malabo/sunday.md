@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°42'4.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°1'17.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°1'33.45" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|18°53'52.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°45'41.95" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|6°58'14.18" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|20°6'10.15" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|13°1'15.89" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°1'29.63" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|18°53'44.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°45'9.47" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|6°58'3.23" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|19°42'32.86" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°1'33.45" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|18°53'52.07" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|9°45'41.95" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|6°58'14.18" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|6°58'14.18" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|20°6'10.15" |Cancer|Tarf|Moon|
 
 

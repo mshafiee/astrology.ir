@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°41'49.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°1'6.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°1'20.17" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|18°51'54.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°45'57.31" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|6°56'32.16" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|20°1'52.19" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|21°41'49.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°1'6.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°1'20.11" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|18°51'54.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°45'57.04" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|6°56'32.15" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|20°1'53.66" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°41'49.58" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°1'6.03" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°1'20.17" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|18°51'54.30" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°45'57.31" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|6°56'32.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°1'52.19" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|21°41'49.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°1'6.21" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°1'20.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|18°51'54.28" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°45'57.04" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|6°56'32.15" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|20°1'53.66" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

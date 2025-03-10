@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:44:06 |
 | Sunset | 17:38:39 |
 | Maghrib | 17:40:56 |
-| Isha (Night) | 19:09:12 |
+| Isha (Night) | 19:09:13 |
 | Sharia Midnight | 22:58:18 |
 | Imum Coeli | 23:43:58 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°18'33.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°33'24.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°52'28.40" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|23°48'55.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|7°48'48.75" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|9°29'59.20" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|22°7'54.98" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|22°18'33.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°33'24.89" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°52'28.34" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|23°48'55.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|7°48'48.50" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°29'59.19" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|22°7'54.41" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°18'33.29" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°33'24.71" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°52'28.40" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|23°48'55.96" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|7°48'48.75" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°29'59.20" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|22°7'54.98" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|22°18'33.42" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°33'24.89" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°52'28.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|23°48'55.95" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|7°48'48.50" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°29'59.19" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|22°7'54.41" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°50'57.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°8'46.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°12'42.19" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|20°5'54.37" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Retrograde|9°22'16.81" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°54'2.57" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|5°36'0.71" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°50'58.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°8'46.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°12'42.13" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|20°5'54.36" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Retrograde|9°22'16.55" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°54'2.56" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|5°36'2.28" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°50'57.87" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°8'46.59" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°12'42.19" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|20°5'54.37" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|9°22'16.55" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|7°54'2.56" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°36'2.28" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|21°50'58.00" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°8'47.77" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°12'53.87" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|20°5'41.42" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|9°21'41.38" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|7°53'50.23" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°58'44.42" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

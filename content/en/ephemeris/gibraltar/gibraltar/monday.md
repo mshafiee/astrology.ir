@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°49'48.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'47.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°11'13.54" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°56'30.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°25'23.79" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°47'24.50" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|3°46'4.91" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°49'48.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'47.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°11'13.61" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°56'30.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°25'24.05" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°47'24.51" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°46'3.31" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°49'48.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'47.63" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°11'13.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°56'30.52" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°25'23.79" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|7°47'24.50" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°46'4.91" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|21°49'48.26" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'47.44" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°11'14.66" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°56'28.64" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°25'18.05" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°47'22.50" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°55'0.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Calpe, Cebelitarik, Cebelitarık, Djibraltar, GIB, Gibbilterra, Gibilterra, Gibraltar, Gibraltaras, Gibraltaro, Gibraltár, Gíbraltar, Kamaka, Xibraltar, Xibraltar - Gibraltar, gybrltr, jbl tarq, jibeulolteo, jiburarutaru, mhmyt jbl tarq, zhi bu luo tuo, Ĝibraltaro, Γιβραλτάρ, Гибралтар, Ґібралтар, גיברלטר, جبل طارق, جبل‌الطارق, محمية جبل طارق, ジブラルタル, 直布罗陀, 지브롤터

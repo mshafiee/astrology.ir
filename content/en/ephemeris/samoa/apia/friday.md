@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°22'46.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°37'21.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°59'9.94" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°23'4.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|7°32'23.95" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|9°34'12.81" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|28°22'7.21" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|22°22'46.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°37'21.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°59'17.19" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°22'47.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|7°31'26.11" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°33'51.08" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°6'37.36" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Jupiter|Jupiter|Venus|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°59'9.88" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°23'4.41" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|7°32'23.69" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°34'12.81" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°34'12.81" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|28°22'6.58" |Virgo|Simak|Mercury|
 
 

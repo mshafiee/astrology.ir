@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°16'50.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°31'49.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°49'45.49" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|23°35'5.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|7°55'36.24" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|9°27'33.77" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|19°3'58.60" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|22°16'50.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°31'49.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°49'45.43" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|23°35'5.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|7°55'35.98" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°27'32.31" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|19°12'24.32" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°16'50.46" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°31'49.01" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°49'45.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|23°35'5.98" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|7°55'36.24" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°27'33.77" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|19°3'58.60" |Virgo|Simak|Venus|
+|♄ Saturn|Direct|22°16'50.59" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°31'49.19" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°49'45.43" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|23°35'5.97" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|7°55'35.98" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°27'33.77" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|19°3'58.09" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

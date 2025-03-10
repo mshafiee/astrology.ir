@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°9'49.00" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|19°47'53.62" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Retrograde|9°28'33.37" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°41'11.24" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°41'11.24" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|1°37'25.03" |Cancer|Nathrah|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°48'44.38" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'53.01" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°9'49.00" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°47'53.62" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°28'33.37" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|7°41'11.24" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°37'25.03" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'51.70" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°9'48.83" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°47'40.67" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°27'45.23" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°40'54.61" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°55'30.88" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니

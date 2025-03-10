@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°5'57.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°21'54.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°33'20.19" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|22°7'10.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|8°35'19.85" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|9°1'1.97" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°56'3.02" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|22°5'57.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°21'53.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°33'20.25" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|22°7'10.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|8°35'20.10" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°1'1.97" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°56'2.65" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°5'57.65" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°21'54.01" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°33'20.19" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|22°7'10.21" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|8°35'19.85" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°1'1.97" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°56'3.02" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|22°5'57.52" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°21'53.83" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°33'20.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|22°7'10.22" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|8°35'20.10" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°1'1.97" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°56'2.65" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

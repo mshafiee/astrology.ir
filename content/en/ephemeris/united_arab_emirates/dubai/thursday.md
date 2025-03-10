@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:10:42 |
+| Fajr (Dawn) | 05:10:41 |
 | Sunrise | 06:29:44 |
 | Dhuhr (Noon) | 12:28:10 |
 | Medium Coeli | 12:28:10 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°40'24.46" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|22°45'49.08" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Retrograde|8°18'25.08" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|9°15'0.24" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°15'0.24" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|8°56'27.09" |Leo|Zubrah|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°40'24.46" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|22°45'49.08" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|8°18'25.08" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°15'0.24" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°15'0.24" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|8°56'27.09" |Virgo|Awwa|Sun|
 
 

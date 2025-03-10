@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°10'53.10" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°26'20.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°40'37.72" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|22°46'57.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|8°17'51.47" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|9°15'21.12" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|9°15'11.60" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|22°10'52.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°26'20.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°40'37.78" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|22°46'57.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|8°17'51.73" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°15'21.12" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|9°15'11.72" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°10'53.10" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°26'20.94" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°40'37.72" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|22°46'57.80" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|8°17'51.47" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°15'21.12" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|9°15'11.60" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|22°10'52.97" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°26'20.76" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°40'37.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|22°46'57.81" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|8°17'51.73" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°15'21.12" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°15'11.72" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

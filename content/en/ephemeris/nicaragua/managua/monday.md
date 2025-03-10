@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°58'50.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°15'35.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°23'14.37" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|21°9'35.28" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Retrograde|8°58'49.14" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|8°33'33.01" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|18°56'21.53" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|13°15'35.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°23'22.26" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|21°9'19.21" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Retrograde|8°57'57.54" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|8°33'14.70" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|20°21'26.62" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Venus|Jupiter|Jupiter|Venus|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°23'14.37" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|21°9'35.28" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|8°58'49.14" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|8°33'33.01" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|8°33'33.01" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|18°56'21.53" |Leo|Zubrah|Jupiter|
 
 

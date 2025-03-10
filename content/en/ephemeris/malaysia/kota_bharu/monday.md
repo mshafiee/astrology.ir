@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°17'57.14" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|20°38'10.87" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Retrograde|9°10'45.63" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|8°15'15.00" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|8°15'15.00" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|12°19'20.47" |Cancer|Nathrah|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°54'57.32" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°12'12.20" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°17'57.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|20°38'10.88" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|9°10'45.89" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|8°15'15.01" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°19'19.07" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|13°12'12.39" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°17'57.14" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|20°38'10.87" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|9°10'45.63" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|8°15'15.00" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°19'20.47" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루

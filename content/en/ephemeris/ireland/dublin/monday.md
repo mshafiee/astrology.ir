@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°49'51.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'50.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°11'19.59" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°56'57.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°25'6.28" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°47'42.95" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|4°3'11.46" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°49'52.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'51.95" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°11'25.08" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°56'57.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°25'12.43" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°47'45.11" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°30'43.45" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°49'51.69" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'50.56" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°11'19.59" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°56'57.63" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°25'12.37" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|7°47'45.09" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°30'21.64" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|21°49'51.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'50.74" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°11'19.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°56'57.62" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°25'6.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°47'42.94" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°3'13.06" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Baile Atha Cliath, Baile Átha Cliath, Ciuda de Dublin, Ciudá de Dublín, DUB, Dablin, Diblin, Difelin, Divlyn, Doublino, Dublin, Dublin city, Dublina, Dublinas, Dublini, Dublino, Dublinu, Dublín, Dublîn, Dueblin, Dulenn, Dulyn, Dyflinn, Düblin, Eblana, dabalina, dablin, dablina, daburin, dbln, dblyn, deobeullin, dou bai lin, dublini, dwblyn, taplin, Δουβλίνο, Даблин, Дублин, Дублін, Дъблин, Դուբլին, דבלין, דובלין, دبلن, دوبلين, دوبلین, دۇبلىن, ڈبلن, ډبلن, ܕܒܠܢ, डब्लिन, दब्लिन, ডাবলিন, ਡਬਲਿਨ, டப்லின், ಡಬ್ಲಿನ್, ഡബ്ലിൻ, ดับลิน, དུབ་ལིན།, ဒပ်ဗလင်မြို့, დუბლინი, ደብሊን, ダブリン, 都柏林, 더블린

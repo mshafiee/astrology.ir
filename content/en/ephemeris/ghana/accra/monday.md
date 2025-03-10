@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°49'39.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'39.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°10'59.86" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°55'19.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°25'58.84" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°46'34.36" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|3°15'24.24" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°49'39.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'39.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°11'0.09" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°55'19.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°25'59.63" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°46'34.55" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°16'4.61" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°49'39.46" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'39.80" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°11'0.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°55'19.12" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°25'59.36" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|7°46'34.54" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°16'6.20" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|21°49'39.33" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'39.62" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°11'0.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°55'19.13" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°25'59.63" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°46'34.55" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°16'4.61" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ACC, Aakra, Aakrá, Accra, Acra, Akara, Akkr, Akkra, Akkrae, Akra, Akrao, Akʻra, Nkran, a ke la, akara, akeula, akra, akura, xak kra, yەkra, ΄Aκκρα, Άκκρα, Аккрæ, Аккра, Акра, Աքրա, אקרא, אקרה, آکرا, أكرا, ئەکرا, اكرا, اکرا, عکرہ, अक्रा, आक्रा, আক্রা, ਅਕਰਾ, ଆକ୍ରା, அக்ரா, അക്ര, อักกรา, ཨ་ཁ་ར།, အက်ခရာမြို့, აკრა, አክራ, アクラ, 阿克拉, 아크라
