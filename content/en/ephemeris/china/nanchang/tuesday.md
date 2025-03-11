@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:26:34 |
 | Medium Coeli | 12:26:34 |
 | Sunset | 18:22:47 |
-| Maghrib | 18:23:48 |
+| Maghrib | 18:23:47 |
 | Isha (Night) | 19:37:37 |
 | Sharia Midnight | 23:46:33 |
 | Imum Coeli | 00:26:26 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:26:34 |
 | Medium Coeli | 12:26:34 |
 | Sunset | 18:22:47 |
-| Maghrib | 18:23:48 |
+| Maghrib | 18:23:47 |
 | Isha (Night) | 19:28:28 |
 | Sharia Midnight | 23:53:25 |
 | Imum Coeli | 00:26:26 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:26:34 |
 | Medium Coeli | 12:26:34 |
 | Sunset | 18:22:47 |
-| Maghrib | 18:23:48 |
+| Maghrib | 18:23:47 |
 | Isha (Night) | 19:42:13 |
 | Sharia Midnight | 23:46:33 |
 | Imum Coeli | 00:26:26 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:26:34 |
 | Sunset | 18:22:47 |
 | Maghrib | 18:23:47 |
-| Isha (Night) | 19:53:48 |
+| Isha (Night) | 19:53:47 |
 | Sharia Midnight | 23:45:24 |
 | Imum Coeli | 00:26:26 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°2'6.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°18'27.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°27'49.16" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|22°2'6.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°18'27.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°27'49.10" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|21°35'58.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|8°48'13.48" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|8°47'6.73" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|24°35'42.20" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|8°48'13.23" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|8°47'6.72" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|24°35'42.99" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°2'6.06" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°18'27.73" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°27'49.16" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|22°2'6.19" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°18'27.91" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°27'49.10" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|21°35'58.71" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|8°48'13.48" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|8°47'6.73" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|24°35'42.20" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|8°48'13.23" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|8°47'6.72" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|24°35'42.99" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

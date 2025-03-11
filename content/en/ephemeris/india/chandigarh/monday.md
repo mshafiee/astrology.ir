@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°48'6.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'21.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°9'3.08" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°42'47.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°30'5.03" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|7°37'23.24" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°46'34.06" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'21.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°9'3.14" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°42'46.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°30'4.15" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°37'22.94" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°47'13.68" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Candigarchas, Candigarh, Chandigar, Chandigarh, Chandigarkh, Chandīgarh, Czandigarh, IXC, cadigarha, candhigad, candigadh, candigadha, candigara, candigarha, cantikar, chandigadh, chandigarhi, chandigaru, chang di jia er, Čandigarchas, Čandígarh, Чандигар, Чандигарх, צ'אנדיגאר, चंडीगढ़, চন্ডিগড়, চন্ডীগড়, ਚੰਡੀਗੜ੍ਹ, ચંડીગઢ, சண்டிகர், చండీగఢ్, ఛండీగఢ్, ചണ്ഢീഗഡ്, ჩანდიგარჰი, チャンディーガル, 昌迪加尔

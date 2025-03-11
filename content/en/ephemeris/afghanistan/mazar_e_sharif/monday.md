@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°48'19.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'31.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°9'19.54" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°44'28.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°29'27.73" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|7°38'38.04" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°12'16.17" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'30.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°9'13.15" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°44'27.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°29'17.76" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°38'34.69" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°39'8.12" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|18°9'19.54" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|19°44'28.17" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|9°29'27.73" |Aries|Sharatain|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|7°38'38.04" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°38'38.04" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|1°12'16.17" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프

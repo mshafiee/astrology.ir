@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°18'54.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°33'44.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°53'2.67" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|23°51'46.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|7°47'20.55" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|9°30'24.42" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|22°52'5.10" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|22°18'54.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°33'44.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°53'2.61" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|23°51'46.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|7°47'20.29" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°30'24.41" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|22°52'4.52" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°18'54.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°33'44.50" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°52'55.47" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|23°51'45.07" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|7°47'10.84" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|9°30'20.39" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|22°55'31.94" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|22°18'54.52" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°33'44.68" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°53'2.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|23°51'46.05" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|7°47'20.29" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°30'24.41" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|22°52'4.52" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

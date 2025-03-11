@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°49'5.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'11.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°10'20.59" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°50'47.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°27'13.88" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|7°43'15.97" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°42'0.86" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°49'6.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'12.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°10'18.55" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°50'52.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°27'32.01" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°43'22.36" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°22'48.16" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°49'5.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'11.62" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°10'20.59" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°50'47.13" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°27'14.26" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|7°43'16.18" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°44'43.42" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|21°49'6.02" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'11.81" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°10'20.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°50'47.12" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°27'13.61" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°43'15.96" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°42'2.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프

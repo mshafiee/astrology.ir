@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|21°48'45.80" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|13°6'54.49" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|18°9'53.37" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°48'4.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°28'15.90" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|7°41'17.46" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°57'44.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°47'53.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°27'36.02" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°41'3.68" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°11'50.81" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|13°6'54.49" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|18°9'53.37" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|19°48'4.02" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°28'15.90" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|7°41'17.46" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°57'44.43" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|9°27'36.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°41'3.68" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°11'50.81" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al-Sulaimaniya, As Sulaymaniyah, As Sulaymānīyah, As-Sulajmanijja, ISU, Silemani, Silêmanî, Sleimani, Sleimāni, Slemani, Slêmanî, Slēmānī, Solimania, Souleimaniye, Sueleymaniye, Sulaimani, Sulaimania, Sulaimanieh, Sulaimaniya, Sulaimaniyya, Sulaimany, Sulaymaniyah, Sulaymaniyya, Sulaymānīyah, Suleimania, Suleimaniya, Suleimaniyah, Sulejmanija, Süleymaniye, alslymanyt, slymanyh, Сулеймания, السليمانية, سلیمانیه, سلێمانى, سلێمانی

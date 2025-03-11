@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°48'47.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'55.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°9'55.73" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°48'15.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°28'9.58" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|7°41'25.24" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°3'46.85" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|21°48'47.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'55.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°9'55.67" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°48'15.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°28'9.32" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°41'25.23" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°3'48.46" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°48'47.06" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°6'55.55" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°9'55.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°48'15.02" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°28'9.58" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|7°41'25.24" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°3'46.85" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|21°48'47.19" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°6'55.73" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°9'55.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°48'15.00" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°28'9.32" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°41'25.23" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°3'48.46" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: TBS, Tbilis, Tbilisi, Tbilisi - tbilisi, Tbilisi - თბილისი, Tbilisi osh, Tbilisis, Tbiliso, Tbilissi, Tbilisy, Tbiliszi, Tbilsi, Tblisi, Thbilisi, Tibilisi, Tiblisi, Tiblissi, Tiblíssi, Tibîlîsî, Tiflis, Tiphlida, Tpilisi, Triphelis, Ttuplis, Tíblisi, Tíflis, Tıflis, di bi li si, karti, tbilisi, tblys, tblysy, tbylysy, teubillisi, tfls, tflys, thbi li si, thbilisi, tipilici, tobirishi, Τιφλίδα, Тбилис, Тбилиси, Тбилиси ош, Тбилисӣ, Тбілісі, Ттуплис, Қарҭ, Թբիլիսի, טביליסי, تبليسي, تبلیس, تبلیسی, تبىلىسى, تفلیس, طفلس, ܛܒܝܠܝܣܝ, त्बिलिसी, थ्बिलीसी, তিবি‌লিসি, திபிலீசி, ทบิลิซิ, ཁྲེ་བྷི་ལི་སི།, თბილისი, ქართი, ትብሊሲ, トビリシ, 第比利斯, 트빌리시

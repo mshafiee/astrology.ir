@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°48'55.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'2.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°10'3.74" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|19°49'27.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Retrograde|9°28'2.06" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|7°42'19.94" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°57'5.60" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'3.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°10'5.70" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|19°49'27.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Retrograde|9°28'4.00" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°42'20.59" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°7'12.92" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°48'55.95" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°7'2.82" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°10'3.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|19°49'27.29" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|9°28'2.06" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|7°42'19.94" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°57'5.60" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|13°7'3.05" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°10'5.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|19°49'27.24" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|9°28'4.27" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°42'20.60" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°7'11.33" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: LLW, Lilon'nkoue, Lilonguee, Lilongve, Lilongveh, Lilongvo, Lilongvė, Lilongwe, Lilongüe, Lilonhue, Lilonqve, Lílongve, li lang wei, li long gui, li lxng we, lilamgve, lilangave, lillong-gwe, lilongve, lilonve, lylwnghwy, lylwngwh, lylwngwwh, rironguu~e, Λιλόνγκουε, Лилонгве, Лілонгве, Лілонгвэ, Լիլոնգվե, לילאנגווע, לילונגווה, ليلونغوي, لیلونگوه, لیلونگوے, لیلۆنگوێ, لیلیونگوے, लिलाँग्वे, ਲਿਲਾਂਗਵੇ, லிலொங்வே, ลิลองเว, ལི་ལོང་ཀུའེ།, ლილონგვე, ሊሎንጔ, リロングウェ, 利隆圭, 里朗威, 릴롱궤
