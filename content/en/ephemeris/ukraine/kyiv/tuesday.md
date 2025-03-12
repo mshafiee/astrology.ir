@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°56'29.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°13'32.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|18°20'3.01" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|20°50'42.42" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Retrograde|9°6'7.35" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|8°22'50.18" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|14°58'29.93" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|13°13'32.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°20'4.96" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|20°50'36.84" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Retrograde|9°5'48.71" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|8°22'43.58" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|15°23'31.63" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Mars|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|21°56'29.71" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°13'32.91" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|18°20'4.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|20°50'36.84" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|9°5'48.71" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°13'32.91" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°20'3.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|20°50'42.42" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|9°6'7.35" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|8°22'50.18" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|14°58'29.93" |Leo|Zubrah|Jupiter|
 

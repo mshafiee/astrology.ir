@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:20:35 |
-| Sunrise | 07:47:27 |
+| Sunrise | 07:47:26 |
 | Dhuhr (Noon) | 13:35:56 |
 | Medium Coeli | 13:35:56 |
 | Sunset | 19:26:00 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:02:08 |
-| Sunrise | 07:47:27 |
+| Sunrise | 07:47:26 |
 | Dhuhr (Noon) | 13:35:56 |
 | Medium Coeli | 13:35:56 |
 | Sunset | 19:26:00 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:41:26 |
-| Sunrise | 07:47:27 |
+| Sunrise | 07:47:26 |
 | Dhuhr (Noon) | 13:35:56 |
 | Medium Coeli | 13:35:56 |
 | Sunset | 19:26:00 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:38:33|Night duration: 12:17:54|
+|Duration of the day: 11:38:34|Night duration: 12:17:54|
 |Every hour of day duration: 00:58:13|Every hour of night duration: 01:01:30|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|07:47:27|08:45:38|Love, creating love and attracting hearts|
-|2|Mercury|Servant|08:45:39|09:43:51|Attracting auspiciousness|
-|3|Moon|Servant|09:43:52|10:42:04|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|10:42:05|11:40:17|Unfortunate hour|
-|5|Jupiter|Servant|11:40:18|12:38:29|Achieving position and status and attracting job fortune|
+|1|Venus|Ruler|07:47:26|08:45:37|Love, creating love and attracting hearts|
+|2|Mercury|Servant|08:45:38|09:43:50|Attracting auspiciousness|
+|3|Moon|Servant|09:43:51|10:42:03|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|10:42:04|11:40:16|Unfortunate hour|
+|5|Jupiter|Servant|11:40:17|12:38:29|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|12:38:30|13:36:42|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|13:36:43|14:34:55|Promotion and attracting wealth|
-|8|Venus|Ruler|14:34:56|15:33:08|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|15:33:09|16:31:20|Causing separation and homelessness|
+|7|Sun|Servant|13:36:43|14:34:54|Promotion and attracting wealth|
+|8|Venus|Ruler|14:34:55|15:33:07|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|15:33:08|16:31:20|Causing separation and homelessness|
 |10|Moon|Servant|16:31:21|17:29:33|Extremely unfortunate|
 |11|Saturn|Servant|17:29:34|18:27:46|Creating an unfortunate horoscope for anyone|
 |12|Jupiter|Servant|18:27:47|19:25:59|Suitable for asking for a need|
@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°27'46.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°42'7.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|19°7'26.93" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|13°42'7.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°7'26.93" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|25°3'20.84" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Retrograde|7°11'15.50" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|9°35'16.70" |Pisces|FarghAlMuakhar|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°27'46.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°42'7.00" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|19°7'26.93" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|25°3'20.84" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|7°11'15.50" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|9°35'16.70" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°19'28.06" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|13°42'7.00" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|19°7'26.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|25°3'27.55" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|7°11'37.88" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°35'25.07" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°40'13.38" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
