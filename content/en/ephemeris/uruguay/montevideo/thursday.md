@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°20'22.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|13°35'6.58" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°55'18.25" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|24°3'40.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|7°42'0.99" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|9°32'13.18" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|24°27'46.86" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|22°20'22.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°35'5.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|18°55'17.24" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|24°3'34.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|7°41'39.12" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°32'4.73" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|25°2'30.91" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Jupiter|Jupiter|Venus|
-|☾ Moon|Mars|Jupiter|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°20'22.73" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|13°35'6.58" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°55'18.25" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|13°35'6.58" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|18°55'18.25" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°3'40.35" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|7°42'0.99" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|9°32'13.18" |Aries|Sharatain|Mars|
