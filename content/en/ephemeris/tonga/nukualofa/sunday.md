@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°37'38.88" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°51'41.31" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|19°24'25.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|26°22'49.50" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|6°27'47.43" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|9°26'15.40" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|23°55'51.76" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|13°51'41.25" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|19°24'17.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|26°23'6.72" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|6°28'46.52" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|9°26'38.56" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|22°24'5.71" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
+|☾ Moon|Mars|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}

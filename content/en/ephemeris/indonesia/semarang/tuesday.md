@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|28°34'52.18" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Retrograde|5°12'11.68" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|8°41'10.50" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|18°55'8.57" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|18°45'55.63" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
