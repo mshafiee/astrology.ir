@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|06:32:10|07:32:43|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|07:32:44|08:33:17|Destruction of enemies|
-|3|Sun|Servant|08:33:18|09:33:51|Attraction of financial and emotional love|
+|3|Sun|Servant|08:33:18|09:33:51|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|09:33:52|10:34:26|Creating love, connection and marriage|
 |5|Mercury|Servant|10:34:27|11:35:00|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Moon|Servant|11:35:01|12:35:34|The moon is in Scorpio, Not suitable for doing anything.|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°7'26.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°22'11.41" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°20'46.88" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°23'38.30" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|4°4'49.85" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|7°38'8.92" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°33'42.14" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°22'11.22" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|20°20'46.91" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°23'38.31" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|4°4'50.11" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°38'8.93" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°33'41.80" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

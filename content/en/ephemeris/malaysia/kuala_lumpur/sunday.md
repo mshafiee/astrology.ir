@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:17:09 |
+| Fajr (Dawn) | 06:17:08 |
 | Sunrise | 07:18:48 |
 | Dhuhr (Noon) | 13:21:51 |
 | Medium Coeli | 13:21:51 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°39'22.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|13°53'23.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|19°27'20.65" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|26°36'59.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|6°20'56.59" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|9°23'35.35" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|25°15'29.28" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|22°39'21.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|13°53'22.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|19°27'20.69" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|26°36'59.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|6°20'56.85" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°23'35.34" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|25°15'29.46" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°39'22.09" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|13°53'23.05" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|19°27'20.65" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|26°36'59.72" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|6°20'56.59" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|22°39'21.95" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|13°53'22.86" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|19°27'20.69" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|26°36'59.73" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|6°20'56.85" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|9°23'35.35" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|25°15'29.28" |Libra|Jubana|Jupiter|
 
