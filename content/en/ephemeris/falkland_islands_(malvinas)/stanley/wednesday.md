@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Mercury|Ruler|13:59:40|15:00:49|Being invisible to the people|
 |9|Moon|Servant|15:00:50|16:01:59|Separation, causing enmity|
 |10|Saturn|Servant|16:02:00|17:03:09|Dominating the great ones|
-|11|Jupiter|Servant|17:03:10|18:04:19|Creating financial and emotional attraction and dominance|
+|11|Jupiter|Servant|17:03:10|18:04:19|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mars|Servant|18:04:20|19:05:30|The moon is in Scorpio, Not suitable for doing anything.|
 
  

@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 12:02:54|Night duration: 11:55:41|
-|Every hour of day duration: 01:00:14|Every hour of night duration: 00:59:38|
+|Every hour of day duration: 01:00:15|Every hour of night duration: 00:59:38|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°47'53.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°1'54.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|19°42'50.84" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|27°45'46.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|5°41'8.88" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|9°2'14.94" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|9°14'31.71" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|22°47'53.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°1'54.32" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|19°42'50.89" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|27°45'46.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|5°41'9.14" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|9°2'14.95" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|9°14'31.45" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°47'53.24" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°1'54.50" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|19°42'50.84" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|22°47'53.11" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°1'54.32" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|19°42'50.89" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|27°45'46.15" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|5°41'8.88" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|9°2'14.94" |Aries|Sharatain|Mars|

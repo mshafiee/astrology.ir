@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:18:51 |
+| Fajr (Dawn) | 05:18:52 |
 | Sunrise | 06:23:46 |
 | Dhuhr (Noon) | 12:26:22 |
 | Medium Coeli | 12:26:22 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°57'33.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°11'48.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°1'11.43" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°3'51.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|4°54'29.71" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|22°57'33.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°11'48.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|20°1'11.47" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°3'51.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|4°54'29.98" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|8°26'24.44" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|24°42'56.18" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°42'55.57" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°57'33.31" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°11'48.91" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°1'11.43" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°3'51.51" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|4°54'29.71" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|22°57'33.17" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°11'48.73" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|20°1'11.47" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°3'51.52" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|4°54'29.98" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|8°26'24.44" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|24°42'56.18" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°42'55.57" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

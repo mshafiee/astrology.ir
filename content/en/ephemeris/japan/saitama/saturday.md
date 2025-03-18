@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°22'49.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°38'54.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°53'7.53" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°28'9.51" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|2°46'22.60" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|6°5'8.75" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°57'19.22" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|23°22'49.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°38'54.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|20°53'7.49" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°28'9.50" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|2°46'22.36" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|6°5'8.74" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°57'18.98" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°22'49.06" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°38'54.71" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°53'7.53" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|2°28'9.51" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|2°46'22.60" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|6°5'8.75" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°57'19.22" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|23°22'49.20" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°38'54.90" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|20°53'7.49" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|2°28'9.50" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|2°46'22.36" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|6°5'8.74" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°57'18.98" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

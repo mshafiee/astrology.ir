@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Jupiter|Servant|00:18:54|01:18:06|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mars|Ruler|01:18:07|02:17:19|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Sun|Servant|02:17:20|03:16:32|Causing separation and homelessness|
-|10|Venus|Servant|03:16:33|04:15:45|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Venus|Servant|03:16:33|04:15:45|Extremely unfortunate|
 |11|Mercury|Servant|04:15:46|05:14:58|Creating an unfortunate horoscope for anyone|
 |12|Moon|Servant|05:14:59|06:14:12|Suitable for asking for a need|
 
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°19'37.37" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°35'23.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°46'13.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°2'16.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|3°2'56.92" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|6°26'2.45" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°26'30.82" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Post-Retrograde Shadow|20°46'21.94" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°2'9.83" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|3°2'31.16" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|6°25'51.86" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°45'34.32" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°19'37.23" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|23°19'37.37" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°35'23.25" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|20°46'13.66" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|2°2'16.90" |Aries|Sharatain|Mars|

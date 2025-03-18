@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:04:09 |
 | Maghrib | 19:28:03 |
 | Isha (Night) | 20:40:03 |
-| Sharia Midnight | 00:06:10 |
+| Sharia Midnight | 00:06:11 |
 | Imum Coeli | 01:02:07 |
 {{< /tab >}}
 
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°47'35.35" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|22°47'35.33" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°1'36.19" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|19°42'16.93" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|27°43'21.56" |Pisces|Rescha|Mars|
