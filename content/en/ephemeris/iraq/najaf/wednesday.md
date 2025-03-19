@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:46:25 |
-| Sunrise | 06:07:29 |
+| Sunrise | 06:07:28 |
 | Dhuhr (Noon) | 12:10:18 |
 | Medium Coeli | 12:10:18 |
 | Sunset | 18:13:37 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:44:59 |
-| Sunrise | 06:07:29 |
+| Sunrise | 06:07:28 |
 | Dhuhr (Noon) | 12:10:18 |
 | Medium Coeli | 12:10:18 |
 | Sunset | 18:13:37 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:37:46 |
-| Sunrise | 06:07:29 |
+| Sunrise | 06:07:28 |
 | Dhuhr (Noon) | 12:10:18 |
 | Medium Coeli | 12:10:18 |
 | Sunset | 18:13:37 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:42:35 |
-| Sunrise | 06:07:29 |
+| Sunrise | 06:07:28 |
 | Dhuhr (Noon) | 12:10:18 |
 | Medium Coeli | 12:10:18 |
 | Sunset | 18:13:37 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:06:08|Night duration: 11:52:35|
+|Duration of the day: 12:06:09|Night duration: 11:52:35|
 |Every hour of day duration: 01:00:31|Every hour of night duration: 00:59:23|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:07:29|07:07:58|Acceptance of needs|
-|2|Moon|Servant|07:07:59|08:08:29|Unfortunate, no task is suitable|
-|3|Saturn|Servant|08:08:30|09:09:00|For overcoming diseases|
-|4|Jupiter|Servant|09:09:01|10:09:30|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:09:31|11:10:01|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:10:02|12:10:32|Outer and inner journey|
-|7|Venus|Servant|12:10:33|13:11:02|Attracting love and hearts and fortune|
+|1|Mercury|Ruler|06:07:28|07:07:57|Acceptance of needs|
+|2|Moon|Servant|07:07:58|08:08:28|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:08:29|09:08:59|For overcoming diseases|
+|4|Jupiter|Servant|09:09:00|10:09:30|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:09:31|11:10:00|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:10:01|12:10:31|Outer and inner journey|
+|7|Venus|Servant|12:10:32|13:11:02|Attracting love and hearts and fortune|
 |8|Mercury|Ruler|13:11:03|14:11:33|Being invisible to the people|
-|9|Moon|Servant|14:11:34|15:12:04|Separation, causing enmity|
-|10|Saturn|Servant|15:12:05|16:12:34|Dominating the great ones|
+|9|Moon|Servant|14:11:34|15:12:03|Separation, causing enmity|
+|10|Saturn|Servant|15:12:04|16:12:34|Dominating the great ones|
 |11|Jupiter|Servant|16:12:35|17:13:05|Creating financial and emotional attraction and dominance|
 |12|Mars|Servant|17:13:06|18:13:36|Creating evil and hatred|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°55'19.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°9'30.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|19°56'53.06" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|28°45'47.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|5°5'21.61" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|8°35'42.25" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|21°11'26.21" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|22°55'19.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°9'30.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°56'53.09" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|28°45'47.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|5°5'21.90" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|8°35'42.27" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|21°11'25.30" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°55'19.19" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°9'30.20" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|19°56'53.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|28°45'47.78" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|5°5'21.61" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|8°35'42.25" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|21°11'26.21" |Scorpio|Qalb|Venus|
+|♄ Saturn|Direct|22°55'19.05" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°9'30.00" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|19°56'53.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|28°45'47.75" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|5°5'21.90" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|8°35'42.27" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|21°11'25.30" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

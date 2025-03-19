@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:04:10|Night duration: 11:54:33|
+|Duration of the day: 12:04:10|Night duration: 11:54:34|
 |Every hour duration: 01:43:27|Every hour duration: 01:42:05|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Saturn|Ruler|18:12:55|19:54:58|
 |Late evening|Jupiter|Servant|19:54:59|21:37:03|
 |Midnight|Mars|Servant|21:37:04|23:19:08|
-|Late at night|Sun|Servant|23:19:09|01:01:12|
-|Rooster song|Venus|Servant|01:01:13|02:43:17|
-|False Dawn|Mercury|Servant|02:43:18|04:25:22|
-|Dawn|Moon|Servant|04:25:23|06:07:27|
+|Late at night|Sun|Servant|23:19:09|01:01:13|
+|Rooster song|Venus|Servant|01:01:14|02:43:18|
+|False Dawn|Mercury|Servant|02:43:19|04:25:23|
+|Dawn|Moon|Servant|04:25:24|06:07:28|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°47'56.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°1'57.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|19°42'56.34" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|27°46'11.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|5°40'55.84" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|22°47'56.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°1'57.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°42'56.38" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|27°46'11.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|5°40'56.11" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|9°2'6.09" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|9°17'33.64" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|9°17'33.38" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°47'56.34" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°1'57.60" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|19°42'56.34" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|27°46'11.27" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|22°47'56.21" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°1'57.42" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|19°42'56.38" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|27°46'11.28" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|5°40'55.84" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|9°2'6.09" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|9°17'33.64" |Scorpio|Qalb|Mars|

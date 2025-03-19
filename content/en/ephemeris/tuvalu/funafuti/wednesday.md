@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°59'56.24" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°14'17.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°5'49.64" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°5'49.64" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°23'6.73" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Retrograde|4°42'50.81" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|8°15'51.46" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°59'56.24" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°14'17.66" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°5'49.64" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°5'49.64" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|29°23'6.73" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|4°41'54.47" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|8°15'27.25" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|29°41'47.05" |Scorpio|Shaulah|Venus|
+|♀ Venus|Retrograde|4°42'50.81" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|8°15'51.46" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|28°29'7.64" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

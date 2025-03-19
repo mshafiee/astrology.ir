@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:07:44 |
 | Sunrise | 06:06:37 |
-| Dhuhr (Noon) | 12:09:14 |
-| Medium Coeli | 12:09:14 |
+| Dhuhr (Noon) | 12:09:15 |
+| Medium Coeli | 12:09:15 |
 | Sunset | 18:11:42 |
 | Maghrib | 18:12:36 |
 | Isha (Night) | 19:10:33 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:18 |
 | Sunrise | 06:06:37 |
-| Dhuhr (Noon) | 12:09:14 |
-| Medium Coeli | 12:09:14 |
+| Dhuhr (Noon) | 12:09:15 |
+| Medium Coeli | 12:09:15 |
 | Sunset | 18:11:42 |
 | Maghrib | 18:12:36 |
 | Isha (Night) | 19:20:47 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:55:26 |
 | Sunrise | 06:06:37 |
-| Dhuhr (Noon) | 12:09:14 |
-| Medium Coeli | 12:09:14 |
+| Dhuhr (Noon) | 12:09:15 |
+| Medium Coeli | 12:09:15 |
 | Sunset | 18:11:42 |
 | Maghrib | 18:12:36 |
 | Isha (Night) | 19:22:50 |
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°31'4.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°48'7.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°11'14.73" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|23°31'4.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°48'8.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°11'14.73" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|3°35'1.00" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Retrograde|2°4'16.74" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|5°9'0.13" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°31'4.17" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°48'8.09" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|21°11'14.73" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°11'14.73" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|3°35'1.00" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|2°4'16.74" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|5°9'0.13" |Aries|Sharatain|Mars|

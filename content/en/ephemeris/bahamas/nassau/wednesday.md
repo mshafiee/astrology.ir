@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Sun|Servant|12:16:34|13:17:07|Outer and inner journey|
 |7|Venus|Servant|13:17:08|14:17:40|Attracting love and hearts and fortune|
 |8|Mercury|Ruler|14:17:41|15:18:13|Being invisible to the people|
-|9|Moon|Servant|15:18:14|16:18:46|Separation, causing enmity|
+|9|Moon|Servant|15:18:14|16:18:46|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Saturn|Servant|16:18:47|17:19:19|Dominating the great ones|
 |11|Jupiter|Servant|17:19:20|18:19:52|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mars|Servant|18:19:53|19:20:26|The moon is in Scorpio, Not suitable for doing anything.|
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°5'11.16" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°19'48.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°16'17.34" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°16'17.34" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|0°5'31.97" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Retrograde|4°16'25.63" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|7°50'7.94" |Pisces|FarghAlMuakhar|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°5'11.16" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°19'48.99" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°16'17.34" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°5'31.97" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|4°16'25.63" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|7°50'7.94" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°13'49.79" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|23°5'11.29" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°19'49.18" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°16'17.31" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°5'31.96" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|4°16'25.37" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°50'7.93" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°13'50.25" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

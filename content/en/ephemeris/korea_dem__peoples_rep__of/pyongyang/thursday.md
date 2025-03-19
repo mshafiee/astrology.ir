@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:40:37|07:41:17|Attraction of material wealth, earning and prosperity|
+|1|Jupiter|Ruler|06:40:37|07:41:17|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|07:41:18|08:41:58|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|08:41:59|09:42:40|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|09:42:41|10:43:21|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°8'23.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°23'13.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°22'47.58" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°31'25.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|4°0'7.64" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|7°33'0.64" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|12°35'0.76" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|23°8'23.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°23'13.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°22'47.63" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°31'25.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|4°0'8.53" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|7°33'1.04" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|12°33'39.74" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°8'23.52" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°23'13.70" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°22'47.58" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°22'47.58" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|0°31'25.42" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|4°0'14.76" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|7°33'4.36" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°53'35.44" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Retrograde|4°0'7.64" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°33'0.64" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°35'0.76" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Jupiter|Venus|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Mars|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}

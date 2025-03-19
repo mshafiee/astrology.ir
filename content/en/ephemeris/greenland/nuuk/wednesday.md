@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Mercury|Ruler|14:36:15|15:37:10|Being invisible to the people|
 |9|Moon|Servant|15:37:11|16:38:06|Separation, causing enmity|
 |10|Saturn|Servant|16:38:07|17:39:02|Dominating the great ones|
-|11|Jupiter|Servant|17:39:03|18:39:58|Creating financial and emotional attraction and dominance|
+|11|Jupiter|Servant|17:39:03|18:39:58|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mars|Servant|18:39:59|19:40:55|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°4'37.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°19'14.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°15'13.50" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°1'1.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|4°18'50.86" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|7°52'47.89" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°33'34.87" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|23°4'37.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°19'14.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°15'13.46" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°1'1.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|4°18'50.60" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|7°52'47.88" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°33'35.35" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°4'37.86" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°19'14.18" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°15'13.50" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|0°1'1.64" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|4°18'50.86" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|7°52'47.89" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°33'34.87" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|23°4'37.99" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°19'14.37" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°15'13.46" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|0°1'1.63" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|4°18'50.60" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|7°52'47.88" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°33'35.35" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

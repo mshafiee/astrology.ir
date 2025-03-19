@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:10:31 |
+| Fajr (Dawn) | 04:10:32 |
 | Sunrise | 06:02:32 |
 | Dhuhr (Noon) | 12:05:34 |
 | Medium Coeli | 12:05:34 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:10:31 |
+| Fajr (Dawn) | 04:10:32 |
 | Sunrise | 06:02:32 |
 | Dhuhr (Noon) | 12:05:34 |
 | Medium Coeli | 12:05:34 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°55'35.88" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°9'47.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|19°57'26.61" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°57'26.61" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|28°48'2.04" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Retrograde|5°3'49.73" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|8°34'29.68" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°55'35.88" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°9'47.63" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|19°57'26.61" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°57'26.61" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|28°48'2.04" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|5°3'49.73" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|8°34'29.68" |Aries|Sharatain|Mars|
