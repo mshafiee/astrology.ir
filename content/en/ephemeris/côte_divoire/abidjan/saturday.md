@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°18'25.38" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°34'4.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°43'39.56" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°52'27.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|3°8'44.22" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|6°33'30.43" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°17'52.86" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Post-Retrograde Shadow|20°43'39.56" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°52'34.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|3°9'10.78" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|6°33'43.12" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|29°22'35.67" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♀ Venus|Jupiter|Moon|Aries|Moon|Jupiter|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°18'25.38" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°34'4.24" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°43'39.56" |Cancer|Tarf|Moon|
+|♂ Mars|Post-Retrograde Shadow|20°43'39.56" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|1°52'34.47" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|3°9'10.78" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|6°33'43.12" |Aries|Sharatain|Mars|

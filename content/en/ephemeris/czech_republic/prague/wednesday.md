@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:29:07 |
+| Fajr (Dawn) | 04:29:06 |
 | Sunrise | 06:06:52 |
 | Dhuhr (Noon) | 12:09:58 |
 | Medium Coeli | 12:09:58 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°55'55.68" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°10'8.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°58'4.73" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|19°58'4.73" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|28°50'41.98" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Retrograde|5°2'13.01" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|8°33'8.60" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|22°55'55.68" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°10'8.08" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|19°58'4.73" |Cancer|Tarf|Mercury|
+|♂ Mars|Post-Retrograde Shadow|19°58'4.73" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|28°50'41.98" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|5°2'13.01" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|8°33'8.60" |Aries|Sharatain|Mars|

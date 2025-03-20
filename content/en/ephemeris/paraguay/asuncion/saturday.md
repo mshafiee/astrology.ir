@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:37:50 |
+| Fajr (Dawn) | 05:37:49 |
 | Sunrise | 06:55:02 |
 | Dhuhr (Noon) | 12:57:17 |
 | Medium Coeli | 12:57:17 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°26'52.95" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°43'25.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°1'57.37" |Gemini|Dhira|Sun|
+|♂ Mars|Post-Retrograde Shadow|21°1'57.37" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|3°1'4.86" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Retrograde|2°25'46.93" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|5°37'59.54" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°26'52.95" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°43'25.82" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°1'57.37" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|3°1'4.86" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|2°25'46.93" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|5°37'59.54" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|14°7'36.96" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Post-Retrograde Shadow|21°1'57.37" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|3°0'49.21" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|2°24'51.15" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|5°37'34.01" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|14°10'19.64" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

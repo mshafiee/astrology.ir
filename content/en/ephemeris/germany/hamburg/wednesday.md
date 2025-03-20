@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:32:08 |
 | Maghrib | 18:33:37 |
 | Isha (Night) | 20:03:37 |
-| Sharia Midnight | 23:24:33 |
+| Sharia Midnight | 23:24:32 |
 | Imum Coeli | 00:27:32 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°56'1.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°10'13.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°58'15.28" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|28°51'24.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|5°1'44.88" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|22°56'0.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°10'13.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|19°58'15.32" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|28°51'24.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|5°1'45.14" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|8°32'45.69" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|22°30'37.43" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|22°30'36.85" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°56'1.00" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°10'13.62" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|19°58'15.28" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|28°51'24.83" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|5°1'44.88" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|8°32'45.69" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|22°30'37.43" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|22°56'0.87" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°10'13.43" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|19°58'15.32" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|28°51'24.84" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|5°1'45.54" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|8°32'46.00" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|22°28'29.43" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}

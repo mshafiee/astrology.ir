@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:16:32|Night duration: 11:42:07|
+|Duration of the day: 12:16:32|Night duration: 11:42:08|
 |Every hour of day duration: 01:01:23|Every hour of night duration: 00:58:31|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|18:17:07|19:15:36|Repelling magic, attracting discharged energy|
 |2|Mercury|Servant|19:15:37|20:14:07|Outer and inner journey|
-|3|Moon|Servant|20:14:08|21:12:37|Marriage connection is good|
-|4|Saturn|Servant|21:12:38|22:11:08|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:11:09|23:09:38|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:09:39|00:08:09|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:08:10|01:06:40|Making promises|
-|8|Venus|Ruler|01:06:41|02:05:10|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:05:11|03:03:41|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:03:42|04:02:11|Good for any task|
-|11|Saturn|Servant|04:02:12|05:00:42|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:00:43|05:59:13|Heart tenderness|
+|3|Moon|Servant|20:14:08|21:12:38|Marriage connection is good|
+|4|Saturn|Servant|21:12:39|22:11:08|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:11:09|23:09:39|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:09:40|00:08:10|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:08:11|01:06:40|Making promises|
+|8|Venus|Ruler|01:06:41|02:05:11|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:05:12|03:03:42|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:03:43|04:02:12|Good for any task|
+|11|Saturn|Servant|04:02:13|05:00:43|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:00:44|05:59:14|Heart tenderness|
 
  
  
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°32'6.16" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°49'18.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°13'35.57" |Gemini|Dhira|Sun|
+|♂ Mars|Post-Retrograde Shadow|21°13'35.57" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|3°43'22.82" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Retrograde|1°58'43.67" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|5°1'35.81" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°32'6.16" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°49'18.41" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°13'35.57" |Cancer|Tarf|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°13'35.57" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|3°43'22.82" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|1°58'43.67" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|5°1'35.81" |Aries|Sharatain|Mars|
