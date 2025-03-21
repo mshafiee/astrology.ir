@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:30:33 |
 | Sunrise | 05:32:36 |
-| Dhuhr (Noon) | 11:35:33 |
-| Medium Coeli | 11:35:33 |
+| Dhuhr (Noon) | 11:35:32 |
+| Medium Coeli | 11:35:32 |
 | Sunset | 17:38:23 |
 | Maghrib | 17:52:03 |
 | Isha (Night) | 18:32:21 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:16:26 |
 | Sunrise | 05:32:36 |
-| Dhuhr (Noon) | 11:35:32 |
-| Medium Coeli | 11:35:32 |
+| Dhuhr (Noon) | 11:35:33 |
+| Medium Coeli | 11:35:33 |
 | Sunset | 17:38:23 |
 | Maghrib | 17:39:17 |
 | Isha (Night) | 18:46:28 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:22:29 |
 | Sunrise | 05:32:36 |
-| Dhuhr (Noon) | 11:35:33 |
-| Medium Coeli | 11:35:33 |
+| Dhuhr (Noon) | 11:35:32 |
+| Medium Coeli | 11:35:32 |
 | Sunset | 17:38:23 |
 | Maghrib | 17:39:17 |
 | Isha (Night) | 18:48:29 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°30'44.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°47'45.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°10'30.93" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°32'21.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|2°5'56.67" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|5°11'17.19" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|21°1'12.92" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|23°30'44.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°47'45.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°10'30.17" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°32'21.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|2°5'56.34" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|5°11'16.95" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|21°6'37.36" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

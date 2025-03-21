@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:07:02|Night duration: 11:52:00|
+|Duration of the day: 12:07:01|Night duration: 11:52:00|
 |Every hour of day duration: 01:00:35|Every hour of night duration: 00:59:20|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:24:27|07:25:01|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mars|Servant|07:25:02|08:25:36|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Sun|Servant|08:25:37|09:26:11|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Venus|Servant|09:26:12|10:26:46|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Mercury|Servant|10:26:47|11:27:21|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Moon|Servant|11:27:22|12:27:57|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Jupiter|Ruler|06:24:28|07:25:02|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mars|Servant|07:25:03|08:25:37|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Sun|Servant|08:25:38|09:26:12|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Venus|Servant|09:26:13|10:26:47|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Mercury|Servant|10:26:48|11:27:22|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Moon|Servant|11:27:23|12:27:57|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Saturn|Servant|12:27:58|13:28:32|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Jupiter|Ruler|13:28:33|14:29:07|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|14:29:08|15:29:42|The moon is in Scorpio, Not suitable for doing anything.|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°2'1.26" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°16'28.76" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°9'57.72" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|29°39'56.31" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|4°32'18.64" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|8°5'57.84" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°1'28.37" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|23°2'1.12" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°16'28.57" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|20°9'57.74" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|29°39'56.28" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|4°32'18.93" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|8°5'57.88" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°1'27.49" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

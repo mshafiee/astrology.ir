@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:46:13 |
+| Fajr (Dawn) | 05:46:12 |
 | Sunrise | 06:48:50 |
 | Dhuhr (Noon) | 12:53:34 |
 | Medium Coeli | 12:53:34 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°23'28.27" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°39'38.01" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°54'31.30" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|2°33'25.75" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|2°43'6.48" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|6°0'52.61" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°6'50.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|14°39'38.06" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|20°54'31.35" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|2°33'26.20" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|2°43'8.06" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|6°0'53.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|8°5'47.40" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

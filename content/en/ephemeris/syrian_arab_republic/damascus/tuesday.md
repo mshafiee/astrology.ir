@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:40:43 |
 | Medium Coeli | 12:40:43 |
 | Sunset | 18:50:07 |
-| Maghrib | 19:06:40 |
+| Maghrib | 19:06:41 |
 | Isha (Night) | 19:55:17 |
 | Sharia Midnight | 00:02:50 |
 | Imum Coeli | 00:40:34 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°39'35.40" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°57'51.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°30'38.91" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°44'9.50" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|1°20'33.70" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|4°8'5.16" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|6°0'23.83" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|23°39'35.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°57'51.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°30'38.87" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°44'9.51" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|1°20'33.51" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|4°8'5.14" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|7°5'6.78" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}

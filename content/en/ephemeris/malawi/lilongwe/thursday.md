@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:38:04 |
+| Fajr (Dawn) | 04:38:05 |
 | Sunrise | 05:48:55 |
 | Dhuhr (Noon) | 11:52:14 |
 | Medium Coeli | 11:52:14 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|23°2'55.14" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°17'25.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|20°11'43.37" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°47'6.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Retrograde|4°27'41.28" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|8°1'33.40" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°52'51.36" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|29°47'12.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Retrograde|4°28'0.03" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|8°1'40.41" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°21'54.25" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Mars|Sun|Aries|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

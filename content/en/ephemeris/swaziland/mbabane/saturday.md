@@ -221,7 +221,7 @@ Timetable of twelve day and night planetary hours
 |3|Mars|Servant|08:00:48|09:01:06|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|09:01:07|10:01:24|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Venus|Servant|10:01:25|11:01:43|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mercury|Servant|11:01:44|12:02:01|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mercury|Servant|11:01:44|12:02:01|Writing, swapping and making promises|
 |7|Moon|Servant|12:02:02|13:02:19|Not suitable for any task|
 |8|Saturn|Ruler|13:02:20|14:02:38|Destruction of enemies|
 |9|Jupiter|Servant|14:02:39|15:02:56|All good deeds|

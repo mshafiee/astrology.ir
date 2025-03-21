@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:15:28 |
 | Medium Coeli | 12:15:28 |
 | Sunset | 18:23:18 |
-| Maghrib | 18:24:40 |
+| Maghrib | 18:24:39 |
 | Isha (Night) | 20:09:44 |
 | Sharia Midnight | 23:15:02 |
 | Imum Coeli | 00:15:19 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:15:28 |
 | Medium Coeli | 12:15:28 |
 | Sunset | 18:23:18 |
-| Maghrib | 18:24:40 |
+| Maghrib | 18:24:39 |
 | Isha (Night) | 20:13:04 |
 | Sharia Midnight | 23:20:05 |
 | Imum Coeli | 00:15:19 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:15:28 |
 | Medium Coeli | 12:15:28 |
 | Sunset | 18:23:18 |
-| Maghrib | 18:24:40 |
-| Isha (Night) | 19:54:40 |
+| Maghrib | 18:24:39 |
+| Isha (Night) | 19:54:39 |
 | Sharia Midnight | 23:18:24 |
 | Imum Coeli | 00:15:19 |
 {{< /tab >}}

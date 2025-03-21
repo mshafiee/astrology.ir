@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:05:41 |
 | Sunrise | 06:15:25 |
-| Dhuhr (Noon) | 12:24:17 |
-| Medium Coeli | 12:24:17 |
+| Dhuhr (Noon) | 12:24:18 |
+| Medium Coeli | 12:24:18 |
 | Sunset | 18:33:42 |
 | Maghrib | 18:34:45 |
 | Isha (Night) | 19:43:35 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:43:24 |
 | Sunrise | 06:15:25 |
-| Dhuhr (Noon) | 12:24:17 |
-| Medium Coeli | 12:24:17 |
+| Dhuhr (Noon) | 12:24:18 |
+| Medium Coeli | 12:24:18 |
 | Sunset | 18:33:42 |
 | Maghrib | 18:34:45 |
 | Isha (Night) | 19:55:57 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°44'59.43" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|15°4'7.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°43'14.16" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|5°28'0.89" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|0°53'20.83" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|3°28'59.69" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|17°9'27.34" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Post-Retrograde Shadow|21°43'14.20" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|5°28'1.18" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|0°53'22.28" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|3°29'0.26" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|17°16'45.37" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
