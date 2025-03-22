@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:54:03 |
 | Maghrib | 18:57:41 |
 | Isha (Night) | 20:07:28 |
-| Sharia Midnight | 00:08:21 |
+| Sharia Midnight | 00:08:22 |
 | Imum Coeli | 00:47:29 |
 {{< /tab >}}
 
@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:54:03 |
 | Maghrib | 18:57:41 |
 | Isha (Night) | 20:11:59 |
-| Sharia Midnight | 00:08:22 |
+| Sharia Midnight | 00:08:21 |
 | Imum Coeli | 00:47:29 |
 {{< /tab >}}
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|14°52'39.84" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|21°20'15.47" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°7'21.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|1°43'39.48" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|4°40'39.95" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|28°48'54.89" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|1°43'40.88" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|4°40'40.67" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|28°45'30.68" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

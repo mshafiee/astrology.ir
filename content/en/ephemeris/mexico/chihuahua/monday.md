@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°42'29.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°1'13.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°37'22.55" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|5°7'43.33" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|1°5'56.96" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|3°47'7.74" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°34'11.95" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|23°42'29.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°1'12.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°37'22.60" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|5°7'43.32" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|1°5'57.14" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|3°47'7.76" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°34'11.90" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°42'29.57" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°1'13.04" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|21°37'22.55" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|5°7'43.33" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|1°5'56.96" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|3°47'7.74" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°34'11.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|23°42'29.43" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°1'12.86" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|21°37'22.60" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|5°7'43.32" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|1°5'57.14" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|3°47'7.76" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°34'11.90" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

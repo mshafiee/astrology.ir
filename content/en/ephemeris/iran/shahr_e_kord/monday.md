@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:30 |
-| Sunrise | 06:05:39 |
+| Sunrise | 06:05:40 |
 | Dhuhr (Noon) | 12:12:46 |
 | Medium Coeli | 12:12:46 |
 | Sunset | 18:20:23 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:41:47 |
-| Sunrise | 06:05:40 |
+| Sunrise | 06:05:39 |
 | Dhuhr (Noon) | 12:12:46 |
 | Medium Coeli | 12:12:46 |
 | Sunset | 18:20:23 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:27 |
-| Sunrise | 06:05:40 |
+| Sunrise | 06:05:39 |
 | Dhuhr (Noon) | 12:12:46 |
 | Medium Coeli | 12:12:46 |
 | Sunset | 18:20:23 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:41:47 |
-| Sunrise | 06:05:40 |
+| Sunrise | 06:05:39 |
 | Dhuhr (Noon) | 12:12:46 |
 | Medium Coeli | 12:12:46 |
 | Sunset | 18:20:23 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:39:20 |
-| Sunrise | 06:05:39 |
+| Sunrise | 06:05:40 |
 | Dhuhr (Noon) | 12:12:46 |
 | Medium Coeli | 12:12:46 |
 | Sunset | 18:20:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°31'58.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°49'9.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°13'18.86" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°42'20.74" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|1°59'21.66" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|5°2'29.06" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|23°4'50.88" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|23°31'58.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°49'9.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°13'18.16" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°42'20.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|1°59'21.68" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|5°2'28.95" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|23°9'47.65" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

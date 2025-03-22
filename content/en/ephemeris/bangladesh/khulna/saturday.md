@@ -223,7 +223,7 @@ Timetable of twelve day and night planetary hours
 |5|Venus|Servant|10:07:04|11:07:53|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|11:07:54|12:08:43|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|12:08:44|13:09:32|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Saturn|Ruler|13:09:33|14:10:22|Destruction of enemies|
+|8|Saturn|Ruler|13:09:33|14:10:22|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Jupiter|Servant|14:10:23|15:11:12|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mars|Servant|15:11:13|16:12:02|Doing evil deeds|
 |11|Sun|Servant|16:12:03|17:12:52|Acceptance of reconciliation between couples|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°16'30.13" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°31'58.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°39'36.24" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°37'1.48" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|3°18'55.38" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|6°45'40.27" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|26°6'59.03" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|14°31'58.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|20°39'36.21" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°37'1.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|3°18'55.13" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|6°45'40.26" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|26°6'58.88" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°16'29.99" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°31'58.26" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|23°16'30.13" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°31'58.45" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|20°39'36.21" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|1°37'1.47" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|3°18'55.13" |Aries|Sharatain|Mars|

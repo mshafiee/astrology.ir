@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°19'28.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°35'12.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°45'53.25" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°1'1.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|3°3'48.76" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|6°27'4.26" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|1°10'16.88" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|23°19'27.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|14°35'12.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|20°45'53.28" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°1'1.97" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|3°3'49.00" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|6°27'4.27" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|1°10'17.11" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°19'28.08" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°35'12.99" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°45'53.25" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|2°1'1.96" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|3°3'48.76" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|6°27'4.26" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°10'16.88" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|23°19'27.95" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°35'12.80" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|20°45'53.28" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|2°0'54.11" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|3°3'20.40" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|6°26'52.67" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°16'18.19" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

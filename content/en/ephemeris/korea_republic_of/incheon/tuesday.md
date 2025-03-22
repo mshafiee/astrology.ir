@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:39:08 |
 | Sunset | 18:49:33 |
 | Maghrib | 18:50:41 |
-| Isha (Night) | 20:16:13 |
+| Isha (Night) | 20:16:14 |
 | Sharia Midnight | 23:50:06 |
 | Imum Coeli | 00:38:59 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°45'3.57" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°4'12.39" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|21°43'24.17" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|5°28'34.74" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|0°52'59.32" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|3°28'29.03" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|17°22'29.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|23°45'3.43" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°4'12.21" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|21°43'24.21" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|5°28'34.73" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|0°52'59.50" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|3°28'29.05" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|17°22'29.48" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

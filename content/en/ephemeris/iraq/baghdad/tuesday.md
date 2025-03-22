@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:36:24 |
-| Sunrise | 05:59:14 |
+| Sunrise | 05:59:15 |
 | Dhuhr (Noon) | 12:08:17 |
 | Medium Coeli | 12:08:17 |
 | Sunset | 18:17:51 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:55 |
-| Sunrise | 05:59:14 |
+| Sunrise | 05:59:15 |
 | Dhuhr (Noon) | 12:08:17 |
 | Medium Coeli | 12:08:17 |
 | Sunset | 18:17:51 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:55 |
-| Sunrise | 05:59:15 |
+| Sunrise | 05:59:14 |
 | Dhuhr (Noon) | 12:08:17 |
 | Medium Coeli | 12:08:17 |
 | Sunset | 18:17:51 |
@@ -210,24 +210,24 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:18:37|Night duration: 11:40:03|
+|Duration of the day: 12:18:36|Night duration: 11:40:03|
 |Every hour of day duration: 01:01:33|Every hour of night duration: 00:58:20|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:59:14|07:00:46|Creating corruption, hatred and enmity|
-|2|Sun|Servant|07:00:47|08:02:19|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:02:20|09:03:52|Attracting connection and suitors|
-|4|Mercury|Servant|09:03:53|10:05:25|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:05:26|11:06:58|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:06:59|12:08:31|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|12:08:32|13:10:04|Attracting love and hearts|
-|8|Mars|Ruler|13:10:05|14:11:37|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|14:11:38|15:13:10|Heart tenderness|
-|10|Venus|Servant|15:13:11|16:14:43|Attracting misfortune, no task is suitable|
-|11|Mercury|Servant|16:14:44|17:16:16|Attracting connection and suitors|
-|12|Moon|Servant|17:16:17|18:17:50|Hatred, corruption and creating negative energy for disruption|
+|1|Mars|Ruler|05:59:15|07:00:47|Creating corruption, hatred and enmity|
+|2|Sun|Servant|07:00:48|08:02:20|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:02:21|09:03:53|Attracting connection and suitors|
+|4|Mercury|Servant|09:03:54|10:05:26|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:05:27|11:06:59|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|11:07:00|12:08:32|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|12:08:33|13:10:05|Attracting love and hearts|
+|8|Mars|Ruler|13:10:06|14:11:38|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|14:11:39|15:13:11|Heart tenderness|
+|10|Venus|Servant|15:13:12|16:14:44|Attracting misfortune, no task is suitable|
+|11|Mercury|Servant|16:14:45|17:16:17|Attracting connection and suitors|
+|12|Moon|Servant|17:16:18|18:17:50|Hatred, corruption and creating negative energy for disruption|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:18:37|Night duration: 11:40:03|
+|Duration of the day: 12:18:36|Night duration: 11:40:03|
 |Every hour duration: 01:45:31|Every hour duration: 01:40:00|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|05:59:14|07:44:44|
+|Early morning|Mars|Ruler|05:59:15|07:44:44|
 |Mid-morning|Sun|Servant|07:44:45|09:30:15|
 |Late morning|Venus|Servant|09:30:16|11:15:46|
 |Noon|Mercury|Servant|11:15:47|13:01:17|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|14°57'40.14" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|21°30'15.94" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|4°42'48.74" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|1°21'24.18" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|4°9'16.99" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°46'40.84" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|1°21'25.22" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|4°9'17.59" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°45'34.29" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

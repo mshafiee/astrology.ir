@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|23°23'22.34" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°39'31.62" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|20°54'19.47" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°32'37.78" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|2°43'30.95" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|6°1'28.56" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|7°54'36.53" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|2°32'39.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|2°43'36.09" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|6°1'30.70" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|8°4'37.19" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°23'22.20" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°39'31.44" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°54'19.50" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|2°32'37.78" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|2°43'31.18" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|6°1'28.57" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°54'36.76" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|23°23'22.34" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°39'31.41" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|20°54'17.74" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|2°32'39.19" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|2°43'36.09" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|6°1'30.70" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|8°4'37.19" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
