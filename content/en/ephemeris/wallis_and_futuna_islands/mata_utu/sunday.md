@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:48:39 |
 | Dhuhr (Noon) | 11:51:18 |
 | Medium Coeli | 11:51:18 |
-| Sunset | 17:53:45 |
+| Sunset | 17:53:46 |
 | Maghrib | 18:07:41 |
 | Isha (Night) | 18:48:46 |
-| Sharia Midnight | 23:19:36 |
+| Sharia Midnight | 23:19:37 |
 | Imum Coeli | 23:51:09 |
 {{< /tab >}}
 
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:48:39 |
 | Dhuhr (Noon) | 11:51:18 |
 | Medium Coeli | 11:51:18 |
-| Sunset | 17:53:45 |
+| Sunset | 17:53:46 |
 | Maghrib | 18:09:44 |
 | Isha (Night) | 18:48:46 |
-| Sharia Midnight | 23:16:06 |
+| Sharia Midnight | 23:16:07 |
 | Imum Coeli | 23:51:09 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:48:39 |
 | Dhuhr (Noon) | 11:51:18 |
 | Medium Coeli | 11:51:18 |
-| Sunset | 17:53:45 |
+| Sunset | 17:53:46 |
 | Maghrib | 17:54:40 |
 | Isha (Night) | 19:05:13 |
-| Sharia Midnight | 23:15:29 |
+| Sharia Midnight | 23:15:30 |
 | Imum Coeli | 23:51:09 |
 {{< /tab >}}
 
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°29'17.76" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°46'8.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°7'17.55" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°7'17.55" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|3°20'38.35" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Retrograde|2°13'22.68" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|5°21'22.26" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°29'17.76" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°46'8.17" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|21°7'17.55" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°7'17.55" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|3°20'38.35" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|2°13'22.68" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|5°21'22.26" |Aries|Sharatain|Mars|

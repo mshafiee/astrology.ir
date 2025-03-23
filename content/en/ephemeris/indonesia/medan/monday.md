@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:19:15 |
+| Fajr (Dawn) | 05:19:16 |
 | Sunrise | 06:27:47 |
 | Dhuhr (Noon) | 12:31:34 |
 | Medium Coeli | 12:31:34 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°38'21.22" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°56'26.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°27'46.11" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°27'46.11" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°34'6.73" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|1°27'2.74" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|4°17'8.08" |Pisces|FarghAlMuqaddam|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°38'21.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°56'26.34" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|21°27'47.13" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°34'7.31" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|1°27'4.44" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|4°17'9.00" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°50'48.56" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|14°56'26.06" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°27'46.11" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°34'6.73" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|1°27'2.74" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|4°17'8.08" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°56'33.30" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -365,7 +365,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Venus|Saturn|Pisces|Sun|Mars|
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
-|☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
+|☿ Mercury|Mars|Venus|Taurus|Sun|Mars|
 |☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 

@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:49:42 |
-| Sunrise | 06:50:41 |
+| Sunrise | 06:50:42 |
 | Dhuhr (Noon) | 13:05:13 |
 | Medium Coeli | 13:05:13 |
 | Sunset | 19:21:10 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:05:23 |
-| Sunrise | 06:50:41 |
+| Sunrise | 06:50:42 |
 | Dhuhr (Noon) | 13:05:13 |
 | Medium Coeli | 13:05:13 |
 | Sunset | 19:21:10 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:20:50 |
-| Sunrise | 06:50:41 |
+| Sunrise | 06:50:42 |
 | Dhuhr (Noon) | 13:05:13 |
 | Medium Coeli | 13:05:13 |
 | Sunset | 19:21:10 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:15:46 |
-| Sunrise | 06:50:41 |
+| Sunrise | 06:50:42 |
 | Dhuhr (Noon) | 13:05:13 |
 | Medium Coeli | 13:05:13 |
 | Sunset | 19:21:10 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°25'0.52" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°41'20.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|20°57'54.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°57'54.94" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|2°45'52.31" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Retrograde|2°34'53.02" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|5°50'24.47" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°25'0.52" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°41'20.91" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|20°57'54.94" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°57'54.94" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|2°45'52.31" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|2°34'53.02" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|5°50'24.47" |Aries|Sharatain|Mars|

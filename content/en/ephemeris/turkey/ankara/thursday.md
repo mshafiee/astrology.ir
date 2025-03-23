@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:26:53|Night duration: 11:31:30|
+|Duration of the day: 12:26:53|Night duration: 11:31:31|
 |Every hour of day duration: 01:02:14|Every hour of night duration: 00:57:38|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Mars|Servant|22:00:30|22:58:07|Creating love, connection and marriage|
 |5|Sun|Servant|22:58:08|23:55:44|Indulgence|
 |6|Venus|Servant|23:55:45|00:53:22|Outer and inner journey|
-|7|Mercury|Servant|00:53:23|01:50:59|Achieving status and power|
-|8|Moon|Ruler|01:51:00|02:48:37|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:48:38|03:46:14|Reaching status and promotion|
-|10|Jupiter|Servant|03:46:15|04:43:52|Fulfilling needs|
-|11|Mars|Servant|04:43:53|05:41:29|Attraction of love and hearts|
-|12|Sun|Servant|05:41:30|06:39:07|Attracting misfortune, not suitable for any task|
+|7|Mercury|Servant|00:53:23|01:51:00|Achieving status and power|
+|8|Moon|Ruler|01:51:01|02:48:37|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:48:38|03:46:15|Reaching status and promotion|
+|10|Jupiter|Servant|03:46:16|04:43:52|Fulfilling needs|
+|11|Mars|Servant|04:43:53|05:41:30|Attraction of love and hearts|
+|12|Sun|Servant|05:41:31|06:39:08|Attracting misfortune, not suitable for any task|
 
  
  
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°54'15.12" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|15°15'3.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|22°5'24.90" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°5'24.90" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|6°43'23.56" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|0°7'35.28" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|2°22'17.61" |Pisces|FarghAlMuqaddam|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°54'15.12" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°15'3.42" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|22°5'24.90" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|22°5'24.90" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|6°43'23.56" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|0°7'35.28" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|2°22'17.61" |Aries|Sharatain|Mars|

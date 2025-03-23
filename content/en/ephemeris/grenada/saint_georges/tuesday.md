@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°48'55.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°8'44.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°52'37.64" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|5°59'55.75" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|0°33'49.19" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|3°0'37.12" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|24°23'54.92" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'43.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°52'31.62" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|5°59'57.76" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|0°33'58.91" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|3°0'41.13" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|25°2'48.26" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Moon|Aries|Moon|Jupiter|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°48'55.01" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°8'43.67" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|21°52'31.62" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°52'31.62" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|5°59'57.76" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|0°33'58.91" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|3°0'41.13" |Aries|Sharatain|Mars|

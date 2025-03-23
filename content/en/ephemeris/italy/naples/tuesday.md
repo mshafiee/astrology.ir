@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°40'1.62" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°58'21.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°31'39.63" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°47'41.09" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|1°18'17.46" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|4°4'54.50" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|7°50'27.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|21°31'47.87" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°47'31.84" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|1°17'42.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|4°4'38.93" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°43'1.70" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°40'1.62" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°58'21.94" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|21°31'39.63" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°31'39.63" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|4°47'41.09" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|1°18'17.46" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|4°4'54.50" |Aries|Sharatain|Mars|
