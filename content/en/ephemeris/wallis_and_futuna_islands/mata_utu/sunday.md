@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:48:39 |
 | Dhuhr (Noon) | 11:51:18 |
 | Medium Coeli | 11:51:18 |
-| Sunset | 17:53:46 |
+| Sunset | 17:53:45 |
 | Maghrib | 17:54:40 |
 | Isha (Night) | 19:01:06 |
-| Sharia Midnight | 23:15:30 |
+| Sharia Midnight | 23:15:29 |
 | Imum Coeli | 23:51:09 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:48:39 |
 | Dhuhr (Noon) | 11:51:18 |
 | Medium Coeli | 11:51:18 |
-| Sunset | 17:53:46 |
+| Sunset | 17:53:45 |
 | Maghrib | 17:54:40 |
 | Isha (Night) | 18:52:53 |
 | Sharia Midnight | 23:21:40 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:48:39 |
 | Dhuhr (Noon) | 11:51:18 |
 | Medium Coeli | 11:51:18 |
-| Sunset | 17:53:46 |
+| Sunset | 17:53:45 |
 | Maghrib | 17:54:40 |
 | Isha (Night) | 19:03:10 |
-| Sharia Midnight | 23:12:25 |
+| Sharia Midnight | 23:12:24 |
 | Imum Coeli | 23:51:09 |
 {{< /tab >}}
 
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°29'17.76" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°46'8.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°7'17.55" |Gemini|Dhira|Sun|
+|♂ Mars|Post-Retrograde Shadow|21°7'17.55" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|3°20'38.35" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Retrograde|2°13'22.68" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|5°21'22.26" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°29'17.76" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|14°46'8.17" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°7'17.55" |Cancer|Tarf|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°7'17.55" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|3°20'38.35" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|2°13'22.68" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|5°21'22.26" |Aries|Sharatain|Mars|

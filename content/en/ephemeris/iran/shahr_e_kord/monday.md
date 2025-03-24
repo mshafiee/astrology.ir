@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:30 |
-| Sunrise | 06:05:40 |
+| Sunrise | 06:05:39 |
 | Dhuhr (Noon) | 12:12:46 |
 | Medium Coeli | 12:12:46 |
 | Sunset | 18:20:23 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:27 |
-| Sunrise | 06:05:40 |
+| Sunrise | 06:05:39 |
 | Dhuhr (Noon) | 12:12:46 |
 | Medium Coeli | 12:12:46 |
 | Sunset | 18:20:23 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:39:20 |
-| Sunrise | 06:05:40 |
+| Sunrise | 06:05:39 |
 | Dhuhr (Noon) | 12:12:46 |
 | Medium Coeli | 12:12:46 |
 | Sunset | 18:20:23 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:14:43|Night duration: 11:43:59|
+|Duration of the day: 12:14:44|Night duration: 11:43:59|
 |Every hour of day duration: 01:01:14|Every hour of night duration: 00:58:40|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:05:40|07:06:52|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|07:06:53|08:08:06|Outer and inner journey|
-|3|Jupiter|Servant|08:08:07|09:09:19|Marriage connection is good|
-|4|Mars|Servant|09:09:20|10:10:33|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:10:34|11:11:46|Answering needs, attracting love and wealth|
+|1|Moon|Ruler|06:05:39|07:06:51|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|07:06:52|08:08:05|Outer and inner journey|
+|3|Jupiter|Servant|08:08:06|09:09:19|Marriage connection is good|
+|4|Mars|Servant|09:09:20|10:10:32|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:10:33|11:11:46|Answering needs, attracting love and wealth|
 |6|Venus|Servant|11:11:47|12:13:00|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|12:13:01|13:14:14|Making promises|
-|8|Moon|Ruler|13:14:15|14:15:27|Reconciliation of two persons, attracting love|
+|7|Mercury|Servant|12:13:01|13:14:13|Making promises|
+|8|Moon|Ruler|13:14:14|14:15:27|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:15:28|15:16:41|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:16:42|16:17:54|Good for any task|
 |11|Mars|Servant|16:17:55|17:19:08|Creating enmity and negative energy|
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°31'58.55" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|14°49'9.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°13'18.45" |Gemini|Dhira|Sun|
+|♂ Mars|Post-Retrograde Shadow|21°13'18.45" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|3°42'21.18" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Retrograde|1°59'23.15" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Retrograde|5°2'29.67" |Pisces|FarghAlMuakhar|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°31'58.55" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°49'9.80" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°13'18.45" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|23°31'58.42" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°49'9.61" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|21°13'18.49" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|3°42'21.18" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|1°59'23.15" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|5°2'29.29" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|23°10'49.50" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Retrograde|1°59'23.36" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|5°2'29.69" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|23°7'49.94" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

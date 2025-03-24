@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:41:59 |
+| Fajr (Dawn) | 04:41:58 |
 | Sunrise | 06:08:54 |
 | Dhuhr (Noon) | 12:20:56 |
 | Medium Coeli | 12:20:56 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:41:59 |
+| Fajr (Dawn) | 04:41:58 |
 | Sunrise | 06:08:54 |
 | Dhuhr (Noon) | 12:20:56 |
 | Medium Coeli | 12:20:56 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°1'13.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°23'26.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°22'34.65" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°40'14.91" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|29°34'13.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|1°33'30.81" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|19°22'54.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°23'26.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|22°22'34.55" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°40'14.81" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|29°34'13.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|1°33'30.67" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|19°22'34.11" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°1'13.43" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°23'26.43" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°22'34.55" |Cancer|Tarf|Moon|
+|♂ Mars|Post-Retrograde Shadow|22°22'34.55" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|7°40'14.81" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|29°34'13.40" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|1°33'30.67" |Aries|Sharatain|Mars|
