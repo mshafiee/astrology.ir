@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°11'11.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°35'39.88" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°35'39.88" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|22°47'48.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°1'40.47" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°48'20.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|0°27'32.42" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|9°41'53.84" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|9°1'45.37" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°48'31.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|0°27'38.38" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|10°14'48.25" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Jupiter|Venus|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°11'11.78" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°35'39.88" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°35'39.88" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|22°47'48.89" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°1'45.37" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|28°48'31.47" |Pisces|Rescha|Mars|

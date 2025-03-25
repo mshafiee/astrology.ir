@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°32'10.63" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|14°49'23.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°13'46.61" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°43'58.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Retrograde|1°58'12.97" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|5°0'59.87" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|23°25'35.43" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|14°49'23.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°13'47.79" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°43'57.42" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|1°58'8.30" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|5°0'57.84" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|23°17'20.42" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°32'10.63" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|14°49'23.61" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|14°49'23.61" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|21°13'46.61" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|3°43'58.68" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|1°58'12.97" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|5°0'59.87" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|3°43'57.42" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|1°58'8.30" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|5°0'57.84" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|23°17'20.42" |Capricorn|SaadAlBula|Sun|
 
 

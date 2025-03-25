@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°41'37.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°0'12.57" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°0'12.57" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|21°35'20.56" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|5°0'40.37" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|1°10'24.35" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|3°53'27.77" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|11°0'23.57" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Retrograde|1°9'51.33" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|3°53'12.91" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|9°59'57.01" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°41'37.48" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°0'12.57" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°0'12.57" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|21°35'20.56" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|5°0'40.37" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|1°10'24.35" |Aries|Sharatain|Mars|

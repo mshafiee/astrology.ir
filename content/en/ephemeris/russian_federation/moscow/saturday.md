@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:54:01|Night duration: 11:03:22|
+|Duration of the day: 12:54:01|Night duration: 11:03:23|
 |Every hour duration: 01:50:34|Every hour duration: 01:34:46|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Jupiter|Servant|23:46:09|01:20:54|
 |Rooster song|Mars|Servant|01:20:55|02:55:40|
 |False Dawn|Sun|Servant|02:55:41|04:30:26|
-|Dawn|Venus|Servant|04:30:27|06:05:12|
+|Dawn|Venus|Servant|04:30:27|06:05:13|
 
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°8'37.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°32'29.97" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°32'29.97" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|22°41'17.04" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|8°40'45.06" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|28°59'42.88" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°8'37.86" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°32'29.97" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°32'29.97" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|22°41'17.04" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°40'45.06" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|28°59'42.88" |Pisces|Rescha|Mars|

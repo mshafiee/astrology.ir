@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:40:37 |
 | Medium Coeli | 12:40:37 |
 | Sunset | 18:47:02 |
-| Maghrib | 18:47:56 |
+| Maghrib | 18:47:57 |
 | Isha (Night) | 19:58:32 |
 | Sharia Midnight | 00:04:39 |
 | Imum Coeli | 00:40:28 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:40:37 |
 | Medium Coeli | 12:40:37 |
 | Sunset | 18:47:02 |
-| Maghrib | 18:47:56 |
-| Isha (Night) | 20:17:56 |
+| Maghrib | 18:47:57 |
+| Isha (Night) | 20:17:57 |
 | Sharia Midnight | 00:03:37 |
 | Imum Coeli | 00:40:28 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°10'53.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°35'16.83" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°35'16.83" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|22°47'1.10" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|8°59'13.10" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|28°49'54.02" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°10'53.18" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°35'16.83" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|22°47'1.10" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|8°59'13.10" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°49'54.02" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|0°29'35.85" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|9°34'48.80" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°35'18.00" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|22°47'10.34" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|8°59'4.13" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°49'17.38" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|0°29'18.81" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|8°30'8.25" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
