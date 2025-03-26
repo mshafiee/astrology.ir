@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°39'27.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|14°57'42.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°30'18.74" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°43'2.81" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|1°21'23.76" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|4°9'9.66" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|6°56'30.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|14°57'42.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°30'27.51" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°42'51.11" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|1°20'40.19" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|4°8'50.10" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|5°42'51.04" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°39'27.27" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|14°57'42.13" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|14°57'42.13" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|21°30'18.74" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|4°43'2.81" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|1°21'23.76" |Aries|Sharatain|Mars|
