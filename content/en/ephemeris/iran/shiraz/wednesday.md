@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°46'34.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°5'59.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|21°46'59.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|5°40'56.51" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|0°45'27.97" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|3°17'30.75" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|20°21'53.66" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|15°5'58.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|21°46'59.14" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|5°40'55.84" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|0°45'25.89" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|3°17'29.70" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|20°19'38.04" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°46'34.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°5'59.00" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|21°46'59.06" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|5°40'56.51" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|0°45'24.01" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|3°17'28.84" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°19'39.05" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|23°46'34.62" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|15°5'58.81" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|21°46'59.11" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|5°40'56.50" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|0°45'28.15" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|3°17'30.77" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|20°21'53.80" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

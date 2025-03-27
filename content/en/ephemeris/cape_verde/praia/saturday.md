@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°17'12.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°43'10.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°3'26.69" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°50'59.45" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°22'7.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°50'49.11" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|22°44'3.35" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|15°43'10.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°3'21.92" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°50'54.80" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°21'56.89" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°50'43.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|22°4'7.70" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°17'12.48" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°43'10.16" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°43'10.16" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°3'26.69" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°50'59.45" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°22'7.33" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°50'54.80" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°21'56.89" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|29°50'49.11" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|22°44'3.35" |Aries|Butain|Venus|
 

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:08:08 |
-| Sunrise | 07:30:34 |
+| Sunrise | 07:30:33 |
 | Dhuhr (Noon) | 13:26:17 |
 | Medium Coeli | 13:26:17 |
 | Sunset | 19:21:21 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:58:53 |
-| Sunrise | 07:30:34 |
+| Sunrise | 07:30:33 |
 | Dhuhr (Noon) | 13:26:17 |
 | Medium Coeli | 13:26:17 |
 | Sunset | 19:21:21 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:50:47|Night duration: 12:10:17|
+|Duration of the day: 11:50:48|Night duration: 12:10:17|
 |Every hour of day duration: 00:59:14|Every hour of night duration: 01:00:51|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|07:30:34|08:29:46|Attraction of material wealth, earning and prosperity|
+|1|Jupiter|Ruler|07:30:33|08:29:46|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|08:29:47|09:29:00|Destruction of enemies|
 |3|Sun|Servant|09:29:01|10:28:14|Attraction of financial and emotional love|
 |4|Venus|Servant|10:28:15|11:27:28|Creating love, connection and marriage|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°58'46.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°20'28.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|22°16'27.05" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°20'12.88" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|29°46'7.77" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|1°50'39.40" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|14°46'13.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|23°58'45.88" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|15°20'29.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|22°16'37.32" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°20'2.81" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|29°45'27.60" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|1°50'21.01" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|13°16'41.35" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|23°58'46.02" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°20'28.08" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°20'28.08" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|22°16'27.05" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|7°20'12.88" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|29°46'7.77" |Pisces|Rescha|Mars|

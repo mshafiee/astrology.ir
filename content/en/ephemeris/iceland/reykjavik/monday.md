@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 20:17:01 |
 | Maghrib | 20:54:19 |
 | Isha (Night) | 22:39:05 |
-| Sharia Midnight | 23:52:00 |
+| Sharia Midnight | 23:51:59 |
 | Imum Coeli | 01:31:28 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°24'12.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°52'2.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°52'2.63" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|23°22'4.26" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|10°48'24.92" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|27°52'22.81" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|29°11'10.30" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°53'41.93" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°39'52.58" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°24'12.53" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°52'2.63" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°52'2.63" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°22'4.26" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°48'24.92" |Aries|Sharatain|Sun|
 |♀ Venus|Retrograde|27°52'22.81" |Pisces|Rescha|Mars|

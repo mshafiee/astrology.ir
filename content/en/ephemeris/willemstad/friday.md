@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:40:37 |
 | Medium Coeli | 12:40:37 |
 | Sunset | 18:47:02 |
-| Maghrib | 18:47:57 |
+| Maghrib | 18:47:56 |
 | Isha (Night) | 19:54:24 |
 | Sharia Midnight | 00:04:39 |
 | Imum Coeli | 00:40:28 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:40:37 |
 | Medium Coeli | 12:40:37 |
 | Sunset | 18:47:02 |
-| Maghrib | 18:47:57 |
+| Maghrib | 18:47:56 |
 | Isha (Night) | 19:46:09 |
 | Sharia Midnight | 00:10:50 |
 | Imum Coeli | 00:40:28 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:40:37 |
 | Medium Coeli | 12:40:37 |
 | Sunset | 18:47:02 |
-| Maghrib | 18:47:57 |
+| Maghrib | 18:47:56 |
 | Isha (Night) | 19:58:32 |
 | Sharia Midnight | 00:04:39 |
 | Imum Coeli | 00:40:28 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:40:37 |
 | Medium Coeli | 12:40:37 |
 | Sunset | 18:47:02 |
-| Maghrib | 18:47:57 |
-| Isha (Night) | 20:17:57 |
+| Maghrib | 18:47:56 |
+| Isha (Night) | 20:17:56 |
 | Sharia Midnight | 00:03:37 |
 | Imum Coeli | 00:40:28 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°10'53.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°35'16.83" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°35'16.83" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|22°47'1.10" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|8°59'13.10" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|28°49'54.02" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°10'53.18" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°35'16.83" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°35'16.83" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|22°47'1.10" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°59'13.10" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|28°49'54.02" |Pisces|Rescha|Mars|

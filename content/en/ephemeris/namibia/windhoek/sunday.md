@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 11:53:15|Night duration: 12:07:06|
-|Every hour of day duration: 00:59:26|Every hour of night duration: 01:00:36|
+|Every hour of day duration: 00:59:26|Every hour of night duration: 01:00:35|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'27.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'13.01" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°42'13.01" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|23°1'26.69" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°44'47.21" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|28°25'30.48" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'27.01" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'13.01" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°42'13.01" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°1'26.69" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°44'47.21" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|28°25'30.48" |Pisces|Rescha|Mars|

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:59:30 |
-| Sunrise | 06:04:47 |
+| Sunrise | 06:04:46 |
 | Dhuhr (Noon) | 12:13:44 |
 | Medium Coeli | 12:13:44 |
 | Sunset | 18:22:57 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:50:57 |
-| Sunrise | 06:04:47 |
+| Sunrise | 06:04:46 |
 | Dhuhr (Noon) | 12:13:44 |
 | Medium Coeli | 12:13:44 |
 | Sunset | 18:22:57 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:50:57 |
-| Sunrise | 06:04:47 |
+| Sunrise | 06:04:46 |
 | Dhuhr (Noon) | 12:13:44 |
 | Medium Coeli | 12:13:44 |
 | Sunset | 18:22:57 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:48:49 |
-| Sunrise | 06:04:47 |
+| Sunrise | 06:04:46 |
 | Dhuhr (Noon) | 12:13:44 |
 | Medium Coeli | 12:13:44 |
 | Sunset | 18:22:57 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°29'6.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°58'19.13" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°58'19.13" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|23°35'14.92" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°28'40.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|27°33'13.57" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°29'6.31" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°58'19.13" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°58'19.13" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°35'14.92" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|11°28'40.86" |Aries|Sharatain|Sun|
 |♀ Venus|Retrograde|27°33'13.57" |Pisces|Rescha|Mars|
