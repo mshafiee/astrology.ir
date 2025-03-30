@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:25:30 |
 | Maghrib | 18:26:26 |
 | Isha (Night) | 19:37:12 |
-| Sharia Midnight | 23:36:04 |
+| Sharia Midnight | 23:36:05 |
 | Imum Coeli | 00:16:20 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°25'12.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|15°53'19.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°24'50.87" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°56'35.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|27°48'12.61" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°5'50.40" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|9°2'34.78" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°53'19.35" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°24'43.46" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°56'42.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|27°48'41.27" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°6'3.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|9°22'49.39" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°25'12.94" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|15°53'19.35" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°53'19.35" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°24'43.46" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°56'42.29" |Aries|Sharatain|Sun|
 |♀ Venus|Retrograde|27°48'41.27" |Pisces|Rescha|Mars|

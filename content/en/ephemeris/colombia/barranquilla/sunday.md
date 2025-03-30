@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:53:50 |
-| Sunrise | 05:56:51 |
+| Sunrise | 05:56:50 |
 | Dhuhr (Noon) | 12:03:25 |
 | Medium Coeli | 12:03:25 |
 | Sunset | 18:10:08 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:57:57 |
-| Sunrise | 05:56:51 |
+| Sunrise | 05:56:50 |
 | Dhuhr (Noon) | 12:03:25 |
 | Medium Coeli | 12:03:25 |
 | Sunset | 18:10:08 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:13:17|Night duration: 11:46:06|
+|Duration of the day: 12:13:18|Night duration: 11:46:06|
 |Every hour of day duration: 01:01:06|Every hour of night duration: 00:58:51|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:56:51|06:57:56|Love and attraction of capital|
-|2|Venus|Servant|06:57:57|07:59:02|Unfortunate, no task is suitable|
-|3|Mercury|Servant|07:59:03|09:00:09|Operations of tenderness and attraction of love|
-|4|Moon|Servant|09:00:10|10:01:15|Unfortunate and repelling goodness|
-|5|Saturn|Servant|10:01:16|11:02:22|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|11:02:23|12:03:28|Suitable for all good deeds|
+|1|Sun|Ruler|05:56:50|06:57:55|Love and attraction of capital|
+|2|Venus|Servant|06:57:56|07:59:02|Unfortunate, no task is suitable|
+|3|Mercury|Servant|07:59:03|09:00:08|Operations of tenderness and attraction of love|
+|4|Moon|Servant|09:00:09|10:01:15|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:01:16|11:02:21|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:02:22|12:03:28|Suitable for all good deeds|
 |7|Mars|Servant|12:03:29|13:04:34|No task is suitable, causes misfortune|
 |8|Sun|Ruler|13:04:35|14:05:41|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|14:05:42|15:06:47|Summoning the person of interest, attracting hearts, heart tenderness|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°25'27.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|15°53'38.36" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°53'38.36" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|23°25'23.21" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|10°58'44.74" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|27°47'43.65" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°25'27.82" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|15°53'38.36" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°53'38.36" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°25'23.21" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°58'44.74" |Aries|Sharatain|Sun|
 |♀ Venus|Retrograde|27°47'43.65" |Pisces|Rescha|Mars|

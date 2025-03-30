@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:04:43 |
+| Fajr (Dawn) | 04:04:42 |
 | Sunrise | 05:30:29 |
 | Dhuhr (Noon) | 11:44:18 |
 | Medium Coeli | 11:44:18 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°13'52.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|15°39'0.18" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°39'0.18" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|22°54'46.29" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°23'42.07" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|28°36'26.95" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°13'52.69" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|15°39'0.18" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°39'0.18" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|22°54'46.29" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°23'42.07" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|28°36'26.95" |Pisces|Rescha|Mars|

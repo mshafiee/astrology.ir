@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°25'25.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|15°53'33.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°25'13.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°58'10.01" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|27°47'22.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°4'45.90" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°26'13.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°53'34.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°25'15.30" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°58'22.63" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|27°47'59.81" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°5'4.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|9°59'57.16" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°25'25.09" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|15°53'34.86" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°53'34.86" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°25'15.30" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°58'22.63" |Aries|Sharatain|Sun|
-|♀ Venus|Retrograde|27°47'59.52" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°5'4.28" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|27°47'59.81" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°5'4.43" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|9°59'57.16" |Taurus|Dabaran|Mercury|
 
 
