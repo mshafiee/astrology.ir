@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Naples
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 40.8522
 \-

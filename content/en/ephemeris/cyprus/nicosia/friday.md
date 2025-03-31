@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°51'55.13" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'29.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°39'28.89" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|24°51'55.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'29.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°39'28.84" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|14°37'6.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°13'53.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°20'7.06" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°46'0.06" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Retrograde|26°13'52.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°20'7.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°46'0.42" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°51'55.13" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'29.19" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°39'28.89" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|24°51'55.27" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'29.39" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°39'28.84" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|14°37'6.12" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°13'53.05" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°20'7.06" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°46'0.06" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|26°13'52.90" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°20'7.03" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°46'0.42" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: An Leafcois, An Leafcóis, Lefkosa, Lefkosha, Lefkosia, Lefkosian, Lefkosía, Lefkoşa, Leucosia, NIC, Nekoseje, Nicosea, Nicosia, Nicosia (Lefkosia), Nicosia - Leukosia, Nicosia - Λευκωσία, Nicosie, Nicoséa, Nicosìa, Nicusia, Nicusìa, Nicòsia, Nicósia, Nikasija, Nikosi, Nikosia, Nikosie, Nikosii, Nikosij, Nikosija, Nikosija osh, Nikosiya, Nikozi, Nikozia, Nikozija, Nikozio, Nikozja, Nikósie, Nikósía, Nikózia, Niqusya, Nėkosėjė, ni ke xi ya, ni kho seiy, nikkeasya, nikkociya, nikojya, nikoshia, nikosi'a, nikosia, nikosiya, nikozia, nykwsya, nykwzya, nyqwsya, nyqwsyh, Λευκωσία, Λευκωσίαν, Лефкоша, Никозия, Никозија, Никоси, Никосий, Никосия, Никосия ош, Нікасія, Нікосія, Նիկոսիա, ניקאסיע, ניקוסיה, نىكوسىيە, نيقوسيا, نيكوسيا, نیکوزیا, نیکوسیا, نیکۆسیا, निकोज्या, निकोसिया, নিকোসিয়া, ਨਿਕੋਸੀਆ, ନିକୋସିଆ, நிக்கோசியா, ನಿಕೋಸಿಯ, നിക്കോഷ്യ, นิโคเซีย, ནེ་ཁོ་ཤི་ཡ།, ნიქოზია, ሌፍኮዚያ, ニコシア, 尼科西亚, 尼科西亞, 니코시아

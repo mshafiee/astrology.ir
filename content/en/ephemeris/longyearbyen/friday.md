@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°51'41.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'11.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°38'51.80" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°35'10.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°14'11.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°20'31.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°11'23.48" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'9.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°38'46.23" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°35'7.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°14'11.57" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°20'30.66" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°20'25.92" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°51'41.45" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'9.87" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°38'46.23" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°35'7.85" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°14'11.57" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°20'30.66" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°20'25.92" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'11.18" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°38'51.80" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°35'10.41" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°14'11.62" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°20'31.05" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°11'23.48" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔

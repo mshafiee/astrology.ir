@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'17.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'59.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°40'35.46" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|24°52'17.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'0.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°40'35.40" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|14°40'13.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°12'38.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°19'5.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°27'18.19" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Retrograde|26°12'38.85" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°19'5.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°27'18.55" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'17.72" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'59.95" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°40'35.46" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|24°52'17.86" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'0.14" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°40'35.40" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|14°40'13.22" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°12'38.99" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|26°12'38.85" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°19'13.70" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|3°15'30.07" |Cancer|Nathrah|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Lungsod ng Muenchen, Lungsod ng München, MUC, Minca, Minche, Minga, Minhen, Minhene, Minkhen, Miunchenas, Mjunkhen, Mnichov, Mnichow, Mníchov, Monachium, Monacho, Monaco de Baviera, Monaco di Baviera, Monaco e Baviera, Monacu, Monacu di Baviera, Monacum, Muenchen, Muenegh, Muenhen, Muenih, Munchen, Munhen, Munic, Munich, Munich ed Baviera, Munih, Munike, Munique, Munix, Munkeno, Munkhen, Munîh, Mynihu, Myunxen, Myunxén, Mònacu, Mùnich ëd Baviera, Múnic, Múnich, München, Münegh, Münhen, Münih, mi wnik, mi'unikha, miunkheni, miyunik, mu ni hei, mwinhen, mwnykh, mynkn, myunhen, myunik, myunikha, myunsena, mywnkh, mywnykh, Μόναχο, Минхен, Мюнхен, Мүнхен, Мүнхэн, Мӱнхен, Մյունխեն, מינכן, مونیخ, ميونخ, ميونيخ, میونخ, म्युन्शेन, म्यूनिख, মিউনিখ, மியூனிக், ಮ್ಯೂನಿಕ್, มิวนิก, မြူးနစ်ချ်မြို့, მიუნხენი, ミュンヘン, 慕尼黑, 뮌헨

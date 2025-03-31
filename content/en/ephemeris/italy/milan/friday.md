@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'21.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'4.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°40'45.70" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°40'43.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°12'29.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°18'57.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°34'34.34" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|24°52'21.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'4.97" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°40'45.65" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°40'43.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°12'29.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°18'57.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°34'34.69" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'21.30" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'4.78" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°40'45.70" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°40'43.00" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°12'29.63" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°18'57.51" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°34'34.34" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°52'21.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'4.97" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°40'45.65" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°40'43.01" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°12'29.48" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°18'57.48" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°34'34.69" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Lungsod ng Milano, MIL, Mailand, Mediolan, Mediolanum, Mila, Milaan, Milan, Milana, Milanas, Milano, Milanu, Milao, Milà, Milán, Miláno, Milánó, Milão, Milāna, Mílanó, Mилан, mi lan, milan, milana, milani, millano, mirano, mylan, mylanw, Милан, Милано, Мілан, מילאנו, مىلان, ميلانو, মিলান, மிலன், มิลาน, მილანი, ミラノ, 米蘭, 밀라노

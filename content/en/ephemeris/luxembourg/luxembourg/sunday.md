@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Luxembourg
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 49.6117
 \-
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'31.58" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'19.10" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'41.57" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°45'23.37" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°24'46.90" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°54'42.05" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°50'4.30" |Aries|Butain|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'19.39" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'43.30" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°45'22.62" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°24'42.98" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°54'40.27" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°46'57.32" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

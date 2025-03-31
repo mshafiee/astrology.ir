@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Zagreb
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 45.8144
 \-
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|23°1'12.42" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°43'53.06" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|28°25'36.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°55'49.09" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°30'41.16" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'49.08" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°30'40.53" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'20.40" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'5.03" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'12.48" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°43'53.05" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'36.85" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°55'49.09" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°30'41.16" |Aries|Butain|Venus|
+|♄ Saturn|Direct|24°16'20.54" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'5.22" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'7.58" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°43'46.37" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°25'19.46" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'40.31" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°37'31.62" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}

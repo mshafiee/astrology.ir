@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Rome
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.8919
 \-
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°42'11.36" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°1'25.05" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°44'33.57" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'19.51" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°55'22.02" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°55'52.07" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|28°25'17.55" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'20.91" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°44'40.10" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

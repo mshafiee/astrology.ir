@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Monaco
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 43.7333
 \-
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|9°45'21.01" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|28°24'51.52" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|29°54'45.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°20'28.32" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°55'3.74" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'31.13" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'18.47" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'40.40" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°45'20.99" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°24'51.65" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°54'45.81" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°55'4.36" |Aries|Butain|Venus|
+|♄ Saturn|Direct|24°16'31.27" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'18.65" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'40.35" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°45'21.01" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°24'51.52" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°54'45.79" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°55'3.74" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

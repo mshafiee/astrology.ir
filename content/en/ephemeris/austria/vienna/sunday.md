@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Vienna
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.2085
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'19.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'3.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°1'10.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°43'44.87" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°25'39.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°55'54.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°26'18.78" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°16'19.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'4.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°1'10.00" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°43'44.89" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°25'39.65" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°55'54.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°26'18.16" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'19.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'3.82" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'10.06" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°43'44.87" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'39.79" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°55'54.22" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°26'18.78" |Aries|Butain|Venus|
+|♄ Saturn|Direct|24°16'19.56" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'5.01" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'16.06" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°43'40.45" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°25'20.08" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'45.13" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°1'16.31" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'5.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'43.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°39'59.09" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°38'30.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°13'18.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°19'38.92" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°4'26.42" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|24°52'5.49" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'43.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°39'59.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°38'30.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°13'18.64" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°19'38.89" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°4'26.78" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'5.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'43.12" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°39'59.09" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°38'30.70" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°13'18.79" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°19'38.92" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°4'26.42" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°52'5.49" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'43.31" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°39'59.04" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°38'30.71" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°13'18.64" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°19'38.89" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°4'26.78" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: SOF, Safija, Serdica, Sofi, Sofia, Sofiae, Sofie, Sofii, Sofij, Sofija, Sofija osh, Sofijo, Sofio, Sofiya, Sofiä, Sofiýa, Sofja, Sofya, Sofía, Soifia, Sophia, Sredets, Suofeje, Suofėjė, Szofia, Szófia, Sòfia, Sófia, Sófía, Sóifia, Ulpia Serdica, cohviya, saphiya, seaphiya, sofeiy, sofi'a, sofia, sophiya, sopia, suo fei ya, swfya, swfyh, swpyh, Σόφια, Сафія, Софи, Софий, София, София ош, Софија, Софія, Софїꙗ, Սոֆիա, סאפיע, סופיה, سوفىيە, سۆفیا, صوفيا, صوفیه, صوفیہ, صوٙفیە, सोफिया, সফিয়া, ਸੋਫ਼ੀਆ, சோஃவியா, സോഫിയ, โซเฟีย, སོ་ཧྥི་ཡ།, სოფია, ሶፊያ, ソフィア, 索菲亞, 소피아, 𐍃𐍉𐍆𐌹𐌰

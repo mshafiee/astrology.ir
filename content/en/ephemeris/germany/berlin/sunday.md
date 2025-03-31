@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Berlin
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 52.5244
 \-
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°42'7.14" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°1'16.75" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°44'4.92" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'26.55" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°55'38.08" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°27'11.71" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|28°25'26.05" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'37.83" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°25'26.99" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

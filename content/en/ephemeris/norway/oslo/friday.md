@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'13.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'54.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°40'24.53" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°39'39.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°12'44.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°19'13.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°17'29.80" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|24°52'13.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'54.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°40'24.47" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°39'39.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°12'44.75" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°19'12.98" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°17'30.15" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'13.68" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'54.60" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°40'24.53" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°39'39.35" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°12'44.89" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°19'13.01" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°17'29.80" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°52'13.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'54.79" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°40'24.47" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°39'39.36" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°12'44.75" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°19'12.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°17'30.15" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Asloa, Christiania, Kristiania, OSL, Ohoro, Osla, Oslas, Oslo, Oslo osh, Oslu, Osló, ajalo, ao si lu, asalo, aslw, awslw, osalo, oseullo, oslea, oslo, osuro, xxslo, ywslw, Òslo, Ósló, Ōhoro, Όσλο, Осла, Осло, Осло ош, Օսլո, אוסלו, أوسلو, ئوسلو, ئۆسلۆ, اسلو, اوسلو, ܐܘܣܠܘ, ओस्लो, অজলো, ওসলো, ਓਸਲੋ, ଅସଲୋ, ஒஸ்லோ, ഓസ്ലൊ, ออสโล, ཨོ་སི་ལོ།, အော့စလိုမြို့, ოსლო, ኦስሎ, オスロ, 奥斯陆, 오슬로

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Turin
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 45.0705
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'30.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'17.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°1'39.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°45'16.27" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°24'53.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°54'48.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°52'37.17" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°16'30.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'17.95" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°1'38.94" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°45'16.29" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°24'53.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°54'48.77" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°52'36.55" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'30.55" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'17.76" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'39.00" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|24°16'30.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'17.95" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'38.94" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°45'16.29" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|28°24'53.25" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°54'48.77" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°52'36.55" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|29°54'49.63" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°57'50.58" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

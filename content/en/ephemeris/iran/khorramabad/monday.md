@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:05:47 |
 | Dhuhr (Noon) | 12:20:40 |
 | Medium Coeli | 12:20:40 |
-| Sunset | 18:36:05 |
+| Sunset | 18:36:06 |
 | Maghrib | 18:41:11 |
 | Isha (Night) | 19:46:55 |
 | Sharia Midnight | 23:44:53 |
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:05:47 |
 | Dhuhr (Noon) | 12:20:40 |
 | Medium Coeli | 12:20:40 |
-| Sunset | 18:36:05 |
+| Sunset | 18:36:06 |
 | Maghrib | 18:41:11 |
 | Isha (Night) | 19:59:28 |
 | Sharia Midnight | 23:33:33 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:05:47 |
 | Dhuhr (Noon) | 12:20:40 |
 | Medium Coeli | 12:20:40 |
-| Sunset | 18:36:05 |
+| Sunset | 18:36:06 |
 | Maghrib | 18:41:11 |
 | Isha (Night) | 20:11:11 |
-| Sharia Midnight | 23:36:05 |
+| Sharia Midnight | 23:36:06 |
 | Imum Coeli | 00:20:31 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°22'56.97" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°50'25.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°18'41.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°38'6.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|27°57'47.94" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°18'6.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°34'12.96" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|24°22'57.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°50'26.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°18'40.51" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°38'6.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|27°57'47.33" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°18'6.12" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°28'18.53" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°54'6.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°31'28.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°45'53.61" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°55'19.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°7'18.93" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°14'40.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°56'32.95" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|24°54'7.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°31'28.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°45'53.56" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°55'19.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°7'18.79" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°14'40.28" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|6°56'33.27" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°54'6.88" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°31'28.18" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°45'53.61" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°55'19.17" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°7'18.93" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°14'40.31" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°56'32.95" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°54'7.02" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°31'28.37" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°45'53.56" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°55'19.18" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°7'18.79" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°14'40.28" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°56'33.27" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Taronta, Torontas, Toronto, Torontu, Torontum, Torontó, YTO, duo lun duo, roranro, taronto, teareantea, tho rxn to, tolonto, toramto, toranto, toronto, twrntw, twrwntw, Τορόντο, Таронта, Торонто, Տորոնտո, טאראנטא, טורונטו, تورنتو, تورونتو, ٹورانٹو, ٹورنٹو, टोरण्टो, टोरन्टो, टोराँटो, तोरन्तो, টরোন্টো, ਟੋਰਾਂਟੋ, ரொறன்ரோ, టొరంటో, ಟೊರಾಂಟೋ, ടോറോണ്ടോ, โทรอนโต, တိုရွန်တိုမြို့, ტორონტო, トロント, 多伦多, 多倫多, 토론토

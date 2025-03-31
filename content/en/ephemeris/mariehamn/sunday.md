@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Mariehamn
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 60.0973
 \-
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°41'54.19" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|23°0'50.12" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°42'39.50" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°26'7.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°56'37.61" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|19°57'46.72" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|28°26'3.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°56'35.58" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|19°31'26.43" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

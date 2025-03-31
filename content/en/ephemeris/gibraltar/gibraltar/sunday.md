@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Gibraltar
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 36.1447
 \-
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'47.96" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'39.53" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°2'23.56" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°47'38.01" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°23'43.51" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°53'8.86" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°36'49.89" |Aries|Butain|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'39.74" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°2'23.01" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°47'41.17" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°23'54.18" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°53'14.01" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°58'27.65" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

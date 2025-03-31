@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Dublin
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 53.3331
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'45.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'36.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°2'19.22" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°47'18.23" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°23'47.85" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°53'19.78" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|21°25'24.35" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'36.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°2'18.20" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°47'17.02" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°23'44.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°53'18.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|21°15'24.78" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

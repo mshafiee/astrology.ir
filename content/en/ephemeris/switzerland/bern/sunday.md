@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Bern
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 46.9481
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'30.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'18.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°1'40.24" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°45'13.95" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°24'45.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°54'45.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°39'43.40" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°16'30.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'17.89" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°1'38.92" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°45'15.73" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°24'52.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°54'48.53" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°50'41.69" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

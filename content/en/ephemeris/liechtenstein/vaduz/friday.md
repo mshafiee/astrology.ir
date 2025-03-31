@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'20.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'3.65" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°40'43.35" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°40'35.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°12'31.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°18'59.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°32'42.62" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|24°52'20.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'3.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°40'43.30" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°40'35.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°12'31.17" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°18'59.19" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°32'42.97" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'20.46" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'3.65" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°40'43.35" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°40'35.94" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°12'31.31" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°18'59.22" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°32'42.62" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°52'20.60" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'3.84" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°40'43.30" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°40'35.95" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°12'31.17" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°18'59.19" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°32'42.97" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bantouz, QVU, Vaduc, Vaducas, Vaduz, Vaduzo, fado~utsu, paducheu, vadutsi, wa dou zi, Βαντούζ, Вадуц, פאדוץ, ვადუცი, ፋዱጽ, ファドゥーツ, 瓦都茲, 파두츠

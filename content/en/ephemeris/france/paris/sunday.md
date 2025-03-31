@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Paris
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.8534
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'36.13" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'24.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°1'55.88" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°46'0.14" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°24'19.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°54'10.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°50'58.09" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°16'36.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'24.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°1'53.81" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°46'1.86" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°24'27.07" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°54'14.35" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|21°0'37.20" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

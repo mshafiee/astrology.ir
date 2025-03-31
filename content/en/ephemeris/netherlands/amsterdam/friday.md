@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|24°40'54.28" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|14°41'6.09" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|26°12'17.57" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°18'35.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°52'39.12" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|27°18'48.56" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°38'50.41" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'24.11" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°52'24.25" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|16°29'8.84" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°40'58.84" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°40'58.81" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°11'50.57" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°18'35.60" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°52'39.48" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|24°40'54.28" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°41'6.09" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°12'17.57" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°18'48.56" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°38'50.41" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: AMS, Aemstelredamme, Aemsterdam, Amestelledamme, Amesterda, Amesterdam, Amesterdao, Amesterdã, Amesterdão, Amistardam, Amseutereudam, Amstardam, Amstardām, Amstedam, Amstehrdam, Amsteladamum, Amstelodamum, Amstelodhamon, Amstelodhámon, Amsterda, Amsterdam, Amsterdama, Amsterdamas, Amsterdame, Amsterdami, Amsterdamo, Amsterdams, Amsterdamu, Amsterdan, Amsterdã, Amsterntam, Amsterodam, Amstyerdam, Amstèdam, Amstèrdame, Amstérdam, Amstɛrɩdam, Amsut'erudam, Amszterdam, Amsŭt'erŭdam, Amusitedan, Amusuterudamu, Damsko, I-Amsterdami, Mokum, Mokum Aleph, a mu si te dan, aimstardaima, amasataradama, amastaradama, amastararyama, amseuteleudam, amstardama, amstartam, amstrdam, amusuterudamu, anstardyam, emstaradyama, xamstexrdam, yەmstەrdam, Àmsterdam, Ámsterdam, Ámsterdan, Âmesterdâm, Āmǔsītèdān, Άμστερνταμ, Амстердам, Амстэрдам, Ամստերդամ, אמסטערדאם, אמסטרדם, آمستردام, أمستردام, ئامستېردام, ئەمستەردام, امستردام, امسټرډام, ایمسٹرڈیم, ܐܡܣܛܪܕܐܡ, अ‍ॅम्स्टरडॅम, आम्स्टर्डम, एम्स्तरद्याम, ऐम्स्टर्डैम, আমস্টারডাম, ਅਮਸਤਰਦਮ, ଆମଷ୍ଟରଡ଼୍ୟାମ, ஆம்ஸ்டர்டம், ಆಂಸ್ಟರ್ಡ್ಯಾಮ್, ആംസ്റ്റർഡാം, ඈම්ස්ටර්ඩෑම්, อัมสเตอร์ดัม, ཨེམ་སི་ཊར་ཌམ།, အမ်စတာဒမ်မြို့, ამსტერდამი, አምስተርዳም, アムステルダム, 阿姆斯特丹, 암스테르담

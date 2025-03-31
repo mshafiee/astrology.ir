@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'1.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'37.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°39'48.07" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°37'58.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°13'29.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°19'48.30" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°14'2.55" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|24°52'1.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'38.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°39'48.02" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°37'58.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°13'29.28" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°19'48.28" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°56'46.97" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'1.52" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'37.95" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°39'48.07" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°37'58.91" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°13'29.42" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°19'48.30" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°56'46.61" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°52'1.66" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'38.14" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°39'48.02" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°37'58.92" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°13'29.28" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°19'48.28" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°56'46.97" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Sarajevo
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 43.8486
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'17.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'1.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°1'6.01" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°43'33.27" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°25'48.40" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°56'4.17" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°27'30.17" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°16'18.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'2.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°1'5.95" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°43'33.29" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°25'48.27" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°56'4.16" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°27'29.55" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'17.98" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'1.98" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'6.01" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|24°16'18.13" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'2.17" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'5.95" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°43'33.29" |Aries|Sharatain|Mars|
 |♀ Venus|Retrograde|28°25'48.27" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|29°56'4.16" |Pisces|Rescha|Mars|

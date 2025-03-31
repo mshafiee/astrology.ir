@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Brussels
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 50.8505
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'33.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'21.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°1'46.42" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°45'38.03" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°24'38.58" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°54'30.96" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°52'36.79" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°16'33.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'21.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°1'46.36" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°45'38.05" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°24'38.44" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°54'30.94" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°52'36.17" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

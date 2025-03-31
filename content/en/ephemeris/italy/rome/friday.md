@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'18.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'0.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°40'36.76" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°40'18.30" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°12'40.32" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°19'6.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°29'23.51" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|24°52'18.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'0.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°40'36.71" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°40'18.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°12'40.18" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°19'5.98" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°29'23.86" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'18.32" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'0.69" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°40'36.76" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°40'18.30" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°12'40.32" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°19'6.01" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°29'23.51" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°52'18.46" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'0.88" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°40'36.71" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°40'18.31" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°12'40.18" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°19'5.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°29'23.86" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마

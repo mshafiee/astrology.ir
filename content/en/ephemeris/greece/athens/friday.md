@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°52'6.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'43.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°39'59.36" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°38'28.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°13'0.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°19'29.20" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°38'26.36" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'44.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°40'0.49" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°38'35.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°13'19.09" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°19'38.50" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°6'18.64" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|24°40'0.49" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|14°38'35.83" |Aries|Butain|Sun|
 |♀ Venus|Retrograde|26°13'19.09" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°19'38.53" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°6'18.28" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|27°19'38.50" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°6'18.64" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ATH, Afina, Afini, Afiny, An Aithin, Ateena, Atehny, Aten, Atena, Atenai, Atenas, Atenas - Athena, Atenas - Αθήνα, Atene, Atenes, Ateni, Ateno, Atenoj, Ateny, Athen, Athena, Athenae, Athenai, Athene, Athenes, Athens, Atheny, Athina, Athinai, Athinia, Athènes, Athén, Athénes, Athény, Athína, Athínai, Atina, Atény, Atēnas, Atėnai, Aþena, Kota Athena, Lungsod ng Athina, Lungsod ng Athína, atene, atene si, ateni, athensa, athyna, atn, etens, xethens, ya dian, Αθήνα, Αθήναι, Αθηνα, Αθηναι, Атина, Атэны, Афины, Афіни, Аѳины, Աթենք, אתונה, آتن, أثينا, ئافېنا, ܐܬܝܢܐ, अथेन्स, ஏதென்ஸ், เอเธนส์, ათენი, Ἀθῆναι, アテネ, 雅典, 아테네, 아테네 시

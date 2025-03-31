@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Donetsk
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 48.0230
 \-
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|23°0'2.59" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°40'13.71" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Retrograde|28°27'31.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°58'28.56" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|19°32'36.48" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|29°58'28.09" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|19°30'23.27" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

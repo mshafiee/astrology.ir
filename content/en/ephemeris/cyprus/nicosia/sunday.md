@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Nicosia
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 35.1753
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'1.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°41'41.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°0'21.87" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°41'17.02" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°27'5.09" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°57'46.49" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°0'33.28" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°16'1.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°41'41.20" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°0'21.81" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°41'17.04" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°27'4.96" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°57'46.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°0'32.66" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'1.33" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°41'41.01" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°0'21.87" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°41'17.02" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°27'5.09" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°57'46.49" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°0'33.28" |Aries|Butain|Venus|
+|♄ Saturn|Direct|24°16'1.47" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°41'40.79" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°0'21.02" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°41'14.47" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°26'57.38" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°57'42.72" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°41'26.09" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Tirana
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.3275
 \-
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°42'0.46" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°1'2.26" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°43'22.36" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'55.44" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°56'12.97" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°27'1.57" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|28°25'54.19" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°56'12.55" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°32'13.94" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Madrid
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 40.4165
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'45.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'36.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°2'17.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°47'16.45" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°23'52.70" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°53'23.12" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|21°27'34.89" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|24°16'45.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'36.29" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°2'17.00" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°47'16.46" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°23'52.56" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°53'23.10" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|21°27'34.27" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

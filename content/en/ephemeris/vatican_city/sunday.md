@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Vatican City
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.9027
 \-
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'25.55" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°42'11.45" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'26.59" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°44'31.54" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'7.64" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°55'15.91" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°27'54.31" |Aries|Butain|Venus|
+|♂ Mars|Post-Retrograde Shadow|23°1'25.23" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°44'34.15" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°25'17.24" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'20.48" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°44'48.34" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°51'59.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'35.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°39'42.70" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°37'40.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°13'29.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°19'50.49" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°50'28.24" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|24°51'59.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'35.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°39'42.65" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°37'40.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°13'29.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°19'50.46" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°50'28.60" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°51'59.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'35.18" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°39'42.70" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°37'40.78" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°13'29.39" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°19'50.49" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°50'28.24" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°51'59.52" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'35.37" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°39'42.65" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°37'40.79" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°13'29.25" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°19'50.46" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°50'28.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: RIX, Reiga, Riga, Rigae, Rige, Rigg-a, Rigo, Riia, Riigaa, Riika, Rija, Riqa, Ryga, Ríga, Ríge, Rīga, li jia, liga, ri ka, riga, rika, ryga, rygh, rygha, ryja, Ρίγα, Ригæ, Рига, Рыга, Ріґа, Ռիգա, ריגה, ריגע, رىگا, ريجا, ريغا, ریگا, रिगा, रीगा, রিগা, ரீகா, รีกา, རི་ག, რიგა, ሪጋ, リガ, 里加, 리가

@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:38:22 |
 | Medium Coeli | 13:38:22 |
 | Sunset | 20:11:59 |
-| Maghrib | 20:15:52 |
+| Maghrib | 20:15:53 |
 | Isha (Night) | 21:46:58 |
 | Sharia Midnight | 00:50:22 |
 | Imum Coeli | 01:38:13 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:38:22 |
 | Medium Coeli | 13:38:22 |
 | Sunset | 20:11:59 |
-| Maghrib | 20:15:52 |
-| Isha (Night) | 21:45:52 |
+| Maghrib | 20:15:53 |
+| Isha (Night) | 21:45:53 |
 | Sharia Midnight | 00:37:37 |
 | Imum Coeli | 01:38:13 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'23.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'8.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°40'52.88" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°41'2.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°12'20.44" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°18'50.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°38'28.53" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|24°52'23.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'8.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°40'52.83" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°41'2.56" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°12'20.30" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°18'50.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°38'28.88" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°52'23.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'8.03" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°40'52.88" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°41'2.55" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°12'20.30" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°18'50.40" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°38'28.88" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°52'23.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'8.22" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°40'52.83" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°41'2.56" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°11'56.55" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°18'39.33" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°28'5.21" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bandar Luxembourg, Ciudad de Luxemburgo, Ciutat de Luxemburg, Dinas Lwcsembwrg, LUX, Letzebuerg, Letzeburg, Liksanbou, Liuksemburgas, Ljuksemburg, Louxemvourgo, Lucemburk, Lucilinburhuc, Lucsamburg, Lucsemburg, Lueksemburg, Lueksemburq, Luessemburgh, Luksambuur, Luksemboarch, Luksembourg, Luksemburg, Luksemburga, Luksemburgo, Luksemburgu, Luksembùrg, Luksimbur, Lungsod ng Luksemburgo, Lusenburgo, Lussemborgh, Lussemburgo, Lussemburgu, Lussimbork veye, Luxemboerg, Luxemborg, Luxemborj, Luxembourg, Luxembourg by, Luxemburg, Luxemburgo, Luxemburgum, Luxembuurich, Luxembôrg, Luxembörg, Luxenburgo, Lëtzebuerg, Lúksemboarch, Lúxemborg, Lüksemburg, Lüksemburq, Lüssemburgh, Rakapuo, Rakapuō, Stad Letzebuerg, Stad Lëtzebuerg, Stadt Luxemburg, Ville de Luxembourg, lak sem beirk, lakcampark, lakjhembarga, lksmbrg, lu sen bao cheng, lu sen bao shi, lugsembuleukeu, luksemaburga, luksemburgi, lwksmbwrgh, lwkzambwrg, lwqsmbwrg, rukusenburuku, Λουξεμβούργο, Луксембург, Люксембург, Лүксембург, Լյուքսեմբուրգ, לוקסמבורג, لوكسمبورغ, لوکزامبورگ, لوکسەمبورگ, ليۇكسېمبۇرگ شەھىرى, لکسمبرگ, लक्झेंबर्ग, লুক্সেমবুর্গ, லக்சம்பர்க், ลักเซมเบิร์ก, ལུ་སེམ་བའུརག, ლუქსემბურგი, ሉክሰምበርግ, ルクセンブルク, 盧森堡城, 盧森堡市, 룩셈부르크

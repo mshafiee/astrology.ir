@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Munich
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.1374
 \-
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'25.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'11.14" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'25.33" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°44'32.70" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'14.60" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°55'19.42" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°38'35.50" |Aries|Butain|Venus|
+|♄ Saturn|Direct|24°16'25.39" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'11.33" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'25.27" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°44'32.72" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°25'14.46" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'19.40" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°38'34.88" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

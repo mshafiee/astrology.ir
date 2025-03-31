@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Prague
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 50.0880
 \-
@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:47:55 |
+| Fajr (Dawn) | 04:47:56 |
 | Sunrise | 06:42:52 |
 | Dhuhr (Noon) | 13:06:41 |
 | Medium Coeli | 13:06:41 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:47:55 |
+| Fajr (Dawn) | 04:47:56 |
 | Sunrise | 06:42:52 |
 | Dhuhr (Noon) | 13:06:41 |
 | Medium Coeli | 13:06:41 |

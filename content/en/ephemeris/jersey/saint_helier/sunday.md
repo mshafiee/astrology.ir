@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Saint Helier
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 49.1880
 \-

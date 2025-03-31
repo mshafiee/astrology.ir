@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:17:10|Night duration: 11:42:01|
+|Duration of the day: 12:17:10|Night duration: 11:42:02|
 |Every hour of day duration: 01:01:26|Every hour of night duration: 00:58:30|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Sun|Servant|20:19:45|21:18:14|Operations of tenderness and attraction of love|
 |4|Venus|Servant|21:18:15|22:16:44|Unfortunate and repelling goodness|
 |5|Mercury|Servant|22:16:45|23:15:14|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:15:15|00:13:44|Suitable for all good deeds|
-|7|Saturn|Servant|00:13:45|01:12:14|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:12:15|02:10:44|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|02:10:45|03:09:14|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|03:09:15|04:07:44|Attracting happiness, solving financial problems|
-|11|Venus|Servant|04:07:45|05:06:14|Performing promises|
-|12|Mercury|Servant|05:06:15|06:04:45|Finding the fugitive and discovering the thief|
+|6|Moon|Servant|23:15:15|00:13:45|Suitable for all good deeds|
+|7|Saturn|Servant|00:13:46|01:12:15|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:12:16|02:10:45|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:10:46|03:09:15|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|03:09:16|04:07:45|Attracting happiness, solving financial problems|
+|11|Venus|Servant|04:07:46|05:06:15|Performing promises|
+|12|Mercury|Servant|05:06:16|06:04:46|Finding the fugitive and discovering the thief|
 
  
  

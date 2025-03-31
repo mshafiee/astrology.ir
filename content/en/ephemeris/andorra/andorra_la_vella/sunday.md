@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Andorra la Vella
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 42.5078
 \-
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'38.72" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'28.50" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'59.67" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°46'27.06" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°24'35.95" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°54'9.55" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°46'30.31" |Aries|Butain|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'28.00" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'59.79" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°46'22.14" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°24'20.00" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°54'1.81" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°11'48.97" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
 
 
 {{< /tab >}}

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Longyearbyen
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 78.2233
 \-
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°15'58.56" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°41'36.67" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°0'10.98" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°40'50.70" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°26'54.12" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°57'49.63" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|18°55'34.65" |Aries|Butain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|15°41'38.05" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°0'17.41" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°40'51.97" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°26'52.55" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°57'49.37" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°11'22.97" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

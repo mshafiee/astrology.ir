@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Tallinn
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 59.4370
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'6.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°41'47.24" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°0'35.60" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°41'54.17" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Retrograde|28°26'31.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°57'10.96" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|19°46'52.93" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|15°41'47.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°0'35.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°42'0.56" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|28°26'52.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°57'21.13" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|20°31'35.70" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Jupiter|Venus|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mars|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
+|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|24°16'6.08" |Pisces|Rescha|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°41'47.24" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°0'35.60" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°41'54.17" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°26'31.42" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°57'10.96" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°46'52.93" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°42'0.56" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°26'52.43" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°57'21.13" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°31'35.70" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
 
 
 {{< /tab >}}

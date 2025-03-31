@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Milan
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 45.4643
 \-
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°42'15.56" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|23°1'33.98" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°45'0.66" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°24'57.03" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°54'57.88" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°36'34.65" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|28°25'1.26" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°54'59.99" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°48'14.94" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

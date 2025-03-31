@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Odessa
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 46.4857
 \-

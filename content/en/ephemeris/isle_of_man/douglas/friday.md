@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|16°29'22.99" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|24°41'24.74" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|14°42'32.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°11'45.76" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°18'22.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|4°34'52.64" |Gemini|HanAh|Jupiter|
+|♀ Venus|Retrograde|26°11'45.57" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°18'21.82" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°29'43.22" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°52'34.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°29'24.05" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°41'28.84" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°42'34.40" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°11'45.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°18'22.18" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°34'52.64" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'22.99" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°41'24.74" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°42'32.45" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°11'45.57" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°18'21.82" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°58'33.69" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Daglas, Daglasa, Daglasas, Doolish, Douglas, Douglas pa Isle of Man, Douglas på Isle of Man, Douglas  Isle of Man, Dubh Lios, Duglas, Duqlas, Ntanklas, Port Douglas, dagalasa, daglasa, dagurasu, daklas, dao ge la si, deogeulleoseu, duglasi, dwghlas, dwglas, taklacu, Ντάγκλας, Даглас, Дуглас, Дъглас, דאגלס, دوغلاس, دوگلاس, ڈگلس, डग्लस, ਡਗਲਸ, டக்லசு, ดักลาส, დუგლასი, ダグラス, 道格拉斯, 더글러스

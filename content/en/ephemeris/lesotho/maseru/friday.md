@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°52'11.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°28'50.03" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°40'10.90" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°39'19.29" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°13'14.37" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°19'30.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°46'48.73" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|16°28'50.22" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°40'10.85" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°39'19.30" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°13'14.23" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°19'30.30" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°46'49.07" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

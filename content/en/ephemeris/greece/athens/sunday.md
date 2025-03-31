@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Athens
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 37.9838
 \-

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Valletta
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 35.8997
 \-
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'24.07" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'9.55" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'20.98" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°44'22.24" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'26.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°55'31.09" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°47'8.15" |Aries|Butain|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'9.01" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'17.56" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°44'23.83" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°25'34.89" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'34.79" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°53'57.16" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

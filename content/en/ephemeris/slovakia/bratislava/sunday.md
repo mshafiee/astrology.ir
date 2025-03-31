@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Bratislava
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.1482
 \-
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'18.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|24°16'18.68" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|15°42'2.90" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|23°1'7.70" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°43'37.69" |Pisces|FarghAlMuakhar|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'18.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'4.56" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°1'15.73" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°43'36.60" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°25'32.91" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°55'54.93" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°26'17.68" |Aries|Butain|Venus|
+|♄ Saturn|Direct|24°16'18.68" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'2.90" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°1'7.70" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°43'37.69" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°25'43.49" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°55'59.47" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°24'31.37" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

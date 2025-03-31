@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Mar 2025
 toc: false
 ---
 ## Geographic Information of Vilnius
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 54.6892
 \-
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'6.96" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°41'48.28" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°0'37.97" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°42'2.67" |Aries|Sharatain|Mars|
-|♀ Venus|Retrograde|28°26'29.94" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|29°57'6.49" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°53'51.70" |Aries|Butain|Sun|
+|♄ Saturn|Direct|24°16'7.11" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°41'48.47" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°0'36.25" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°42'3.30" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|28°26'33.25" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|29°57'8.02" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°56'18.74" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

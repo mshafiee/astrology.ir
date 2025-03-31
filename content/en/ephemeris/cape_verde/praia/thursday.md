@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°53'6.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°30'5.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°42'54.42" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°46'55.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°10'29.37" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°17'12.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°3'45.51" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|24°53'6.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°30'5.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°42'54.37" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°46'55.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°10'29.23" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°17'12.36" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°3'45.85" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°53'6.07" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°30'5.27" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°42'54.42" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°46'55.10" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°10'29.37" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°17'12.39" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°3'45.51" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°53'6.22" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°30'4.54" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°42'50.40" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°46'53.82" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°10'30.78" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°17'12.86" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°30'9.07" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Braia, Cidade da Praia, Municipio da Praia, Município da Praia, Pragia, Praia, Praja, Praje, Prajo, Prajė, Praya, RAI, braya, pei ya, peulaia, pirxa, pra'i'a, pra'iya, praya, prayya, puraia, Πράγια, Πράια, Прая, Праја, Պրայա, פראיה, برايا, پرائا, پرائیا, پرايا, پرایا, پڕایا, प्राईया, ਪ੍ਰਾਈਆ, ไปรอา, ཕུ་ར་ཡ།, პრაია, ፕራያ, プライア, 培亞, 프라이아

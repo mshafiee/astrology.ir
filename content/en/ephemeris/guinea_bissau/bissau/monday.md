@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°24'16.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|15°52'7.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|23°22'11.86" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°48'59.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|27°52'32.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|29°11'3.35" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|7°29'22.75" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°52'7.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|23°22'12.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°48'59.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|27°52'32.59" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|29°11'3.62" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|7°31'28.92" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°24'16.46" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°52'7.14" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|23°22'11.92" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°48'59.58" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|24°24'16.60" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°52'7.33" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°22'11.86" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°48'59.60" |Aries|Sharatain|Sun|
 |♀ Venus|Retrograde|27°52'32.08" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|29°11'3.35" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|7°29'22.75" |Taurus|Thurayya|Mercury|
