@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°45'1.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°19'12.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°19'36.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|13°40'1.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°35'52.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°40'36.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|19°33'45.94" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|24°45'1.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°19'12.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°19'36.23" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|13°40'1.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°35'52.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°40'36.54" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|19°33'45.54" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°45'1.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°19'12.94" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°19'36.18" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|13°40'1.16" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°35'52.10" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°40'36.51" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°33'45.94" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|24°45'1.53" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°19'12.75" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°19'36.23" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|13°40'1.15" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°35'52.25" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°40'36.54" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°33'45.54" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

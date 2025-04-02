@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°57'21.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'54.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°55'24.46" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|15°22'18.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|25°58'18.70" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°7'44.88" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|13°9'16.37" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'54.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°55'24.08" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|15°22'17.55" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|25°58'17.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°7'44.15" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|13°5'23.00" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°57'21.75" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'54.07" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°55'24.08" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|15°22'17.55" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|25°58'17.25" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°7'44.15" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°5'23.00" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|24°57'21.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'54.22" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°55'24.46" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|15°22'18.24" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|25°58'18.70" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°7'44.88" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°9'16.37" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

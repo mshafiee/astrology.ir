@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°56'18.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°34'26.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°52'15.57" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|15°13'28.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°1'21.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°9'57.75" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°6'32.93" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|24°56'17.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°34'26.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°52'15.62" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|15°13'28.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°1'21.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°9'57.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°6'32.65" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°56'18.04" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°34'26.79" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°52'15.57" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|24°56'17.89" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°34'26.60" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°52'15.62" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|15°13'28.35" |Aries|Butain|Sun|
 |♀ Venus|Retrograde|26°1'21.34" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°9'57.75" |Pisces|Rescha|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바
