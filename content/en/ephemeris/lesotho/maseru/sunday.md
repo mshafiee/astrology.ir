@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°6'24.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°48'24.26" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|16°48'24.26" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|25°22'23.64" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|16°37'35.38" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Retrograde|25°35'10.47" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°6'24.04" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°48'24.26" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°48'24.26" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|25°22'23.64" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°37'35.38" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|25°35'10.47" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°54'16.96" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°40'51.36" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°37'22.95" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|25°34'23.62" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°53'54.73" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°46'22.60" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}

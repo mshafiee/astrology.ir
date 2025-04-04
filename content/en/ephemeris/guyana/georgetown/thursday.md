@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°53'48.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°31'2.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°44'57.41" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°52'45.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|26°8'27.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°15'31.49" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°24'25.76" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|24°53'48.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|16°31'2.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°44'57.36" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°52'45.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|26°8'27.33" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°15'31.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|6°24'26.08" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°53'48.31" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°31'2.63" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°44'57.41" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°52'45.75" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|26°8'27.47" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°15'31.49" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°24'25.76" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|24°53'48.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|16°31'2.82" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°44'57.36" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°52'45.76" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|26°8'27.33" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°15'31.47" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°24'26.08" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Demerara, Dzhordzhtaun, Dzordztaun, Dzordztauna, Dzordztaunas, Dzordztauns, Džordžtaun, Džordžtauna, Džordžtaunas, Džordžtauns, GEO, Georgetown, Georgetown i Guyana, Georgiopolis, Georgurbo, Jojton, Jòjtòn, Tzortztaoun, Zhorzhtaun, cxrc thawn, gwrgtʼwn, jarajata'una, jarj ٹawn  gyana, jarjata'una, jojitaun, jorjata'una, jorjtavun, jrj‌tawn, jwrj tawn, jwrj twghn, qiao zhi dui, qiao zhi dun, zuo zhi cheng, Τζορτζτάουν, Τζώρτζταουν, Џорџтаун, Джорджтаун, Джорджтаўн, Жоржтаун, Ջորջթաուն, גורגטאון, جارج ٹاؤن، گیانا, جرج‌تاون, جورج تاون, جورج توغن, جورج‌تاو, जॉर्जटाउन, ਜਾਰਜਟਾਊਨ, ଜର୍ଜଟାଉନ, ஜோர்ஜ்டவுண், ജോർജ്ജ് ടൗൺ, จอร์จทาวน์, ཅོར་ཅི་ཐོན།, ჯორჯტაუნი, ጆርጅታውን, ジョージタウン, 乔治敦, 佐治城, 조지타운

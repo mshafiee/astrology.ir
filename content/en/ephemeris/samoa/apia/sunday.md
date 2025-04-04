@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°10'16.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°53'49.79" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|16°53'49.79" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|25°34'9.44" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|17°9'55.30" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|25°26'23.03" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|26°51'15.40" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°38'13.60" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°9'43.64" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|25°25'37.53" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|26°50'53.89" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|7°54'3.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Sagittarius|Moon|Mars|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°10'16.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°53'49.79" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°53'49.79" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|25°34'9.44" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|17°9'55.30" |Aries|Butain|Sun|
 |♀ Venus|Retrograde|25°26'23.03" |Pisces|Rescha|Mars|

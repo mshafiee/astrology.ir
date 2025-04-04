@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°57'43.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°36'24.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|24°56'29.05" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|15°25'21.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Retrograde|25°57'19.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°7'2.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|13°46'45.87" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|24°57'43.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|16°36'24.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|24°56'29.00" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|15°25'21.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Retrograde|25°57'19.59" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°7'2.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|13°46'46.14" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°57'43.75" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°36'24.18" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|24°56'29.05" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|15°25'21.83" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|25°57'19.72" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°7'2.31" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°46'45.87" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|24°57'43.89" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|16°36'24.37" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°56'29.00" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|15°25'21.84" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|25°57'19.59" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°7'2.29" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°46'46.14" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴
