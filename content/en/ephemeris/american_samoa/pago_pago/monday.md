@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°24'18.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|17°13'52.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|26°17'54.65" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°7'27.60" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|24°59'38.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|26°53'40.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°13'53.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|26°17'51.02" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°7'44.38" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|25°0'29.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|26°54'4.44" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|2°39'16.25" |Leo|Jabhah|Saturn|
 
 
@@ -314,7 +314,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Jupiter|Jupiter|Mercury|Mercury|
 |♂ Mars|Saturn|Saturn|Saturn|Jupiter|
 |☉ Sun|Mars|Mercury|Moon|Sun|
-|♀ Venus|Mars|Jupiter|Venus|Mercury|
+|♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
 |☾ Moon|Jupiter|Saturn|Sun|Venus|
 
@@ -325,7 +325,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Jupiter|Mercury|Scorpio|Sun|Saturn|
 |♂ Mars|Venus|Venus|Aries|Moon|Jupiter|
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
-|♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
+|♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Sagittarius|Moon|Mars|
 |☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°24'18.48" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|17°13'53.00" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°13'53.00" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|26°17'51.02" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|19°7'44.38" |Aries|Butain|Sun|
 |♀ Venus|Retrograde|25°0'29.41" |Pisces|Rescha|Mars|

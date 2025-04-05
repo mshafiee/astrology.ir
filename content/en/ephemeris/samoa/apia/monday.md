@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°17'18.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|17°3'48.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|25°55'55.57" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|18°8'39.05" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|25°11'22.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|26°49'34.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|20°4'38.25" |Cancer|Tarf|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°3'49.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|25°55'52.86" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|18°8'55.88" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|25°12'12.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|26°49'58.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|19°7'5.57" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Jupiter|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Sagittarius|Moon|Mars|
-|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°17'18.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|17°3'49.14" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°3'49.14" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|25°55'52.86" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|18°8'55.88" |Aries|Butain|Sun|
 |♀ Venus|Retrograde|25°12'12.20" |Pisces|Rescha|Mars|
