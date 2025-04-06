@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:42:36 |
 | Dhuhr (Noon) | 13:12:41 |
 | Medium Coeli | 13:12:41 |
-| Sunset | 19:43:25 |
+| Sunset | 19:43:24 |
 | Maghrib | 19:45:23 |
 | Isha (Night) | 21:00:40 |
 | Sharia Midnight | 00:33:40 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:42:36 |
 | Dhuhr (Noon) | 13:12:41 |
 | Medium Coeli | 13:12:41 |
-| Sunset | 19:43:25 |
+| Sunset | 19:43:24 |
 | Maghrib | 19:45:23 |
 | Isha (Night) | 21:17:39 |
-| Sharia Midnight | 00:25:11 |
+| Sharia Midnight | 00:25:10 |
 | Imum Coeli | 01:12:32 |
 {{< /tab >}}
 
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:42:36 |
 | Dhuhr (Noon) | 13:12:41 |
 | Medium Coeli | 13:12:41 |
-| Sunset | 19:43:25 |
+| Sunset | 19:43:24 |
 | Maghrib | 19:45:23 |
 | Isha (Night) | 21:15:23 |
-| Sharia Midnight | 00:23:45 |
+| Sharia Midnight | 00:23:44 |
 | Imum Coeli | 01:12:32 |
 {{< /tab >}}
 
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|20°31'42.72" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°47'46.38" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°8'50.15" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|18°55'18.89" |Virgo|Simak|Venus|
+|☾ Moon|Direct|18°53'22.27" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

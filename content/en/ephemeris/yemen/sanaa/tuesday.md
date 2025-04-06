@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:48:32 |
-| Sunrise | 05:54:01 |
+| Sunrise | 05:54:00 |
 | Dhuhr (Noon) | 12:04:57 |
 | Medium Coeli | 12:04:57 |
 | Sunset | 18:16:07 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:41:18 |
-| Sunrise | 05:54:01 |
+| Sunrise | 05:54:00 |
 | Dhuhr (Noon) | 12:04:57 |
 | Medium Coeli | 12:04:57 |
 | Sunset | 18:16:07 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:02 |
-| Sunrise | 05:54:01 |
+| Sunrise | 05:54:00 |
 | Dhuhr (Noon) | 12:04:57 |
 | Medium Coeli | 12:04:57 |
 | Sunset | 18:16:07 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:52:46 |
-| Sunrise | 05:54:01 |
+| Sunrise | 05:54:00 |
 | Dhuhr (Noon) | 12:04:57 |
 | Medium Coeli | 12:04:57 |
 | Sunset | 18:16:07 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:02 |
-| Sunrise | 05:54:01 |
+| Sunrise | 05:54:00 |
 | Dhuhr (Noon) | 12:04:57 |
 | Medium Coeli | 12:04:57 |
 | Sunset | 18:16:07 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°20'2.97" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°7'44.37" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|26°4'26.36" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|18°31'54.14" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|25°7'14.89" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°50'54.61" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|24°1'30.03" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°7'44.02" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|26°4'23.89" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|18°31'55.29" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|25°7'21.98" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°50'57.85" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°42'22.61" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Mars|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
