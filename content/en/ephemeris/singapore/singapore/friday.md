@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 19:09:52 |
 | Maghrib | 19:10:46 |
 | Isha (Night) | 20:08:07 |
-| Sharia Midnight | 00:36:20 |
+| Sharia Midnight | 00:36:21 |
 | Imum Coeli | 01:05:29 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°46'45.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°47'10.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°31'2.15" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°17'59.77" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°39'15.88" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°42'9.87" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|10°0'23.25" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|25°46'45.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°47'8.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°30'59.43" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°17'49.04" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°38'54.04" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°41'58.79" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|10°58'34.46" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°46'45.05" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°47'10.23" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°31'2.15" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°17'59.77" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°39'15.88" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°46'45.20" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°47'10.42" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°31'2.09" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°17'59.80" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°39'15.84" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°42'9.87" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°0'23.25" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|10°0'24.01" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

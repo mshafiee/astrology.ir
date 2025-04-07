@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:03:14|Night duration: 10:55:19|
+|Duration of the day: 13:03:13|Night duration: 10:55:19|
 |Every hour of day duration: 01:05:16|Every hour of night duration: 00:54:37|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:41:07|07:46:22|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:46:23|08:51:38|Attracting auspiciousness|
-|3|Moon|Servant|08:51:39|09:56:54|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:56:55|11:02:10|Unfortunate hour|
-|5|Jupiter|Servant|11:02:11|12:07:26|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|12:07:27|13:12:43|Creating attraction and acceptance among dignitaries|
+|1|Venus|Ruler|06:41:08|07:46:23|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:46:24|08:51:39|Attracting auspiciousness|
+|3|Moon|Servant|08:51:40|09:56:55|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:56:56|11:02:11|Unfortunate hour|
+|5|Jupiter|Servant|11:02:12|12:07:27|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|12:07:28|13:12:43|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|13:12:44|14:17:59|Promotion and attracting wealth|
 |8|Venus|Ruler|14:18:00|15:23:15|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|15:23:16|16:28:31|Causing separation and homelessness|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:03:14|Night duration: 10:55:19|
+|Duration of the day: 13:03:13|Night duration: 10:55:19|
 |Every hour duration: 01:51:53|Every hour duration: 01:33:37|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|06:41:07|08:32:59|
-|Mid-morning|Mercury|Servant|08:33:00|10:24:52|
-|Late morning|Moon|Servant|10:24:53|12:16:46|
-|Noon|Saturn|Servant|12:16:47|14:08:39|
-|Early afternoon|Jupiter|Servant|14:08:40|16:00:33|
+|Early morning|Venus|Ruler|06:41:08|08:33:00|
+|Mid-morning|Mercury|Servant|08:33:01|10:24:53|
+|Late morning|Moon|Servant|10:24:54|12:16:46|
+|Noon|Saturn|Servant|12:16:47|14:08:40|
+|Early afternoon|Jupiter|Servant|14:08:41|16:00:33|
 |Mid-afternoon|Mars|Servant|16:00:34|17:52:26|
 |Late afternoon|Sun|Servant|17:52:27|19:44:20|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°41'10.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°38'46.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°12'30.94" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°30'31.75" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°41'59.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°25'18.67" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°49'11.99" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|25°41'10.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'46.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°12'30.89" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°30'31.81" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°41'59.26" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°25'18.68" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|0°49'13.44" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°41'10.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°38'46.08" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°12'30.88" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°30'31.77" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°41'59.27" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°25'18.67" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°49'11.99" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|25°41'10.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'46.28" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°12'30.89" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°30'31.81" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°41'59.26" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°25'18.68" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°49'13.44" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

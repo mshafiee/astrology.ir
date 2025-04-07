@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:19:22|Night duration: 11:40:00|
+|Duration of the day: 12:19:22|Night duration: 11:39:59|
 |Every hour of day duration: 01:01:37|Every hour of night duration: 00:58:20|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|18:21:02|19:19:21|Love and attraction of capital|
-|2|Mars|Servant|19:19:22|20:17:41|Unfortunate, no task is suitable|
-|3|Sun|Servant|20:17:42|21:16:01|Operations of tenderness and attraction of love|
-|4|Venus|Servant|21:16:02|22:14:21|Unfortunate and repelling goodness|
-|5|Mercury|Servant|22:14:22|23:12:41|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:12:42|00:11:01|Suitable for all good deeds|
-|7|Saturn|Servant|00:11:02|01:09:21|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:09:22|02:07:41|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|02:07:42|03:06:01|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|03:06:02|04:04:21|Attracting happiness, solving financial problems|
-|11|Venus|Servant|04:04:22|05:02:41|Performing promises|
-|12|Mercury|Servant|05:02:42|06:01:01|Finding the fugitive and discovering the thief|
+|1|Jupiter|Ruler|18:21:02|19:19:20|Love and attraction of capital|
+|2|Mars|Servant|19:19:21|20:17:40|Unfortunate, no task is suitable|
+|3|Sun|Servant|20:17:41|21:16:00|Operations of tenderness and attraction of love|
+|4|Venus|Servant|21:16:01|22:14:20|Unfortunate and repelling goodness|
+|5|Mercury|Servant|22:14:21|23:12:40|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|23:12:41|00:11:00|Suitable for all good deeds|
+|7|Saturn|Servant|00:11:01|01:09:20|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:09:21|02:07:40|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:07:41|03:06:00|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|03:06:01|04:04:20|Attracting happiness, solving financial problems|
+|11|Venus|Servant|04:04:21|05:02:40|Performing promises|
+|12|Mercury|Servant|05:02:41|06:01:00|Finding the fugitive and discovering the thief|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:19:22|Night duration: 11:40:00|
+|Duration of the day: 12:19:22|Night duration: 11:39:59|
 |Every hour duration: 01:45:37|Every hour duration: 01:40:00|
 
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Jupiter|Ruler|18:21:02|20:01:01|
-|Late evening|Mars|Servant|20:01:02|21:41:01|
-|Midnight|Sun|Servant|21:41:02|23:21:01|
-|Late at night|Venus|Servant|23:21:02|01:01:01|
-|Rooster song|Mercury|Servant|01:01:02|02:41:01|
-|False Dawn|Moon|Servant|02:41:02|04:21:01|
-|Dawn|Saturn|Servant|04:21:02|06:01:01|
+|Evening|Jupiter|Ruler|18:21:02|20:01:00|
+|Late evening|Mars|Servant|20:01:01|21:41:00|
+|Midnight|Sun|Servant|21:41:01|23:21:00|
+|Late at night|Venus|Servant|23:21:01|01:01:00|
+|Rooster song|Mercury|Servant|01:01:01|02:41:00|
+|False Dawn|Moon|Servant|02:41:01|04:21:00|
+|Dawn|Saturn|Servant|04:21:01|06:01:00|
 
 {{< /tab >}}
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|25°18'57.24" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|16°28'2.90" |Aries|Butain|Sun|
 |♀ Venus|Retrograde|25°37'48.98" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°55'26.50" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°38'8.83" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|26°55'27.02" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|27°38'47.78" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

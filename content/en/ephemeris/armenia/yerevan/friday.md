@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|25°40'50.42" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|17°38'15.57" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|27°11'23.28" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°27'27.92" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°41'55.65" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°24'14.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°55'19.81" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|21°27'37.52" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°42'12.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°24'22.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|0°15'26.35" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°40'50.42" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°38'13.86" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°11'19.03" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°27'27.92" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°41'55.65" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°24'14.07" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°55'19.81" |Libra|Ghafr|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'15.57" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°11'23.28" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°27'37.52" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°42'12.29" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°24'22.78" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°15'26.35" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Ayrivan, Djerevan, EVN, Eireavan, Eireaván, Ereban, Erehvan, Ereun, Erevan, Erevan osh, Erevana, Erevano, Erevanum, Erevàn, Ereván, Erevāna, Erewan, Erivan, Eriwan, Erywan, Erywań, Gierevan, Ierevan, Iereván, Iravan, Jerevan, Jerevanas, Jerevani, Jereván, Jerewan, Jerjewan, Revan, Yerevan, Yervandavan, Yerêvan, Yiriwan, Yèrèvan, Yérévan, ayrwan, ereban, erevani, iyerebhana, shhr ayrwan, ye li wen, yeleban, yeravana pranta, yere wan, yerevan, yerevana, yerevhana, yryfan, yrywan, Èrevan, Êrîvan, İrəvan, Γιερεβάν, Ερεβάν, Єреван, Јереван, Ереван, Ереван ош, Ерэван, Երեվան, Երևան, יערעוואן, ירוואן, ایروان, شهر ایروان, يريفان, يېرېۋان, یریوان, یەریڤان, येरवान प्रान्त, येरेवान, येरेव्हान, ইয়েরেভান, யெரெவான், เยเรวาน, ཡེ་རེ་ཝན།, ერევანი, ዬሬቫን, エレバン, 葉里溫, 예레반

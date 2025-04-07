@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:22:21 |
 | Sunrise | 06:26:19 |
-| Dhuhr (Noon) | 12:36:53 |
-| Medium Coeli | 12:36:53 |
+| Dhuhr (Noon) | 12:36:54 |
+| Medium Coeli | 12:36:54 |
 | Sunset | 18:47:38 |
 | Maghrib | 19:01:40 |
 | Isha (Night) | 19:43:18 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:15:14 |
 | Sunrise | 06:26:19 |
-| Dhuhr (Noon) | 12:36:53 |
-| Medium Coeli | 12:36:53 |
+| Dhuhr (Noon) | 12:36:54 |
+| Medium Coeli | 12:36:54 |
 | Sunset | 18:47:38 |
 | Maghrib | 19:03:44 |
 | Isha (Night) | 19:43:18 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°43'7.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'41.64" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°18'57.13" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°47'6.99" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°40'56.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°30'52.74" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°52'9.43" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|25°43'7.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°41'41.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°18'57.06" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°47'7.02" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°40'56.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°30'52.75" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°52'10.29" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°43'7.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'41.64" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°18'57.13" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°47'6.99" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°40'56.08" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°30'52.74" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°52'9.43" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|25°43'7.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°41'41.83" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°18'57.06" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°47'7.02" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°40'56.03" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°30'52.75" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°52'10.29" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

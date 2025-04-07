@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°43'14.79" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'52.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°19'20.78" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°48'6.15" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°40'6.14" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°30'51.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°41'27.56" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|25°43'14.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°41'52.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°19'20.84" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°48'6.12" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°40'48.59" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°31'11.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|4°11'59.94" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°43'14.79" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'52.41" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°19'20.78" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|25°43'14.64" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°41'52.22" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°19'20.84" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°48'6.15" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°40'48.55" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°31'11.88" |Pisces|Rescha|Mars|

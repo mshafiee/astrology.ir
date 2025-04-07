@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|18°38'39.89" |Aries|Butain|Sun|
 |♀ Venus|Retrograde|25°5'38.22" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|26°51'14.56" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|25°45'12.82" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°45'14.12" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

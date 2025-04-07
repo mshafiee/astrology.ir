@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:07:15 |
 | Sunrise | 06:19:43 |
-| Dhuhr (Noon) | 12:45:35 |
-| Medium Coeli | 12:45:35 |
+| Dhuhr (Noon) | 12:45:34 |
+| Medium Coeli | 12:45:34 |
 | Sunset | 19:12:00 |
 | Maghrib | 19:15:30 |
 | Isha (Night) | 20:24:40 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°7'23.54" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°17'20.85" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°43'5.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°21'12.30" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|28°5'57.58" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|27°21'10.08" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|28°15'35.18" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

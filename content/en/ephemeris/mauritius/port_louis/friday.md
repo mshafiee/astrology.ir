@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°40'47.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°38'11.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°11'12.81" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°27'16.51" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°42'27.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°40'47.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'11.27" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°11'12.87" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°27'16.48" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°42'27.27" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°24'20.84" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|29°43'1.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°43'0.48" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°40'47.85" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°38'11.46" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°11'12.81" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°27'16.51" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°42'27.22" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°24'20.84" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°43'1.41" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|25°40'47.71" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'11.27" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°11'12.87" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°27'16.48" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°42'27.27" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°24'0.13" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°14'43.39" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Saturn|Mars|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bort Lois, Po-Loui, Por Loui, Por-Loui, Port Lois, Port Louis, Port Louis Town, Port Lui, Port Luis, Port Luisas, Port Luiz, Port-Louis, Port-Lui, Port-Luiso, Port-lui, Portlui, Portluī, Portus Ludovici, Puerto Louis, Pò-Loui, bwr lwys, lu yi gang, phxrt hluys, porata lu'i, port luyis, porta lu'i, porta lu'isa, poteulu-iseu, potoruisu, pwr lwʼy, Πορ Λουί, Πορ-Λουί, Порт Луи, Порт Луис, Порт-Луи, Порт-Луі, Порт-Луї, Պորտ Լուի, פור לואי, بور لويس, پورت‌لوئیس, پورٹ لوئس, پورٹ لوئی, پۆرت لویس, पोर्ट लुई, पोर्ट लुईस, পোর্ট লুইস, ਪੋਰਟ ਲੂਈ, ପୋର୍ଟ ଲୁଇସ, போர்ட் லூயிஸ், പോർട്ട് ലൂയിസ്, พอร์ตหลุยส์, ལོ་ཡི་སི་གྲུ་ཁ།, პორტ-ლუი, ፖርት ሉዊስ, ポートルイス, 路易港, 포트루이스

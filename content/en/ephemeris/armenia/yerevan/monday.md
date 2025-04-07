@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:00:11 |
 | Sunrise | 06:36:26 |
-| Dhuhr (Noon) | 13:04:01 |
-| Medium Coeli | 13:04:01 |
+| Dhuhr (Noon) | 13:04:00 |
+| Medium Coeli | 13:04:00 |
 | Sunset | 19:32:17 |
 | Maghrib | 19:37:57 |
 | Isha (Night) | 21:03:04 |

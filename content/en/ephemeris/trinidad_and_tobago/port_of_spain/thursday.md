@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°42'59.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'29.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°18'29.62" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°45'56.66" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°41'1.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°42'59.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°41'29.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°18'29.56" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°45'56.69" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°41'1.05" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°30'28.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°37'14.04" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°37'14.90" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°42'59.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'29.19" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°18'29.62" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°45'56.66" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°40'33.24" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°30'15.95" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°29'45.47" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|25°42'59.56" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°41'29.38" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°18'29.56" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°45'56.69" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°41'1.05" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°30'28.72" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°37'14.90" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Acalquixohuayan Caxtillan, City of Port-of-Spain, POS, Po of Espay, Port of Spain, Port of Spein, Port of Speinas, Port of Spejn, Port of Speyn, Port oph Spein, Port ov Spejn, Port uf Spejn, Port-Of-Spejn, Port-au-Spain, Port-d'Espagne, Port-of-Spain, Port-of-Spein, Port-of-Spejn, Port-of-speyn, Porto Espana, Porto España, Portofspeina, Portospeno, Portu de Spania, Puerto Espana, Puerto España, Pò of Espay, bwrt awf sbyn, phxrt-xxf-spen, porata afa sapena, port ahp speyn, porta aba spena, porta opha spena, poteu obeu seupein, poteuobeuseupein, potoobusupein, prt aw aspayn, xi ban ya gang, Πορτ οφ Σπέιν, Πορτ-οφ-Σπέιν, Порт ов Спејн, Порт оф Спейн, Порт оф Спејн, Порт ъф Спейн, Порт-Оф-Спейн, Порт-оф-Спейн, פורט אוף ספיין, بورت أوف سبين, پرت آو اسپاین, پورٹ آف اسپین, पोर्ट ऑफ स्पेन, পোর্ট অব স্পেন, ਪੋਰਟ ਆਫ਼ ਸਪੇਨ, போர்ட் ஆஃப் ஸ்பெய்ன், പോർട്ട് ഓഫ് സ്പെയിൻ, พอร์ต-ออฟ-สเปน, པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།, პორტ-ოვ-სპეინი, ፖርት ኦፍ ስፔን, ポートオブスペイン, 西班牙港, 포트 오브 스페인, 포트오브스페인

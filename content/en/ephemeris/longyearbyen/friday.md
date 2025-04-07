@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°40'33.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°37'50.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°10'30.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°25'12.16" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°42'6.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°40'33.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°37'50.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°10'29.94" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°25'12.18" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°42'6.56" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°23'30.65" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°23'9.67" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|0°23'10.62" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°40'33.28" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°37'50.39" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°10'30.00" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°25'12.16" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°42'6.60" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°40'33.43" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°37'50.58" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°10'29.94" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°25'12.18" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°42'6.56" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°23'30.65" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°23'9.67" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|0°23'10.62" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔
