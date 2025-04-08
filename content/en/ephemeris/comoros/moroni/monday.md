@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:11:15 |
 | Dhuhr (Noon) | 12:09:02 |
 | Medium Coeli | 12:09:02 |
-| Sunset | 18:06:41 |
+| Sunset | 18:06:40 |
 | Maghrib | 18:07:35 |
 | Isha (Night) | 19:37:35 |
 | Sharia Midnight | 23:32:16 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:55:25|Night duration: 12:04:37|
+|Duration of the day: 11:55:26|Night duration: 12:04:36|
 |Every hour of day duration: 00:59:37|Every hour of night duration: 01:00:23|
 
  
@@ -221,29 +221,29 @@ Timetable of twelve day and night planetary hours
 |3|Jupiter|Servant|08:10:29|09:10:05|Marriage connection is good|
 |4|Mars|Servant|09:10:06|10:09:42|Repelling and destroying enemies and discharging enemy energy|
 |5|Sun|Servant|10:09:43|11:09:19|Answering needs, attracting love and wealth|
-|6|Venus|Servant|11:09:20|12:08:56|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|12:08:57|13:08:33|Making promises|
-|8|Moon|Ruler|13:08:34|14:08:10|Reconciliation of two persons, attracting love|
-|9|Saturn|Servant|14:08:11|15:07:47|Attracting and repelling enemies and causing separation|
-|10|Jupiter|Servant|15:07:48|16:07:24|Good for any task|
-|11|Mars|Servant|16:07:25|17:07:01|Creating enmity and negative energy|
-|12|Sun|Servant|17:07:02|18:06:39|Heart tenderness|
+|6|Venus|Servant|11:09:20|12:08:57|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|12:08:58|13:08:34|Making promises|
+|8|Moon|Ruler|13:08:35|14:08:11|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|14:08:12|15:07:48|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|15:07:49|16:07:25|Good for any task|
+|11|Mars|Servant|16:07:26|17:07:02|Creating enmity and negative energy|
+|12|Sun|Servant|17:07:03|18:06:40|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:06:40|19:07:02|Repelling magic, attracting discharged energy|
-|2|Mercury|Servant|19:07:03|20:07:25|Outer and inner journey|
-|3|Moon|Servant|20:07:26|21:07:48|Marriage connection is good|
-|4|Saturn|Servant|21:07:49|22:08:11|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:08:12|23:08:34|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:08:35|00:08:57|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:08:58|01:09:20|Making promises|
-|8|Venus|Ruler|01:09:21|02:09:43|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:09:44|03:10:06|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:10:07|04:10:29|Good for any task|
-|11|Saturn|Servant|04:10:30|05:10:52|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:10:53|06:11:16|Heart tenderness|
+|1|Venus|Ruler|18:06:41|19:07:03|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|19:07:04|20:07:26|Outer and inner journey|
+|3|Moon|Servant|20:07:27|21:07:49|Marriage connection is good|
+|4|Saturn|Servant|21:07:50|22:08:12|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:08:13|23:08:35|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:08:36|00:08:58|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:08:59|01:09:21|Making promises|
+|8|Venus|Ruler|01:09:22|02:09:44|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:09:45|03:10:07|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:10:08|04:10:30|Good for any task|
+|11|Saturn|Servant|04:10:31|05:10:53|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:10:54|06:11:16|Heart tenderness|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:55:25|Night duration: 12:04:37|
+|Duration of the day: 11:55:26|Night duration: 12:04:36|
 |Every hour duration: 01:42:12|Every hour duration: 01:43:31|
 
  
@@ -267,15 +267,15 @@ Timetable of septet day and night planetary hours
 |Early morning|Moon|Ruler|06:11:15|07:53:26|
 |Mid-morning|Saturn|Servant|07:53:27|09:35:38|
 |Late morning|Jupiter|Servant|09:35:39|11:17:50|
-|Noon|Mars|Servant|11:17:51|13:00:02|
-|Early afternoon|Sun|Servant|13:00:03|14:42:14|
-|Mid-afternoon|Venus|Servant|14:42:15|16:24:26|
-|Late afternoon|Mercury|Servant|16:24:27|18:06:39|
+|Noon|Mars|Servant|11:17:51|13:00:03|
+|Early afternoon|Sun|Servant|13:00:04|14:42:15|
+|Mid-afternoon|Venus|Servant|14:42:16|16:24:27|
+|Late afternoon|Mercury|Servant|16:24:28|18:06:40|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|18:06:40|19:50:10|
+|Evening|Venus|Ruler|18:06:41|19:50:10|
 |Late evening|Mercury|Servant|19:50:11|21:33:41|
 |Midnight|Moon|Servant|21:33:42|23:17:12|
 |Late at night|Saturn|Servant|23:17:13|01:00:43|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°13'6.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|16°57'49.96" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|16°57'49.96" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|25°42'51.16" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|17°33'38.79" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|25°20'23.36" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°13'6.31" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°57'49.96" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°57'49.96" |Gemini|HanAh|Mars|
 |♂ Mars|Post-Retrograde Shadow|25°42'51.16" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|17°33'38.79" |Aries|Butain|Sun|
 |♀ Venus|Retrograde|25°20'23.36" |Pisces|Rescha|Mars|

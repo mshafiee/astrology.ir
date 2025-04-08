@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°43'8.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'42.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°18'59.33" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°47'11.77" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°40'53.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°43'8.39" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°41'42.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°18'59.27" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°47'11.80" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°40'53.79" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°30'53.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°16'41.27" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°57'21.72" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°43'8.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'42.74" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°18'59.27" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°47'11.80" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°40'53.79" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°30'53.72" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°57'21.72" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|17°41'42.56" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°18'57.63" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°47'13.12" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°41'0.04" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°30'56.57" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°45'41.62" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: STI, Sant'jago-de-los-Kabal'eros, Sant'jago-de-los-Trejnta-Kabal'eros, Santiago, Santiago de los Caballeros, Santiago de los Kampagieros, Santjago de los Kabaljerosas, santiagodeloseukabayeloseu, sheng de ya ge, Σαντιάγο δε λος Καμπαγιέρος, Сантьяго-де-лос-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальєрос, סנטיאגו דה לוס קביירוס, سانتیاغو دے لوس کابائیروس, サンティアゴ・デ・ロス・カバリェロス, 聖地牙哥, 산티아고데로스카바예로스

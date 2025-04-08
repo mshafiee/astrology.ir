@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°43'14.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'52.22" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°41'52.22" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|27°19'20.84" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°48'6.12" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°40'48.59" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°43'14.64" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'52.22" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°41'52.22" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|27°19'20.84" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°48'6.15" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°40'48.55" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°48'6.12" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°40'48.59" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°31'11.88" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°12'0.80" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|4°11'59.94" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

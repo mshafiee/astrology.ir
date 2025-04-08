@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°41'52.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°39'48.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°14'48.91" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°36'26.33" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°41'32.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°41'52.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°39'48.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°14'48.85" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°36'26.36" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°41'32.36" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°27'14.02" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°1'7.02" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°1'7.92" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°41'52.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°39'48.87" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°39'48.87" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|27°14'48.85" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°36'26.36" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°41'32.36" |Pisces|Rescha|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Felicitas Julia, Felicitas Julia Olissipo, LIS, Liospoin, Liospóin, Lisabon, Lisabona, Lisboa, Lisbon, Lisbona, Lisbonne, Lisbono, Lisbonum, Lisimba, Lisimbã, Lissabon, Lisszabon, Lizboa, Lizbon, Lizbona, Olisipo, Olissipo, li si ben, lisabana, lisaboni, lisbana, lisbxn, liseubon, lshbwnt, lysabwn, lysbwn, risubon, Λισαβώνα, Лисабон, Лиссабон, Лісабон, Լիսբոնա, ליסבון, لشبونة, لىسابون, لیسبون, ܠܫܒܘܢܐ, लिस्बन, লিসবন, ลิสบอน, ལ་ས་བན།, ལི་སི་བཱོན།, ლისაბონი, ሊዝቦን, リスボン, 里斯本, 리스본

@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 19:21:03 |
 | Isha (Night) | 20:35:13 |
 | Sharia Midnight | 00:26:47 |
-| Imum Coeli | 01:04:28 |
+| Imum Coeli | 01:04:27 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:21:03 |
 | Isha (Night) | 20:51:03 |
 | Sharia Midnight | 00:25:41 |
-| Imum Coeli | 01:04:28 |
+| Imum Coeli | 01:04:27 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°48'59.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°50'34.73" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°50'34.73" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|27°38'33.98" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°37'6.13" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°38'28.90" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°48'59.49" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°50'34.73" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°38'33.98" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°37'6.13" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°38'28.90" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°49'45.63" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°59'34.34" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|17°50'35.68" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°38'40.25" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°37'3.90" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°38'12.35" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°49'38.35" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°21'15.69" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

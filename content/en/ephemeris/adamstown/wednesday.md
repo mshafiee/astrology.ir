@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:41:47 |
 | Sunset | 18:30:32 |
 | Maghrib | 18:45:39 |
-| Isha (Night) | 19:29:56 |
+| Isha (Night) | 19:29:55 |
 | Sharia Midnight | 00:07:40 |
 | Imum Coeli | 00:41:39 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:41:47 |
 | Sunset | 18:30:32 |
 | Maghrib | 18:47:52 |
-| Isha (Night) | 19:29:56 |
+| Isha (Night) | 19:29:55 |
 | Sharia Midnight | 00:03:55 |
 | Imum Coeli | 00:41:39 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°37'29.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°33'15.25" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°33'15.25" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|27°0'20.58" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°59'1.15" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°44'31.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°15'47.12" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|24°57'18.12" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|20°59'12.51" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°44'58.68" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°16'0.50" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|24°2'58.97" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°37'29.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°33'15.25" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°33'15.25" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|27°0'20.58" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|20°59'12.51" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°44'58.68" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°16'0.50" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|24°2'58.97" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|27°15'47.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|24°57'18.12" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

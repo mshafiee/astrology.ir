@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°46'49.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°47'17.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°31'19.11" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°18'40.77" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°39'9.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°42'24.12" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|10°19'36.29" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|25°46'50.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°47'17.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°31'19.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°18'40.79" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°38'26.23" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°42'3.65" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°49'18.68" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°46'49.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°47'17.67" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°31'19.11" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°18'40.77" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°39'8.49" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°42'23.61" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°23'40.03" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|25°46'50.03" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|17°47'17.87" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°31'19.05" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°18'40.79" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°39'9.27" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°42'3.65" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°49'18.68" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이

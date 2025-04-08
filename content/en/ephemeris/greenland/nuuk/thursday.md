@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 14:28:03 |
 | Sunset | 21:46:51 |
 | Maghrib | 22:21:21 |
-| Isha (Night) | 00:32:16 |
+| Isha (Night) | 00:32:17 |
 | Sharia Midnight | 00:41:47 |
 | Imum Coeli | 02:27:55 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 14:28:03 |
 | Sunset | 21:46:51 |
 | Maghrib | 22:26:39 |
-| Isha (Night) | 00:32:16 |
+| Isha (Night) | 00:32:17 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 02:27:55 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°42'27.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°40'41.43" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°40'41.43" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|27°16'45.80" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°41'21.66" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°41'0.45" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°42'27.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°40'41.43" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°40'41.43" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|27°16'45.80" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°41'21.66" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°41'0.45" |Pisces|Rescha|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

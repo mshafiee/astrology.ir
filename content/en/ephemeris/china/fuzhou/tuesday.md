@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:46:37 |
 | Dhuhr (Noon) | 12:04:37 |
 | Medium Coeli | 12:04:37 |
-| Sunset | 18:23:01 |
+| Sunset | 18:23:00 |
 | Maghrib | 18:24:00 |
 | Isha (Night) | 19:38:00 |
-| Sharia Midnight | 23:24:29 |
+| Sharia Midnight | 23:24:28 |
 | Imum Coeli | 00:04:29 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:46:37 |
 | Dhuhr (Noon) | 12:04:37 |
 | Medium Coeli | 12:04:37 |
-| Sunset | 18:23:01 |
+| Sunset | 18:23:00 |
 | Maghrib | 18:24:00 |
 | Isha (Night) | 19:40:20 |
 | Sharia Midnight | 23:20:57 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:36:24|Night duration: 11:22:35|
+|Duration of the day: 12:36:23|Night duration: 11:22:36|
 |Every hour duration: 01:48:03|Every hour duration: 01:37:31|
 
  
@@ -266,19 +266,19 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Mars|Ruler|05:46:37|07:34:39|
 |Mid-morning|Sun|Servant|07:34:40|09:22:42|
-|Late morning|Venus|Servant|09:22:43|11:10:46|
-|Noon|Mercury|Servant|11:10:47|12:58:49|
-|Early afternoon|Moon|Servant|12:58:50|14:46:53|
-|Mid-afternoon|Saturn|Servant|14:46:54|16:34:56|
-|Late afternoon|Jupiter|Servant|16:34:57|18:23:00|
+|Late morning|Venus|Servant|09:22:43|11:10:45|
+|Noon|Mercury|Servant|11:10:46|12:58:49|
+|Early afternoon|Moon|Servant|12:58:50|14:46:52|
+|Mid-afternoon|Saturn|Servant|14:46:53|16:34:55|
+|Late afternoon|Jupiter|Servant|16:34:56|18:22:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|18:23:01|20:00:30|
-|Late evening|Jupiter|Servant|20:00:31|21:38:01|
-|Midnight|Mars|Servant|21:38:02|23:15:32|
-|Late at night|Sun|Servant|23:15:33|00:53:02|
+|Evening|Saturn|Ruler|18:23:00|20:00:29|
+|Late evening|Jupiter|Servant|20:00:30|21:38:00|
+|Midnight|Mars|Servant|21:38:01|23:15:31|
+|Late at night|Sun|Servant|23:15:32|00:53:02|
 |Rooster song|Venus|Servant|00:53:03|02:30:33|
 |False Dawn|Mercury|Servant|02:30:34|04:08:04|
 |Dawn|Moon|Servant|04:08:05|05:45:35|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°25'33.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°15'41.45" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°15'41.45" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|26°21'49.15" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°18'12.76" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|24°58'30.82" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°25'33.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°15'41.45" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|26°21'49.15" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|19°18'12.76" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|24°58'30.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|17°15'41.26" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|26°21'49.21" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|19°18'12.73" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|24°58'30.89" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|26°55'17.66" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°42'9.17" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°42'7.79" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

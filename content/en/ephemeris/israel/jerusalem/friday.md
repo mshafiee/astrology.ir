@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 19:05:22 |
 | Maghrib | 19:10:07 |
 | Isha (Night) | 20:31:14 |
-| Sharia Midnight | 23:56:50 |
+| Sharia Midnight | 23:56:51 |
 | Imum Coeli | 00:39:58 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°41'3.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°38'35.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°12'6.27" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°29'29.39" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°42'6.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°41'3.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°38'35.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°12'6.21" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°29'29.41" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°42'6.56" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|27°24'59.54" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°31'23.73" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|0°31'24.65" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°41'3.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°38'35.00" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°12'6.27" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°29'29.39" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°42'6.61" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°41'3.56" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|17°38'35.19" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°12'6.21" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°29'29.41" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°42'6.56" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°24'59.54" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°31'23.73" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|0°31'24.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

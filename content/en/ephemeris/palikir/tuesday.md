@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:29:14 |
 | Sunset | 18:36:16 |
 | Maghrib | 18:37:37 |
-| Isha (Night) | 19:45:08 |
+| Isha (Night) | 19:45:09 |
 | Sharia Midnight | 23:50:30 |
 | Imum Coeli | 00:29:05 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°24'51.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°14'40.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|26°19'35.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°12'21.46" |Pisces|Rescha|Jupiter|
-|♀ Venus|Retrograde|24°59'37.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|26°54'35.80" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°21'23.52" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|25°24'51.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°14'40.77" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|26°19'35.83" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°12'21.48" |Pisces|Rescha|Jupiter|
+|♀ Venus|Retrograde|24°59'37.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|26°54'35.79" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°21'24.90" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°24'51.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°14'40.57" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|26°19'35.89" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|19°12'21.46" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|24°59'37.31" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°54'35.80" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°21'23.52" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|25°24'51.40" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|17°14'40.77" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|26°19'35.83" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|19°12'21.48" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|24°58'57.17" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°54'16.19" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°15'16.24" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}

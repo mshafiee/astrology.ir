@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°47'57.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°48'59.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°35'5.02" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°28'8.76" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°38'32.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°46'2.86" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°46'22.59" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|17°48'59.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°35'4.43" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°28'14.66" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°38'47.76" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°46'10.36" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|12°10'56.71" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°47'57.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°48'59.76" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°35'4.50" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°28'14.63" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°38'47.80" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°47'57.25" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|17°48'59.96" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°35'4.43" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°28'14.66" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°38'47.76" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|27°46'10.36" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°10'55.99" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|12°10'56.71" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

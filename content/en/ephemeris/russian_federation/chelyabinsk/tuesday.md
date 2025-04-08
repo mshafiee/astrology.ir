@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:56:05 |
 | Sunset | 19:45:29 |
 | Maghrib | 20:10:26 |
-| Isha (Night) | 21:30:13 |
+| Isha (Night) | 21:30:14 |
 | Sharia Midnight | 23:54:09 |
 | Imum Coeli | 00:55:57 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:56:05 |
 | Sunset | 19:45:29 |
 | Maghrib | 20:14:10 |
-| Isha (Night) | 21:30:13 |
+| Isha (Night) | 21:30:14 |
 | Sharia Midnight | 23:46:00 |
 | Imum Coeli | 00:55:57 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°19'31.44" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°6'59.45" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|17°6'59.45" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|26°2'49.87" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|18°27'28.35" |Pisces|Rescha|Jupiter|
 |♀ Venus|Retrograde|25°7'53.39" |Aquarius|FarghAlMuqaddam|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°19'31.44" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°6'59.36" |Gemini|HanAh|Mars|
-|♂ Mars|Post-Retrograde Shadow|26°2'49.49" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|18°27'28.26" |Aries|Butain|Sun|
-|♀ Venus|Retrograde|25°7'53.75" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|26°50'32.77" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|23°23'16.41" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|17°6'59.45" |Gemini|HanAh|Mars|
+|♂ Mars|Post-Retrograde Shadow|26°2'49.87" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|18°27'28.35" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|25°7'53.39" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|26°50'32.63" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°25'28.66" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°42'45.61" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'7.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°17'39.78" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°43'53.02" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°41'2.64" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°29'44.66" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°32'12.62" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|17°41'8.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°17'43.44" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°43'58.11" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°41'8.99" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|27°29'48.22" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°13'28.16" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°42'45.61" |Pisces|Rescha|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°41'8.54" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°41'8.54" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|27°17'43.44" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°43'58.11" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°41'8.99" |Pisces|Rescha|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄
