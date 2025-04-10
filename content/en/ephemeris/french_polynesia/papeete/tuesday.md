@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°30'53.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|17°23'29.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|26°38'53.36" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°3'17.46" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°51'39.84" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°2'44.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°42'12.77" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|25°30'52.39" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°23'30.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|26°39'1.77" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°3'7.94" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°51'0.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°2'25.89" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|14°3'17.84" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Saturn|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Sagittarius|Moon|Mars|
-|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|26°38'53.36" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|20°3'17.46" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°51'39.84" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°2'44.01" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°2'44.01" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|12°42'12.77" |Virgo|Awwa|Venus|
 
 

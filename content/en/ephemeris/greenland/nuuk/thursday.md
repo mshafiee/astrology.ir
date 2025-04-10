@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°16'45.80" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°41'21.66" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°41'0.45" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°28'48.57" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°28'48.57" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|3°24'14.12" |Virgo|Sarfrah|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°16'45.80" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°41'21.66" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°41'0.45" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°28'48.57" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°28'48.57" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|3°24'14.12" |Libra|Ghafr|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

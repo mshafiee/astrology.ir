@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°19'8.00" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°47'31.22" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°40'46.03" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°30'58.15" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°30'58.15" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|4°15'33.95" |Virgo|Sarfrah|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°19'8.00" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°47'31.22" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°40'46.03" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°30'58.15" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°30'58.15" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|4°15'33.95" |Libra|Ghafr|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC

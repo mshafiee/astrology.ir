@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°19'41.71" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°49'2.44" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°40'50.92" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°31'33.46" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°31'33.46" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|4°10'2.86" |Virgo|Sarfrah|Sun|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|25°43'21.36" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|17°42'2.19" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|27°19'41.71" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°49'2.44" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°40'50.92" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°31'33.46" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°10'2.86" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|21°48'51.03" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°40'8.91" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°31'13.85" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°32'35.83" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

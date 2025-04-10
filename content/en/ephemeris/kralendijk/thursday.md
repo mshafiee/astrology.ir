@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°18'54.48" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°47'0.40" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°40'56.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°30'50.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°30'50.47" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|3°50'51.46" |Virgo|Sarfrah|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°18'54.48" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°47'0.40" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°40'56.46" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°30'50.47" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°30'50.47" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|3°50'51.46" |Libra|Ghafr|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Kralendajk, Kralendehjk, Kralendeikas, Kralendejk, Kralendijk, Kralendiyk, Kralentik, Playa, ke la lun dai ke, keulallendeikeu, kralndyk, kralyndayk, kurarendaiku, Κράλεντικ, Кралендайк, Кралендајк, Кралендейк, Кралендэйк, Կրալենդիյկ, كراليندايك, کرالندیک, کرالن‌دیک, კრალენდეიკი, クラレンダイク, 克拉伦代克, 크랄렌데이크

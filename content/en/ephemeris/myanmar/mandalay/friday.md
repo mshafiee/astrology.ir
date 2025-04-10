@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|17°47'17.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|27°31'19.05" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°18'40.79" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°38'26.23" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°42'3.65" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°49'18.68" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|24°39'9.27" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°42'24.12" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|10°19'37.04" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°31'19.05" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°18'40.79" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°39'9.27" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°42'3.65" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°49'18.68" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|27°42'24.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|10°19'37.04" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Saturn|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이

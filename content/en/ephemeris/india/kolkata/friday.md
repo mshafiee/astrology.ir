@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:37:33 |
 | Medium Coeli | 11:37:33 |
 | Sunset | 17:55:36 |
-| Maghrib | 17:56:34 |
+| Maghrib | 17:56:35 |
 | Isha (Night) | 19:08:38 |
 | Sharia Midnight | 22:58:30 |
 | Imum Coeli | 23:37:25 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:37:33 |
 | Medium Coeli | 11:37:33 |
 | Sunset | 17:55:36 |
-| Maghrib | 17:56:34 |
+| Maghrib | 17:56:35 |
 | Isha (Night) | 18:59:35 |
 | Sharia Midnight | 23:05:17 |
 | Imum Coeli | 23:37:25 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°31'48.34" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°19'55.25" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°39'5.86" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°42'52.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°42'52.93" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|10°35'0.37" |Virgo|Awwa|Venus|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|27°31'48.34" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°19'55.25" |Aries|Butain|Venus|
 |♀ Venus|Retrograde|24°39'5.86" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°42'52.93" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°42'52.93" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|10°35'0.37" |Libra|Ghafr|Saturn|
 
 

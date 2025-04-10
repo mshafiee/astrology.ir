@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°41'38.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|17°39'27.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|27°14'1.33" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°34'28.69" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°41'51.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|27°26'39.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|1°15'29.16" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|25°41'38.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|17°39'27.77" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°14'1.27" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°34'28.71" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°41'51.24" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°26'39.01" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°15'30.07" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°41'38.55" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|17°39'27.57" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|27°14'1.33" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°34'28.69" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°41'51.28" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°26'39.01" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°15'29.16" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|25°41'38.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|17°39'27.77" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|27°14'1.27" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°34'28.71" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°41'51.24" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|27°26'39.01" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°15'30.07" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라
