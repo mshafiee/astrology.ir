@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:58:25 |
+| Fajr (Dawn) | 05:58:24 |
 | Sunrise | 07:07:57 |
 | Dhuhr (Noon) | 13:13:30 |
 | Medium Coeli | 13:13:30 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°7'19.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°19'2.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|28°41'42.19" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°14'36.74" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°42'10.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°19'2.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|28°41'42.39" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°14'36.87" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°42'10.68" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|29°10'18.53" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|15°37'7.33" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|15°35'49.64" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°7'19.15" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°19'0.38" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|28°41'36.68" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°14'25.98" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°41'56.32" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|29°10'10.32" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|16°56'18.84" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|18°19'2.50" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|28°41'42.19" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°14'36.74" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°42'10.76" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|29°10'18.53" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|15°37'7.33" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
 
 
 {{< /tab >}}

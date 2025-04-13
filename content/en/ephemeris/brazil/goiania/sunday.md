@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:17:25 |
 | Medium Coeli | 12:17:25 |
 | Sunset | 18:09:28 |
-| Maghrib | 18:13:37 |
+| Maghrib | 18:13:36 |
 | Isha (Night) | 19:18:40 |
 | Sharia Midnight | 23:40:40 |
 | Imum Coeli | 00:17:17 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:17:25 |
 | Medium Coeli | 12:17:25 |
 | Sunset | 18:09:28 |
-| Maghrib | 18:13:37 |
+| Maghrib | 18:13:36 |
 | Isha (Night) | 19:20:46 |
 | Sharia Midnight | 23:37:31 |
 | Imum Coeli | 00:17:17 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°12'55.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|28°28'5.15" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|24°41'4.82" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°39'57.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°50'35.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°43'45.33" |Libra|Ghafr|Moon|
+|♀ Venus|Retrograde|24°40'1.10" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°50'37.02" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|8°45'6.51" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°59'53.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°7'21.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|28°15'44.45" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°10'26.62" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°38'27.59" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°33'44.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°23'22.98" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|25°59'52.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°7'22.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|28°15'47.11" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|24°10'28.78" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°38'27.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°33'45.38" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|3°7'18.72" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°59'53.06" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°7'22.31" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|28°15'47.06" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|24°10'28.80" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°38'27.88" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°59'52.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°7'22.11" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|28°15'47.11" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°10'28.78" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°38'27.93" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|28°33'45.38" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°7'18.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°7'18.72" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

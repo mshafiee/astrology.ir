@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:32:41 |
-| Sunrise | 06:58:06 |
+| Sunrise | 06:58:05 |
 | Dhuhr (Noon) | 13:32:37 |
 | Medium Coeli | 13:32:37 |
 | Sunset | 20:07:51 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:22:39 |
-| Sunrise | 06:58:06 |
+| Sunrise | 06:58:05 |
 | Dhuhr (Noon) | 13:32:37 |
 | Medium Coeli | 13:32:37 |
 | Sunset | 20:07:51 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:09:45|Night duration: 10:48:43|
+|Duration of the day: 13:09:46|Night duration: 10:48:43|
 |Every hour of day duration: 01:05:49|Every hour of night duration: 00:54:04|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:58:06|08:03:53|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|08:03:54|09:09:42|Peace among people|
-|3|Mars|Servant|09:09:43|10:15:31|Vengeful and evil deeds|
-|4|Sun|Servant|10:15:32|11:21:20|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|11:21:21|12:27:08|Auspicious|
+|1|Saturn|Ruler|06:58:05|08:03:52|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|08:03:53|09:09:41|Peace among people|
+|3|Mars|Servant|09:09:42|10:15:30|Vengeful and evil deeds|
+|4|Sun|Servant|10:15:31|11:21:19|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|11:21:20|12:27:08|Auspicious|
 |6|Mercury|Servant|12:27:09|13:32:57|Writing, swapping and making promises|
-|7|Moon|Servant|13:32:58|14:38:46|Not suitable for any task|
-|8|Saturn|Ruler|14:38:47|15:44:35|Destruction of enemies|
-|9|Jupiter|Servant|15:44:36|16:50:23|All good deeds|
+|7|Moon|Servant|13:32:58|14:38:45|Not suitable for any task|
+|8|Saturn|Ruler|14:38:46|15:44:34|Destruction of enemies|
+|9|Jupiter|Servant|15:44:35|16:50:23|All good deeds|
 |10|Mars|Servant|16:50:24|17:56:12|Doing evil deeds|
 |11|Sun|Servant|17:56:13|19:02:01|Acceptance of reconciliation between couples|
 |12|Venus|Servant|19:02:02|20:07:50|For gaining dignity|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°57'1.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°2'56.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|28°5'56.29" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°45'57.33" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°37'52.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°21'7.71" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|28°8'6.17" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|18°2'56.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|28°5'56.58" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°45'57.40" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°37'52.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°21'7.57" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|28°7'33.81" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

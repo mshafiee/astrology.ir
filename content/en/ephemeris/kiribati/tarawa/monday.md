@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:28:24 |
 | Sunset | 18:32:46 |
 | Maghrib | 18:33:40 |
-| Isha (Night) | 19:39:20 |
+| Isha (Night) | 19:39:19 |
 | Sharia Midnight | 23:52:56 |
 | Imum Coeli | 00:28:16 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°5'58.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°16'55.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|28°36'59.55" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°3'2.10" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°41'20.49" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°5'58.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°16'55.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|28°36'59.61" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°3'2.08" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°41'20.55" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|29°3'21.48" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|13°15'41.94" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°15'42.15" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°5'58.77" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°16'54.31" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|28°36'56.89" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°2'55.79" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°41'10.83" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|29°3'16.20" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°59'44.64" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|26°5'58.62" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°16'55.30" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|28°36'59.61" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°3'2.08" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°41'20.55" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|29°3'21.48" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°15'42.15" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
+|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
 
 
 {{< /tab >}}
