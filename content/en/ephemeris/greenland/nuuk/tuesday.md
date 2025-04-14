@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°16'31.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°33'45.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|29°14'32.91" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°34'29.94" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°50'7.81" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|0°2'24.85" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|2°34'16.08" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|18°33'46.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|29°14'37.80" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°34'32.29" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°50'3.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|0°2'23.81" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°0'28.64" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°16'31.71" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°33'45.53" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°14'32.96" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°34'29.93" |Aries|Thurayya|Venus|
-|♀ Venus|Retrograde|24°50'7.88" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°16'31.86" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°33'45.73" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°14'32.91" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°34'29.94" |Aries|Thurayya|Venus|
+|♀ Venus|Retrograde|24°50'7.81" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|0°2'24.86" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|2°34'16.58" |Sagittarius|Shaulah|Mercury|
 

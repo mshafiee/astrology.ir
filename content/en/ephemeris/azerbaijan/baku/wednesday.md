@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:00:25|07:07:05|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mercury|Ruler|06:00:25|07:07:05|Acceptance of needs|
 |2|Moon|Servant|07:07:06|08:13:46|Unfortunate, no task is suitable|
 |3|Saturn|Servant|08:13:47|09:20:27|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|09:20:28|10:27:08|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|29°8'39.64" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|26°20'18.75" |Pisces|Rescha|Mars|
 |♀ Venus|Retrograde|24°48'29.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°52'28.56" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°34'19.67" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|29°52'39.26" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|29°21'5.59" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Mars|Mars|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°14'53.94" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°31'7.86" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°8'39.64" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°20'18.75" |Aries|Thurayya|Venus|
-|♀ Venus|Retrograde|24°48'29.91" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|29°52'39.26" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°21'5.59" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|18°31'7.01" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°8'37.78" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°20'15.98" |Aries|Thurayya|Venus|
+|♀ Venus|Retrograde|24°48'27.40" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|29°52'37.59" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°44'8.93" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

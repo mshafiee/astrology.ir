@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:28:24 |
 | Sunset | 18:32:46 |
 | Maghrib | 18:33:40 |
-| Isha (Night) | 19:39:19 |
+| Isha (Night) | 19:39:20 |
 | Sharia Midnight | 23:52:56 |
 | Imum Coeli | 00:28:16 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°5'58.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°16'55.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|28°36'59.61" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°3'2.08" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°41'20.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°5'58.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°16'55.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|28°36'59.55" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°3'2.10" |Pisces|Rescha|Mars|
+|♀ Venus|Retrograde|24°41'20.49" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|29°3'21.48" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|13°15'42.15" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|13°15'41.94" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°5'58.62" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°16'55.30" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|28°36'59.61" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°3'2.08" |Aries|Butain|Venus|
-|♀ Venus|Retrograde|24°41'20.55" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°5'58.77" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°16'55.50" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|28°36'59.55" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°3'2.10" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|24°41'20.49" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|29°3'21.48" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|13°15'42.15" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°15'41.94" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
