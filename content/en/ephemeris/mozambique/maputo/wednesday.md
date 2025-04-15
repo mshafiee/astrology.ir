@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:05:36|07:02:51|Acceptance of needs|
+|1|Mercury|Ruler|06:05:36|07:02:51|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Moon|Servant|07:02:52|08:00:07|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Saturn|Servant|08:00:08|08:57:23|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|08:57:24|09:54:40|The moon is in Scorpio, Not suitable for doing anything.|
@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°32'4.99" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|29°10'45.75" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|26°25'29.67" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°49'18.41" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°56'14.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Post-Retrograde Shadow|24°49'18.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°56'14.53" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|29°59'14.41" |Libra|Akleel|Jupiter|
 
 
@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°32'4.99" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|29°10'45.75" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|26°25'29.67" |Aries|Thurayya|Venus|
-|♀ Venus|Retrograde|24°49'18.41" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|29°56'14.53" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°49'18.41" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|29°56'14.53" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|29°59'14.41" |Scorpio|Shaulah|Venus|
 
 

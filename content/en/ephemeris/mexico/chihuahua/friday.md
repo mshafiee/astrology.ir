@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|06:35:35|07:40:15|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mercury|Servant|07:40:16|08:44:57|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Moon|Servant|08:44:58|09:49:39|Attracting misfortune, no task is suitable|
+|3|Moon|Servant|08:44:58|09:49:39|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|09:49:40|10:54:20|Unfortunate hour|
 |5|Jupiter|Servant|10:54:21|11:59:02|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|11:59:03|13:03:44|Creating attraction and acceptance among dignitaries|
@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|19°8'59.43" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|0°33'25.30" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|29°42'7.70" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|25°25'44.74" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|2°31'44.93" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Post-Retrograde Shadow|25°25'44.74" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|2°31'44.93" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|11°22'53.99" |Sagittarius|NaAaem|Moon|
 
 
@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|19°8'59.43" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|0°33'25.30" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°42'7.70" |Aries|Thurayya|Venus|
-|♀ Venus|Retrograde|25°25'44.74" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|2°31'44.93" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|25°25'44.74" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|2°31'44.93" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|11°22'53.99" |Capricorn|SaadAlDhabib|Mars|
 
 

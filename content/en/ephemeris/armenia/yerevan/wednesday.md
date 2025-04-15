@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:55:28 |
 | Sunrise | 06:22:34 |
-| Dhuhr (Noon) | 13:01:40 |
-| Medium Coeli | 13:01:40 |
+| Dhuhr (Noon) | 13:01:41 |
+| Medium Coeli | 13:01:41 |
 | Sunset | 19:41:28 |
 | Maghrib | 20:00:20 |
 | Isha (Night) | 20:57:01 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:45:12 |
 | Sunrise | 06:22:34 |
-| Dhuhr (Noon) | 13:01:40 |
-| Medium Coeli | 13:01:40 |
+| Dhuhr (Noon) | 13:01:41 |
+| Medium Coeli | 13:01:41 |
 | Sunset | 19:41:28 |
 | Maghrib | 20:03:05 |
 | Isha (Night) | 20:57:01 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:43:22 |
 | Sunrise | 06:22:34 |
-| Dhuhr (Noon) | 13:01:40 |
-| Medium Coeli | 13:01:40 |
+| Dhuhr (Noon) | 13:01:41 |
+| Medium Coeli | 13:01:41 |
 | Sunset | 19:41:28 |
 | Maghrib | 19:47:13 |
 | Isha (Night) | 21:14:59 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:01:26 |
 | Sunrise | 06:22:34 |
-| Dhuhr (Noon) | 13:01:40 |
-| Medium Coeli | 13:01:40 |
+| Dhuhr (Noon) | 13:01:41 |
+| Medium Coeli | 13:01:41 |
 | Sunset | 19:41:28 |
 | Maghrib | 19:47:13 |
 | Isha (Night) | 21:02:57 |
@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°31'17.88" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|29°9'1.99" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|26°21'12.96" |Pisces|Rescha|Mars|
-|♀ Venus|Retrograde|24°48'36.49" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|29°53'16.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Post-Retrograde Shadow|24°48'36.49" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°53'16.28" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|29°31'56.57" |Libra|Akleel|Jupiter|
 
 
@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°31'17.88" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|29°9'1.99" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|26°21'12.96" |Aries|Thurayya|Venus|
-|♀ Venus|Retrograde|24°48'36.49" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|29°53'16.28" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°48'36.49" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|29°53'16.28" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|29°31'56.57" |Scorpio|Shaulah|Venus|
 
 
