@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°13'38.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°29'7.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|29°4'10.31" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°9'25.21" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|24°47'14.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|29°45'17.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|27°6'58.94" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|26°13'38.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°29'6.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|29°4'10.36" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°9'25.20" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°47'14.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°45'17.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|27°6'59.46" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°13'38.72" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°29'7.14" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°4'10.31" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°9'25.21" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|24°47'14.07" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|29°45'17.46" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°6'58.94" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|26°13'38.57" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°29'6.94" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°4'10.36" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°9'25.20" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|24°47'14.14" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|29°45'17.48" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|27°6'59.46" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

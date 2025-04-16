@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:39:55 |
 | Sunset | 20:42:59 |
 | Maghrib | 21:06:52 |
-| Isha (Night) | 22:24:25 |
+| Isha (Night) | 22:24:24 |
 | Sharia Midnight | 00:39:52 |
 | Imum Coeli | 01:39:48 |
 {{< /tab >}}

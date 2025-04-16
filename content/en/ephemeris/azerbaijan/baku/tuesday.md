@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|02:26:48|03:20:11|Heart tenderness|
 |10|Mars|Servant|03:20:12|04:13:35|Attracting misfortune, no task is suitable|
 |11|Sun|Servant|04:13:36|05:06:59|Attracting connection and suitors|
-|12|Venus|Servant|05:07:00|06:00:24|Hatred, corruption and creating negative energy for disruption|
+|12|Venus|Servant|05:07:00|06:00:24|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  

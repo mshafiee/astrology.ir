@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|05:41:40|06:44:02|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mercury|Servant|06:44:03|07:46:26|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Moon|Servant|07:46:27|08:48:50|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Saturn|Servant|08:48:51|09:51:13|Unfortunate hour|
+|4|Saturn|Servant|08:48:51|09:51:13|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|09:51:14|10:53:37|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mars|Servant|10:53:38|11:56:01|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|11:56:02|12:58:24|Promotion and attracting wealth|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°37'40.10" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°8'35.54" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|0°32'36.57" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°39'51.66" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|25°24'46.88" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|2°29'37.88" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°13'58.04" |Capricorn|SaadAlDhabib|Mars|
+|♂ Mars|Post-Retrograde Shadow|0°32'36.61" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°39'51.64" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|25°24'46.96" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|2°29'37.89" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|10°13'57.11" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

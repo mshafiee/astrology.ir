@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 10:28:18|Night duration: 13:33:21|
-|Every hour of day duration: 00:52:21|Every hour of night duration: 01:07:47|
+|Every hour of day duration: 00:52:22|Every hour of night duration: 01:07:47|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°17'19.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°35'2.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|29°17'23.07" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°41'29.14" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|24°51'19.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°7'22.30" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|3°22'41.78" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|26°17'19.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°35'2.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|29°17'23.12" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°41'29.13" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°51'19.08" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|0°7'22.31" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°22'42.26" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°17'19.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°35'2.87" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°17'23.07" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°41'29.14" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|24°51'19.01" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|0°7'22.30" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°22'41.78" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|26°17'19.74" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°35'2.67" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°17'23.12" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°41'29.13" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|24°50'50.22" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|0°7'9.14" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°38'31.19" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

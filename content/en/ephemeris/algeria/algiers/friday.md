@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°29'12.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°54'27.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|0°0'49.58" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°25'21.94" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°8'34.24" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|1°26'21.33" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|25°7'53.54" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|26°29'12.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°54'27.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|0°0'49.62" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°25'21.93" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|25°8'34.33" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|1°26'21.34" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|25°7'53.26" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°29'12.49" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°54'27.66" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|0°0'49.58" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°25'21.94" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|25°8'34.24" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|1°26'21.33" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°7'53.54" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|26°29'12.34" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°54'27.46" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|0°0'49.62" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°25'21.93" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|25°8'34.33" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|1°26'21.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|25°7'53.26" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:45:56 |
-| Sunrise | 06:57:43 |
+| Sunrise | 06:57:42 |
 | Dhuhr (Noon) | 13:30:49 |
 | Medium Coeli | 13:30:49 |
 | Sunset | 20:04:24 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:06:41|Night duration: 10:52:13|
+|Duration of the day: 13:06:42|Night duration: 10:52:13|
 |Every hour of day duration: 01:05:33|Every hour of night duration: 00:54:21|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:57:43|08:03:15|Love and attraction of capital|
-|2|Venus|Servant|08:03:16|09:08:48|Unfortunate, no task is suitable|
-|3|Mercury|Servant|09:08:49|10:14:22|Operations of tenderness and attraction of love|
-|4|Moon|Servant|10:14:23|11:19:55|Unfortunate and repelling goodness|
-|5|Saturn|Servant|11:19:56|12:25:29|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|12:25:30|13:31:02|Suitable for all good deeds|
+|1|Sun|Ruler|06:57:42|08:03:14|Love and attraction of capital|
+|2|Venus|Servant|08:03:15|09:08:48|Unfortunate, no task is suitable|
+|3|Mercury|Servant|09:08:49|10:14:21|Operations of tenderness and attraction of love|
+|4|Moon|Servant|10:14:22|11:19:55|Unfortunate and repelling goodness|
+|5|Saturn|Servant|11:19:56|12:25:28|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|12:25:29|13:31:02|Suitable for all good deeds|
 |7|Mars|Servant|13:31:03|14:36:35|No task is suitable, causes misfortune|
 |8|Sun|Ruler|14:36:36|15:42:09|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|15:42:10|16:47:42|Summoning the person of interest, attracting hearts, heart tenderness|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°42'41.78" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°17'5.49" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|0°51'38.06" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|0°24'34.12" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|25°36'43.68" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|3°10'18.60" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°36'44.19" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|19°17'6.18" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|0°51'40.76" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|0°24'36.86" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|25°36'44.20" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|3°10'19.60" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|20°11'26.29" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

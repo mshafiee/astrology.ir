@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°9'12.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°22'2.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|28°48'22.90" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°30'55.54" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|24°43'23.85" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|29°20'20.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|19°13'49.76" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|26°9'12.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°22'1.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|28°48'22.95" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°30'55.52" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°43'23.91" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°20'20.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|19°13'50.14" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°9'12.34" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°22'2.11" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|28°48'22.90" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°30'55.54" |Aries|Butain|Venus|
-|♀ Venus|Post-Retrograde Shadow|24°43'23.85" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|29°20'20.47" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°13'49.76" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|26°9'12.19" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°22'1.91" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|28°48'22.95" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°30'55.52" |Aries|Butain|Venus|
+|♀ Venus|Post-Retrograde Shadow|24°43'23.91" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|29°20'20.48" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°13'50.14" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

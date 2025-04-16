@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:04:03 |
 | Sunset | 19:56:15 |
 | Maghrib | 19:57:48 |
-| Isha (Night) | 21:30:32 |
+| Isha (Night) | 21:30:31 |
 | Sharia Midnight | 00:16:30 |
 | Imum Coeli | 01:03:57 |
 {{< /tab >}}
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|26°21'58.19" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|18°42'34.52" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|29°34'13.61" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°21'55.35" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|24°57'7.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°36'45.97" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°16'5.16" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°21'56.01" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°57'6.06" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|0°36'45.41" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°3'28.73" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°21'58.19" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°42'34.52" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°34'13.61" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|27°21'56.01" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|24°57'6.06" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|0°36'45.97" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°16'5.16" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|26°21'57.01" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°42'32.99" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°34'12.00" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|27°21'45.00" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|24°56'45.06" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|0°36'34.46" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|13°5'20.25" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}

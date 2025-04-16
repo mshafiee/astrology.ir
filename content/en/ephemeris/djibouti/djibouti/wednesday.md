@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|05:55:08|06:57:07|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mercury|Ruler|05:55:08|06:57:07|Acceptance of needs|
 |2|Moon|Servant|06:57:08|07:59:08|Unfortunate, no task is suitable|
 |3|Saturn|Servant|07:59:09|09:01:09|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|09:01:10|10:03:10|The moon is in Scorpio, Not suitable for doing anything.|
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|26°22'35.90" |Pisces|Rescha|Mars|
 |♀ Venus|Post-Retrograde Shadow|24°48'53.98" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Post-Retrograde Shadow|29°54'14.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|29°31'12.88" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|0°8'6.48" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Mars|Mars|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}

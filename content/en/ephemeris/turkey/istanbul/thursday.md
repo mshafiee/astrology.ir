@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°22'0.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°42'38.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|29°34'22.69" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°22'18.76" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|24°57'11.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°37'2.80" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°4'6.74" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|26°22'0.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°42'38.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|29°34'22.73" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°22'18.75" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°57'11.68" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|0°37'2.82" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°4'7.00" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°22'0.78" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°42'38.68" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°34'22.69" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|27°22'18.76" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|24°57'11.60" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|0°37'2.80" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°4'6.74" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|26°22'0.63" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°42'38.48" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°34'22.73" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|27°22'18.75" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|24°57'11.68" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|0°37'2.82" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°4'7.00" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
