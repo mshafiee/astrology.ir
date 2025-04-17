@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°35'47.32" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°6'18.91" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|26°7'25.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°49'22.24" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|4°49'22.24" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|13°30'3.19" |Capricorn|SaadAlBula|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°35'47.32" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°6'18.91" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|26°7'25.08" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°49'22.24" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|4°49'22.24" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|13°30'3.19" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬

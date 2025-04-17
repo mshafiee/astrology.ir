@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°26'52.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°50'37.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|29°52'13.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°4'57.10" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°4'37.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|1°9'56.85" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|20°50'59.19" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Direct|18°50'36.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|29°52'12.28" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°4'47.68" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|25°4'19.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|1°9'47.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|21°38'41.44" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
+|☾ Moon|Jupiter|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|29°52'13.66" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|28°4'57.10" |Aries|Thurayya|Venus|
 |♀ Venus|Post-Retrograde Shadow|25°4'37.72" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|1°9'56.85" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|1°9'56.85" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|20°50'59.19" |Sagittarius|Baldah|Saturn|
 
 

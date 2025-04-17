@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:07:38|Night duration: 11:52:10|
+|Duration of the day: 12:07:38|Night duration: 11:52:09|
 |Every hour duration: 01:43:57|Every hour duration: 01:41:44|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Venus|Ruler|17:35:32|19:17:15|
 |Late evening|Mercury|Servant|19:17:16|20:58:59|
 |Midnight|Moon|Servant|20:59:00|22:40:43|
-|Late at night|Saturn|Servant|22:40:44|00:22:28|
-|Rooster song|Jupiter|Servant|00:22:29|02:04:12|
-|False Dawn|Mars|Servant|02:04:13|03:45:56|
-|Dawn|Sun|Servant|03:45:57|05:27:41|
+|Late at night|Saturn|Servant|22:40:44|00:22:27|
+|Rooster song|Jupiter|Servant|00:22:28|02:04:11|
+|False Dawn|Mars|Servant|02:04:12|03:45:55|
+|Dawn|Sun|Servant|03:45:56|05:27:40|
 
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°16'27.00" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°21'58.53" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|25°53'21.32" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°5'5.20" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|4°5'5.20" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|3°21'10.28" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|19°28'6.91" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|1°16'27.00" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°21'58.53" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|25°53'5.87" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°4'58.70" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°21'12.25" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Post-Retrograde Shadow|25°53'21.32" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°5'5.20" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°21'10.28" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°35'7.22" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°4'45.85" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|26°6'51.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°47'47.56" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|4°47'47.56" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|13°7'2.93" |Capricorn|SaadAlBula|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'54.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°36'23.80" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°35'7.22" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°4'45.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°6'51.98" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°47'47.56" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°7'2.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°36'24.40" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|1°35'9.43" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°4'47.00" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|26°6'49.82" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°47'47.16" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°49'12.63" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Mars|Saturn|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Venus|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
-|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}

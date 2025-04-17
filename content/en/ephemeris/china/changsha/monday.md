@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|19°35'53.03" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|1°33'58.18" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°2'6.53" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°5'57.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°45'5.73" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|12°28'51.72" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°5'53.73" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|4°45'3.51" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|12°37'59.45" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Mars|Sun|Aries|Moon|Jupiter|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Mars|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°33'58.18" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°2'6.53" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|26°5'57.15" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°45'5.73" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|4°45'5.73" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|12°28'51.72" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: CSX, Cangsa, Cangzsah, Cansa, Cchang-sa, Ch'ang-sha-hsien, Ch'ang-sha-shih, Changsha, Changsja, Chansha, Chhong-sa-su, Chhòng-sâ-sṳ, Ch’ang-sha-hsien, Ch’ang-sha-shih, Csangsa, Diong-sa, Diòng-să, Tng-soa-chhi, Tn̂g-soa-chhī, Truong Sa, Trường Sa, Tsan'nksa, cangasa, chang cha, changsa, changsa si, changsha, changsha shەھyr, channasa, tshanghsha, zhang sha, zhang sha shi, Ĉangŝa, Čangša, Čanša, Čchang-ša, Τσανγκσά, Чангша, Чанша, Չանշա, تشانغشا, چانگشا, چاڭشا شەھىر, चांगशा, छांग्षा, ਛਾਂਙਸ਼ਾ, ฉางชา, ချနဆားမြ, ချန်ဆားမြို့, 長沙, 長沙市, 长沙, 长沙市, 창사 시

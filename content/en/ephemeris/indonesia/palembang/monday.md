@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°53'54.10" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°36'22.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|1°35'4.85" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|2°4'41.59" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°6'52.54" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°47'43.26" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|13°7'13.29" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|26°53'53.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°36'22.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|1°35'4.89" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|2°4'41.57" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°6'52.60" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|4°47'43.27" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|13°7'11.05" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°53'54.10" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°36'22.89" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°35'4.85" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°4'41.59" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°6'52.54" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°47'43.26" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°7'13.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|26°53'53.96" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°36'22.68" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|1°35'4.89" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°4'41.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|26°6'52.60" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°47'43.27" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|13°7'11.05" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Kota Palembang, Kutha Palembang, PLM, Palembang, Palembangas, Palempan'nk, Palimbao, Palimbão, Palèmbang, balymbanj, ju gang, pa lem bang, palembanga, pallembang, palmbang, palymbang, parenban, Παλεμπάνγκ, Палембанг, باليمبانج, پالمبانگ, پالم‌بانگ, پالیمبانگ, पालेंबांग, ปาเล็มบัง, パレンバン, 巨港, 팔렘방

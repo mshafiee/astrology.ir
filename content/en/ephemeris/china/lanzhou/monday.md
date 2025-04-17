@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°34'27.10" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°3'11.55" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|26°6'16.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°46'11.66" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|4°46'11.66" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|12°42'43.31" |Capricorn|SaadAlDhabib|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'44.13" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°36'5.73" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°34'27.10" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°3'11.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°6'16.68" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°46'11.66" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°42'43.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°36'6.04" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|1°34'28.03" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°3'12.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|26°6'17.08" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°46'12.17" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°35'46.40" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Kao-lan-hsien, Kaolan, LHW, Lan Chau, Lan Châu, Lan'chzhou, Lan'chzhou shaary, Lan'zhou, Lan-chiu-chhi, Lan-chou, Lan-chou-shih, Lan-cou, Lan-čou, Lanchjou, Lanchow, Lanchowfu, Lancsou, Landzhou, Landzou, Landžou, Lang-ciu, Langouo, Lantsjou, Lantsoou, Lanzcouh, Lanzhou, Lanzhou Shi, Lanĝoŭo, Laņdžou, Làng-ciŭ, Lân-chiu-chhī, hlan cow, lan zhou, lan zhou shi, lanazu, lanjeou si, lanjhu, lantshw, lanzhw, Λαντσόου, Ланджоу, Ланьжоу, Ланьчжоу, Ланьчжоу шаары, Ланџоу, لانتشو, لانزہو, لانژو, لەنجۇ شەھىرى, लान्झू, ਲਾਨਜ਼ੂ, หลานโจว, ལན་ཀྲོའུ།, 兰州, 兰州市, 蘭州, 蘭州市, 란저우 시

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°41'12.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°14'34.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|0°46'0.83" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°11'17.32" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°32'59.41" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|2°57'59.77" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|16°58'4.28" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|19°14'33.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|0°45'55.34" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°11'17.02" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|25°33'9.84" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°58'3.51" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|17°43'2.25" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Moon|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|0°45'55.34" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°11'17.02" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|25°33'9.84" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|2°58'3.51" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|2°58'3.51" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|17°43'2.25" |Capricorn|SaadAlBula|Mars|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°53'18.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°35'21.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|1°32'48.47" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°59'25.58" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°5'2.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°42'22.64" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|11°50'37.20" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|26°53'18.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°35'21.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|1°32'48.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°59'25.60" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°5'2.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|4°42'22.63" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|11°50'39.41" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°53'18.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°35'22.00" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°32'48.49" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°59'25.83" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°5'2.55" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°42'22.83" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°50'23.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|26°53'18.97" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°35'21.96" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|1°32'48.43" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°59'25.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|26°5'2.20" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°42'22.63" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°50'39.41" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

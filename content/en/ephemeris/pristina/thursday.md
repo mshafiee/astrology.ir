@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|26°22'8.85" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|18°42'51.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|29°34'52.23" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°23'34.30" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|24°57'34.80" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°38'1.66" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|11°59'47.29" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°23'29.30" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°57'22.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|0°37'55.60" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°19'43.07" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°22'8.85" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°42'51.87" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°34'52.23" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|27°23'29.30" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|24°57'22.40" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|0°37'55.60" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°19'43.07" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|18°42'52.31" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°34'51.61" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|27°23'34.30" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|24°57'34.80" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|0°38'1.66" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°59'47.29" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

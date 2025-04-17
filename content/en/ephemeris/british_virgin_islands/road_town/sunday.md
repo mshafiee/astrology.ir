@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°21'12.71" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°32'53.88" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|25°56'40.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°15'50.14" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|4°15'50.14" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|5°49'26.70" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°50'21.22" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°50'21.37" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°30'13.73" |Gemini|Dhira|Mars|
 |♂ Mars|Post-Retrograde Shadow|1°21'12.71" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°32'53.88" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|25°56'40.28" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°15'50.14" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|4°15'50.14" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|5°49'26.70" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

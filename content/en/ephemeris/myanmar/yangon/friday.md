@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:04:41 |
 | Sunset | 18:21:49 |
 | Maghrib | 18:22:46 |
-| Isha (Night) | 19:34:49 |
+| Isha (Night) | 19:34:50 |
 | Sharia Midnight | 23:23:33 |
 | Imum Coeli | 00:04:34 |
 {{< /tab >}}
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|26°34'14.32" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°2'49.54" |Taurus|Dabaran|Moon|
 |♂ Mars|Post-Retrograde Shadow|0°19'34.95" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°9'41.46" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°18'6.57" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|2°3'25.51" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|4°22'30.21" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|29°9'41.45" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|25°18'6.65" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°3'25.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|4°22'29.53" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°34'14.46" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°2'49.75" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|0°19'34.91" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°9'41.46" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|25°18'6.57" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|2°3'25.51" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°22'30.21" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|26°34'14.32" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°2'49.54" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|0°19'34.95" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°9'41.45" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|25°18'6.65" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|2°3'25.96" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°16'38.96" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}

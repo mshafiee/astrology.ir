@@ -235,7 +235,7 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|18:47:59|19:45:52|Creating corruption, hatred and enmity|
 |2|Jupiter|Servant|19:45:53|20:43:47|Attracting misfortune, no task is suitable|
 |3|Mars|Servant|20:43:48|21:41:41|Attracting connection and suitors|
-|4|Sun|Servant|21:41:42|22:39:36|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Sun|Servant|21:41:42|22:39:36|Attracting material wealth, earnings and business prosperity|
 |5|Venus|Servant|22:39:37|23:37:30|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|23:37:31|00:35:25|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|00:35:26|01:33:19|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|29°17'7.23" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|26°40'50.92" |Pisces|Rescha|Mars|
 |♀ Venus|Post-Retrograde Shadow|24°51'13.55" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°6'55.32" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|0°6'55.32" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|3°15'48.51" |Scorpio|Akleel|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°17'15.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°34'55.47" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°17'7.28" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°40'50.91" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|24°51'13.62" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|0°6'55.33" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°15'48.99" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|26°17'15.52" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°34'55.67" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°17'7.23" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°40'50.92" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|24°50'41.16" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|0°6'40.57" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°31'59.51" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|29°36'44.26" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|27°28'2.20" |Pisces|Rescha|Mars|
 |♀ Venus|Post-Retrograde Shadow|24°58'15.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°41'22.66" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|0°41'22.66" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|12°57'33.08" |Scorpio|Qalb|Sun|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°22'40.01" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°43'42.44" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°36'44.26" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|27°28'2.20" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|24°58'15.43" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|0°41'22.66" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°57'33.08" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|18°43'40.43" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|29°36'38.98" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|27°27'52.26" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|24°58'3.81" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|0°41'15.60" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|14°14'23.05" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°35'21.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°4'41.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|0°23'46.13" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°19'28.67" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°20'15.78" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|2°11'51.25" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|6°35'50.29" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|26°35'20.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°4'41.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|0°23'46.17" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°19'28.66" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|25°20'15.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|2°11'51.27" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°35'49.53" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°35'21.02" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°4'41.34" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|0°23'46.13" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°19'28.67" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|25°20'15.78" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|2°11'51.25" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°35'50.29" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|26°35'20.87" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°4'41.13" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|0°23'46.17" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°19'28.66" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|25°20'15.86" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|2°11'51.27" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°35'49.53" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

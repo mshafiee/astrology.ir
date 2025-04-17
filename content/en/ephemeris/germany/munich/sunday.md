@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'13.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°16'17.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|0°49'49.58" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°20'19.62" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°35'30.53" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|3°6'22.47" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|19°44'17.54" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|26°42'13.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°16'16.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|0°49'49.61" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°20'19.60" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|25°35'30.60" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|3°6'22.48" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|19°44'16.22" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'13.17" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°16'17.00" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|0°49'49.58" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|0°20'19.62" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|25°35'30.53" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|3°6'22.47" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|19°44'17.54" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|26°42'13.02" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°16'16.79" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|0°49'49.61" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|0°20'19.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|25°35'30.60" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|3°6'22.48" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|19°44'16.22" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

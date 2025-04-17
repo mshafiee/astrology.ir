@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°34'34.72" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°3'32.81" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|26°6'30.35" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°46'33.41" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|4°46'33.41" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|12°51'27.98" |Capricorn|SaadAlBula|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°34'34.72" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°3'32.81" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|26°6'30.35" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°46'33.41" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|4°46'33.41" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|12°51'27.98" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야

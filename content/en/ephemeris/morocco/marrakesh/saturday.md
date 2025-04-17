@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:04:54|Night duration: 10:54:00|
+|Duration of the day: 13:04:54|Night duration: 10:53:59|
 |Every hour of day duration: 01:05:25|Every hour of night duration: 00:54:30|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|20:03:43|20:58:12|Related to talismans, amulets and responses|
-|2|Moon|Servant|20:58:13|21:52:42|Peace among people|
-|3|Saturn|Servant|21:52:43|22:47:12|Vengeful and evil deeds|
-|4|Jupiter|Servant|22:47:13|23:41:42|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|23:41:43|00:36:12|Auspicious|
-|6|Sun|Servant|00:36:13|01:30:42|Writing, swapping and making promises|
-|7|Venus|Servant|01:30:43|02:25:12|Not suitable for any task|
-|8|Mercury|Ruler|02:25:13|03:19:42|Destruction of enemies|
-|9|Moon|Servant|03:19:43|04:14:12|All good deeds|
-|10|Saturn|Servant|04:14:13|05:08:42|Doing evil deeds|
-|11|Jupiter|Servant|05:08:43|06:03:12|Acceptance of reconciliation between couples|
-|12|Mars|Servant|06:03:13|06:57:42|For gaining dignity|
+|1|Mercury|Ruler|20:03:43|20:58:11|Related to talismans, amulets and responses|
+|2|Moon|Servant|20:58:12|21:52:41|Peace among people|
+|3|Saturn|Servant|21:52:42|22:47:11|Vengeful and evil deeds|
+|4|Jupiter|Servant|22:47:12|23:41:41|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|23:41:42|00:36:11|Auspicious|
+|6|Sun|Servant|00:36:12|01:30:41|Writing, swapping and making promises|
+|7|Venus|Servant|01:30:42|02:25:11|Not suitable for any task|
+|8|Mercury|Ruler|02:25:12|03:19:41|Destruction of enemies|
+|9|Moon|Servant|03:19:42|04:14:11|All good deeds|
+|10|Saturn|Servant|04:14:12|05:08:41|Doing evil deeds|
+|11|Jupiter|Servant|05:08:42|06:03:11|Acceptance of reconciliation between couples|
+|12|Mars|Servant|06:03:12|06:57:41|For gaining dignity|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:04:54|Night duration: 10:54:00|
+|Duration of the day: 13:04:54|Night duration: 10:53:59|
 |Every hour duration: 01:52:08|Every hour duration: 01:33:26|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|20:03:43|21:37:07|
 |Late evening|Moon|Servant|21:37:08|23:10:33|
-|Midnight|Saturn|Servant|23:10:34|00:43:59|
-|Late at night|Jupiter|Servant|00:44:00|02:17:24|
-|Rooster song|Mars|Servant|02:17:25|03:50:50|
-|False Dawn|Sun|Servant|03:50:51|05:24:16|
-|Dawn|Venus|Servant|05:24:17|06:57:42|
+|Midnight|Saturn|Servant|23:10:34|00:43:58|
+|Late at night|Jupiter|Servant|00:43:59|02:17:24|
+|Rooster song|Mars|Servant|02:17:25|03:50:49|
+|False Dawn|Sun|Servant|03:50:50|05:24:15|
+|Dawn|Venus|Servant|05:24:16|06:57:41|
 
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|0°26'32.69" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|29°26'0.90" |Pisces|Rescha|Mars|
 |♀ Venus|Post-Retrograde Shadow|25°21'50.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|2°17'32.94" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|2°17'32.94" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|7°56'16.16" |Sagittarius|NaAaem|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|0°26'32.69" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°26'0.90" |Aries|Thurayya|Venus|
 |♀ Venus|Post-Retrograde Shadow|25°21'50.39" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|2°17'32.94" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|2°17'32.94" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|7°56'16.16" |Capricorn|SaadAlDhabib|Jupiter|
 
 

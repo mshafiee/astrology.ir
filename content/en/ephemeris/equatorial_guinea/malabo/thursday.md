@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°22'33.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°43'32.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|29°36'21.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°27'7.14" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|24°58'6.84" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|0°40'41.19" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°45'15.11" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|18°43'30.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|29°36'15.85" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°26'56.35" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°57'53.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|0°40'33.21" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|14°6'26.76" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Mars|Mars|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Venus|Venus|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|29°36'21.18" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|27°27'7.14" |Aries|Thurayya|Venus|
 |♀ Venus|Post-Retrograde Shadow|24°58'6.84" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|0°40'41.19" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|0°40'41.19" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|12°45'15.11" |Sagittarius|NaAaem|Moon|
 
 

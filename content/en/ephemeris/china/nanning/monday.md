@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|1°34'24.37" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°3'7.03" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|26°6'18.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|4°46'7.14" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|4°46'7.14" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|12°43'22.12" |Capricorn|SaadAlDhabib|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'43.61" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°36'3.50" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°34'26.09" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°2'52.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°5'45.44" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°45'50.87" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°15'52.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|19°36'4.71" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|1°34'24.37" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°3'7.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|26°6'18.01" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°46'7.14" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°43'22.12" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시
