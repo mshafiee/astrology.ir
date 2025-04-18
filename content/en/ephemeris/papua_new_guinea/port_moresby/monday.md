@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'9.59" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°35'5.40" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|1°32'9.94" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°32'9.94" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°58'1.99" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°4'42.52" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|4°40'58.26" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|11°35'13.28" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°4'9.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|4°40'42.19" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|11°4'16.08" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'9.59" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°35'5.40" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°32'9.94" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°58'1.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°4'42.52" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°40'58.26" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°35'13.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|1°32'9.94" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°57'48.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|26°4'9.87" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°40'42.19" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°4'16.08" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비

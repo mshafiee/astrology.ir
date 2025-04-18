@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°29'0.03" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|18°54'7.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|0°0'3.68" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|0°0'3.68" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|28°23'32.33" |Pisces|Rescha|Mars|
 |♀ Venus|Post-Retrograde Shadow|25°8'10.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|1°24'51.96" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|24°47'35.21" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|1°24'50.46" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|25°44'26.34" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Mercury|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,35 +338,35 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°29'0.03" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°54'7.10" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|0°0'3.68" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°23'32.33" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|25°8'10.91" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|1°24'51.96" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|24°47'35.21" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|26°28'59.88" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°54'5.55" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|29°59'58.21" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°23'27.19" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|25°8'10.64" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|1°24'50.44" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|25°44'26.60" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Saturn|Mars|Mars|
 |♃ Jupiter|Mars|Venus|Venus|Mars|
-|♂ Mars|Jupiter|Saturn|Sun|Venus|
+|♂ Mars|Saturn|Saturn|Jupiter|Mercury|
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♃ Jupiter|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|♂ Mars|Sun|Mars|Leo|Sun|Sun|
+|♂ Mars|Mercury|Jupiter|Gemini|Sun|Mars|
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Moon|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

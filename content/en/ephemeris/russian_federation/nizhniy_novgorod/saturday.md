@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 04:47:11 |
 | Dhuhr (Noon) | 12:03:03 |
 | Medium Coeli | 12:03:03 |
-| Sunset | 19:20:17 |
+| Sunset | 19:20:18 |
 | Maghrib | 19:23:30 |
 | Isha (Night) | 22:02:49 |
 | Sharia Midnight | 22:25:21 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 04:47:11 |
 | Dhuhr (Noon) | 12:03:03 |
 | Medium Coeli | 12:03:03 |
-| Sunset | 19:20:17 |
+| Sunset | 19:20:18 |
 | Maghrib | 19:23:30 |
 | Isha (Night) | 22:10:02 |
 | Sharia Midnight | 22:37:41 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 04:47:11 |
 | Dhuhr (Noon) | 12:03:03 |
 | Medium Coeli | 12:03:03 |
-| Sunset | 19:20:17 |
+| Sunset | 19:20:18 |
 | Maghrib | 19:23:30 |
 | Isha (Night) | 20:53:30 |
 | Sharia Midnight | 22:33:52 |
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°34'55.47" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°3'58.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|0°22'11.04" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|0°22'11.04" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|29°15'42.75" |Pisces|Rescha|Mars|
 |♀ Venus|Post-Retrograde Shadow|25°19'18.76" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|2°8'35.14" |Pisces|FarghAlMuqaddam|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°34'55.47" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°3'58.72" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|0°22'11.04" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|0°22'11.04" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°15'42.75" |Aries|Thurayya|Venus|
 |♀ Venus|Post-Retrograde Shadow|25°19'18.76" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|2°8'35.14" |Aries|Sharatain|Mars|

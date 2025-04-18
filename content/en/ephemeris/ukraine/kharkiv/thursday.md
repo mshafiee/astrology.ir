@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:34:29 |
 | Medium Coeli | 12:34:29 |
 | Sunset | 19:32:14 |
-| Maghrib | 19:54:45 |
+| Maghrib | 19:54:46 |
 | Isha (Night) | 21:06:32 |
 | Sharia Midnight | 23:38:53 |
 | Imum Coeli | 00:34:22 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°21'48.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°42'18.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|29°33'37.98" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°20'29.94" |Pisces|Rescha|Mars|
-|♀ Venus|Post-Retrograde Shadow|24°56'51.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|0°35'40.86" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|11°47'51.59" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|26°21'48.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°42'18.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°33'37.94" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°20'29.95" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|24°56'51.35" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|0°35'40.84" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|11°47'51.32" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°21'48.20" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°42'18.31" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|29°33'37.98" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|26°21'48.35" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°42'18.52" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|29°33'37.94" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|27°20'29.95" |Aries|Thurayya|Venus|
 |♀ Venus|Post-Retrograde Shadow|24°56'51.35" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|0°35'40.84" |Aries|Sharatain|Mars|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°50'39.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°30'45.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|1°22'25.27" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°35'41.24" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°57'33.95" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|4°18'35.97" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°27'39.83" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|26°50'40.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°30'46.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°22'25.24" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°35'41.26" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|25°57'33.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|4°18'35.96" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°27'41.92" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°50'39.91" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°30'45.80" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°22'25.27" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°35'41.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|25°57'33.95" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°18'35.97" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°27'39.83" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|26°50'40.06" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°30'46.00" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°22'25.24" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°35'41.26" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|25°57'33.88" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°18'35.96" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°27'41.92" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티

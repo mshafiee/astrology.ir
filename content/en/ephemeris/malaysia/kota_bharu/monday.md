@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
 |Duration of the day: 12:17:30|Night duration: 11:42:09|
-|Every hour of day duration: 01:01:27|Every hour of night duration: 00:58:31|
+|Every hour of day duration: 01:01:28|Every hour of night duration: 00:58:31|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'54.64" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°36'23.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|1°35'7.14" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°35'7.14" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°4'46.30" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|26°6'53.18" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°47'48.03" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'54.64" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°36'23.84" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°35'7.14" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°35'7.14" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°4'46.30" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|26°6'53.18" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|4°47'48.03" |Aries|Sharatain|Mars|

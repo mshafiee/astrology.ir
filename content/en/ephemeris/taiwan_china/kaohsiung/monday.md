@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'30.63" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°35'42.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|1°33'33.38" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°33'33.38" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|2°1'10.50" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|26°5'39.95" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°44'8.95" |Pisces|FarghAlMuakhar|Saturn|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°53'30.63" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°35'42.11" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|1°33'33.38" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°33'33.38" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°1'10.50" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|26°5'39.95" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°44'8.95" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°16'35.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|4°44'5.70" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°38'55.81" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시
