@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°52'48.61" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°34'28.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°30'47.61" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°54'53.76" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°3'41.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°34'26.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|1°30'44.06" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°54'41.73" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°3'24.60" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°37'38.26" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|11°12'38.35" |Capricorn|SaadAlDhabib|Mars|
 
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°52'48.61" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°34'28.93" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°30'47.61" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|1°30'47.61" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°54'53.76" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°3'41.83" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|26°3'41.83" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|4°37'48.26" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|10°51'58.66" |Aquarius|SaadAlAkhbia|Mercury|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

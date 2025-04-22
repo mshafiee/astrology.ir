@@ -301,9 +301,9 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°48'48.34" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°27'33.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°15'12.00" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|1°15'12.00" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°19'1.24" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°52'19.15" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|25°52'19.15" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°2'11.32" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|2°41'27.41" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°48'48.34" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°27'33.33" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°15'12.00" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|1°15'12.00" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°19'1.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|25°52'19.15" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|25°52'19.15" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|4°2'11.32" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|2°41'27.41" |Aquarius|SaadAlSaud|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Agios Marinos, Altepetl San Marino, Cathair San Mairine, Cathair San Mairíne, Ceety o San Marino, Cidade de San Marino, Cita e San Marino, Citad da San Marino, Citta di San Marino, Città di San Marino, City of San Marino, Cità e San Marino, Ciuda de San Marino, Ciudad de San Marino, Ciudá de San Marino, Ciutat de San Marino, Civitas Sancti Marini, Dinas San Marino, Ilu San Marino, Ker San Marino, Kêr San Marino, Orasul San Marino, Orașul San Marino, SAI, Saint-Marin, San Marinas, San Marino, San Marino Citta, San Marino Città, San Marino by, San Marino i San Marino, San Marino sehri, San Marino şehri, San Marins, San Maríno, San Marínó, San-Marino, San-Maryna, Sanmarino, Sanmarīno, Sant Marin, Sao Marino, Sen Maren, Sita de San Marin, Sita ed San Marin, Sità de San Marin, Sità ëd San Marin, Stadt San Marino, São Marino, Thanh pho San Marino, Thành phố San Marino, Ville de Saint-Marin, ceyint marino nakaram, san ma ri no, san marynw almdynt, san-marino, sanmalino, sanmarino, sanmarino shi, sheng ma li nuo, sheng ma lian nu cheng, sn marynw, sn mrynw, Ìlú San Màrínò, Άγιος Μαρίνος, Сан Марино, Сан-Марино, Сан-Марына, Սան Մարինո, סן מרינו, سان مارينو المدينة, سان مارینو شہر, سان مارینۆ, سان مرینو شہر, سن مارینو, செயின்ட் மரினோ நகரம், ซานมารีโน, སན་མ་རི་ནོ།, სან-მარინო, ሳን ማሪኖ, サンマリノ, サンマリノ市, 聖馬力諾, 聖馬連奴城, 산마리노

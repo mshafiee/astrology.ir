@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°15'15.25" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°14'27.07" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|3°1'13.55" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|3°1'13.55" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°18'33.70" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|27°20'19.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|8°19'58.05" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|29°41'34.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|27°20'29.97" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|8°20'2.64" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°12'43.76" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Jupiter|Jupiter|Venus|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°15'15.25" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°14'27.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°1'13.55" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|3°1'13.55" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°18'33.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|27°20'29.97" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|27°20'29.97" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|8°20'2.64" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|0°12'43.76" |Aries|Sharatain|Mars|
 

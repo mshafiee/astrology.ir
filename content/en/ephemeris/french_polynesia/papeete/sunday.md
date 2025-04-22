@@ -301,9 +301,9 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°52'2.74" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°33'9.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°27'47.90" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|1°27'47.90" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°48'2.28" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°1'29.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|26°1'29.76" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°30'54.69" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|9°17'26.60" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°52'2.74" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°33'9.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°27'47.90" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|1°27'47.90" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°48'2.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°1'29.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°30'54.69" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|9°17'26.60" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|26°0'56.45" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°30'39.76" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|8°12'34.24" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

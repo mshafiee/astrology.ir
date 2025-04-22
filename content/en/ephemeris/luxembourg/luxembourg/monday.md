@@ -301,9 +301,9 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°48'52.05" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°27'39.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°15'26.79" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|1°15'26.79" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°19'34.38" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°52'27.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|25°52'27.65" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°2'43.63" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|2°48'57.60" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°48'52.05" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°27'39.80" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°15'26.79" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|1°15'26.79" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°19'34.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|25°52'27.65" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|25°52'27.65" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|4°2'43.63" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|2°48'57.60" |Aquarius|SaadAlSaud|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bandar Luxembourg, Ciudad de Luxemburgo, Ciutat de Luxemburg, Dinas Lwcsembwrg, LUX, Letzebuerg, Letzeburg, Liksanbou, Liuksemburgas, Ljuksemburg, Louxemvourgo, Lucemburk, Lucilinburhuc, Lucsamburg, Lucsemburg, Lueksemburg, Lueksemburq, Luessemburgh, Luksambuur, Luksemboarch, Luksembourg, Luksemburg, Luksemburga, Luksemburgo, Luksemburgu, Luksembùrg, Luksimbur, Lungsod ng Luksemburgo, Lusenburgo, Lussemborgh, Lussemburgo, Lussemburgu, Lussimbork veye, Luxemboerg, Luxemborg, Luxemborj, Luxembourg, Luxembourg by, Luxemburg, Luxemburgo, Luxemburgum, Luxembuurich, Luxembôrg, Luxembörg, Luxenburgo, Lëtzebuerg, Lúksemboarch, Lúxemborg, Lüksemburg, Lüksemburq, Lüssemburgh, Rakapuo, Rakapuō, Stad Letzebuerg, Stad Lëtzebuerg, Stadt Luxemburg, Ville de Luxembourg, lak sem beirk, lakcampark, lakjhembarga, lksmbrg, lu sen bao cheng, lu sen bao shi, lugsembuleukeu, luksemaburga, luksemburgi, lwksmbwrgh, lwkzambwrg, lwqsmbwrg, rukusenburuku, Λουξεμβούργο, Луксембург, Люксембург, Лүксембург, Լյուքսեմբուրգ, לוקסמבורג, لوكسمبورغ, لوکزامبورگ, لوکسەمبورگ, ليۇكسېمبۇرگ شەھىرى, لکسمبرگ, लक्झेंबर्ग, লুক্সেমবুর্গ, லக்சம்பர்க், ลักเซมเบิร์ก, ལུ་སེམ་བའུརག, ლუქსემბურგი, ሉክሰምበርግ, ルクセンブルク, 盧森堡城, 盧森堡市, 룩셈부르크

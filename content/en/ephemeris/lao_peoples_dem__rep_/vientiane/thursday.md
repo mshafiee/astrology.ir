@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°13'11.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°10'40.73" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|2°52'41.24" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°59'30.91" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|27°12'14.21" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|7°57'55.99" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|24°47'2.31" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°10'42.11" |Taurus|Dabaran|Saturn|
+|♂ Mars|Post-Retrograde Shadow|2°52'43.53" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°59'39.99" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|27°12'26.99" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|7°58'3.57" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|25°20'32.10" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°13'11.65" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°10'42.11" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°52'43.53" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|2°52'43.53" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°59'39.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|27°12'26.99" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|27°12'26.99" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|7°58'3.57" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|25°20'32.10" |Pisces|Rescha|Mars|
 

@@ -301,9 +301,9 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°51'8.39" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°31'35.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°24'16.84" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|1°24'16.84" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°39'54.69" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|25°58'48.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|25°58'48.76" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°22'47.53" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|7°24'17.73" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°51'8.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°31'35.53" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°24'18.13" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°39'55.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|25°58'47.43" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°22'47.26" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°13'20.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|19°31'35.52" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|1°24'22.22" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°39'46.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|25°58'48.76" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°22'47.53" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°24'17.73" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스

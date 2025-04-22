@@ -301,9 +301,9 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°52'37.71" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°34'9.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°30'4.86" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|1°30'4.86" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°53'15.91" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°3'10.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|26°3'10.28" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|4°36'9.69" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|10°29'27.73" |Capricorn|SaadAlDhabib|Mars|
 
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°52'37.71" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°34'9.98" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°30'4.86" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|1°30'4.86" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°53'15.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°3'10.28" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|26°3'10.28" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|4°36'9.69" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|10°29'27.73" |Aquarius|SaadAlAkhbia|Mercury|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

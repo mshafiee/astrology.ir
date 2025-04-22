@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°52'51.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°34'34.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°31'0.20" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°55'22.55" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°3'51.12" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|4°38'17.28" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|10°58'35.52" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|19°34'32.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|1°31'0.26" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°55'6.63" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°3'18.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|4°38'0.59" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|10°45'7.06" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°52'51.82" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°34'34.52" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°31'0.20" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|1°31'0.20" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°55'22.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|26°3'51.12" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|26°3'51.12" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|4°38'17.28" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|10°58'35.52" |Aquarius|SaadAlAkhbia|Mercury|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아
