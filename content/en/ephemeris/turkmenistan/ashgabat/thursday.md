@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°7'26.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°0'20.27" |Taurus|Dabaran|Saturn|
-|♂ Mars|Post-Retrograde Shadow|2°29'15.94" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°7'9.10" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°50'48.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|6°58'26.18" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|11°42'9.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|27°7'28.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°0'21.96" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|2°29'18.80" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°7'21.08" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°51'5.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|6°58'36.35" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|12°9'18.78" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°7'28.01" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°0'21.96" |Gemini|Dhira|Sun|
-|♂ Mars|Post-Retrograde Shadow|2°29'18.80" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|2°29'18.80" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°7'21.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°51'5.92" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|6°58'36.35" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°51'5.92" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°58'36.35" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|12°9'18.78" |Pisces|FarghAlMuakhar|Jupiter|
 
 

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°0'20.75" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|19°47'41.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Post-Retrograde Shadow|2°0'37.22" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°0'37.22" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|3°2'45.15" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°26'48.90" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|5°48'8.66" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|25°44'2.20" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Post-Retrograde Shadow|26°26'48.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|5°48'8.66" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|26°41'11.78" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Moon|Venus|Sagittarius|Moon|Mars|
 |☿ Mercury|Mars|Sun|Taurus|Moon|Jupiter|
-|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°0'20.75" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°47'41.25" |Gemini|Dhira|Mars|
-|♂ Mars|Post-Retrograde Shadow|2°0'37.22" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|2°0'37.22" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°2'45.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|26°26'48.90" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|5°48'8.66" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°26'48.90" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|5°48'8.66" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|26°41'11.78" |Aquarius|FarghAlMuqaddam|Moon|
 
 

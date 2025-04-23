@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°26'58.92" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°36'7.80" |Taurus|Dabaran|Saturn|
-|♂ Mars|Post-Retrograde Shadow|3°50'29.19" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°50'29.19" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°6'56.61" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°9'50.20" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|10°31'8.55" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|27°28'59.40" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|28°9'50.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|10°31'14.35" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|28°8'56.23" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Jupiter|Moon|Sun|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Sun|Mars|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°26'58.92" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°36'7.80" |Gemini|Dhira|Sun|
-|♂ Mars|Post-Retrograde Shadow|3°50'29.19" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°50'29.19" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|7°6'56.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°9'50.20" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|10°31'14.35" |Aries|Sharatain|Sun|
+|♀ Venus|Post-Retrograde Shadow|28°9'50.20" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°31'14.35" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|28°8'56.23" |Aries|Thurayya|Venus|
 
 
