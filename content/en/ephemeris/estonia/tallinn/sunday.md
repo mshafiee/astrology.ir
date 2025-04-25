@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 01:59:29 |
-| Sunrise | 05:31:48 |
+| Sunrise | 05:31:49 |
 | Dhuhr (Noon) | 13:18:34 |
 | Medium Coeli | 13:18:34 |
 | Sunset | 21:07:00 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:31:48 |
+| Sunrise | 05:31:49 |
 | Dhuhr (Noon) | 13:18:34 |
 | Medium Coeli | 13:18:34 |
 | Sunset | 21:07:00 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:31:08 |
-| Sunrise | 05:31:48 |
+| Sunrise | 05:31:49 |
 | Dhuhr (Noon) | 13:18:34 |
 | Medium Coeli | 13:18:34 |
 | Sunset | 21:07:00 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:31:48 |
+| Sunrise | 05:31:49 |
 | Dhuhr (Noon) | 13:18:34 |
 | Medium Coeli | 13:18:34 |
 | Sunset | 21:07:00 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:31:48 |
+| Sunrise | 05:31:49 |
 | Dhuhr (Noon) | 13:18:34 |
 | Medium Coeli | 13:18:34 |
 | Sunset | 21:07:00 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:31:48 |
+| Sunrise | 05:31:49 |
 | Dhuhr (Noon) | 13:18:34 |
 | Medium Coeli | 13:18:34 |
 | Sunset | 21:07:00 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 15:35:12|Night duration: 08:22:06|
+|Duration of the day: 15:35:11|Night duration: 08:22:06|
 |Every hour duration: 02:13:36|Every hour duration: 01:11:44|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Sun|Ruler|05:31:48|07:45:23|
+|Early morning|Sun|Ruler|05:31:49|07:45:23|
 |Mid-morning|Venus|Servant|07:45:24|09:58:59|
 |Late morning|Mercury|Servant|09:59:00|12:12:35|
 |Noon|Moon|Servant|12:12:36|14:26:11|
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°26'50.11" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°35'51.71" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|3°49'53.97" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|3°49'53.97" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°5'34.00" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|28°9'2.48" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|10°29'32.81" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|10°29'32.81" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|27°7'47.68" |Pisces|Rescha|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°26'50.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|20°35'52.20" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°49'53.07" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°5'40.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|28°9'15.81" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°29'39.48" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|27°52'1.23" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|20°35'51.71" |Gemini|Dhira|Sun|
+|♂ Mars|Post-Retrograde Shadow|3°49'53.97" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°5'34.00" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|28°9'2.48" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|10°29'32.81" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|27°7'47.68" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

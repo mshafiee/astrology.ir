@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:27:28 |
-| Sunrise | 06:33:07 |
+| Sunrise | 06:33:06 |
 | Dhuhr (Noon) | 12:20:26 |
 | Medium Coeli | 12:20:26 |
 | Sunset | 18:07:35 |
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°27'53.91" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°37'50.84" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|3°54'23.20" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|3°54'23.20" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°15'28.70" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|28°13'59.50" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|10°41'55.25" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|10°41'55.25" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|0°33'16.22" |Aries|Sharatain|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°27'53.91" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|20°37'50.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°54'23.20" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°15'28.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|28°13'59.50" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°41'55.25" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|0°33'16.22" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|27°27'53.76" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|20°37'50.61" |Gemini|Dhira|Sun|
+|♂ Mars|Post-Retrograde Shadow|3°54'23.23" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°15'28.63" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|28°13'59.49" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|10°41'55.20" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|0°33'15.60" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

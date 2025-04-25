@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:53:08 |
-| Sunrise | 06:11:26 |
+| Sunrise | 06:11:25 |
 | Dhuhr (Noon) | 12:18:55 |
 | Medium Coeli | 12:18:55 |
 | Sunset | 18:26:27 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:59:23 |
-| Sunrise | 06:11:26 |
+| Sunrise | 06:11:25 |
 | Dhuhr (Noon) | 12:18:55 |
 | Medium Coeli | 12:18:55 |
 | Sunset | 18:26:27 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:57:18 |
-| Sunrise | 06:11:26 |
+| Sunrise | 06:11:25 |
 | Dhuhr (Noon) | 12:18:55 |
 | Medium Coeli | 12:18:55 |
 | Sunset | 18:26:27 |
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°21'14.69" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°25'27.24" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|3°26'12.47" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|3°26'12.47" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|6°13'44.87" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|27°44'56.23" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|9°25'46.73" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|9°25'46.73" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|14°23'53.01" |Pisces|FarghAlMuakhar|Jupiter|
 
 
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°21'14.69" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°25'27.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°26'12.47" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|3°26'12.47" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°13'44.87" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|27°44'56.23" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|9°25'46.73" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|9°25'46.73" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|14°23'53.01" |Aries|Butain|Sun|
 
 

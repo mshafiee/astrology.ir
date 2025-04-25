@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:51:00 |
 | Dhuhr (Noon) | 13:00:23 |
 | Medium Coeli | 13:00:23 |
-| Sunset | 20:10:49 |
+| Sunset | 20:10:48 |
 | Maghrib | 20:14:07 |
 | Isha (Night) | 21:58:12 |
-| Sharia Midnight | 00:06:17 |
+| Sharia Midnight | 00:06:16 |
 | Imum Coeli | 01:00:18 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:51:00 |
 | Dhuhr (Noon) | 13:00:23 |
 | Medium Coeli | 13:00:23 |
-| Sunset | 20:10:49 |
+| Sunset | 20:10:48 |
 | Maghrib | 20:14:07 |
 | Isha (Night) | 22:25:42 |
 | Sharia Midnight | 23:52:32 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:51:00 |
 | Dhuhr (Noon) | 13:00:23 |
 | Medium Coeli | 13:00:23 |
-| Sunset | 20:10:49 |
+| Sunset | 20:10:48 |
 | Maghrib | 20:14:07 |
 | Isha (Night) | 21:44:07 |
 | Sharia Midnight | 23:50:04 |
@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°8'8.52" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°1'34.80" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|2°32'4.19" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|2°32'4.19" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|4°13'29.86" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|26°53'28.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|7°5'29.10" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|7°5'29.10" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|13°32'32.82" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°8'8.52" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°1'34.80" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°32'4.19" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|2°32'4.19" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°13'29.86" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|26°53'28.89" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°5'29.10" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°5'29.10" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|13°32'32.82" |Pisces|FarghAlMuakhar|Jupiter|
 
 

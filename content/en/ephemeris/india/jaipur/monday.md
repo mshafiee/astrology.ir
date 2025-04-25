@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°32'31.83" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°46'35.18" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°14'17.87" |Cancer|Nathrah|Venus|
+|♂ Mars|Post-Retrograde Shadow|4°14'17.87" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°58'43.39" |Aries|Sharatain|Mars|
 |♀ Venus|Post-Retrograde Shadow|28°35'18.76" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°36'52.70" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|11°36'52.70" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|11°33'8.02" |Aries|Sharatain|Sun|
 
 
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°32'31.83" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°46'35.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°14'17.87" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|4°14'17.87" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|7°58'43.39" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|28°35'18.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|11°36'52.70" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|11°36'52.70" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|11°33'8.02" |Taurus|Dabaran|Moon|
 
 

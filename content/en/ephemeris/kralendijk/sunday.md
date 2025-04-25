@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°35'5.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°51'27.92" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°25'24.64" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°22'47.58" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|28°47'36.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|12°8'0.62" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|17°59'50.12" |Aries|Butain|Sun|
+|♄ Saturn|Direct|27°35'4.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°51'27.43" |Taurus|Dabaran|Saturn|
+|♂ Mars|Post-Retrograde Shadow|4°25'27.29" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°22'38.02" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|28°47'13.34" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|12°7'49.56" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|16°56'53.86" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°35'5.83" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°51'27.92" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°25'27.29" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°22'38.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|28°47'13.34" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|12°8'0.62" |Aries|Sharatain|Sun|
+|♂ Mars|Post-Retrograde Shadow|4°25'24.64" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°22'47.58" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|28°47'36.31" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|12°8'0.62" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|17°59'50.12" |Taurus|Dabaran|Moon|
 
 

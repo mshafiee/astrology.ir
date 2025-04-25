@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:16:57 |
 | Sunset | 20:40:17 |
 | Maghrib | 20:42:52 |
-| Isha (Night) | 22:48:25 |
+| Isha (Night) | 22:48:24 |
 | Sharia Midnight | 00:12:26 |
 | Imum Coeli | 01:16:52 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°7'53.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°1'7.79" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|2°31'3.19" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°11'12.48" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|26°52'33.29" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|7°2'55.26" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|12°55'55.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|27°7'53.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°1'7.53" |Taurus|Dabaran|Saturn|
+|♂ Mars|Post-Retrograde Shadow|2°31'1.81" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°11'12.58" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°52'36.34" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|7°2'56.34" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|13°6'33.38" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Venus|Mercury|Moon|
+|☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°7'53.45" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°1'7.79" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°31'3.19" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|2°31'3.19" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°11'12.48" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|26°52'33.29" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°2'55.26" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°2'55.26" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|12°55'55.82" |Pisces|FarghAlMuakhar|Jupiter|
 
 

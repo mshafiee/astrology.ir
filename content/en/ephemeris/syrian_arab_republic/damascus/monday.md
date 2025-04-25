@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°33'10.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°47'48.32" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°17'4.71" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°4'44.10" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|28°38'20.04" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°44'37.40" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|13°1'56.98" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|20°47'49.20" |Taurus|Dabaran|Saturn|
+|♂ Mars|Post-Retrograde Shadow|4°17'10.81" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°4'40.70" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|28°38'1.19" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|11°44'30.08" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|12°40'36.77" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -323,11 +323,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Moon|Mercury|Capricorn|Moon|Mars|
 |♃ Jupiter|Jupiter|Moon|Capricorn|Sun|Saturn|
-|♂ Mars|Moon|Sun|Leo|Moon|Moon|
+|♂ Mars|Saturn|Sun|Leo|Moon|Moon|
 |☉ Sun|Sun|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°33'10.35" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°47'48.32" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°17'4.71" |Leo|Jabhah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|4°17'4.71" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°4'44.10" |Taurus|Thurayya|Mercury|
 |♀ Venus|Post-Retrograde Shadow|28°38'20.04" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|11°44'37.40" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|11°44'37.40" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|13°1'56.98" |Taurus|Dabaran|Moon|
 
 
