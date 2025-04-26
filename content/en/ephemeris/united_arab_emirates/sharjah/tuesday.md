@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:15:40 |
 | Sunset | 18:48:08 |
 | Maghrib | 19:03:52 |
-| Isha (Night) | 19:51:24 |
+| Isha (Night) | 19:51:23 |
 | Sharia Midnight | 23:38:56 |
 | Imum Coeli | 00:15:36 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:15:40 |
 | Sunset | 18:48:08 |
 | Maghrib | 19:06:12 |
-| Isha (Night) | 19:51:24 |
+| Isha (Night) | 19:51:23 |
 | Sharia Midnight | 23:34:45 |
 | Imum Coeli | 00:15:36 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°39'5.70" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°59'7.53" |Taurus|Dabaran|Saturn|
-|♂ Mars|Post-Retrograde Shadow|4°42'53.15" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°42'53.15" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|9°0'25.59" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|29°7'15.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°7'15.21" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|12°57'29.70" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|27°37'30.41" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|27°37'29.24" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°39'5.70" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°59'7.53" |Gemini|Dhira|Sun|
-|♂ Mars|Post-Retrograde Shadow|4°42'53.15" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|9°0'25.57" |Taurus|Dabaran|Mercury|
-|♀ Venus|Post-Retrograde Shadow|29°7'15.23" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|12°57'29.69" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°37'30.41" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|4°42'53.15" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|9°0'25.59" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|29°7'15.21" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|12°57'29.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°37'29.24" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

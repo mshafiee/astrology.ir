@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:03:17 |
 | Medium Coeli | 12:03:17 |
 | Sunset | 18:30:13 |
-| Maghrib | 18:31:37 |
+| Maghrib | 18:31:38 |
 | Isha (Night) | 19:45:15 |
 | Sharia Midnight | 23:23:12 |
 | Imum Coeli | 00:03:12 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:03:17 |
 | Medium Coeli | 12:03:17 |
 | Sunset | 18:30:13 |
-| Maghrib | 18:31:37 |
+| Maghrib | 18:31:38 |
 | Isha (Night) | 19:35:53 |
 | Sharia Midnight | 23:30:14 |
 | Imum Coeli | 00:03:12 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:03:17 |
 | Medium Coeli | 12:03:17 |
 | Sunset | 18:30:13 |
-| Maghrib | 18:31:37 |
-| Isha (Night) | 20:01:37 |
+| Maghrib | 18:31:38 |
+| Isha (Night) | 20:01:38 |
 | Sharia Midnight | 23:22:01 |
 | Imum Coeli | 00:03:12 |
 {{< /tab >}}
@@ -301,9 +301,9 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°32'12.39" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|20°45'58.29" |Taurus|Dabaran|Saturn|
-|♂ Mars|Post-Retrograde Shadow|4°12'53.70" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°12'53.70" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|7°55'41.46" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|28°33'47.88" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|28°33'47.88" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|11°32'58.83" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|10°49'15.89" |Aries|Sharatain|Sun|
 
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°32'12.39" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|20°45'58.29" |Gemini|Dhira|Sun|
-|♂ Mars|Post-Retrograde Shadow|4°12'53.70" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°12'53.70" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|7°55'41.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|28°33'47.88" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|28°33'47.88" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|11°32'58.83" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|10°49'15.89" |Taurus|Dabaran|Moon|
 

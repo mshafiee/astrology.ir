@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:29:41 |
 | Sunset | 20:22:03 |
 | Maghrib | 20:25:02 |
-| Isha (Night) | 21:58:46 |
+| Isha (Night) | 21:58:45 |
 | Sharia Midnight | 00:37:46 |
 | Imum Coeli | 01:29:36 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°28'57.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°39'49.73" |Taurus|Dabaran|Saturn|
-|♂ Mars|Post-Retrograde Shadow|3°58'54.96" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°25'16.72" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|28°18'39.90" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|10°54'16.80" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|2°37'5.71" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|20°39'49.25" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|3°58'53.39" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°25'16.98" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|28°18'43.79" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|10°54'18.15" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|2°40'55.84" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°28'57.08" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|20°39'49.73" |Gemini|Dhira|Sun|
-|♂ Mars|Post-Retrograde Shadow|3°58'54.96" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°25'16.72" |Taurus|Thurayya|Mercury|
-|♀ Venus|Post-Retrograde Shadow|28°18'43.79" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|10°54'18.16" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|2°40'53.80" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|20°39'49.46" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°58'53.35" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°25'16.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|28°18'39.91" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|10°54'16.79" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|2°37'7.76" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
