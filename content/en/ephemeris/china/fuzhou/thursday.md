@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°56'19.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°32'57.18" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°0'13.24" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|11°44'49.86" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|0°40'4.99" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|16°44'36.27" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|8°30'44.05" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|27°56'19.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°32'56.96" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°0'13.27" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|11°44'49.85" |Aries|Sharatain|Sun|
+|♀ Venus|Post-Retrograde Shadow|0°40'5.05" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|16°44'35.80" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|8°40'14.34" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Venus|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°56'19.43" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°32'57.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°0'13.24" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|11°44'49.86" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|0°40'4.99" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|27°56'19.28" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|21°32'56.96" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°0'13.27" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|11°44'49.85" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|0°40'4.99" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|16°44'35.79" |Aries|Butain|Sun|
 |☾ Moon|Direct|8°40'14.68" |Cancer|Nathrah|Venus|
 

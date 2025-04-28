@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:19:08 |
 | Medium Coeli | 12:19:08 |
 | Sunset | 18:49:02 |
-| Maghrib | 19:07:07 |
+| Maghrib | 19:07:06 |
 | Isha (Night) | 19:51:40 |
 | Sharia Midnight | 23:38:41 |
 | Imum Coeli | 00:19:03 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°26'55.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°36'0.96" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|3°50'13.85" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°6'22.26" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°9'32.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|10°30'31.71" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|27°53'48.81" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|27°26'55.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°36'0.75" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|3°50'13.89" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°6'22.24" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|28°9'32.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|10°30'31.69" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|27°53'50.98" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°26'55.24" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|20°36'0.96" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°50'13.85" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°6'22.26" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°9'32.46" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|10°30'31.71" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|27°53'48.81" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|27°26'55.09" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|20°36'0.75" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°50'13.89" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°6'22.24" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|28°9'32.47" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|10°30'31.69" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|27°53'50.98" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

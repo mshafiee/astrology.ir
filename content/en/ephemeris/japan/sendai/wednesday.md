@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:45:41|Night duration: 10:13:07|
+|Duration of the day: 13:45:40|Night duration: 10:13:08|
 |Every hour of day duration: 01:08:48|Every hour of night duration: 00:51:06|
 
  
@@ -220,26 +220,26 @@ Timetable of twelve day and night planetary hours
 |2|Moon|Servant|05:50:01|06:58:48|Unfortunate, no task is suitable|
 |3|Saturn|Servant|06:58:49|08:07:37|For overcoming diseases|
 |4|Jupiter|Servant|08:07:38|09:16:25|For all tasks, extremely auspicious|
-|5|Mars|Servant|09:16:26|10:25:14|Creating negative energy and disrupting peace|
-|6|Sun|Servant|10:25:15|11:34:02|Outer and inner journey|
+|5|Mars|Servant|09:16:26|10:25:13|Creating negative energy and disrupting peace|
+|6|Sun|Servant|10:25:14|11:34:02|Outer and inner journey|
 |7|Venus|Servant|11:34:03|12:42:50|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|12:42:51|13:51:39|Being invisible to the people|
-|9|Moon|Servant|13:51:40|15:00:27|Separation, causing enmity|
-|10|Saturn|Servant|15:00:28|16:09:16|Dominating the great ones|
-|11|Jupiter|Servant|16:09:17|17:18:04|Creating financial and emotional attraction and dominance|
-|12|Mars|Servant|17:18:05|18:26:53|Creating evil and hatred|
+|8|Mercury|Ruler|12:42:51|13:51:38|Being invisible to the people|
+|9|Moon|Servant|13:51:39|15:00:27|Separation, causing enmity|
+|10|Saturn|Servant|15:00:28|16:09:15|Dominating the great ones|
+|11|Jupiter|Servant|16:09:16|17:18:03|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|17:18:04|18:26:52|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|18:26:54|19:17:58|Acceptance of needs|
-|2|Venus|Servant|19:17:59|20:09:04|Unfortunate, no task is suitable|
-|3|Mercury|Servant|20:09:05|21:00:09|For overcoming diseases|
-|4|Moon|Servant|21:00:10|21:51:15|For all tasks, extremely auspicious|
-|5|Saturn|Servant|21:51:16|22:42:20|Creating negative energy and disrupting peace|
+|1|Sun|Ruler|18:26:53|19:17:57|Acceptance of needs|
+|2|Venus|Servant|19:17:58|20:09:03|Unfortunate, no task is suitable|
+|3|Mercury|Servant|20:09:04|21:00:09|For overcoming diseases|
+|4|Moon|Servant|21:00:10|21:51:14|For all tasks, extremely auspicious|
+|5|Saturn|Servant|21:51:15|22:42:20|Creating negative energy and disrupting peace|
 |6|Jupiter|Servant|22:42:21|23:33:26|Outer and inner journey|
-|7|Mars|Servant|23:33:27|00:24:32|Attracting love and hearts and fortune|
-|8|Sun|Ruler|00:24:33|01:15:37|Being invisible to the people|
+|7|Mars|Servant|23:33:27|00:24:31|Attracting love and hearts and fortune|
+|8|Sun|Ruler|00:24:32|01:15:37|Being invisible to the people|
 |9|Venus|Servant|01:15:38|02:06:43|Separation, causing enmity|
 |10|Mercury|Servant|02:06:44|02:57:48|Dominating the great ones|
 |11|Moon|Servant|02:57:49|03:48:54|Creating financial and emotional attraction and dominance|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:45:41|Night duration: 10:13:07|
+|Duration of the day: 13:45:40|Night duration: 10:13:08|
 |Every hour duration: 01:57:57|Every hour duration: 01:27:35|
 
  
@@ -267,19 +267,19 @@ Timetable of septet day and night planetary hours
 |Early morning|Mercury|Ruler|04:41:13|06:39:09|
 |Mid-morning|Moon|Servant|06:39:10|08:37:06|
 |Late morning|Saturn|Servant|08:37:07|10:35:03|
-|Noon|Jupiter|Servant|10:35:04|12:33:01|
-|Early afternoon|Mars|Servant|12:33:02|14:30:58|
-|Mid-afternoon|Sun|Servant|14:30:59|16:28:55|
-|Late afternoon|Venus|Servant|16:28:56|18:26:53|
+|Noon|Jupiter|Servant|10:35:04|12:33:00|
+|Early afternoon|Mars|Servant|12:33:01|14:30:57|
+|Mid-afternoon|Sun|Servant|14:30:58|16:28:54|
+|Late afternoon|Venus|Servant|16:28:55|18:26:52|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|18:26:54|19:54:28|
-|Late evening|Venus|Servant|19:54:29|21:22:03|
-|Midnight|Mercury|Servant|21:22:04|22:49:38|
-|Late at night|Moon|Servant|22:49:39|00:17:14|
-|Rooster song|Saturn|Servant|00:17:15|01:44:49|
+|Evening|Sun|Ruler|18:26:53|19:54:27|
+|Late evening|Venus|Servant|19:54:28|21:22:02|
+|Midnight|Mercury|Servant|21:22:03|22:49:38|
+|Late at night|Moon|Servant|22:49:39|00:17:13|
+|Rooster song|Saturn|Servant|00:17:14|01:44:49|
 |False Dawn|Jupiter|Servant|01:44:50|03:12:24|
 |Dawn|Mars|Servant|03:12:25|04:40:00|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°49'49.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°20'1.17" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°30'37.22" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°42'18.30" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|0°3'28.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|21°20'0.95" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°30'37.26" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°42'18.29" |Aries|Sharatain|Sun|
+|♀ Venus|Post-Retrograde Shadow|0°3'28.83" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|15°16'10.24" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|23°20'2.31" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°20'2.32" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°49'49.05" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°20'1.17" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°30'37.37" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°42'18.30" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|0°3'28.79" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|15°16'10.24" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°20'2.31" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|27°49'48.90" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|21°20'0.95" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°30'37.40" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°42'18.00" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|0°3'28.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|15°16'9.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°19'37.64" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°31'54.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°45'23.78" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°11'35.09" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°52'50.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°32'22.23" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|11°29'20.16" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|8°45'27.08" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|27°31'54.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°45'23.57" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°11'35.13" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°52'50.91" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|28°32'22.24" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|11°29'20.15" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|10°4'33.71" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Mars|Venus|Mercury|
 |☿ Mercury|Venus|Jupiter|Moon|Sun|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|20°45'23.78" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°11'35.09" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|7°52'50.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°32'22.23" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|28°32'22.23" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|11°29'20.16" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|10°4'31.88" |Taurus|Dabaran|Moon|
 

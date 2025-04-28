@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:19:28 |
 | Sunset | 18:51:59 |
 | Maghrib | 18:53:01 |
-| Isha (Night) | 20:14:29 |
+| Isha (Night) | 20:14:30 |
 | Sharia Midnight | 23:38:01 |
 | Imum Coeli | 00:19:25 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°51'22.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°23'5.41" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°37'38.45" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°57'11.56" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|0°12'4.39" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|15°36'59.27" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|27°8'13.53" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|27°51'22.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°23'5.19" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°37'38.48" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°57'11.55" |Aries|Sharatain|Sun|
+|♀ Venus|Post-Retrograde Shadow|0°12'4.43" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|15°36'59.28" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|27°8'13.41" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°51'22.33" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°23'5.41" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°37'38.45" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°57'11.56" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|0°12'4.39" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|15°36'59.27" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°8'13.53" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|27°51'22.18" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|21°23'5.19" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°37'38.48" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°57'11.55" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|0°12'4.43" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|15°36'59.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°8'13.41" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

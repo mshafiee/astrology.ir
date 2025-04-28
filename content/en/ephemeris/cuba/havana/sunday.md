@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°35'17.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°51'49.41" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|4°26'13.89" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°24'32.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°48'29.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|12°10'18.28" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|18°20'20.95" |Aries|Butain|Sun|
+|♄ Saturn|Direct|27°35'16.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°51'49.20" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|4°26'13.93" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°24'32.96" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|28°48'29.30" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|12°10'18.27" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|18°20'22.48" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°35'17.07" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|20°51'49.41" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°26'13.89" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°24'32.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°48'29.28" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|12°10'18.28" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|18°20'20.95" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|27°35'16.92" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|20°51'49.20" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°26'13.93" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°24'32.96" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|28°48'29.30" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|12°10'18.27" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|18°20'22.48" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

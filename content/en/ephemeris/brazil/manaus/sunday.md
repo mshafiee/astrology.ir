@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:45:29 |
+| Fajr (Dawn) | 04:45:28 |
 | Sunrise | 05:57:10 |
 | Dhuhr (Noon) | 11:57:39 |
 | Medium Coeli | 11:57:39 |
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|20°51'19.60" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|4°25'5.42" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|8°22'6.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°47'16.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Post-Retrograde Shadow|28°47'16.60" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Direct|12°7'7.37" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|17°55'36.56" |Aries|Butain|Sun|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|20°51'19.60" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°25'5.42" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°22'6.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°47'16.60" |Pisces|Rescha|Mars|
+|♀ Venus|Post-Retrograde Shadow|28°47'16.60" |Pisces|Rescha|Mars|
 |☿ Mercury|Direct|12°7'7.37" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|17°55'36.56" |Taurus|Dabaran|Moon|
 
