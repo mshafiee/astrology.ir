@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 13:53:17|Night duration: 10:05:30|
-|Every hour of day duration: 01:09:26|Every hour of night duration: 00:50:28|
+|Every hour of day duration: 01:09:26|Every hour of night duration: 00:50:27|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|

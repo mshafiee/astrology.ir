@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:54:38 |
 | Dhuhr (Noon) | 12:14:20 |
 | Medium Coeli | 12:14:20 |
-| Sunset | 18:34:12 |
+| Sunset | 18:34:13 |
 | Maghrib | 18:48:53 |
 | Isha (Night) | 19:32:29 |
 | Sharia Midnight | 23:40:36 |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:54:38 |
 | Dhuhr (Noon) | 12:14:20 |
 | Medium Coeli | 12:14:20 |
-| Sunset | 18:34:12 |
+| Sunset | 18:34:13 |
 | Maghrib | 18:51:03 |
 | Isha (Night) | 19:32:29 |
 | Sharia Midnight | 23:36:50 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:54:38 |
 | Dhuhr (Noon) | 12:14:20 |
 | Medium Coeli | 12:14:20 |
-| Sunset | 18:34:12 |
+| Sunset | 18:34:13 |
 | Maghrib | 18:36:22 |
 | Isha (Night) | 19:45:46 |
-| Sharia Midnight | 23:36:09 |
+| Sharia Midnight | 23:36:10 |
 | Imum Coeli | 00:14:16 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:54:38 |
 | Dhuhr (Noon) | 12:14:20 |
 | Medium Coeli | 12:14:20 |
-| Sunset | 18:34:12 |
+| Sunset | 18:34:13 |
 | Maghrib | 18:36:22 |
 | Isha (Night) | 19:50:12 |
-| Sharia Midnight | 23:36:09 |
+| Sharia Midnight | 23:36:10 |
 | Imum Coeli | 00:14:16 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:54:38 |
 | Dhuhr (Noon) | 12:14:20 |
 | Medium Coeli | 12:14:20 |
-| Sunset | 18:34:12 |
+| Sunset | 18:34:13 |
 | Maghrib | 18:36:22 |
 | Isha (Night) | 20:06:22 |
 | Sharia Midnight | 23:35:03 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|27°43'45.84" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|21°8'9.49" |Taurus|Dabaran|Saturn|
 |♂ Mars|Direct|5°3'30.11" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°44'37.06" |Aries|Sharatain|Mars|
-|♀ Venus|Post-Retrograde Shadow|29°31'8.71" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|13°56'47.80" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|9°3'46.15" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|9°44'37.41" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|29°31'2.58" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|13°56'46.07" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|9°19'53.61" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
