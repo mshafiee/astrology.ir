@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°50'57.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°22'16.07" |Taurus|Dabaran|Saturn|
-|♂ Mars|Direct|5°35'46.62" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°53'10.61" |Aries|Sharatain|Sun|
-|♀ Venus|Post-Retrograde Shadow|0°9'40.03" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|15°31'23.48" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|25°47'57.34" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|27°50'57.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°22'15.83" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|5°35'45.78" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°53'9.79" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|0°9'40.34" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|15°31'23.22" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|25°38'35.07" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°50'57.24" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°22'16.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°35'46.62" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°53'10.61" |Taurus|Dabaran|Moon|
-|♀ Venus|Post-Retrograde Shadow|0°9'40.03" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|15°31'23.48" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|21°22'15.83" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°35'45.78" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°53'9.79" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|0°9'40.34" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|15°31'23.22" |Aries|Butain|Sun|
 |☾ Moon|Direct|25°38'35.07" |Gemini|Dhira|Sun|
 
 
