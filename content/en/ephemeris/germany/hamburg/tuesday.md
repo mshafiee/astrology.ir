@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:16:37 |
 | Sunset | 20:59:40 |
 | Maghrib | 21:01:24 |
-| Isha (Night) | 00:11:27 |
+| Isha (Night) | 00:11:26 |
 | Sharia Midnight | 23:40:23 |
 | Imum Coeli | 01:16:35 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°21'29.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°24'57.84" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°59'42.75" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°52'24.30" |Aries|Butain|Sun|
-|♀ Venus|Direct|3°19'3.03" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|22°58'50.50" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°58'54.91" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|28°21'29.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°24'57.62" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°59'42.77" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°52'24.29" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|3°19'3.07" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|22°58'50.51" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°58'54.99" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°21'29.43" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°24'57.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°59'42.75" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|15°52'24.30" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°19'3.03" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|22°58'50.50" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°58'54.91" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|28°21'29.28" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°24'57.62" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°59'42.77" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|15°52'24.29" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|3°19'3.07" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|22°58'50.51" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°58'54.99" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°21'36.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°25'13.07" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|8°0'17.69" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°53'33.98" |Aries|Butain|Sun|
-|♀ Venus|Direct|3°19'36.96" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|23°0'39.05" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°10'39.68" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|28°21'36.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°25'12.85" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|8°0'17.71" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°53'36.24" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|3°19'52.92" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|23°0'44.29" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°12'41.20" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Jupiter|Moon|Aries|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°21'36.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°25'13.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°0'17.69" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|15°53'36.25" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°19'52.88" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|28°21'36.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°25'12.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°0'17.71" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|15°53'36.24" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|3°19'52.92" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|23°0'44.29" |Aries|Butain|Venus|
-|☾ Moon|Direct|4°12'41.12" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|4°12'41.20" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

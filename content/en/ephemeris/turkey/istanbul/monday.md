@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:00:52 |
 | Sunset | 20:05:25 |
 | Maghrib | 20:06:43 |
-| Isha (Night) | 21:48:21 |
+| Isha (Night) | 21:48:20 |
 | Sharia Midnight | 00:05:33 |
 | Imum Coeli | 01:00:49 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°15'31.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°12'19.68" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°30'37.06" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°52'47.68" |Aries|Butain|Sun|
-|♀ Venus|Direct|2°38'49.59" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|21°25'16.09" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°13'22.21" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|28°15'31.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°12'19.45" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°30'37.08" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°52'47.67" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|2°38'49.64" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|21°25'16.10" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°13'22.20" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°15'31.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°12'19.68" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°30'37.06" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|14°52'47.68" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°38'49.59" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|21°25'16.09" |Aries|Butain|Venus|
-|☾ Moon|Direct|21°13'22.21" |Leo|Zubrah|Mars|
+|♄ Saturn|Direct|28°15'31.07" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°12'19.45" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°30'37.08" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|14°52'47.67" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|2°38'49.64" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|21°25'16.10" |Aries|Butain|Venus|
+|☾ Moon|Direct|21°13'22.20" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

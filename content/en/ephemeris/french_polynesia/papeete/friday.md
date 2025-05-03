@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°6'59.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°54'36.58" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|6°49'52.61" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°28'39.34" |Aries|Butain|Sun|
-|♀ Venus|Direct|1°43'39.28" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|19°16'37.00" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|2°42'19.07" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|21°54'34.61" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|6°49'51.59" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°28'22.84" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|1°43'43.30" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|19°16'38.06" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|2°23'36.37" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°6'59.72" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°54'35.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°49'53.66" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|13°28'22.96" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°43'39.28" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°16'37.00" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°42'19.07" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|21°54'36.58" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°49'52.61" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|13°28'39.34" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|1°44'9.22" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°16'52.85" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°45'56.51" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

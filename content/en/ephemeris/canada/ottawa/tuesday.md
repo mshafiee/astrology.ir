@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:59:21 |
 | Medium Coeli | 12:59:21 |
 | Sunset | 20:16:16 |
-| Maghrib | 20:18:06 |
+| Maghrib | 20:18:05 |
 | Isha (Night) | 22:13:20 |
 | Sharia Midnight | 23:56:10 |
 | Imum Coeli | 00:59:19 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:59:21 |
 | Medium Coeli | 12:59:21 |
 | Sunset | 20:16:16 |
-| Maghrib | 20:18:06 |
+| Maghrib | 20:18:05 |
 | Isha (Night) | 21:56:43 |
 | Sharia Midnight | 00:08:51 |
 | Imum Coeli | 00:59:19 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:59:21 |
 | Medium Coeli | 12:59:21 |
 | Sunset | 20:16:16 |
-| Maghrib | 20:18:06 |
+| Maghrib | 20:18:05 |
 | Isha (Night) | 22:17:40 |
 | Sharia Midnight | 23:49:14 |
 | Imum Coeli | 00:59:19 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:59:21 |
 | Medium Coeli | 12:59:21 |
 | Sunset | 20:16:16 |
-| Maghrib | 20:18:06 |
+| Maghrib | 20:18:05 |
 | Isha (Night) | 22:22:05 |
 | Sharia Midnight | 23:56:10 |
 | Imum Coeli | 00:59:19 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:59:21 |
 | Medium Coeli | 12:59:21 |
 | Sunset | 20:16:16 |
-| Maghrib | 20:18:06 |
-| Isha (Night) | 21:48:06 |
+| Maghrib | 20:18:05 |
+| Isha (Night) | 21:48:05 |
 | Sharia Midnight | 23:53:55 |
 | Imum Coeli | 00:59:19 |
 {{< /tab >}}
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|22°40'30.39" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|8°35'32.15" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|17°5'19.01" |Aries|Butain|Sun|
-|♀ Venus|Direct|4°9'52.99" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Post-Retrograde Shadow|4°9'52.99" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|24°56'11.17" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|19°6'44.60" |Leo|Zubrah|Jupiter|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|22°40'30.39" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°35'32.15" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|17°5'19.01" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|4°9'52.99" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|4°9'52.99" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|24°56'11.17" |Aries|Butain|Venus|
 |☾ Moon|Direct|19°6'44.60" |Virgo|Simak|Venus|
 

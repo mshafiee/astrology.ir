@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°10'5.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°1'0.56" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°4'36.55" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°59'4.68" |Aries|Butain|Sun|
-|♀ Venus|Direct|2°3'31.81" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|20°2'52.12" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|9°28'5.88" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|28°10'5.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°1'1.95" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°4'42.08" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°59'7.60" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|2°3'25.36" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|20°2'51.71" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|10°19'10.22" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Sun|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|22°1'0.56" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°4'36.55" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|13°59'4.68" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°3'31.81" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|2°3'31.81" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|20°2'52.12" |Aries|Butain|Venus|
 |☾ Moon|Direct|9°28'5.88" |Leo|Zubrah|Saturn|
 
