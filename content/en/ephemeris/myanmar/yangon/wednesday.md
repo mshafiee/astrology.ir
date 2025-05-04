@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:01:54 |
 | Sunset | 18:26:52 |
 | Maghrib | 18:27:50 |
-| Isha (Night) | 19:40:18 |
+| Isha (Night) | 19:40:17 |
 | Sharia Midnight | 23:22:46 |
 | Imum Coeli | 00:01:53 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°31'54.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°47'27.84" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|8°51'34.68" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°37'49.37" |Aries|Butain|Sun|
-|♀ Venus|Post-Retrograde Shadow|4°33'7.37" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|28°31'54.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°47'27.61" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|8°51'34.70" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°37'49.35" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|4°33'7.40" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|25°49'29.92" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|25°33'19.59" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°33'19.78" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°31'54.21" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°47'27.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°51'34.68" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|17°37'49.37" |Taurus|Dabaran|Moon|
-|♀ Venus|Post-Retrograde Shadow|4°33'7.37" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|25°49'29.46" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|25°36'9.75" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|28°31'54.06" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°47'27.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°51'34.70" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|17°37'49.35" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|4°33'7.40" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|25°49'29.92" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|25°33'19.78" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

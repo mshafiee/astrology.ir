@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°37'5.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°58'54.97" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°18'2.58" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|18°31'6.19" |Aries|Butain|Sun|
-|♀ Venus|Post-Retrograde Shadow|5°11'49.46" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|27°18'21.39" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°29'42.22" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|22°58'55.20" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°18'2.55" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|18°31'4.79" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|5°11'45.68" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|27°18'19.76" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°41'33.72" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Capricorn|Sun|Jupiter|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°37'5.61" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°58'54.97" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°18'2.58" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|18°31'6.19" |Taurus|Dabaran|Moon|
-|♀ Venus|Post-Retrograde Shadow|5°11'49.46" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|27°18'21.39" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|28°37'5.76" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°58'55.20" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°18'2.55" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|18°31'6.20" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|5°11'49.44" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|27°18'21.38" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|6°29'42.17" |Libra|Ghafr|Moon|
 
 

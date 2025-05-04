@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 04:59:16 |
 | Dhuhr (Noon) | 11:53:28 |
 | Medium Coeli | 11:53:28 |
-| Sunset | 18:48:09 |
+| Sunset | 18:48:10 |
 | Maghrib | 18:49:26 |
 | Isha (Night) | 20:23:01 |
-| Sharia Midnight | 22:59:35 |
+| Sharia Midnight | 22:59:36 |
 | Imum Coeli | 23:53:26 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 04:59:16 |
 | Dhuhr (Noon) | 11:53:28 |
 | Medium Coeli | 11:53:28 |
-| Sunset | 18:48:09 |
+| Sunset | 18:48:10 |
 | Maghrib | 18:49:26 |
 | Isha (Night) | 20:26:06 |
 | Sharia Midnight | 23:04:17 |
@@ -210,29 +210,29 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:48:53|Night duration: 10:10:12|
+|Duration of the day: 13:48:54|Night duration: 10:10:11|
 |Every hour of day duration: 01:09:04|Every hour of night duration: 00:50:51|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|04:59:16|06:08:19|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|06:08:20|07:17:23|Destruction of enemies|
-|3|Sun|Servant|07:17:24|08:26:28|Attraction of financial and emotional love|
-|4|Venus|Servant|08:26:29|09:35:32|Creating love, connection and marriage|
-|5|Mercury|Servant|09:35:33|10:44:37|Indulgence|
-|6|Moon|Servant|10:44:38|11:53:41|Outer and inner journey|
-|7|Saturn|Servant|11:53:42|13:02:45|Achieving status and power|
-|8|Jupiter|Ruler|13:02:46|14:11:50|Attraction of happiness and fortune|
-|9|Mars|Servant|14:11:51|15:20:54|Reaching status and promotion|
-|10|Sun|Servant|15:20:55|16:29:59|Fulfilling needs|
-|11|Venus|Servant|16:30:00|17:39:03|Attraction of love and hearts|
-|12|Mercury|Servant|17:39:04|18:48:08|Attracting misfortune, not suitable for any task|
+|2|Mars|Servant|06:08:20|07:17:24|Destruction of enemies|
+|3|Sun|Servant|07:17:25|08:26:28|Attraction of financial and emotional love|
+|4|Venus|Servant|08:26:29|09:35:33|Creating love, connection and marriage|
+|5|Mercury|Servant|09:35:34|10:44:37|Indulgence|
+|6|Moon|Servant|10:44:38|11:53:42|Outer and inner journey|
+|7|Saturn|Servant|11:53:43|13:02:46|Achieving status and power|
+|8|Jupiter|Ruler|13:02:47|14:11:51|Attraction of happiness and fortune|
+|9|Mars|Servant|14:11:52|15:20:55|Reaching status and promotion|
+|10|Sun|Servant|15:20:56|16:30:00|Fulfilling needs|
+|11|Venus|Servant|16:30:01|17:39:04|Attraction of love and hearts|
+|12|Mercury|Servant|17:39:05|18:48:09|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|18:48:09|19:38:59|Attraction of material wealth, earning and prosperity|
+|1|Moon|Ruler|18:48:10|19:38:59|Attraction of material wealth, earning and prosperity|
 |2|Saturn|Servant|19:39:00|20:29:50|Destruction of enemies|
 |3|Jupiter|Servant|20:29:51|21:20:41|Attraction of financial and emotional love|
 |4|Mars|Servant|21:20:42|22:11:32|Creating love, connection and marriage|

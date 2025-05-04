@@ -116,14 +116,14 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:04:23 |
+| Fajr (Dawn) | 02:04:22 |
 | Sunrise | 05:39:28 |
 | Dhuhr (Noon) | 13:24:56 |
 | Medium Coeli | 13:24:56 |
 | Sunset | 21:11:41 |
 | Maghrib | 21:15:18 |
 | Isha (Night) | 00:58:32 |
-| Sharia Midnight | 23:31:10 |
+| Sharia Midnight | 23:31:09 |
 | Imum Coeli | 01:24:54 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°20'17.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°22'24.71" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°53'50.65" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°40'24.22" |Aries|Butain|Sun|
-|♀ Venus|Post-Retrograde Shadow|3°10'50.91" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|22°39'50.18" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°27'8.13" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|28°20'17.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°22'24.93" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°53'50.63" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°40'24.23" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|3°10'50.86" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|22°39'50.17" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°27'8.08" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°20'17.45" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°22'24.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°53'50.65" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|15°40'24.22" |Taurus|Dabaran|Moon|
-|♀ Venus|Post-Retrograde Shadow|3°10'50.91" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|22°39'50.18" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°27'8.13" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|28°20'17.60" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°22'24.93" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°53'50.63" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|15°40'24.23" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|3°10'50.86" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|22°39'50.17" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°27'8.08" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

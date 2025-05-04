@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:32:03 |
-| Sunrise | 05:08:25 |
+| Sunrise | 05:08:24 |
 | Dhuhr (Noon) | 12:00:59 |
 | Medium Coeli | 12:00:59 |
 | Sunset | 18:54:05 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:30:12 |
-| Sunrise | 05:08:25 |
+| Sunrise | 05:08:24 |
 | Dhuhr (Noon) | 12:00:59 |
 | Medium Coeli | 12:00:59 |
 | Sunset | 18:54:05 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:20:52 |
-| Sunrise | 05:08:25 |
+| Sunrise | 05:08:24 |
 | Dhuhr (Noon) | 12:00:59 |
 | Medium Coeli | 12:00:59 |
 | Sunset | 18:54:05 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:27:07 |
-| Sunrise | 05:08:25 |
+| Sunrise | 05:08:24 |
 | Dhuhr (Noon) | 12:00:59 |
 | Medium Coeli | 12:00:59 |
 | Sunset | 18:54:05 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°15'11.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°11'39.34" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°29'4.64" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°49'38.13" |Aries|Butain|Sun|
-|♀ Venus|Post-Retrograde Shadow|2°36'44.30" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|21°20'21.78" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°31'56.16" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|28°15'12.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°11'39.55" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°29'4.60" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°49'38.10" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|2°36'44.22" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|21°20'21.71" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°31'55.47" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
