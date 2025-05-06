@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°17'18.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°16'4.95" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|7°39'19.44" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°10'24.33" |Aries|Butain|Sun|
-|♀ Venus|Post-Retrograde Shadow|2°50'19.13" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|21°52'47.06" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|25°43'58.65" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|28°17'18.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°16'6.08" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|7°39'17.25" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°10'39.29" |Aries|Butain|Sun|
+|♀ Venus|Direct|2°50'48.47" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|21°53'1.99" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|24°59'19.71" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Jupiter|Moon|Aries|Moon|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Venus|Saturn|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°17'18.73" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°16'5.86" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°39'19.44" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|15°10'24.33" |Taurus|Dabaran|Moon|
-|♀ Venus|Post-Retrograde Shadow|2°50'48.47" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|28°17'18.87" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°16'6.08" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°39'17.25" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|15°10'39.29" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°50'48.47" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|21°53'1.99" |Aries|Butain|Venus|
 |☾ Moon|Direct|24°59'19.71" |Leo|Sarfrah|Mars|
 
