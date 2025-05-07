@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'1.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°5'27.41" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°33'8.87" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°1'24.73" |Aries|Butain|Sun|
-|♀ Venus|Direct|5°34'14.53" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|28°9'38.28" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°31'46.55" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|28°40'1.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°5'27.19" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°33'8.90" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°1'24.72" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|5°34'14.55" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|28°9'27.00" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°30'21.74" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
+|☾ Moon|Venus|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°5'27.41" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|9°33'8.87" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|19°1'24.73" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|5°34'14.53" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|5°34'14.53" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|28°9'38.28" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|12°31'46.55" |Libra|Ghafr|Saturn|
 

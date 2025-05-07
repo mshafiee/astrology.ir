@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:50:38 |
+| Fajr (Dawn) | 01:50:39 |
 | Sunrise | 05:37:25 |
 | Dhuhr (Noon) | 13:24:51 |
 | Medium Coeli | 13:24:51 |
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|22°34'45.70" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|8°22'17.53" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|16°38'24.85" |Aries|Butain|Sun|
-|♀ Venus|Direct|3°50'54.90" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Post-Retrograde Shadow|3°50'54.90" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Direct|24°12'31.67" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|13°37'43.85" |Leo|Zubrah|Jupiter|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|22°34'45.70" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°22'17.53" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|16°38'24.85" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°50'54.90" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|3°50'54.90" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|24°12'31.67" |Aries|Butain|Venus|
 |☾ Moon|Direct|13°37'43.85" |Virgo|Awwa|Venus|
 

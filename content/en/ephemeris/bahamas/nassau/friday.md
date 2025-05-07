@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°45'46.13" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|23°18'24.75" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|10°3'11.85" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|20°1'4.13" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°18'49.29" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|29°52'21.02" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°1'7.16" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|10°3'11.88" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|20°1'4.12" |Aries|Butain|Venus|
+|♀ Venus|Post-Retrograde Shadow|6°18'49.30" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|29°52'21.03" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°1'6.65" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°45'46.13" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°18'24.49" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°3'11.85" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|20°1'4.13" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|6°18'49.29" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|29°52'21.02" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|26°1'7.16" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|28°45'45.99" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°18'24.52" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°3'7.45" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|20°1'14.23" |Taurus|Dabaran|Saturn|
+|♀ Venus|Post-Retrograde Shadow|6°19'14.17" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|29°52'31.98" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|24°42'27.86" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Sun|Venus|Leo|Moon|Moon|
+|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
 
 
 {{< /tab >}}

@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 13:57:59|Night duration: 10:01:06|
-|Every hour of day duration: 01:09:50|Every hour of night duration: 00:50:05|
+|Every hour of day duration: 01:09:50|Every hour of night duration: 00:50:06|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'50.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°14'1.50" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°52'58.47" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°41'0.01" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°3'53.03" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|29°17'30.51" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°44'6.36" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|28°43'49.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°14'1.28" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°52'58.50" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°41'0.00" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|6°3'53.05" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|29°17'30.52" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°44'5.99" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'50.04" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°14'1.50" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°52'58.47" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|19°41'0.01" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|6°3'53.03" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|29°17'30.51" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|20°44'6.36" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|28°43'49.90" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°14'1.28" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°52'58.50" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|19°41'0.00" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|6°3'53.05" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|29°17'30.52" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|20°44'5.99" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
