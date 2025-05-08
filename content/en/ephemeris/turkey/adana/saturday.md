@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:35:05 |
 | Sunset | 19:35:49 |
 | Maghrib | 19:37:02 |
-| Isha (Night) | 21:18:32 |
+| Isha (Night) | 21:18:33 |
 | Sharia Midnight | 23:43:31 |
 | Imum Coeli | 00:35:04 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'56.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°14'16.81" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°53'34.48" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°42'11.67" |Aries|Butain|Sun|
-|♀ Venus|Post-Retrograde Shadow|6°4'47.11" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|29°19'34.28" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°59'7.35" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|28°43'56.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°14'17.04" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°53'34.45" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°42'11.68" |Aries|Butain|Sun|
+|♀ Venus|Direct|6°4'47.10" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|29°19'34.27" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°59'7.73" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'56.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°14'16.81" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°53'34.48" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|19°42'11.67" |Taurus|Dabaran|Moon|
-|♀ Venus|Post-Retrograde Shadow|6°4'46.89" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|28°43'56.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°14'17.04" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°53'34.45" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|19°42'11.68" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|6°4'47.10" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|29°19'34.27" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|20°59'26.73" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|20°59'7.73" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:36:54 |
 | Medium Coeli | 12:36:54 |
 | Sunset | 19:43:14 |
-| Maghrib | 20:08:36 |
+| Maghrib | 20:08:37 |
 | Isha (Night) | 21:05:20 |
 | Sharia Midnight | 23:48:48 |
 | Imum Coeli | 00:36:52 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°32'28.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°48'42.43" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|8°54'27.49" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°43'35.97" |Aries|Butain|Sun|
-|♀ Venus|Post-Retrograde Shadow|4°37'14.70" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|25°59'5.07" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°55'15.80" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|22°48'41.78" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|8°54'25.78" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°43'32.92" |Aries|Butain|Sun|
+|♀ Venus|Direct|4°37'13.28" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|25°59'3.18" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°56'17.09" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°32'28.15" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°48'41.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°54'25.80" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|17°43'32.91" |Taurus|Dabaran|Moon|
-|♀ Venus|Post-Retrograde Shadow|4°37'13.31" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|25°59'3.19" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|26°56'17.28" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|22°48'42.43" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°54'27.49" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|17°43'35.97" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|4°37'14.70" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|25°59'5.07" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°55'15.80" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
