@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:02:49 |
 | Sunset | 20:45:21 |
 | Maghrib | 20:47:04 |
-| Isha (Night) | 23:29:28 |
+| Isha (Night) | 23:29:27 |
 | Sharia Midnight | 23:31:18 |
 | Imum Coeli | 01:02:48 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°32'54.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°49'39.39" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|8°56'39.41" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|17°48'0.58" |Aries|Butain|Sun|
-|♀ Venus|Direct|4°40'24.11" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|26°6'24.80" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°57'15.03" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|28°32'53.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°49'39.16" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|8°56'39.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|17°48'0.56" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|4°40'24.14" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|26°6'24.81" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|27°57'15.21" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°32'54.04" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°49'39.39" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°56'39.41" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|17°48'0.58" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|4°40'24.11" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|26°6'24.80" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|27°57'15.03" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|28°32'53.89" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°49'39.16" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°56'39.43" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|17°48'0.56" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|4°40'24.14" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|26°6'24.81" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|27°57'15.21" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

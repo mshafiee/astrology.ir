@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:26:49 |
 | Sunset | 20:20:41 |
 | Maghrib | 20:21:51 |
-| Isha (Night) | 21:56:56 |
+| Isha (Night) | 21:56:55 |
 | Sharia Midnight | 00:38:31 |
 | Imum Coeli | 01:26:48 |
 {{< /tab >}}
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°15'50.61" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|9°57'10.88" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|19°49'23.43" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°10'13.96" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Post-Retrograde Shadow|6°10'13.96" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Direct|29°32'0.16" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|22°24'9.11" |Virgo|Simak|Mercury|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°15'50.61" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|9°57'10.88" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|19°49'23.43" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|6°10'13.96" |Aries|Sharatain|Mars|
+|♀ Venus|Post-Retrograde Shadow|6°10'13.96" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|29°32'0.16" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|22°24'9.11" |Libra|Jubana|Jupiter|
 
