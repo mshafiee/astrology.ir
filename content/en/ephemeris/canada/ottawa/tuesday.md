@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:34:13|06:48:24|Creating corruption, hatred and enmity|
+|1|Mars|Ruler|05:34:13|06:48:24|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|06:48:25|08:02:37|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Venus|Servant|08:02:38|09:16:49|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mercury|Servant|09:16:50|10:31:02|The moon is in Scorpio, Not suitable for doing anything.|

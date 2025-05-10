@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:40:13 |
 | Medium Coeli | 12:40:13 |
 | Sunset | 20:08:11 |
-| Maghrib | 20:34:59 |
+| Maghrib | 20:34:58 |
 | Isha (Night) | 21:49:14 |
 | Sharia Midnight | 23:31:33 |
 | Imum Coeli | 00:40:12 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°44'5.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°14'36.62" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|9°54'20.65" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°43'42.44" |Aries|Butain|Sun|
-|♀ Venus|Post-Retrograde Shadow|6°5'54.70" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|29°22'12.40" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°26'13.26" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|28°44'5.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°14'36.85" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|9°54'20.62" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°43'42.45" |Aries|Butain|Sun|
+|♀ Venus|Post-Retrograde Shadow|6°5'54.68" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|29°22'12.39" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°26'13.65" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°44'5.61" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|23°14'36.85" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°54'20.62" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|19°43'42.45" |Taurus|Dabaran|Moon|
-|♀ Venus|Post-Retrograde Shadow|6°5'54.68" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|29°22'12.39" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|21°26'13.65" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|9°54'26.25" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|19°43'41.38" |Taurus|Dabaran|Moon|
+|♀ Venus|Post-Retrograde Shadow|6°5'41.59" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|29°22'8.85" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|21°58'36.29" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
