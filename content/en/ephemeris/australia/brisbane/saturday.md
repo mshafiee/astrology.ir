@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:05:59 |
-| Sunrise | 06:18:04 |
+| Sunrise | 06:18:03 |
 | Dhuhr (Noon) | 11:44:17 |
 | Medium Coeli | 11:44:17 |
 | Sunset | 17:10:13 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:10 |
-| Sunrise | 06:18:04 |
+| Sunrise | 06:18:03 |
 | Dhuhr (Noon) | 11:44:17 |
 | Medium Coeli | 11:44:17 |
 | Sunset | 17:10:13 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:56:47 |
-| Sunrise | 06:18:03 |
+| Sunrise | 06:18:04 |
 | Dhuhr (Noon) | 11:44:17 |
 | Medium Coeli | 11:44:17 |
 | Sunset | 17:10:13 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:52:10|Night duration: 13:08:24|
+|Duration of the day: 10:52:09|Night duration: 13:08:24|
 |Every hour duration: 01:33:10|Every hour duration: 01:52:38|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|06:18:03|07:51:12|
+|Early morning|Saturn|Ruler|06:18:04|07:51:12|
 |Mid-morning|Jupiter|Servant|07:51:13|09:24:22|
 |Late morning|Mars|Servant|09:24:23|10:57:32|
 |Noon|Sun|Servant|10:57:33|12:30:42|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°48'2.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°23'34.50" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|10°15'3.09" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|20°25'3.18" |Aries|Butain|Venus|
-|♀ Venus|Post-Retrograde Shadow|6°37'32.43" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|0°34'6.31" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|29°18'2.10" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|28°48'2.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°23'35.24" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|10°15'6.29" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|20°25'4.69" |Aries|Butain|Venus|
+|♀ Venus|Post-Retrograde Shadow|6°37'28.31" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|0°34'6.20" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|29°20'38.09" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

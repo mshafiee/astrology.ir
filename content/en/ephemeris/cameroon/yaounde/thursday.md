@@ -233,7 +233,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|18:19:05|19:17:35|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Saturn|Servant|19:17:36|20:16:07|Destruction of enemies|
+|2|Saturn|Servant|19:17:36|20:16:07|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Jupiter|Servant|20:16:08|21:14:39|Attraction of financial and emotional love|
 |4|Mars|Servant|21:14:40|22:13:10|Creating love, connection and marriage|
 |5|Sun|Servant|22:13:11|23:11:42|Indulgence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°11'28.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°19'4.13" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|12°23'54.06" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|29°11'28.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°19'4.36" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|12°23'54.04" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|24°37'43.21" |Aries|Butain|Venus|
-|♀ Venus|Post-Retrograde Shadow|9°59'42.16" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|8°16'6.01" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|21°36'34.76" |Scorpio|Shaulah|Venus|
+|♀ Venus|Post-Retrograde Shadow|9°59'42.12" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|8°16'5.97" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|21°36'34.82" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:02:47 |
 | Medium Coeli | 13:02:47 |
 | Sunset | 20:08:13 |
-| Maghrib | 20:27:27 |
+| Maghrib | 20:27:28 |
 | Isha (Night) | 21:27:49 |
 | Sharia Midnight | 00:16:15 |
 | Imum Coeli | 01:02:47 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|11°19'30.58" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|22°32'6.93" |Aries|Butain|Venus|
 |♀ Venus|Post-Retrograde Shadow|8°17'5.63" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|4°21'28.55" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|27°1'15.24" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|4°21'38.12" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|25°41'34.20" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Capricorn|Moon|Saturn|
 |♀ Venus|Mars|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Taurus|Sun|Mars|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Mars|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°59'57.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°51'21.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°19'30.61" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°32'6.93" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|8°17'5.66" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|4°21'38.15" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|25°41'33.51" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|28°59'58.03" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°51'21.19" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°19'28.74" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°32'5.18" |Taurus|HaqAh|Saturn|
+|♀ Venus|Post-Retrograde Shadow|8°17'6.63" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|4°21'37.35" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|25°52'51.70" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Aquarius|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Gemini|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}

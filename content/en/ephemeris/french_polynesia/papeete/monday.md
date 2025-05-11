@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°3'22.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°59'28.94" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|11°38'21.11" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|23°9'3.37" |Aries|Butain|Venus|
-|♀ Venus|Post-Retrograde Shadow|8°46'53.50" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|5°29'33.04" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°56'40.16" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|23°59'28.66" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|11°38'25.62" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|23°8'53.70" |Aries|Butain|Venus|
+|♀ Venus|Post-Retrograde Shadow|8°46'29.71" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|5°29'22.93" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°48'28.24" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Capricorn|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°3'22.81" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°59'28.66" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°38'25.62" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|23°8'53.70" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|8°46'29.71" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|5°29'22.93" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°59'28.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°38'21.11" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|23°9'3.37" |Taurus|HaqAh|Saturn|
+|♀ Venus|Post-Retrograde Shadow|8°46'53.50" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|5°29'33.04" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|2°56'40.16" |Sagittarius|Shaulah|Mercury|
 
 
