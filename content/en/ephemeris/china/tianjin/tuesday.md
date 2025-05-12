@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:15:48 |
 | Maghrib | 19:35:21 |
 | Isha (Night) | 20:37:18 |
-| Sharia Midnight | 23:19:54 |
+| Sharia Midnight | 23:19:55 |
 | Imum Coeli | 00:07:37 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°4'25.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°1'59.24" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|11°44'11.23" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|29°4'25.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°1'59.00" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|11°44'11.26" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|23°20'24.30" |Aries|Butain|Venus|
-|♀ Venus|Post-Retrograde Shadow|8°56'4.37" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|5°50'40.21" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°43'11.09" |Scorpio|Akleel|Mars|
+|♀ Venus|Post-Retrograde Shadow|8°56'4.40" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|5°50'40.25" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°43'10.70" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°4'25.47" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°1'59.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°44'11.23" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|29°4'25.32" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°1'59.00" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°44'11.26" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|23°20'24.30" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|8°56'4.37" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|5°50'40.21" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|5°43'11.09" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Post-Retrograde Shadow|8°56'4.40" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|5°50'40.25" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|5°43'10.70" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
