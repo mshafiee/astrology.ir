@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|14:29:11|15:30:56|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|15:30:57|16:32:41|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|16:32:42|17:34:26|Attraction of love and hearts|
-|12|Mercury|Servant|17:34:27|18:36:12|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Mercury|Servant|17:34:27|18:36:12|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°17'34.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°34'10.92" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°59'5.44" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|29°17'34.49" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°34'11.15" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°59'5.42" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|25°45'44.75" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|10°56'49.61" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|10°27'6.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°10'42.85" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|10°56'49.57" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|10°27'6.37" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°10'43.00" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
