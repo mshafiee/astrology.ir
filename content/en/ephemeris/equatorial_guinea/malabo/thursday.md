@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:58:09 |
+| Fajr (Dawn) | 04:58:10 |
 | Sunrise | 06:12:22 |
 | Dhuhr (Noon) | 12:21:12 |
 | Medium Coeli | 12:21:12 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:58:09 |
+| Fajr (Dawn) | 04:58:10 |
 | Sunrise | 06:12:22 |
 | Dhuhr (Noon) | 12:21:12 |
 | Medium Coeli | 12:21:12 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°11'30.56" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°19'10.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°24'7.57" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|24°38'9.45" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|10°0'3.96" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|8°16'55.96" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|21°42'8.80" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|29°11'30.17" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°19'10.53" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°24'10.40" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|24°38'8.33" |Taurus|HaqAh|Saturn|
+|♀ Venus|Post-Retrograde Shadow|9°59'56.64" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|8°16'53.99" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|21°36'8.47" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -353,7 +353,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Saturn|Mars|Saturn|Jupiter|
 |♂ Mars|Saturn|Mercury|Jupiter|Sun|
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
-|♀ Venus|Venus|Venus|Sun|Jupiter|
+|♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Venus|Moon|
 |☾ Moon|Saturn|Saturn|Sun|Venus|
 
@@ -364,7 +364,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Sun|Venus|Pisces|Moon|Jupiter|
 |♂ Mars|Mercury|Moon|Sagittarius|Sun|Sun|
 |☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
-|♀ Venus|Venus|Moon|Leo|Sun|Mars|
+|♀ Venus|Venus|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
 |☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 

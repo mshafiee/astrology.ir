@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:54:09 |
-| Sunrise | 05:24:16 |
+| Sunrise | 05:24:17 |
 | Dhuhr (Noon) | 12:27:42 |
 | Medium Coeli | 12:27:42 |
 | Sunset | 19:31:35 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:43:04 |
-| Sunrise | 05:24:16 |
+| Sunrise | 05:24:17 |
 | Dhuhr (Noon) | 12:27:42 |
 | Medium Coeli | 12:27:42 |
 | Sunset | 19:31:35 |
@@ -69,12 +69,12 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:41:04 |
-| Sunrise | 05:24:16 |
+| Sunrise | 05:24:17 |
 | Dhuhr (Noon) | 12:27:42 |
 | Medium Coeli | 12:27:42 |
 | Sunset | 19:31:35 |
 | Maghrib | 19:35:25 |
-| Isha (Night) | 21:08:33 |
+| Isha (Night) | 21:08:34 |
 | Sharia Midnight | 23:35:45 |
 | Imum Coeli | 00:27:43 |
 {{< /tab >}}
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:00:31 |
-| Sunrise | 05:24:16 |
+| Sunrise | 05:24:17 |
 | Dhuhr (Noon) | 12:27:42 |
 | Medium Coeli | 12:27:42 |
 | Sunset | 19:31:35 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:30:55 |
-| Sunrise | 05:24:16 |
+| Sunrise | 05:24:17 |
 | Dhuhr (Noon) | 12:27:42 |
 | Medium Coeli | 12:27:42 |
 | Sunset | 19:31:35 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°16'5.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°30'30.40" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|12°50'31.83" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|25°29'11.88" |Aries|Butain|Venus|
-|♀ Venus|Post-Retrograde Shadow|10°42'48.70" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|9°55'2.18" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°52'21.02" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|24°30'29.79" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|12°50'30.34" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|25°29'8.82" |Aries|Butain|Venus|
+|♀ Venus|Post-Retrograde Shadow|10°42'47.09" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|9°55'0.11" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°14'27.70" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

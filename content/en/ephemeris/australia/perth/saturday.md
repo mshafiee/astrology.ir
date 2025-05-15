@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°25'35.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°54'29.61" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|13°46'26.81" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|27°16'39.78" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°14'47.41" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|13°26'33.31" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°6'36.93" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|24°54'29.84" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|13°46'29.31" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|27°16'38.05" |Aries|Thurayya|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°14'39.96" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|13°26'31.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°49'14.01" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Moon|Sun|
 |☿ Mercury|Mercury|Venus|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|27°16'39.78" |Taurus|HaqAh|Saturn|
 |♀ Venus|Post-Retrograde Shadow|12°14'47.41" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|13°26'33.31" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°6'36.93" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|25°49'13.52" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Mercury|Venus|Sun|Jupiter|
 |☿ Mercury|Mercury|Mercury|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
