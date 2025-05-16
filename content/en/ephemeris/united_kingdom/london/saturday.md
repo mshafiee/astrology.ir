@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°21'35.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°44'17.59" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|13°22'40.16" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|26°31'2.15" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|11°35'24.28" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|11°55'58.85" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|16°25'6.90" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|24°44'16.05" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|13°22'37.38" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|26°30'52.32" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|11°35'15.22" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|11°55'51.48" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|17°18'24.67" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Venus|Jupiter|Moon|Sun|
 |☿ Mercury|Venus|Venus|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°44'17.59" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|13°22'40.16" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|26°31'2.15" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|11°35'24.28" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|11°35'24.28" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|11°55'58.85" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|16°25'6.90" |Capricorn|SaadAlBula|Mars|
 

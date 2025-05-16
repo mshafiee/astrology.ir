@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°23'9.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°48'17.10" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|13°31'57.57" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|29°23'9.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°48'16.87" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|13°31'57.59" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|26°48'55.34" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|11°50'48.59" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|12°31'16.64" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|19°58'21.30" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|11°50'30.28" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|12°31'4.07" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|21°5'35.15" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Venus|Jupiter|Moon|Sun|
 |☿ Mercury|Mercury|Venus|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°48'17.10" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|13°31'57.57" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|26°48'55.34" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|11°50'48.59" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|11°50'48.59" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|12°31'16.64" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|19°58'21.30" |Capricorn|SaadAlBula|Mars|
 

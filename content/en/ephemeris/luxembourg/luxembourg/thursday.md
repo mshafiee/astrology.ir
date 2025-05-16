@@ -233,7 +233,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|21:13:47|21:56:43|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|21:56:44|22:39:41|Destruction of enemies|
+|2|Saturn|Servant|21:56:44|22:39:41|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Jupiter|Servant|22:39:42|23:22:39|Attraction of financial and emotional love|
 |4|Mars|Servant|23:22:40|00:05:37|Creating love, connection and marriage|
 |5|Sun|Servant|00:05:38|00:48:35|Indulgence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°11'12.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°18'25.83" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|12°22'25.48" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|24°34'47.55" |Aries|Butain|Venus|
-|♀ Venus|Post-Retrograde Shadow|9°57'13.78" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|8°10'36.98" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|21°28'51.62" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|24°18'26.88" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|12°22'30.84" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|24°34'47.88" |Aries|Butain|Venus|
+|♀ Venus|Direct|9°57'3.64" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|8°10'35.35" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|21°6'3.65" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°18'25.83" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|12°22'25.48" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|24°34'47.55" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|9°57'13.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|9°57'13.78" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|8°10'36.98" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|21°28'51.62" |Sagittarius|Baldah|Saturn|
 

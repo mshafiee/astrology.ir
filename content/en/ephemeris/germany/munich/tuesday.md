@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°36'26.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°22'53.12" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|14°52'50.16" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|29°36'26.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°22'53.36" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°52'50.15" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°22'54.84" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|14°5'55.18" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|17°43'58.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°57'40.80" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|14°5'55.16" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|17°43'58.54" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°26'26.09" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Mercury|Moon|Sun|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°22'53.12" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°52'50.16" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|29°22'54.84" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|14°5'55.18" |Aries|Butain|Sun|
+|♀ Venus|Direct|14°5'55.18" |Aries|Butain|Sun|
 |☿ Mercury|Direct|17°43'58.59" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|24°57'40.80" |Aquarius|FarghAlMuqaddam|Moon|
 

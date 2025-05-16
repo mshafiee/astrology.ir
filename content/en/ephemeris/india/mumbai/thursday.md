@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°10'29.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°16'40.92" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|12°18'21.12" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|29°10'29.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°16'41.15" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|12°18'21.10" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|24°26'56.52" |Aries|Butain|Venus|
-|♀ Venus|Post-Retrograde Shadow|9°50'32.46" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|7°55'29.15" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°25'51.45" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|9°50'44.51" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|7°55'37.21" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|19°26'5.92" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°16'41.15" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|12°18'21.10" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|24°26'56.52" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|9°50'44.51" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|9°50'44.51" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|7°55'37.21" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|19°26'5.92" |Sagittarius|Baldah|Moon|
 

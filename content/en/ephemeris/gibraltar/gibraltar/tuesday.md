@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 14:17:56 |
 | Medium Coeli | 14:17:56 |
 | Sunset | 21:24:56 |
-| Maghrib | 21:46:42 |
+| Maghrib | 21:46:41 |
 | Isha (Night) | 22:43:30 |
 | Sharia Midnight | 01:26:23 |
 | Imum Coeli | 02:17:58 |
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|25°23'49.56" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|14°55'1.31" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°27'4.39" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|14°9'38.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|14°9'38.67" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|17°52'34.33" |Aries|Butain|Sun|
 |☾ Moon|Direct|25°54'36.43" |Capricorn|SaadAlSaud|Sun|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°23'49.56" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°55'1.31" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|29°27'4.39" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|14°9'38.67" |Aries|Butain|Sun|
+|♀ Venus|Direct|14°9'38.67" |Aries|Butain|Sun|
 |☿ Mercury|Direct|17°52'34.33" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|25°54'36.43" |Aquarius|FarghAlMuqaddam|Moon|
 

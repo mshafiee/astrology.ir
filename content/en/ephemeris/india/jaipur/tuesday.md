@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
 | Sunset | 19:10:19 |
-| Maghrib | 19:13:53 |
+| Maghrib | 19:13:52 |
 | Isha (Night) | 20:34:13 |
 | Sharia Midnight | 23:38:36 |
 | Imum Coeli | 00:23:23 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
 | Sunset | 19:10:19 |
-| Maghrib | 19:13:52 |
+| Maghrib | 19:13:53 |
 | Isha (Night) | 20:36:56 |
 | Sharia Midnight | 23:34:27 |
 | Imum Coeli | 00:23:23 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
 | Sunset | 19:10:19 |
-| Maghrib | 19:13:52 |
+| Maghrib | 19:13:53 |
 | Isha (Night) | 20:39:40 |
 | Sharia Midnight | 23:38:36 |
 | Imum Coeli | 00:23:23 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
 | Sunset | 19:10:19 |
-| Maghrib | 19:13:52 |
-| Isha (Night) | 20:43:52 |
+| Maghrib | 19:13:53 |
+| Isha (Night) | 20:43:53 |
 | Sharia Midnight | 23:37:13 |
 | Imum Coeli | 00:23:23 |
 {{< /tab >}}
@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|25°21'4.25" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|14°48'34.18" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°14'52.36" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°58'45.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|13°58'45.51" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|17°27'14.86" |Aries|Butain|Sun|
 |☾ Moon|Direct|23°3'3.44" |Capricorn|SaadAlBula|Sun|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°21'4.25" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°48'34.18" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|29°14'52.36" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|13°58'45.51" |Aries|Butain|Sun|
+|♀ Venus|Direct|13°58'45.51" |Aries|Butain|Sun|
 |☿ Mercury|Direct|17°27'14.86" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|23°3'3.44" |Aquarius|FarghAlMuqaddam|Moon|
 

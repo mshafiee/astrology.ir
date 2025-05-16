@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°36'22.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°22'40.75" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|14°52'19.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°21'58.62" |Aries|Thurayya|Venus|
-|♀ Venus|Post-Retrograde Shadow|14°5'10.58" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|17°42'12.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°34'23.20" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|25°22'42.54" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°52'24.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°22'7.21" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|14°5'12.88" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|17°42'18.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°45'58.49" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Mercury|Moon|Sun|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°22'42.54" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°52'24.64" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|29°22'7.21" |Taurus|HaqAh|Saturn|
-|♀ Venus|Post-Retrograde Shadow|14°5'12.88" |Aries|Butain|Sun|
+|♀ Venus|Direct|14°5'12.88" |Aries|Butain|Sun|
 |☿ Mercury|Direct|17°42'18.62" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|24°45'58.49" |Aquarius|FarghAlMuqaddam|Moon|
 
