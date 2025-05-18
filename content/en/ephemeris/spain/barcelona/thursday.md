@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:44:22|Night duration: 09:14:53|
+|Duration of the day: 14:44:22|Night duration: 09:14:52|
 |Every hour of day duration: 01:13:42|Every hour of night duration: 00:46:14|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Saturn|Servant|21:56:42|22:42:55|Destruction of enemies|
 |3|Jupiter|Servant|22:42:56|23:29:10|Attraction of financial and emotional love|
 |4|Mars|Servant|23:29:11|00:15:24|Creating love, connection and marriage|
-|5|Sun|Servant|00:15:25|01:01:39|Indulgence|
-|6|Venus|Servant|01:01:40|01:47:53|Outer and inner journey|
+|5|Sun|Servant|00:15:25|01:01:38|Indulgence|
+|6|Venus|Servant|01:01:39|01:47:53|Outer and inner journey|
 |7|Mercury|Servant|01:47:54|02:34:07|Achieving status and power|
-|8|Moon|Ruler|02:34:08|03:20:22|Attraction of happiness and fortune|
-|9|Saturn|Servant|03:20:23|04:06:36|Reaching status and promotion|
-|10|Jupiter|Servant|04:06:37|04:52:51|Fulfilling needs|
-|11|Mars|Servant|04:52:52|05:39:05|Attraction of love and hearts|
-|12|Sun|Servant|05:39:06|06:25:20|Attracting misfortune, not suitable for any task|
+|8|Moon|Ruler|02:34:08|03:20:21|Attraction of happiness and fortune|
+|9|Saturn|Servant|03:20:22|04:06:36|Reaching status and promotion|
+|10|Jupiter|Servant|04:06:37|04:52:50|Fulfilling needs|
+|11|Mars|Servant|04:52:51|05:39:04|Attraction of love and hearts|
+|12|Sun|Servant|05:39:05|06:25:19|Attracting misfortune, not suitable for any task|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:44:22|Night duration: 09:14:53|
+|Duration of the day: 14:44:22|Night duration: 09:14:52|
 |Every hour duration: 02:06:20|Every hour duration: 01:19:16|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mars|Servant|01:08:16|02:27:31|
 |Rooster song|Sun|Servant|02:27:32|03:46:47|
 |False Dawn|Venus|Servant|03:46:48|05:06:03|
-|Dawn|Mercury|Servant|05:06:04|06:25:20|
+|Dawn|Mercury|Servant|05:06:04|06:25:19|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°46'16.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°49'34.23" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°55'21.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°20'42.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°52'27.00" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°52'14.32" |Aries|Butain|Venus|
-|☾ Moon|Direct|23°7'53.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°49'33.89" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°55'21.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°20'42.71" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°52'27.52" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|21°52'14.27" |Aries|Butain|Venus|
+|☾ Moon|Direct|23°11'30.46" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°46'16.43" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|25°49'33.89" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°55'21.19" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|1°20'42.71" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°52'27.52" |Aries|Butain|Sun|
-|☿ Mercury|Direct|21°52'14.27" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|23°11'30.46" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|29°46'16.29" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°49'33.99" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°55'21.61" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|1°20'42.94" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°52'27.01" |Aries|Butain|Sun|
+|☿ Mercury|Direct|21°52'14.36" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°7'51.16" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

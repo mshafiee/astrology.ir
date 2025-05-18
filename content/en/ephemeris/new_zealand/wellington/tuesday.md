@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:45:54 |
+| Fajr (Dawn) | 05:45:55 |
 | Sunrise | 07:26:32 |
 | Dhuhr (Noon) | 12:17:23 |
 | Medium Coeli | 12:17:23 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°39'41.59" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|25°31'35.56" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°13'15.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°1'15.72" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°40'7.03" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|19°4'5.25" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°2'41.76" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|15°13'11.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°1'26.36" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°40'29.16" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|19°4'14.82" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°0'1.12" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°39'41.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|25°31'34.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°13'15.30" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|0°1'15.72" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|14°40'7.03" |Aries|Butain|Sun|
-|☿ Mercury|Direct|19°4'5.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°2'41.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|29°39'41.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°31'35.32" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°13'11.86" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|0°1'26.36" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|14°40'29.16" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°4'14.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°0'1.12" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

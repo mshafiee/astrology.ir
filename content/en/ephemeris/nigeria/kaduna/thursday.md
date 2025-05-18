@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°46'24.84" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|25°49'57.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°56'14.91" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|1°22'25.86" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°54'2.48" |Aries|Butain|Sun|
-|☿ Mercury|Direct|21°55'49.83" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|23°43'43.95" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°49'57.32" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°56'15.08" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|1°22'25.61" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°54'1.74" |Aries|Butain|Sun|
+|☿ Mercury|Direct|21°55'49.54" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°40'42.54" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

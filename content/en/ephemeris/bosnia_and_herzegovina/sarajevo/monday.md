@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:10:29 |
+| Fajr (Dawn) | 03:10:30 |
 | Sunrise | 05:16:48 |
 | Dhuhr (Noon) | 12:43:02 |
 | Medium Coeli | 12:43:02 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°31'28.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°9'45.94" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|14°22'8.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|28°24'41.85" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°14'15.92" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|15°44'8.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°34'58.28" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|29°31'28.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°9'46.18" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°22'8.79" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|28°24'41.86" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°14'15.89" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|15°44'8.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°34'59.18" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°31'28.85" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|25°9'45.94" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°22'8.80" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|28°24'41.85" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°14'15.92" |Aries|Butain|Sun|
-|☿ Mercury|Direct|15°44'8.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°34'58.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|29°31'28.99" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°9'46.18" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°22'8.79" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|28°24'41.86" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°14'15.89" |Aries|Butain|Sun|
+|☿ Mercury|Direct|15°44'8.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°34'59.18" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

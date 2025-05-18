@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°24'42.13" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|24°52'12.65" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|13°41'7.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|27°6'28.57" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|12°5'58.09" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|13°6'11.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°49'40.09" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Direct|13°41'2.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|27°6'13.60" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|12°5'45.21" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|13°6'0.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°7'15.88" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Moon|Sun|
 |☿ Mercury|Mercury|Venus|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mercury|Moon|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°24'41.99" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°52'12.41" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°41'7.21" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|29°24'42.13" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°52'12.65" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°41'7.20" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|27°6'28.57" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|12°5'58.09" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|13°6'11.81" |Taurus|Dabaran|Moon|

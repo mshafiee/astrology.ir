@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:09:52 |
+| Fajr (Dawn) | 04:09:51 |
 | Sunrise | 05:36:17 |
 | Dhuhr (Noon) | 12:18:59 |
 | Medium Coeli | 12:18:59 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°34'55.93" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|15°21'2.20" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|0°16'12.99" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|14°53'48.72" |Aries|Butain|Sun|
-|☿ Mercury|Direct|19°35'18.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°31'37.29" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|14°53'43.72" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°35'13.49" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°40'34.84" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

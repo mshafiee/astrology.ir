@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:02:44 |
 | Sunset | 20:59:46 |
 | Maghrib | 21:01:34 |
-| Isha (Night) | 00:40:09 |
+| Isha (Night) | 00:40:10 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:02:45 |
 {{< /tab >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°21'22.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|29°21'22.95" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|24°43'46.09" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|13°21'26.73" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|26°28'41.02" |Aries|Thurayya|Venus|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°43'46.09" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|13°21'26.73" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|26°28'41.02" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|11°33'23.21" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|11°51'20.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°55'10.83" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|11°33'23.28" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|11°51'22.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°34'19.23" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
