@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:22:43 |
+| Fajr (Dawn) | 02:22:44 |
 | Sunrise | 05:03:53 |
 | Dhuhr (Noon) | 12:48:14 |
 | Medium Coeli | 12:48:14 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°45'59.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°48'48.91" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°53'36.04" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°17'24.17" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°49'24.90" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°45'10.67" |Aries|Butain|Venus|
-|☾ Moon|Direct|22°16'41.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|29°46'0.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°48'49.15" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°53'36.02" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°17'24.18" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°49'24.89" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|21°45'10.63" |Aries|Butain|Venus|
+|☾ Moon|Direct|22°16'43.90" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

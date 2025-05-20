@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:46:03 |
+| Fajr (Dawn) | 03:46:04 |
 | Sunrise | 05:19:23 |
 | Dhuhr (Noon) | 12:28:28 |
 | Medium Coeli | 12:28:28 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°39'51.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°32'2.76" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|15°14'16.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°3'27.41" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°42'17.69" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|19°8'31.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°28'27.10" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|29°39'51.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°32'3.00" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°14'16.79" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°3'27.42" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°42'17.67" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|19°8'31.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°28'29.03" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°39'51.62" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|25°32'2.76" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°14'16.80" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|0°3'27.41" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|14°42'17.69" |Aries|Butain|Sun|
-|☿ Mercury|Direct|19°8'31.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°28'27.10" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|29°39'51.76" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°32'3.00" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°14'16.79" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|0°3'27.42" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|14°42'17.67" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°8'31.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°28'29.03" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

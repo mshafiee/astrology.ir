@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°50'50.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|26°2'20.15" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|16°25'20.91" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°16'46.39" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°44'0.97" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|23°53'5.13" |Aries|Butain|Venus|
+|♄ Saturn|Direct|29°50'50.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|26°2'21.62" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|16°25'25.47" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°16'52.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°44'0.40" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|23°53'8.98" |Aries|Butain|Venus|
 |☾ Moon|Direct|6°36'46.73" |Pisces|FarghAlMuakhar|Saturn|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°50'50.71" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°2'21.62" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°25'25.47" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°16'52.16" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°44'0.40" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°53'8.98" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|6°36'46.73" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|26°2'20.15" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°25'20.91" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°16'46.39" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°44'0.97" |Aries|Butain|Sun|
+|☿ Mercury|Direct|23°53'5.13" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|6°50'23.17" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mercury|Mercury|Libra|Moon|Saturn|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
 
 
 {{< /tab >}}

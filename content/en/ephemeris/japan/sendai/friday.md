@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 04:19:27 |
 | Dhuhr (Noon) | 11:33:15 |
 | Medium Coeli | 11:33:15 |
-| Sunset | 18:47:29 |
+| Sunset | 18:47:28 |
 | Maghrib | 19:07:15 |
 | Isha (Night) | 20:10:22 |
 | Sharia Midnight | 22:44:44 |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 04:19:27 |
 | Dhuhr (Noon) | 11:33:15 |
 | Medium Coeli | 11:33:15 |
-| Sunset | 18:47:29 |
+| Sunset | 18:47:28 |
 | Maghrib | 18:48:54 |
 | Isha (Night) | 20:17:16 |
 | Sharia Midnight | 22:48:15 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°53'51.52" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°10'52.20" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°45'23.46" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°54'12.21" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°18'47.20" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°14'27.95" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|16°41'37.04" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|26°10'52.19" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°45'23.59" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°54'11.97" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|17°18'46.62" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°14'27.74" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|16°39'5.12" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Cancer|Sun|Mercury|
 |♀ Venus|Moon|Mercury|Libra|Moon|Saturn|
 |☿ Mercury|Mars|Sun|Pisces|Sun|Saturn|
-|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}

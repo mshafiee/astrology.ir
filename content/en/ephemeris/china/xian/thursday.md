@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°49'38.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°58'58.66" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|16°17'27.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°2'3.07" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°30'23.67" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|23°21'6.22" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°13'36.21" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|25°58'58.28" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|16°17'26.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°2'3.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°30'26.48" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|23°21'6.79" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°27'10.94" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Venus|Mars|Virgo|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°49'39.09" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|25°58'58.52" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°17'26.19" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°2'3.46" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|29°49'38.95" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°58'58.28" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°17'26.21" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°2'3.45" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|16°30'26.48" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°21'6.75" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°27'12.31" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|23°21'6.79" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|3°27'10.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
