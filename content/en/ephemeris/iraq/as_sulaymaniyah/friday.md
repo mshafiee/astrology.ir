@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:53:12 |
+| Fajr (Dawn) | 02:53:13 |
 | Sunrise | 04:48:11 |
 | Dhuhr (Noon) | 11:55:00 |
 | Medium Coeli | 11:55:00 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°50'27.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°1'15.72" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°22'49.10" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°12'6.60" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|29°50'28.03" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|26°1'15.96" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°22'49.09" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°12'6.62" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|16°39'43.39" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°42'51.84" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°58'21.81" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|23°42'51.80" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°58'23.00" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

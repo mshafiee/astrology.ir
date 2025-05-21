@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:29 |
-| Sunrise | 06:25:20 |
+| Sunrise | 06:25:21 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:23:56 |
-| Sunrise | 06:25:21 |
+| Sunrise | 06:25:20 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
@@ -101,12 +101,12 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:10:37 |
-| Sunrise | 06:25:21 |
+| Sunrise | 06:25:20 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
 | Maghrib | 21:12:49 |
-| Isha (Night) | 23:09:06 |
+| Isha (Night) | 23:09:07 |
 | Sharia Midnight | 00:40:16 |
 | Imum Coeli | 01:48:09 |
 {{< /tab >}}
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:23:56 |
-| Sunrise | 06:25:21 |
+| Sunrise | 06:25:20 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:19:35 |
-| Sunrise | 06:25:21 |
+| Sunrise | 06:25:20 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°50'58.42" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|26°2'41.72" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|16°26'11.33" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°18'23.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°45'31.89" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|23°56'30.10" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°30'35.98" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|16°26'11.35" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°18'23.66" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°45'31.93" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|23°56'30.18" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°30'36.49" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

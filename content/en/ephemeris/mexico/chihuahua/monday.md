@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:00 |
-| Sunrise | 06:11:28 |
+| Sunrise | 06:11:27 |
 | Dhuhr (Noon) | 13:00:50 |
 | Medium Coeli | 13:00:50 |
 | Sunset | 19:50:31 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:41:33 |
-| Sunrise | 06:11:28 |
+| Sunrise | 06:11:27 |
 | Dhuhr (Noon) | 13:00:50 |
 | Medium Coeli | 13:00:50 |
 | Sunset | 19:50:31 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:39:52 |
-| Sunrise | 06:11:28 |
+| Sunrise | 06:11:27 |
 | Dhuhr (Noon) | 13:00:50 |
 | Medium Coeli | 13:00:50 |
 | Sunset | 19:50:31 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:56:29 |
-| Sunrise | 06:11:28 |
+| Sunrise | 06:11:27 |
 | Dhuhr (Noon) | 13:00:50 |
 | Medium Coeli | 13:00:50 |
 | Sunset | 19:50:31 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:31:21 |
-| Sunrise | 06:11:28 |
+| Sunrise | 06:11:27 |
 | Dhuhr (Noon) | 13:00:50 |
 | Medium Coeli | 13:00:50 |
 | Sunset | 19:50:31 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:39:04|Night duration: 10:20:28|
+|Duration of the day: 13:39:03|Night duration: 10:20:28|
 |Every hour of day duration: 01:08:15|Every hour of night duration: 00:51:42|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:11:27|07:19:41|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|07:19:42|08:27:56|Outer and inner journey|
-|3|Jupiter|Servant|08:27:57|09:36:12|Marriage connection is good|
-|4|Mars|Servant|09:36:13|10:44:27|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:44:28|11:52:42|Answering needs, attracting love and wealth|
-|6|Venus|Servant|11:52:43|13:00:58|Summoning the person of interest, love and dominance|
+|1|Moon|Ruler|06:11:28|07:19:42|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|07:19:43|08:27:57|Outer and inner journey|
+|3|Jupiter|Servant|08:27:58|09:36:12|Marriage connection is good|
+|4|Mars|Servant|09:36:13|10:44:28|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:44:29|11:52:43|Answering needs, attracting love and wealth|
+|6|Venus|Servant|11:52:44|13:00:58|Summoning the person of interest, love and dominance|
 |7|Mercury|Servant|13:00:59|14:09:13|Making promises|
-|8|Moon|Ruler|14:09:14|15:17:28|Reconciliation of two persons, attracting love|
-|9|Saturn|Servant|15:17:29|16:25:44|Attracting and repelling enemies and causing separation|
+|8|Moon|Ruler|14:09:14|15:17:29|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|15:17:30|16:25:44|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|16:25:45|17:33:59|Good for any task|
 |11|Mars|Servant|17:34:00|18:42:14|Creating enmity and negative energy|
 |12|Sun|Servant|18:42:15|19:50:30|Heart tenderness|
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:39:04|Night duration: 10:20:28|
-|Every hour duration: 01:57:01|Every hour duration: 01:28:38|
+|Duration of the day: 13:39:03|Night duration: 10:20:28|
+|Every hour duration: 01:57:00|Every hour duration: 01:28:38|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:11:27|08:08:26|
-|Mid-morning|Saturn|Servant|08:08:27|10:05:27|
-|Late morning|Jupiter|Servant|10:05:28|12:02:27|
-|Noon|Mars|Servant|12:02:28|13:59:28|
-|Early afternoon|Sun|Servant|13:59:29|15:56:28|
-|Mid-afternoon|Venus|Servant|15:56:29|17:53:29|
+|Early morning|Moon|Ruler|06:11:28|08:08:27|
+|Mid-morning|Saturn|Servant|08:08:28|10:05:27|
+|Late morning|Jupiter|Servant|10:05:28|12:02:28|
+|Noon|Mars|Servant|12:02:29|13:59:28|
+|Early afternoon|Sun|Servant|13:59:29|15:56:29|
+|Mid-afternoon|Venus|Servant|15:56:30|17:53:29|
 |Late afternoon|Mercury|Servant|17:53:30|19:50:30|
 
  

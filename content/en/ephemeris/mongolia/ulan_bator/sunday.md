@@ -58,8 +58,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:49:23 |
 | Sunset | 20:35:49 |
 | Maghrib | 21:05:18 |
-| Isha (Night) | 22:29:49 |
-| Sharia Midnight | 23:28:46 |
+| Isha (Night) | 22:29:50 |
+| Sharia Midnight | 23:28:45 |
 | Imum Coeli | 00:49:26 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°3'16.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|26°38'15.02" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|17°49'50.84" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°53'42.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|19°11'21.11" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|29°38'51.97" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|17°57'55.53" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|26°38'15.06" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|17°49'52.75" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°53'40.93" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|19°11'15.00" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|29°38'50.36" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|17°37'41.89" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

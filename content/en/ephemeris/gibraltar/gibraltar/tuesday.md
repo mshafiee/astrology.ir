@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 14:17:56 |
 | Medium Coeli | 14:17:56 |
 | Sunset | 21:24:56 |
-| Maghrib | 21:46:42 |
+| Maghrib | 21:46:41 |
 | Isha (Night) | 22:43:30 |
 | Sharia Midnight | 01:26:23 |
 | Imum Coeli | 02:17:58 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°55'1.31" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°27'4.39" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|14°9'38.67" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|17°52'31.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°31'14.86" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|17°52'34.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°54'36.43" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°23'49.56" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°55'1.31" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|29°27'4.39" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|14°9'31.10" |Aries|Butain|Sun|
-|☿ Mercury|Direct|17°52'31.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°31'14.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|14°9'38.67" |Aries|Butain|Sun|
+|☿ Mercury|Direct|17°52'34.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°54'36.43" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
