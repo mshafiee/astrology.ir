@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:00:41 |
 | Sunset | 18:57:50 |
 | Maghrib | 19:16:09 |
-| Isha (Night) | 20:10:54 |
+| Isha (Night) | 20:10:53 |
 | Sharia Midnight | 23:18:18 |
 | Imum Coeli | 00:00:45 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°4'7.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|26°40'45.18" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|17°55'46.32" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°4'34.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|19°21'37.57" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|0°3'10.22" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|20°45'21.74" |Aries|Butain|Venus|
+|♄ Saturn|Direct|0°4'6.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|26°40'44.93" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|17°55'46.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°4'34.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|19°21'37.56" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|0°3'10.25" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|20°45'22.69" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°4'7.05" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|26°40'45.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°55'46.32" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|5°4'34.64" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|19°21'37.57" |Aries|Butain|Sun|
-|☿ Mercury|Direct|0°3'10.22" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|20°45'21.74" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|0°4'6.91" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|26°40'44.93" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°55'46.34" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|5°4'34.62" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|19°21'37.56" |Aries|Butain|Sun|
+|☿ Mercury|Direct|0°3'10.25" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|20°45'22.69" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:38:31 |
 | Sunset | 18:33:51 |
 | Maghrib | 18:39:10 |
-| Isha (Night) | 19:51:48 |
+| Isha (Night) | 19:51:49 |
 | Sharia Midnight | 22:59:28 |
 | Imum Coeli | 23:38:34 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°54'59.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|26°14'7.14" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|16°53'1.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°8'25.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|17°32'2.86" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|25°45'34.99" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|20°23'15.69" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|26°14'6.90" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|16°53'1.94" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°8'25.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|17°32'2.85" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|25°45'35.02" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|20°23'15.51" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°54'59.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°14'7.14" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°53'1.92" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|3°8'25.46" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°32'2.86" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°45'34.99" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|20°23'15.69" |Aries|Butain|Venus|
+|♄ Saturn|Direct|29°54'59.62" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|26°14'6.90" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°53'1.94" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|3°8'25.45" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|17°32'2.85" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°45'35.02" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|20°23'15.51" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

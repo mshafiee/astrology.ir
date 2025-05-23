@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:56:52 |
 | Dhuhr (Noon) | 12:52:00 |
 | Medium Coeli | 12:52:00 |
-| Sunset | 19:47:26 |
+| Sunset | 19:47:25 |
 | Maghrib | 20:07:27 |
 | Isha (Night) | 20:58:46 |
 | Sharia Midnight | 00:05:37 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:56:52 |
 | Dhuhr (Noon) | 12:52:00 |
 | Medium Coeli | 12:52:00 |
-| Sunset | 19:47:26 |
+| Sunset | 19:47:25 |
 | Maghrib | 19:48:34 |
 | Isha (Night) | 21:15:58 |
-| Sharia Midnight | 00:04:44 |
+| Sharia Midnight | 00:04:43 |
 | Imum Coeli | 00:52:03 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:56:52 |
 | Dhuhr (Noon) | 12:52:00 |
 | Medium Coeli | 12:52:00 |
-| Sunset | 19:47:26 |
+| Sunset | 19:47:25 |
 | Maghrib | 19:48:34 |
 | Isha (Night) | 21:04:26 |
 | Sharia Midnight | 00:13:26 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:56:52 |
 | Dhuhr (Noon) | 12:52:00 |
 | Medium Coeli | 12:52:00 |
-| Sunset | 19:47:25 |
+| Sunset | 19:47:26 |
 | Maghrib | 19:48:34 |
 | Isha (Night) | 21:21:50 |
-| Sharia Midnight | 00:04:43 |
+| Sharia Midnight | 00:04:44 |
 | Imum Coeli | 00:52:03 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:50:34|Night duration: 10:09:02|
+|Duration of the day: 13:50:33|Night duration: 10:09:03|
 |Every hour of day duration: 01:09:13|Every hour of night duration: 00:50:45|
 
  
@@ -220,26 +220,26 @@ Timetable of twelve day and night planetary hours
 |2|Jupiter|Servant|07:06:04|08:15:16|Peace among people|
 |3|Mars|Servant|08:15:17|09:24:29|Vengeful and evil deeds|
 |4|Sun|Servant|09:24:30|10:33:42|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:33:43|11:42:55|Auspicious|
-|6|Mercury|Servant|11:42:56|12:52:08|Writing, swapping and making promises|
-|7|Moon|Servant|12:52:09|14:01:20|Not suitable for any task|
+|5|Venus|Servant|10:33:43|11:42:54|Auspicious|
+|6|Mercury|Servant|11:42:55|12:52:07|Writing, swapping and making promises|
+|7|Moon|Servant|12:52:08|14:01:20|Not suitable for any task|
 |8|Saturn|Ruler|14:01:21|15:10:33|Destruction of enemies|
-|9|Jupiter|Servant|15:10:34|16:19:46|All good deeds|
-|10|Mars|Servant|16:19:47|17:28:59|Doing evil deeds|
-|11|Sun|Servant|17:29:00|18:38:12|Acceptance of reconciliation between couples|
-|12|Venus|Servant|18:38:13|19:47:25|For gaining dignity|
+|9|Jupiter|Servant|15:10:34|16:19:45|All good deeds|
+|10|Mars|Servant|16:19:46|17:28:58|Doing evil deeds|
+|11|Sun|Servant|17:28:59|18:38:11|Acceptance of reconciliation between couples|
+|12|Venus|Servant|18:38:12|19:47:24|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|19:47:26|20:38:10|Related to talismans, amulets and responses|
-|2|Moon|Servant|20:38:11|21:28:55|Peace among people|
-|3|Saturn|Servant|21:28:56|22:19:40|Vengeful and evil deeds|
-|4|Jupiter|Servant|22:19:41|23:10:25|Dominance, judgment and issuing verdict|
+|1|Mercury|Ruler|19:47:25|20:38:09|Related to talismans, amulets and responses|
+|2|Moon|Servant|20:38:10|21:28:54|Peace among people|
+|3|Saturn|Servant|21:28:55|22:19:39|Vengeful and evil deeds|
+|4|Jupiter|Servant|22:19:40|23:10:25|Dominance, judgment and issuing verdict|
 |5|Mars|Servant|23:10:26|00:01:10|Auspicious|
-|6|Sun|Servant|00:01:11|00:51:56|Writing, swapping and making promises|
-|7|Venus|Servant|00:51:57|01:42:41|Not suitable for any task|
-|8|Mercury|Ruler|01:42:42|02:33:26|Destruction of enemies|
+|6|Sun|Servant|00:01:11|00:51:55|Writing, swapping and making promises|
+|7|Venus|Servant|00:51:56|01:42:40|Not suitable for any task|
+|8|Mercury|Ruler|01:42:41|02:33:26|Destruction of enemies|
 |9|Moon|Servant|02:33:27|03:24:11|All good deeds|
 |10|Saturn|Servant|03:24:12|04:14:56|Doing evil deeds|
 |11|Jupiter|Servant|04:14:57|05:05:41|Acceptance of reconciliation between couples|

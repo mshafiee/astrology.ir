@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 17:16:46 |
 | Maghrib | 17:17:48 |
 | Isha (Night) | 18:22:58 |
-| Sharia Midnight | 23:16:29 |
+| Sharia Midnight | 23:16:30 |
 | Imum Coeli | 23:49:32 |
 {{< /tab >}}
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°56'33.34" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°18'36.19" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°3'34.52" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|3°28'2.38" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°50'24.55" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°28'38.77" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|25°37'13.77" |Aries|Butain|Venus|
+|♄ Saturn|Direct|29°56'33.48" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|26°18'36.40" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°3'34.86" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|3°28'3.13" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|17°50'24.98" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°28'39.34" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|25°39'34.76" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
