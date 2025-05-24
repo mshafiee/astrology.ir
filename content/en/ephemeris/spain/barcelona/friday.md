@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:26:29 |
-| Sunrise | 06:25:20 |
+| Sunrise | 06:25:21 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:23:56 |
-| Sunrise | 06:25:20 |
+| Sunrise | 06:25:21 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
@@ -101,12 +101,12 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:10:37 |
-| Sunrise | 06:25:20 |
+| Sunrise | 06:25:21 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
 | Maghrib | 21:12:49 |
-| Isha (Night) | 23:09:07 |
+| Isha (Night) | 23:09:06 |
 | Sharia Midnight | 00:40:16 |
 | Imum Coeli | 01:48:09 |
 {{< /tab >}}
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:23:56 |
-| Sunrise | 06:25:20 |
+| Sunrise | 06:25:21 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:19:35 |
-| Sunrise | 06:25:20 |
+| Sunrise | 06:25:21 |
 | Dhuhr (Noon) | 13:48:07 |
 | Medium Coeli | 13:48:07 |
 | Sunset | 21:11:23 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:46:03|Night duration: 09:13:14|
+|Duration of the day: 14:46:02|Night duration: 09:13:14|
 |Every hour of day duration: 01:13:50|Every hour of night duration: 00:46:06|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:25:20|07:39:09|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:39:10|08:52:59|Attracting auspiciousness|
-|3|Moon|Servant|08:53:00|10:06:49|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|10:06:50|11:20:40|Unfortunate hour|
+|1|Venus|Ruler|06:25:21|07:39:10|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:39:11|08:53:00|Attracting auspiciousness|
+|3|Moon|Servant|08:53:01|10:06:50|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|10:06:51|11:20:40|Unfortunate hour|
 |5|Jupiter|Servant|11:20:41|12:34:30|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|12:34:31|13:48:20|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|13:48:21|15:02:10|Promotion and attracting wealth|
-|8|Venus|Ruler|15:02:11|16:16:01|Auspicious and ultimate happiness and fortune|
+|6|Mars|Servant|12:34:31|13:48:21|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|13:48:22|15:02:11|Promotion and attracting wealth|
+|8|Venus|Ruler|15:02:12|16:16:01|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|16:16:02|17:29:51|Causing separation and homelessness|
 |10|Moon|Servant|17:29:52|18:43:41|Extremely unfortunate|
 |11|Saturn|Servant|18:43:42|19:57:31|Creating an unfortunate horoscope for anyone|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°50'58.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|26°2'41.96" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|16°26'11.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°18'23.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°45'31.89" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|23°56'30.06" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°30'37.05" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|26°2'41.87" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|16°26'10.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°18'23.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°45'32.39" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|23°56'29.95" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°33'30.49" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°50'58.56" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°2'41.96" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°26'11.31" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°18'23.63" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°45'31.89" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°56'30.06" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|7°30'37.05" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|29°50'58.42" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|26°2'41.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°26'11.33" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°18'23.40" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°45'32.39" |Aries|Butain|Sun|
+|☿ Mercury|Direct|23°56'29.95" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|7°33'30.49" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

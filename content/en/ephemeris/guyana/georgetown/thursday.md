@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:49:18 |
 | Sunset | 18:03:21 |
 | Maghrib | 18:04:18 |
-| Isha (Night) | 19:19:07 |
+| Isha (Night) | 19:19:08 |
 | Sharia Midnight | 23:11:24 |
 | Imum Coeli | 23:49:20 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°51'58.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|26°5'32.20" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|16°32'51.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°30'52.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°57'6.20" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|24°23'31.29" |Aries|Butain|Venus|
-|☾ Moon|Direct|10°54'5.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|29°51'59.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|26°5'32.45" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|16°32'51.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°30'50.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°56'57.77" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|24°23'29.55" |Aries|Butain|Venus|
+|☾ Moon|Direct|10°14'48.63" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°51'58.87" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°5'32.20" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°32'51.22" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°30'52.27" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|29°51'59.01" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|26°5'32.45" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°32'51.21" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°30'52.28" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|16°57'6.20" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°23'31.29" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|24°23'31.25" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|10°54'6.52" |Aries|Sharatain|Sun|
 
 

@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 11:30:24 |
 | Sunset | 18:33:41 |
 | Maghrib | 18:52:30 |
-| Isha (Night) | 19:49:40 |
+| Isha (Night) | 19:49:41 |
 | Sharia Midnight | 22:46:13 |
 | Imum Coeli | 23:30:27 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°12'45.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|27°6'59.92" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|18°57'46.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|6°58'22.48" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°11'1.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°20'13.90" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|20°24'2.40" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|27°7'0.04" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|18°57'46.59" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|6°58'23.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°11'1.87" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°20'14.32" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|20°28'24.45" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:07:36|Night duration: 13:53:06|
+|Duration of the day: 10:07:36|Night duration: 13:53:07|
 |Every hour of day duration: 00:50:38|Every hour of night duration: 01:09:26|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|20:44:15|21:53:40|Unfortunate hour|
 |5|Moon|Servant|21:53:41|23:03:05|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|23:03:06|00:12:31|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:12:32|01:21:56|Promotion and attracting wealth|
-|8|Mars|Ruler|01:21:57|02:31:22|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:31:23|03:40:47|Causing separation and homelessness|
-|10|Venus|Servant|03:40:48|04:50:13|Extremely unfortunate|
-|11|Mercury|Servant|04:50:14|05:59:38|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:59:39|07:09:04|Suitable for asking for a need|
+|7|Jupiter|Servant|00:12:32|01:21:57|Promotion and attracting wealth|
+|8|Mars|Ruler|01:21:58|02:31:22|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:31:23|03:40:48|Causing separation and homelessness|
+|10|Venus|Servant|03:40:49|04:50:13|Extremely unfortunate|
+|11|Mercury|Servant|04:50:14|05:59:39|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:59:40|07:09:05|Suitable for asking for a need|
 
  
  
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°54'18.71" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°12'9.74" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°48'25.25" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°59'51.88" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°24'3.83" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°26'47.48" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|18°18'14.63" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|26°12'9.81" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°48'25.88" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°59'51.56" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|17°24'2.16" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°26'47.13" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|18°10'50.92" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
