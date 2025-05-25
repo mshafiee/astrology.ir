@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:00:45 |
 | Medium Coeli | 13:00:45 |
 | Sunset | 19:58:19 |
-| Maghrib | 20:16:08 |
+| Maghrib | 20:16:09 |
 | Isha (Night) | 21:10:52 |
 | Sharia Midnight | 00:18:38 |
 | Imum Coeli | 01:00:49 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°7'53.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|26°52'4.82" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|18°22'31.09" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°53'47.19" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°7'53.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|26°52'5.07" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|18°22'31.07" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°53'47.21" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|20°8'41.60" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|1°53'50.64" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°41'46.35" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|1°53'50.62" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°41'45.20" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°7'53.34" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|26°52'4.82" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°22'31.09" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|5°53'47.19" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|0°7'53.47" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|26°52'5.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°22'31.07" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|5°53'47.21" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|20°8'41.60" |Aries|Butain|Venus|
-|☿ Mercury|Direct|1°53'50.64" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|3°41'46.35" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|1°53'50.62" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°41'45.20" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
