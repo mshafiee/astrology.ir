@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:55:20 |
 | Sunset | 18:19:40 |
 | Maghrib | 18:20:39 |
-| Isha (Night) | 19:35:51 |
+| Isha (Night) | 19:35:52 |
 | Sharia Midnight | 23:12:35 |
 | Imum Coeli | 23:55:23 |
 {{< /tab >}}

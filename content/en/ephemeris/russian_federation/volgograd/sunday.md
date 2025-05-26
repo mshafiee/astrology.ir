@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:58:55 |
 | Sunset | 19:49:28 |
 | Maghrib | 19:51:29 |
-| Isha (Night) | 22:35:59 |
+| Isha (Night) | 22:35:58 |
 | Sharia Midnight | 22:11:04 |
 | Imum Coeli | 23:58:59 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°59'32.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|26°27'16.40" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|17°24'0.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°5'52.93" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°25'58.43" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|27°52'22.34" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|5°4'44.07" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|29°59'32.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|26°27'16.64" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|17°24'0.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°5'52.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°25'58.44" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|27°52'22.31" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|5°4'43.52" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°59'32.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|26°27'16.40" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°24'0.95" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|4°5'52.93" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°25'58.43" |Aries|Butain|Sun|
-|☿ Mercury|Direct|27°52'22.34" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°4'44.07" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|29°59'32.74" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|26°27'16.49" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°24'1.74" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|4°5'52.71" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°25'56.59" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°52'22.06" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°58'18.73" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}

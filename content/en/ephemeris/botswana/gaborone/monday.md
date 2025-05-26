@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°4'43.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|26°42'34.29" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|18°0'3.13" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°12'29.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|19°29'10.32" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|0°20'51.27" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|23°4'6.35" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|26°42'33.93" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|18°0'4.04" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°12'26.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|19°29'4.10" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|0°20'48.64" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|22°38'26.70" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,19 +339,19 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°4'43.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|26°42'32.86" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°59'57.76" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|5°12'24.32" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|19°29'13.54" |Aries|Butain|Sun|
-|☿ Mercury|Direct|0°20'47.85" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|22°43'26.01" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|26°42'34.29" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°0'3.13" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|5°12'29.32" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|19°29'10.32" |Aries|Butain|Sun|
+|☿ Mercury|Direct|0°20'51.27" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|23°4'6.35" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Jupiter|Mars|Mars|
 |♃ Jupiter|Saturn|Saturn|Saturn|Jupiter|
-|♂ Mars|Saturn|Venus|Jupiter|Sun|
+|♂ Mars|Mercury|Venus|Jupiter|Sun|
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°10'24.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|26°59'46.53" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|18°40'41.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|6°27'7.53" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°40'47.46" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|3°9'13.47" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|12°32'14.96" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|26°59'46.18" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|18°40'40.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|6°27'7.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°40'47.74" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|3°9'13.25" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|12°29'43.66" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Venus|Saturn|Gemini|Moon|Venus|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°10'24.99" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|26°59'46.53" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°40'41.15" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|6°27'7.53" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°40'47.46" |Aries|Butain|Venus|
-|☿ Mercury|Direct|3°9'13.47" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|12°32'14.96" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|0°10'24.86" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|26°59'46.28" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°40'41.17" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|6°27'7.52" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°40'47.45" |Aries|Butain|Venus|
+|☿ Mercury|Direct|3°9'13.48" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|12°32'16.16" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

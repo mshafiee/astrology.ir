@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:59:29 |
 | Sunset | 19:01:53 |
 | Maghrib | 19:03:04 |
-| Isha (Night) | 20:41:15 |
+| Isha (Night) | 20:41:16 |
 | Sharia Midnight | 23:09:45 |
 | Imum Coeli | 23:59:32 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°8'36.23" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|26°54'13.54" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°27'35.59" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|6°3'4.04" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°17'37.89" |Aries|Butain|Venus|
-|☿ Mercury|Direct|2°14'56.86" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|5°29'29.58" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|26°54'14.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°27'37.47" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|6°3'9.58" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°17'41.98" |Aries|Butain|Venus|
+|☿ Mercury|Direct|2°15'1.02" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|6°7'38.29" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Sun|
 |♀ Venus|Mars|Mercury|Jupiter|Saturn|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:08:41 |
 | Sunset | 19:22:31 |
 | Maghrib | 19:23:46 |
-| Isha (Night) | 21:08:50 |
+| Isha (Night) | 21:08:51 |
 | Sharia Midnight | 23:07:58 |
 | Imum Coeli | 00:08:44 |
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°4'5.40" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|26°40'40.30" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°55'34.99" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|5°4'13.18" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|19°21'17.02" |Aries|Butain|Sun|
-|☿ Mercury|Direct|0°2'23.37" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|20°34'16.34" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|17°55'35.66" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|5°4'14.39" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|19°21'17.45" |Aries|Butain|Sun|
+|☿ Mercury|Direct|0°2'24.26" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|20°40'52.48" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

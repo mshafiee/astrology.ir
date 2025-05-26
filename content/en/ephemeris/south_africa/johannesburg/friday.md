@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:36:22|Night duration: 13:24:06|
+|Duration of the day: 10:36:22|Night duration: 13:24:07|
 |Every hour of day duration: 00:53:02|Every hour of night duration: 01:07:01|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|20:44:31|21:51:31|Unfortunate hour|
 |5|Moon|Servant|21:51:32|22:58:31|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|22:58:32|00:05:32|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:05:33|01:12:32|Promotion and attracting wealth|
-|8|Mars|Ruler|01:12:33|02:19:33|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:19:34|03:26:33|Causing separation and homelessness|
-|10|Venus|Servant|03:26:34|04:33:34|Extremely unfortunate|
-|11|Mercury|Servant|04:33:35|05:40:34|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:40:35|06:47:35|Suitable for asking for a need|
+|7|Jupiter|Servant|00:05:33|01:12:33|Promotion and attracting wealth|
+|8|Mars|Ruler|01:12:34|02:19:33|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:19:34|03:26:34|Causing separation and homelessness|
+|10|Venus|Servant|03:26:35|04:33:34|Extremely unfortunate|
+|11|Mercury|Servant|04:33:35|05:40:35|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:40:36|06:47:36|Suitable for asking for a need|
 
  
  
