@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:59:35 |
+| Fajr (Dawn) | 01:59:34 |
 | Sunrise | 04:58:47 |
 | Dhuhr (Noon) | 12:52:14 |
 | Medium Coeli | 12:52:14 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°25'38.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|27°48'13.79" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|20°35'34.56" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°55'58.76" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|24°5'25.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|11°6'37.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°25'12.66" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|27°48'13.52" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|20°35'32.62" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°55'56.87" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|24°5'26.74" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|11°6'36.46" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°3'14.71" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°25'38.45" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|27°48'13.27" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|20°35'32.64" |Leo|Zubrah|Mars|
+|♄ Saturn|Direct|0°25'38.58" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|27°48'13.52" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°35'32.62" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|9°55'56.87" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|24°5'26.76" |Aries|Butain|Venus|
-|☿ Mercury|Direct|11°6'36.45" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|4°3'15.06" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°5'26.74" |Aries|Butain|Venus|
+|☿ Mercury|Direct|11°6'36.46" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|4°3'14.71" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

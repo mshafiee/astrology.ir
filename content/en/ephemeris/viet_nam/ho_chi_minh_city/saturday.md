@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 11:51:09 |
 | Medium Coeli | 11:51:09 |
 | Sunset | 18:12:45 |
-| Maghrib | 18:29:57 |
+| Maghrib | 18:29:58 |
 | Isha (Night) | 19:12:35 |
 | Sharia Midnight | 23:12:49 |
 | Imum Coeli | 23:51:14 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°28'54.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|27°59'8.59" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°1'30.70" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|0°28'54.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|27°59'8.84" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|21°1'30.68" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°42'48.10" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|24°52'10.87" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|12°53'59.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°2'32.15" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°52'10.85" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|12°53'59.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°2'32.10" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°28'54.76" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|27°59'8.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°1'30.70" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|10°42'48.10" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°52'10.87" |Aries|Butain|Venus|
-|☿ Mercury|Direct|12°53'59.15" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|15°2'32.15" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|0°28'54.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|27°59'8.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°1'30.85" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|10°42'47.47" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°52'9.70" |Aries|Butain|Venus|
+|☿ Mercury|Direct|12°53'58.70" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|15°3'38.38" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
