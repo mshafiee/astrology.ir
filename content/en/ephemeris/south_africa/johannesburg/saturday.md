@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:33:43 |
-| Sunrise | 06:47:37 |
+| Sunrise | 06:47:36 |
 | Dhuhr (Noon) | 12:05:32 |
 | Medium Coeli | 12:05:32 |
 | Sunset | 17:23:19 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:25:49 |
-| Sunrise | 06:47:37 |
+| Sunrise | 06:47:36 |
 | Dhuhr (Noon) | 12:05:32 |
 | Medium Coeli | 12:05:32 |
 | Sunset | 17:23:19 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:24:25 |
-| Sunrise | 06:47:37 |
+| Sunrise | 06:47:36 |
 | Dhuhr (Noon) | 12:05:32 |
 | Medium Coeli | 12:05:32 |
 | Sunset | 17:23:19 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:24:25 |
-| Sunrise | 06:47:37 |
+| Sunrise | 06:47:36 |
 | Dhuhr (Noon) | 12:05:32 |
 | Medium Coeli | 12:05:32 |
 | Sunset | 17:23:19 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:22:06 |
-| Sunrise | 06:47:37 |
+| Sunrise | 06:47:36 |
 | Dhuhr (Noon) | 12:05:32 |
 | Medium Coeli | 12:05:32 |
 | Sunset | 17:23:19 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:35:42|Night duration: 13:24:46|
+|Duration of the day: 10:35:43|Night duration: 13:24:46|
 |Every hour duration: 01:30:49|Every hour duration: 01:54:58|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|06:47:37|08:18:24|
+|Early morning|Saturn|Ruler|06:47:36|08:18:24|
 |Mid-morning|Jupiter|Servant|08:18:25|09:49:13|
 |Late morning|Mars|Servant|09:49:14|11:20:02|
 |Noon|Sun|Servant|11:20:03|12:50:51|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°37'58.01" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°0'22.13" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|24°9'50.67" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|11°16'38.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°20'31.35" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°16'38.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°20'11.89" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°25'57.09" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|27°49'14.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|20°37'58.00" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|10°0'22.09" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°9'50.65" |Aries|Butain|Venus|
-|☿ Mercury|Direct|11°16'38.54" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|5°20'11.50" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|0°25'57.22" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|27°49'15.10" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°37'58.01" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|10°0'22.13" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°9'50.67" |Aries|Butain|Venus|
+|☿ Mercury|Direct|11°16'38.64" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|5°10'8.27" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
