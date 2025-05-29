@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:10:16 |
+| Fajr (Dawn) | 03:10:15 |
 | Sunrise | 05:03:06 |
 | Dhuhr (Noon) | 12:16:38 |
 | Medium Coeli | 12:16:38 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°13'18.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|27°8'42.82" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|19°1'50.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|7°5'48.31" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°13'18.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|27°8'43.07" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|19°1'50.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|7°5'48.32" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|21°18'13.90" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°37'8.26" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|22°19'38.89" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|4°37'8.25" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|22°19'37.73" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°13'18.75" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|27°8'42.82" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°1'50.46" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|7°5'48.31" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|0°13'18.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|27°8'43.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°1'50.44" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|7°5'48.32" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|21°18'13.90" |Aries|Butain|Venus|
-|☿ Mercury|Direct|4°37'8.26" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|22°19'38.89" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°37'8.25" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|22°19'37.73" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:10:59 |
+| Fajr (Dawn) | 03:10:58 |
 | Sunrise | 05:09:04 |
 | Dhuhr (Noon) | 12:27:45 |
 | Medium Coeli | 12:27:45 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°36'29.86" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|28°25'16.92" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|22°3'50.65" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|0°36'29.99" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|28°25'17.18" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|22°3'50.64" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|12°34'32.42" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°44'45.45" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|17°9'24.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°29'15.75" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|26°44'45.42" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|17°9'24.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°29'16.40" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°36'29.86" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|28°25'16.92" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°3'50.65" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°34'32.42" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°44'45.45" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|17°9'24.83" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|9°29'15.75" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|0°36'29.99" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|28°25'17.17" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°3'49.91" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°34'33.04" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|26°44'47.60" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|17°9'25.23" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|9°19'58.60" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

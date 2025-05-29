@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:07:49 |
 | Sunset | 19:36:28 |
 | Maghrib | 19:37:28 |
-| Isha (Night) | 20:52:03 |
+| Isha (Night) | 20:52:04 |
 | Sharia Midnight | 00:27:41 |
 | Imum Coeli | 01:07:54 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°34'10.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|28°17'9.46" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°44'26.58" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°59'51.92" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°9'39.36" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|15°50'20.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°3'20.65" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|0°34'10.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|28°17'9.62" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|21°44'29.04" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°59'48.81" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°9'30.61" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|15°50'18.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°33'37.04" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°34'10.62" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|28°17'9.46" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°44'26.58" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|0°34'10.75" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|28°17'9.71" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°44'26.57" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|11°59'51.92" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°9'39.36" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|15°50'20.18" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°3'20.65" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|26°9'39.34" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|15°50'20.19" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°3'21.16" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°16'26.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|27°18'29.68" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|19°25'0.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|7°47'59.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°59'20.83" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|6°13'36.31" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°1'0.81" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|0°16'27.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|27°18'31.77" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|19°25'3.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|7°48'11.20" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°59'30.57" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|6°13'44.89" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°16'34.40" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Moon|Saturn|Scorpio|Sun|Jupiter|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°16'26.86" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|27°18'31.52" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°25'3.84" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|7°48'11.19" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|0°16'27.00" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|27°18'31.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°25'3.82" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|7°48'11.20" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|21°59'30.57" |Aries|Butain|Venus|
 |☿ Mercury|Direct|6°13'44.89" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|3°16'35.38" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°16'34.40" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
