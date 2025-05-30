@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 19:15:59 |
 | Maghrib | 19:21:54 |
 | Isha (Night) | 21:00:50 |
-| Sharia Midnight | 23:04:00 |
+| Sharia Midnight | 23:04:01 |
 | Imum Coeli | 00:03:48 |
 {{< /tab >}}
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|27°47'19.61" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|20°33'24.10" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°52'6.06" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|24°1'37.36" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|10°57'44.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°15'58.07" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|24°1'37.87" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|10°57'44.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°16'30.08" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

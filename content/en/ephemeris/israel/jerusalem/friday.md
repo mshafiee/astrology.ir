@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:36:42 |
 | Sunset | 19:38:36 |
 | Maghrib | 19:43:50 |
-| Isha (Night) | 21:14:34 |
+| Isha (Night) | 21:14:33 |
 | Sharia Midnight | 23:42:19 |
 | Imum Coeli | 00:36:46 |
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°3'12.40" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|8°57'28.72" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|23°7'32.15" |Aries|Butain|Venus|
-|☿ Mercury|Direct|8°52'22.32" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|19°59'51.07" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°52'24.15" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|20°17'53.51" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Mars|Mars|Jupiter|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Jupiter|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Saturn|Venus|Capricorn|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}

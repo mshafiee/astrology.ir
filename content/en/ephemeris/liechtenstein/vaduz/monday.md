@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:11:11 |
-| Sunrise | 05:29:30 |
+| Sunrise | 05:29:31 |
 | Dhuhr (Noon) | 13:19:57 |
 | Medium Coeli | 13:19:57 |
 | Sunset | 21:10:51 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°33'39.85" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|28°15'22.70" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°40'12.07" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|11°52'13.60" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°1'56.56" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|15°32'59.40" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|0°20'8.12" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|28°15'22.54" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°40'13.08" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|11°52'13.34" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|26°1'54.40" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|15°32'59.29" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|0°31'23.78" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

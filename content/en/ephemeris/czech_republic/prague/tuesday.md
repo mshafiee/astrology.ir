@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:00:31 |
 | Medium Coeli | 13:00:31 |
 | Sunset | 21:05:26 |
-| Maghrib | 21:33:22 |
+| Maghrib | 21:33:21 |
 | Isha (Night) | 23:21:52 |
 | Sharia Midnight | 23:33:04 |
 | Imum Coeli | 01:00:36 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°37'25.06" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|28°28'31.85" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|22°11'36.29" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|12°48'21.88" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°58'47.17" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|17°40'54.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°28'45.87" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|0°37'24.93" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|28°28'31.67" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|22°11'36.21" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|12°48'22.58" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°58'48.29" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|17°40'54.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°26'17.67" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°37'25.06" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|28°28'31.93" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°11'36.29" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°48'21.88" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°58'47.17" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|17°40'54.33" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|12°28'45.87" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|0°37'24.93" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|28°28'31.67" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°11'36.21" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°48'22.58" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|26°58'48.29" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|17°40'54.82" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|12°26'17.67" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

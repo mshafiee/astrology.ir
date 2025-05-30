@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 04:25:51 |
 | Dhuhr (Noon) | 11:31:07 |
 | Medium Coeli | 11:31:07 |
-| Sunset | 18:36:39 |
+| Sunset | 18:36:38 |
 | Maghrib | 18:58:23 |
 | Isha (Night) | 19:53:26 |
-| Sharia Midnight | 22:41:02 |
+| Sharia Midnight | 22:41:01 |
 | Imum Coeli | 23:31:12 |
 {{< /tab >}}
 
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 04:25:51 |
 | Dhuhr (Noon) | 11:31:07 |
 | Medium Coeli | 11:31:07 |
-| Sunset | 18:36:39 |
+| Sunset | 18:36:38 |
 | Maghrib | 18:42:17 |
 | Isha (Night) | 20:12:17 |
-| Sharia Midnight | 22:40:03 |
+| Sharia Midnight | 22:40:02 |
 | Imum Coeli | 23:31:12 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 04:25:51 |
 | Dhuhr (Noon) | 11:31:07 |
 | Medium Coeli | 11:31:07 |
-| Sunset | 18:36:39 |
+| Sunset | 18:36:38 |
 | Maghrib | 18:42:17 |
 | Isha (Night) | 20:15:32 |
 | Sharia Midnight | 22:35:02 |
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 14:10:48|Night duration: 09:48:57|
-|Every hour duration: 02:01:33|Every hour duration: 01:24:08|
+|Duration of the day: 14:10:47|Night duration: 09:48:58|
+|Every hour duration: 02:01:32|Every hour duration: 01:24:08|
 
  
  
@@ -265,20 +265,20 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Moon|Ruler|04:25:51|06:27:22|
-|Mid-morning|Saturn|Servant|06:27:23|08:28:55|
-|Late morning|Jupiter|Servant|08:28:56|10:30:27|
-|Noon|Mars|Servant|10:30:28|12:32:00|
-|Early afternoon|Sun|Servant|12:32:01|14:33:32|
-|Mid-afternoon|Venus|Servant|14:33:33|16:35:05|
-|Late afternoon|Mercury|Servant|16:35:06|18:36:38|
+|Mid-morning|Saturn|Servant|06:27:23|08:28:54|
+|Late morning|Jupiter|Servant|08:28:55|10:30:27|
+|Noon|Mars|Servant|10:30:28|12:31:59|
+|Early afternoon|Sun|Servant|12:32:00|14:33:32|
+|Mid-afternoon|Venus|Servant|14:33:33|16:35:04|
+|Late afternoon|Mercury|Servant|16:35:05|18:36:37|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|18:36:39|20:00:46|
-|Late evening|Mercury|Servant|20:00:47|21:24:54|
-|Midnight|Moon|Servant|21:24:55|22:49:02|
-|Late at night|Saturn|Servant|22:49:03|00:13:10|
+|Evening|Venus|Ruler|18:36:38|20:00:45|
+|Late evening|Mercury|Servant|20:00:46|21:24:53|
+|Midnight|Moon|Servant|21:24:54|22:49:01|
+|Late at night|Saturn|Servant|22:49:02|00:13:10|
 |Rooster song|Jupiter|Servant|00:13:11|01:37:18|
 |False Dawn|Mars|Servant|01:37:19|03:01:26|
 |Dawn|Sun|Servant|03:01:27|04:25:35|
