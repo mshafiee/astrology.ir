@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:27:17 |
 | Medium Coeli | 13:27:17 |
 | Sunset | 21:10:10 |
-| Maghrib | 21:13:52 |
+| Maghrib | 21:13:53 |
 | Isha (Night) | 23:33:01 |
 | Sharia Midnight | 00:02:11 |
 | Imum Coeli | 01:27:22 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°33'42.35" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|28°15'31.34" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°40'32.61" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|11°52'50.62" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°2'33.94" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|15°34'23.46" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|0°28'33.11" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|28°15'31.96" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°40'34.99" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|11°52'52.81" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|26°2'32.51" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|15°34'25.35" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|0°53'6.10" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

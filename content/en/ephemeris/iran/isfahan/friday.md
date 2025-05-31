@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°1'42.91" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°54'46.42" |Taurus|Dabaran|Mercury|
 |♀ Venus|Direct|23°4'52.05" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|8°46'11.90" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|19°37'1.21" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|8°46'12.16" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|19°38'6.97" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°21'17.28" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|27°33'58.92" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|20°1'42.93" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|8°54'46.42" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|23°4'52.06" |Aries|Butain|Venus|
-|☿ Mercury|Direct|8°46'12.16" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|19°38'7.62" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|0°21'17.41" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|27°33'59.83" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°1'45.90" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|8°54'47.69" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|23°4'48.22" |Aries|Butain|Venus|
+|☿ Mercury|Direct|8°46'13.18" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|20°4'15.03" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Mars|Mars|Jupiter|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Jupiter|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Saturn|Venus|Capricorn|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}

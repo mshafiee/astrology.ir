@@ -210,24 +210,24 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:04:24|Night duration: 09:55:20|
+|Duration of the day: 14:04:25|Night duration: 09:55:20|
 |Every hour of day duration: 01:10:22|Every hour of night duration: 00:49:37|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:34:46|06:45:07|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:45:08|07:55:29|Peace among people|
-|3|Mars|Servant|07:55:30|09:05:51|Vengeful and evil deeds|
-|4|Sun|Servant|09:05:52|10:16:13|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:16:14|11:26:35|Auspicious|
-|6|Mercury|Servant|11:26:36|12:36:57|Writing, swapping and making promises|
-|7|Moon|Servant|12:36:58|13:47:19|Not suitable for any task|
-|8|Saturn|Ruler|13:47:20|14:57:41|Destruction of enemies|
-|9|Jupiter|Servant|14:57:42|16:08:03|All good deeds|
-|10|Mars|Servant|16:08:04|17:18:25|Doing evil deeds|
-|11|Sun|Servant|17:18:26|18:28:47|Acceptance of reconciliation between couples|
-|12|Venus|Servant|18:28:48|19:39:09|For gaining dignity|
+|1|Saturn|Ruler|05:34:45|06:45:06|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:45:07|07:55:28|Peace among people|
+|3|Mars|Servant|07:55:29|09:05:50|Vengeful and evil deeds|
+|4|Sun|Servant|09:05:51|10:16:12|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:16:13|11:26:34|Auspicious|
+|6|Mercury|Servant|11:26:35|12:36:56|Writing, swapping and making promises|
+|7|Moon|Servant|12:36:57|13:47:18|Not suitable for any task|
+|8|Saturn|Ruler|13:47:19|14:57:40|Destruction of enemies|
+|9|Jupiter|Servant|14:57:41|16:08:02|All good deeds|
+|10|Mars|Servant|16:08:03|17:18:24|Doing evil deeds|
+|11|Sun|Servant|17:18:25|18:28:46|Acceptance of reconciliation between couples|
+|12|Venus|Servant|18:28:47|19:39:09|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°25'34.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|27°47'59.39" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|20°34'59.68" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°54'56.87" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|24°4'28.18" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|11°4'22.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°34'36.19" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|27°48'0.46" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|20°35'1.11" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°55'1.56" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|24°4'31.84" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|11°4'26.01" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°58'46.53" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
