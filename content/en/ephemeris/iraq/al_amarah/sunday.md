@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°29'27.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|28°0'57.79" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°5'50.38" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°50'33.61" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|24°59'59.00" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|13°11'55.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°20'3.16" |Cancer|Tarf|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|0°29'27.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|28°0'58.58" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|21°5'52.35" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°50'37.64" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|25°0'0.81" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|13°11'58.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|16°41'32.41" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Sun|Mercury|Aries|Sun|Saturn|
 |♂ Mars|Sun|Saturn|Pisces|Sun|Mars|
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
-|♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|♀ Venus|Moon|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Libra|Moon|Venus|
-|☾ Moon|Mars|Mars|Capricorn|Sun|Mars|
+|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°29'27.38" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|28°0'58.58" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°5'52.35" |Leo|Zubrah|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|0°29'27.24" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|28°0'58.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°5'52.36" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|10°50'37.64" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°0'0.81" |Aries|Butain|Venus|
-|☿ Mercury|Direct|13°11'58.38" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°0'0.83" |Aries|Butain|Venus|
+|☿ Mercury|Direct|13°11'58.36" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|16°43'52.58" |Leo|Zubrah|Jupiter|
 
 

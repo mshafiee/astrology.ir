@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 10:58:18|Night duration: 13:02:04|
+|Duration of the day: 10:58:19|Night duration: 13:02:03|
 |Every hour duration: 01:34:03|Every hour duration: 01:51:43|
 
  
@@ -266,20 +266,20 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Mercury|Ruler|06:39:09|08:13:10|
 |Mid-morning|Moon|Servant|08:13:11|09:47:13|
-|Late morning|Saturn|Servant|09:47:14|11:21:15|
-|Noon|Jupiter|Servant|11:21:16|12:55:18|
-|Early afternoon|Mars|Servant|12:55:19|14:29:20|
-|Mid-afternoon|Sun|Servant|14:29:21|16:03:23|
-|Late afternoon|Venus|Servant|16:03:24|17:37:26|
+|Late morning|Saturn|Servant|09:47:14|11:21:16|
+|Noon|Jupiter|Servant|11:21:17|12:55:18|
+|Early afternoon|Mars|Servant|12:55:19|14:29:21|
+|Mid-afternoon|Sun|Servant|14:29:22|16:03:24|
+|Late afternoon|Venus|Servant|16:03:25|17:37:27|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|17:37:27|19:29:09|
-|Late evening|Venus|Servant|19:29:10|21:20:52|
-|Midnight|Mercury|Servant|21:20:53|23:12:36|
-|Late at night|Moon|Servant|23:12:37|01:04:19|
-|Rooster song|Saturn|Servant|01:04:20|02:56:03|
+|Evening|Sun|Ruler|17:37:28|19:29:10|
+|Late evening|Venus|Servant|19:29:11|21:20:53|
+|Midnight|Mercury|Servant|21:20:54|23:12:36|
+|Late at night|Moon|Servant|23:12:37|01:04:20|
+|Rooster song|Saturn|Servant|01:04:21|02:56:03|
 |False Dawn|Jupiter|Servant|02:56:04|04:47:46|
 |Dawn|Mars|Servant|04:47:47|06:39:30|
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°41'8.32" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|0°41'8.32" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|28°41'52.54" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|22°43'29.46" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|13°45'14.80" |Taurus|Dabaran|Moon|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°41'8.32" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|0°41'8.32" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|28°41'52.54" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|22°43'29.46" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|13°45'14.80" |Gemini|HanAh|Mars|

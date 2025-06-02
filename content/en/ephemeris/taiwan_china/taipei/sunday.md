@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°32'37.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|28°11'46.86" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°31'36.77" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|11°36'51.91" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|25°46'27.27" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|14°57'48.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°1'53.71" |Cancer|Jabhah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|0°32'37.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|28°11'45.11" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|21°31'32.51" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°36'42.77" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|25°46'22.83" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|14°57'41.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°17'32.33" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
+|☾ Moon|Saturn|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°32'37.41" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|0°32'37.41" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|28°11'46.86" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|21°31'36.77" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|11°36'51.91" |Gemini|HanAh|Mars|

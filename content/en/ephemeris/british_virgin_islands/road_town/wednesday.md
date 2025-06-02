@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°45'52.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|28°59'18.35" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|23°25'18.69" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°59'14.71" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°12'46.01" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|22°35'48.30" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|10°29'19.69" |Virgo|Awwa|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|0°45'52.57" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|28°59'20.64" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|23°25'20.67" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°59'30.81" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°13'3.69" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|22°36'0.58" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|9°36'24.77" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Mercury|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Saturn|Venus|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°45'52.57" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|0°45'52.57" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|28°59'20.64" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°25'20.67" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|14°59'30.81" |Gemini|HanAh|Mars|
