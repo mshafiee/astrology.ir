@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|0°34'57.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|28°19'51.80" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|21°50'53.34" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|12°11'24.26" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°21'19.19" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|16°16'39.52" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°32'44.88" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|28°19'50.54" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|21°50'56.05" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|12°11'13.38" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°20'59.69" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|16°16'31.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°15'27.07" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°34'57.28" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|28°19'51.98" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°50'54.86" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°11'24.03" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°21'16.09" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|16°16'39.51" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|4°49'56.56" |Virgo|Awwa|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|0°34'57.15" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|28°19'51.55" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°50'53.36" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°11'24.26" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|26°21'19.22" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|16°16'39.50" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|4°32'44.31" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
