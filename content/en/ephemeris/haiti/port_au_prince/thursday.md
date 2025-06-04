@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:47:56 |
 | Sunset | 19:24:12 |
 | Maghrib | 19:25:21 |
-| Isha (Night) | 20:42:31 |
+| Isha (Night) | 20:42:32 |
 | Sharia Midnight | 00:06:19 |
 | Imum Coeli | 00:48:02 |
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|29°13'10.03" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|23°58'31.54" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|15°58'9.64" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|0°13'45.98" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|24°45'50.44" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|21°24'3.15" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|0°13'44.31" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|24°45'51.16" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|21°33'30.70" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°49'30.97" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|29°13'9.78" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°58'31.57" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|15°58'9.65" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|0°13'44.32" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|24°45'51.14" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|21°33'30.98" |Libra|Jubana|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|0°49'31.10" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|29°13'10.03" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°58'31.54" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|15°58'9.64" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|0°13'44.31" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|24°45'51.16" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|21°33'30.70" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
