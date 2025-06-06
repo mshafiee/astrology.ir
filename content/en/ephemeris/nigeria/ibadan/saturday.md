@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:59:36 |
 | Maghrib | 19:01:38 |
 | Isha (Night) | 20:14:44 |
-| Sharia Midnight | 00:01:15 |
+| Sharia Midnight | 00:01:16 |
 | Imum Coeli | 00:43:23 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°52'19.06" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°24'2.47" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|24°24'39.92" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°44'13.55" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°1'39.63" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|26°26'40.45" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°53'29.33" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|0°52'18.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°24'2.22" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|24°24'39.95" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|16°44'13.56" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°1'39.64" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|26°26'40.43" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°53'29.89" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°52'19.06" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|29°24'2.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°24'39.92" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°44'13.55" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|1°1'39.63" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|26°26'40.45" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°53'29.33" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|0°52'18.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|29°24'2.22" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°24'39.95" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°44'13.56" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|1°1'39.64" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|26°26'40.43" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°53'29.89" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

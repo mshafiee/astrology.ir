@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |9|Saturn|Servant|13:39:11|14:34:13|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|14:34:14|15:29:15|Good for any task|
 |11|Mars|Servant|15:29:16|16:24:18|Creating enmity and negative energy|
-|12|Sun|Servant|16:24:19|17:19:21|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Sun|Servant|16:24:19|17:19:21|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°58'45.72" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°58'45.72" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|29°49'59.14" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|25°27'11.04" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|18°33'53.27" |Taurus|Dabaran|Moon|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°58'45.72" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°58'45.72" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|29°49'59.14" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°27'11.04" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|18°33'53.27" |Gemini|Dhira|Mars|

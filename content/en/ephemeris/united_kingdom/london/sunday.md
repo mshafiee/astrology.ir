@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:44:13 |
+| Sunrise | 04:44:14 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:44:14 |
+| Sunrise | 04:44:13 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:44:14 |
+| Sunrise | 04:44:13 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:44:13 |
+| Sunrise | 04:44:14 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°55'28.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°36'37.36" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|24°54'59.07" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|17°37'26.60" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°57'18.77" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|28°21'53.13" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|12°10'7.69" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|0°55'29.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°36'37.61" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|24°54'59.05" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|17°37'26.56" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°57'18.73" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|28°21'53.05" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|12°10'7.20" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°55'29.05" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°55'29.05" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|29°36'37.61" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|24°54'59.05" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|17°37'26.56" |Gemini|Dhira|Mars|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°57'40.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°45'29.42" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|25°16'20.78" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°14'54.19" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°36'39.26" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|29°41'53.76" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|19°40'53.12" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|0°57'40.13" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°45'27.60" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|25°16'18.97" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°14'42.12" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°36'26.75" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|29°41'44.40" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|20°50'45.78" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mars|Mars|Saturn|Venus|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°57'40.13" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°57'40.13" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|29°45'29.42" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°16'20.78" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|18°14'54.19" |Gemini|Dhira|Mars|
