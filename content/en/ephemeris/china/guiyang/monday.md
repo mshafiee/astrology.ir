@@ -235,7 +235,7 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|19:45:22|20:36:31|Repelling magic, attracting discharged energy|
 |2|Mercury|Servant|20:36:32|21:27:42|Outer and inner journey|
 |3|Moon|Servant|21:27:43|22:18:53|Marriage connection is good|
-|4|Saturn|Servant|22:18:54|23:10:03|Repelling and destroying enemies and discharging enemy energy|
+|4|Saturn|Servant|22:18:54|23:10:03|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|23:10:04|00:01:14|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mars|Servant|00:01:15|00:52:25|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Sun|Servant|00:52:26|01:43:35|The moon is in Scorpio, Not suitable for doing anything.|

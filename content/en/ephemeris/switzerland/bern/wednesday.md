@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|02:51:38|03:32:28|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mercury|Servant|03:32:29|04:13:19|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Moon|Servant|04:13:20|04:54:10|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Saturn|Servant|04:54:11|05:35:01|Creating evil and hatred|
+|12|Saturn|Servant|04:54:11|05:35:01|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°5'11.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°17'20.31" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|26°33'21.26" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°29'11.32" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|4°58'51.15" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°17'20.57" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|26°33'21.23" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°29'11.29" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|4°58'51.13" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|4°21'52.08" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|18°2'10.00" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|18°2'9.91" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°5'11.82" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°17'20.31" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|26°33'21.26" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|20°29'11.32" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°58'51.15" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|1°5'11.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°17'20.57" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|26°33'21.23" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|20°29'11.29" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°58'51.13" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|4°21'52.08" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|18°2'10.00" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|18°2'9.91" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

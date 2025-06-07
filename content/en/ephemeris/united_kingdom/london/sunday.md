@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:44:14 |
+| Sunrise | 04:44:13 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:44:14 |
+| Sunrise | 04:44:13 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:44:14 |
+| Sunrise | 04:44:13 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 01:33:48 |
-| Sunrise | 04:44:14 |
+| Sunrise | 04:44:13 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:44:14 |
+| Sunrise | 04:44:13 |
 | Dhuhr (Noon) | 12:59:37 |
 | Medium Coeli | 12:59:37 |
 | Sunset | 21:15:25 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 16:31:11|Night duration: 07:28:23|
+|Duration of the day: 16:31:12|Night duration: 07:28:23|
 |Every hour duration: 02:21:36|Every hour duration: 01:04:03|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Sun|Ruler|04:44:14|07:05:48|
+|Early morning|Sun|Ruler|04:44:13|07:05:48|
 |Mid-morning|Venus|Servant|07:05:49|09:27:24|
 |Late morning|Mercury|Servant|09:27:25|11:49:00|
 |Noon|Moon|Servant|11:49:01|14:10:36|

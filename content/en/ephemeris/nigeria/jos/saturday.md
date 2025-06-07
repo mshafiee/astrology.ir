@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:02:58 |
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:43:46 |
+| Sunset | 18:43:45 |
 | Maghrib | 18:59:11 |
 | Isha (Night) | 19:44:08 |
-| Sharia Midnight | 23:48:40 |
+| Sharia Midnight | 23:48:39 |
 | Imum Coeli | 00:23:26 |
 {{< /tab >}}
 
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:02:58 |
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:43:46 |
+| Sunset | 18:43:45 |
 | Maghrib | 19:01:24 |
 | Isha (Night) | 19:44:08 |
-| Sharia Midnight | 23:44:46 |
+| Sharia Midnight | 23:44:45 |
 | Imum Coeli | 00:23:26 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:02:58 |
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:43:46 |
+| Sunset | 18:43:45 |
 | Maghrib | 18:48:26 |
 | Isha (Night) | 19:57:51 |
 | Sharia Midnight | 23:44:04 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:02:58 |
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:43:46 |
+| Sunset | 18:43:45 |
 | Maghrib | 18:48:26 |
 | Isha (Night) | 19:48:41 |
-| Sharia Midnight | 23:50:57 |
+| Sharia Midnight | 23:50:56 |
 | Imum Coeli | 00:23:26 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:02:58 |
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:43:46 |
+| Sunset | 18:43:45 |
 | Maghrib | 18:48:26 |
 | Isha (Night) | 20:00:09 |
 | Sharia Midnight | 23:40:36 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:02:58 |
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:43:46 |
+| Sunset | 18:43:45 |
 | Maghrib | 18:48:26 |
 | Isha (Night) | 20:02:27 |
 | Sharia Midnight | 23:44:04 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:02:58 |
 | Dhuhr (Noon) | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:43:46 |
+| Sunset | 18:43:45 |
 | Maghrib | 18:48:26 |
 | Isha (Night) | 20:18:26 |
-| Sharia Midnight | 23:42:55 |
+| Sharia Midnight | 23:42:54 |
 | Imum Coeli | 00:23:26 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°52'15.47" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°23'48.61" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|24°24'7.24" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°43'15.84" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°0'40.13" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|26°24'34.95" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°39'29.17" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|0°52'15.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°23'48.86" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|24°24'7.21" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|16°43'15.92" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°0'39.54" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|26°24'35.11" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°42'16.85" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°52'15.59" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|29°23'48.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°24'6.85" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°43'15.85" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|1°0'40.14" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|26°24'34.94" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°39'29.72" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|29°23'48.81" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°24'6.83" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°43'15.84" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|1°0'40.13" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|26°24'34.95" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°39'29.17" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
