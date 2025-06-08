@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 11:53:07 |
 | Medium Coeli | 11:53:07 |
 | Sunset | 18:15:47 |
-| Maghrib | 18:33:08 |
+| Maghrib | 18:33:09 |
 | Isha (Night) | 19:16:12 |
 | Sharia Midnight | 23:14:27 |
 | Imum Coeli | 23:53:13 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°7'37.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°7'37.78" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|0°28'5.91" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|26°59'25.00" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°14'27.64" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|5°47'10.37" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|5°53'31.34" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|27°21'48.08" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|5°47'9.41" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|5°53'31.02" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|27°24'45.16" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°7'37.78" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°28'5.91" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|26°59'25.00" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|21°14'27.64" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|5°47'10.37" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|1°7'37.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°28'5.65" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|26°59'25.04" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|21°14'27.67" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|5°47'10.39" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|5°53'31.34" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|27°21'48.08" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°21'47.81" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

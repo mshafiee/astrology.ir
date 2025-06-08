@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°10'2.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°39'3.24" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°26'0.91" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°0'30.84" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°36'31.69" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°25'23.69" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|7°22'9.89" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|1°10'2.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°39'0.85" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°25'58.60" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°0'15.78" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°36'16.38" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°25'11.82" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|8°51'53.50" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Sun|Mercury|
-|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°10'2.75" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°10'2.75" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|0°39'3.24" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|27°26'0.91" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|22°0'30.84" |Gemini|Dhira|Sun|

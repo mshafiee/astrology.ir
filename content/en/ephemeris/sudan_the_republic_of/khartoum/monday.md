@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Moon|Ruler|12:54:20|13:59:29|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|13:59:30|15:04:39|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:04:40|16:09:49|Good for any task|
-|11|Mars|Servant|16:09:50|17:14:59|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Mars|Servant|16:09:50|17:14:59|Creating enmity and negative energy|
 |12|Sun|Servant|17:15:00|18:20:09|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°58'45.61" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|0°58'45.61" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|29°49'58.63" |Taurus|HaqAh|Saturn|
 |♂ Mars|Direct|25°27'10.02" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|18°33'51.30" |Taurus|Dabaran|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°58'45.61" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|0°58'45.61" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|29°49'58.63" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°27'4.19" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|18°33'41.85" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|2°56'34.75" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|0°21'53.98" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|23°58'29.46" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|25°27'10.02" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|18°33'51.30" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|2°56'36.65" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|0°22'2.75" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|23°25'35.95" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

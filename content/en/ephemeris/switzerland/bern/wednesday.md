@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|02:51:38|03:32:28|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mercury|Servant|03:32:29|04:13:19|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Moon|Servant|04:13:20|04:54:10|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Saturn|Servant|04:54:11|05:35:01|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Saturn|Servant|04:54:11|05:35:01|Creating evil and hatred|
 
  
  
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°5'11.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°5'11.94" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|0°17'20.57" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|26°33'21.23" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|20°29'11.29" |Taurus|Dabaran|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°5'11.94" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°5'11.94" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|0°17'20.57" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|26°33'21.23" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|20°29'11.29" |Gemini|Dhira|Sun|

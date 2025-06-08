@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Venus|Servant|18:33:49|19:40:19|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mercury|Servant|19:40:20|20:46:50|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Moon|Servant|20:46:51|21:53:21|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Saturn|Servant|21:53:22|22:59:52|Creating negative energy and disrupting peace|
+|5|Saturn|Servant|21:53:22|22:59:52|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Jupiter|Servant|22:59:53|00:06:23|Outer and inner journey|
 |7|Mars|Servant|00:06:24|01:12:54|Attracting love and hearts and fortune|
 |8|Sun|Ruler|01:12:55|02:19:25|Being invisible to the people|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°9'2.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°9'2.76" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|0°34'29.36" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|27°14'55.65" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°41'19.55" |Taurus|HaqAh|Saturn|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°9'2.76" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°34'29.38" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|27°14'55.90" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|21°41'19.51" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°15'55.99" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|6°47'18.12" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|1°9'2.76" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°34'29.36" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|27°14'55.65" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|21°41'19.55" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°15'56.46" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|6°47'18.04" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|3°13'28.51" |Capricorn|SaadAlDhabib|Jupiter|
 
 

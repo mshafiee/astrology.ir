@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°10'10.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°39'38.53" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°27'26.68" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°2'59.24" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°39'11.06" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°30'17.12" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|7°53'44.56" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|1°10'10.44" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°39'36.85" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°27'22.18" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°2'50.95" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°39'8.29" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°30'9.15" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|8°53'11.00" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°10'10.44" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°10'10.44" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|0°39'38.53" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|27°27'26.68" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|22°2'59.24" |Gemini|Dhira|Sun|

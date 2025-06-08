@@ -235,7 +235,7 @@ Timetable of twelve day and night planetary hours
 |1|Sun|Ruler|20:15:38|21:07:54|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Venus|Servant|21:07:55|22:00:11|Unfortunate, no task is suitable|
 |3|Mercury|Servant|22:00:12|22:52:28|For overcoming diseases|
-|4|Moon|Servant|22:52:29|23:44:46|For all tasks, extremely auspicious|
+|4|Moon|Servant|22:52:29|23:44:46|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Saturn|Servant|23:44:47|00:37:03|Creating negative energy and disrupting peace|
 |6|Jupiter|Servant|00:37:04|01:29:20|Outer and inner journey|
 |7|Mars|Servant|01:29:21|02:21:37|Attracting love and hearts and fortune|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°9'9.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°9'9.94" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|0°35'1.89" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|27°16'14.92" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|21°43'36.46" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°18'7.21" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°51'45.96" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|4°33'28.61" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|6°18'23.40" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°51'51.39" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|3°46'32.79" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Sun|Mercury|
-|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°9'9.94" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°9'9.94" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|0°35'1.89" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|27°16'14.92" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|21°43'36.46" |Gemini|Dhira|Sun|
