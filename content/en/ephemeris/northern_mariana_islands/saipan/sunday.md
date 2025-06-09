@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°57'43.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°45'40.96" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|25°16'52.47" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°15'37.25" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°37'20.29" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|29°43'40.77" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|21°9'38.91" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|0°57'43.35" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°45'42.52" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|25°16'51.97" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°15'50.01" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°37'37.79" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|29°43'49.89" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|19°41'48.12" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mars|Mars|Saturn|Venus|
-|☾ Moon|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°57'43.35" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°57'43.35" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|29°45'42.52" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°16'51.97" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|18°15'50.01" |Gemini|Dhira|Mars|

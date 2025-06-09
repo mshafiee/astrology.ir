@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°12'58.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°52'40.82" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°59'12.65" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°57'39.08" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°38'4.49" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|9°17'38.81" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|21°41'27.65" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|1°12'58.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°52'43.56" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°59'16.19" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°57'55.99" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°38'19.96" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|9°17'52.65" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|20°5'1.16" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Aquarius|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Saturn|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°12'58.63" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°12'58.63" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|0°52'43.56" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|27°59'16.19" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|22°57'55.99" |Gemini|Dhira|Sun|

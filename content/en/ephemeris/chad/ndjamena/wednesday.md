@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Sun|Ruler|00:55:28|01:51:19|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Venus|Servant|01:51:20|02:47:11|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mercury|Servant|02:47:12|03:43:03|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Moon|Servant|03:43:04|04:38:55|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Moon|Servant|03:43:04|04:38:55|Creating financial and emotional attraction and dominance|
 |12|Saturn|Servant|04:38:56|05:34:47|Creating evil and hatred|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°5'19.71" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°17'54.69" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|26°34'43.77" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|20°31'36.99" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|5°1'25.87" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°5'19.84" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°17'54.94" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|26°34'43.73" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|20°31'36.96" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|5°1'25.85" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|4°26'44.85" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|18°9'53.32" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|18°9'53.25" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°5'19.84" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°5'19.84" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|0°17'54.94" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|26°34'43.73" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|20°31'36.96" |Gemini|Dhira|Sun|

@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:03:03 |
 | Sunset | 18:33:23 |
 | Maghrib | 18:51:54 |
-| Isha (Night) | 19:36:20 |
+| Isha (Night) | 19:36:19 |
 | Sharia Midnight | 23:22:46 |
 | Imum Coeli | 00:03:10 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°8'8.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°30'23.15" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°4'58.77" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°24'5.86" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|5°57'29.10" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°8'8.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°30'23.41" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°4'58.73" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°24'5.83" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|5°57'29.08" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°12'52.36" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|29°28'26.41" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|29°28'26.75" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°8'8.28" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°30'23.15" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|27°4'58.77" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|21°24'0.85" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|5°57'23.59" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|6°12'48.54" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|29°58'48.37" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|1°8'8.40" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°30'23.41" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|27°4'58.73" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|21°24'5.83" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|5°57'29.08" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|6°12'52.36" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|29°28'26.75" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

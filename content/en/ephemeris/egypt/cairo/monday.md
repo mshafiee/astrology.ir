@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°58'42.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°49'44.13" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|25°26'35.29" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°32'49.77" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°55'31.94" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|0°19'54.24" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|23°19'57.83" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|0°58'42.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°49'41.89" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|25°26'29.50" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°32'37.60" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°55'26.44" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|0°19'43.52" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|24°11'47.60" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
+|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°58'42.09" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°58'42.09" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|29°49'44.13" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°26'35.29" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|18°32'49.77" |Gemini|Dhira|Mars|

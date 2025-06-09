@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°57'26.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°44'34.92" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|25°14'6.53" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°10'49.25" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°32'21.27" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|29°33'30.00" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|20°8'4.01" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|0°57'26.83" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°44'33.65" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|25°14'5.27" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°10'58.60" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°32'35.72" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|29°33'36.42" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|18°58'3.07" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mars|Mars|Saturn|Venus|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|0°57'26.83" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°57'26.83" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|29°44'34.92" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°14'8.70" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|18°11'4.50" |Gemini|Dhira|Mars|
