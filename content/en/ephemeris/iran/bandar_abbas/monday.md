@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:38:55 |
 | Maghrib | 18:56:06 |
 | Isha (Night) | 19:49:12 |
-| Sharia Midnight | 23:03:27 |
+| Sharia Midnight | 23:03:28 |
 | Imum Coeli | 23:44:15 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°58'29.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°48'51.24" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|25°24'27.58" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°29'6.60" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°51'36.72" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|0°12'1.45" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|22°32'0.55" |Libra|Jubana|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|0°58'29.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°48'50.99" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|25°24'27.61" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°29'6.62" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°51'36.73" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|0°12'1.44" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|22°32'1.38" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°58'29.27" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|29°48'51.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°24'27.58" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|18°29'6.60" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|2°51'36.72" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|0°12'1.45" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|22°32'0.55" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|0°58'29.23" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|29°48'51.04" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°24'27.24" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|18°29'5.44" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|2°51'35.82" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|0°12'0.48" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|22°37'52.02" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

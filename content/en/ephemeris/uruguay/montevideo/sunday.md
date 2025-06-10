@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°59'46.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|29°54'11.75" |Taurus|HaqAh|Saturn|
-|♂ Mars|Direct|25°37'25.94" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°51'33.39" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°15'12.74" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|0°59'41.75" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|28°40'49.10" |Libra|Akleel|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|0°59'46.98" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°54'13.44" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|25°37'25.82" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°51'44.85" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|3°15'27.85" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|0°59'50.05" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|27°23'4.77" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°59'46.98" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|0°59'46.98" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|29°54'13.44" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°37'25.18" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|18°51'45.93" |Gemini|Dhira|Mars|

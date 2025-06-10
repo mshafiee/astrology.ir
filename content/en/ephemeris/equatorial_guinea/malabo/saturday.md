@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°14'20.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°59'13.29" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|28°15'5.56" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°25'11.96" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|8°7'46.91" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|10°10'27.96" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|27°9'25.66" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°14'20.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°59'13.35" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|28°15'7.71" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°25'10.90" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|8°7'41.79" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|10°10'28.26" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|25°59'53.52" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°14'20.25" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°14'20.25" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|0°59'13.29" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|28°15'5.56" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|23°25'11.96" |Gemini|Dhira|Sun|
