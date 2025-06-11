@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°3'7.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°8'19.95" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|26°11'36.47" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|19°51'10.06" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|4°18'17.43" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|3°3'55.63" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|10°45'31.56" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|1°3'7.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°8'20.84" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|26°11'33.68" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|19°51'18.64" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|4°18'33.50" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|3°4'0.82" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|9°42'5.08" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Venus|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Sun|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Cancer|Sun|Mercury|
-|☾ Moon|Venus|Venus|Pisces|Moon|Mars|
+|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°3'7.38" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°3'7.38" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|0°8'20.84" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|26°11'33.68" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|19°51'18.64" |Gemini|Dhira|Mars|

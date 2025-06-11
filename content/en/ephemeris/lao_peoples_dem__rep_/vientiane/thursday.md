@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:20:10 |
+| Fajr (Dawn) | 04:20:09 |
 | Sunrise | 05:33:33 |
 | Dhuhr (Noon) | 12:09:27 |
 | Medium Coeli | 12:09:27 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°10'38.06" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°10'38.06" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|0°41'45.84" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|27°32'36.33" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°11'54.08" |Taurus|HaqAh|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°10'38.06" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°41'45.84" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|27°32'36.33" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|22°11'54.08" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°48'45.84" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|7°47'53.85" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°55'38.80" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|1°10'38.06" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°41'45.20" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|27°32'35.05" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|22°11'50.70" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°48'43.72" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|7°47'50.84" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°17'59.90" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}

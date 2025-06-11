@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:14:07 |
+| Fajr (Dawn) | 02:14:06 |
 | Sunrise | 04:12:19 |
 | Dhuhr (Noon) | 11:36:47 |
 | Medium Coeli | 11:36:47 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°15'58.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°7'9.21" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|28°34'27.35" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°58'29.03" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|8°43'49.55" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°15'58.21" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|1°7'9.47" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|28°34'27.31" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°58'29.00" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|8°43'49.52" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|11°13'59.45" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|3°53'53.91" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°53'55.16" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°15'58.21" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°15'58.21" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|1°7'9.47" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|28°34'27.31" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|23°58'29.00" |Gemini|Dhira|Sun|
