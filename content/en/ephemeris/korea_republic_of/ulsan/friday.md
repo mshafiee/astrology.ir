@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 19:39:11 |
-| Maghrib | 19:40:26 |
+| Maghrib | 19:40:27 |
 | Isha (Night) | 21:21:42 |
 | Sharia Midnight | 23:27:56 |
 | Imum Coeli | 00:22:53 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 19:39:11 |
-| Maghrib | 19:40:26 |
+| Maghrib | 19:40:27 |
 | Isha (Night) | 21:07:40 |
 | Sharia Midnight | 23:38:36 |
 | Imum Coeli | 00:22:53 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 19:39:11 |
-| Maghrib | 19:40:26 |
+| Maghrib | 19:40:27 |
 | Isha (Night) | 21:25:19 |
 | Sharia Midnight | 23:22:16 |
 | Imum Coeli | 00:22:53 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 19:39:11 |
-| Maghrib | 19:40:26 |
+| Maghrib | 19:40:27 |
 | Isha (Night) | 21:28:59 |
 | Sharia Midnight | 23:27:56 |
 | Imum Coeli | 00:22:53 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
 | Sunset | 19:39:11 |
-| Maghrib | 19:40:26 |
-| Isha (Night) | 21:10:26 |
+| Maghrib | 19:40:27 |
+| Isha (Night) | 21:10:27 |
 | Sharia Midnight | 23:26:04 |
 | Imum Coeli | 00:22:53 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°13'14.91" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°54'0.82" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|28°2'24.89" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|23°3'20.10" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°44'10.10" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|1°13'14.79" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°54'0.57" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|28°2'24.93" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|23°3'20.13" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°44'10.13" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|9°28'22.59" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°28'43.81" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|21°28'42.77" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|05:15:55|06:23:31|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mars|Servant|06:23:32|07:31:08|Destruction of enemies|
+|2|Mars|Servant|06:23:32|07:31:08|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|07:31:09|08:38:45|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|08:38:46|09:46:22|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|09:46:23|10:53:59|Indulgence|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|0°42'9.85" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|27°33'34.78" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°13'34.87" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°50'34.24" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°51'12.87" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|10°20'4.13" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°50'21.23" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°50'59.69" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|11°59'17.76" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°33'34.78" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|22°13'34.87" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|6°50'34.24" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|7°50'59.69" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|11°59'17.76" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|7°51'12.87" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°20'4.13" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

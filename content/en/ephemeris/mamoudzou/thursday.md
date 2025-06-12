@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:17:18|07:14:13|Attraction of material wealth, earning and prosperity|
+|1|Jupiter|Ruler|06:17:18|07:14:13|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|07:14:14|08:11:10|Destruction of enemies|
 |3|Sun|Servant|08:11:11|09:08:06|Attraction of financial and emotional love|
 |4|Venus|Servant|09:08:07|10:05:03|Creating love, connection and marriage|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°8'14.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°30'48.83" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°6'0.22" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°25'52.66" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|5°59'23.37" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°16'25.84" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|29°48'47.51" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|0°30'47.76" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°6'0.06" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°25'47.64" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|5°59'17.21" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°16'22.10" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°18'38.92" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Mars|Leo|Sun|Mercury|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°8'14.04" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°30'48.83" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|27°6'0.22" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|21°25'52.66" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|5°59'23.37" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|1°8'13.92" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°30'48.58" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|27°6'0.26" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|21°25'52.69" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|5°59'23.40" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|6°16'25.84" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|29°48'47.51" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°48'47.16" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

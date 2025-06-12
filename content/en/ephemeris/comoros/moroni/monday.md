@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:26:48|Night duration: 12:33:26|
+|Duration of the day: 11:26:48|Night duration: 12:33:27|
 |Every hour duration: 01:38:07|Every hour duration: 01:47:38|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Saturn|Servant|23:14:00|01:01:37|
 |Rooster song|Jupiter|Servant|01:01:38|02:49:15|
 |False Dawn|Mars|Servant|02:49:16|04:36:53|
-|Dawn|Sun|Servant|04:36:54|06:24:31|
+|Dawn|Sun|Servant|04:36:54|06:24:32|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°19'37.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°25'30.32" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|29°19'16.39" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°15'24.09" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°7'26.82" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|1°19'37.35" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|1°25'30.06" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|29°19'16.43" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°15'24.11" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°7'26.85" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|13°37'34.39" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|21°21'38.07" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|21°21'37.10" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°19'37.46" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|1°25'30.32" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|29°19'16.39" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|25°15'24.09" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°7'26.82" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°19'37.35" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|1°25'30.06" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|29°19'16.43" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|25°15'24.11" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°7'26.85" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|13°37'34.39" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|21°21'38.07" |Aquarius|SaadAlAkhbia|Moon|
 

@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 20:27:32 |
 | Isha (Night) | 22:05:53 |
 | Sharia Midnight | 00:08:40 |
-| Imum Coeli | 01:04:35 |
+| Imum Coeli | 01:04:36 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 20:27:32 |
 | Isha (Night) | 21:51:37 |
 | Sharia Midnight | 00:19:31 |
-| Imum Coeli | 01:04:35 |
+| Imum Coeli | 01:04:36 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°10'32.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°41'19.33" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°31'32.26" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°10'2.26" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°46'45.93" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°44'15.35" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|9°41'44.80" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|0°41'19.44" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°31'32.97" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°10'2.46" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°46'44.94" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°44'15.81" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|9°38'20.47" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
