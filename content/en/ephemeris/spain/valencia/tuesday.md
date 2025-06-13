@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 21:31:20 |
 | Maghrib | 21:55:36 |
 | Isha (Night) | 23:01:35 |
-| Sharia Midnight | 01:02:17 |
+| Sharia Midnight | 01:02:16 |
 | Imum Coeli | 02:02:35 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°22'21.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°39'49.78" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|29°54'23.01" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°15'24.60" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|11°13'1.99" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|15°26'39.57" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|5°34'38.95" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°22'21.57" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|1°39'50.04" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|29°54'22.97" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°15'24.58" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|11°13'1.96" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|15°26'39.58" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|5°34'39.35" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°22'21.45" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|1°39'49.78" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|29°54'23.01" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|26°15'24.60" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°13'1.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|15°26'39.57" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|5°34'38.95" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|1°22'21.57" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|1°39'50.04" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|29°54'22.97" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|26°15'24.58" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°13'1.96" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|15°26'39.58" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|5°34'39.35" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

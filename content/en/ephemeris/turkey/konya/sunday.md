@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:27:31 |
 | Dhuhr (Noon) | 12:50:35 |
 | Medium Coeli | 12:50:35 |
-| Sunset | 20:13:44 |
+| Sunset | 20:13:45 |
 | Maghrib | 20:20:02 |
 | Isha (Night) | 22:03:17 |
 | Sharia Midnight | 23:51:52 |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:27:31 |
 | Dhuhr (Noon) | 12:50:35 |
 | Medium Coeli | 12:50:35 |
-| Sunset | 20:13:45 |
+| Sunset | 20:13:44 |
 | Maghrib | 20:20:02 |
 | Isha (Night) | 21:47:57 |
 | Sharia Midnight | 00:03:33 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:27:31 |
 | Dhuhr (Noon) | 12:50:35 |
 | Medium Coeli | 12:50:35 |
-| Sunset | 20:13:44 |
+| Sunset | 20:13:45 |
 | Maghrib | 20:20:02 |
 | Isha (Night) | 22:07:16 |
-| Sharia Midnight | 23:45:32 |
+| Sharia Midnight | 23:45:33 |
 | Imum Coeli | 00:50:41 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:27:31 |
 | Dhuhr (Noon) | 12:50:35 |
 | Medium Coeli | 12:50:35 |
-| Sunset | 20:13:45 |
+| Sunset | 20:13:44 |
 | Maghrib | 20:20:02 |
 | Isha (Night) | 22:11:19 |
 | Sharia Midnight | 23:51:52 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°16'48.33" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°11'17.00" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|28°44'32.11" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|24°15'47.67" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|9°2'36.42" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|11°46'41.79" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|7°52'7.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|1°16'48.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|1°11'17.26" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|28°44'32.08" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°15'48.14" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|9°2'36.75" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|11°46'42.21" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|7°49'29.28" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

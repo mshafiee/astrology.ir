@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:36:08 |
 | Dhuhr (Noon) | 12:10:51 |
 | Medium Coeli | 12:10:51 |
-| Sunset | 18:45:36 |
+| Sunset | 18:45:37 |
 | Maghrib | 19:03:38 |
 | Isha (Night) | 19:48:48 |
 | Sharia Midnight | 23:30:15 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:36:08 |
 | Dhuhr (Noon) | 12:10:51 |
 | Medium Coeli | 12:10:51 |
-| Sunset | 18:45:37 |
+| Sunset | 18:45:36 |
 | Maghrib | 18:46:38 |
 | Isha (Night) | 20:03:29 |
-| Sharia Midnight | 23:29:31 |
+| Sharia Midnight | 23:29:30 |
 | Imum Coeli | 00:10:57 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:36:08 |
 | Dhuhr (Noon) | 12:10:51 |
 | Medium Coeli | 12:10:51 |
-| Sunset | 18:45:36 |
+| Sunset | 18:45:37 |
 | Maghrib | 18:46:38 |
 | Isha (Night) | 20:08:26 |
-| Sharia Midnight | 23:29:30 |
+| Sharia Midnight | 23:29:31 |
 | Imum Coeli | 00:10:57 |
 {{< /tab >}}
 
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:09:28|Night duration: 10:50:39|
+|Duration of the day: 13:09:29|Night duration: 10:50:38|
 |Every hour duration: 01:52:47|Every hour duration: 01:32:57|
 
  
@@ -264,18 +264,18 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|05:36:08|07:28:53|
-|Mid-morning|Mars|Servant|07:28:54|09:21:40|
-|Late morning|Sun|Servant|09:21:41|11:14:27|
-|Noon|Venus|Servant|11:14:28|13:07:14|
-|Early afternoon|Mercury|Servant|13:07:15|15:00:01|
-|Mid-afternoon|Moon|Servant|15:00:02|16:52:48|
-|Late afternoon|Saturn|Servant|16:52:49|18:45:35|
+|Early morning|Jupiter|Ruler|05:36:08|07:28:54|
+|Mid-morning|Mars|Servant|07:28:55|09:21:41|
+|Late morning|Sun|Servant|09:21:42|11:14:28|
+|Noon|Venus|Servant|11:14:29|13:07:15|
+|Early afternoon|Mercury|Servant|13:07:16|15:00:02|
+|Mid-afternoon|Moon|Servant|15:00:03|16:52:49|
+|Late afternoon|Saturn|Servant|16:52:50|18:45:36|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|18:45:36|20:18:32|
+|Evening|Moon|Ruler|18:45:37|20:18:32|
 |Late evening|Saturn|Servant|20:18:33|21:51:29|
 |Midnight|Jupiter|Servant|21:51:30|23:24:26|
 |Late at night|Mars|Servant|23:24:27|00:57:23|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°11'59.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°48'2.62" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°47'52.62" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°38'16.64" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°17'8.68" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|8°39'38.51" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|15°44'35.40" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|1°11'58.92" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°48'2.37" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°47'52.66" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°38'16.68" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°17'8.71" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|8°39'38.52" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|15°44'34.52" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°11'59.04" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°48'2.62" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|27°47'52.62" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|22°38'16.64" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°17'8.68" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|8°39'38.51" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|15°44'35.40" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|1°11'58.92" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°48'2.37" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|27°47'52.66" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|22°38'16.68" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°17'8.71" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|8°39'38.52" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|15°44'34.52" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

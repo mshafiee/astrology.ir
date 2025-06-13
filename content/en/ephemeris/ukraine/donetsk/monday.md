@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:52:02 |
+| Fajr (Dawn) | 01:52:03 |
 | Sunrise | 04:28:21 |
 | Dhuhr (Noon) | 12:29:31 |
 | Medium Coeli | 12:29:31 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°19'24.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°24'23.52" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|29°16'33.88" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°10'43.39" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°2'21.59" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|1°19'24.31" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|1°24'23.26" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|29°16'33.92" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°10'43.41" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°2'21.62" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|13°29'1.54" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|20°31'43.01" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|20°31'42.01" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°19'24.42" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|1°24'23.52" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|29°16'33.88" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|25°10'43.39" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°2'21.59" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°19'24.31" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|1°24'23.26" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|29°16'33.92" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|25°10'43.41" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°2'21.62" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|13°29'1.54" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|20°31'43.01" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|20°31'42.01" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

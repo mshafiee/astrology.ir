@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:53:46 |
 | Sunset | 18:05:49 |
 | Maghrib | 18:09:19 |
-| Isha (Night) | 19:09:26 |
+| Isha (Night) | 19:09:27 |
 | Sharia Midnight | 23:22:03 |
 | Imum Coeli | 23:53:52 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°11'15.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°44'41.14" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°39'42.37" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°24'10.54" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°1'57.69" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|8°12'1.58" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|12°34'0.85" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|1°11'15.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°44'40.88" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°39'42.40" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°24'10.57" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°1'57.72" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|8°12'1.59" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|12°34'0.07" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°11'15.89" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°44'41.14" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|27°39'42.37" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|22°24'10.54" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°1'57.69" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|8°12'1.58" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|12°34'0.85" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|1°11'15.76" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°44'40.88" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|27°39'42.40" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|22°24'10.57" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°1'57.72" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|8°12'1.59" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|12°34'0.07" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 20:05:04 |
 | Maghrib | 20:06:14 |
 | Isha (Night) | 21:38:34 |
-| Sharia Midnight | 00:10:21 |
+| Sharia Midnight | 00:10:22 |
 | Imum Coeli | 01:00:20 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°8'11.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°30'36.07" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°5'29.75" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°24'58.74" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|5°58'25.96" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|6°14'40.00" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|29°48'34.25" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|0°30'36.10" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°5'29.81" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°24'58.89" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|5°58'26.03" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°14'40.14" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|29°47'35.23" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

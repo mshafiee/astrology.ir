@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:26:48|Night duration: 12:33:26|
+|Duration of the day: 11:26:48|Night duration: 12:33:27|
 |Every hour of day duration: 00:57:14|Every hour of night duration: 01:02:47|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|17:51:06|18:53:52|Repelling magic, attracting discharged energy|
 |2|Mercury|Servant|18:53:53|19:56:39|Outer and inner journey|
 |3|Moon|Servant|19:56:40|20:59:26|Marriage connection is good|
-|4|Saturn|Servant|20:59:27|22:02:13|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:02:14|23:05:00|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:05:01|00:07:48|Summoning the person of interest, love and dominance|
+|4|Saturn|Servant|20:59:27|22:02:14|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:02:15|23:05:01|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:05:02|00:07:48|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|00:07:49|01:10:35|Making promises|
-|8|Venus|Ruler|01:10:36|02:13:22|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:13:23|03:16:09|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:16:10|04:18:56|Good for any task|
-|11|Saturn|Servant|04:18:57|05:21:43|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:21:44|06:24:31|Heart tenderness|
+|8|Venus|Ruler|01:10:36|02:13:23|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:13:24|03:16:10|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:16:11|04:18:57|Good for any task|
+|11|Saturn|Servant|04:18:58|05:21:44|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:21:45|06:24:32|Heart tenderness|
 
  
  
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|25°15'24.11" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°7'26.85" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|13°37'34.39" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|21°21'38.07" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|21°21'37.10" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

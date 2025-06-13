@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:24:39 |
 | Sunset | 17:31:59 |
 | Maghrib | 17:49:19 |
-| Isha (Night) | 18:38:59 |
+| Isha (Night) | 18:39:00 |
 | Sharia Midnight | 23:46:25 |
 | Imum Coeli | 00:24:45 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:24:39 |
 | Sunset | 17:31:59 |
 | Maghrib | 17:51:51 |
-| Isha (Night) | 18:38:59 |
+| Isha (Night) | 18:39:00 |
 | Sharia Midnight | 23:42:18 |
 | Imum Coeli | 00:24:45 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°9'6.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°34'47.54" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°15'39.86" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|21°42'35.77" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°17'18.25" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°9'6.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°34'47.29" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°15'39.90" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|21°42'35.80" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°17'18.28" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|6°49'50.41" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|3°33'6.83" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°33'6.35" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°9'6.76" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°34'47.75" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|27°15'41.17" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|21°42'36.59" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°17'16.98" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|6°49'51.57" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°25'11.28" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|1°9'6.63" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°34'47.29" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|27°15'39.90" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|21°42'35.80" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°17'18.28" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|6°49'50.41" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°33'6.35" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

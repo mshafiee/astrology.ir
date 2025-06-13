@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°10'15.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|0°40'0.75" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|27°28'20.15" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°4'30.25" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°40'57.25" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°33'29.67" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|9°44'21.25" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|1°10'15.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|0°40'2.87" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|27°28'26.47" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°4'42.56" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°41'2.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°33'41.31" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|8°16'38.61" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Sun|Mercury|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°10'15.78" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|0°40'3.13" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|27°28'26.43" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|22°4'42.53" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°41'1.99" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|1°10'15.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°40'2.87" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|27°28'26.47" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|22°4'42.56" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°41'2.02" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|7°33'41.31" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|8°16'39.24" |Capricorn|SaadAlDhabib|Jupiter|
 
