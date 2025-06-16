@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°24'40.02" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°52'22.76" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|0°25'12.17" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°7'55.36" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|12°10'39.79" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|16°59'57.73" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|18°11'56.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|1°24'40.13" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|1°52'23.02" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|0°25'12.13" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°7'55.34" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°10'39.77" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|17°0'1.83" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|18°10'9.66" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -315,7 +315,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Saturn|Sun|Venus|
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Mercury|Venus|Sun|Jupiter|
-|☿ Mercury|Venus|Venus|Venus|Mars|
+|☿ Mercury|Mars|Venus|Venus|Mars|
 |☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°24'40.02" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|1°52'22.76" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|0°25'12.17" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|27°7'55.36" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|12°10'39.79" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°24'40.13" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|1°52'23.02" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|0°25'12.13" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|27°7'55.34" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|12°10'39.77" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|16°59'57.73" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|18°11'56.34" |Pisces|Rescha|Jupiter|
 

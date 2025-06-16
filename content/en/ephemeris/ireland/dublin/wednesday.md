@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:55:59 |
+| Sunrise | 04:55:58 |
 | Dhuhr (Noon) | 13:26:11 |
 | Medium Coeli | 13:26:11 |
 | Sunset | 21:56:30 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:55:59 |
+| Sunrise | 04:55:58 |
 | Dhuhr (Noon) | 13:26:11 |
 | Medium Coeli | 13:26:11 |
 | Sunset | 21:56:30 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:55:59 |
+| Sunrise | 04:55:58 |
 | Dhuhr (Noon) | 13:26:11 |
 | Medium Coeli | 13:26:11 |
 | Sunset | 21:56:30 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:55:59 |
+| Sunrise | 04:55:58 |
 | Dhuhr (Noon) | 13:26:11 |
 | Medium Coeli | 13:26:11 |
 | Sunset | 21:56:30 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:55:59 |
+| Sunrise | 04:55:58 |
 | Dhuhr (Noon) | 13:26:11 |
 | Medium Coeli | 13:26:11 |
 | Sunset | 21:56:30 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°24'48.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°24'48.52" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|1°53'9.29" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|0°27'5.47" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°11'9.58" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°24'48.52" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°24'48.52" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|1°53'9.29" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|0°27'5.47" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|27°11'9.58" |Gemini|Dhira|Sun|

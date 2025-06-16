@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:12:59 |
 | Sunrise | 04:58:01 |
-| Dhuhr (Noon) | 12:05:22 |
-| Medium Coeli | 12:05:22 |
+| Dhuhr (Noon) | 12:05:21 |
+| Medium Coeli | 12:05:21 |
 | Sunset | 19:12:46 |
 | Maghrib | 19:13:58 |
 | Isha (Night) | 20:43:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°18'54.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°21'49.93" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|29°10'17.79" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°0'0.36" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|9°50'40.54" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|13°9'12.05" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|17°54'31.08" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°18'54.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|1°21'49.72" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|29°10'16.75" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°59'59.60" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|9°50'41.37" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|13°9'10.93" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|18°6'21.36" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -324,7 +324,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♃ Jupiter|Mercury|Venus|Gemini|Sun|Mercury|
 |♂ Mars|Mercury|Jupiter|Gemini|Sun|Mars|
-|☉ Sun|Mars|Sun|Pisces|Sun|Saturn|
+|☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☾ Moon|Venus|Mercury|Leo|Sun|Venus|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°18'54.38" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°18'54.38" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|1°21'49.93" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|29°10'17.79" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|25°0'0.36" |Gemini|Dhira|Sun|

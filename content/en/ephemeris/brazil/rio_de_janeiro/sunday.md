@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°20'17.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°20'17.94" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|1°28'59.40" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|29°27'48.15" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|25°29'59.78" |Taurus|HaqAh|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°20'17.82" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|1°28'59.49" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|29°27'48.85" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|25°30'0.09" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°23'21.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°4'21.42" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|24°39'38.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°20'16.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|1°28'57.33" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|29°27'48.11" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|25°29'45.59" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°23'4.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|14°4'10.62" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|25°2'12.94" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
