@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°29'5.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°17'46.00" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°27'40.96" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°54'7.79" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|14°7'47.65" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°29'5.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°17'45.73" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°27'41.00" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°54'7.81" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|14°7'47.68" |Aries|Butain|Sun|
 |☿ Mercury|Direct|20°2'10.60" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|14°14'38.49" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|14°14'38.43" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°29'5.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°17'46.00" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°27'40.96" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°54'7.79" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|14°7'47.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|20°2'10.60" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°14'38.49" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°29'5.77" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°17'45.73" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°27'41.00" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°54'7.81" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°7'38.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|20°2'9.76" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°19'19.00" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Dagon, Gian'nkon, Jangon, Jangon khot, Jangona, Jangono, Jangun, Jangún, Ngiong-kong, Ngióng-kông, RGN, Rangon, Rangoon, Rangoun, Rangum, Rangun, Rangunas, Rangún, Rangūnas, Yangjgvangh, Yangon, Yangôn, Yanqon, iangoni, iyanguna, raguna, ranguna, rngwn, yang guang, yang-gon, yanghwn, yangkung, yangon, yanguna, yangwn, yankon, Ýangon, Γιανγκόν, Јангон, Рангун, Янгон, Янгон хот, Յանգոն, יאנגון, رنگون, يانغون, یانگون, यांगून, रङ्गुन, रङ्गून, ইয়াংগুন, ਰੰਗੂਨ, யங்கோன், యాంగోన్, യംഗോൺ, ย่างกุ้ง, ཡང་ཀོང་།, ရန်ကုန်မြို့, იანგონი, ያንጎን, យ៉ាំងហ្គូន, ヤンゴン, 仰光, 양곤

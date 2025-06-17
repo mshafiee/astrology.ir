@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°28'58.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°16'59.52" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°25'46.75" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°50'53.19" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|1°28'58.07" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°16'59.59" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°25'46.56" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°50'53.66" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|14°4'12.90" |Aries|Butain|Sun|
 |☿ Mercury|Direct|19°56'45.19" |Gemini|Dhira|Mars|
 |☾ Moon|Direct|13°25'19.01" |Pisces|FarghAlMuakhar|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°28'58.07" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°28'58.07" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°16'59.59" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|1°25'46.56" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°50'53.66" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|14°4'12.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|19°56'45.19" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|13°25'19.01" |Aries|Butain|Sun|
+|☉ Sun|Direct|28°50'53.37" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°4'11.55" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|19°56'45.36" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|13°15'59.76" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CAN, Cantao, Canton, Cantão, Cantón, Fan-yu, Fan-yü, Guanchjou, Guanchzhou, Guanczou, Guand'ou, Guandzhou, Guandzou, Guandžou, Guangdzou, Guangdzov, Guangdžou, Guangdžov, Guangjow, Guangzhou, Guangzhou Shi, Guanzhou, Guančžou, Guaңҗu, Guong-ciu, Guōng-ciŭ, Gvangjcouh, Kanton, Kantono, Kng-chiu-chhi, Kong-chu-su, Kouan'nktsoou, Kouang-chou, Kuang-chou, Kuang-chou-shih, Kwang-chowfu, Kwangchow, Kwangtsjou, Kóng-chû-sṳ, Kńg-chiu-chhī, P'an-yu, Puyun, Puyün, P’an-yü, Quancheum, Quancjou, Quang Chau, Quançjou, Quảng Châu, Shengcheng, ghwanzw, gu'angazu, guang zhou, guang zhou shi, guanjou, guyanjho, gvangajho'u, gvanjea, gwangjeou, gwangjeou si, gwangzhw, gwʼnggwʼw, kantwn, kuvanco, kvangacau, kwang cow, shynyang, Κουανγκτσόου, Гуангџоу, Гуанджоу, Гуандьоу, Гуанжоу, Гуанчжоу, Гуанчжоў, Гуаңҗу, Кантон, Գուանչժոու, גואנגגואו, شینیانگ, غوانزو, کانتون, گوانگژو, گوانگ‌ژو, گۇاڭجۇ شەھىرى, क्वांगचौ, ग्वांगझोउ, গুয়ংঝো, ਗੁਆਂਗਜ਼ੂ, குவாங்சோ, ഗ്വാങ്ജോ, กว่างโจว, ກວ່າງໂຈວ, ཀོང་ཀྲོའུ་གྲོང་ཁྱེར།, ကွမ်ကျိုးမြို့, გუანჯოუ, 广州, 广州市, 広州, 広州市, 廣州, 廣州市, 광저우, 광저우 시

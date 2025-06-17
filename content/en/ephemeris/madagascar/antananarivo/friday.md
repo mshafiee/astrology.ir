@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:51:27 |
 | Medium Coeli | 11:51:27 |
 | Sunset | 17:20:57 |
-| Maghrib | 17:25:50 |
+| Maghrib | 17:25:51 |
 | Isha (Night) | 18:27:07 |
 | Sharia Midnight | 23:18:29 |
 | Imum Coeli | 23:51:34 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:51:27 |
 | Medium Coeli | 11:51:27 |
 | Sunset | 17:20:57 |
-| Maghrib | 17:25:50 |
+| Maghrib | 17:25:51 |
 | Isha (Night) | 18:38:20 |
 | Sharia Midnight | 23:08:23 |
 | Imum Coeli | 23:51:34 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 11:51:27 |
 | Medium Coeli | 11:51:27 |
 | Sunset | 17:20:57 |
-| Maghrib | 17:25:50 |
+| Maghrib | 17:25:51 |
 | Isha (Night) | 18:40:35 |
 | Sharia Midnight | 23:11:45 |
 | Imum Coeli | 23:51:34 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:51:27 |
 | Medium Coeli | 11:51:27 |
 | Sunset | 17:20:57 |
-| Maghrib | 17:25:50 |
-| Isha (Night) | 18:55:50 |
+| Maghrib | 17:25:51 |
+| Isha (Night) | 18:55:51 |
 | Sharia Midnight | 23:10:37 |
 | Imum Coeli | 23:51:34 |
 {{< /tab >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°29'30.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°29'30.64" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|2°20'14.00" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|1°33'46.08" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|29°4'26.31" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°29'30.64" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°29'30.64" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°20'14.00" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|1°33'46.08" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|29°4'26.31" |Gemini|Dhira|Sun|

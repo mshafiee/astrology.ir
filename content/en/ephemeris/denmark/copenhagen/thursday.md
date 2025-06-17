@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:24:39 |
+| Sunrise | 04:24:40 |
 | Dhuhr (Noon) | 13:11:08 |
 | Medium Coeli | 13:11:08 |
 | Sunset | 21:57:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°27'4.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°27'4.87" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|2°5'58.59" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|0°58'38.87" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°4'52.92" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°13'22.64" |Aries|Butain|Sun|
-|☿ Mercury|Direct|18°38'41.06" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°3'21.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|0°58'38.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°4'48.11" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°13'17.88" |Aries|Butain|Sun|
+|☿ Mercury|Direct|18°38'37.12" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|1°56'39.74" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°27'4.87" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°5'59.42" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|0°58'38.87" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°4'52.92" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°13'22.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|18°38'41.06" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°3'21.86" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°27'4.87" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°5'58.59" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|0°58'38.11" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°4'48.11" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°13'17.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|18°38'37.12" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°56'39.74" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

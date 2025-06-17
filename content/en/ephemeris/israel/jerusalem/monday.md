@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:11:00 |
+| Fajr (Dawn) | 04:11:01 |
 | Sunrise | 05:33:26 |
 | Dhuhr (Noon) | 12:39:52 |
 | Medium Coeli | 12:39:52 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°19'31.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°25'0.97" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|29°18'5.08" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°13'20.91" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°5'12.89" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|13°33'49.49" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|20°59'36.97" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|1°19'31.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|1°25'0.78" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|29°18'5.83" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°13'20.94" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°5'11.68" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|13°33'49.89" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|20°52'3.71" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°19'31.75" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|1°25'0.97" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|29°18'5.08" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|25°13'20.91" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°5'12.89" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°19'31.63" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|1°25'0.71" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|29°18'5.11" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|25°13'20.94" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°5'12.92" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|13°33'49.49" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|20°59'36.97" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|20°59'35.99" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

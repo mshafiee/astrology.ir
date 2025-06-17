@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:04:54 |
+| Fajr (Dawn) | 05:04:53 |
 | Sunrise | 06:21:45 |
 | Dhuhr (Noon) | 12:04:17 |
 | Medium Coeli | 12:04:17 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°31'25.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°31'55.98" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°2'41.31" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°53'22.09" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|15°13'29.15" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°31'25.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°31'56.24" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°2'41.28" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°53'22.07" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°13'29.13" |Aries|Butain|Sun|
 |☿ Mercury|Direct|21°40'10.81" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|29°16'39.69" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°16'40.03" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°31'25.55" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°31'55.98" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°2'41.31" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|29°53'22.09" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|15°13'29.15" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°31'25.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°31'56.24" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°2'41.28" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|29°53'22.07" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|15°13'29.13" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|21°40'10.81" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|29°16'39.69" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|29°16'40.03" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

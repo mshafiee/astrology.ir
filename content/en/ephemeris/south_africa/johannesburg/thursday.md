@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:28:50 |
 | Isha (Night) | 18:43:07 |
 | Sharia Midnight | 23:27:16 |
-| Imum Coeli | 00:09:20 |
+| Imum Coeli | 00:09:19 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:28:50 |
 | Isha (Night) | 18:47:48 |
 | Sharia Midnight | 23:27:16 |
-| Imum Coeli | 00:09:20 |
+| Imum Coeli | 00:09:19 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:28:50 |
 | Isha (Night) | 18:58:50 |
 | Sharia Midnight | 23:26:06 |
-| Imum Coeli | 00:09:20 |
+| Imum Coeli | 00:09:19 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°27'19.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°7'24.81" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°2'10.10" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°10'50.63" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|1°27'19.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°7'25.07" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°2'10.03" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°10'50.58" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|13°19'56.85" |Aries|Butain|Sun|
-|☿ Mercury|Direct|18°48'53.88" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°26'22.24" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|18°48'53.84" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°26'40.94" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°27'19.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°7'24.80" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°2'10.07" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°10'50.60" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°19'56.87" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°27'19.91" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°7'25.07" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°2'10.03" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°10'50.58" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°19'56.85" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|18°48'53.84" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°26'41.02" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°26'40.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
