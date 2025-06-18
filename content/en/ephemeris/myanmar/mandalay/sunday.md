@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:06:32 |
-| Sunrise | 05:23:11 |
+| Sunrise | 05:23:10 |
 | Dhuhr (Noon) | 12:07:40 |
 | Medium Coeli | 12:07:40 |
 | Sunset | 18:52:10 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:57:35 |
-| Sunrise | 05:23:11 |
+| Sunrise | 05:23:10 |
 | Dhuhr (Noon) | 12:07:40 |
 | Medium Coeli | 12:07:40 |
 | Sunset | 18:52:10 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°35'33.78" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°58'47.55" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°9'11.55" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|1°45'23.48" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°18'28.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°38'20.79" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|27°28'57.39" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|3°9'16.04" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|1°45'34.53" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|17°18'34.31" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°38'32.31" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|28°16'29.86" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Jupiter|Mercury|Scorpio|Sun|Saturn|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}

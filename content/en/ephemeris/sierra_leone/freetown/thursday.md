@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:26:39 |
+| Fajr (Dawn) | 05:26:38 |
 | Sunrise | 06:35:37 |
 | Dhuhr (Noon) | 12:54:21 |
 | Medium Coeli | 12:54:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°27'29.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°8'22.43" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°4'32.03" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°14'52.17" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°24'23.42" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°27'29.90" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°8'22.69" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°4'31.99" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°14'52.14" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°24'23.40" |Aries|Butain|Sun|
 |☿ Mercury|Direct|18°55'45.71" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|4°27'6.13" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°27'6.06" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°27'29.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°8'22.43" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°4'32.03" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°14'52.17" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°24'23.42" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°27'29.90" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°8'22.69" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°4'31.99" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°14'52.14" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°24'23.40" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|18°55'45.71" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°27'6.13" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°27'6.06" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

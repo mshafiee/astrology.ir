@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:36:46 |
+| Fajr (Dawn) | 02:36:45 |
 | Sunrise | 04:42:27 |
 | Dhuhr (Noon) | 12:02:42 |
 | Medium Coeli | 12:02:42 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°24'25.54" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°51'1.94" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|0°21'52.46" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°2'18.53" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|12°4'29.28" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|16°50'1.32" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|16°49'44.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°51'2.24" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|0°21'52.80" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°2'18.57" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°4'28.70" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|16°50'1.60" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|16°45'0.16" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°24'25.43" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|1°51'1.98" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|0°21'52.83" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|27°2'18.59" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|12°4'28.73" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°24'25.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|1°51'2.24" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|0°21'52.80" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|27°2'18.57" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|12°4'28.70" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|16°50'1.60" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|16°45'0.13" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|16°45'0.16" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

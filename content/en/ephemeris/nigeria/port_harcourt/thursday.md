@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:04:14 |
+| Fajr (Dawn) | 05:04:13 |
 | Sunrise | 06:21:11 |
 | Dhuhr (Noon) | 12:33:21 |
 | Medium Coeli | 12:33:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°27'22.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°7'39.98" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°2'47.42" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°11'54.62" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°21'7.38" |Aries|Butain|Sun|
-|☿ Mercury|Direct|18°50'42.42" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°43'46.31" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°27'22.56" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°7'40.24" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°2'47.39" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°11'54.60" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°21'7.36" |Aries|Butain|Sun|
+|☿ Mercury|Direct|18°50'42.50" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°43'7.76" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°27'22.56" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°7'39.97" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°2'47.36" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°11'54.57" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°21'7.43" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|18°50'42.43" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°43'46.39" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°7'40.24" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°2'47.39" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°11'54.60" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°21'7.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|18°50'42.50" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°43'7.76" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:58:54 |
 | Sunrise | 06:07:28 |
-| Dhuhr (Noon) | 12:23:11 |
-| Medium Coeli | 12:23:11 |
+| Dhuhr (Noon) | 12:23:10 |
+| Medium Coeli | 12:23:10 |
 | Sunset | 18:38:53 |
 | Maghrib | 18:53:53 |
 | Isha (Night) | 19:38:25 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:51:13 |
 | Sunrise | 06:07:28 |
-| Dhuhr (Noon) | 12:23:11 |
-| Medium Coeli | 12:23:11 |
+| Dhuhr (Noon) | 12:23:10 |
+| Medium Coeli | 12:23:10 |
 | Sunset | 18:38:53 |
 | Maghrib | 18:56:06 |
 | Isha (Night) | 19:38:25 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:03:25 |
 | Sunrise | 06:07:28 |
-| Dhuhr (Noon) | 12:23:11 |
-| Medium Coeli | 12:23:11 |
+| Dhuhr (Noon) | 12:23:10 |
+| Medium Coeli | 12:23:10 |
 | Sunset | 18:38:53 |
 | Maghrib | 18:41:06 |
 | Isha (Night) | 19:42:55 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:43:01 |
 | Sunrise | 06:07:28 |
-| Dhuhr (Noon) | 12:23:11 |
-| Medium Coeli | 12:23:11 |
+| Dhuhr (Noon) | 12:23:10 |
+| Medium Coeli | 12:23:10 |
 | Sunset | 18:38:53 |
 | Maghrib | 18:41:06 |
 | Isha (Night) | 19:54:13 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:47:35 |
 | Sunrise | 06:07:28 |
-| Dhuhr (Noon) | 12:23:11 |
-| Medium Coeli | 12:23:11 |
+| Dhuhr (Noon) | 12:23:10 |
+| Medium Coeli | 12:23:10 |
 | Sunset | 18:38:53 |
 | Maghrib | 18:41:06 |
 | Isha (Night) | 20:11:06 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°5'34.68" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|16°33'53.18" |Aries|Butain|Sun|
 |☿ Mercury|Direct|23°36'3.40" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°55'29.53" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°55'14.06" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

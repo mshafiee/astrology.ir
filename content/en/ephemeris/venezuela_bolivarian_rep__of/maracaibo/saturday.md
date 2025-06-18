@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:08:01 |
-| Sunrise | 06:25:41 |
+| Sunrise | 06:25:40 |
 | Dhuhr (Noon) | 12:48:20 |
 | Medium Coeli | 12:48:20 |
 | Sunset | 19:11:00 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:20:32 |
-| Sunrise | 06:25:41 |
+| Sunrise | 06:25:40 |
 | Dhuhr (Noon) | 12:48:20 |
 | Medium Coeli | 12:48:20 |
 | Sunset | 19:11:00 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:45:19|Night duration: 11:14:54|
+|Duration of the day: 12:45:20|Night duration: 11:14:54|
 |Every hour of day duration: 01:03:47|Every hour of night duration: 00:56:14|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:25:41|07:29:26|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|07:29:27|08:33:13|Peace among people|
-|3|Mars|Servant|08:33:14|09:36:59|Vengeful and evil deeds|
-|4|Sun|Servant|09:37:00|10:40:46|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:40:47|11:44:32|Auspicious|
+|1|Saturn|Ruler|06:25:40|07:29:25|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:29:26|08:33:12|Peace among people|
+|3|Mars|Servant|08:33:13|09:36:59|Vengeful and evil deeds|
+|4|Sun|Servant|09:37:00|10:40:45|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:40:46|11:44:32|Auspicious|
 |6|Mercury|Servant|11:44:33|12:48:19|Writing, swapping and making promises|
-|7|Moon|Servant|12:48:20|13:52:06|Not suitable for any task|
-|8|Saturn|Ruler|13:52:07|14:55:52|Destruction of enemies|
+|7|Moon|Servant|12:48:20|13:52:05|Not suitable for any task|
+|8|Saturn|Ruler|13:52:06|14:55:52|Destruction of enemies|
 |9|Jupiter|Servant|14:55:53|15:59:39|All good deeds|
 |10|Mars|Servant|15:59:40|17:03:25|Doing evil deeds|
 |11|Sun|Servant|17:03:26|18:07:12|Acceptance of reconciliation between couples|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:45:19|Night duration: 11:14:54|
+|Duration of the day: 12:45:20|Night duration: 11:14:54|
 |Every hour duration: 01:49:20|Every hour duration: 01:36:25|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|06:25:41|08:14:59|
+|Early morning|Saturn|Ruler|06:25:40|08:14:59|
 |Mid-morning|Jupiter|Servant|08:15:00|10:04:19|
 |Late morning|Mars|Servant|10:04:20|11:53:39|
 |Noon|Sun|Servant|11:53:40|13:42:59|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|1°34'30.19" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°51'40.63" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|2°51'35.75" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|1°15'51.31" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°45'21.46" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°52'13.61" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|20°35'16.59" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|1°15'51.28" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°45'21.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°52'13.60" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|20°33'8.40" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

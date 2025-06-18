@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:45:18 |
 | Maghrib | 18:46:16 |
 | Isha (Night) | 19:57:46 |
-| Sharia Midnight | 23:54:46 |
+| Sharia Midnight | 23:54:45 |
 | Imum Coeli | 00:33:14 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°24'57.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|1°53'58.61" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|0°29'5.63" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°14'37.16" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|12°18'0.15" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|17°11'36.34" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|19°41'12.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|1°53'56.68" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|0°29'0.05" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°14'27.29" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°17'57.29" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|17°11'25.76" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|20°34'56.98" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Mercury|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Venus|Mercury|Moon|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Saturn|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Mars|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}

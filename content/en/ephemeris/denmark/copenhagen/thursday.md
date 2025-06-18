@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:24:40 |
+| Sunrise | 04:24:39 |
 | Dhuhr (Noon) | 13:11:08 |
 | Medium Coeli | 13:11:08 |
 | Sunset | 21:57:42 |

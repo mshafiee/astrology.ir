@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°27'24.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°7'51.84" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°3'16.65" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°12'44.23" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°22'2.16" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°27'24.61" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°7'52.11" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°3'16.62" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°12'44.21" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°22'2.13" |Aries|Butain|Sun|
 |☿ Mercury|Direct|18°52'7.27" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°55'24.74" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°55'24.65" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°27'24.50" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°7'51.84" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°3'16.65" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°12'44.23" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°22'2.16" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°27'24.61" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°7'52.11" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°3'16.62" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°12'44.21" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°22'2.13" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|18°52'7.27" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°55'24.74" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°55'24.65" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

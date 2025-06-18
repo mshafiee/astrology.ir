@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°28'38.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°15'2.28" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°20'56.89" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°42'43.13" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°55'9.97" |Aries|Butain|Sun|
-|☿ Mercury|Direct|19°42'59.30" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|11°23'25.37" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°15'0.73" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°20'58.44" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°42'31.76" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°54'53.04" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°42'52.21" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|10°11'11.93" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

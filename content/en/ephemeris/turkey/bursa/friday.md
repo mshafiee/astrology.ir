@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:05:22 |
 | Sunset | 20:36:41 |
 | Maghrib | 20:39:21 |
-| Isha (Night) | 22:34:04 |
+| Isha (Night) | 22:34:05 |
 | Sharia Midnight | 00:02:14 |
 | Imum Coeli | 01:05:29 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°29'25.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°19'45.92" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°32'37.95" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°2'29.90" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|14°17'4.38" |Aries|Butain|Sun|
-|☿ Mercury|Direct|20°16'12.47" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|16°19'29.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|1°29'26.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°19'46.19" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°32'38.06" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°2'29.82" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|14°17'4.03" |Aries|Butain|Sun|
+|☿ Mercury|Direct|20°16'12.54" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°17'7.89" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°29'25.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°19'45.93" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°32'38.10" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|29°2'29.88" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|14°17'4.36" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|20°16'12.47" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|16°19'29.24" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°29'26.00" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°19'46.19" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°32'38.06" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|29°2'29.82" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°17'4.03" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|20°16'12.54" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|16°17'7.89" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
