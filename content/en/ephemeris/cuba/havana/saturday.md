@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:31:26 |
 | Sunset | 20:18:23 |
 | Maghrib | 20:37:23 |
-| Isha (Night) | 21:25:29 |
+| Isha (Night) | 21:25:30 |
 | Sharia Midnight | 00:48:09 |
 | Imum Coeli | 01:31:32 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°34'31.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°51'51.23" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°52'2.24" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°16'35.47" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°46'10.97" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°53'23.39" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|20°43'29.61" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|1°34'31.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°51'50.02" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°52'4.23" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°16'26.25" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°45'56.12" |Aries|Butain|Sun|
+|☿ Mercury|Direct|23°53'18.31" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|19°13'43.03" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mercury|Mercury|Libra|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°34'31.79" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°34'31.79" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°51'51.23" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|2°52'2.24" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|1°16'35.47" |Cancer|Nathrah|Venus|

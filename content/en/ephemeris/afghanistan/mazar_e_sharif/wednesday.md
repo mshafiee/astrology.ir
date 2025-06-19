@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:36:45 |
+| Fajr (Dawn) | 02:36:46 |
 | Sunrise | 04:42:27 |
 | Dhuhr (Noon) | 12:02:42 |
 | Medium Coeli | 12:02:42 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°24'25.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°24'25.54" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|1°51'2.24" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|0°21'52.80" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°2'18.57" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°24'25.54" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°24'25.54" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|1°51'2.24" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|0°21'52.80" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|27°2'18.57" |Gemini|Dhira|Sun|

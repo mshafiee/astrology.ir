@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:47:22 |
 | Isha (Night) | 18:30:59 |
 | Sharia Midnight | 23:01:43 |
-| Imum Coeli | 23:35:16 |
+| Imum Coeli | 23:35:17 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:49:33 |
 | Isha (Night) | 18:30:59 |
 | Sharia Midnight | 22:58:00 |
-| Imum Coeli | 23:35:16 |
+| Imum Coeli | 23:35:17 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:33:33 |
 | Isha (Night) | 18:44:04 |
 | Sharia Midnight | 22:57:21 |
-| Imum Coeli | 23:35:16 |
+| Imum Coeli | 23:35:17 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:33:33 |
 | Isha (Night) | 18:46:15 |
 | Sharia Midnight | 22:54:04 |
-| Imum Coeli | 23:35:16 |
+| Imum Coeli | 23:35:17 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:33:33 |
 | Isha (Night) | 18:48:26 |
 | Sharia Midnight | 22:57:21 |
-| Imum Coeli | 23:35:16 |
+| Imum Coeli | 23:35:17 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°25'17.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°25'17.64" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|1°55'51.02" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|0°33'41.94" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|27°22'27.48" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°25'17.64" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°25'17.64" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|1°55'51.02" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|0°33'41.94" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|27°22'27.48" |Gemini|Dhira|Sun|

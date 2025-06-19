@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'52.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°16'25.55" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°24'25.36" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°48'25.99" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|14°1'32.37" |Aries|Butain|Sun|
-|☿ Mercury|Direct|19°52'49.59" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|12°22'19.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|1°28'52.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°16'28.05" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°24'28.53" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°48'41.90" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|14°1'46.89" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°53'3.18" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|12°53'22.12" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'52.76" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°28'52.76" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°16'28.05" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|1°24'28.53" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|28°48'41.90" |Gemini|Dhira|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

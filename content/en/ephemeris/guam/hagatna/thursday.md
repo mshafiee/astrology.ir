@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'47.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°15'58.67" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°23'16.13" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°46'39.04" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°59'31.02" |Aries|Butain|Sun|
-|☿ Mercury|Direct|19°49'36.76" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|12°22'17.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|1°28'47.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°15'57.07" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°23'17.37" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°46'27.13" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°59'13.97" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°49'29.07" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|11°10'52.39" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Mercury|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'47.80" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°15'58.67" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°23'16.13" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°46'39.04" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°59'31.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|19°49'36.76" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°22'17.34" |Aries|Sharatain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°28'47.80" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°15'57.07" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°23'17.37" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°46'27.13" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°59'13.97" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|19°49'29.07" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|11°10'52.39" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Jupiter|Mercury|Mars|Moon|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Agadna, Agana, Agana -1998, Agania, Aganija, Aganja, Agano, Agaña, Aguana, Akashi, Akashi - JP renamed WW2, Ankana, City of Ignacio de Agana, City of Saint Ignacio de Agana, Ciudad de San Ignacio de Agana, Hagadna, Hagatna, Hagåtña, Haqatna, Jagatna, Khagatna, San Ignacio de Agana *, Ville d'Agana, Vjoska Agan'ja, a jia ni ya, akatna, ha katya, hagania, hagasnya, hagatna, hagatnya, haghatnya, hegatn'ya, Αγκάνα, Вёска Аганья, Хагатна, Хагатња, Հագատնա, هاغاتنيا, هاگاتنا, هاگاتنیا, हेगात्न्या, அகாத்ன, ฮากาตญา, ჰაგატნა, ハガニア, 阿加尼亚, 하갓냐

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'35.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°14'42.62" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|1°20'12.25" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|28°41'15.90" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°53'35.16" |Aries|Butain|Sun|
-|☿ Mercury|Direct|19°40'45.71" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|10°27'52.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|1°28'35.35" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°14'45.12" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|1°20'14.59" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°41'31.28" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°53'50.53" |Aries|Butain|Sun|
+|☿ Mercury|Direct|19°40'58.31" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|10°25'51.90" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'35.35" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°14'45.12" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°20'14.59" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°41'31.28" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°53'50.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|19°40'58.31" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|11°5'10.37" |Aries|Sharatain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°28'35.23" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°14'44.86" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°20'14.62" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°41'31.31" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°53'50.55" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|19°40'58.32" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|11°5'10.36" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:14:37 |
 | Sunrise | 05:07:24 |
-| Dhuhr (Noon) | 12:42:33 |
-| Medium Coeli | 12:42:33 |
+| Dhuhr (Noon) | 12:42:34 |
+| Medium Coeli | 12:42:34 |
 | Sunset | 20:17:43 |
 | Maghrib | 20:39:44 |
 | Isha (Night) | 21:53:08 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 02:55:35 |
 | Sunrise | 05:07:24 |
-| Dhuhr (Noon) | 12:42:33 |
-| Medium Coeli | 12:42:33 |
+| Dhuhr (Noon) | 12:42:34 |
+| Medium Coeli | 12:42:34 |
 | Sunset | 20:17:43 |
 | Maghrib | 20:20:02 |
 | Isha (Night) | 22:29:31 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°31'43.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°31'43.46" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|2°33'47.30" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|2°7'16.67" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°1'5.82" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°31'43.46" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°33'47.10" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°7'15.55" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|0°1'5.07" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°22'6.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|21°52'46.91" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°16'25.74" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|1°31'43.46" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°33'47.30" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°7'16.67" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|0°1'5.82" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°22'5.16" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|21°52'48.27" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°7'14.40" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

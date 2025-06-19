@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:12:59 |
+| Fajr (Dawn) | 03:13:00 |
 | Sunrise | 05:00:11 |
 | Dhuhr (Noon) | 12:12:35 |
 | Medium Coeli | 12:12:35 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°26'59.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°26'59.59" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|2°5'28.07" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|0°57'22.32" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°2'41.36" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°26'59.59" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°26'59.59" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°5'28.07" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|0°57'22.32" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|28°2'41.36" |Gemini|Dhira|Sun|

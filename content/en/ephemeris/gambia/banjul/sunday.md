@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:08:23 |
 | Medium Coeli | 13:08:23 |
 | Sunset | 19:36:11 |
-| Maghrib | 19:37:10 |
+| Maghrib | 19:37:11 |
 | Isha (Night) | 20:51:53 |
 | Sharia Midnight | 00:28:16 |
 | Imum Coeli | 01:08:30 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:08:23 |
 | Medium Coeli | 13:08:23 |
 | Sunset | 19:36:11 |
-| Maghrib | 19:37:10 |
+| Maghrib | 19:37:11 |
 | Isha (Night) | 20:42:25 |
 | Sharia Midnight | 00:35:23 |
 | Imum Coeli | 01:08:30 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°34'10.72" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°34'10.72" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|2°49'31.90" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|2°46'16.37" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°6'53.48" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°35'21.18" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°38'7.81" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|18°14'58.50" |Aries|Butain|Sun|
+|♀ Venus|Direct|16°35'11.46" |Aries|Butain|Sun|
+|☿ Mercury|Direct|23°38'6.65" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|17°16'7.84" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mercury|Sun|Libra|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°34'10.72" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°34'10.72" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°49'31.90" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|2°46'16.37" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|1°6'53.48" |Cancer|Nathrah|Venus|

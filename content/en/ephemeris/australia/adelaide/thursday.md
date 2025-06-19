@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:16:56 |
 | Sunset | 17:11:21 |
 | Maghrib | 17:29:56 |
-| Isha (Night) | 18:22:40 |
+| Isha (Night) | 18:22:41 |
 | Sharia Midnight | 23:36:14 |
 | Imum Coeli | 00:17:02 |
 {{< /tab >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'59.11" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°28'59.11" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|2°17'5.92" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|1°26'2.09" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|28°51'19.42" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'59.11" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°28'59.11" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°17'5.92" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|1°26'2.09" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|28°51'19.42" |Gemini|Dhira|Sun|

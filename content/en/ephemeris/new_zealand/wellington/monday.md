@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:23:04 |
 | Medium Coeli | 12:23:04 |
 | Sunset | 16:59:07 |
-| Maghrib | 17:22:49 |
+| Maghrib | 17:22:50 |
 | Isha (Night) | 18:17:49 |
 | Sharia Midnight | 23:33:30 |
 | Imum Coeli | 00:23:11 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°37'16.93" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°37'16.93" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°10'43.89" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|3°38'57.54" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°35'24.61" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°14'23.66" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°54'40.53" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|11°2'20.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°38'58.84" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°35'14.59" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°14'9.01" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°54'34.39" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|9°35'32.30" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Cancer|Sun|Mercury|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°37'16.93" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°37'16.93" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|3°10'43.89" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|3°38'57.54" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|2°35'24.61" |Cancer|Nathrah|Venus|
