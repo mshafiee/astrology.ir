@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 17:25:06|Night duration: 06:35:12|
-|Every hour of day duration: 01:27:05|Every hour of night duration: 00:32:56|
+|Every hour of day duration: 01:27:06|Every hour of night duration: 00:32:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°35'35.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°58'58.34" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|3°9'44.09" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°46'19.30" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°19'25.87" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°39'44.25" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|28°5'13.90" |Aries|Thurayya|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|1°35'35.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°58'58.60" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|3°9'44.34" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°46'19.61" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|17°19'25.83" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°39'44.66" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|28°5'29.84" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -37,14 +37,14 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:45:35 |
-| Sunrise | 06:02:57 |
+| Sunrise | 06:02:58 |
 | Dhuhr (Noon) | 12:49:10 |
 | Medium Coeli | 12:49:10 |
 | Sunset | 19:35:21 |
 | Maghrib | 19:51:51 |
 | Isha (Night) | 20:42:13 |
 | Sharia Midnight | 00:10:36 |
-| Imum Coeli | 00:49:17 |
+| Imum Coeli | 00:49:16 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:54:18 |
 | Isha (Night) | 20:42:13 |
 | Sharia Midnight | 00:06:05 |
-| Imum Coeli | 00:49:17 |
+| Imum Coeli | 00:49:16 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:55 |
-| Sunrise | 06:02:58 |
+| Sunrise | 06:02:57 |
 | Dhuhr (Noon) | 12:49:10 |
 | Medium Coeli | 12:49:10 |
 | Sunset | 19:35:21 |
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 19:36:56 |
 | Isha (Night) | 21:03:22 |
 | Sharia Midnight | 00:05:16 |
-| Imum Coeli | 00:49:17 |
+| Imum Coeli | 00:49:16 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:32:23|Night duration: 10:27:52|
+|Duration of the day: 13:32:24|Night duration: 10:27:52|
 |Every hour of day duration: 01:07:42|Every hour of night duration: 00:52:19|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:02:58|07:10:38|Creating corruption, hatred and enmity|
+|1|Mars|Ruler|06:02:57|07:10:38|Creating corruption, hatred and enmity|
 |2|Sun|Servant|07:10:39|08:18:20|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|08:18:21|09:26:02|Attracting connection and suitors|
 |4|Mercury|Servant|09:26:03|10:33:44|Attracting material wealth, earnings and business prosperity|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°39'20.48" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°25'39.62" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°16'20.72" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|3°37'50.84" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|19°24'34.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°27'27.93" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°32'7.58" |Gemini|Dhira|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°39'20.37" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|3°25'42.18" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°16'23.40" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|3°38'7.00" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|19°24'50.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°27'41.97" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|27°26'55.78" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Leo|Moon|Moon|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Mercury|Jupiter|Taurus|Sun|Mars|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

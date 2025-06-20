@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:01:59 |
 | Dhuhr (Noon) | 11:55:03 |
 | Medium Coeli | 11:55:03 |
-| Sunset | 17:48:07 |
+| Sunset | 17:48:08 |
 | Maghrib | 18:05:09 |
 | Isha (Night) | 18:46:37 |
-| Sharia Midnight | 23:17:50 |
+| Sharia Midnight | 23:17:51 |
 | Imum Coeli | 23:55:10 |
 {{< /tab >}}
 
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:01:59 |
 | Dhuhr (Noon) | 11:55:03 |
 | Medium Coeli | 11:55:03 |
-| Sunset | 17:48:07 |
+| Sunset | 17:48:08 |
 | Maghrib | 17:49:06 |
 | Isha (Night) | 18:59:42 |
-| Sharia Midnight | 23:17:11 |
+| Sharia Midnight | 23:17:12 |
 | Imum Coeli | 23:55:10 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:01:59 |
 | Dhuhr (Noon) | 11:55:03 |
 | Medium Coeli | 11:55:03 |
-| Sunset | 17:48:07 |
+| Sunset | 17:48:08 |
 | Maghrib | 17:49:06 |
 | Isha (Night) | 18:50:59 |
-| Sharia Midnight | 23:23:43 |
+| Sharia Midnight | 23:23:44 |
 | Imum Coeli | 23:55:10 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:01:59 |
 | Dhuhr (Noon) | 11:55:03 |
 | Medium Coeli | 11:55:03 |
-| Sunset | 17:48:08 |
+| Sunset | 17:48:07 |
 | Maghrib | 17:49:06 |
 | Isha (Night) | 19:01:53 |
 | Sharia Midnight | 23:13:55 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:01:59 |
 | Dhuhr (Noon) | 11:55:03 |
 | Medium Coeli | 11:55:03 |
-| Sunset | 17:48:08 |
+| Sunset | 17:48:07 |
 | Maghrib | 17:49:06 |
 | Isha (Night) | 19:04:04 |
-| Sharia Midnight | 23:17:12 |
+| Sharia Midnight | 23:17:11 |
 | Imum Coeli | 23:55:10 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:01:59 |
 | Dhuhr (Noon) | 11:55:03 |
 | Medium Coeli | 11:55:03 |
-| Sunset | 17:48:08 |
+| Sunset | 17:48:07 |
 | Maghrib | 17:49:06 |
 | Isha (Night) | 19:19:06 |
 | Sharia Midnight | 23:16:06 |

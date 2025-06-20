@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°28'43.78" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|2°15'34.89" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°22'17.42" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|28°44'59.65" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°57'40.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|19°46'49.28" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|11°57'39.48" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|1°22'12.99" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|28°44'48.43" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°57'34.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|19°46'38.22" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°5'53.54" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Jupiter|Mercury|Mars|Moon|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르

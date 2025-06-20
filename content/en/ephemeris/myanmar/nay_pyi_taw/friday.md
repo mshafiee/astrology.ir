@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:48:45 |
 | Isha (Night) | 20:18:45 |
 | Sharia Midnight | 23:23:20 |
-| Imum Coeli | 00:07:10 |
+| Imum Coeli | 00:07:09 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°31'20.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°31'23.31" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°1'17.96" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°51'3.07" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|15°11'3.96" |Aries|Butain|Sun|
-|☿ Mercury|Direct|21°36'27.25" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|29°7'2.40" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|2°31'24.91" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°1'23.99" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°51'11.20" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°11'3.88" |Aries|Butain|Sun|
+|☿ Mercury|Direct|21°36'37.46" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|28°41'58.03" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

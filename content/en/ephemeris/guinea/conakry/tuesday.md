@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°38'8.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|3°16'55.44" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|3°54'22.61" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°1'16.69" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°43'25.01" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°33'24.27" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|18°1'18.91" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°38'8.74" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|3°16'55.09" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|3°54'25.27" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°1'11.53" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°43'14.08" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°33'22.83" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|17°9'10.95" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Cancer|Sun|Mercury|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°38'8.63" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°16'55.44" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°54'22.61" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|3°1'16.69" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|18°43'25.01" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°38'8.74" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|3°16'55.70" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°54'22.57" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|3°1'16.66" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°43'24.99" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|26°33'24.26" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|18°1'19.34" |Gemini|Dhira|Mars|
 

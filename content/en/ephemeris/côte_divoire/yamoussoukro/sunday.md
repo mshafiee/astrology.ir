@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:49:51 |
 | Sunrise | 06:07:28 |
-| Dhuhr (Noon) | 12:23:11 |
-| Medium Coeli | 12:23:11 |
+| Dhuhr (Noon) | 12:23:10 |
+| Medium Coeli | 12:23:10 |
 | Sunset | 18:38:53 |
 | Maghrib | 18:41:06 |
 | Isha (Night) | 19:56:30 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|2°49'13.03" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|2°45'29.50" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|1°5'34.68" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°33'53.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°36'3.41" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|17°55'28.92" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°33'53.18" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°36'3.40" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|17°55'29.53" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

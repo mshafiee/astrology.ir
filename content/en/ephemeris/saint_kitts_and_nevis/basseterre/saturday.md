@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:29:28 |
+| Fajr (Dawn) | 04:29:27 |
 | Sunrise | 05:37:40 |
 | Dhuhr (Noon) | 12:12:47 |
 | Medium Coeli | 12:12:47 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°34'26.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°51'12.92" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°50'27.72" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°13'56.63" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°43'13.46" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°49'13.64" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|20°4'44.74" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|1°34'25.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°51'12.88" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°50'27.67" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°13'56.46" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°43'13.33" |Aries|Butain|Sun|
+|☿ Mercury|Direct|23°49'13.48" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|20°3'58.81" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
