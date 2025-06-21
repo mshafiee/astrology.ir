@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:42:34 |
+| Fajr (Dawn) | 03:42:33 |
 | Sunrise | 05:34:16 |
 | Dhuhr (Noon) | 12:40:58 |
 | Medium Coeli | 12:40:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°31'40.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°33'28.31" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°6'30.17" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°59'47.89" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|15°20'38.24" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°31'40.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°33'28.58" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°6'30.13" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°59'47.87" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°20'38.22" |Aries|Butain|Sun|
 |☿ Mercury|Direct|21°50'40.64" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°50'55.56" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°50'55.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°31'40.36" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°33'28.31" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°6'30.17" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|29°59'47.89" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|15°20'38.24" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°31'40.48" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°33'28.58" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°6'30.13" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|29°59'47.87" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|15°20'38.22" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|21°50'40.64" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°50'55.56" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°50'55.93" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

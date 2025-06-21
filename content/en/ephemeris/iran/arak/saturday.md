@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:09:48 |
+| Fajr (Dawn) | 03:09:47 |
 | Sunrise | 05:00:34 |
 | Dhuhr (Noon) | 12:13:01 |
 | Medium Coeli | 12:13:01 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°31'34.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°32'51.90" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°5'0.14" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°57'15.63" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|15°17'49.08" |Aries|Butain|Sun|
-|☿ Mercury|Direct|21°46'32.92" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°11'9.91" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°31'34.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°32'52.16" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°5'0.10" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°57'15.61" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°17'49.06" |Aries|Butain|Sun|
+|☿ Mercury|Direct|21°46'32.91" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°11'10.27" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°31'34.53" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°32'51.90" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°5'0.14" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|29°57'15.63" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|15°17'49.08" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|21°46'32.92" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°11'9.91" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|1°31'34.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°32'52.24" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°5'0.36" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|29°57'15.96" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|15°17'49.06" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|21°46'33.36" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°10'7.32" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 22:46:01 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:23:48 |
+| Imum Coeli | 01:23:47 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 22:46:01 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:23:48 |
+| Imum Coeli | 01:23:47 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 22:46:01 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:23:48 |
+| Imum Coeli | 01:23:47 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 22:46:01 |
 | Isha (Night) | 00:16:01 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 01:23:48 |
+| Imum Coeli | 01:23:47 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°39'34.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°39'34.05" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°27'25.08" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|4°20'40.20" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°45'13.49" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|19°32'57.64" |Aries|Butain|Sun|
-|☿ Mercury|Direct|27°38'7.82" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|29°12'12.86" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|19°32'51.73" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°38'5.75" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|28°43'50.13" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°39'34.05" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°27'25.08" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°20'40.20" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|3°45'13.49" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|19°32'51.73" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°38'5.75" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|28°43'50.13" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|1°39'34.05" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|3°27'25.60" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°20'44.11" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|3°45'14.95" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|19°32'47.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°38'10.19" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°47'7.99" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

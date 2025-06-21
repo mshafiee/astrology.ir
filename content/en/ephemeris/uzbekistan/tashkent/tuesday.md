@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°39'28.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°39'28.63" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°26'43.96" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|4°18'57.07" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°42'22.93" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°39'28.63" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°39'28.63" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|3°26'43.96" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|4°18'57.07" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|3°42'22.93" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|19°29'38.83" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|27°33'55.99" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|28°20'39.88" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|28°20'40.10" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°35'51.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|3°0'48.75" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|3°14'17.45" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°54'0.50" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°28'0.60" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°51'33.86" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°22'40.26" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|1°35'51.55" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|3°0'48.48" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|3°14'20.64" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°53'56.92" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|17°27'50.79" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°51'33.82" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|29°28'6.96" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Moon|Mercury|Libra|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°35'51.55" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°35'51.55" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|3°0'48.75" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|3°14'17.45" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|1°54'0.50" |Cancer|Nathrah|Venus|
