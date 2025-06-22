@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°38'0.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|3°15'55.44" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|3°51'51.20" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°57'4.25" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°38'48.95" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°27'9.54" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|16°25'32.82" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|3°15'56.37" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|3°51'57.21" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|2°57'9.76" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°38'45.75" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°27'18.53" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°40'50.12" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Cancer|Sun|Mercury|
 |♀ Venus|Moon|Mercury|Scorpio|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°38'0.41" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°15'55.59" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°51'54.44" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|2°57'4.24" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|18°38'43.48" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|26°27'12.27" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|16°10'51.63" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|1°38'0.30" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|3°15'55.33" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°51'54.48" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|2°57'4.27" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°38'43.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|26°27'12.28" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|16°10'51.19" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

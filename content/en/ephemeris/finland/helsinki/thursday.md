@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:43 |
+| Sunrise | 03:55:44 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:43 |
+| Sunrise | 03:55:44 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:43 |
+| Sunrise | 03:55:44 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:43 |
+| Sunrise | 03:55:44 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:43 |
+| Sunrise | 03:55:44 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:43 |
+| Sunrise | 03:55:44 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°32'25.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°38'14.52" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°18'17.43" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|0°19'42.86" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°42'46.84" |Aries|Butain|Sun|
-|☿ Mercury|Direct|22°22'55.26" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|6°1'30.81" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°32'25.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°38'14.26" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°18'17.47" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|0°19'42.88" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°42'46.86" |Aries|Butain|Sun|
+|☿ Mercury|Direct|22°22'55.27" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|5°59'5.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°32'25.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°38'14.52" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°18'17.43" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|0°19'42.86" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°42'46.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°22'55.26" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|2°38'14.26" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°18'17.63" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|0°19'42.82" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°42'46.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°22'55.34" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|5°59'5.04" |Taurus|Thurayya|Mercury|
 
 

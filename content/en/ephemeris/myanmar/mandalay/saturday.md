@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:29:00|Night duration: 10:31:13|
+|Duration of the day: 13:29:00|Night duration: 10:31:14|
 |Every hour of day duration: 01:07:25|Every hour of night duration: 00:52:36|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Saturn|Servant|20:37:09|21:29:44|Vengeful and evil deeds|
 |4|Jupiter|Servant|21:29:45|22:22:20|Dominance, judgment and issuing verdict|
 |5|Mars|Servant|22:22:21|23:14:56|Auspicious|
-|6|Sun|Servant|23:14:57|00:07:32|Writing, swapping and making promises|
-|7|Venus|Servant|00:07:33|01:00:08|Not suitable for any task|
-|8|Mercury|Ruler|01:00:09|01:52:44|Destruction of enemies|
-|9|Moon|Servant|01:52:45|02:45:20|All good deeds|
-|10|Saturn|Servant|02:45:21|03:37:56|Doing evil deeds|
-|11|Jupiter|Servant|03:37:57|04:30:32|Acceptance of reconciliation between couples|
-|12|Mars|Servant|04:30:33|05:23:09|For gaining dignity|
+|6|Sun|Servant|23:14:57|00:07:33|Writing, swapping and making promises|
+|7|Venus|Servant|00:07:34|01:00:09|Not suitable for any task|
+|8|Mercury|Ruler|01:00:10|01:52:45|Destruction of enemies|
+|9|Moon|Servant|01:52:46|02:45:21|All good deeds|
+|10|Saturn|Servant|02:45:22|03:37:57|Doing evil deeds|
+|11|Jupiter|Servant|03:37:58|04:30:33|Acceptance of reconciliation between couples|
+|12|Mars|Servant|04:30:34|05:23:10|For gaining dignity|
 
  
  
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:29:00|Night duration: 10:31:13|
-|Every hour duration: 01:55:34|Every hour duration: 01:30:10|
+|Duration of the day: 13:29:00|Night duration: 10:31:14|
+|Every hour duration: 01:55:34|Every hour duration: 01:30:11|
 
  
  
@@ -276,12 +276,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|18:51:57|20:22:06|
-|Late evening|Moon|Servant|20:22:07|21:52:16|
-|Midnight|Saturn|Servant|21:52:17|23:22:27|
-|Late at night|Jupiter|Servant|23:22:28|00:52:37|
-|Rooster song|Mars|Servant|00:52:38|02:22:48|
-|False Dawn|Sun|Servant|02:22:49|03:52:58|
-|Dawn|Venus|Servant|03:52:59|05:23:09|
+|Late evening|Moon|Servant|20:22:07|21:52:17|
+|Midnight|Saturn|Servant|21:52:18|23:22:27|
+|Late at night|Jupiter|Servant|23:22:28|00:52:38|
+|Rooster song|Mars|Servant|00:52:39|02:22:48|
+|False Dawn|Sun|Servant|02:22:49|03:52:59|
+|Dawn|Venus|Servant|03:53:00|05:23:10|
 
 {{< /tab >}}
 

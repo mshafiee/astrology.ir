@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:04:35 |
 | Medium Coeli | 12:04:35 |
 | Sunset | 18:18:52 |
-| Maghrib | 18:23:27 |
-| Isha (Night) | 19:53:27 |
+| Maghrib | 18:23:28 |
+| Isha (Night) | 19:53:28 |
 | Sharia Midnight | 23:24:39 |
 | Imum Coeli | 00:04:41 |
 {{< /tab >}}
