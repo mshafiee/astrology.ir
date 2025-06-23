@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:15:32 |
 | Dhuhr (Noon) | 12:26:47 |
 | Medium Coeli | 12:26:47 |
-| Sunset | 19:37:59 |
+| Sunset | 19:37:58 |
 | Maghrib | 20:00:16 |
 | Isha (Night) | 20:57:16 |
 | Sharia Midnight | 23:34:59 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°37'45.65" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°37'45.65" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°14'8.81" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|3°47'27.66" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|2°49'40.48" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°37'45.65" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°14'8.81" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°47'27.66" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|2°49'40.48" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|18°30'23.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|26°16'6.07" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|14°50'53.89" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°37'45.65" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|3°14'8.87" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°47'27.92" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|2°49'40.75" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°30'23.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|26°16'6.48" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|14°51'40.51" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

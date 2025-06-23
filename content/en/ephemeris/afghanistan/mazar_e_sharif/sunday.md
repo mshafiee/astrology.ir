@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:04:33 |
+| Fajr (Dawn) | 03:04:32 |
 | Sunrise | 04:43:13 |
 | Dhuhr (Noon) | 12:03:35 |
 | Medium Coeli | 12:03:35 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°33'36.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°45'50.03" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°37'7.24" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|0°51'27.23" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°18'8.52" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°13'43.62" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|14°6'19.55" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°33'36.84" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°45'50.29" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°37'7.20" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|0°51'27.21" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°18'8.50" |Aries|Butain|Sun|
+|☿ Mercury|Direct|23°13'43.61" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|14°6'20.13" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°33'36.73" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°45'50.03" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°37'7.24" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|0°51'27.23" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°18'8.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°13'43.62" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°18'35.34" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°33'36.84" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°45'50.29" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°37'7.20" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|0°51'27.21" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°18'8.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°13'43.61" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°6'20.13" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:54:28 |
 | Sunset | 20:55:01 |
 | Maghrib | 21:03:01 |
-| Isha (Night) | 00:20:48 |
+| Isha (Night) | 00:20:49 |
 | Sharia Midnight | 23:11:41 |
 | Imum Coeli | 00:54:35 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°35'23.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°57'38.64" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|3°6'26.13" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°40'47.09" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°13'13.62" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°35'23.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°57'38.90" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|3°6'26.08" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°40'47.06" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|17°13'13.60" |Aries|Butain|Sun|
 |☿ Mercury|Direct|24°31'9.04" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|26°46'5.57" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°46'6.21" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°35'23.53" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°57'38.64" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°6'26.13" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|1°40'47.09" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°13'13.62" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°35'23.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°57'38.90" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°6'26.08" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|1°40'47.06" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|17°13'13.60" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|24°31'9.04" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|26°46'5.57" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|26°46'6.21" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

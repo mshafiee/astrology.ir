@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°41'0.11" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|3°38'30.65" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|4°48'19.69" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|4°31'17.65" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°24'49.52" |Aries|Butain|Venus|
-|☿ Mercury|Direct|28°44'18.94" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|9°16'46.37" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|1°41'0.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|3°38'30.92" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|4°48'22.80" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|4°31'33.46" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°25'3.83" |Aries|Butain|Venus|
+|☿ Mercury|Direct|28°44'33.25" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|11°5'11.51" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mars|Mercury|Jupiter|Saturn|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Moon|Venus|Sagittarius|Moon|Saturn|
 |☿ Mercury|Venus|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°41'0.22" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°41'0.22" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|3°38'30.92" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|4°48'22.80" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|4°31'33.46" |Cancer|Nathrah|Venus|

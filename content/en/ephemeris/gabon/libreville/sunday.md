@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°34'3.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°48'42.71" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°44'16.43" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°3'24.31" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°31'34.80" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°32'47.57" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|16°20'59.11" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°34'3.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°48'45.78" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°44'21.86" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°3'40.81" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°31'46.11" |Aries|Butain|Sun|
+|☿ Mercury|Direct|23°33'3.67" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|17°26'14.84" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mercury|Sun|Libra|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°34'3.59" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°48'45.52" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°44'21.90" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|1°3'40.83" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°31'46.13" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°34'3.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°48'45.78" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°44'21.86" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|1°3'40.81" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°31'46.11" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|23°33'3.67" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|17°26'14.84" |Taurus|Dabaran|Moon|
 

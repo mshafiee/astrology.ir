@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:02:29 |
 | Maghrib | 18:03:27 |
 | Isha (Night) | 19:33:27 |
-| Sharia Midnight | 23:24:46 |
+| Sharia Midnight | 23:24:45 |
 | Imum Coeli | 00:03:47 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°41'11.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°41'11.63" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°40'1.31" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|4°52'9.10" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°37'51.04" |Gemini|HanAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°41'11.63" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°41'11.63" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|3°40'1.31" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|4°52'9.10" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|4°37'51.04" |Cancer|Nathrah|Venus|

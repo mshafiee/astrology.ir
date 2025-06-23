@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:21:48 |
 | Isha (Night) | 18:12:02 |
 | Sharia Midnight | 23:21:12 |
-| Imum Coeli | 00:06:39 |
+| Imum Coeli | 00:06:38 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:04:52 |
 | Isha (Night) | 18:27:28 |
 | Sharia Midnight | 23:20:26 |
-| Imum Coeli | 00:06:39 |
+| Imum Coeli | 00:06:38 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:04:52 |
 | Isha (Night) | 18:32:35 |
 | Sharia Midnight | 23:20:26 |
-| Imum Coeli | 00:06:39 |
+| Imum Coeli | 00:06:38 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°44'19.31" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°44'19.42" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|4°6'19.70" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|5°58'13.98" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°27'42.99" |Gemini|HanAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°44'19.42" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°44'19.42" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|4°6'21.40" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|5°58'17.16" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|6°27'51.93" |Cancer|Nathrah|Venus|

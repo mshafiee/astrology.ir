@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:44 |
+| Sunrise | 03:55:43 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:44 |
+| Sunrise | 03:55:43 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:44 |
+| Sunrise | 03:55:43 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:44 |
+| Sunrise | 03:55:43 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:44 |
+| Sunrise | 03:55:43 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:55:44 |
+| Sunrise | 03:55:43 |
 | Dhuhr (Noon) | 13:23:10 |
 | Medium Coeli | 13:23:10 |
 | Sunset | 22:50:14 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°41'19.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°41'19.40" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°41'3.45" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|4°54'45.98" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°42'9.23" |Gemini|HanAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°41'19.40" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°41'19.40" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|3°41'3.45" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|4°54'45.98" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|4°42'9.23" |Cancer|Nathrah|Venus|

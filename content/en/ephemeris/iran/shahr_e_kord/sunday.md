@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:08:36 |
 | Sunset | 19:16:14 |
 | Maghrib | 19:21:48 |
-| Isha (Night) | 20:56:14 |
+| Isha (Night) | 20:56:13 |
 | Sharia Midnight | 23:11:59 |
 | Imum Coeli | 00:08:43 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°33'43.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|2°46'34.52" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|2°38'57.47" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|0°54'33.26" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°21'35.80" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°18'38.48" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|14°56'33.44" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°33'43.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|2°46'34.72" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|2°38'57.17" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|0°54'32.94" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°21'35.85" |Aries|Butain|Sun|
+|☿ Mercury|Direct|23°18'38.06" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|14°57'8.91" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°33'43.56" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°46'34.52" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°38'57.47" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|0°54'33.26" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°21'35.80" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°33'43.68" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°46'34.79" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°38'57.43" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|0°54'33.24" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°21'35.78" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|23°18'38.48" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°56'33.44" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°56'34.02" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

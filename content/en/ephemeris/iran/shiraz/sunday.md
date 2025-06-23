@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°33'43.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°33'43.68" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|2°46'34.78" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|2°38'57.35" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°54'33.27" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°33'43.68" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|2°46'34.35" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°38'57.14" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|0°54'32.36" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°21'35.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°18'37.49" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°53'36.00" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|1°33'43.68" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|2°46'34.00" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°38'53.39" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|0°54'29.80" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°21'38.13" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°18'32.81" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|15°14'24.36" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}

@@ -37,14 +37,14 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:45:35 |
-| Sunrise | 06:02:58 |
+| Sunrise | 06:02:57 |
 | Dhuhr (Noon) | 12:49:10 |
 | Medium Coeli | 12:49:10 |
 | Sunset | 19:35:21 |
 | Maghrib | 19:51:51 |
 | Isha (Night) | 20:42:13 |
 | Sharia Midnight | 00:10:36 |
-| Imum Coeli | 00:49:17 |
+| Imum Coeli | 00:49:16 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:36:32 |
-| Sunrise | 06:02:58 |
+| Sunrise | 06:02:57 |
 | Dhuhr (Noon) | 12:49:10 |
 | Medium Coeli | 12:49:10 |
 | Sunset | 19:35:21 |
@@ -101,14 +101,14 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:26:46 |
-| Sunrise | 06:02:58 |
+| Sunrise | 06:02:57 |
 | Dhuhr (Noon) | 12:49:10 |
 | Medium Coeli | 12:49:10 |
 | Sunset | 19:35:21 |
 | Maghrib | 19:36:56 |
 | Isha (Night) | 21:00:41 |
 | Sharia Midnight | 00:01:12 |
-| Imum Coeli | 00:49:17 |
+| Imum Coeli | 00:49:16 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:34:55 |
-| Sunrise | 06:02:58 |
+| Sunrise | 06:02:57 |
 | Dhuhr (Noon) | 12:49:10 |
 | Medium Coeli | 12:49:10 |
 | Sunset | 19:35:21 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:32:23|Night duration: 10:27:52|
+|Duration of the day: 13:32:24|Night duration: 10:27:52|
 |Every hour of day duration: 01:07:42|Every hour of night duration: 00:52:19|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:02:58|07:10:38|Creating corruption, hatred and enmity|
+|1|Mars|Ruler|06:02:57|07:10:38|Creating corruption, hatred and enmity|
 |2|Sun|Servant|07:10:39|08:18:20|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|08:18:21|09:26:02|Attracting connection and suitors|
 |4|Mercury|Servant|09:26:03|10:33:44|Attracting material wealth, earnings and business prosperity|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°39'20.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°39'20.48" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°25'42.45" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|4°16'23.36" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°38'6.97" |Gemini|HaqAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°39'20.48" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°39'20.48" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|3°25'42.45" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|4°16'23.36" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|3°38'6.97" |Cancer|Nathrah|Venus|
