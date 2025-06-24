@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 15:37:34|Night duration: 08:22:47|
+|Duration of the day: 15:37:33|Night duration: 08:22:47|
 |Every hour of day duration: 01:18:08|Every hour of night duration: 00:41:54|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:42:55|07:01:01|Creating corruption, hatred and enmity|
-|2|Sun|Servant|07:01:02|08:19:09|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:19:10|09:37:17|Attracting connection and suitors|
-|4|Mercury|Servant|09:37:18|10:55:25|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:55:26|12:13:33|Attracting misfortune, no task is suitable|
+|1|Mars|Ruler|05:42:56|07:01:02|Creating corruption, hatred and enmity|
+|2|Sun|Servant|07:01:03|08:19:10|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:19:11|09:37:18|Attracting connection and suitors|
+|4|Mercury|Servant|09:37:19|10:55:26|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:55:27|12:13:33|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|12:13:34|13:31:41|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|13:31:42|14:49:48|Attracting love and hearts|
-|8|Mars|Ruler|14:49:49|16:07:56|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|16:07:57|17:26:04|Heart tenderness|
+|7|Jupiter|Servant|13:31:42|14:49:49|Attracting love and hearts|
+|8|Mars|Ruler|14:49:50|16:07:57|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|16:07:58|17:26:04|Heart tenderness|
 |10|Venus|Servant|17:26:05|18:44:12|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|18:44:13|20:02:20|Attracting connection and suitors|
 |12|Moon|Servant|20:02:21|21:20:28|Hatred, corruption and creating negative energy for disruption|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 15:37:34|Night duration: 08:22:47|
+|Duration of the day: 15:37:33|Night duration: 08:22:47|
 |Every hour duration: 02:13:56|Every hour duration: 01:11:50|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|05:42:55|07:56:50|
-|Mid-morning|Sun|Servant|07:56:51|10:10:46|
-|Late morning|Venus|Servant|10:10:47|12:24:42|
-|Noon|Mercury|Servant|12:24:43|14:38:39|
+|Early morning|Mars|Ruler|05:42:56|07:56:51|
+|Mid-morning|Sun|Servant|07:56:52|10:10:47|
+|Late morning|Venus|Servant|10:10:48|12:24:43|
+|Noon|Mercury|Servant|12:24:44|14:38:39|
 |Early afternoon|Moon|Servant|14:38:40|16:52:35|
 |Mid-afternoon|Saturn|Servant|16:52:36|19:06:31|
 |Late afternoon|Jupiter|Servant|19:06:32|21:20:28|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|1°37'54.93" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°15'15.72" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|3°50'14.46" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°54'10.48" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°35'34.34" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°22'53.25" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|15°9'47.00" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°54'19.17" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°35'37.01" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°23'3.59" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|15°54'11.73" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|2°54'19.17" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|18°35'37.01" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|26°23'3.59" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|15°54'11.73" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|15°54'11.28" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

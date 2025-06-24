@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:19:05 |
 | Isha (Night) | 18:12:02 |
 | Sharia Midnight | 23:25:33 |
-| Imum Coeli | 00:06:38 |
+| Imum Coeli | 00:06:39 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:04:52 |
 | Isha (Night) | 18:27:28 |
 | Sharia Midnight | 23:20:26 |
-| Imum Coeli | 00:06:38 |
+| Imum Coeli | 00:06:39 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:04:52 |
 | Isha (Night) | 18:32:35 |
 | Sharia Midnight | 23:20:26 |
-| Imum Coeli | 00:06:38 |
+| Imum Coeli | 00:06:39 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:04:52 |
 | Isha (Night) | 18:34:52 |
 | Sharia Midnight | 23:19:09 |
-| Imum Coeli | 00:06:38 |
+| Imum Coeli | 00:06:39 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°44'19.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|4°6'19.70" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|5°58'13.98" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°27'42.99" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|1°44'19.31" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|4°6'21.13" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|5°58'17.20" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°27'51.96" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|22°36'38.31" |Aries|Butain|Venus|
 |☿ Mercury|Direct|1°23'46.58" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|8°20'40.75" |Cancer|Nathrah|Venus|

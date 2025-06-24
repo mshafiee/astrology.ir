@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:28:20 |
+| Fajr (Dawn) | 03:28:21 |
 | Sunrise | 04:59:40 |
 | Dhuhr (Noon) | 11:51:54 |
 | Medium Coeli | 11:51:54 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:28:20 |
+| Fajr (Dawn) | 03:28:21 |
 | Sunrise | 04:59:40 |
 | Dhuhr (Noon) | 11:51:54 |
 | Medium Coeli | 11:51:54 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°39'27.06" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°26'32.06" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°18'27.06" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|3°41'33.72" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|19°28'42.98" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°32'43.48" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|28°18'36.19" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|3°26'31.74" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°18'26.85" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|3°41'33.51" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|19°28'43.13" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°32'43.10" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°17'21.49" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

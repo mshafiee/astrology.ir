@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|1°37'44.45" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|3°14'0.14" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|3°47'5.92" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|2°49'1.69" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°29'40.92" |Aries|Butain|Sun|
-|☿ Mercury|Direct|26°15'9.10" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|14°28'23.70" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°49'4.50" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°29'43.17" |Aries|Butain|Sun|
+|☿ Mercury|Direct|26°15'11.75" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|14°46'26.03" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|2°49'4.50" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|18°29'43.17" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|26°15'11.75" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|14°28'23.70" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|14°46'26.03" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°41'11.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|3°40'1.75" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|4°52'9.94" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|4°37'52.26" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°32'15.01" |Aries|Butain|Venus|
-|☿ Mercury|Direct|28°53'29.75" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|12°11'42.34" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|3°40'2.63" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|4°52'12.40" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|4°37'56.53" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°32'16.20" |Aries|Butain|Venus|
+|☿ Mercury|Direct|28°53'35.05" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|12°42'3.87" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Moon|Venus|Sagittarius|Moon|Saturn|
 |☿ Mercury|Venus|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°41'11.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°40'2.63" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°52'12.40" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|4°37'56.53" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°32'16.20" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|28°53'35.05" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|12°42'3.79" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|1°41'11.68" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|3°40'2.36" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°52'12.45" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|4°37'56.56" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°32'16.22" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|28°53'35.06" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|12°42'3.87" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

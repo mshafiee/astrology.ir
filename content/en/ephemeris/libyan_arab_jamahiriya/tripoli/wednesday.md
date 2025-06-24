@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:06:14 |
+| Fajr (Dawn) | 04:06:15 |
 | Sunrise | 06:00:14 |
 | Dhuhr (Noon) | 13:09:57 |
 | Medium Coeli | 13:09:57 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°39'47.45" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°29'6.62" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°24'52.68" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|3°52'17.97" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|19°40'48.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°48'19.49" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°59'8.07" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|3°29'6.40" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°24'50.28" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|3°52'17.29" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|19°40'51.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°48'16.88" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°56'59.75" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

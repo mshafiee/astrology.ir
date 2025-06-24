@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 08:59:27 |
 | Dhuhr (Noon) | 12:53:45 |
 | Medium Coeli | 12:53:45 |
-| Sunset | 16:48:04 |
+| Sunset | 16:48:05 |
 | Maghrib | 16:49:53 |
 | Isha (Night) | 18:51:05 |
-| Sharia Midnight | 23:45:39 |
+| Sharia Midnight | 23:45:40 |
 | Imum Coeli | 00:53:51 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 08:59:27 |
 | Dhuhr (Noon) | 12:53:45 |
 | Medium Coeli | 12:53:45 |
-| Sunset | 16:48:04 |
+| Sunset | 16:48:05 |
 | Maghrib | 16:49:53 |
 | Isha (Night) | 18:54:25 |
 | Sharia Midnight | 23:50:39 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°38'33.90" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|3°19'59.72" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°2'1.77" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|3°14'3.19" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|18°57'47.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|26°52'23.33" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|20°52'15.22" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|3°19'58.54" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°2'3.59" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|3°13'57.21" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°57'36.87" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|26°52'20.55" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|20°0'22.73" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
