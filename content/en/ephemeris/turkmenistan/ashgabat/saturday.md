@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°44'32.98" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°44'32.98" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|4°8'22.98" |Gemini|HaqAh|Jupiter|
 |♂ Mars|Direct|6°3'23.69" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°36'20.69" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|22°46'12.42" |Aries|Butain|Venus|
-|☿ Mercury|Direct|1°34'53.26" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°54'58.00" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|22°46'21.83" |Aries|Butain|Venus|
+|☿ Mercury|Direct|1°35'7.43" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|11°18'0.23" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Sun|
 |♀ Venus|Mars|Mars|Jupiter|Saturn|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Saturn|Venus|Capricorn|Moon|Saturn|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°44'32.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|4°8'22.98" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°3'23.69" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|1°44'32.98" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|4°8'20.70" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°3'19.36" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|6°36'7.19" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|22°46'12.42" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|1°34'53.26" |Leo|Jabhah|Saturn|

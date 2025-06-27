@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:09:34 |
 | Maghrib | 19:27:11 |
 | Isha (Night) | 20:21:54 |
-| Sharia Midnight | 23:28:20 |
+| Sharia Midnight | 23:28:19 |
 | Imum Coeli | 00:10:16 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°46'4.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|4°22'35.36" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|6°39'14.82" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°35'45.81" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|23°53'56.79" |Aries|Butain|Venus|
-|☿ Mercury|Direct|2°51'49.95" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|25°5'45.20" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|1°46'4.28" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|4°22'35.63" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|6°39'14.78" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°35'45.78" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|23°53'56.77" |Aries|Butain|Venus|
+|☿ Mercury|Direct|2°51'49.94" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|25°5'44.67" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°46'4.18" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|4°22'35.36" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°39'14.82" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|7°35'45.81" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|23°53'56.79" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|2°51'49.95" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|25°5'45.20" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|1°46'4.28" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|4°22'35.56" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°39'14.60" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|7°35'45.45" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|23°53'56.67" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|2°51'49.51" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|25°3'17.20" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
