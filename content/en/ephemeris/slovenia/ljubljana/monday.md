@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:58:13 |
+| Fajr (Dawn) | 01:58:14 |
 | Sunrise | 05:14:18 |
 | Dhuhr (Noon) | 13:05:43 |
 | Medium Coeli | 13:05:43 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°47'31.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|4°37'9.57" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°16'6.98" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°36'41.10" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|25°3'27.34" |Aries|Butain|Venus|
-|☿ Mercury|Direct|4°7'16.81" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|8°39'18.27" |Leo|Zubrah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°47'31.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|4°37'9.30" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°16'7.02" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°36'41.13" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|25°3'27.36" |Aries|Butain|Venus|
+|☿ Mercury|Direct|4°7'23.32" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°34'50.64" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°47'31.18" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|4°37'9.57" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|7°16'6.98" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|8°36'41.10" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|25°3'27.34" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°47'31.08" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|4°37'9.30" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|7°16'7.02" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|8°36'41.13" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|25°3'27.36" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|4°7'23.32" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°34'50.36" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|8°34'50.64" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

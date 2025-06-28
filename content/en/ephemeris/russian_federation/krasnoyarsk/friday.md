@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:03:35 |
+| Sunrise | 04:03:36 |
 | Dhuhr (Noon) | 12:51:37 |
 | Medium Coeli | 12:51:37 |
 | Sunset | 21:39:20 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:03:35 |
+| Sunrise | 04:03:36 |
 | Dhuhr (Noon) | 12:51:37 |
 | Medium Coeli | 12:51:37 |
 | Sunset | 21:39:20 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:03:35 |
+| Sunrise | 04:03:36 |
 | Dhuhr (Noon) | 12:51:37 |
 | Medium Coeli | 12:51:37 |
 | Sunset | 21:39:20 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 17:35:45|Night duration: 06:24:53|
+|Duration of the day: 17:35:44|Night duration: 06:24:53|
 |Every hour of day duration: 01:27:59|Every hour of night duration: 00:32:04|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|04:03:35|05:31:32|Love, creating love and attracting hearts|
-|2|Mercury|Servant|05:31:33|06:59:31|Attracting auspiciousness|
-|3|Moon|Servant|06:59:32|08:27:30|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|08:27:31|09:55:29|Unfortunate hour|
-|5|Jupiter|Servant|09:55:30|11:23:27|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:23:28|12:51:26|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:51:27|14:19:25|Promotion and attracting wealth|
+|1|Venus|Ruler|04:03:36|05:31:33|Love, creating love and attracting hearts|
+|2|Mercury|Servant|05:31:34|06:59:32|Attracting auspiciousness|
+|3|Moon|Servant|06:59:33|08:27:31|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|08:27:32|09:55:29|Unfortunate hour|
+|5|Jupiter|Servant|09:55:30|11:23:28|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:23:29|12:51:27|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:51:28|14:19:25|Promotion and attracting wealth|
 |8|Venus|Ruler|14:19:26|15:47:24|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|15:47:25|17:15:22|Causing separation and homelessness|
-|10|Moon|Servant|17:15:23|18:43:21|Extremely unfortunate|
+|9|Mercury|Servant|15:47:25|17:15:23|Causing separation and homelessness|
+|10|Moon|Servant|17:15:24|18:43:21|Extremely unfortunate|
 |11|Saturn|Servant|18:43:22|20:11:20|Creating an unfortunate horoscope for anyone|
 |12|Jupiter|Servant|20:11:21|21:39:19|Suitable for asking for a need|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°44'18.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|4°6'15.78" |Gemini|HaqAh|Jupiter|
-|♂ Mars|Direct|5°58'3.86" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|6°27'28.30" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|22°36'18.11" |Aries|Butain|Venus|
-|☿ Mercury|Direct|1°23'25.90" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|8°57'58.08" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|1°44'18.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|4°6'15.14" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|5°58'2.00" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|6°27'24.76" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|22°36'16.83" |Aries|Butain|Venus|
+|☿ Mercury|Direct|1°23'21.49" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°30'44.33" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Saturn|Venus|Capricorn|Moon|Saturn|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°44'18.79" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°44'18.79" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|4°6'15.78" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|5°58'3.86" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|6°27'28.30" |Cancer|Nathrah|Venus|

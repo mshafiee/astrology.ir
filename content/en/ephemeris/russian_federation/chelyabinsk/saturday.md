@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:16:27 |
-| Dhuhr (Noon) | 12:57:35 |
-| Medium Coeli | 12:57:35 |
+| Dhuhr (Noon) | 12:57:36 |
+| Medium Coeli | 12:57:36 |
 | Sunset | 21:38:24 |
 | Maghrib | 22:14:55 |
 | Isha (Night) | Circumpolar Angle |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:16:27 |
-| Dhuhr (Noon) | 12:57:35 |
-| Medium Coeli | 12:57:35 |
+| Dhuhr (Noon) | 12:57:36 |
+| Medium Coeli | 12:57:36 |
 | Sunset | 21:38:24 |
 | Maghrib | 22:20:50 |
 | Isha (Night) | Circumpolar Angle |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:16:27 |
-| Dhuhr (Noon) | 12:57:35 |
-| Medium Coeli | 12:57:35 |
+| Dhuhr (Noon) | 12:57:36 |
+| Medium Coeli | 12:57:36 |
 | Sunset | 21:38:24 |
 | Maghrib | 21:43:34 |
 | Isha (Night) | Circumpolar Angle |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:16:27 |
-| Dhuhr (Noon) | 12:57:35 |
-| Medium Coeli | 12:57:35 |
+| Dhuhr (Noon) | 12:57:36 |
+| Medium Coeli | 12:57:36 |
 | Sunset | 21:38:24 |
 | Maghrib | 21:43:34 |
 | Isha (Night) | Circumpolar Angle |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:16:27 |
-| Dhuhr (Noon) | 12:57:35 |
-| Medium Coeli | 12:57:35 |
+| Dhuhr (Noon) | 12:57:36 |
+| Medium Coeli | 12:57:36 |
 | Sunset | 21:38:24 |
 | Maghrib | 21:43:34 |
 | Isha (Night) | 23:13:34 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°45'55.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°45'55.71" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|4°21'13.15" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|6°35'47.09" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|7°29'59.99" |Gemini|HanAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°45'55.71" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°45'55.71" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|4°21'13.15" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|6°35'47.09" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|7°29'59.99" |Cancer|Nathrah|Venus|
