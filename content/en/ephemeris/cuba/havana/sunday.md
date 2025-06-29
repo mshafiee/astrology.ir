@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:15:49 |
+| Fajr (Dawn) | 05:15:50 |
 | Sunrise | 06:46:41 |
 | Dhuhr (Noon) | 13:33:07 |
 | Medium Coeli | 13:33:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°47'55.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|4°41'27.95" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°27'1.73" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°54'42.88" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|25°24'2.97" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|1°47'55.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|4°41'27.68" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°27'1.77" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°54'42.90" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|25°24'2.99" |Aries|Butain|Venus|
 |☿ Mercury|Direct|4°29'7.47" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|12°37'26.06" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°37'26.24" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°47'55.59" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|4°41'27.95" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|7°27'1.73" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|8°54'42.88" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|25°24'2.97" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°47'55.49" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|4°41'27.68" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|7°27'1.77" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|8°54'42.90" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|25°24'2.99" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|4°29'7.47" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°37'26.06" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|12°37'26.24" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

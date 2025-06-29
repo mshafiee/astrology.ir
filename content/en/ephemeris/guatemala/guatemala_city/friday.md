@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:05:15 |
 | Medium Coeli | 12:05:15 |
 | Sunset | 18:34:33 |
-| Maghrib | 18:39:18 |
+| Maghrib | 18:39:19 |
 | Isha (Night) | 19:56:07 |
 | Sharia Midnight | 23:24:34 |
 | Imum Coeli | 00:05:21 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:05:15 |
 | Medium Coeli | 12:05:15 |
 | Sunset | 18:34:33 |
-| Maghrib | 18:39:18 |
-| Isha (Night) | 20:09:18 |
+| Maghrib | 18:39:19 |
+| Isha (Night) | 20:09:19 |
 | Sharia Midnight | 23:23:22 |
 | Imum Coeli | 00:05:21 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°45'13.51" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|4°14'34.12" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°18'58.88" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|7°2'12.54" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|23°15'45.01" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|2°8'52.19" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°28'46.51" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|1°45'13.41" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|4°14'33.85" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°18'58.92" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|7°2'12.57" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|23°15'45.03" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|2°8'52.20" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°28'47.10" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

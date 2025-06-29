@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:39:13 |
 | Sunset | 21:46:23 |
 | Maghrib | 21:51:18 |
-| Isha (Night) | 01:30:52 |
+| Isha (Night) | 01:30:51 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:39:19 |
 {{< /tab >}}
