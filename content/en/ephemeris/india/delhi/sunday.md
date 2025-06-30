@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:47:19 |
-| Sunrise | 05:25:55 |
+| Sunrise | 05:25:54 |
 | Dhuhr (Noon) | 12:24:35 |
 | Medium Coeli | 12:24:35 |
 | Sunset | 19:23:09 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:57:14|Night duration: 10:03:07|
+|Duration of the day: 13:57:15|Night duration: 10:03:07|
 |Every hour of day duration: 01:09:46|Every hour of night duration: 00:50:16|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:25:55|06:35:40|Love and attraction of capital|
-|2|Venus|Servant|06:35:41|07:45:26|Unfortunate, no task is suitable|
-|3|Mercury|Servant|07:45:27|08:55:12|Operations of tenderness and attraction of love|
-|4|Moon|Servant|08:55:13|10:04:58|Unfortunate and repelling goodness|
+|1|Sun|Ruler|05:25:54|06:35:39|Love and attraction of capital|
+|2|Venus|Servant|06:35:40|07:45:25|Unfortunate, no task is suitable|
+|3|Mercury|Servant|07:45:26|08:55:11|Operations of tenderness and attraction of love|
+|4|Moon|Servant|08:55:12|10:04:58|Unfortunate and repelling goodness|
 |5|Saturn|Servant|10:04:59|11:14:44|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|11:14:45|12:24:31|Suitable for all good deeds|
-|7|Mars|Servant|12:24:32|13:34:17|No task is suitable, causes misfortune|
-|8|Sun|Ruler|13:34:18|14:44:03|Extremely auspicious and attracts happiness|
+|6|Jupiter|Servant|11:14:45|12:24:30|Suitable for all good deeds|
+|7|Mars|Servant|12:24:31|13:34:16|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:34:17|14:44:03|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|14:44:04|15:53:49|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|15:53:50|17:03:35|Attracting happiness, solving financial problems|
 |11|Moon|Servant|17:03:36|18:13:21|Performing promises|

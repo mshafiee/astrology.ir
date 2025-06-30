@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:13:52 |
 | Medium Coeli | 13:13:52 |
 | Sunset | 21:56:06 |
-| Maghrib | 22:33:06 |
+| Maghrib | 22:33:07 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:13:57 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°49'53.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°4'4.51" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|8°24'33.59" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°29'23.28" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°12'33.46" |Aries|Thurayya|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|1°49'54.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°4'4.78" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°24'33.55" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°29'23.26" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°12'33.44" |Aries|Thurayya|Venus|
 |☿ Mercury|Direct|6°18'34.48" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°41'45.33" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°41'45.48" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°49'53.92" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|5°4'4.51" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|8°24'33.59" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|10°29'23.28" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°12'33.46" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°49'54.02" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°4'4.78" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|8°24'33.55" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|10°29'23.26" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|27°12'33.44" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|6°18'34.48" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°41'45.33" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°41'45.48" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:43:34 |
 | Sunset | 20:45:27 |
 | Maghrib | 20:47:27 |
-| Isha (Night) | 00:22:03 |
+| Isha (Night) | 00:22:04 |
 | Sharia Midnight | 22:55:25 |
 | Imum Coeli | 00:43:40 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°47'26.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|4°36'16.30" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|7°13'52.76" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°32'59.29" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|24°59'14.06" |Aries|Butain|Venus|
-|☿ Mercury|Direct|4°2'53.77" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|7°44'56.91" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°47'26.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|4°36'16.57" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|7°13'52.73" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°32'59.26" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|24°59'14.04" |Aries|Butain|Venus|
+|☿ Mercury|Direct|4°2'53.76" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|7°44'56.62" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°47'26.00" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|4°36'16.30" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|7°13'52.76" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|8°32'59.29" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|24°59'14.06" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|4°2'53.77" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|7°44'56.91" |Virgo|Awwa|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°47'26.10" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|4°36'17.06" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|7°13'53.52" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|8°33'1.88" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|24°59'15.95" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|4°2'56.53" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|7°54'59.40" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:25:28|Night duration: 09:35:02|
+|Duration of the day: 14:25:28|Night duration: 09:35:01|
 |Every hour duration: 02:03:38|Every hour duration: 01:22:09|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mars|Ruler|19:16:20|20:38:27|
 |Late evening|Sun|Servant|20:38:28|22:00:36|
 |Midnight|Venus|Servant|22:00:37|23:22:45|
-|Late at night|Mercury|Servant|23:22:46|00:44:54|
-|Rooster song|Moon|Servant|00:44:55|02:07:03|
-|False Dawn|Saturn|Servant|02:07:04|03:29:12|
-|Dawn|Jupiter|Servant|03:29:13|04:51:21|
+|Late at night|Mercury|Servant|23:22:46|00:44:53|
+|Rooster song|Moon|Servant|00:44:54|02:07:02|
+|False Dawn|Saturn|Servant|02:07:03|03:29:11|
+|Dawn|Jupiter|Servant|03:29:12|04:51:20|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°52'33.23" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°41'13.22" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°59'39.30" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|13°5'10.80" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|0°12'3.57" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|9°0'33.42" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°47'19.33" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°41'13.49" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°59'39.24" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|13°5'10.77" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|0°12'3.58" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|9°0'33.38" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°47'9.21" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°52'33.13" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|5°41'13.23" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|9°59'39.31" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|13°5'10.83" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°12'3.63" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|9°0'33.42" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|4°47'9.32" |Scorpio|Akleel|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°52'33.23" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°41'13.49" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|9°59'39.24" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|13°5'10.77" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°12'3.58" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|9°0'33.38" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|4°47'9.21" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

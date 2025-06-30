@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:43:50 |
-| Sunrise | 05:08:45 |
+| Sunrise | 05:08:44 |
 | Dhuhr (Noon) | 12:50:42 |
 | Medium Coeli | 12:50:42 |
 | Sunset | 20:32:24 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:24:13 |
-| Sunrise | 05:08:45 |
+| Sunrise | 05:08:44 |
 | Dhuhr (Noon) | 12:50:42 |
 | Medium Coeli | 12:50:42 |
 | Sunset | 20:32:24 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 15:23:39|Night duration: 08:36:56|
+|Duration of the day: 15:23:40|Night duration: 08:36:56|
 |Every hour of day duration: 01:16:58|Every hour of night duration: 00:43:05|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|05:08:45|06:25:42|Acceptance of needs|
-|2|Moon|Servant|06:25:43|07:42:40|Unfortunate, no task is suitable|
-|3|Saturn|Servant|07:42:41|08:59:38|For overcoming diseases|
-|4|Jupiter|Servant|08:59:39|10:16:37|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:16:38|11:33:35|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:33:36|12:50:33|Outer and inner journey|
+|1|Mercury|Ruler|05:08:44|06:25:41|Acceptance of needs|
+|2|Moon|Servant|06:25:42|07:42:39|Unfortunate, no task is suitable|
+|3|Saturn|Servant|07:42:40|08:59:38|For overcoming diseases|
+|4|Jupiter|Servant|08:59:39|10:16:36|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:16:37|11:33:34|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:33:35|12:50:33|Outer and inner journey|
 |7|Venus|Servant|12:50:34|14:07:31|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|14:07:32|15:24:30|Being invisible to the people|
-|9|Moon|Servant|15:24:31|16:41:28|Separation, causing enmity|
+|8|Mercury|Ruler|14:07:32|15:24:29|Being invisible to the people|
+|9|Moon|Servant|15:24:30|16:41:28|Separation, causing enmity|
 |10|Saturn|Servant|16:41:29|17:58:26|Dominating the great ones|
 |11|Jupiter|Servant|17:58:27|19:15:24|Creating financial and emotional attraction and dominance|
 |12|Mars|Servant|19:15:25|20:32:23|Creating evil and hatred|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°49'55.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°4'24.99" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|8°25'22.71" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°30'45.86" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°14'16.70" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|6°20'2.77" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°3'54.69" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|1°49'55.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°4'26.63" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°25'31.61" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°30'54.57" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°14'12.78" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|6°20'19.33" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°43'32.68" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |☿ Mercury|Saturn|Sun|Virgo|Moon|Moon|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°49'55.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|5°4'24.71" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|8°25'22.69" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|10°30'45.82" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°14'16.66" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|6°20'2.73" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°3'54.22" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|5°4'26.52" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|8°25'28.60" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|10°30'54.79" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|27°14'17.91" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|6°20'16.18" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°2'7.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Saturn|
 |☿ Mercury|Venus|Venus|Libra|Sun|Sun|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
