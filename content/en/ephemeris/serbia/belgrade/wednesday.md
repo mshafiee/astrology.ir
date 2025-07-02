@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 20:27:46 |
 | Maghrib | 20:30:21 |
 | Isha (Night) | 22:24:11 |
-| Sharia Midnight | 23:44:12 |
+| Sharia Midnight | 23:44:13 |
 | Imum Coeli | 00:42:21 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|1°49'55.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°4'19.10" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|8°25'7.54" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°30'23.26" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°13'46.91" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|5°4'18.83" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°25'7.58" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°30'23.29" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°13'46.93" |Aries|Thurayya|Venus|
 |☿ Mercury|Direct|6°19'38.27" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°17'8.10" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°17'7.94" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°49'55.22" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|5°4'19.52" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|8°25'10.79" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|10°30'25.45" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°13'44.27" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°49'55.12" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°4'19.25" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|8°25'10.83" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|10°30'25.48" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|27°13'44.29" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|6°19'43.56" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°55'53.41" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°55'53.26" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
