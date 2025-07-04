@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:33:36 |
 | Dhuhr (Noon) | 12:23:19 |
 | Medium Coeli | 12:23:19 |
-| Sunset | 19:12:53 |
+| Sunset | 19:12:54 |
 | Maghrib | 19:32:08 |
 | Isha (Night) | 20:21:02 |
 | Sharia Midnight | 23:39:21 |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:33:36 |
 | Dhuhr (Noon) | 12:23:19 |
 | Medium Coeli | 12:23:19 |
-| Sunset | 19:12:53 |
+| Sunset | 19:12:54 |
 | Maghrib | 19:13:59 |
 | Isha (Night) | 20:37:15 |
 | Sharia Midnight | 23:38:31 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:33:36 |
 | Dhuhr (Noon) | 12:23:19 |
 | Medium Coeli | 12:23:19 |
-| Sunset | 19:12:54 |
+| Sunset | 19:12:53 |
 | Maghrib | 19:13:59 |
 | Isha (Night) | 20:40:00 |
-| Sharia Midnight | 23:34:20 |
+| Sharia Midnight | 23:34:19 |
 | Imum Coeli | 00:23:24 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:33:36 |
 | Dhuhr (Noon) | 12:23:19 |
 | Medium Coeli | 12:23:19 |
-| Sunset | 19:12:54 |
+| Sunset | 19:12:53 |
 | Maghrib | 19:13:59 |
 | Isha (Night) | 20:42:46 |
 | Sharia Midnight | 23:38:31 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°54'10.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°54'10.77" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°11'40.46" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°18'13.78" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|15°13'11.14" |Gemini|HanAh|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°54'10.77" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°54'10.77" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°11'40.46" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|11°18'13.78" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|15°13'11.14" |Cancer|Tarf|Mercury|

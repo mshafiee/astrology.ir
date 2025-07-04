@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:10:27 |
 | Medium Coeli | 12:10:27 |
 | Sunset | 18:35:32 |
-| Maghrib | 18:38:13 |
+| Maghrib | 18:38:14 |
 | Isha (Night) | 19:52:45 |
 | Sharia Midnight | 23:27:14 |
 | Imum Coeli | 00:10:32 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:10:27 |
 | Medium Coeli | 12:10:27 |
 | Sunset | 18:35:32 |
-| Maghrib | 18:38:13 |
+| Maghrib | 18:38:14 |
 | Isha (Night) | 19:55:06 |
 | Sharia Midnight | 23:30:47 |
 | Imum Coeli | 00:10:32 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:10:27 |
 | Medium Coeli | 12:10:27 |
 | Sunset | 18:35:32 |
-| Maghrib | 18:38:13 |
-| Isha (Night) | 20:08:13 |
+| Maghrib | 18:38:14 |
+| Isha (Night) | 20:08:14 |
 | Sharia Midnight | 23:29:36 |
 | Imum Coeli | 00:10:32 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°51'5.83" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°51'5.83" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°19'35.08" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|9°4'8.71" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|11°34'23.23" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|28°27'17.04" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°28'59.23" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|16°31'36.71" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|7°28'58.33" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|16°10'36.10" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°51'5.83" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°51'5.83" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|5°19'35.08" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|9°4'8.71" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|11°34'23.23" |Cancer|Nathrah|Mercury|

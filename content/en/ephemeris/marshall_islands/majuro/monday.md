@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|06:23:40|07:26:16|Repelling magic, attracting discharged energy|
 |2|Saturn|Servant|07:26:17|08:28:53|Outer and inner journey|
-|3|Jupiter|Servant|08:28:54|09:31:30|Marriage connection is good|
+|3|Jupiter|Servant|08:28:54|09:31:30|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|09:31:31|10:34:07|Repelling and destroying enemies and discharging enemy energy|
 |5|Sun|Servant|10:34:08|11:36:44|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|11:36:45|12:39:21|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°54'35.31" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°54'35.31" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°21'12.81" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°42'56.60" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|15°53'19.47" |Gemini|HanAh|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°54'35.31" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°54'35.31" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°21'12.81" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|11°42'56.60" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|15°53'19.47" |Cancer|Tarf|Mercury|

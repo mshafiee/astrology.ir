@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:28:28 |
 | Maghrib | 18:45:14 |
 | Isha (Night) | 19:36:44 |
-| Sharia Midnight | 22:59:08 |
+| Sharia Midnight | 22:59:07 |
 | Imum Coeli | 23:38:36 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°52'45.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°52'45.53" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°44'36.33" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°8'20.79" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|13°19'22.64" |Gemini|HanAh|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°52'45.53" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°52'45.53" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|5°44'36.33" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|10°8'20.79" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|13°19'22.64" |Cancer|Tarf|Mercury|

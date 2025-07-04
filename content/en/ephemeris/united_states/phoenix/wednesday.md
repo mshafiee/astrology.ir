@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°51'22.11" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°23'19.59" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°13'48.99" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|11°50'3.25" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°45'17.31" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°45'24.53" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|20°20'10.93" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|1°51'22.01" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°23'20.71" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°13'47.31" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|11°50'10.38" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|28°45'28.65" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°45'28.13" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|19°25'58.54" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Jupiter|Saturn|Venus|Moon|
+|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°51'22.01" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°51'22.01" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|5°23'20.71" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|9°13'47.31" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|11°50'10.38" |Cancer|Nathrah|Mercury|

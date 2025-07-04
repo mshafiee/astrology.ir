@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'45.02" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°2'36.51" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°54'50.98" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°34'57.57" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|1°56'3.86" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|10°23'0.29" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|24°38'45.92" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|1°53'45.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|6°2'38.95" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°54'52.15" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°35'12.11" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|1°56'19.48" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|10°23'13.51" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|23°11'42.20" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
+|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'45.02" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°53'45.02" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°2'38.95" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|10°54'52.15" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|14°35'12.11" |Cancer|Tarf|Mercury|

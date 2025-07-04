@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:09:13 |
+| Fajr (Dawn) | 05:09:12 |
 | Sunrise | 06:11:43 |
 | Dhuhr (Noon) | 12:06:53 |
 | Medium Coeli | 12:06:53 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'24.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°53'24.87" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°56'10.51" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°38'9.13" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|14°7'58.95" |Gemini|HanAh|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'24.87" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°53'24.87" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|5°56'10.51" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|10°38'9.13" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|14°7'58.95" |Cancer|Tarf|Mercury|

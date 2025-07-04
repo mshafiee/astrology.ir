@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'25.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°56'24.62" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°38'46.57" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°8'56.62" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|1°25'56.01" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|9°59'56.15" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|18°7'6.33" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|1°53'25.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°56'25.96" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°38'49.13" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°9'4.04" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|1°26'0.87" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|10°0'5.22" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|17°49'14.30" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -315,7 +315,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Venus|Mercury|Jupiter|Sun|
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
-|☿ Mercury|Venus|Jupiter|Moon|Saturn|
+|☿ Mercury|Venus|Jupiter|Mars|Moon|
 |☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
@@ -326,7 +326,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Mercury|Moon|Sagittarius|Sun|Sun|
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
-|☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
+|☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
 |☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'25.70" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°53'25.70" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|5°56'25.96" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|10°38'49.13" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|14°9'4.04" |Cancer|Tarf|Mercury|

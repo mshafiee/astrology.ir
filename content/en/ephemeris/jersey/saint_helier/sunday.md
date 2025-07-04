@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Mars|Servant|21:54:53|22:34:35|Unfortunate, no task is suitable|
 |3|Sun|Servant|22:34:36|23:14:17|Operations of tenderness and attraction of love|
 |4|Venus|Servant|23:14:18|23:54:00|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Mercury|Servant|23:54:01|00:33:42|Separation, vengeful and hostile deeds|
+|5|Mercury|Servant|23:54:01|00:33:42|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Moon|Servant|00:33:43|01:13:25|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Saturn|Servant|01:13:26|01:53:08|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Jupiter|Ruler|01:53:09|02:32:50|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'35.57" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°53'35.57" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°59'33.45" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°46'53.72" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|14°22'11.59" |Gemini|HanAh|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'35.57" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°53'35.57" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|5°59'33.45" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|10°46'53.72" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|14°22'11.59" |Cancer|Tarf|Mercury|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°51'0.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°18'16.72" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|9°0'48.20" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|11°28'54.45" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°20'58.51" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|7°23'11.38" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|15°3'17.23" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|1°50'59.97" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°18'16.57" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|9°0'46.56" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|11°28'53.96" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|28°21'0.56" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|7°23'9.14" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|14°42'40.69" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Saturn|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
+|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°51'0.07" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|5°18'16.72" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|9°0'48.20" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|11°28'54.45" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|28°20'58.51" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|1°51'0.07" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°18'16.45" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|9°0'48.24" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|11°28'54.47" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|28°20'58.53" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|7°23'11.38" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|15°3'17.23" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|15°3'16.93" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
