@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°53'30.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°53'30.34" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°57'53.34" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°42'35.61" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|14°15'10.24" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|1°33'7.15" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|10°5'32.21" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|19°21'51.20" |Libra|Jubana|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|10°5'23.16" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|20°21'37.07" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°53'30.34" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°53'30.34" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|5°57'53.34" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|10°42'35.61" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|14°15'10.24" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|1°33'7.15" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|10°5'32.21" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|10°5'32.21" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|19°21'51.20" |Scorpio|Qalb|Sun|
 
 

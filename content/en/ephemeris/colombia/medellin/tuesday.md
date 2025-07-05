@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:27:24|Night duration: 11:32:49|
+|Duration of the day: 12:27:24|Night duration: 11:32:48|
 |Every hour duration: 01:46:46|Every hour duration: 01:38:58|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|18:21:07|20:00:04|
 |Late evening|Jupiter|Servant|20:00:05|21:39:02|
-|Midnight|Mars|Servant|21:39:03|23:18:01|
-|Late at night|Sun|Servant|23:18:02|00:56:59|
-|Rooster song|Venus|Servant|00:57:00|02:35:58|
-|False Dawn|Mercury|Servant|02:35:59|04:14:56|
-|Dawn|Moon|Servant|04:14:57|05:53:55|
+|Midnight|Mars|Servant|21:39:03|23:18:00|
+|Late at night|Sun|Servant|23:18:01|00:56:59|
+|Rooster song|Venus|Servant|00:57:00|02:35:57|
+|False Dawn|Mercury|Servant|02:35:58|04:14:55|
+|Dawn|Moon|Servant|04:14:56|05:53:54|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°55'21.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°44'6.16" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|12°42'31.72" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°29'50.65" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|5°19'40.67" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°38'44.31" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|0°8'46.44" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|1°55'21.97" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|6°44'6.42" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|12°42'31.65" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°29'50.57" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|5°19'40.62" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°38'44.25" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|0°8'45.44" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°55'21.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|6°44'6.16" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°42'31.72" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|17°29'50.65" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°19'40.67" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°38'44.31" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°8'46.44" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|1°55'21.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°44'6.42" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°42'31.65" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|17°29'50.57" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|5°19'40.62" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°38'44.25" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|0°8'45.44" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

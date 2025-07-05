@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Mercury|Ruler|13:50:18|15:03:24|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Moon|Servant|15:03:25|16:16:32|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Saturn|Servant|16:16:33|17:29:39|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Jupiter|Servant|17:29:40|18:42:46|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Jupiter|Servant|17:29:40|18:42:46|Creating financial and emotional attraction and dominance|
 |12|Mars|Servant|18:42:47|19:55:54|Creating evil and hatred|
 
  
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°55'30.36" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°55'30.36" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°49'25.12" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|12°56'24.44" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|17°52'15.87" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|5°45'53.58" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°53'35.93" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°53'35.93" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|5°12'28.36" |Sagittarius|NaAaem|Mercury|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°55'30.36" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°55'30.36" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°49'25.12" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|12°56'24.44" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|17°52'15.87" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|5°45'53.58" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°53'35.93" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°53'35.93" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|5°12'28.36" |Capricorn|SaadAlDhabib|Jupiter|
 
 

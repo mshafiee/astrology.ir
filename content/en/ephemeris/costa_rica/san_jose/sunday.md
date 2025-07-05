@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°54'25.44" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°54'25.44" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°17'13.56" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°32'35.99" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|15°36'32.08" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|3°7'24.34" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|11°14'37.41" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|7°1'37.76" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|3°7'35.01" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|11°14'40.31" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|5°57'1.35" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°54'25.44" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°54'25.44" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°17'13.56" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|11°32'35.99" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|15°36'32.08" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|3°7'35.01" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|11°14'40.31" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|11°14'40.31" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|5°57'1.35" |Sagittarius|NaAaem|Mercury|
 
 

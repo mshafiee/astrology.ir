@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Moon|Ruler|06:37:07|07:35:06|Repelling magic, attracting discharged energy|
 |2|Saturn|Servant|07:35:07|08:33:06|Outer and inner journey|
 |3|Jupiter|Servant|08:33:07|09:31:06|Marriage connection is good|
-|4|Mars|Servant|09:31:07|10:29:07|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Mars|Servant|09:31:07|10:29:07|Repelling and destroying enemies and discharging enemy energy|
 |5|Sun|Servant|10:29:08|11:27:07|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|11:27:08|12:25:07|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Mercury|Servant|12:25:08|13:23:07|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°54'36.96" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°54'36.96" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°21'54.26" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°44'44.18" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|15°56'13.83" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|3°30'30.34" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|11°30'19.36" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|11°30'19.36" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|10°7'19.82" |Scorpio|Qalb|Sun|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°54'36.96" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°54'36.96" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°21'54.26" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|11°44'44.18" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|15°56'13.83" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|3°30'30.34" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|11°30'19.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|11°30'19.36" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|10°7'19.82" |Sagittarius|NaAaem|Moon|
 
 

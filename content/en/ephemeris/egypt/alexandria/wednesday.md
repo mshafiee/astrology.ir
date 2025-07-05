@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°55'14.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°55'14.27" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°39'40.46" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|12°30'58.15" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|17°11'8.20" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|4°57'50.23" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°25'51.90" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|26°11'2.47" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|12°25'35.88" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|27°1'28.88" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°55'14.27" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°55'14.27" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°39'40.46" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|12°30'58.15" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|17°11'8.20" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|4°57'50.23" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°25'51.90" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°25'51.90" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|26°11'2.47" |Sagittarius|Baldah|Saturn|
 
 

@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:06:25|Night duration: 12:53:33|
+|Duration of the day: 11:06:25|Night duration: 12:53:32|
 |Every hour duration: 01:35:12|Every hour duration: 01:50:30|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Sun|Ruler|17:34:19|19:24:48|
 |Late evening|Venus|Servant|19:24:49|21:15:18|
-|Midnight|Mercury|Servant|21:15:19|23:05:49|
-|Late at night|Moon|Servant|23:05:50|00:56:19|
-|Rooster song|Saturn|Servant|00:56:20|02:46:50|
-|False Dawn|Jupiter|Servant|02:46:51|04:37:20|
-|Dawn|Mars|Servant|04:37:21|06:27:51|
+|Midnight|Mercury|Servant|21:15:19|23:05:48|
+|Late at night|Moon|Servant|23:05:49|00:56:19|
+|Rooster song|Saturn|Servant|00:56:20|02:46:49|
+|False Dawn|Jupiter|Servant|02:46:50|04:37:19|
+|Dawn|Mars|Servant|04:37:20|06:27:50|
 
 {{< /tab >}}
 
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°55'15.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|1°55'15.70" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°40'28.32" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|12°33'2.70" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|17°14'29.79" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|5°1'45.52" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°28'12.40" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°28'12.40" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|26°54'21.50" |Scorpio|Shaulah|Venus|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°55'15.70" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°55'15.70" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°40'28.32" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|12°33'2.70" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|17°14'29.79" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|5°1'45.52" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°28'12.40" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°28'12.40" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|26°54'21.50" |Sagittarius|Baldah|Saturn|
 
 

@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 14:39:55|Night duration: 09:20:41|
+|Duration of the day: 14:39:55|Night duration: 09:20:40|
 |Every hour duration: 02:05:42|Every hour duration: 01:20:06|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Venus|Ruler|20:14:52|21:34:56|
 |Late evening|Mercury|Servant|21:34:57|22:55:02|
 |Midnight|Moon|Servant|22:55:03|00:15:08|
-|Late at night|Saturn|Servant|00:15:09|01:35:14|
-|Rooster song|Jupiter|Servant|01:35:15|02:55:20|
-|False Dawn|Mars|Servant|02:55:21|04:15:26|
-|Dawn|Sun|Servant|04:15:27|05:35:32|
+|Late at night|Saturn|Servant|00:15:09|01:35:13|
+|Rooster song|Jupiter|Servant|01:35:14|02:55:19|
+|False Dawn|Mars|Servant|02:55:20|04:15:25|
+|Dawn|Sun|Servant|04:15:26|05:35:31|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°54'12.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°12'15.08" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|11°19'44.81" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|15°15'36.66" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|2°43'13.73" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|10°57'35.76" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|1°52'56.85" |Scorpio|Akleel|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°54'12.43" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|6°12'15.36" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|11°19'44.77" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|15°15'36.63" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|2°43'13.72" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|10°57'35.74" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°52'56.80" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°54'12.43" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|1°54'12.43" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°12'15.28" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|11°19'43.44" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|15°15'36.28" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|2°43'15.42" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|10°57'33.80" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|10°57'33.80" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|1°41'55.26" |Sagittarius|Shaulah|Mercury|
 
 
