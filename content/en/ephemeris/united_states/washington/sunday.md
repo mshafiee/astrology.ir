@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:13:01 |
 | Sunset | 20:36:37 |
 | Maghrib | 20:37:56 |
-| Isha (Night) | 22:34:56 |
+| Isha (Night) | 22:34:55 |
 | Sharia Midnight | 00:14:01 |
 | Imum Coeli | 01:13:06 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°54'23.23" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°54'23.23" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°16'21.44" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°30'21.27" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|15°32'52.35" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|3°3'20.09" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|11°11'43.74" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|5°8'44.64" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|11°11'42.27" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|5°19'18.28" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°54'23.23" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|6°16'21.44" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|11°30'21.27" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|15°32'52.35" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|3°3'20.09" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|11°11'42.27" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|5°19'18.28" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|1°54'23.23" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°16'19.30" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|11°30'15.19" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|15°32'39.40" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|3°3'14.28" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|11°11'23.87" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|5°56'28.47" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

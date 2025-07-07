@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Saturn|Servant|23:53:02|00:43:15|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|00:43:16|01:33:29|Extremely auspicious and attracts happiness|
 |9|Mars|Servant|01:33:30|02:23:43|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|02:23:44|03:13:57|Attracting happiness, solving financial problems|
+|10|Sun|Servant|02:23:44|03:13:57|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|03:13:58|04:04:11|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|04:04:12|04:54:26|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'31.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°53'31.54" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|5°58'16.25" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|10°43'33.94" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|14°16'47.54" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|1°34'58.50" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|10°6'59.88" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|10°6'59.88" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|19°27'1.48" |Libra|Jubana|Saturn|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'31.54" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°53'31.54" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|5°58'16.25" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|10°43'33.94" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|14°16'47.54" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|1°34'58.50" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|10°6'59.88" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°6'59.88" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|19°27'1.48" |Scorpio|Qalb|Sun|
 
 

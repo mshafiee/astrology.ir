@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:29:47 |
+| Fajr (Dawn) | 03:29:48 |
 | Sunrise | 04:48:50 |
 | Dhuhr (Noon) | 11:38:41 |
 | Medium Coeli | 11:38:41 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'31.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|5°58'13.39" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|10°43'26.48" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°16'35.56" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|1°53'31.30" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|5°58'13.12" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|10°43'26.53" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°16'35.59" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|1°34'44.50" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|10°6'49.27" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|19°23'29.98" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|10°6'49.28" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|19°23'29.67" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°53'31.39" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|5°58'13.39" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|10°43'26.48" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|14°16'35.56" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|1°34'44.50" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|10°6'49.27" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°23'29.98" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|1°53'31.30" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°58'13.12" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|10°43'26.53" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|14°16'22.61" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|1°34'37.53" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|10°6'32.23" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°46'16.47" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

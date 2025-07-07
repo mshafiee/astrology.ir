@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|05:42:51|06:48:23|Acceptance of needs|
+|1|Mercury|Ruler|05:42:51|06:48:23|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Moon|Servant|06:48:24|07:53:56|Unfortunate, no task is suitable|
 |3|Saturn|Servant|07:53:57|08:59:29|For overcoming diseases|
 |4|Jupiter|Servant|08:59:30|10:05:02|For all tasks, extremely auspicious|
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°55'40.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°55'40.70" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°56'58.99" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|13°16'11.46" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|18°24'13.57" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|6°23'16.63" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|13°13'46.54" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|13°13'46.54" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|12°7'19.85" |Sagittarius|NaAaem|Moon|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°55'40.70" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°55'40.70" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°56'58.99" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|13°16'11.46" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|18°24'13.57" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|6°23'16.63" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|13°13'46.54" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°7'19.85" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|6°23'16.70" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|13°13'46.71" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°6'46.27" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

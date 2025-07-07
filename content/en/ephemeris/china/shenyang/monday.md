@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|04:18:21|05:33:47|Repelling magic, attracting discharged energy|
 |2|Saturn|Servant|05:33:48|06:49:14|Outer and inner journey|
-|3|Jupiter|Servant|06:49:15|08:04:41|Marriage connection is good|
+|3|Jupiter|Servant|06:49:15|08:04:41|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|08:04:42|09:20:08|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Sun|Servant|09:20:09|10:35:35|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|10:35:36|11:51:02|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°54'37.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°22'17.53" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|1°54'37.80" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|6°22'17.26" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|11°45'45.12" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|15°57'51.73" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|3°32'24.98" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|11°31'35.36" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|11°31'35.36" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|10°36'45.37" |Scorpio|Qalb|Sun|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°54'37.89" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°54'37.89" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°22'17.53" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|11°45'45.12" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|15°57'51.73" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|3°32'24.98" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|11°31'35.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°31'35.36" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|10°36'45.37" |Sagittarius|NaAaem|Moon|
 
 

@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:42:29 |
 | Isha (Night) | 20:33:38 |
 | Sharia Midnight | 23:40:16 |
-| Imum Coeli | 00:26:24 |
+| Imum Coeli | 00:26:25 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 19:25:06 |
 | Isha (Night) | 20:56:38 |
 | Sharia Midnight | 23:39:23 |
-| Imum Coeli | 00:26:24 |
+| Imum Coeli | 00:26:25 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:25:06 |
 | Isha (Night) | 20:55:06 |
 | Sharia Midnight | 23:37:54 |
-| Imum Coeli | 00:26:24 |
+| Imum Coeli | 00:26:25 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°55'11.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°55'11.10" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|6°37'56.91" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|12°26'28.21" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|17°3'51.44" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|4°49'20.32" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|12°20'45.02" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|24°35'30.58" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|4°49'21.32" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|12°20'44.64" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|24°31'2.42" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|1°55'11.10" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°55'11.10" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°37'56.91" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|12°26'28.21" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|17°3'51.44" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|4°49'20.32" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|12°20'45.02" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°20'45.02" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|24°35'30.58" |Sagittarius|Baldah|Saturn|
 
 
