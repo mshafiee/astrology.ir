@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'54.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°11'10.22" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|13°53'25.37" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|19°24'15.37" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|7°33'37.45" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|13°48'15.78" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|25°36'3.15" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|1°55'55.01" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°11'10.50" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|13°53'25.32" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|19°24'15.33" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|7°33'37.44" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|13°48'13.43" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|25°43'25.56" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'54.92" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°11'10.22" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°53'25.37" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|19°24'15.37" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°55'55.01" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°11'10.50" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|13°53'25.32" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|19°24'15.33" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|7°33'37.44" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|13°48'15.75" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|25°36'2.88" |Capricorn|SaadAlBula|Sun|

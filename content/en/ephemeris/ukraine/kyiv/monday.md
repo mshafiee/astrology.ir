@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'11.40" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°11'50.43" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|11°18'42.08" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|15°13'47.80" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|2°41'13.51" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|10°56'0.24" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|2°30'34.65" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|6°11'52.44" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|11°18'44.62" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|15°13'59.80" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|2°41'23.89" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|10°56'13.30" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°29'7.59" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°54'11.30" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|6°11'52.17" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|11°18'44.67" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|15°13'59.84" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|2°41'23.90" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|10°56'13.31" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°29'7.63" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|1°54'11.40" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°11'52.44" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|11°18'44.62" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|15°13'59.80" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|2°41'23.89" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|10°56'13.30" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°29'7.59" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

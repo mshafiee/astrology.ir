@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:27 |
+| Sunrise | 04:43:26 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:27 |
+| Sunrise | 04:43:26 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:27 |
+| Sunrise | 04:43:26 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:27 |
+| Sunrise | 04:43:26 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:27 |
+| Sunrise | 04:43:26 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'3.83" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°31'19.01" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°46'30.89" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|20°49'37.11" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|9°13'56.10" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°29'22.38" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|15°35'3.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|1°56'3.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°31'18.75" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°46'29.98" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|20°49'35.53" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°13'55.67" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|14°29'19.67" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|15°47'31.27" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

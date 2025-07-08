@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:16:44 |
 | Medium Coeli | 12:16:44 |
 | Sunset | 17:53:28 |
-| Maghrib | 18:11:22 |
+| Maghrib | 18:11:21 |
 | Isha (Night) | 18:53:37 |
 | Sharia Midnight | 23:38:33 |
 | Imum Coeli | 00:16:49 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'54.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°29'50.96" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|12°5'22.84" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°29'42.15" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|4°9'29.96" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|11°55'55.56" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|17°18'22.29" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|6°29'50.92" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|12°5'22.87" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°29'41.82" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|4°9'29.51" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|11°55'55.54" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|17°18'21.93" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°54'54.82" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|6°29'50.69" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°5'22.89" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|16°29'42.19" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|4°9'29.97" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|11°55'55.81" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|17°15'32.87" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Retrograde|1°54'54.91" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°29'50.96" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°5'22.84" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|16°29'42.15" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|4°9'29.96" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|11°55'55.79" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|17°15'32.51" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

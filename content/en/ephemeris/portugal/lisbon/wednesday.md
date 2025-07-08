@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 21:03:33 |
 | Maghrib | 21:04:54 |
 | Isha (Night) | 22:34:54 |
-| Sharia Midnight | 00:41:35 |
+| Sharia Midnight | 00:41:34 |
 | Imum Coeli | 01:41:54 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'16.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°40'57.38" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|12°34'18.90" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°16'32.62" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|5°4'9.28" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°29'37.78" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|27°47'34.41" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|6°40'56.59" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|12°34'14.94" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°16'27.85" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|5°4'9.85" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|12°29'27.96" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|27°39'31.27" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'16.47" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|6°40'57.11" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°34'18.95" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|17°16'30.83" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°4'4.57" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°29'37.76" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|27°47'33.99" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|1°55'16.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°40'57.38" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°34'18.90" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|17°16'32.62" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|5°4'9.28" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°29'37.18" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°25'28.77" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Jupiter|Capricorn|Sun|Mars|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

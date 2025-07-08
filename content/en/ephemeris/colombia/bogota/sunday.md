@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Sun|Ruler|13:02:58|14:04:45|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|14:04:46|15:06:32|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|15:06:33|16:08:20|Attracting happiness, solving financial problems|
-|11|Moon|Servant|16:08:21|17:10:07|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Moon|Servant|16:08:21|17:10:07|Performing promises|
 |12|Saturn|Servant|17:10:08|18:11:55|The moon is in Scorpio, Not suitable for doing anything.|
 
  

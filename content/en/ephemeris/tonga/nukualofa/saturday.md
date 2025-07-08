@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|7°28'49.81" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|14°39'55.97" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|20°39'4.07" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°1'22.50" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|14°24'33.53" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|14°10'16.06" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|9°1'30.44" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|14°24'50.13" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°53'12.48" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
+|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'3.38" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°28'49.53" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°39'56.01" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|20°39'4.11" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|9°1'30.45" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°24'50.15" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°53'12.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|1°56'3.47" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°28'49.81" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°39'55.97" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|20°39'4.07" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°1'30.44" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|14°24'50.13" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°53'12.48" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

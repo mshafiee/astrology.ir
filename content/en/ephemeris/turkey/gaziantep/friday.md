@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:42:58 |
-| Sunrise | 05:20:01 |
+| Sunrise | 05:20:00 |
 | Dhuhr (Noon) | 12:36:01 |
 | Medium Coeli | 12:36:01 |
 | Sunset | 19:51:44 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:28:20 |
-| Sunrise | 05:20:01 |
+| Sunrise | 05:20:00 |
 | Dhuhr (Noon) | 12:36:01 |
 | Medium Coeli | 12:36:01 |
 | Sunset | 19:51:44 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:24:32 |
-| Sunrise | 05:20:01 |
+| Sunrise | 05:20:00 |
 | Dhuhr (Noon) | 12:36:01 |
 | Medium Coeli | 12:36:01 |
 | Sunset | 19:51:44 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:31:43|Night duration: 09:28:55|
+|Duration of the day: 14:31:44|Night duration: 09:28:55|
 |Every hour of day duration: 01:12:39|Every hour of night duration: 00:47:25|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:20:01|06:32:38|Love, creating love and attracting hearts|
-|2|Mercury|Servant|06:32:39|07:45:17|Attracting auspiciousness|
-|3|Moon|Servant|07:45:18|08:57:55|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|08:57:56|10:10:34|Unfortunate hour|
-|5|Jupiter|Servant|10:10:35|11:23:12|Achieving position and status and attracting job fortune|
+|1|Venus|Ruler|05:20:00|06:32:37|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:32:38|07:45:16|Attracting auspiciousness|
+|3|Moon|Servant|07:45:17|08:57:55|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|08:57:56|10:10:33|Unfortunate hour|
+|5|Jupiter|Servant|10:10:34|11:23:12|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|11:23:13|12:35:51|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:35:52|13:48:30|Promotion and attracting wealth|
-|8|Venus|Ruler|13:48:31|15:01:08|Auspicious and ultimate happiness and fortune|
+|7|Sun|Servant|12:35:52|13:48:29|Promotion and attracting wealth|
+|8|Venus|Ruler|13:48:30|15:01:08|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|15:01:09|16:13:47|Causing separation and homelessness|
 |10|Moon|Servant|16:13:48|17:26:25|Extremely unfortunate|
 |11|Saturn|Servant|17:26:26|18:39:04|Creating an unfortunate horoscope for anyone|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:31:43|Night duration: 09:28:55|
+|Duration of the day: 14:31:44|Night duration: 09:28:55|
 |Every hour duration: 02:04:32|Every hour duration: 01:21:16|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|05:20:01|07:24:31|
+|Early morning|Venus|Ruler|05:20:00|07:24:31|
 |Mid-morning|Mercury|Servant|07:24:32|09:29:03|
 |Late morning|Moon|Servant|09:29:04|11:33:35|
 |Noon|Saturn|Servant|11:33:36|13:38:07|

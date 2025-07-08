@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:30:53 |
 | Medium Coeli | 12:30:53 |
 | Sunset | 16:17:15 |
-| Maghrib | 16:46:14 |
+| Maghrib | 16:46:13 |
 | Isha (Night) | 18:02:57 |
 | Sharia Midnight | 23:30:45 |
 | Imum Coeli | 00:30:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°54'24.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°16'51.53" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|11°31'40.27" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|15°34'58.57" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|3°5'48.17" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|11°13'23.05" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|6°4'7.90" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|1°54'24.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|6°16'50.73" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|11°31'42.30" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|15°34'52.61" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|3°5'37.71" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|11°13'20.81" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|7°6'48.15" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°54'24.42" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|6°16'51.53" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|11°31'40.27" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|15°34'58.57" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|3°5'48.17" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|11°13'23.05" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°4'7.90" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|1°54'24.52" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°16'51.81" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|11°31'40.22" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|15°34'58.53" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|3°5'48.16" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|11°13'23.03" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°4'7.74" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

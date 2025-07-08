@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:47:21 |
+| Fajr (Dawn) | 02:47:20 |
 | Sunrise | 04:56:17 |
 | Dhuhr (Noon) | 12:49:07 |
 | Medium Coeli | 12:49:07 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'14.14" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°39'36.13" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|12°30'47.24" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°10'49.55" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|4°57'29.13" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°25'38.02" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|26°17'29.93" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|6°39'35.76" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|12°30'50.13" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°10'47.06" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|4°57'21.58" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|12°25'39.61" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|26°52'48.00" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'14.14" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|6°39'36.13" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°30'47.24" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|17°10'49.55" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|4°57'29.13" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°25'38.02" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|26°17'29.93" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Direct|12°30'50.13" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|17°10'47.06" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|4°57'21.58" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°25'39.61" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|26°52'48.00" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Jupiter|Capricorn|Sun|Mars|
 |♀ Venus|Moon|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

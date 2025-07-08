@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:03:20 |
 | Sunset | 21:08:08 |
 | Maghrib | 21:11:54 |
-| Isha (Night) | 00:40:29 |
+| Isha (Night) | 00:40:30 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:03:24 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'34.85" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°52'35.77" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|13°4'44.02" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|18°5'41.99" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|6°1'36.94" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|13°2'12.57" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°20'1.79" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|1°55'34.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|6°52'36.05" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|13°4'43.97" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|18°5'41.94" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|6°1'36.93" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|13°2'12.55" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|8°20'1.37" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'34.85" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|6°52'35.77" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°4'44.02" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|18°5'41.99" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|6°1'36.94" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|13°2'12.57" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|8°20'1.79" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|1°55'34.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°52'36.05" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|13°4'43.97" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|18°5'41.94" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|6°1'36.93" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|13°2'12.55" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|8°20'1.37" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
