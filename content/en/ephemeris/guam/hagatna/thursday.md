@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:26:23 |
 | Medium Coeli | 12:26:23 |
 | Sunset | 18:52:44 |
-| Maghrib | 19:10:11 |
+| Maghrib | 19:10:12 |
 | Isha (Night) | 19:53:35 |
 | Sharia Midnight | 23:47:26 |
 | Imum Coeli | 00:26:27 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°31'23.03" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|18°48'44.31" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|6°51'59.01" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|13°28'23.95" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|13°28'23.95" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|17°34'38.90" |Sagittarius|Baldah|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°31'23.03" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|18°48'44.31" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|6°51'59.01" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|13°28'23.95" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|13°28'23.95" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|17°34'38.90" |Capricorn|SaadAlBula|Mars|
 
 

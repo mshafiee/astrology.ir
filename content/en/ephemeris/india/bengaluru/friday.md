@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'49.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°5'18.91" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|13°38'1.91" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|18°59'27.45" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|7°4'32.67" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|13°34'33.65" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|19°58'53.72" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Retrograde|1°55'49.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°5'18.78" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|13°38'2.13" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|18°59'26.90" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|7°4'31.66" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|13°34'33.47" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|20°2'20.91" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°38'1.91" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|18°59'27.45" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|7°4'32.67" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|13°34'33.65" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|13°34'33.65" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|19°58'53.72" |Capricorn|SaadAlBula|Mars|
 
 

@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:13:43 |
+| Fajr (Dawn) | 05:13:44 |
 | Sunrise | 06:37:59 |
 | Dhuhr (Noon) | 13:36:42 |
 | Medium Coeli | 13:36:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'3.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°38'33.90" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°5'40.61" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°20'24.35" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°50'9.41" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|14°41'54.57" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|22°29'59.75" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|1°56'3.58" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°38'33.63" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°5'40.65" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°20'24.39" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|9°50'9.42" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°41'54.59" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|22°29'59.14" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'3.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°38'33.79" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°5'41.41" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°20'23.89" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|9°50'7.62" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°41'55.21" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°25'22.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|1°56'3.58" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°38'33.63" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°5'40.65" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°20'24.39" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°50'9.42" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°41'54.59" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|22°29'59.14" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

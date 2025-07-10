@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:12:09 |
 | Maghrib | 18:16:34 |
 | Isha (Night) | 19:26:56 |
-| Sharia Midnight | 23:19:45 |
+| Sharia Midnight | 23:19:46 |
 | Imum Coeli | 00:01:35 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'21.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°44'2.00" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|12°42'23.73" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°29'27.52" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|5°19'19.06" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°38'20.92" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|1°49'20.38" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|6°44'2.82" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|12°42'27.84" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°29'33.48" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|5°19'19.72" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°38'31.28" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°25'3.31" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'21.92" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|6°44'4.79" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°42'27.40" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|17°29'43.70" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°19'32.58" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°38'39.61" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°7'18.57" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|1°55'21.83" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°44'4.52" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°42'27.80" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|17°29'33.44" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|5°19'19.71" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°38'31.25" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°25'2.88" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

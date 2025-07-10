@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:24:27 |
 | Maghrib | 18:28:16 |
 | Isha (Night) | 19:58:16 |
-| Sharia Midnight | 23:52:09 |
+| Sharia Midnight | 23:52:10 |
 | Imum Coeli | 00:31:00 |
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|12°33'16.87" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|17°14'53.10" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|5°2'12.49" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°28'28.90" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°28'28.90" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|26°55'21.46" |Scorpio|Shaulah|Venus|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°33'16.87" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|17°14'53.10" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|5°2'12.49" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°28'28.90" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°28'28.90" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|26°55'21.46" |Sagittarius|Baldah|Saturn|
 
 

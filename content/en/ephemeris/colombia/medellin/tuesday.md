@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:27:24|Night duration: 11:32:48|
+|Duration of the day: 12:27:24|Night duration: 11:32:49|
 |Every hour of day duration: 01:02:17|Every hour of night duration: 00:57:44|
 
  
@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|02:02:59|03:00:42|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mars|Servant|03:00:43|03:58:26|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Sun|Servant|03:58:27|04:56:10|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Venus|Servant|04:56:11|05:53:54|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Venus|Servant|04:56:11|05:53:55|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|12°42'31.65" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|17°29'50.57" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|5°19'40.62" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°38'44.25" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°38'44.25" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|0°8'45.44" |Sagittarius|Shaulah|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°42'31.65" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|17°29'50.57" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|5°19'40.62" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°38'44.25" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°38'44.25" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|0°8'45.44" |Capricorn|SaadAlDhabib|Jupiter|
 
 

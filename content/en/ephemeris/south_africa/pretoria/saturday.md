@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'1.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°21'16.12" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|14°19'58.20" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|20°6'57.71" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°23'54.23" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|14°9'50.05" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|6°40'26.85" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|1°56'1.04" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°21'17.88" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|14°20'4.75" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|20°7'8.10" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°23'56.34" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°10'8.34" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|5°20'43.79" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°20'3.44" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|20°7'6.81" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|8°23'56.87" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°10'5.37" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°10'5.37" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|5°32'45.52" |Aquarius|SaadAlSaud|Venus|
 
 

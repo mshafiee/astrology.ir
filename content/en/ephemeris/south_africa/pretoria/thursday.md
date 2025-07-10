@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:31:13 |
 | Maghrib | 17:48:05 |
 | Isha (Night) | 18:35:27 |
-| Sharia Midnight | 23:35:54 |
+| Sharia Midnight | 23:35:55 |
 | Imum Coeli | 00:12:44 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'37.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|6°54'14.27" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|13°8'59.35" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|18°12'34.53" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|6°9'47.10" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|13°6'24.11" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°34'46.72" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|6°54'15.92" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|13°9'4.62" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|18°12'43.73" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|6°9'49.79" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|13°6'39.04" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|9°43'50.01" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Jupiter|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Venus|Sagittarius|Moon|Moon|
-|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°9'4.62" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|18°12'43.73" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|6°9'49.79" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|13°6'39.04" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|13°6'39.04" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|9°43'50.01" |Capricorn|SaadAlDhabib|Jupiter|
 
 

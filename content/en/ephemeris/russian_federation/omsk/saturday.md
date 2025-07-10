@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:26 |
+| Sunrise | 04:43:27 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:26 |
+| Sunrise | 04:43:27 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:26 |
+| Sunrise | 04:43:27 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:43:26 |
+| Sunrise | 04:43:27 |
 | Dhuhr (Noon) | 13:12:12 |
 | Medium Coeli | 13:12:12 |
 | Sunset | 21:40:06 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 16:56:40|Night duration: 07:04:39|
+|Duration of the day: 16:56:39|Night duration: 07:04:39|
 |Every hour of day duration: 01:24:43|Every hour of night duration: 00:35:23|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|04:43:26|06:08:08|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:08:09|07:32:51|Peace among people|
-|3|Mars|Servant|07:32:52|08:57:35|Vengeful and evil deeds|
-|4|Sun|Servant|08:57:36|10:22:18|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:22:19|11:47:01|Auspicious|
-|6|Mercury|Servant|11:47:02|13:11:45|Writing, swapping and making promises|
+|1|Saturn|Ruler|04:43:27|06:08:09|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:08:10|07:32:52|Peace among people|
+|3|Mars|Servant|07:32:53|08:57:35|Vengeful and evil deeds|
+|4|Sun|Servant|08:57:36|10:22:19|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:22:20|11:47:02|Auspicious|
+|6|Mercury|Servant|11:47:03|13:11:45|Writing, swapping and making promises|
 |7|Moon|Servant|13:11:46|14:36:28|Not suitable for any task|
-|8|Saturn|Ruler|14:36:29|16:01:11|Destruction of enemies|
-|9|Jupiter|Servant|16:01:12|17:25:55|All good deeds|
+|8|Saturn|Ruler|14:36:29|16:01:12|Destruction of enemies|
+|9|Jupiter|Servant|16:01:13|17:25:55|All good deeds|
 |10|Mars|Servant|17:25:56|18:50:38|Doing evil deeds|
 |11|Sun|Servant|18:50:39|20:15:21|Acceptance of reconciliation between couples|
 |12|Venus|Servant|20:15:22|21:40:05|For gaining dignity|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°46'30.89" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|20°49'37.11" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°13'56.10" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|14°29'22.38" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°29'22.38" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|15°35'3.83" |Capricorn|SaadAlBula|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'3.97" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°31'18.75" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°46'29.98" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|20°49'35.53" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|9°13'55.67" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°29'19.67" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|15°47'31.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|1°56'3.83" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°31'19.01" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°46'30.89" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|20°49'37.11" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°13'56.10" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°29'22.38" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|15°35'3.83" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
