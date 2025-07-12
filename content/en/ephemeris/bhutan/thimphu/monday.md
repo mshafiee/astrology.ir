@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'54.06" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°58'29.38" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°58'36.14" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|7°58'32.05" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°58'41.76" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|22°45'21.60" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|11°30'20.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°9'42.03" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|15°9'42.03" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|12°41'42.57" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'54.06" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°58'29.38" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|7°58'32.05" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|15°58'41.76" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|22°45'21.60" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|11°30'20.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|15°9'42.03" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|15°9'42.03" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|12°41'42.57" |Pisces|FarghAlMuakhar|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:07:27 |
 | Sunset | 19:20:50 |
 | Maghrib | 19:24:35 |
-| Isha (Night) | 21:02:50 |
+| Isha (Night) | 21:02:51 |
 | Sharia Midnight | 23:13:01 |
 | Imum Coeli | 00:07:30 |
 {{< /tab >}}
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°24'37.92" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|21°50'47.98" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°25'58.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|14°52'58.96" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°52'58.96" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|29°43'26.49" |Capricorn|SaadAlSaud|Sun|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.78" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°45'42.97" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°24'37.92" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°50'47.98" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°25'58.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|14°52'58.96" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°43'26.49" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°45'42.70" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°24'37.96" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°50'48.02" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°25'58.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|14°52'58.99" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°43'25.68" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

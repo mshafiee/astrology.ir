@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'53.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°58'52.98" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°59'38.05" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°46'51.63" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°55'53.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°58'53.25" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°59'38.00" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°46'51.59" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|11°32'7.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°10'6.02" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|13°3'50.06" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|15°10'6.00" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|13°3'50.96" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'53.70" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°58'52.98" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°59'38.05" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°46'51.63" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'53.78" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°58'53.25" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°59'38.00" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°46'51.59" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|11°32'7.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|15°10'6.02" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|13°3'50.06" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|15°10'6.00" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°57'46.65" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬

@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:52:58 |
+| Fajr (Dawn) | 03:52:59 |
 | Sunrise | 05:18:58 |
 | Dhuhr (Noon) | 12:28:01 |
 | Medium Coeli | 12:28:01 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'52.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°59'56.95" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|16°2'28.75" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°51'24.42" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°55'52.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°59'57.22" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|16°2'28.71" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°51'24.38" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|11°37'29.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°11'17.17" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|14°11'37.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|15°11'17.15" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|14°11'38.38" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'52.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°59'56.95" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|16°2'28.75" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°51'24.42" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'52.87" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°59'57.22" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|16°2'28.71" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°51'24.38" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|11°37'29.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|15°11'17.15" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|15°11'17.15" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|14°11'38.38" |Pisces|FarghAlMuakhar|Jupiter|
 
 

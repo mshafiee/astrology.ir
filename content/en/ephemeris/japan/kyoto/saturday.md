@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 04:52:05 |
 | Dhuhr (Noon) | 12:02:38 |
 | Medium Coeli | 12:02:38 |
-| Sunset | 19:12:54 |
+| Sunset | 19:12:53 |
 | Maghrib | 19:31:52 |
 | Isha (Night) | 20:31:48 |
-| Sharia Midnight | 23:16:49 |
+| Sharia Midnight | 23:16:48 |
 | Imum Coeli | 00:02:41 |
 {{< /tab >}}
 
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 04:52:05 |
 | Dhuhr (Noon) | 12:02:38 |
 | Medium Coeli | 12:02:38 |
-| Sunset | 19:12:54 |
+| Sunset | 19:12:53 |
 | Maghrib | 19:34:42 |
 | Isha (Night) | 20:31:48 |
-| Sharia Midnight | 23:11:04 |
+| Sharia Midnight | 23:11:03 |
 | Imum Coeli | 00:02:41 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 04:52:05 |
 | Dhuhr (Noon) | 12:02:38 |
 | Medium Coeli | 12:02:38 |
-| Sunset | 19:12:54 |
+| Sunset | 19:12:53 |
 | Maghrib | 19:14:14 |
 | Isha (Night) | 20:51:34 |
 | Sharia Midnight | 23:10:01 |
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 04:52:05 |
 | Dhuhr (Noon) | 12:02:38 |
 | Medium Coeli | 12:02:38 |
-| Sunset | 19:12:54 |
+| Sunset | 19:12:53 |
 | Maghrib | 19:14:14 |
 | Isha (Night) | 20:54:59 |
 | Sharia Midnight | 23:04:43 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:20:48|Night duration: 09:39:48|
+|Duration of the day: 14:20:49|Night duration: 09:39:47|
 |Every hour of day duration: 01:11:44|Every hour of night duration: 00:48:19|
 
  
@@ -227,12 +227,12 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|14:25:57|15:37:40|All good deeds|
 |10|Mars|Servant|15:37:41|16:49:24|Doing evil deeds|
 |11|Sun|Servant|16:49:25|18:01:08|Acceptance of reconciliation between couples|
-|12|Venus|Servant|18:01:09|19:12:52|For gaining dignity|
+|12|Venus|Servant|18:01:09|19:12:53|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|19:12:53|20:01:11|Related to talismans, amulets and responses|
+|1|Mercury|Ruler|19:12:54|20:01:11|Related to talismans, amulets and responses|
 |2|Moon|Servant|20:01:12|20:49:30|Peace among people|
 |3|Saturn|Servant|20:49:31|21:37:49|Vengeful and evil deeds|
 |4|Jupiter|Servant|21:37:50|22:26:08|Dominance, judgment and issuing verdict|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°42'16.27" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|20°42'49.45" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°5'55.49" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°26'28.85" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°26'28.85" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|13°45'3.11" |Capricorn|SaadAlBula|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°42'16.27" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|20°42'49.45" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|9°5'55.49" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°26'28.85" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|14°26'28.85" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|13°45'3.11" |Aquarius|SaadAlAkhbia|Mercury|
 
 

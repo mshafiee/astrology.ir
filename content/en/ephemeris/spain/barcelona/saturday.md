@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:40:04 |
+| Fajr (Dawn) | 04:40:03 |
 | Sunrise | 06:28:31 |
 | Dhuhr (Noon) | 13:57:03 |
 | Medium Coeli | 13:57:03 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.03" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|7°21'3.27" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|14°19'28.24" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|20°6'4.07" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°22'39.33" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°9'37.31" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|5°22'8.51" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|14°19'25.71" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|20°6'5.99" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°22'45.52" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|14°9'35.84" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|5°19'46.34" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'0.94" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°21'3.00" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°19'25.76" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|20°6'6.03" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°22'45.53" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°9'35.86" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|5°19'46.36" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|1°56'1.03" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°21'3.27" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°19'25.71" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|20°6'5.99" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°22'45.52" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|14°9'35.84" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|5°19'46.34" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

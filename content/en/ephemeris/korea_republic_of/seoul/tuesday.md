@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 14:31:00|Night duration: 09:29:42|
-|Every hour of day duration: 01:12:35|Every hour of night duration: 00:47:29|
+|Every hour of day duration: 01:12:35|Every hour of night duration: 00:47:28|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|16°30'10.40" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|23°35'40.72" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|12°29'49.28" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°21'23.29" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|15°21'23.29" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|24°55'42.14" |Aquarius|FarghAlMuqaddam|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|16°30'10.40" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|23°35'40.72" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|12°29'49.28" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|15°21'23.29" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|15°21'23.29" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|24°55'42.14" |Pisces|Rescha|Mars|
 
 

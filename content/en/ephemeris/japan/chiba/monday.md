@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'55.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°56'25.63" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°53'8.64" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°36'21.11" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°19'47.28" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°7'0.83" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|11°25'52.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|1°55'55.61" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°56'27.65" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°53'11.54" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°36'32.78" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°19'56.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|15°7'16.30" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°37'30.77" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°53'11.54" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|22°36'32.78" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|11°19'56.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|15°7'16.30" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|10°37'30.77" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|15°7'0.81" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°25'53.68" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

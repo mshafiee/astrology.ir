@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°55'59.13" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|7°51'14.89" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|15°39'18.81" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°14'20.17" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°53'43.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°0'43.02" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|5°12'50.90" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|22°14'13.18" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°53'34.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|15°0'36.32" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|5°25'23.04" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°39'18.81" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|22°14'20.17" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°53'43.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|15°0'43.02" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|15°0'43.02" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|5°12'50.90" |Pisces|FarghAlMuakhar|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Kralendajk, Kralendehjk, Kralendeikas, Kralendejk, Kralendijk, Kralendiyk, Kralentik, Playa, ke la lun dai ke, keulallendeikeu, kralndyk, kralyndayk, kurarendaiku, Κράλεντικ, Кралендайк, Кралендајк, Кралендейк, Кралендэйк, Կրալենդիյկ, كراليندايك, کرالندیک, کرالن‌دیک, კრალენდეიკი, クラレンダイク, 克拉伦代克, 크랄렌데이크

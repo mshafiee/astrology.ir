@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 20:38:52 |
 | Maghrib | 20:40:48 |
 | Isha (Night) | 23:28:44 |
-| Sharia Midnight | 22:50:19 |
+| Sharia Midnight | 22:50:18 |
 | Imum Coeli | 00:45:41 |
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°51'8.86" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|20°57'4.03" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°22'41.54" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°32'31.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°32'31.57" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|17°13'7.09" |Capricorn|SaadAlBula|Mars|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'3.86" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|7°33'3.96" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°51'8.86" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|20°57'4.03" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°51'8.82" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|20°57'3.98" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|9°22'41.54" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°32'31.57" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|17°13'7.09" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|14°32'31.54" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|17°13'7.50" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

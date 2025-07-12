@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:19:30 |
+| Fajr (Dawn) | 01:19:29 |
 | Sunrise | 04:14:56 |
 | Dhuhr (Noon) | 12:08:00 |
 | Medium Coeli | 12:08:00 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'53.08" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°59'37.64" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|16°1'37.62" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°50'1.83" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°55'53.16" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°59'37.91" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|16°1'37.58" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°50'1.79" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|11°35'52.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°10'54.04" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|13°58'15.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|15°10'54.02" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|13°58'16.45" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'53.08" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°59'37.64" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|16°1'37.62" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°50'1.83" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|11°35'52.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|15°10'54.02" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|13°58'16.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|1°55'53.16" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°59'37.52" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|16°1'38.15" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°50'1.30" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|11°35'51.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|15°10'54.21" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|13°52'13.73" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

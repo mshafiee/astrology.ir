@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:29:19 |
 | Sunrise | 06:48:07 |
-| Dhuhr (Noon) | 12:28:33 |
-| Medium Coeli | 12:28:33 |
+| Dhuhr (Noon) | 12:28:34 |
+| Medium Coeli | 12:28:34 |
 | Sunset | 18:09:05 |
 | Maghrib | 18:10:55 |
 | Isha (Night) | 19:40:55 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°14'49.81" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|21°35'5.39" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°7'27.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|14°47'25.26" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°47'25.26" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|25°57'27.27" |Capricorn|SaadAlSaud|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°14'49.81" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|21°35'5.39" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°7'27.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|14°47'25.26" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|14°47'25.26" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|25°57'27.27" |Aquarius|FarghAlMuqaddam|Moon|
 
 

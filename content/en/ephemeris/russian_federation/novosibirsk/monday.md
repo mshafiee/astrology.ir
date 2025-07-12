@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'54.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°57'52.74" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°56'58.70" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°42'33.65" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°27'6.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°8'48.70" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°38'3.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|7°57'53.66" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°57'0.17" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°42'37.40" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°27'8.14" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|15°8'54.47" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°15'50.65" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'54.51" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°57'53.38" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°57'0.21" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°42'37.44" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'54.60" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°57'53.66" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°57'0.17" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°42'37.40" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|11°27'8.14" |Gemini|HanAh|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|15°8'54.49" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°15'49.74" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|15°8'54.47" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°15'50.65" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
