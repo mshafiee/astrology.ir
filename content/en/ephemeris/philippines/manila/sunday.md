@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:28:08 |
 | Sunrise | 05:33:56 |
-| Dhuhr (Noon) | 12:01:51 |
-| Medium Coeli | 12:01:51 |
+| Dhuhr (Noon) | 12:01:50 |
+| Medium Coeli | 12:01:50 |
 | Sunset | 18:29:39 |
 | Maghrib | 18:30:38 |
 | Isha (Night) | 19:35:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'2.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°44'8.20" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°20'26.20" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°44'5.15" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°56'2.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°44'7.92" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°20'26.25" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°44'5.19" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°18'3.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°50'39.78" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|28°1'15.94" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Retrograde|14°50'39.81" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|28°1'15.18" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'2.34" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°44'8.20" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°20'26.20" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°44'5.15" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°56'2.25" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°44'7.92" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°20'26.25" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°44'5.19" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°18'3.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|14°50'39.78" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|28°1'15.94" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|14°50'39.81" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|28°1'15.18" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

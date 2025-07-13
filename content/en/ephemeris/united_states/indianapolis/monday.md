@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 14:43:45|Night duration: 09:17:01|
+|Duration of the day: 14:43:45|Night duration: 09:17:00|
 |Every hour of day duration: 01:13:39|Every hour of night duration: 00:46:25|
 
  
@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Mercury|Servant|03:23:35|04:09:59|Attracting and repelling enemies and causing separation|
 |10|Moon|Servant|04:10:00|04:56:24|Good for any task|
 |11|Saturn|Servant|04:56:25|05:42:49|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:42:50|06:29:15|Heart tenderness|
+|12|Jupiter|Servant|05:42:50|06:29:14|Heart tenderness|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 14:43:45|Night duration: 09:17:01|
+|Duration of the day: 14:43:45|Night duration: 09:17:00|
 |Every hour duration: 02:06:15|Every hour duration: 01:19:34|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Venus|Ruler|21:12:15|22:31:48|
 |Late evening|Mercury|Servant|22:31:49|23:51:22|
-|Midnight|Moon|Servant|23:51:23|01:10:57|
-|Late at night|Saturn|Servant|01:10:58|02:30:31|
-|Rooster song|Jupiter|Servant|02:30:32|03:50:06|
-|False Dawn|Mars|Servant|03:50:07|05:09:40|
-|Dawn|Sun|Servant|05:09:41|06:29:15|
+|Midnight|Moon|Servant|23:51:23|01:10:56|
+|Late at night|Saturn|Servant|01:10:57|02:30:31|
+|Rooster song|Jupiter|Servant|02:30:32|03:50:05|
+|False Dawn|Mars|Servant|03:50:06|05:09:39|
+|Dawn|Sun|Servant|05:09:40|06:29:14|
 
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|16°15'24.27" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|23°12'4.49" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|12°1'54.93" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|15°16'20.56" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|15°16'20.56" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|19°12'48.79" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|1°55'48.28" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|8°4'48.16" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|16°15'24.27" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|23°12'4.85" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|12°1'54.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|15°16'21.51" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°6'38.29" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|23°12'4.49" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|12°1'54.93" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'20.56" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°12'48.79" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

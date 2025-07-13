@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|8°25'3.83" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|17°9'35.95" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|24°38'36.72" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°44'10.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|15°30'50.43" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|9°48'36.48" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|13°44'19.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'56.13" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°19'4.60" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'20.36" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|8°25'3.56" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°9'35.99" |Virgo|Simak|Venus|
-|☉ Sun|Direct|24°38'36.75" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'20.44" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°25'3.83" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|17°9'35.95" |Virgo|Simak|Venus|
+|☉ Sun|Direct|24°38'36.72" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|13°44'19.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|15°30'56.15" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|10°19'4.38" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|15°30'56.13" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°19'4.60" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

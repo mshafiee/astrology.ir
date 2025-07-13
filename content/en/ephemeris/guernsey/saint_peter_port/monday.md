@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:43:39 |
-| Sunrise | 05:18:55 |
+| Sunrise | 05:18:54 |
 | Dhuhr (Noon) | 13:16:04 |
 | Medium Coeli | 13:16:04 |
 | Sunset | 21:12:34 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:07:33 |
-| Sunrise | 05:18:55 |
+| Sunrise | 05:18:54 |
 | Dhuhr (Noon) | 13:16:04 |
 | Medium Coeli | 13:16:04 |
 | Sunset | 21:12:34 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 01:58:13 |
-| Sunrise | 05:18:54 |
+| Sunrise | 05:18:55 |
 | Dhuhr (Noon) | 13:16:04 |
 | Medium Coeli | 13:16:04 |
 | Sunset | 21:12:34 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 01:34:12 |
-| Sunrise | 05:18:54 |
+| Sunrise | 05:18:55 |
 | Dhuhr (Noon) | 13:16:04 |
 | Medium Coeli | 13:16:04 |
 | Sunset | 21:12:34 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 15:53:39|Night duration: 08:07:25|
+|Duration of the day: 15:53:40|Night duration: 08:07:25|
 |Every hour of day duration: 01:19:28|Every hour of night duration: 00:40:37|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:18:55|06:38:22|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|06:38:23|07:57:50|Outer and inner journey|
-|3|Jupiter|Servant|07:57:51|09:17:18|Marriage connection is good|
-|4|Mars|Servant|09:17:19|10:36:47|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:36:48|11:56:15|Answering needs, attracting love and wealth|
-|6|Venus|Servant|11:56:16|13:15:43|Summoning the person of interest, love and dominance|
+|1|Moon|Ruler|05:18:54|06:38:21|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|06:38:22|07:57:49|Outer and inner journey|
+|3|Jupiter|Servant|07:57:50|09:17:18|Marriage connection is good|
+|4|Mars|Servant|09:17:19|10:36:46|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:36:47|11:56:14|Answering needs, attracting love and wealth|
+|6|Venus|Servant|11:56:15|13:15:43|Summoning the person of interest, love and dominance|
 |7|Mercury|Servant|13:15:44|14:35:11|Making promises|
-|8|Moon|Ruler|14:35:12|15:54:40|Reconciliation of two persons, attracting love|
-|9|Saturn|Servant|15:54:41|17:14:08|Attracting and repelling enemies and causing separation|
+|8|Moon|Ruler|14:35:12|15:54:39|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|15:54:40|17:14:08|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|17:14:09|18:33:36|Good for any task|
 |11|Mars|Servant|18:33:37|19:53:04|Creating enmity and negative energy|
 |12|Sun|Servant|19:53:05|21:12:33|Heart tenderness|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'0.86" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|7°47'54.52" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°30'25.70" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°0'8.03" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°37'1.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°56'4.87" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°18'19.92" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|15°30'27.32" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°0'7.17" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°36'58.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'6.24" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°3'48.19" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°30'27.32" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|22°0'7.17" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°36'58.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|14°56'6.24" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|14°56'6.24" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|2°3'48.19" |Pisces|FarghAlMuqaddam|Saturn|
 
 

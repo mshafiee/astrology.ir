@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'59.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°55'58.91" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|7°51'28.30" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|15°39'54.50" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|22°15'17.25" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°54'50.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|15°1'0.63" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|15°1'0.63" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|5°27'7.32" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°39'54.50" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|22°15'17.25" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°54'50.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|15°1'0.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|15°1'0.63" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|5°27'7.32" |Pisces|FarghAlMuakhar|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

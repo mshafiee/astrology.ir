@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:09:44 |
 | Sunset | 19:43:36 |
 | Maghrib | 19:44:37 |
-| Isha (Night) | 21:00:48 |
+| Isha (Night) | 21:00:49 |
 | Sharia Midnight | 00:28:47 |
 | Imum Coeli | 01:09:47 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'3.93" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°35'44.10" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|14°58'11.02" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°8'23.19" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°35'59.99" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|14°37'11.50" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|19°36'58.78" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|7°35'43.61" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|14°58'7.94" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°8'20.10" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|9°36'1.11" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|14°37'4.46" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|20°11'7.24" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Venus|Saturn|Venus|Mars|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
+|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°58'11.02" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|21°8'23.19" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|9°35'59.99" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°37'11.50" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|14°37'11.50" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|19°36'58.78" |Aquarius|SaadAlAkhbia|Mercury|
 
 

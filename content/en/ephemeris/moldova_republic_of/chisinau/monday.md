@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°27'35.79" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|21°55'32.46" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°31'34.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°54'34.76" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|14°54'34.76" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|0°56'56.00" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.33" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°46'49.92" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°27'35.79" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°55'32.46" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°31'34.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|14°54'34.76" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°56'56.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°46'49.76" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°27'34.66" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°55'31.36" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°31'34.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°54'32.17" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°10'45.14" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

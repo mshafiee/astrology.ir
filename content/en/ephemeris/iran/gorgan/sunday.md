@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:41:51 |
+| Fajr (Dawn) | 02:41:50 |
 | Sunrise | 04:43:19 |
 | Dhuhr (Noon) | 11:58:01 |
 | Medium Coeli | 11:58:01 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°50'12.07" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|20°55'33.56" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°20'54.55" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|14°31'54.96" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|14°31'54.96" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|16°44'0.50" |Capricorn|SaadAlBula|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°50'12.07" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|20°55'33.56" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|9°20'54.55" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°31'54.96" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|14°31'54.96" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|16°44'0.50" |Aquarius|SaadAlAkhbia|Mercury|
 
 

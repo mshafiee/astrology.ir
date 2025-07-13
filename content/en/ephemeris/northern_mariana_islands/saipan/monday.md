@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'55.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°56'39.04" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°53'40.77" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°37'20.22" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°20'52.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|15°7'30.75" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°43'46.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|1°55'55.58" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°56'37.12" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°53'37.99" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°37'9.47" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°20'43.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°7'16.38" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|11°29'29.13" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°53'40.77" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|22°37'20.22" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|11°20'52.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|15°7'30.75" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|10°43'46.71" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|15°7'16.38" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°29'29.13" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판

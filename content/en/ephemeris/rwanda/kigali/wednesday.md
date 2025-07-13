@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:43:55 |
+| Fajr (Dawn) | 04:43:56 |
 | Sunrise | 06:05:38 |
 | Dhuhr (Noon) | 12:05:52 |
 | Medium Coeli | 12:05:52 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|16°41'41.34" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|23°54'4.86" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|12°51'35.13" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|15°24'47.28" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|15°24'47.28" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|29°21'29.53" |Aquarius|FarghAlMuqaddam|Moon|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'36.49" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|8°14'38.75" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|16°41'41.34" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|23°54'4.86" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|12°51'35.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|15°24'47.28" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°21'29.53" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|8°14'38.49" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|16°41'38.59" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|23°54'2.78" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|12°51'36.92" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'41.49" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|0°0'1.56" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}

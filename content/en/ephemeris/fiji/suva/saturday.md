@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:11:52 |
 | Medium Coeli | 12:11:52 |
 | Sunset | 17:45:33 |
-| Maghrib | 17:46:44 |
+| Maghrib | 17:46:43 |
 | Isha (Night) | 18:59:09 |
 | Sharia Midnight | 23:32:53 |
 | Imum Coeli | 00:11:56 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:11:52 |
 | Medium Coeli | 12:11:52 |
 | Sunset | 17:45:33 |
-| Maghrib | 17:46:44 |
+| Maghrib | 17:46:43 |
 | Isha (Night) | 19:01:22 |
 | Sharia Midnight | 23:29:34 |
 | Imum Coeli | 00:11:56 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:11:52 |
 | Medium Coeli | 12:11:52 |
 | Sunset | 17:45:33 |
-| Maghrib | 17:46:43 |
+| Maghrib | 17:46:44 |
 | Isha (Night) | 19:03:34 |
 | Sharia Midnight | 23:32:53 |
 | Imum Coeli | 00:11:56 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°40'25.77" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|20°39'52.09" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°2'26.83" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|14°25'11.46" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|14°25'11.46" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|13°2'49.74" |Capricorn|SaadAlBula|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°40'25.77" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|20°39'52.09" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|9°2'26.83" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°25'11.46" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|14°25'11.46" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|13°2'49.74" |Aquarius|SaadAlAkhbia|Mercury|
 
 

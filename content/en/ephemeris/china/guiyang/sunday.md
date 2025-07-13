@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:48:44 |
 | Sunrise | 06:08:44 |
-| Dhuhr (Noon) | 12:58:55 |
-| Medium Coeli | 12:58:55 |
+| Dhuhr (Noon) | 12:58:54 |
+| Medium Coeli | 12:58:54 |
 | Sunset | 19:48:53 |
 | Maghrib | 20:06:08 |
 | Isha (Night) | 20:57:54 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:54:11 |
 | Sunrise | 06:08:44 |
-| Dhuhr (Noon) | 12:58:55 |
-| Medium Coeli | 12:58:55 |
+| Dhuhr (Noon) | 12:58:54 |
+| Medium Coeli | 12:58:54 |
 | Sunset | 19:48:53 |
 | Maghrib | 19:54:07 |
 | Isha (Night) | 21:03:18 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:29:08 |
 | Sunrise | 06:08:44 |
-| Dhuhr (Noon) | 12:58:55 |
-| Medium Coeli | 12:58:55 |
+| Dhuhr (Noon) | 12:58:54 |
+| Medium Coeli | 12:58:54 |
 | Sunset | 19:48:53 |
 | Maghrib | 19:54:07 |
 | Isha (Night) | 21:17:02 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'2.14" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°44'27.42" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°21'18.11" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°45'28.07" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°19'40.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°51'8.54" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|28°23'26.01" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Retrograde|1°56'2.23" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°44'27.70" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°21'18.10" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°45'28.22" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°19'41.14" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'8.75" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|28°22'34.92" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°21'18.07" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|21°45'28.03" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°19'40.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|14°51'8.51" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|14°51'8.51" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|28°23'26.79" |Aquarius|FarghAlMuqaddam|Moon|
 
 
