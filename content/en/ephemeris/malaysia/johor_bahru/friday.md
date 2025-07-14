@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:05:13 |
 | Dhuhr (Noon) | 13:11:13 |
 | Medium Coeli | 13:11:13 |
-| Sunset | 19:17:13 |
+| Sunset | 19:17:12 |
 | Maghrib | 19:31:45 |
 | Isha (Night) | 20:14:45 |
 | Sharia Midnight | 00:38:11 |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:05:13 |
 | Dhuhr (Noon) | 13:11:13 |
 | Medium Coeli | 13:11:13 |
-| Sunset | 19:17:13 |
+| Sunset | 19:17:12 |
 | Maghrib | 19:33:53 |
 | Isha (Night) | 20:14:45 |
 | Sharia Midnight | 00:34:30 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:05:13 |
 | Dhuhr (Noon) | 13:11:13 |
 | Medium Coeli | 13:11:13 |
-| Sunset | 19:17:13 |
+| Sunset | 19:17:12 |
 | Maghrib | 19:18:10 |
 | Isha (Night) | 20:27:43 |
-| Sharia Midnight | 00:33:52 |
+| Sharia Midnight | 00:33:51 |
 | Imum Coeli | 01:11:15 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:05:13 |
 | Dhuhr (Noon) | 13:11:13 |
 | Medium Coeli | 13:11:13 |
-| Sunset | 19:17:13 |
+| Sunset | 19:17:12 |
 | Maghrib | 19:18:10 |
 | Isha (Night) | 20:32:03 |
-| Sharia Midnight | 00:33:52 |
+| Sharia Midnight | 00:33:51 |
 | Imum Coeli | 01:11:15 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'22.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°51'57.12" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|18°22'0.31" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|26°33'52.25" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|16°1'10.27" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'14.52" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|9°35'29.19" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°51'57.24" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|18°22'2.18" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|26°33'53.33" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|16°1'8.69" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'18.06" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|9°10'25.52" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

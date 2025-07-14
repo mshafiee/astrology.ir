@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:19:52 |
 | Dhuhr (Noon) | 13:31:16 |
 | Medium Coeli | 13:31:16 |
-| Sunset | 21:41:46 |
+| Sunset | 21:41:47 |
 | Maghrib | 22:11:55 |
 | Isha (Night) | 00:20:30 |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:19:52 |
 | Dhuhr (Noon) | 13:31:16 |
 | Medium Coeli | 13:31:16 |
-| Sunset | 21:41:46 |
+| Sunset | 21:41:47 |
 | Maghrib | 21:43:40 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:19:52 |
 | Dhuhr (Noon) | 13:31:16 |
 | Medium Coeli | 13:31:16 |
-| Sunset | 21:41:46 |
+| Sunset | 21:41:47 |
 | Maghrib | 21:43:40 |
 | Isha (Night) | 00:48:43 |
-| Sharia Midnight | 23:58:01 |
+| Sharia Midnight | 23:58:02 |
 | Imum Coeli | 01:31:18 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:19:52 |
 | Dhuhr (Noon) | 13:31:16 |
 | Medium Coeli | 13:31:16 |
-| Sunset | 21:41:46 |
+| Sunset | 21:41:47 |
 | Maghrib | 21:43:40 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:19:52 |
 | Dhuhr (Noon) | 13:31:16 |
 | Medium Coeli | 13:31:16 |
-| Sunset | 21:41:46 |
+| Sunset | 21:41:47 |
 | Maghrib | 21:43:40 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:19:52 |
 | Dhuhr (Noon) | 13:31:16 |
 | Medium Coeli | 13:31:16 |
-| Sunset | 21:41:46 |
+| Sunset | 21:41:47 |
 | Maghrib | 21:43:40 |
 | Isha (Night) | 23:13:40 |
 | Sharia Midnight | Circumpolar Angle |
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 16:21:54|Night duration: 07:39:30|
-|Every hour duration: 02:20:16|Every hour duration: 01:05:39|
+|Duration of the day: 16:21:55|Night duration: 07:39:29|
+|Every hour duration: 02:20:16|Every hour duration: 01:05:38|
 
  
  
@@ -266,21 +266,21 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Venus|Ruler|05:19:52|07:40:07|
 |Mid-morning|Mercury|Servant|07:40:08|10:00:23|
-|Late morning|Moon|Servant|10:00:24|12:20:39|
-|Noon|Saturn|Servant|12:20:40|14:40:56|
-|Early afternoon|Jupiter|Servant|14:40:57|17:01:12|
-|Mid-afternoon|Mars|Servant|17:01:13|19:21:28|
-|Late afternoon|Sun|Servant|19:21:29|21:41:45|
+|Late morning|Moon|Servant|10:00:24|12:20:40|
+|Noon|Saturn|Servant|12:20:41|14:40:56|
+|Early afternoon|Jupiter|Servant|14:40:57|17:01:13|
+|Mid-afternoon|Mars|Servant|17:01:14|19:21:29|
+|Late afternoon|Sun|Servant|19:21:30|21:41:46|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|21:41:46|22:47:23|
-|Late evening|Sun|Servant|22:47:24|23:53:02|
-|Midnight|Venus|Servant|23:53:03|00:58:40|
-|Late at night|Mercury|Servant|00:58:41|02:04:19|
-|Rooster song|Moon|Servant|02:04:20|03:09:57|
-|False Dawn|Saturn|Servant|03:09:58|04:15:36|
+|Evening|Mars|Ruler|21:41:47|22:47:24|
+|Late evening|Sun|Servant|22:47:25|23:53:02|
+|Midnight|Venus|Servant|23:53:03|00:58:41|
+|Late at night|Mercury|Servant|00:58:42|02:04:19|
+|Rooster song|Moon|Servant|02:04:20|03:09:58|
+|False Dawn|Saturn|Servant|03:09:59|04:15:36|
 |Dawn|Jupiter|Servant|04:15:37|05:21:15|
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'47.62" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|8°41'31.13" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°53'52.24" |Virgo|Simak|Venus|
+|♂ Mars|Direct|17°53'52.16" |Virgo|Simak|Venus|
 |☉ Sun|Direct|25°49'5.14" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|15°7'56.02" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'38.91" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|27°52'0.40" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|15°7'56.14" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'38.80" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°53'23.78" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

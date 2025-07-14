@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:10:54 |
-| Sunrise | 06:17:29 |
+| Sunrise | 06:17:28 |
 | Dhuhr (Noon) | 12:27:27 |
 | Medium Coeli | 12:27:27 |
 | Sunset | 18:37:24 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:15:16 |
-| Sunrise | 06:17:28 |
+| Sunrise | 06:17:29 |
 | Dhuhr (Noon) | 12:27:27 |
 | Medium Coeli | 12:27:27 |
 | Sunset | 18:37:24 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:55:35 |
-| Sunrise | 06:17:28 |
+| Sunrise | 06:17:29 |
 | Dhuhr (Noon) | 12:27:27 |
 | Medium Coeli | 12:27:27 |
 | Sunset | 18:37:24 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:02:09 |
-| Sunrise | 06:17:28 |
+| Sunrise | 06:17:29 |
 | Dhuhr (Noon) | 12:27:27 |
 | Medium Coeli | 12:27:27 |
 | Sunset | 18:37:24 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:59:58 |
-| Sunrise | 06:17:28 |
+| Sunrise | 06:17:29 |
 | Dhuhr (Noon) | 12:27:27 |
 | Medium Coeli | 12:27:27 |
 | Sunset | 18:37:24 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:19:56|Night duration: 11:40:12|
+|Duration of the day: 12:19:55|Night duration: 11:40:12|
 |Every hour of day duration: 01:01:40|Every hour of night duration: 00:58:21|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:17:28|07:19:06|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:19:07|08:20:46|Attracting auspiciousness|
-|3|Moon|Servant|08:20:47|09:22:26|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:22:27|10:24:05|Unfortunate hour|
-|5|Jupiter|Servant|10:24:06|11:25:45|Achieving position and status and attracting job fortune|
+|1|Venus|Ruler|06:17:29|07:19:07|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:19:08|08:20:47|Attracting auspiciousness|
+|3|Moon|Servant|08:20:48|09:22:26|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:22:27|10:24:06|Unfortunate hour|
+|5|Jupiter|Servant|10:24:07|11:25:45|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|11:25:46|12:27:25|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:27:26|13:29:04|Promotion and attracting wealth|
-|8|Venus|Ruler|13:29:05|14:30:44|Auspicious and ultimate happiness and fortune|
+|7|Sun|Servant|12:27:26|13:29:05|Promotion and attracting wealth|
+|8|Venus|Ruler|13:29:06|14:30:44|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:30:45|15:32:24|Causing separation and homelessness|
 |10|Moon|Servant|15:32:25|16:34:03|Extremely unfortunate|
 |11|Saturn|Servant|16:34:04|17:35:43|Creating an unfortunate horoscope for anyone|

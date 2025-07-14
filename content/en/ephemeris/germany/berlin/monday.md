@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.19" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°47'10.36" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°28'30.20" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°56'59.23" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|7°47'10.67" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°28'31.57" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°57'1.03" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°33'16.95" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|14°55'3.18" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|1°21'35.89" |Pisces|FarghAlMuqaddam|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린

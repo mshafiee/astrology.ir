@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:06:46 |
+| Sunrise | 05:06:47 |
 | Dhuhr (Noon) | 13:04:10 |
 | Medium Coeli | 13:04:10 |
 | Sunset | 21:00:49 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'50.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°40'17.17" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|17°50'32.68" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|25°43'48.01" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|15°1'39.44" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|8°40'17.18" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|17°50'32.71" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|25°43'48.05" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|15°1'39.49" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°34'37.65" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|26°34'11.92" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°34'12.38" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'50.39" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|8°40'17.17" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°50'32.68" |Virgo|Simak|Venus|
-|☉ Sun|Direct|25°43'48.01" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|15°1'39.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'37.65" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|26°34'11.92" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|8°40'16.93" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|17°50'32.93" |Virgo|Simak|Venus|
+|☉ Sun|Direct|25°43'48.28" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|15°1'39.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'38.26" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|26°31'16.85" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

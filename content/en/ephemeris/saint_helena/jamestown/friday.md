@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:42:25 |
 | Sunrise | 06:50:30 |
-| Dhuhr (Noon) | 12:29:09 |
-| Medium Coeli | 12:29:09 |
+| Dhuhr (Noon) | 12:29:08 |
+| Medium Coeli | 12:29:08 |
 | Sunset | 18:07:54 |
 | Maghrib | 18:23:09 |
 | Isha (Night) | 19:07:13 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:33:41 |
 | Sunrise | 06:50:30 |
-| Dhuhr (Noon) | 12:29:09 |
-| Medium Coeli | 12:29:09 |
+| Dhuhr (Noon) | 12:29:08 |
+| Medium Coeli | 12:29:08 |
 | Sunset | 18:07:54 |
 | Maghrib | 18:11:07 |
 | Isha (Night) | 19:20:19 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:46:47 |
 | Sunrise | 06:50:30 |
-| Dhuhr (Noon) | 12:29:09 |
-| Medium Coeli | 12:29:09 |
+| Dhuhr (Noon) | 12:29:08 |
+| Medium Coeli | 12:29:08 |
 | Sunset | 18:07:54 |
 | Maghrib | 18:11:07 |
 | Isha (Night) | 19:11:35 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:27:10 |
 | Sunrise | 06:50:30 |
-| Dhuhr (Noon) | 12:29:09 |
-| Medium Coeli | 12:29:09 |
+| Dhuhr (Noon) | 12:29:08 |
+| Medium Coeli | 12:29:08 |
 | Sunset | 18:07:54 |
 | Maghrib | 18:11:07 |
 | Isha (Night) | 19:22:30 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'44.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°42'55.40" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|17°57'38.70" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|25°55'6.66" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|15°15'4.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'40.86" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|29°23'48.42" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|8°42'55.02" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|17°57'40.42" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|25°55'5.13" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|15°15'0.06" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'41.33" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|28°46'7.92" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

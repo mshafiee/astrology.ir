@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:07:40 |
 | Medium Coeli | 12:07:40 |
 | Sunset | 18:23:06 |
-| Maghrib | 18:37:51 |
+| Maghrib | 18:37:50 |
 | Isha (Night) | 19:21:40 |
 | Sharia Midnight | 23:34:02 |
 | Imum Coeli | 00:07:43 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°54'56.73" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|8°37'22.76" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|17°42'42.12" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|25°31'5.45" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|14°46'36.38" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'8.19" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|22°52'57.93" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|25°31'20.66" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°46'51.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'27.52" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|23°26'30.21" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'56.73" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|8°37'22.76" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°42'40.11" |Virgo|Simak|Venus|
-|☉ Sun|Direct|25°31'5.45" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|14°46'36.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'8.19" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°52'57.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°42'42.12" |Virgo|Simak|Venus|
+|☉ Sun|Direct|25°31'20.66" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|14°46'51.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'27.52" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°26'30.21" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}

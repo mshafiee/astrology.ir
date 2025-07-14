@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:54:17 |
+| Fajr (Dawn) | 03:54:16 |
 | Sunrise | 05:17:19 |
 | Dhuhr (Noon) | 12:22:29 |
 | Medium Coeli | 12:22:29 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'1.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°46'29.61" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°26'42.36" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°54'7.56" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°56'1.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°46'29.88" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°26'42.31" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°54'7.52" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°29'53.58" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°54'7.43" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|0°29'11.83" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|14°54'7.41" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|0°29'12.65" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'1.38" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°46'29.61" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°26'42.36" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°54'7.56" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°56'1.46" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°46'29.88" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°26'42.31" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°54'7.52" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°29'53.58" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°54'7.43" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°29'11.83" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|14°54'7.41" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|0°29'12.65" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

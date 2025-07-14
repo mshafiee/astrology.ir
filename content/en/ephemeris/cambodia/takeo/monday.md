@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'54.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°58'14.75" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°57'55.50" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°44'7.90" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°28'53.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°9'22.80" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°21'34.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|1°55'54.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°58'14.48" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°57'55.54" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°44'7.94" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°28'53.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°9'22.82" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°21'33.76" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

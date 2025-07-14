@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|7°47'18.33" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|15°28'50.60" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|21°57'33.69" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°33'52.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°55'11.47" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|1°37'17.19" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|10°33'56.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°55'17.90" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°12'41.52" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|1°56'1.11" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|7°47'18.33" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|15°28'50.60" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°57'28.84" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°33'52.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°55'11.47" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°37'17.19" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°57'33.69" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°33'56.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°55'17.90" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°12'41.52" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'1.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°45'51.34" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°25'0.60" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°51'24.93" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°26'41.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°53'12.75" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|29°46'12.08" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Retrograde|1°56'1.72" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°45'50.17" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°24'58.17" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°51'16.80" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°26'35.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°53'1.72" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|0°30'2.52" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'1.63" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°45'51.34" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°25'0.60" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°51'24.93" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°26'40.54" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°53'12.92" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°43'29.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|1°56'1.72" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°45'51.61" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°25'0.55" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°51'24.89" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°26'41.51" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°53'12.72" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°46'12.89" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이

@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:46:57 |
-| Sunrise | 05:12:04 |
+| Sunrise | 05:12:03 |
 | Dhuhr (Noon) | 11:54:51 |
 | Medium Coeli | 11:54:51 |
 | Sunset | 18:37:27 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:45:22 |
-| Sunrise | 05:12:04 |
+| Sunrise | 05:12:03 |
 | Dhuhr (Noon) | 11:54:51 |
 | Medium Coeli | 11:54:51 |
 | Sunset | 18:37:27 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:00:58 |
-| Sunrise | 05:12:04 |
+| Sunrise | 05:12:03 |
 | Dhuhr (Noon) | 11:54:51 |
 | Medium Coeli | 11:54:51 |
 | Sunset | 18:37:27 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:42:44 |
-| Sunrise | 05:12:04 |
+| Sunrise | 05:12:03 |
 | Dhuhr (Noon) | 11:54:51 |
 | Medium Coeli | 11:54:51 |
 | Sunset | 18:37:27 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:25:23|Night duration: 10:35:02|
+|Duration of the day: 13:25:24|Night duration: 10:35:02|
 |Every hour of day duration: 01:07:07|Every hour of night duration: 00:52:55|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|05:12:04|06:19:09|Acceptance of needs|
+|1|Mercury|Ruler|05:12:03|06:19:09|Acceptance of needs|
 |2|Moon|Servant|06:19:10|07:26:16|Unfortunate, no task is suitable|
 |3|Saturn|Servant|07:26:17|08:33:23|For overcoming diseases|
 |4|Jupiter|Servant|08:33:24|09:40:30|For all tasks, extremely auspicious|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:25:23|Night duration: 10:35:02|
+|Duration of the day: 13:25:24|Night duration: 10:35:02|
 |Every hour duration: 01:55:03|Every hour duration: 01:30:43|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|05:12:04|07:07:06|
-|Mid-morning|Moon|Servant|07:07:07|09:02:09|
-|Late morning|Saturn|Servant|09:02:10|10:57:12|
-|Noon|Jupiter|Servant|10:57:13|12:52:16|
-|Early afternoon|Mars|Servant|12:52:17|14:47:19|
+|Early morning|Mercury|Ruler|05:12:03|07:07:05|
+|Mid-morning|Moon|Servant|07:07:06|09:02:08|
+|Late morning|Saturn|Servant|09:02:09|10:57:12|
+|Noon|Jupiter|Servant|10:57:13|12:52:15|
+|Early afternoon|Mars|Servant|12:52:16|14:47:19|
 |Mid-afternoon|Sun|Servant|14:47:20|16:42:22|
 |Late afternoon|Venus|Servant|16:42:23|18:37:26|
 

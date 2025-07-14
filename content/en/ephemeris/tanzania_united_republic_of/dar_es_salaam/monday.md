@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:14:25 |
+| Fajr (Dawn) | 05:14:26 |
 | Sunrise | 06:35:55 |
 | Dhuhr (Noon) | 12:28:50 |
 | Medium Coeli | 12:28:50 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'1.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°47'30.95" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°29'24.05" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°58'27.14" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°34'59.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°55'35.41" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|1°27'21.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|1°56'0.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°47'30.68" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°29'24.10" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°58'27.18" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°34'59.42" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°55'35.43" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°27'20.53" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'1.03" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°47'30.95" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°29'24.05" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°58'27.14" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°34'59.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°55'35.41" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°27'21.37" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°56'0.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°47'30.68" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°29'24.10" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°58'27.18" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°34'59.42" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°55'35.43" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°27'20.53" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
