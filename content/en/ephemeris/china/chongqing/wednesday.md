@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:59:51 |
 | Sunset | 19:55:14 |
 | Maghrib | 20:12:42 |
-| Isha (Night) | 21:06:27 |
+| Isha (Night) | 21:06:26 |
 | Sharia Midnight | 00:18:43 |
 | Imum Coeli | 00:59:54 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'21.02" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°24'40.46" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|17°8'34.23" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|24°36'57.90" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°55'21.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|8°24'40.73" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|17°8'34.19" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|24°36'57.86" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|13°42'22.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'44.73" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|9°55'54.46" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|15°30'44.71" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|9°55'54.68" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'21.02" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|8°24'40.46" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°8'34.23" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|24°36'57.90" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'21.10" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°24'40.73" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|17°8'34.19" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|24°36'57.86" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|13°42'22.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'44.73" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|9°55'54.46" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|15°30'44.71" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|9°55'54.68" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

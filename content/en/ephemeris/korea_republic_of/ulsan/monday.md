@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:31:16 |
+| Fajr (Dawn) | 03:31:17 |
 | Sunrise | 05:17:44 |
 | Dhuhr (Noon) | 12:28:37 |
 | Medium Coeli | 12:28:37 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'55.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°56'52.21" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°54'16.12" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°38'16.18" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°55'55.30" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°56'51.94" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°54'16.16" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°38'16.21" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|11°21'58.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°7'45.17" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|11°2'19.52" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|15°7'45.19" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|11°2'18.60" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'55.38" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°56'52.21" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°54'16.12" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°38'16.18" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'55.30" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°56'51.94" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°54'16.16" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°38'16.21" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|11°21'58.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°7'45.17" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|11°2'19.52" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|15°7'45.19" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°2'18.60" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

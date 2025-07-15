@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°46'39.84" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°27'8.73" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°54'49.91" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°30'43.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°54'21.84" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|0°38'55.01" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°46'39.06" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°27'6.78" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°54'45.40" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°30'41.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°54'14.87" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°9'12.48" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.39" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°46'39.84" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°27'8.73" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°54'49.91" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°30'43.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°54'21.84" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°38'55.01" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°46'39.06" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°27'6.78" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°54'45.40" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°30'41.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°54'14.87" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°9'12.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة

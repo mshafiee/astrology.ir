@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:19:16 |
+| Fajr (Dawn) | 04:19:17 |
 | Sunrise | 05:43:18 |
 | Dhuhr (Noon) | 12:15:51 |
 | Medium Coeli | 12:15:51 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°54'22.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°51'45.16" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|18°21'29.60" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|26°33'1.57" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|16°0'7.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'21.38" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°57'23.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°51'43.69" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|18°21'27.04" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|26°32'54.78" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|16°0'3.10" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'10.41" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|8°59'0.70" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°54'22.53" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|8°51'45.16" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|18°21'29.60" |Virgo|Simak|Venus|
-|☉ Sun|Direct|26°33'1.57" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|1°54'22.45" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°51'44.88" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°21'29.64" |Virgo|Simak|Venus|
+|☉ Sun|Direct|26°33'1.60" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|16°0'7.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'21.38" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|8°57'23.56" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°33'21.40" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|8°57'24.14" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

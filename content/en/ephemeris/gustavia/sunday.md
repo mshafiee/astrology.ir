@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°55'59.29" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|7°50'57.14" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|15°38'31.69" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°13'4.62" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°52'14.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'19.29" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°55'26.02" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|22°12'58.31" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°52'5.14" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'14.58" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|4°56'38.61" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'59.29" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°50'56.86" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°38'31.73" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°13'4.65" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°52'14.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'19.29" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°55'32.93" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|7°50'57.14" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°38'31.69" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°13'4.62" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°52'14.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'14.58" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°56'38.61" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아

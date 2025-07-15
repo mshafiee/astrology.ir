@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'0.78" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°48'3.63" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°30'50.86" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°0'45.75" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°37'43.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'20.83" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°3'7.95" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°48'3.56" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°30'52.46" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°0'46.07" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°37'40.93" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'23.26" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°46'34.08" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'0.78" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°48'3.33" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°30'50.94" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°0'45.79" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°37'43.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'20.85" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°3'7.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|7°48'3.63" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°30'50.86" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°0'45.96" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°37'43.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'20.99" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°2'58.67" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: LUN, Lousaka, Louzaka, Lusaca, Lusak, Lusaka, Lusako, Lúsaka, Lûsaka, lu sa ka, lu sha ka, lucakka, lusaka, lwsaka, lwsqh, lwwsaka, rusaka, Λουσάκα, Лусака, Լուսակա, לוסאקא, לוסקה, لوساكا, لوساکا, لووساکا, لۇساكا, लुसाका, লুসাকা, ਲੁਸਾਕਾ, ଲୁସାକ, லுசாக்கா, ลูซากา, ལུ་ས་ཀ།, ლუსაკა, ሉሳካ, ルサカ, 盧薩卡, 路沙卡, 루사카

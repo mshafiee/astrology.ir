@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'58.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°51'30.73" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°40'0.91" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°15'27.06" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|7°51'30.74" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°40'0.96" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°15'27.10" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°55'2.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'2.81" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|5°33'52.99" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|15°1'2.83" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|5°33'52.09" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'58.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°51'30.73" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°40'0.91" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°15'27.06" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'58.90" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°51'30.46" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°40'0.96" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°15'27.10" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|10°55'2.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'2.81" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|5°33'52.99" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|15°1'2.83" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|5°33'52.09" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Ciudad Santa Cruz, Ciudad de Santa Cruz de la Sierra, SRZ, Santa Cruz, Santa Cruz da Serra, Santa Cruz de la Sierra, Santa-Krus-de-la-Sierra, santakurusu, Санта-Крус-де-ла-Сиерра, سانتا کروز دلاسیه‌را, サンタクルス

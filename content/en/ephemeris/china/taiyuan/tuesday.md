@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 19:51:32 |
 | Maghrib | 19:57:18 |
 | Isha (Night) | 21:27:18 |
-| Sharia Midnight | 23:37:52 |
+| Sharia Midnight | 23:37:51 |
 | Imum Coeli | 00:35:48 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'41.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°10'52.08" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|16°31'35.76" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|23°37'57.10" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|12°32'30.63" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°21'49.86" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|25°28'57.31" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|8°10'52.17" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|16°31'35.95" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|23°37'57.62" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|12°32'30.96" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°21'50.64" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|25°26'37.28" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

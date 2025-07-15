@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'55.71" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|7°56'27.05" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°53'8.25" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°36'26.45" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°19'50.27" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°7'11.93" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°48'12.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|15°53'8.90" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°36'28.50" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°19'51.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°7'14.87" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°37'38.43" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

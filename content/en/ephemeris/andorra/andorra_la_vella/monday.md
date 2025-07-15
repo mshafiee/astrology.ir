@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'0.81" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°47'57.85" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°30'39.80" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°0'18.19" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|7°48'0.62" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°30'43.33" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°0'33.30" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°37'28.83" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|14°56'15.75" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|2°5'22.90" |Aquarius|SaadAlSaud|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: ALV, Ando-la-Vyey, Andora, Andora la Vela, Andora la Velja, Andora lja Vehl'ja, Andoro Malnova, Andorra, Andorra Tuan, Andorra a Vella, Andorra la Biella, Andorra la Vella, Andorra la Vielha, Andorra-a-Velha, Andorra-la-Vel'ja, Andorra-la-Vielye, Andorre-la-Vieille, Andò-la-Vyèy, Andòrra la Vièlha, an dao er cheng, andolalabeya, andwra la fyla, Ανδόρρα, Андора ла Веля, Андора ла Веља, Андора ля Вэлья, Андорра-ла-Велья, אנדורה לה וולה, أندورا لا فيلا, አንዶራ ላ ቬላ, アンドラ・ラ・ヴェリャ, 安道爾城, 안도라라베야

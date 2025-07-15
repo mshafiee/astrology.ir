@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:47:36 |
 | Sunrise | 06:04:56 |
-| Dhuhr (Noon) | 13:01:12 |
-| Medium Coeli | 13:01:12 |
+| Dhuhr (Noon) | 13:01:11 |
+| Medium Coeli | 13:01:11 |
 | Sunset | 19:57:10 |
 | Maghrib | 19:58:18 |
 | Isha (Night) | 21:14:20 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'16.14" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°27'27.80" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|17°16'3.35" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|24°48'53.83" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°55'16.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|8°27'28.07" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|17°16'3.31" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|24°48'53.80" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|13°56'30.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'55.72" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°53'7.79" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|15°31'55.70" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°53'7.93" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'16.14" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|8°27'27.80" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°16'3.35" |Virgo|Simak|Venus|
-|☉ Sun|Direct|24°48'53.83" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'16.22" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°27'28.07" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|17°16'3.31" |Virgo|Simak|Venus|
+|☉ Sun|Direct|24°48'53.80" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|13°56'30.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'55.72" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°53'7.79" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°31'55.70" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°53'49.41" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|7°48'59.39" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|15°33'18.90" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|22°4'43.59" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°42'23.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'39.59" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°55'18.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|10°42'13.01" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'35.28" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°54'34.93" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

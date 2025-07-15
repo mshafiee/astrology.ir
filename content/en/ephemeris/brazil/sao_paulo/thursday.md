@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:27:03 |
+| Fajr (Dawn) | 05:27:02 |
 | Sunrise | 06:47:38 |
 | Dhuhr (Noon) | 12:12:45 |
 | Medium Coeli | 12:12:45 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|8°44'33.65" |Gemini|HanAh|Jupiter|
 |♂ Mars|Direct|18°2'3.86" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|26°2'7.99" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|15°23'25.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'34.61" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|1°9'15.71" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°23'16.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'27.71" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|0°23'14.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'54.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°57'35.09" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°56'9.98" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°41'18.92" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°25'33.85" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°8'36.99" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|11°39'47.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|7°57'32.26" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°56'6.50" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°41'2.33" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°25'19.63" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°8'15.77" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°39'22.98" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}

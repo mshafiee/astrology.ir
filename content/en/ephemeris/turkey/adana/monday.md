@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°46'53.69" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°27'45.49" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°55'48.61" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°31'53.36" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°54'40.58" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|0°59'5.02" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°46'53.78" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°27'45.79" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°55'49.08" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°31'53.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°54'41.44" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|0°55'0.84" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.30" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°46'53.78" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°27'45.79" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°55'49.08" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°31'53.47" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|7°46'53.69" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°27'45.49" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°55'48.61" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°31'53.36" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|14°54'40.58" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|0°59'5.02" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'1.29" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°46'54.53" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°27'48.54" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°55'53.37" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|7°46'54.84" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°27'48.69" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°55'53.57" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°31'58.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°54'42.21" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|0°59'59.56" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|14°54'42.19" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°0'0.39" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°56'1.21" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°46'54.57" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°27'48.73" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|21°55'53.61" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|10°31'58.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°54'42.71" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°57'31.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°56'1.29" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°46'54.80" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°27'48.50" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|21°55'53.33" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|10°31'58.88" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°54'42.19" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°0'0.39" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라
