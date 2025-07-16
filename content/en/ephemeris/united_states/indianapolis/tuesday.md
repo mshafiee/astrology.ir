@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:46:55 |
-| Sunrise | 06:29:16 |
+| Sunrise | 06:29:15 |
 | Dhuhr (Noon) | 13:50:40 |
 | Medium Coeli | 13:50:40 |
 | Sunset | 21:11:41 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:26 |
-| Sunrise | 06:29:16 |
+| Sunrise | 06:29:15 |
 | Dhuhr (Noon) | 13:50:40 |
 | Medium Coeli | 13:50:40 |
 | Sunset | 21:11:41 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:26:48 |
-| Sunrise | 06:29:16 |
+| Sunrise | 06:29:15 |
 | Dhuhr (Noon) | 13:50:40 |
 | Medium Coeli | 13:50:40 |
 | Sunset | 21:11:41 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'31.33" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°18'12.75" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|16°51'15.29" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|24°9'20.19" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°9'39.19" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'11.34" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°9'44.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°55'31.55" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|8°18'10.43" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|16°51'11.07" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|24°9'4.68" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°9'27.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°26'49.54" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°45'14.46" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Saturn|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

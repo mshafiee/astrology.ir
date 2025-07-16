@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'53.71" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|7°58'58.09" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|15°59'51.83" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°47'12.33" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°32'30.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'12.54" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°59'0.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|7°58'58.05" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°59'51.00" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°47'12.35" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°32'31.62" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°10'11.49" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|13°8'50.31" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Venus|Venus|Mercury|Moon|
+|☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'53.71" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|7°58'58.05" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°59'51.00" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|22°47'12.35" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|11°32'31.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'11.49" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|13°8'50.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|7°58'58.12" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°59'51.39" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|22°47'12.73" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|11°32'31.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°10'12.39" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|13°3'43.58" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
