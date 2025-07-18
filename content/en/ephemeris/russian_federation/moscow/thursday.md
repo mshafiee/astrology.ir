@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'18.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|8°26'22.86" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|17°13'8.87" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|24°44'14.19" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°51'0.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'25.72" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|11°48'54.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|8°26'22.65" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|17°13'8.12" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|24°44'14.30" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°51'1.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'24.78" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°1'58.95" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'18.17" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|8°26'22.86" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°13'8.87" |Virgo|Simak|Venus|
-|☉ Sun|Direct|24°44'14.19" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°55'18.09" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°26'22.59" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|17°13'8.91" |Virgo|Simak|Venus|
+|☉ Sun|Direct|24°44'14.22" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|13°51'0.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'25.72" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|11°48'54.34" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|15°31'25.73" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°48'54.17" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
