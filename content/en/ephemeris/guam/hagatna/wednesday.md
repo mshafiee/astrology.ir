@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:51:21 |
 | Maghrib | 18:52:19 |
 | Isha (Night) | 19:55:38 |
-| Sharia Midnight | 23:55:26 |
+| Sharia Midnight | 23:55:27 |
 | Imum Coeli | 00:27:32 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°50'20.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°56'33.47" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|21°18'36.68" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|1°13'9.76" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°50'20.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°56'33.20" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|21°18'36.72" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|1°13'9.80" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|21°34'21.30" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|14°18'11.37" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|19°40'40.51" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|14°18'11.41" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|19°40'39.99" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°50'20.16" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°56'31.12" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|21°18'36.11" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|1°12'57.33" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°34'7.69" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|14°17'53.77" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°4'7.27" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°50'20.08" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°56'33.20" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|21°18'36.72" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|1°13'9.80" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°34'21.30" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|14°18'11.41" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°40'39.99" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

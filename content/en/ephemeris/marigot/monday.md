@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:51:26 |
 | Isha (Night) | 20:06:35 |
 | Sharia Midnight | 23:38:24 |
-| Imum Coeli | 00:18:48 |
+| Imum Coeli | 00:18:49 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:51:26 |
 | Isha (Night) | 20:21:26 |
 | Sharia Midnight | 23:37:12 |
-| Imum Coeli | 00:18:48 |
+| Imum Coeli | 00:18:49 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°51'45.75" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|9°37'42.41" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|20°26'41.72" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|29°51'18.09" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°56'26.53" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|14°51'43.15" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°16'28.83" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°26'41.71" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|29°51'18.08" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°56'26.54" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|14°51'43.13" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°16'31.66" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:20:29 |
+| Fajr (Dawn) | 03:20:30 |
 | Sunrise | 05:29:26 |
 | Dhuhr (Noon) | 13:16:40 |
 | Medium Coeli | 13:16:40 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'0.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°47'59.65" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°54'59.64" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|0°35'55.67" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°51'0.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°47'59.38" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°54'59.67" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|0°35'55.71" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|20°49'48.73" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Retrograde|14°34'29.30" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°13'58.26" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°34'29.35" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°13'57.89" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'0.62" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°47'59.65" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|20°54'59.64" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|0°35'55.67" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|1°51'0.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°47'59.38" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|20°54'59.67" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|0°35'55.71" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|20°49'48.73" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|14°34'29.30" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|10°13'58.26" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|14°34'29.35" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°13'57.89" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

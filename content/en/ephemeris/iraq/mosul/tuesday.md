@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 14:14:57|Night duration: 09:45:48|
+|Duration of the day: 14:14:56|Night duration: 09:45:48|
 |Every hour of day duration: 01:11:15|Every hour of night duration: 00:48:49|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:06:19|06:17:32|Creating corruption, hatred and enmity|
-|2|Sun|Servant|06:17:33|07:28:47|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|07:28:48|08:40:02|Attracting connection and suitors|
-|4|Mercury|Servant|08:40:03|09:51:17|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|09:51:18|11:02:31|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:02:32|12:13:46|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|12:13:47|13:25:01|Attracting love and hearts|
+|1|Mars|Ruler|05:06:20|06:17:33|Creating corruption, hatred and enmity|
+|2|Sun|Servant|06:17:34|07:28:48|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|07:28:49|08:40:03|Attracting connection and suitors|
+|4|Mercury|Servant|08:40:04|09:51:17|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|09:51:18|11:02:32|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|11:02:33|12:13:47|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|12:13:48|13:25:01|Attracting love and hearts|
 |8|Mars|Ruler|13:25:02|14:36:16|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|14:36:17|15:47:30|Heart tenderness|
-|10|Venus|Servant|15:47:31|16:58:45|Attracting misfortune, no task is suitable|
+|9|Sun|Servant|14:36:17|15:47:31|Heart tenderness|
+|10|Venus|Servant|15:47:32|16:58:45|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|16:58:46|18:10:00|Attracting connection and suitors|
 |12|Moon|Servant|18:10:01|19:21:15|Hatred, corruption and creating negative energy for disruption|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°52'3.28" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°33'28.09" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|20°15'4.34" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|29°32'56.27" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°34'30.70" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|14°57'56.62" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°33'37.35" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|9°33'27.82" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|20°15'4.42" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|29°32'56.34" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°34'30.67" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|14°57'56.76" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°33'27.47" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

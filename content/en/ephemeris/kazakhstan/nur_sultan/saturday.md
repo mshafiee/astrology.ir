@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 20:47:05 |
 | Isha (Night) | 22:31:54 |
 | Sharia Midnight | 22:57:36 |
-| Imum Coeli | 00:20:34 |
+| Imum Coeli | 00:20:35 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 20:24:30 |
 | Isha (Night) | 23:29:38 |
 | Sharia Midnight | 10:26:55 |
-| Imum Coeli | 00:20:34 |
+| Imum Coeli | 00:20:35 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 20:24:30 |
 | Isha (Night) | 22:47:21 |
 | Sharia Midnight | 23:06:44 |
-| Imum Coeli | 00:20:34 |
+| Imum Coeli | 00:20:35 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 20:24:30 |
 | Isha (Night) | 23:47:23 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:20:34 |
+| Imum Coeli | 00:20:35 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 20:24:30 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | 10:26:55 |
-| Imum Coeli | 00:20:34 |
+| Imum Coeli | 00:20:35 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 20:24:30 |
 | Isha (Night) | 21:54:30 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:20:34 |
+| Imum Coeli | 00:20:35 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°53'43.52" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°5'24.84" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|18°58'28.71" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|27°31'45.56" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|17°10'6.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°26'51.82" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|24°23'32.39" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|9°5'24.95" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|18°58'32.18" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|27°31'47.61" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|17°10'3.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°26'58.44" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|23°44'29.01" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

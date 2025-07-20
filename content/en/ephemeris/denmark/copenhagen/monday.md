@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:16:11 |
 | Medium Coeli | 13:16:11 |
 | Sunset | 21:35:20 |
-| Maghrib | 22:08:14 |
+| Maghrib | 22:08:13 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:16:12 |
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|1°52'52.41" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|9°20'40.05" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|19°40'3.97" |Virgo|Simak|Venus|
-|☉ Sun|Direct|28°37'34.31" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|18°28'26.87" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|15°13'49.22" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|10°22'14.18" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°37'34.90" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|18°28'27.52" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|15°13'49.93" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°26'54.86" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
