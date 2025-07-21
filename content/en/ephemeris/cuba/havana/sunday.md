@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:39:43 |
+| Fajr (Dawn) | 05:39:44 |
 | Sunrise | 06:54:57 |
 | Dhuhr (Noon) | 13:35:57 |
 | Medium Coeli | 13:35:57 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°52'35.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°25'5.25" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|19°52'8.48" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|28°56'42.05" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°52'36.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°25'5.52" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|19°52'8.44" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|28°56'42.01" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|18°51'14.70" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°8'54.18" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|15°26'47.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°8'54.14" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|15°26'47.05" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°52'35.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°25'5.25" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|19°52'8.48" |Virgo|Simak|Venus|
-|☉ Sun|Direct|28°56'42.05" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|1°52'36.05" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°25'5.52" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|19°52'8.44" |Virgo|Simak|Venus|
+|☉ Sun|Direct|28°56'42.01" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|18°51'14.70" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|15°8'54.18" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|15°26'47.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°8'54.14" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|15°26'47.05" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

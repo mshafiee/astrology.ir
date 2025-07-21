@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:43:32 |
 | Medium Coeli | 12:43:32 |
 | Sunset | 18:37:50 |
-| Maghrib | 18:52:41 |
+| Maghrib | 18:52:42 |
 | Isha (Night) | 19:35:22 |
 | Sharia Midnight | 00:10:30 |
 | Imum Coeli | 00:43:33 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'59.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°34'25.04" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°17'40.15" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|29°37'2.72" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°51'59.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°34'24.77" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°17'40.19" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|29°37'2.76" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|19°39'24.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'36.30" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|25°38'40.95" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|14°56'36.34" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|25°38'41.07" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'59.41" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°34'25.04" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|20°17'40.15" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|29°37'2.72" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|1°51'59.34" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°34'24.77" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|20°17'40.19" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|29°37'2.76" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|19°39'24.80" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|14°56'36.30" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°38'40.95" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|14°56'36.34" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|25°38'41.07" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

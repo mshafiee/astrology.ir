@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:08:25 |
+| Fajr (Dawn) | 03:08:24 |
 | Sunrise | 05:04:21 |
 | Dhuhr (Noon) | 12:17:50 |
 | Medium Coeli | 12:17:50 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°49'9.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°10'15.92" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°56'35.96" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|2°12'55.26" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|22°45'57.65" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|13°48'8.69" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°4'26.71" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°49'9.97" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°10'16.20" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°56'35.93" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|2°12'55.22" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|22°45'57.66" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|13°48'8.65" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|4°4'27.20" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°49'9.90" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°10'15.92" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|21°56'35.96" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|2°12'55.26" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|22°45'57.65" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°49'9.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|10°10'16.20" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|21°56'35.93" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|2°12'55.22" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|22°45'57.66" |Gemini|Dhira|Sun|
 |☿ Mercury|Retrograde|13°48'8.65" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|4°4'27.20" |Leo|Jabhah|Saturn|
 

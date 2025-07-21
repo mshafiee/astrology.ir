@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:33:45 |
+| Fajr (Dawn) | 02:33:44 |
 | Sunrise | 05:11:44 |
 | Dhuhr (Noon) | 12:50:23 |
 | Medium Coeli | 12:50:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°50'1.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°0'27.30" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°29'24.21" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|1°30'6.57" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|21°54'41.70" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|14°9'56.61" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|23°16'16.10" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°50'0.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°0'27.60" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°29'25.39" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|1°30'9.96" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|21°54'43.88" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|14°10'2.31" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|23°38'1.66" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Mars|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°50'0.86" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°0'27.30" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|1°50'0.79" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|10°0'27.60" |Cancer|Nathrah|Mercury|
 |♂ Mars|Direct|21°29'24.21" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|1°30'6.57" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|21°54'41.70" |Gemini|Dhira|Sun|

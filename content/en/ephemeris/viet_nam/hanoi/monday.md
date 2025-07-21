@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:17:29 |
-| Sunrise | 05:26:01 |
+| Sunrise | 05:26:02 |
 | Dhuhr (Noon) | 12:03:04 |
 | Medium Coeli | 12:03:04 |
 | Sunset | 18:39:55 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:00:02 |
-| Sunrise | 05:26:01 |
+| Sunrise | 05:26:02 |
 | Dhuhr (Noon) | 12:03:04 |
 | Medium Coeli | 12:03:04 |
 | Sunset | 18:39:55 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:13:53|Night duration: 10:46:30|
+|Duration of the day: 13:13:54|Night duration: 10:46:30|
 |Every hour of day duration: 01:06:09|Every hour of night duration: 00:53:53|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:26:02|06:32:10|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|06:32:11|07:38:19|Outer and inner journey|
-|3|Jupiter|Servant|07:38:20|08:44:29|Marriage connection is good|
-|4|Mars|Servant|08:44:30|09:50:38|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|09:50:39|10:56:48|Answering needs, attracting love and wealth|
-|6|Venus|Servant|10:56:49|12:02:57|Summoning the person of interest, love and dominance|
+|1|Moon|Ruler|05:26:01|06:32:09|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|06:32:10|07:38:19|Outer and inner journey|
+|3|Jupiter|Servant|07:38:20|08:44:28|Marriage connection is good|
+|4|Mars|Servant|08:44:29|09:50:38|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|09:50:39|10:56:47|Answering needs, attracting love and wealth|
+|6|Venus|Servant|10:56:48|12:02:57|Summoning the person of interest, love and dominance|
 |7|Mercury|Servant|12:02:58|13:09:06|Making promises|
 |8|Moon|Ruler|13:09:07|14:15:16|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:15:17|15:21:25|Attracting and repelling enemies and causing separation|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°52'11.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°31'26.70" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°9'32.26" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|29°24'12.08" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°52'11.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°31'26.98" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°9'32.22" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|29°24'12.04" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|19°24'4.27" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'46.77" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|22°25'30.37" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|15°0'46.73" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|22°25'30.13" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°52'11.32" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°31'26.70" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|20°9'32.26" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|29°24'12.08" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|1°52'11.40" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°31'26.98" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|20°9'32.22" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|29°24'12.04" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|19°24'4.27" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|15°0'46.77" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°25'30.37" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|15°0'46.73" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|22°25'30.13" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

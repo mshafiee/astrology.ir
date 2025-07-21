@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'0.23" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°48'1.47" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°55'7.50" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|0°36'0.32" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°50'1.59" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Retrograde|14°33'56.73" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°44'59.94" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|1°51'0.16" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°48'4.29" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°55'12.59" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|0°36'17.10" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°50'13.47" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Retrograde|14°34'22.30" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°36'14.36" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Jupiter|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'0.16" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°51'0.23" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|9°48'4.56" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|20°55'12.55" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|0°36'17.05" |Leo|Jabhah|Saturn|

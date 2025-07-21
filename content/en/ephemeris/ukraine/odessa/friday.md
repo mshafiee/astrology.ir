@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 20:36:54 |
 | Maghrib | 21:00:08 |
 | Isha (Night) | 22:18:31 |
-| Sharia Midnight | 00:03:30 |
+| Sharia Midnight | 00:03:31 |
 | Imum Coeli | 01:03:35 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°48'53.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°13'13.52" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°4'48.76" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|2°25'49.39" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|23°1'26.34" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|13°41'4.05" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°5'6.82" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°48'53.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°13'13.25" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°4'48.80" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|2°25'49.43" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|23°1'26.33" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|13°41'4.10" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°5'6.36" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°48'53.89" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°13'13.25" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|22°4'48.80" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|2°25'49.43" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|23°1'26.33" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|13°41'4.10" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|7°5'6.36" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|10°13'13.50" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|22°4'48.96" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|2°25'49.37" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|23°1'26.02" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|13°41'4.18" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|7°5'8.96" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
