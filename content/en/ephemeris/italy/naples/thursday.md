@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:35:06|Night duration: 09:25:49|
+|Duration of the day: 14:35:06|Night duration: 09:25:48|
 |Every hour duration: 02:05:01|Every hour duration: 01:20:50|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Moon|Ruler|20:26:45|21:47:33|
 |Late evening|Saturn|Servant|21:47:34|23:08:23|
 |Midnight|Jupiter|Servant|23:08:24|00:29:13|
-|Late at night|Mars|Servant|00:29:14|01:50:03|
-|Rooster song|Sun|Servant|01:50:04|03:10:53|
-|False Dawn|Venus|Servant|03:10:54|04:31:43|
-|Dawn|Mercury|Servant|04:31:44|05:52:33|
+|Late at night|Mars|Servant|00:29:14|01:50:02|
+|Rooster song|Sun|Servant|01:50:03|03:10:52|
+|False Dawn|Venus|Servant|03:10:53|04:31:42|
+|Dawn|Mercury|Servant|04:31:43|05:52:32|
 
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°49'59.01" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°0'49.89" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|21°30'26.13" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|1°31'45.95" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°56'38.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|14°9'16.92" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°5'49.44" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|10°0'49.80" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|21°30'25.92" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|1°31'45.43" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°56'38.30" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|14°9'16.03" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°2'33.80" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

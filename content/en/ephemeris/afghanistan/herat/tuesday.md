@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:27:41 |
 | Medium Coeli | 12:27:41 |
 | Sunset | 19:30:02 |
-| Maghrib | 19:35:44 |
-| Isha (Night) | 21:05:44 |
+| Maghrib | 19:35:45 |
+| Isha (Night) | 21:05:45 |
 | Sharia Midnight | 23:35:36 |
 | Imum Coeli | 00:27:42 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°52'5.86" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°32'48.49" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°13'16.55" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|29°30'6.05" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°52'5.93" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°32'48.76" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°13'16.51" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|29°30'6.01" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|19°31'7.28" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'52.40" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|23°51'23.60" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|14°58'52.36" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|23°51'23.42" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

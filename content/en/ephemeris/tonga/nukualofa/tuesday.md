@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'25.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°42'20.09" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°39'30.40" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|0°11'19.65" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°20'24.09" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Retrograde|14°43'59.08" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°37'26.07" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|1°51'25.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°42'22.04" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°39'30.76" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|0°11'31.10" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°20'36.94" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Retrograde|14°44'14.49" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|4°12'40.08" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Jupiter|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'25.76" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°42'22.31" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|20°39'30.72" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|0°11'31.06" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|1°51'25.69" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°42'22.04" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|20°39'30.76" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|0°11'31.10" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|20°20'36.94" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|14°44'14.44" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°12'40.28" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|14°44'14.49" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°12'40.08" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

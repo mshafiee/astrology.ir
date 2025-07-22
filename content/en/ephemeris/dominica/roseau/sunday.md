@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:39:05 |
+| Fajr (Dawn) | 04:39:04 |
 | Sunrise | 05:44:29 |
 | Dhuhr (Noon) | 12:11:58 |
 | Medium Coeli | 12:11:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°52'38.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°24'26.31" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|19°50'21.96" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|28°53'53.71" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|1°52'38.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°24'26.58" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|19°50'21.92" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|28°53'53.67" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|18°47'53.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°9'40.63" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|14°44'58.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°9'40.60" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|14°44'58.26" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°52'38.42" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°24'26.31" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|19°50'21.96" |Virgo|Simak|Venus|
-|☉ Sun|Direct|28°53'53.71" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|1°52'38.49" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°24'26.58" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|19°50'21.92" |Virgo|Simak|Venus|
+|☉ Sun|Direct|28°53'53.67" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|18°47'53.74" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|15°9'40.63" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|14°44'58.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°9'40.60" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|14°44'58.26" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

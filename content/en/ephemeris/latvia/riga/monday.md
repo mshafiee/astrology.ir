@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:01:48 |
+| Sunrise | 05:01:47 |
 | Dhuhr (Noon) | 13:30:01 |
 | Medium Coeli | 13:30:01 |
 | Sunset | 21:57:02 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:01:48 |
+| Sunrise | 05:01:47 |
 | Dhuhr (Noon) | 13:30:01 |
 | Medium Coeli | 13:30:01 |
 | Sunset | 21:57:02 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:01:48 |
+| Sunrise | 05:01:47 |
 | Dhuhr (Noon) | 13:30:01 |
 | Medium Coeli | 13:30:01 |
 | Sunset | 21:57:02 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:01:48 |
+| Sunrise | 05:01:47 |
 | Dhuhr (Noon) | 13:30:01 |
 | Medium Coeli | 13:30:01 |
 | Sunset | 21:57:02 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:01:48 |
+| Sunrise | 05:01:47 |
 | Dhuhr (Noon) | 13:30:01 |
 | Medium Coeli | 13:30:01 |
 | Sunset | 21:57:02 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:01:48 |
+| Sunrise | 05:01:47 |
 | Dhuhr (Noon) | 13:30:01 |
 | Medium Coeli | 13:30:01 |
 | Sunset | 21:57:02 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:01:48 |
+| Sunrise | 05:01:47 |
 | Dhuhr (Noon) | 13:30:01 |
 | Medium Coeli | 13:30:01 |
 | Sunset | 21:57:02 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 16:55:15|Night duration: 07:06:32|
+|Duration of the day: 16:55:14|Night duration: 07:06:32|
 |Every hour duration: 02:25:02|Every hour duration: 01:00:56|
 
  
@@ -264,13 +264,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|05:01:47|07:26:48|
-|Mid-morning|Saturn|Servant|07:26:49|09:51:50|
-|Late morning|Jupiter|Servant|09:51:51|12:16:52|
-|Noon|Mars|Servant|12:16:53|14:41:54|
-|Early afternoon|Sun|Servant|14:41:55|17:06:56|
-|Mid-afternoon|Venus|Servant|17:06:57|19:31:58|
-|Late afternoon|Mercury|Servant|19:31:59|21:57:01|
+|Early morning|Moon|Ruler|05:01:48|07:26:49|
+|Mid-morning|Saturn|Servant|07:26:50|09:51:51|
+|Late morning|Jupiter|Servant|09:51:52|12:16:53|
+|Noon|Mars|Servant|12:16:54|14:41:55|
+|Early afternoon|Sun|Servant|14:41:56|17:06:57|
+|Mid-afternoon|Venus|Servant|17:06:58|19:31:59|
+|Late afternoon|Mercury|Servant|19:32:00|21:57:01|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
