@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:28:31 |
 | Maghrib | 18:45:41 |
 | Isha (Night) | 19:28:16 |
-| Sharia Midnight | 23:26:42 |
+| Sharia Midnight | 23:26:41 |
 | Imum Coeli | 00:04:57 |
 {{< /tab >}}
 
@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°51'45.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°37'39.22" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°26'32.90" |Leo|Zubrah|Mars|
+|♃ Jupiter|Direct|9°37'36.58" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°26'31.04" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|29°50'49.80" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|19°55'55.94" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|14°51'27.43" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°51'45.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°37'39.22" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|20°26'32.90" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|29°51'4.23" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|19°56'9.95" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|14°51'48.17" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°13'24.78" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|9°37'36.58" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|20°26'31.04" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|29°50'49.80" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|19°55'55.94" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|14°51'27.43" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°26'25.53" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

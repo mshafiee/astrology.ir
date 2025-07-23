@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:05:37 |
 | Medium Coeli | 12:05:37 |
 | Sunset | 17:50:46 |
-| Maghrib | 17:51:45 |
+| Maghrib | 17:51:44 |
 | Isha (Night) | 19:01:37 |
 | Sharia Midnight | 23:28:02 |
 | Imum Coeli | 00:05:38 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:05:37 |
 | Medium Coeli | 12:05:37 |
 | Sunset | 17:50:46 |
-| Maghrib | 17:51:45 |
+| Maghrib | 17:51:44 |
 | Isha (Night) | 19:03:46 |
 | Sharia Midnight | 23:24:49 |
 | Imum Coeli | 00:05:38 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°50'0.43" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°0'32.77" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|21°29'39.16" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|1°30'32.30" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|10°0'33.04" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|21°29'39.12" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|1°30'32.26" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|21°55'10.12" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|14°9'53.92" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°50'29.20" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|14°9'53.88" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°50'29.75" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

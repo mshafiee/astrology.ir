@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:57:31 |
 | Isha (Night) | 21:40:12 |
 | Sharia Midnight | 23:48:01 |
-| Imum Coeli | 00:43:31 |
+| Imum Coeli | 00:43:32 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 19:57:31 |
 | Isha (Night) | 21:47:34 |
 | Sharia Midnight | 23:48:01 |
-| Imum Coeli | 00:43:31 |
+| Imum Coeli | 00:43:32 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:57:31 |
 | Isha (Night) | 21:27:31 |
 | Sharia Midnight | 23:46:08 |
-| Imum Coeli | 00:43:32 |
+| Imum Coeli | 00:43:31 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°49'11.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°9'57.29" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°55'44.22" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|2°11'33.92" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|22°44'20.13" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|13°48'52.48" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°44'59.22" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°49'11.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°9'57.31" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°55'44.27" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|2°11'34.05" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|22°44'20.20" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|13°48'52.70" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°45'50.41" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

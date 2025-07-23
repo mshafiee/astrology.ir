@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 11:51:22 |
 | Medium Coeli | 11:51:22 |
 | Sunset | 17:34:10 |
-| Maghrib | 17:51:34 |
+| Maghrib | 17:51:33 |
 | Isha (Night) | 18:32:49 |
 | Sharia Midnight | 23:14:02 |
 | Imum Coeli | 23:51:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'1.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°47'48.31" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°54'28.62" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|0°35'7.52" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°51'1.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°47'48.59" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°54'28.58" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|0°35'7.48" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|20°48'50.46" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Retrograde|14°34'52.12" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°9'52.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°34'52.07" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°9'52.58" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°51'1.38" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|9°47'48.31" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|20°54'28.62" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|0°35'7.52" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|1°51'1.46" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°47'48.59" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|20°54'28.58" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|0°35'7.48" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|20°48'50.46" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|14°34'52.12" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|10°0'34.60" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|14°34'52.07" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°9'52.58" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
