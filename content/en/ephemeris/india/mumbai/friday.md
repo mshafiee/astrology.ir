@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:28 |
-| Sunrise | 06:12:44 |
+| Sunrise | 06:12:43 |
 | Dhuhr (Noon) | 12:45:01 |
 | Medium Coeli | 12:45:01 |
 | Sunset | 19:17:07 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:49:02 |
-| Sunrise | 06:12:44 |
+| Sunrise | 06:12:43 |
 | Dhuhr (Noon) | 12:45:01 |
 | Medium Coeli | 12:45:01 |
 | Sunset | 19:17:07 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:04:23|Night duration: 10:55:58|
+|Duration of the day: 13:04:24|Night duration: 10:55:58|
 |Every hour of day duration: 01:05:22|Every hour of night duration: 00:54:40|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:12:44|07:18:04|Love, creating love and attracting hearts|
+|1|Venus|Ruler|06:12:43|07:18:04|Love, creating love and attracting hearts|
 |2|Mercury|Servant|07:18:05|08:23:26|Attracting auspiciousness|
 |3|Moon|Servant|08:23:27|09:28:48|Attracting misfortune, no task is suitable|
 |4|Saturn|Servant|09:28:49|10:34:10|Unfortunate hour|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°48'59.15" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°12'15.18" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°2'6.94" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|2°21'36.06" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|22°56'21.64" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|13°43'27.77" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|6°15'50.01" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°48'59.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°12'15.44" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°2'6.88" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|2°21'35.98" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|22°56'21.59" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|13°43'27.75" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|6°15'49.88" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°48'59.15" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°12'15.18" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|22°2'6.94" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|2°21'36.06" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|22°56'21.64" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|13°43'27.77" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°15'50.01" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|1°48'59.22" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|10°12'15.44" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|22°2'6.88" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|2°21'35.98" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|22°56'21.59" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|13°43'27.75" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°15'49.88" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

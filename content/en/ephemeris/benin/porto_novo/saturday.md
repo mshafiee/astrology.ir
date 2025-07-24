@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°47'28.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°28'4.80" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°46'10.96" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|3°30'46.45" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|24°19'30.72" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|13°2'26.84" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|21°27'55.11" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|10°28'6.00" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°46'12.70" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|3°30'49.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|24°19'32.08" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|13°2'33.14" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|21°52'45.01" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°47'28.59" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°28'6.00" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|22°46'15.98" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°30'54.80" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|24°19'32.92" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|13°2'42.71" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°32'13.00" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|10°28'5.29" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|22°46'12.70" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°30'49.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°19'32.08" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|13°2'33.14" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|21°52'45.01" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
 |☿ Mercury|Moon|Moon|Capricorn|Sun|Sun|
-|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}

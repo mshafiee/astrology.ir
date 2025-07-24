@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:10:44 |
 | Isha (Night) | 19:54:45 |
 | Sharia Midnight | 00:02:53 |
-| Imum Coeli | 00:36:47 |
+| Imum Coeli | 00:36:46 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:59:36 |
 | Isha (Night) | 19:59:12 |
 | Sharia Midnight | 00:05:07 |
-| Imum Coeli | 00:36:47 |
+| Imum Coeli | 00:36:46 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:59:36 |
 | Isha (Night) | 20:10:23 |
 | Sharia Midnight | 23:55:02 |
-| Imum Coeli | 00:36:47 |
+| Imum Coeli | 00:36:46 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:59:36 |
 | Isha (Night) | 20:12:38 |
 | Sharia Midnight | 23:58:24 |
-| Imum Coeli | 00:36:47 |
+| Imum Coeli | 00:36:46 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°50'58.47" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|9°48'26.35" |Gemini|HanAh|Jupiter|
-|♂ Mars|Direct|20°56'13.38" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|0°37'53.17" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°52'8.19" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Retrograde|14°33'45.09" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°56'58.65" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|1°50'58.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|9°48'26.62" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|20°56'13.07" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|0°37'53.07" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°52'8.53" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Retrograde|14°33'44.69" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°58'13.86" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
