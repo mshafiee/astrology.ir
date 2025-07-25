@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:18:37 |
+| Fajr (Dawn) | 02:18:38 |
 | Sunrise | 05:19:54 |
 | Dhuhr (Noon) | 13:01:03 |
 | Medium Coeli | 13:01:03 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°50'0.48" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°0'32.34" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°29'37.72" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|1°30'29.34" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°50'0.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°0'32.06" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°29'37.76" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|1°30'29.38" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|21°55'7.19" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|14°9'52.65" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|23°42'15.82" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|14°9'52.69" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|23°42'15.28" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°50'0.48" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°0'32.34" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|21°29'37.72" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|1°30'29.34" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|1°50'0.41" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|10°0'32.06" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|21°29'37.76" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|1°30'29.38" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|21°55'7.19" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|14°9'52.65" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°42'15.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|14°9'52.69" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°42'15.28" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

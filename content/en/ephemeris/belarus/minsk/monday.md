@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:16:16 |
 | Sunset | 21:14:30 |
 | Maghrib | 21:18:46 |
-| Isha (Night) | 00:59:48 |
+| Isha (Night) | 00:59:47 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:16:15 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°44'52.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°52'18.78" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°54'16.20" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|5°17'22.06" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|26°27'35.44" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|11°50'55.52" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|16°13'17.64" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|1°44'52.55" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°52'18.51" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°54'16.23" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|5°17'22.09" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|26°27'35.43" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|11°50'55.55" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|16°13'17.03" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°44'52.61" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|10°52'18.78" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|23°54'18.54" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|5°17'23.03" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|26°27'33.10" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|11°50'58.07" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|16°39'59.71" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|1°44'52.55" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|10°52'18.51" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|23°54'16.23" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|5°17'22.09" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|26°27'35.43" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|11°50'55.55" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|16°13'17.03" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

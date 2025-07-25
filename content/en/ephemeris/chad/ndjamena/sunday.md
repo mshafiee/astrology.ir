@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°46'10.43" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|10°40'38.43" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|23°21'24.18" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|4°25'48.76" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|25°25'41.16" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|12°26'32.96" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|3°44'39.68" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|4°25'58.29" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|25°25'43.35" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|12°26'51.04" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|5°3'20.15" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Sun|Leo|Moon|Moon|
 |♀ Venus|Mars|Sun|Pisces|Sun|Saturn|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°46'10.43" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|10°40'38.43" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|23°21'24.18" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|4°25'58.29" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|25°25'43.35" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|12°26'51.04" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|5°3'20.15" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|23°21'18.26" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|4°25'48.76" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|25°25'41.16" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|12°26'32.96" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°44'39.68" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Virgo|Sun|Sun|
 |♀ Venus|Sun|Venus|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}

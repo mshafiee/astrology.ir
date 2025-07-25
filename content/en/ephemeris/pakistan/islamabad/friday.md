@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 19:13:27 |
 | Maghrib | 19:17:56 |
 | Isha (Night) | 20:46:07 |
-| Sharia Midnight | 23:25:04 |
+| Sharia Midnight | 23:25:05 |
 | Imum Coeli | 00:14:23 |
 {{< /tab >}}
 
@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 19:13:27 |
 | Maghrib | 19:17:56 |
 | Isha (Night) | 20:52:20 |
-| Sharia Midnight | 23:25:04 |
+| Sharia Midnight | 23:25:05 |
 | Imum Coeli | 00:14:23 |
 {{< /tab >}}
 
