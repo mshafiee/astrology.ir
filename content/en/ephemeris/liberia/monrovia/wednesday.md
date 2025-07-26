@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:20:50 |
+| Fajr (Dawn) | 05:20:51 |
 | Sunrise | 06:37:32 |
 | Dhuhr (Noon) | 12:49:38 |
 | Medium Coeli | 12:49:38 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°41'23.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°20'34.99" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°14'29.68" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|7°22'31.75" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|28°58'26.92" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|10°17'9.26" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|13°21'13.11" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|1°41'23.58" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°20'35.11" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°14'28.48" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|7°22'32.76" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|28°58'29.85" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|10°17'10.68" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|13°0'42.19" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°41'23.64" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°20'35.38" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|25°14'28.46" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|1°41'23.58" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°20'35.11" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|25°14'28.48" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|7°22'32.73" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|28°58'29.86" |Gemini|Dhira|Sun|
 |☿ Mercury|Retrograde|10°17'10.67" |Leo|Zubrah|Jupiter|

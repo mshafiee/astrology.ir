@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 15:05:12|Night duration: 08:56:01|
+|Duration of the day: 15:05:12|Night duration: 08:56:00|
 |Every hour of day duration: 01:15:26|Every hour of night duration: 00:44:40|
 
  
@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Mercury|Servant|01:57:11|02:41:50|Attracting and repelling enemies and causing separation|
 |10|Moon|Servant|02:41:51|03:26:30|Good for any task|
 |11|Saturn|Servant|03:26:31|04:11:10|Creating enmity and negative energy|
-|12|Jupiter|Servant|04:11:11|04:55:51|Heart tenderness|
+|12|Jupiter|Servant|04:11:11|04:55:50|Heart tenderness|
 
  
  

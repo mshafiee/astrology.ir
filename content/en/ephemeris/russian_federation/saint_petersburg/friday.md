@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:23:36 |
+| Sunrise | 04:23:37 |
 | Dhuhr (Noon) | 13:05:18 |
 | Medium Coeli | 13:05:18 |
 | Sunset | 21:45:22 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:23:36 |
+| Sunrise | 04:23:37 |
 | Dhuhr (Noon) | 13:05:18 |
 | Medium Coeli | 13:05:18 |
 | Sunset | 21:45:22 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 17:21:46|Night duration: 06:40:29|
+|Duration of the day: 17:21:45|Night duration: 06:40:29|
 |Every hour of day duration: 01:26:49|Every hour of night duration: 00:33:22|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|04:23:36|05:50:23|Love, creating love and attracting hearts|
-|2|Mercury|Servant|05:50:24|07:17:12|Attracting auspiciousness|
-|3|Moon|Servant|07:17:13|08:44:01|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|08:44:02|10:10:50|Unfortunate hour|
-|5|Jupiter|Servant|10:10:51|11:37:39|Achieving position and status and attracting job fortune|
+|1|Venus|Ruler|04:23:37|05:50:24|Love, creating love and attracting hearts|
+|2|Mercury|Servant|05:50:25|07:17:13|Attracting auspiciousness|
+|3|Moon|Servant|07:17:14|08:44:02|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|08:44:03|10:10:51|Unfortunate hour|
+|5|Jupiter|Servant|10:10:52|11:37:39|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|11:37:40|13:04:28|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|13:04:29|14:31:16|Promotion and attracting wealth|
-|8|Venus|Ruler|14:31:17|15:58:05|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|15:58:06|17:24:54|Causing separation and homelessness|
+|7|Sun|Servant|13:04:29|14:31:17|Promotion and attracting wealth|
+|8|Venus|Ruler|14:31:18|15:58:06|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|15:58:07|17:24:54|Causing separation and homelessness|
 |10|Moon|Servant|17:24:55|18:51:43|Extremely unfortunate|
 |11|Saturn|Servant|18:51:44|20:18:32|Creating an unfortunate horoscope for anyone|
 |12|Jupiter|Servant|20:18:33|21:45:21|Suitable for asking for a need|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 17:21:46|Night duration: 06:40:29|
+|Duration of the day: 17:21:45|Night duration: 06:40:29|
 |Every hour duration: 02:28:49|Every hour duration: 00:57:13|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|04:23:36|06:52:24|
-|Mid-morning|Mercury|Servant|06:52:25|09:21:13|
-|Late morning|Moon|Servant|09:21:14|11:50:03|
-|Noon|Saturn|Servant|11:50:04|14:18:52|
-|Early afternoon|Jupiter|Servant|14:18:53|16:47:42|
+|Early morning|Venus|Ruler|04:23:37|06:52:25|
+|Mid-morning|Mercury|Servant|06:52:26|09:21:14|
+|Late morning|Moon|Servant|09:21:15|11:50:03|
+|Noon|Saturn|Servant|11:50:04|14:18:53|
+|Early afternoon|Jupiter|Servant|14:18:54|16:47:42|
 |Mid-afternoon|Mars|Servant|16:47:43|19:16:31|
 |Late afternoon|Sun|Servant|19:16:32|21:45:21|
 

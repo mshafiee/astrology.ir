@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:08:51 |
 | Maghrib | 18:09:48 |
 | Isha (Night) | 19:20:36 |
-| Sharia Midnight | 23:37:43 |
+| Sharia Midnight | 23:37:44 |
 | Imum Coeli | 00:17:51 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°40'23.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°27'58.04" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°35'37.75" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|7°55'18.92" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|29°38'11.81" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°51'2.80" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|19°28'34.46" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|1°40'23.93" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°28'0.79" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°35'41.84" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|7°55'34.89" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°38'24.16" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°51'30.24" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|19°49'17.10" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

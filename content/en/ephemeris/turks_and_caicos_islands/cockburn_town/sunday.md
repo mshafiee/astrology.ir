@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:54:34 |
 | Sunrise | 06:15:48 |
-| Dhuhr (Noon) | 12:51:06 |
-| Medium Coeli | 12:51:06 |
+| Dhuhr (Noon) | 12:51:07 |
+| Medium Coeli | 12:51:07 |
 | Sunset | 19:26:11 |
 | Maghrib | 19:44:09 |
 | Isha (Night) | 20:29:10 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:53:05 |
 | Sunrise | 06:15:48 |
-| Dhuhr (Noon) | 12:51:06 |
-| Medium Coeli | 12:51:06 |
+| Dhuhr (Noon) | 12:51:07 |
+| Medium Coeli | 12:51:07 |
 | Sunset | 19:26:11 |
 | Maghrib | 19:27:12 |
 | Isha (Night) | 20:43:48 |

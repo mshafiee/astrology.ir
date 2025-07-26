@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:30:51 |
+| Fajr (Dawn) | 03:30:52 |
 | Sunrise | 04:55:11 |
 | Dhuhr (Noon) | 11:58:43 |
 | Medium Coeli | 11:58:43 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°43'23.59" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°4'50.34" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|24°29'41.22" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|6°12'42.36" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|27°34'14.83" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|11°10'24.85" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|28°17'30.13" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|11°4'50.38" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|24°29'41.43" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|6°12'42.68" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|27°34'14.89" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|11°10'25.44" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|28°20'14.38" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
