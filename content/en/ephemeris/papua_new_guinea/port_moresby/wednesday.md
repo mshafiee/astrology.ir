@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:08:51 |
 | Maghrib | 18:09:48 |
 | Isha (Night) | 19:20:36 |
-| Sharia Midnight | 23:37:44 |
+| Sharia Midnight | 23:37:43 |
 | Imum Coeli | 00:17:51 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°40'23.93" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°28'0.79" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°35'41.84" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|7°55'34.89" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|29°38'24.16" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°51'30.24" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|19°49'17.10" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|1°40'23.99" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°28'1.06" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°35'41.82" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|7°55'34.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°38'24.17" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°51'30.23" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|19°49'16.46" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°40'23.93" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°28'0.79" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|25°35'41.84" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|7°55'34.89" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|29°38'24.16" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|9°51'30.24" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|19°49'17.10" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|1°40'23.99" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°28'1.06" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|25°35'41.82" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|7°55'34.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°38'24.17" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|9°51'30.23" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|19°49'16.46" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

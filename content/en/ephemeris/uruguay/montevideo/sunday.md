@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:42:36 |
 | Dhuhr (Noon) | 12:51:18 |
 | Medium Coeli | 12:51:18 |
-| Sunset | 18:00:18 |
+| Sunset | 18:00:19 |
 | Maghrib | 18:18:05 |
 | Isha (Night) | 19:09:05 |
-| Sharia Midnight | 00:11:44 |
+| Sharia Midnight | 00:11:45 |
 | Imum Coeli | 00:51:17 |
 {{< /tab >}}
 
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:42:36 |
 | Dhuhr (Noon) | 12:51:18 |
 | Medium Coeli | 12:51:18 |
-| Sunset | 18:00:19 |
+| Sunset | 18:00:18 |
 | Maghrib | 18:01:29 |
 | Isha (Night) | 19:24:05 |
-| Sharia Midnight | 00:06:47 |
+| Sharia Midnight | 00:06:46 |
 | Imum Coeli | 00:51:17 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:42:36 |
 | Dhuhr (Noon) | 12:51:18 |
 | Medium Coeli | 12:51:18 |
-| Sunset | 18:00:18 |
+| Sunset | 18:00:19 |
 | Maghrib | 18:01:29 |
 | Isha (Night) | 19:14:06 |
-| Sharia Midnight | 00:14:14 |
+| Sharia Midnight | 00:14:15 |
 | Imum Coeli | 00:51:17 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:42:36 |
 | Dhuhr (Noon) | 12:51:18 |
 | Medium Coeli | 12:51:18 |
-| Sunset | 18:00:19 |
+| Sunset | 18:00:18 |
 | Maghrib | 18:01:29 |
 | Isha (Night) | 19:26:34 |
-| Sharia Midnight | 00:03:04 |
+| Sharia Midnight | 00:03:03 |
 | Imum Coeli | 00:51:17 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:42:36 |
 | Dhuhr (Noon) | 12:51:18 |
 | Medium Coeli | 12:51:18 |
-| Sunset | 18:00:18 |
+| Sunset | 18:00:19 |
 | Maghrib | 18:01:29 |
 | Isha (Night) | 19:29:03 |
-| Sharia Midnight | 00:06:46 |
+| Sharia Midnight | 00:06:47 |
 | Imum Coeli | 00:51:17 |
 {{< /tab >}}
 
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|5°37'28.48" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|26°51'48.65" |Gemini|Dhira|Sun|
 |☿ Mercury|Retrograde|11°36'22.21" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°33'29.46" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°50'8.49" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

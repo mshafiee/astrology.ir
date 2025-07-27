@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°47'37.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|10°26'32.36" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|1°47'37.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°26'32.09" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|22°41'54.41" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|3°24'4.49" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|24°11'20.16" |Taurus|HaqAh|Saturn|
@@ -387,4 +387,4 @@ Position of planets based on tropical calculations at sunrise
 ---
 Alternate Names: A Meca, La Meca, La Mecca, La Mecque, Macoraba, Maekkae, Makka, Makkah, Makkah al Mukarramah, Makkah al Mukarraman, Makkah al-Mukarramah, Meca, Mecca, Mecka, Meice, Meka, Mekao, Meke, Mekka, Mekkah, Mekke, Mekko, Mäkkä, mai jia, mak kah, makka, meka, mekka, mkh, mkt, mkt almkrmt, Μέκκα, Мека, Мекка, מכה, مكة, مكة المكرمة, مکه, مکہ, মক্কা, มักกะฮ์, མ་ཁ།, მექა, メッカ, 麥加, 메카
 
----
+----

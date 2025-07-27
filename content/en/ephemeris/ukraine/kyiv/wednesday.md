@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:34:13 |
-| Sunrise | 05:22:40 |
+| Sunrise | 05:22:41 |
 | Dhuhr (Noon) | 13:04:22 |
 | Medium Coeli | 13:04:22 |
 | Sunset | 20:45:07 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:15:25 |
-| Sunrise | 05:22:40 |
+| Sunrise | 05:22:41 |
 | Dhuhr (Noon) | 13:04:22 |
 | Medium Coeli | 13:04:22 |
 | Sunset | 20:45:07 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:04:57 |
-| Sunrise | 05:22:40 |
+| Sunrise | 05:22:41 |
 | Dhuhr (Noon) | 13:04:22 |
 | Medium Coeli | 13:04:22 |
 | Sunset | 20:45:07 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:34:13 |
-| Sunrise | 05:22:40 |
+| Sunrise | 05:22:41 |
 | Dhuhr (Noon) | 13:04:22 |
 | Medium Coeli | 13:04:22 |
 | Sunset | 20:45:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°41'41.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°18'17.78" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°7'56.69" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|7°12'21.32" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|28°46'12.69" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|10°24'57.88" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°48'27.12" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|1°41'41.62" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°18'17.51" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°7'56.73" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|7°12'21.36" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|28°46'12.74" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|10°24'57.85" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|10°48'27.76" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

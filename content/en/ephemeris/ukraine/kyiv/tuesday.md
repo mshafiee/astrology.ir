@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 15:25:21|Night duration: 08:36:04|
+|Duration of the day: 15:25:21|Night duration: 08:36:03|
 |Every hour of day duration: 01:17:07|Every hour of night duration: 00:43:00|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|20:46:37|21:29:36|Creating corruption, hatred and enmity|
 |2|Jupiter|Servant|21:29:37|22:12:36|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|22:12:37|22:55:37|Attracting connection and suitors|
-|4|Sun|Servant|22:55:38|23:38:37|Attracting material wealth, earnings and business prosperity|
+|3|Mars|Servant|22:12:37|22:55:36|Attracting connection and suitors|
+|4|Sun|Servant|22:55:37|23:38:37|Attracting material wealth, earnings and business prosperity|
 |5|Venus|Servant|23:38:38|00:21:37|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|00:21:38|01:04:38|Repelling negative energy of evil eye|
-|7|Moon|Servant|01:04:39|01:47:38|Attracting love and hearts|
-|8|Saturn|Ruler|01:47:39|02:30:38|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|02:30:39|03:13:39|Heart tenderness|
-|10|Mars|Servant|03:13:40|03:56:39|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|03:56:40|04:39:39|Attracting connection and suitors|
-|12|Venus|Servant|04:39:40|05:22:40|Hatred, corruption and creating negative energy for disruption|
+|6|Mercury|Servant|00:21:38|01:04:37|Repelling negative energy of evil eye|
+|7|Moon|Servant|01:04:38|01:47:37|Attracting love and hearts|
+|8|Saturn|Ruler|01:47:38|02:30:38|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|02:30:39|03:13:38|Heart tenderness|
+|10|Mars|Servant|03:13:39|03:56:38|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|03:56:39|04:39:38|Attracting connection and suitors|
+|12|Venus|Servant|04:39:39|05:22:39|Hatred, corruption and creating negative energy for disruption|
 
  
  
