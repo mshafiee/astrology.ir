@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:13:20 |
+| Fajr (Dawn) | 02:13:19 |
 | Sunrise | 05:25:58 |
 | Dhuhr (Noon) | 13:12:42 |
 | Medium Coeli | 13:12:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°38'3.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°44'36.66" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°23'21.71" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|9°9'39.78" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|1°7'59.41" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|1°38'3.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°44'36.94" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°23'21.69" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|9°9'39.76" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|1°7'59.43" |Gemini|HaqAh|Jupiter|
 |☿ Mercury|Retrograde|8°53'51.41" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°59'20.10" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|4°59'19.13" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°38'3.42" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°44'36.66" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|26°23'21.71" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°9'39.78" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|1°8'2.39" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|8°53'52.27" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|4°29'15.88" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|1°38'3.48" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°44'36.94" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|26°23'21.69" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°9'39.76" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|1°7'59.43" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|8°53'51.41" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|4°59'19.13" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

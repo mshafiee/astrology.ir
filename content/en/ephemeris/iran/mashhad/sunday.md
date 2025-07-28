@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°46'23.32" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|10°38'38.07" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|23°15'46.58" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|4°17'9.16" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|25°15'7.46" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|12°32'44.85" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°59'57.90" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|23°15'46.15" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|4°17'8.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|25°15'7.79" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|12°32'44.20" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°55'46.52" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

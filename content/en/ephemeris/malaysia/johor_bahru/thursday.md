@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°38'23.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°42'18.25" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°16'39.88" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°59'18.55" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|0°55'29.40" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|9°1'54.69" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°28'21.96" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|11°42'17.97" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°16'41.57" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|8°59'19.58" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|0°55'28.10" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|9°1'56.33" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°52'8.32" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Libra|Moon|Moon|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°38'23.63" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°42'18.23" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|26°16'41.62" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|8°59'19.51" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|0°55'27.96" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|1°38'23.57" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°42'17.95" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|26°16'41.64" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|8°59'19.53" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|0°55'27.95" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|9°1'56.23" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|2°53'25.64" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°53'26.61" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

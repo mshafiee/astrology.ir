@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:06:38 |
-| Sunrise | 06:27:38 |
+| Sunrise | 06:27:37 |
 | Dhuhr (Noon) | 12:14:38 |
 | Medium Coeli | 12:14:38 |
 | Sunset | 18:01:45 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:10:53 |
-| Sunrise | 06:27:38 |
+| Sunrise | 06:27:37 |
 | Dhuhr (Noon) | 12:14:38 |
 | Medium Coeli | 12:14:38 |
 | Sunset | 18:01:45 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:34:07|Night duration: 12:25:37|
+|Duration of the day: 11:34:08|Night duration: 12:25:37|
 |Every hour of day duration: 00:57:51|Every hour of night duration: 01:02:08|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:27:38|07:25:27|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|07:25:28|08:23:18|Outer and inner journey|
-|3|Jupiter|Servant|08:23:19|09:21:08|Marriage connection is good|
-|4|Mars|Servant|09:21:09|10:18:59|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:19:00|11:16:49|Answering needs, attracting love and wealth|
+|1|Moon|Ruler|06:27:37|07:25:26|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|07:25:27|08:23:17|Outer and inner journey|
+|3|Jupiter|Servant|08:23:18|09:21:08|Marriage connection is good|
+|4|Mars|Servant|09:21:09|10:18:58|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:18:59|11:16:49|Answering needs, attracting love and wealth|
 |6|Venus|Servant|11:16:50|12:14:40|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|12:14:41|13:12:31|Making promises|
-|8|Moon|Ruler|13:12:32|14:10:21|Reconciliation of two persons, attracting love|
+|7|Mercury|Servant|12:14:41|13:12:30|Making promises|
+|8|Moon|Ruler|13:12:31|14:10:21|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:10:22|15:08:12|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:08:13|16:06:02|Good for any task|
 |11|Mars|Servant|16:06:03|17:03:53|Creating enmity and negative energy|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°42'43.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°10'15.55" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°45'3.91" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|6°36'41.97" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|28°3'10.80" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|10°52'18.88" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|3°22'32.43" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|11°10'15.28" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°45'3.93" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|6°36'42.00" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|28°3'10.79" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|10°52'18.90" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|3°22'32.22" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°42'43.34" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°10'13.10" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|24°44'58.80" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|6°36'27.26" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|28°3'1.37" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|10°51'53.36" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°20'17.91" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|11°10'15.55" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|24°45'3.91" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|6°36'41.97" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|28°3'10.80" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|10°52'18.88" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°22'32.43" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

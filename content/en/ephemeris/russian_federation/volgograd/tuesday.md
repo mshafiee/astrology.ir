@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 02:22:12 |
 | Sunrise | 04:31:38 |
-| Dhuhr (Noon) | 12:08:30 |
-| Medium Coeli | 12:08:30 |
+| Dhuhr (Noon) | 12:08:29 |
+| Medium Coeli | 12:08:29 |
 | Sunset | 19:44:30 |
 | Maghrib | 20:08:49 |
 | Isha (Night) | 21:32:04 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 02:01:54 |
 | Sunrise | 04:31:38 |
-| Dhuhr (Noon) | 12:08:29 |
-| Medium Coeli | 12:08:29 |
+| Dhuhr (Noon) | 12:08:30 |
+| Medium Coeli | 12:08:30 |
 | Sunset | 19:44:30 |
 | Maghrib | 20:12:31 |
 | Isha (Night) | 21:32:04 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 01:36:09 |
 | Sunrise | 04:31:38 |
-| Dhuhr (Noon) | 12:08:29 |
-| Medium Coeli | 12:08:29 |
+| Dhuhr (Noon) | 12:08:30 |
+| Medium Coeli | 12:08:30 |
 | Sunset | 19:44:30 |
 | Maghrib | 19:46:26 |
 | Isha (Night) | 22:10:11 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 01:57:59 |
 | Sunrise | 04:31:38 |
-| Dhuhr (Noon) | 12:08:29 |
-| Medium Coeli | 12:08:29 |
+| Dhuhr (Noon) | 12:08:30 |
+| Medium Coeli | 12:08:30 |
 | Sunset | 19:44:30 |
 | Maghrib | 19:46:26 |
 | Isha (Night) | 22:16:29 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°43'23.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°4'53.62" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°29'50.78" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|6°12'56.70" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|27°34'32.63" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|11°10'11.45" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|28°16'37.88" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|11°4'53.51" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°29'51.21" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|6°12'56.45" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|27°34'31.70" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|11°10'11.20" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|28°22'17.89" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

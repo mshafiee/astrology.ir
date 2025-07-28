@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:10:31 |
 | Sunrise | 06:26:41 |
-| Dhuhr (Noon) | 12:02:15 |
-| Medium Coeli | 12:02:15 |
+| Dhuhr (Noon) | 12:02:14 |
+| Medium Coeli | 12:02:14 |
 | Sunset | 17:37:58 |
 | Maghrib | 17:55:44 |
 | Isha (Night) | 18:37:53 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:09:12 |
 | Sunrise | 06:26:41 |
-| Dhuhr (Noon) | 12:02:15 |
-| Medium Coeli | 12:02:15 |
+| Dhuhr (Noon) | 12:02:14 |
+| Medium Coeli | 12:02:14 |
 | Sunset | 17:37:58 |
 | Maghrib | 17:42:41 |
 | Isha (Night) | 18:51:04 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:22:22 |
 | Sunrise | 06:26:41 |
-| Dhuhr (Noon) | 12:02:15 |
-| Medium Coeli | 12:02:15 |
+| Dhuhr (Noon) | 12:02:14 |
+| Medium Coeli | 12:02:14 |
 | Sunset | 17:37:58 |
 | Maghrib | 17:42:41 |
 | Isha (Night) | 18:42:17 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:02:38 |
 | Sunrise | 06:26:41 |
-| Dhuhr (Noon) | 12:02:15 |
-| Medium Coeli | 12:02:15 |
+| Dhuhr (Noon) | 12:02:14 |
+| Medium Coeli | 12:02:14 |
 | Sunset | 17:37:58 |
 | Maghrib | 17:42:41 |
 | Isha (Night) | 18:53:15 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:09:12 |
 | Sunrise | 06:26:41 |
-| Dhuhr (Noon) | 12:02:15 |
-| Medium Coeli | 12:02:15 |
+| Dhuhr (Noon) | 12:02:14 |
+| Medium Coeli | 12:02:14 |
 | Sunset | 17:37:58 |
 | Maghrib | 17:42:41 |
 | Isha (Night) | 18:55:27 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°41'11.71" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°22'5.95" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|25°18'46.78" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|7°29'14.74" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|29°6'35.96" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|10°11'55.74" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|14°20'46.29" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|11°22'5.96" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|25°18'47.06" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|7°29'14.71" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°6'35.97" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|10°11'55.73" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|14°20'45.92" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
