@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°36'3.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°57'54.47" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°1'46.79" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°9'10.00" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|2°20'0.43" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|8°8'18.06" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|17°59'55.58" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|1°36'3.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°57'54.20" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°1'45.58" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°9'15.03" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|2°20'7.97" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|8°8'27.21" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|17°9'3.10" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°1'45.58" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|10°9'15.03" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|2°20'7.97" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|8°8'18.05" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°59'54.88" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|8°8'27.21" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°9'2.41" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}

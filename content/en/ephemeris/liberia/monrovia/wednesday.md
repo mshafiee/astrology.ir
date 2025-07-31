@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:20:51 |
+| Fajr (Dawn) | 05:20:50 |
 | Sunrise | 06:37:32 |
 | Dhuhr (Noon) | 12:49:38 |
 | Medium Coeli | 12:49:38 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°41'23.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°20'35.11" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°14'28.48" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|7°22'32.76" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|28°58'29.85" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|10°17'10.68" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|13°0'42.19" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|1°41'23.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°20'34.41" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°14'28.42" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|7°22'28.95" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|28°58'25.57" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|10°17'4.24" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|13°7'14.47" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

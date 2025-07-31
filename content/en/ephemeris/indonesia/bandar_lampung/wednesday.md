@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°40'12.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°29'28.17" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°39'51.12" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°2'2.89" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|29°46'12.90" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°46'28.72" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°9'35.35" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|1°40'12.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°29'27.83" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°39'49.04" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|8°2'0.33" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°46'13.00" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°46'24.29" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|20°43'41.66" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Saturn|
 |♀ Venus|Mars|Mars|Saturn|Venus|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Mars|Saturn|Venus|Moon|
+|☾ Moon|Jupiter|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°40'12.10" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°29'28.05" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|25°39'51.46" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|8°2'2.50" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|29°46'11.95" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|9°46'28.08" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|21°16'15.39" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|11°29'27.89" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|25°39'51.13" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|8°2'2.91" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°46'12.89" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|9°46'28.73" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|21°9'36.05" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

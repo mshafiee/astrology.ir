@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:01:28 |
 | Medium Coeli | 12:01:28 |
 | Sunset | 17:16:35 |
-| Maghrib | 17:33:55 |
+| Maghrib | 17:33:56 |
 | Isha (Night) | 18:23:53 |
 | Sharia Midnight | 23:22:43 |
 | Imum Coeli | 00:01:26 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°34'41.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|12°6'38.63" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°27'6.83" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°48'31.28" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|3°7'44.95" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°39'20.51" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|25°14'42.76" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|1°34'41.60" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°6'38.35" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°27'6.84" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°48'31.30" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|3°7'44.93" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°39'20.53" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|25°14'43.11" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°34'41.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|12°6'38.63" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|27°27'6.83" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|10°48'31.28" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|3°7'44.95" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°39'20.51" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|1°34'41.60" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|12°6'38.35" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|27°27'6.84" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|10°48'31.30" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|3°7'44.93" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°39'20.53" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|25°14'42.76" |Scorpio|Shaulah|Venus|
 
 

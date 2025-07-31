@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:39:46 |
 | Medium Coeli | 11:39:46 |
 | Sunset | 19:02:39 |
-| Maghrib | 19:05:16 |
+| Maghrib | 19:05:17 |
 | Isha (Night) | 21:03:54 |
 | Sharia Midnight | 22:34:39 |
 | Imum Coeli | 23:39:44 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:39:46 |
 | Medium Coeli | 11:39:46 |
 | Sunset | 19:02:39 |
-| Maghrib | 19:05:16 |
+| Maghrib | 19:05:17 |
 | Isha (Night) | 20:46:21 |
 | Sharia Midnight | 22:48:06 |
 | Imum Coeli | 23:39:44 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:39:46 |
 | Medium Coeli | 11:39:46 |
 | Sunset | 19:02:39 |
-| Maghrib | 19:05:16 |
+| Maghrib | 19:05:17 |
 | Isha (Night) | 21:08:31 |
 | Sharia Midnight | 22:27:11 |
 | Imum Coeli | 23:39:44 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:39:46 |
 | Medium Coeli | 11:39:46 |
 | Sunset | 19:02:39 |
-| Maghrib | 19:05:16 |
-| Isha (Night) | 20:35:16 |
+| Maghrib | 19:05:17 |
+| Isha (Night) | 20:35:17 |
 | Sharia Midnight | 22:32:14 |
 | Imum Coeli | 23:39:44 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°36'43.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°53'37.07" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°49'20.58" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|9°49'59.61" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|1°56'48.51" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|8°22'58.87" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|13°13'20.51" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|1°36'43.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|11°53'36.80" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°49'20.59" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|9°49'59.63" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|1°56'48.49" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|8°22'58.88" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|13°13'21.32" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°36'43.09" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°53'37.07" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|26°49'20.58" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°49'59.61" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|1°56'48.51" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|8°22'58.87" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|13°13'20.51" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|1°36'43.03" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°53'37.28" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|26°49'20.10" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°50'0.17" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|1°56'49.86" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|8°22'59.92" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|13°2'8.40" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

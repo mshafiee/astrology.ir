@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:11:25 |
 | Maghrib | 18:28:19 |
 | Isha (Night) | 19:10:00 |
-| Sharia Midnight | 23:13:57 |
+| Sharia Midnight | 23:13:58 |
 | Imum Coeli | 23:51:25 |
 {{< /tab >}}
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°36'6.25" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|25°58'53.20" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|8°31'39.34" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|0°21'59.87" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|9°23'26.38" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|27°14'36.50" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|0°21'56.00" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|9°23'6.93" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|26°13'42.50" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Libra|Moon|Moon|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
+|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°39'16.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°36'6.25" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|25°58'53.20" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|8°31'39.34" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|0°21'59.87" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|9°23'26.38" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|27°14'36.50" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|1°39'16.72" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°36'6.52" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|25°58'53.19" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|8°31'39.32" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|0°21'59.89" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|9°23'26.37" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|26°13'43.40" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}

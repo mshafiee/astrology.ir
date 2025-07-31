@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:11:47 |
 | Dhuhr (Noon) | 12:20:23 |
 | Medium Coeli | 12:20:23 |
-| Sunset | 18:28:57 |
+| Sunset | 18:28:58 |
 | Maghrib | 18:45:38 |
 | Isha (Night) | 19:26:00 |
-| Sharia Midnight | 23:43:58 |
+| Sharia Midnight | 23:43:59 |
 | Imum Coeli | 00:20:22 |
 {{< /tab >}}
 
