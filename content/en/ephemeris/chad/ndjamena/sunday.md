@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:24:58 |
 | Maghrib | 18:39:39 |
 | Isha (Night) | 19:23:13 |
-| Sharia Midnight | 23:32:31 |
+| Sharia Midnight | 23:32:30 |
 | Imum Coeli | 00:05:58 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°34'0.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|12°10'54.22" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°39'31.27" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|11°7'45.53" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|3°31'3.11" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°25'36.32" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|29°5'42.29" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|1°34'0.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°10'54.49" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°39'31.25" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|11°7'45.51" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|3°31'3.13" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°25'36.30" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|29°5'42.12" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°34'0.41" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|12°10'53.41" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|27°39'25.39" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|11°7'35.89" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|3°31'0.67" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°25'21.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|28°34'35.38" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|1°34'0.46" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|12°10'54.49" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|27°39'31.25" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|11°7'45.51" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|3°31'3.13" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°25'36.30" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|29°5'42.12" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

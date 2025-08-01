@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:50:58 |
 | Sunrise | 06:55:30 |
-| Dhuhr (Noon) | 12:58:26 |
-| Medium Coeli | 12:58:26 |
+| Dhuhr (Noon) | 12:58:27 |
+| Medium Coeli | 12:58:27 |
 | Sunset | 19:01:23 |
 | Maghrib | 19:15:34 |
 | Isha (Night) | 19:57:28 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:42:34 |
 | Sunrise | 06:55:30 |
-| Dhuhr (Noon) | 12:58:27 |
-| Medium Coeli | 12:58:27 |
+| Dhuhr (Noon) | 12:58:26 |
+| Medium Coeli | 12:58:26 |
 | Sunset | 19:01:23 |
 | Maghrib | 19:02:19 |
 | Isha (Night) | 20:10:03 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:55:10 |
 | Sunrise | 06:55:30 |
-| Dhuhr (Noon) | 12:58:27 |
-| Medium Coeli | 12:58:27 |
+| Dhuhr (Noon) | 12:58:26 |
+| Medium Coeli | 12:58:26 |
 | Sunset | 19:01:23 |
 | Maghrib | 19:02:19 |
 | Isha (Night) | 20:01:40 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:36:15 |
 | Sunrise | 06:55:30 |
-| Dhuhr (Noon) | 12:58:27 |
-| Medium Coeli | 12:58:27 |
+| Dhuhr (Noon) | 12:58:26 |
+| Medium Coeli | 12:58:26 |
 | Sunset | 19:01:23 |
 | Maghrib | 19:02:19 |
 | Isha (Night) | 20:12:10 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:40:27 |
 | Sunrise | 06:55:30 |
-| Dhuhr (Noon) | 12:58:27 |
-| Medium Coeli | 12:58:27 |
+| Dhuhr (Noon) | 12:58:26 |
+| Medium Coeli | 12:58:26 |
 | Sunset | 19:01:23 |
 | Maghrib | 19:02:19 |
 | Isha (Night) | 20:32:19 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°30'36.96" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°30'36.90" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|12°31'5.05" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|28°38'33.66" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|12°39'1.84" |Cancer|Nathrah|Mercury|

@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:27:30 |
 | Medium Coeli | 12:27:30 |
 | Sunset | 18:04:22 |
-| Maghrib | 18:22:35 |
+| Maghrib | 18:22:34 |
 | Isha (Night) | 19:04:27 |
 | Sharia Midnight | 23:49:18 |
 | Imum Coeli | 00:27:28 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°39'19.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°35'44.00" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°57'49.43" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°29'59.40" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|0°19'59.78" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|9°24'40.42" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|26°52'46.47" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|11°35'44.27" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°57'49.41" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|8°29'59.37" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|0°19'59.80" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|9°24'40.41" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|26°52'45.59" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°39'19.83" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°35'44.00" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|25°57'49.43" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|8°29'59.40" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|0°19'59.78" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|9°24'40.42" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|26°52'46.47" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|1°39'19.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°35'44.27" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|25°57'49.41" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|8°29'59.37" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|0°19'59.80" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|9°24'40.41" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|26°52'45.59" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -240,7 +240,7 @@ Timetable of twelve day and night planetary hours
 |6|Sun|Servant|23:26:51|00:24:19|Writing, swapping and making promises|
 |7|Venus|Servant|00:24:20|01:21:47|Not suitable for any task|
 |8|Mercury|Ruler|01:21:48|02:19:16|Destruction of enemies|
-|9|Moon|Servant|02:19:17|03:16:45|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Moon|Servant|02:19:17|03:16:45|All good deeds|
 |10|Saturn|Servant|03:16:46|04:14:14|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Jupiter|Servant|04:14:15|05:11:43|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mars|Servant|05:11:44|06:09:12|The moon is in Scorpio, Not suitable for doing anything.|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°33'27.42" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|12°14'17.23" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|27°49'22.33" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|11°23'0.21" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|3°49'32.88" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°14'48.74" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°13'56.99" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|12°14'16.96" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|27°49'22.34" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|11°23'0.23" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|3°49'32.85" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°14'48.75" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°13'57.01" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

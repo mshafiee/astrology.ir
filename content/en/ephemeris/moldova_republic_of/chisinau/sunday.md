@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:46:15 |
 | Dhuhr (Noon) | 13:10:46 |
 | Medium Coeli | 13:10:46 |
-| Sunset | 20:34:28 |
+| Sunset | 20:34:27 |
 | Maghrib | 20:57:11 |
 | Isha (Night) | 22:12:17 |
-| Sharia Midnight | 00:13:17 |
+| Sharia Midnight | 00:13:16 |
 | Imum Coeli | 01:10:43 |
 {{< /tab >}}
 
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:46:15 |
 | Dhuhr (Noon) | 13:10:46 |
 | Medium Coeli | 13:10:46 |
-| Sunset | 20:34:27 |
+| Sunset | 20:34:28 |
 | Maghrib | 20:36:08 |
 | Isha (Night) | 22:43:59 |
-| Sharia Midnight | 23:55:50 |
+| Sharia Midnight | 23:55:51 |
 | Imum Coeli | 01:10:43 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:46:15 |
 | Dhuhr (Noon) | 13:10:46 |
 | Medium Coeli | 13:10:46 |
-| Sunset | 20:34:27 |
+| Sunset | 20:34:28 |
 | Maghrib | 20:36:08 |
 | Isha (Night) | 22:48:56 |
-| Sharia Midnight | 00:03:43 |
+| Sharia Midnight | 00:03:44 |
 | Imum Coeli | 01:10:43 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 14:48:12|Night duration: 09:13:03|
+|Duration of the day: 14:48:13|Night duration: 09:13:02|
 |Every hour of day duration: 01:14:01|Every hour of night duration: 00:46:05|
 
  
@@ -227,19 +227,19 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|15:38:23|16:52:23|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mercury|Servant|16:52:24|18:06:24|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Moon|Servant|18:06:25|19:20:25|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Saturn|Servant|19:20:26|20:34:26|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Saturn|Servant|19:20:26|20:34:27|The moon is in Scorpio, Not suitable for doing anything.|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|20:34:27|21:20:31|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mars|Servant|21:20:32|22:06:36|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Sun|Servant|22:06:37|22:52:41|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Venus|Servant|22:52:42|23:38:47|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Jupiter|Ruler|20:34:28|21:20:32|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mars|Servant|21:20:33|22:06:37|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Sun|Servant|22:06:38|22:52:42|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Venus|Servant|22:52:43|23:38:47|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|23:38:48|00:24:52|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Moon|Servant|00:24:53|01:10:57|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Saturn|Servant|01:10:58|01:57:02|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Jupiter|Ruler|01:57:03|02:43:08|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Moon|Servant|00:24:53|01:10:58|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Saturn|Servant|01:10:59|01:57:03|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Jupiter|Ruler|01:57:04|02:43:08|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|02:43:09|03:29:13|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:29:14|04:15:18|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|04:15:19|05:01:23|The moon is in Scorpio, Not suitable for doing anything.|

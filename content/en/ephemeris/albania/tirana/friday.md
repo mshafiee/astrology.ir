@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°38'2.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|11°44'40.98" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°23'31.87" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|9°9'55.31" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|1°8'25.94" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|8°53'20.00" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°16'38.78" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|11°44'42.15" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°23'38.71" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|9°10'4.20" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|1°8'26.13" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|8°53'34.83" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|5°32'9.00" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Libra|Moon|Moon|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°38'2.61" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°44'42.11" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|26°23'37.14" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°10'4.35" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|1°8'28.58" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|8°53'35.23" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|5°4'38.28" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|1°38'2.67" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°44'42.38" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|26°23'37.12" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°10'4.33" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|1°8'28.60" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|8°53'35.22" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|5°4'37.32" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

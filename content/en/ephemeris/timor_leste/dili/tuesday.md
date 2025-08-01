@@ -240,7 +240,7 @@ Timetable of twelve day and night planetary hours
 |6|Mercury|Servant|23:42:31|00:43:37|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|00:43:38|01:44:44|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Saturn|Ruler|01:44:45|02:45:51|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Jupiter|Servant|02:45:52|03:46:58|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Jupiter|Servant|02:45:52|03:46:58|Heart tenderness|
 |10|Mars|Servant|03:46:59|04:48:05|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Sun|Servant|04:48:06|05:49:12|Attracting connection and suitors|
 |12|Venus|Servant|05:49:13|06:50:19|Hatred, corruption and creating negative energy for disruption|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°28'5.20" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|12°45'13.13" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|29°20'13.38" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|13°43'15.57" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|6°40'7.79" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°45'48.13" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°18'0.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|12°45'14.72" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|29°20'19.27" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|13°43'27.32" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|6°40'12.71" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°46'5.23" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°50'57.91" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
