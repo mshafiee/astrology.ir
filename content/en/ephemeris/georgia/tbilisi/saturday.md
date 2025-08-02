@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:48:57 |
+| Fajr (Dawn) | 03:48:56 |
 | Sunrise | 05:55:53 |
 | Dhuhr (Noon) | 13:06:57 |
 | Medium Coeli | 13:06:57 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|11°56'37.62" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|26°58'2.95" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|10°3'29.94" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|2°13'9.46" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|8°12'43.57" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|15°46'12.81" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|2°13'9.85" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|8°12'47.02" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|15°58'28.55" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°36'15.51" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|11°56'37.35" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|26°58'2.96" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|10°3'29.96" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|2°13'9.83" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|8°12'47.03" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|15°58'29.28" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|1°36'15.57" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|11°56'37.62" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|26°58'2.95" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|10°3'29.94" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|2°13'9.85" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|8°12'47.02" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|15°58'28.55" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

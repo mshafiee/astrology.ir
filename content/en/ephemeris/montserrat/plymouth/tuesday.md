@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:14:50 |
 | Medium Coeli | 12:14:50 |
 | Sunset | 18:39:15 |
-| Maghrib | 18:40:35 |
+| Maghrib | 18:40:34 |
 | Isha (Night) | 19:54:44 |
 | Sharia Midnight | 23:32:31 |
 | Imum Coeli | 00:14:46 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:14:50 |
 | Medium Coeli | 12:14:50 |
 | Sunset | 18:39:15 |
-| Maghrib | 18:40:35 |
-| Isha (Night) | 20:10:35 |
+| Maghrib | 18:40:34 |
+| Isha (Night) | 20:10:34 |
 | Sharia Midnight | 23:34:49 |
 | Imum Coeli | 00:14:46 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°26'55.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|12°51'32.46" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°38'58.44" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|14°12'12.33" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|7°15'11.68" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°30'54.83" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|8°1'14.42" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|12°51'31.52" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°38'59.86" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|14°12'9.33" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|7°15'6.21" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°30'48.38" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°42'49.36" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sagittarius|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Saturn|Sun|Virgo|Moon|Moon|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}

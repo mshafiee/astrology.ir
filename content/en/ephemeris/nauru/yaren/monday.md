@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:50:58 |
 | Sunrise | 06:55:30 |
-| Dhuhr (Noon) | 12:58:27 |
-| Medium Coeli | 12:58:27 |
+| Dhuhr (Noon) | 12:58:26 |
+| Medium Coeli | 12:58:26 |
 | Sunset | 19:01:23 |
 | Maghrib | 19:15:34 |
 | Isha (Night) | 19:57:28 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:43:49 |
 | Sunrise | 06:55:30 |
-| Dhuhr (Noon) | 12:58:27 |
-| Medium Coeli | 12:58:27 |
+| Dhuhr (Noon) | 12:58:26 |
+| Medium Coeli | 12:58:26 |
 | Sunset | 19:01:23 |
 | Maghrib | 19:17:40 |
 | Isha (Night) | 19:57:28 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°30'36.90" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°30'36.96" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|12°31'5.05" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|28°38'33.66" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|12°39'1.84" |Cancer|Nathrah|Mercury|
