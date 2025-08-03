@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|12°49'49.69" |Cancer|Nathrah|Mercury|
 |♀ Venus|Direct|5°34'59.41" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|6°17'23.18" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|20°19'43.26" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|20°20'10.17" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

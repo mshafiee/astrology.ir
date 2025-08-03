@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Mars|Ruler|14:22:57|15:38:04|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Sun|Servant|15:38:05|16:53:12|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Venus|Servant|16:53:13|18:08:19|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Mercury|Servant|18:08:20|19:23:27|Attracting connection and suitors|
+|11|Mercury|Servant|18:08:20|19:23:27|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Moon|Servant|19:23:28|20:38:35|Hatred, corruption and creating negative energy for disruption|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°29'48.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|12°35'39.62" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°52'2.12" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°59'49.05" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°47'8.84" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°11'13.64" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|22°34'15.27" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|1°29'48.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°35'39.34" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°52'2.13" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°59'49.07" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|5°47'8.82" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°11'13.68" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|22°34'14.50" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

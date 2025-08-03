@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:59:24 |
-| Sunrise | 05:33:50 |
+| Sunrise | 05:33:51 |
 | Dhuhr (Noon) | 13:15:30 |
 | Medium Coeli | 13:15:30 |
 | Sunset | 20:55:58 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:28:45 |
-| Sunrise | 05:33:50 |
+| Sunrise | 05:33:51 |
 | Dhuhr (Noon) | 13:15:30 |
 | Medium Coeli | 13:15:30 |
 | Sunset | 20:55:58 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:21:59 |
-| Sunrise | 05:33:50 |
+| Sunrise | 05:33:51 |
 | Dhuhr (Noon) | 13:15:30 |
 | Medium Coeli | 13:15:30 |
 | Sunset | 20:55:58 |
