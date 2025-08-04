@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 21:44:14 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:53:53 |
+| Imum Coeli | 00:53:52 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 21:49:51 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:53:53 |
+| Imum Coeli | 00:53:52 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 21:11:06 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:53:53 |
+| Imum Coeli | 00:53:52 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 21:11:06 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:53:53 |
+| Imum Coeli | 00:53:52 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 21:11:06 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:53:53 |
+| Imum Coeli | 00:53:52 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 21:11:06 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:53:53 |
+| Imum Coeli | 00:53:52 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 21:11:06 |
 | Isha (Night) | 22:41:06 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:53:53 |
+| Imum Coeli | 00:53:52 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°34'11.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|12°9'44.83" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°36'9.36" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|11°2'32.57" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|3°24'45.95" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°29'13.96" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|27°55'6.34" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|1°34'11.72" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°9'45.11" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°36'9.96" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|11°2'32.27" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|3°24'44.71" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°29'13.20" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|28°7'22.56" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°34'11.72" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|12°9'45.11" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|27°36'9.96" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|11°2'32.27" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|3°24'44.71" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°29'13.20" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|28°7'22.56" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|12°9'45.28" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|27°36'9.36" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|11°2'32.57" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|3°24'45.95" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°29'13.96" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|27°55'6.34" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

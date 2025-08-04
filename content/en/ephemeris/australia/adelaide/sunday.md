@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°32'32.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|12°19'49.44" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°5'33.08" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|11°47'59.99" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|4°19'54.84" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°57'24.39" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|7°33'41.99" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|12°19'49.65" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°5'32.30" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|11°48'0.45" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|4°19'56.52" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°57'25.59" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|7°17'22.40" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Moon|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Saturn|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°32'32.39" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|12°19'49.16" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|28°5'33.10" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|11°48'0.01" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|4°19'54.82" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|6°57'24.41" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|7°33'41.78" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|1°32'32.45" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|12°19'49.44" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|28°5'33.08" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|11°47'59.99" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|4°19'54.84" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°57'24.39" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|7°33'41.99" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
