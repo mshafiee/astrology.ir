@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°22'37.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°13'42.33" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|0°45'5.67" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|15°53'54.74" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|9°19'8.45" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|4°47'9.78" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°55'2.99" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|13°13'41.28" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|0°45'0.64" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|15°53'45.54" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|9°19'5.22" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|4°46'57.90" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°41'57.68" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: An Bhruiseil, An Bhruiséil, BRU, Breissel, Brisel, Brisele, Briuselis, Brjuksel, Brjusel', Brjussel', Brueksel, Bruessel, Bruesszel, Bruiseal, Bruksel, Bruksela, Brukseli, Brukselo, Brusehl', Brusel, Brusela, Bruselas, Bruseles, Bruselj, Bruselo, Brusel·les, Brussel, Brussele, Brussels, Brussel·les, Bruxel, Bruxelas, Bruxellae, Bruxelles, Brwsel, Bryssel, Bryusel, Bryxelles, Bréissel, Brüksel, Brüssel, Brüsszel, Citta di Bruxelles, Città di Bruxelles, City of Brussels, Kota Brusel, beulwisel, braselasa, braselsa, brassels, briuseli, brwksl, brysl, bu lu sai er, buryusseru, Βρυξέλλες, Брисел, Брусэль, Брюксел, Брюсель, Брюссель, Բրյուսել, בריסל, بروكسل, بروکسل, بريۇسسېل, ܒܪܘܟܣܠ, ब्रसेल्स, ব্রাসেলস, บรัสเซลส์, ბრიუსელი, ブリュッセル, 布魯塞爾, 布鲁塞尔, 브뤼셀

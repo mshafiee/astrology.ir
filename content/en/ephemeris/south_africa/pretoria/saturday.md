@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:12:45 |
 | Sunset | 17:45:16 |
 | Maghrib | 18:01:23 |
-| Isha (Night) | 18:46:59 |
+| Isha (Night) | 18:47:00 |
 | Sharia Midnight | 23:37:11 |
 | Imum Coeli | 00:12:40 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:12:45 |
 | Sunset | 17:45:16 |
 | Maghrib | 18:03:42 |
-| Isha (Night) | 18:46:59 |
+| Isha (Night) | 18:47:00 |
 | Sharia Midnight | 23:33:21 |
 | Imum Coeli | 00:12:40 |
 {{< /tab >}}
@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:12:45 |
 | Medium Coeli | 12:12:45 |
 | Sunset | 17:45:16 |
-| Maghrib | 17:50:08 |
+| Maghrib | 17:50:09 |
 | Isha (Night) | 19:00:32 |
 | Sharia Midnight | 23:32:41 |
 | Imum Coeli | 00:12:40 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:12:45 |
 | Medium Coeli | 12:12:45 |
 | Sunset | 17:45:16 |
-| Maghrib | 17:50:08 |
+| Maghrib | 17:50:09 |
 | Isha (Night) | 19:02:47 |
 | Sharia Midnight | 23:29:19 |
 | Imum Coeli | 00:12:40 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°20'2.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°26'20.39" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°23'5.65" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|16°52'15.19" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|10°30'20.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°30'0.23" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|14°29'9.91" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|1°20'2.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°26'20.12" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°23'5.69" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|16°52'16.38" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|10°30'21.61" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°30'2.36" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|14°20'0.16" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

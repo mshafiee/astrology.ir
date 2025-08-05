@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 20:56:23 |
 | Maghrib | 21:01:12 |
 | Isha (Night) | 23:47:20 |
-| Sharia Midnight | 23:38:07 |
+| Sharia Midnight | 23:38:08 |
 | Imum Coeli | 01:03:16 |
 {{< /tab >}}
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°25'30.47" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|12°59'1.11" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|0°1'12.67" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|14°46'25.35" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|7°56'53.04" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°14'18.05" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|15°47'18.24" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Direct|0°1'12.08" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|14°46'24.67" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|7°56'53.10" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°14'17.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|15°47'34.48" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

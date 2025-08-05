@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:22:08 |
 | Sunset | 21:09:58 |
 | Maghrib | 21:13:30 |
-| Isha (Night) | 00:53:02 |
+| Isha (Night) | 00:53:01 |
 | Sharia Midnight | 23:30:51 |
 | Imum Coeli | 01:22:05 |
 {{< /tab >}}
