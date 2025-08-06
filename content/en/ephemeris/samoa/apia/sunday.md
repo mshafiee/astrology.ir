@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°15'56.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°45'27.29" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°21'3.16" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°21'5.79" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|12°18'52.85" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°16'15.27" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°28'6.94" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|13°45'24.96" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°20'59.93" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°20'54.30" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|12°18'44.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°15'58.84" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|6°39'29.24" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°15'56.13" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°45'27.29" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°15'56.08" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°45'27.02" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|2°21'3.16" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|18°21'5.79" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°18'52.85" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|4°16'15.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|5°28'6.94" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|18°21'5.81" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°18'52.83" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|4°16'15.31" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°28'7.04" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

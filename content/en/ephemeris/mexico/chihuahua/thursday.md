@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|13°17'57.76" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|0°57'52.06" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|16°13'32.83" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|9°43'4.75" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|4°40'45.43" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°15'5.85" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|9°43'4.53" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|4°40'45.47" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|5°15'9.83" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°21'45.99" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°17'57.76" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°21'45.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°17'57.49" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|0°57'52.06" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|16°13'32.83" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°43'4.75" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|4°40'45.43" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|5°15'5.85" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|16°13'32.86" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°43'4.73" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|4°40'45.47" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°15'5.54" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Altepetl Chihuahuah, Byen Chihuahua, CUU, Chihuahua, Chihuahua City, Chihuahua by, Chiuaua, Chiuauae, Chivava, Cihuahua, Ciuaua, Dakbayan sa Chihuahua, Tsiouaoua, chiuaua, chiwawa, chyywaywa. chyywaywa, qi wa wa shi, zhi hua hua shi, Čihuahua, Čiuaua, Τσιουάουα, Чивава, Чиуауæ, Чиуауа, Чіуауа, ציוואווה, چہواہوا, چیئوائوا٬ چیئوائوا, ჩიუაუა, チワワ, 奇瓦瓦市, 芝華華市, 치와와

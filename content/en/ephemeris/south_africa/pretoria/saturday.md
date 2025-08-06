@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:12:45 |
 | Medium Coeli | 12:12:45 |
 | Sunset | 17:45:16 |
-| Maghrib | 17:50:09 |
+| Maghrib | 17:50:08 |
 | Isha (Night) | 19:00:32 |
 | Sharia Midnight | 23:32:41 |
 | Imum Coeli | 00:12:40 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:12:45 |
 | Medium Coeli | 12:12:45 |
 | Sunset | 17:45:16 |
-| Maghrib | 17:50:08 |
+| Maghrib | 17:50:09 |
 | Isha (Night) | 18:51:31 |
 | Sharia Midnight | 23:39:26 |
 | Imum Coeli | 00:12:40 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:12:45 |
 | Medium Coeli | 12:12:45 |
 | Sunset | 17:45:16 |
-| Maghrib | 17:50:09 |
+| Maghrib | 17:50:08 |
 | Isha (Night) | 19:02:47 |
 | Sharia Midnight | 23:29:19 |
 | Imum Coeli | 00:12:40 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:12:45 |
 | Medium Coeli | 12:12:45 |
 | Sunset | 17:45:16 |
-| Maghrib | 17:50:08 |
+| Maghrib | 17:50:09 |
 | Isha (Night) | 19:05:02 |
 | Sharia Midnight | 23:32:41 |
 | Imum Coeli | 00:12:40 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'2.45" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|13°26'20.12" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°23'5.69" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|16°52'16.38" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|10°30'21.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°30'2.36" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|14°20'0.16" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Direct|1°23'5.65" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|16°52'15.21" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|10°30'20.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°30'0.26" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|14°29'9.81" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°20'2.50" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°26'20.39" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°20'2.45" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°26'20.12" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°23'5.65" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|16°52'15.19" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|10°30'20.34" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|4°30'0.23" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|14°29'9.91" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|16°52'15.21" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|10°30'20.32" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|4°30'0.26" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|14°29'9.81" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

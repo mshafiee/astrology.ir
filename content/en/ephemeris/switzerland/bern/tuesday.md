@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 20:56:41 |
 | Maghrib | 21:22:50 |
 | Isha (Night) | 22:33:20 |
-| Sharia Midnight | 00:31:42 |
+| Sharia Midnight | 00:31:43 |
 | Imum Coeli | 01:36:09 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°29'45.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|12°35'59.32" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°53'0.91" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|13°1'19.96" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°48'59.15" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°10'19.55" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|22°52'15.58" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|1°29'45.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|12°35'59.59" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°53'0.90" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|13°1'19.93" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|5°48'59.17" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°10'19.52" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|22°52'16.35" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°29'45.19" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|12°35'59.59" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|28°53'0.90" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|13°1'19.93" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°48'59.17" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|6°10'19.52" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|22°52'16.35" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|12°35'59.05" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|28°52'56.45" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|13°1'14.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°48'59.68" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°10'12.83" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°33'4.01" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

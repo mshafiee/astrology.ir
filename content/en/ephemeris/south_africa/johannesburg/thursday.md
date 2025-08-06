@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:13:36 |
 | Medium Coeli | 12:13:36 |
 | Sunset | 17:44:08 |
-| Maghrib | 17:48:59 |
+| Maghrib | 17:49:00 |
 | Isha (Night) | 19:04:33 |
 | Sharia Midnight | 23:33:13 |
 | Imum Coeli | 00:13:32 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:13:36 |
 | Medium Coeli | 12:13:36 |
 | Sunset | 17:44:08 |
-| Maghrib | 17:48:59 |
-| Isha (Night) | 19:18:59 |
+| Maghrib | 17:49:00 |
+| Isha (Night) | 19:19:00 |
 | Sharia Midnight | 23:32:05 |
 | Imum Coeli | 00:13:32 |
 {{< /tab >}}
