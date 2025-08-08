@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:50:07 |
+| Fajr (Dawn) | 03:50:06 |
 | Sunrise | 05:44:27 |
 | Dhuhr (Noon) | 12:42:31 |
 | Medium Coeli | 12:42:31 |

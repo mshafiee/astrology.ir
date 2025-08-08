@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 02:53:08 |
 | Sunrise | 05:37:14 |
-| Dhuhr (Noon) | 13:11:59 |
-| Medium Coeli | 13:11:59 |
+| Dhuhr (Noon) | 13:12:00 |
+| Medium Coeli | 13:12:00 |
 | Sunset | 20:45:38 |
 | Maghrib | 21:15:27 |
 | Isha (Night) | 22:41:23 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 02:48:26 |
 | Sunrise | 05:37:14 |
-| Dhuhr (Noon) | 13:11:59 |
-| Medium Coeli | 13:11:59 |
+| Dhuhr (Noon) | 13:12:00 |
+| Medium Coeli | 13:12:00 |
 | Sunset | 20:45:38 |
 | Maghrib | 20:47:18 |
 | Isha (Night) | 23:17:26 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:28:56 |
 | Sunrise | 05:37:14 |
-| Dhuhr (Noon) | 13:11:59 |
-| Medium Coeli | 13:11:59 |
+| Dhuhr (Noon) | 13:12:00 |
+| Medium Coeli | 13:12:00 |
 | Sunset | 20:45:38 |
 | Maghrib | 20:47:18 |
 | Isha (Night) | 22:52:32 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°22'41.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°13'20.19" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|0°44'0.17" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|15°52'14.01" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|9°17'5.65" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|4°47'44.48" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°33'11.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|1°22'42.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°13'20.46" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|0°44'0.16" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|15°52'13.99" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|9°17'5.67" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|4°47'44.44" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°33'11.97" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°22'41.97" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°13'20.19" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|0°44'0.17" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°52'14.01" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°17'5.65" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|4°47'44.48" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°33'11.53" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|1°22'42.03" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°13'20.46" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|0°44'0.16" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|15°52'13.99" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°17'5.67" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|4°47'44.44" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°33'11.97" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
