@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:09:09|Night duration: 09:51:53|
+|Duration of the day: 14:09:08|Night duration: 09:51:53|
 |Every hour of day duration: 01:10:46|Every hour of night duration: 00:49:19|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:10:40|07:21:24|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:21:25|08:32:10|Attracting auspiciousness|
-|3|Moon|Servant|08:32:11|09:42:56|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:42:57|10:53:42|Unfortunate hour|
-|5|Jupiter|Servant|10:53:43|12:04:27|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|12:04:28|13:15:13|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|13:15:14|14:25:59|Promotion and attracting wealth|
+|1|Venus|Ruler|06:10:41|07:21:25|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:21:26|08:32:11|Attracting auspiciousness|
+|3|Moon|Servant|08:32:12|09:42:57|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:42:58|10:53:42|Unfortunate hour|
+|5|Jupiter|Servant|10:53:43|12:04:28|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|12:04:29|13:15:14|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|13:15:15|14:25:59|Promotion and attracting wealth|
 |8|Venus|Ruler|14:26:00|15:36:45|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|15:36:46|16:47:30|Causing separation and homelessness|
-|10|Moon|Servant|16:47:31|17:58:16|Extremely unfortunate|
+|9|Mercury|Servant|15:36:46|16:47:31|Causing separation and homelessness|
+|10|Moon|Servant|16:47:32|17:58:16|Extremely unfortunate|
 |11|Saturn|Servant|17:58:17|19:09:02|Creating an unfortunate horoscope for anyone|
 |12|Jupiter|Servant|19:09:03|20:19:48|Suitable for asking for a need|
 
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:09:09|Night duration: 09:51:53|
+|Duration of the day: 14:09:08|Night duration: 09:51:53|
 |Every hour duration: 02:01:18|Every hour duration: 01:24:33|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|06:10:40|08:11:57|
-|Mid-morning|Mercury|Servant|08:11:58|10:13:15|
-|Late morning|Moon|Servant|10:13:16|12:14:34|
-|Noon|Saturn|Servant|12:14:35|14:15:52|
-|Early afternoon|Jupiter|Servant|14:15:53|16:17:11|
+|Early morning|Venus|Ruler|06:10:41|08:11:58|
+|Mid-morning|Mercury|Servant|08:11:59|10:13:16|
+|Late morning|Moon|Servant|10:13:17|12:14:34|
+|Noon|Saturn|Servant|12:14:35|14:15:53|
+|Early afternoon|Jupiter|Servant|14:15:54|16:17:11|
 |Mid-afternoon|Mars|Servant|16:17:12|18:18:29|
 |Late afternoon|Sun|Servant|18:18:30|20:19:48|
 

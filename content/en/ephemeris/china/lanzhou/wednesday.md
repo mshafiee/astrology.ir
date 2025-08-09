@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:56:25 |
+| Fajr (Dawn) | 04:56:24 |
 | Sunrise | 06:21:38 |
 | Dhuhr (Noon) | 13:09:31 |
 | Medium Coeli | 13:09:31 |

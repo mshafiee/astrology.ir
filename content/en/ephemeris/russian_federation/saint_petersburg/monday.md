@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:03:32 |
+| Sunrise | 05:03:31 |
 | Dhuhr (Noon) | 13:03:56 |
 | Medium Coeli | 13:03:56 |
 | Sunset | 21:02:38 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:03:32 |
+| Sunrise | 05:03:31 |
 | Dhuhr (Noon) | 13:03:56 |
 | Medium Coeli | 13:03:56 |
 | Sunset | 21:02:38 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:03:32 |
+| Sunrise | 05:03:31 |
 | Dhuhr (Noon) | 13:03:56 |
 | Medium Coeli | 13:03:56 |
 | Sunset | 21:02:38 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:03:32 |
+| Sunrise | 05:03:31 |
 | Dhuhr (Noon) | 13:03:56 |
 | Medium Coeli | 13:03:56 |
 | Sunset | 21:02:38 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:03:32 |
+| Sunrise | 05:03:31 |
 | Dhuhr (Noon) | 13:03:56 |
 | Medium Coeli | 13:03:56 |
 | Sunset | 21:02:38 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:03:32 |
+| Sunrise | 05:03:31 |
 | Dhuhr (Noon) | 13:03:56 |
 | Medium Coeli | 13:03:56 |
 | Sunset | 21:02:38 |
@@ -210,23 +210,23 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 15:59:06|Night duration: 08:03:18|
+|Duration of the day: 15:59:07|Night duration: 08:03:18|
 |Every hour of day duration: 01:19:56|Every hour of night duration: 00:40:16|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:03:32|06:23:26|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|06:23:27|07:43:22|Outer and inner journey|
-|3|Jupiter|Servant|07:43:23|09:03:17|Marriage connection is good|
-|4|Mars|Servant|09:03:18|10:23:13|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:23:14|11:43:08|Answering needs, attracting love and wealth|
-|6|Venus|Servant|11:43:09|13:03:04|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|13:03:05|14:22:59|Making promises|
-|8|Moon|Ruler|14:23:00|15:42:55|Reconciliation of two persons, attracting love|
-|9|Saturn|Servant|15:42:56|17:02:50|Attracting and repelling enemies and causing separation|
-|10|Jupiter|Servant|17:02:51|18:22:46|Good for any task|
-|11|Mars|Servant|18:22:47|19:42:41|Creating enmity and negative energy|
+|1|Moon|Ruler|05:03:31|06:23:25|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|06:23:26|07:43:21|Outer and inner journey|
+|3|Jupiter|Servant|07:43:22|09:03:16|Marriage connection is good|
+|4|Mars|Servant|09:03:17|10:23:12|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:23:13|11:43:07|Answering needs, attracting love and wealth|
+|6|Venus|Servant|11:43:08|13:03:03|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|13:03:04|14:22:59|Making promises|
+|8|Moon|Ruler|14:23:00|15:42:54|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|15:42:55|17:02:50|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|17:02:51|18:22:45|Good for any task|
+|11|Mars|Servant|18:22:46|19:42:41|Creating enmity and negative energy|
 |12|Sun|Servant|19:42:42|21:02:37|Heart tenderness|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°14'59.23" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°49'43.33" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°34'4.91" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°41'1.63" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|12°43'16.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°15'16.75" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|10°26'14.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|1°14'59.18" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°49'43.07" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°34'4.93" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°41'1.70" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|12°43'16.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°15'16.79" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°26'15.50" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°14'59.23" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°49'43.33" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°34'4.91" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|18°41'1.63" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°43'16.01" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|4°15'16.75" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|10°26'14.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|1°14'59.18" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°49'43.07" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|2°34'4.93" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|18°41'1.70" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°43'16.04" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|4°15'16.79" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|10°26'15.50" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

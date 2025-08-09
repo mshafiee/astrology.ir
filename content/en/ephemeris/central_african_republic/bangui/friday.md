@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|13°13'54.98" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|0°45'43.05" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|15°54'53.04" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°20'18.76" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|4°46'52.62" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°58'17.85" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°20'15.87" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|4°46'41.30" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°42'15.61" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기

@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:57:59 |
 | Maghrib | 20:16:27 |
 | Isha (Night) | 21:11:35 |
-| Sharia Midnight | 00:27:12 |
+| Sharia Midnight | 00:27:11 |
 | Imum Coeli | 01:09:36 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°9'45.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°12'21.08" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|3°43'36.59" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|20°27'19.29" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|14°53'22.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°24'13.95" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|6°18'16.20" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|1°9'45.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°12'21.35" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|3°43'36.60" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|20°27'19.27" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|14°53'22.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°24'13.92" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|6°18'16.06" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°9'45.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°12'21.08" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°43'36.59" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°27'19.29" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|14°53'22.17" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|4°24'13.95" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|6°18'16.20" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°9'45.71" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°12'21.35" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|3°43'36.60" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°27'19.27" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|14°53'22.19" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|4°24'13.92" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|6°18'16.06" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

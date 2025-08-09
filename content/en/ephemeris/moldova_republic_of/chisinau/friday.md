@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°22'46.65" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°12'57.34" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°22'46.60" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°12'57.07" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|0°42'50.73" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°50'27.58" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°14'55.61" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|4°48'22.74" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°5'20.92" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|15°50'15.19" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°14'48.37" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|4°48'4.89" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°18'44.93" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

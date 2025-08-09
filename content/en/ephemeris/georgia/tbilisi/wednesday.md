@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:20:30 |
-| Sunrise | 06:07:02 |
+| Sunrise | 06:07:03 |
 | Dhuhr (Noon) | 13:05:31 |
 | Medium Coeli | 13:05:31 |
 | Sunset | 20:03:17 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:18:23 |
-| Sunrise | 06:07:02 |
+| Sunrise | 06:07:03 |
 | Dhuhr (Noon) | 13:05:31 |
 | Medium Coeli | 13:05:31 |
 | Sunset | 20:03:17 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:38:56 |
-| Sunrise | 06:07:02 |
+| Sunrise | 06:07:03 |
 | Dhuhr (Noon) | 13:05:31 |
 | Medium Coeli | 13:05:31 |
 | Sunset | 20:03:17 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:07:36 |
-| Sunrise | 06:07:02 |
+| Sunrise | 06:07:03 |
 | Dhuhr (Noon) | 13:05:31 |
 | Medium Coeli | 13:05:31 |
 | Sunset | 20:03:17 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:18:23 |
-| Sunrise | 06:07:03 |
+| Sunrise | 06:07:02 |
 | Dhuhr (Noon) | 13:05:31 |
 | Medium Coeli | 13:05:31 |
 | Sunset | 20:03:17 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:56:15|Night duration: 10:04:47|
+|Duration of the day: 13:56:14|Night duration: 10:04:47|
 |Every hour duration: 01:59:28|Every hour duration: 01:26:24|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|06:07:02|08:06:28|
-|Mid-morning|Moon|Servant|08:06:29|10:05:56|
-|Late morning|Saturn|Servant|10:05:57|12:05:24|
-|Noon|Jupiter|Servant|12:05:25|14:04:52|
+|Early morning|Mercury|Ruler|06:07:03|08:06:29|
+|Mid-morning|Moon|Servant|08:06:30|10:05:57|
+|Late morning|Saturn|Servant|10:05:58|12:05:25|
+|Noon|Jupiter|Servant|12:05:26|14:04:52|
 |Early afternoon|Mars|Servant|14:04:53|16:04:20|
 |Mid-afternoon|Sun|Servant|16:04:21|18:03:48|
 |Late afternoon|Venus|Servant|18:03:49|20:03:16|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°9'18.39" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|14°14'15.85" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°49'29.54" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°36'17.70" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|15°4'24.05" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|4°26'2.77" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°52'34.74" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°49'30.78" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°36'19.74" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|15°4'24.61" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|4°26'4.73" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°34'11.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Venus|Venus|Virgo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
