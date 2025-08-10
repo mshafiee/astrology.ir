@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:56:34 |
 | Sunset | 17:43:26 |
 | Maghrib | 17:44:59 |
-| Isha (Night) | 19:32:40 |
+| Isha (Night) | 19:32:39 |
 | Sharia Midnight | 23:58:19 |
 | Imum Coeli | 00:56:29 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°11'8.17" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°6'37.68" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°25'52.98" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°0'13.65" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|14°20'20.63" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|4°19'32.53" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°10'7.06" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°11'6.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°6'37.72" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|3°25'57.37" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°0'18.99" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|14°20'20.42" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|4°19'36.47" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°7'30.45" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:03:05 |
 | Maghrib | 18:19:21 |
 | Isha (Night) | 18:58:50 |
-| Sharia Midnight | 23:28:43 |
+| Sharia Midnight | 23:28:44 |
 | Imum Coeli | 00:04:17 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°19'59.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°26'33.67" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|1°19'59.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°26'33.40" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°23'45.54" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|16°53'17.32" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|10°31'35.24" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°29'48.41" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|14°31'10.84" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|16°53'17.35" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|10°31'35.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°29'48.45" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|14°31'10.74" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°19'59.67" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°26'33.67" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°19'59.63" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°26'33.40" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°23'45.54" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|16°53'17.32" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|10°31'35.24" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|4°29'48.41" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|14°31'10.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|16°53'17.35" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|10°31'35.22" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|4°29'48.45" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|14°31'10.74" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

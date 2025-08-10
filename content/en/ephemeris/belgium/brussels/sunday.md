@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:52:24 |
+| Fajr (Dawn) | 03:52:25 |
 | Sunrise | 06:22:15 |
 | Dhuhr (Noon) | 13:47:56 |
 | Medium Coeli | 13:47:56 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:52:24 |
+| Fajr (Dawn) | 03:52:25 |
 | Sunrise | 06:22:15 |
 | Dhuhr (Noon) | 13:47:56 |
 | Medium Coeli | 13:47:56 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°17'26.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°38'34.51" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|1°17'26.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°38'34.24" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|2°0'8.09" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|17°49'3.15" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|11°39'42.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°19'25.97" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|27°49'20.99" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|17°49'3.17" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|11°39'42.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°19'26.01" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|27°49'21.05" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°17'26.38" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°38'34.51" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°17'26.33" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°38'34.24" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|2°0'8.09" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|17°49'3.15" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|11°39'42.75" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|4°19'25.97" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|27°49'20.99" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°49'3.17" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|11°39'42.73" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|4°19'26.01" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|27°49'21.05" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

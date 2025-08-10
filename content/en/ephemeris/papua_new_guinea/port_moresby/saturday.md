@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°18'19.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°34'27.81" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°47'40.14" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|17°29'57.30" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|11°16'22.24" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°21'57.70" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|24°36'56.44" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|1°18'19.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°34'28.08" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°47'40.13" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|17°29'57.28" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|11°16'22.26" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°22'19.23" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|23°11'48.30" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Capricorn|Sun|Mars|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Sun|Leo|Moon|Moon|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°18'19.41" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°34'25.14" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°47'38.12" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|17°29'43.87" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|11°16'9.86" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|4°21'57.73" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|24°36'56.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|13°34'26.16" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°47'34.35" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|17°29'43.80" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|11°16'15.21" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|4°22'1.50" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|24°43'48.71" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

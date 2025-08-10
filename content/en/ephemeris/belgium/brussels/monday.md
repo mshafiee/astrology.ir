@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'43.05" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|13°50'55.45" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°37'45.00" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°46'39.00" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|12°50'8.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°15'11.10" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|11°41'16.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|2°37'39.97" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°46'29.90" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|12°50'4.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°15'0.92" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|12°54'23.46" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Moon|Sun|Leo|Moon|Moon|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'43.05" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°50'54.49" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°37'39.97" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|18°46'29.90" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°50'4.98" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Direct|13°50'55.45" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|2°37'45.00" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|18°46'39.00" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°50'8.13" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|4°15'0.92" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|12°54'23.46" |Pisces|FarghAlMuakhar|Jupiter|
 
