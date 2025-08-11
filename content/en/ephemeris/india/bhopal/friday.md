@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:33:13 |
+| Fajr (Dawn) | 04:33:14 |
 | Sunrise | 05:56:30 |
 | Dhuhr (Noon) | 12:24:52 |
 | Medium Coeli | 12:24:52 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°3'31.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°37'41.33" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°2'27.88" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|22°27'32.33" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|17°20'47.21" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|5°3'21.96" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|6°18'2.53" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°3'31.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°37'41.15" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°2'27.93" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|22°27'32.68" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|17°20'47.47" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|5°3'22.43" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|6°18'17.39" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°3'31.57" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°37'41.41" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°2'27.94" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°27'32.65" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°20'47.50" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|5°3'22.40" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|1°3'31.53" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°37'41.15" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°2'27.93" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°27'32.68" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°20'47.47" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|5°3'22.43" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|6°18'17.92" |Taurus|Thurayya|Mercury|
 
 

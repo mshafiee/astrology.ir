@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:54:23 |
+| Fajr (Dawn) | 04:54:22 |
 | Sunrise | 06:05:27 |
 | Dhuhr (Noon) | 12:04:13 |
 | Medium Coeli | 12:04:13 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°17'21.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|13°38'56.78" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|1°17'21.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|13°38'57.05" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|2°1'16.00" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|17°50'47.85" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|11°41'50.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°19'14.16" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|28°7'8.57" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|17°50'47.82" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|11°41'50.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°19'14.12" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|28°7'9.87" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°17'21.45" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|13°38'56.78" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°17'21.49" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|13°38'57.05" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|2°1'16.00" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|17°50'47.85" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|11°41'47.31" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|4°19'10.54" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|28°14'31.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°50'47.82" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|11°41'50.13" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|4°19'14.13" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|28°7'8.51" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

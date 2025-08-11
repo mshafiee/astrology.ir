@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:19:05 |
+| Fajr (Dawn) | 05:19:06 |
 | Sunrise | 06:32:12 |
 | Dhuhr (Noon) | 12:42:40 |
 | Medium Coeli | 12:42:40 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'35.08" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|13°51'30.86" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°39'32.85" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|18°49'24.68" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°53'29.76" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|4°15'11.13" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°10'12.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|2°39'32.67" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|18°49'24.58" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°53'29.90" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|4°15'11.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°11'53.50" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
