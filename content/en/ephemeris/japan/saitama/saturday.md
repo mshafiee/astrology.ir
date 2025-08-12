@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:26:49 |
-| Sunrise | 05:00:20 |
+| Sunrise | 05:00:21 |
 | Dhuhr (Noon) | 11:45:41 |
 | Medium Coeli | 11:45:41 |
 | Sunset | 18:30:28 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:25:03 |
-| Sunrise | 05:00:20 |
+| Sunrise | 05:00:21 |
 | Dhuhr (Noon) | 11:45:41 |
 | Medium Coeli | 11:45:41 |
 | Sunset | 18:30:28 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:42:29 |
-| Sunrise | 05:00:21 |
+| Sunrise | 05:00:20 |
 | Dhuhr (Noon) | 11:45:41 |
 | Medium Coeli | 11:45:41 |
 | Sunset | 18:30:28 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:16:06 |
-| Sunrise | 05:00:21 |
+| Sunrise | 05:00:20 |
 | Dhuhr (Noon) | 11:45:41 |
 | Medium Coeli | 11:45:41 |
 | Sunset | 18:30:28 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:30:08|Night duration: 10:30:40|
+|Duration of the day: 13:30:07|Night duration: 10:30:40|
 |Every hour of day duration: 01:07:31|Every hour of night duration: 00:52:33|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:00:20|06:07:49|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:07:50|07:15:20|Peace among people|
-|3|Mars|Servant|07:15:21|08:22:51|Vengeful and evil deeds|
-|4|Sun|Servant|08:22:52|09:30:21|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|09:30:22|10:37:52|Auspicious|
+|1|Saturn|Ruler|05:00:21|06:07:50|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:07:51|07:15:21|Peace among people|
+|3|Mars|Servant|07:15:22|08:22:51|Vengeful and evil deeds|
+|4|Sun|Servant|08:22:52|09:30:22|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:30:23|10:37:52|Auspicious|
 |6|Mercury|Servant|10:37:53|11:45:23|Writing, swapping and making promises|
-|7|Moon|Servant|11:45:24|12:52:53|Not suitable for any task|
-|8|Saturn|Ruler|12:52:54|14:00:24|Destruction of enemies|
+|7|Moon|Servant|11:45:24|12:52:54|Not suitable for any task|
+|8|Saturn|Ruler|12:52:55|14:00:24|Destruction of enemies|
 |9|Jupiter|Servant|14:00:25|15:07:55|All good deeds|
 |10|Mars|Servant|15:07:56|16:15:25|Doing evil deeds|
 |11|Sun|Servant|16:15:26|17:22:56|Acceptance of reconciliation between couples|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°57'49.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°59'30.72" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|6°11'18.82" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|24°12'14.06" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|19°29'22.46" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|6°2'51.34" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°31'15.65" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°59'30.78" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|6°11'18.49" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|24°12'13.95" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|19°29'22.79" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|6°2'51.55" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°37'28.53" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°57'49.54" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|0°57'49.58" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|14°59'30.72" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|6°11'18.82" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|24°12'14.06" |Leo|Sarfrah|Mars|

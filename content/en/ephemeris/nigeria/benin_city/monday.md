@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:19:06 |
+| Fajr (Dawn) | 05:19:05 |
 | Sunrise | 06:32:12 |
 | Dhuhr (Noon) | 12:42:40 |
 | Medium Coeli | 12:42:40 |

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°11'53.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°3'17.46" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|3°15'39.35" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|19°44'37.38" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|14°1'4.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°17'47.82" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|25°46'29.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|14°3'14.56" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|3°15'34.03" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|19°44'20.80" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|14°0'53.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°17'25.73" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|27°17'58.33" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Sun|Leo|Moon|Moon|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Moon|Mercury|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°11'53.64" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°3'17.46" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°15'39.35" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°44'37.38" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|14°1'4.59" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|4°17'47.82" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|25°46'29.66" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|1°11'53.59" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°3'17.20" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|3°15'39.34" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°44'37.40" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°1'4.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|4°17'47.85" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|25°46'29.84" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

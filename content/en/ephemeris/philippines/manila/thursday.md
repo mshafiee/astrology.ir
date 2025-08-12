@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:24:01 |
-| Sunrise | 05:41:47 |
+| Sunrise | 05:41:46 |
 | Dhuhr (Noon) | 12:00:46 |
 | Medium Coeli | 12:00:46 |
 | Sunset | 18:19:35 |
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:37:48|Night duration: 11:22:21|
-|Every hour duration: 01:48:15|Every hour duration: 01:37:29|
+|Duration of the day: 12:37:49|Night duration: 11:22:21|
+|Every hour duration: 01:48:16|Every hour duration: 01:37:29|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|05:41:47|07:30:01|
-|Mid-morning|Mars|Servant|07:30:02|09:18:16|
-|Late morning|Sun|Servant|09:18:17|11:06:32|
-|Noon|Venus|Servant|11:06:33|12:54:47|
-|Early afternoon|Mercury|Servant|12:54:48|14:43:03|
-|Mid-afternoon|Moon|Servant|14:43:04|16:31:18|
+|Early morning|Jupiter|Ruler|05:41:46|07:30:00|
+|Mid-morning|Mars|Servant|07:30:01|09:18:16|
+|Late morning|Sun|Servant|09:18:17|11:06:31|
+|Noon|Venus|Servant|11:06:32|12:54:47|
+|Early afternoon|Mercury|Servant|12:54:48|14:43:02|
+|Mid-afternoon|Moon|Servant|14:43:03|16:31:18|
 |Late afternoon|Saturn|Servant|16:31:19|18:19:34|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°3'52.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°36'18.34" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°58'8.37" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|22°20'57.50" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|17°12'42.49" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|5°0'25.30" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°39'11.26" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°3'52.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°36'18.60" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°58'8.38" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|22°20'57.48" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|17°12'42.51" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|5°0'25.27" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°39'11.75" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°3'52.55" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°36'18.34" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|4°58'8.37" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°20'57.50" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°12'42.49" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|5°0'25.30" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°39'11.26" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|1°3'52.59" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°36'18.60" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|4°58'8.38" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°20'57.48" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°12'42.51" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|5°0'25.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°39'11.75" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

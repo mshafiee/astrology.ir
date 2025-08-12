@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:21:01 |
 | Maghrib | 18:35:11 |
 | Isha (Night) | 19:16:54 |
-| Sharia Midnight | 23:38:45 |
+| Sharia Midnight | 23:38:44 |
 | Imum Coeli | 00:10:50 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°2'48.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°40'29.11" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°11'15.40" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|22°40'55.10" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|17°37'12.30" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|5°9'38.96" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°36'0.86" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°40'29.52" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°11'15.27" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|22°40'55.32" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|17°37'12.81" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|5°9'39.48" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|9°39'50.05" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°2'48.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°40'29.25" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°11'15.26" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°40'55.35" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°37'12.78" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|5°9'39.50" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|9°39'49.45" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Retrograde|1°2'48.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°40'29.52" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°11'15.27" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°40'55.32" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°37'12.81" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|5°9'39.48" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|9°39'50.05" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:35:06 |
-| Sunrise | 05:39:52 |
+| Sunrise | 05:39:51 |
 | Dhuhr (Noon) | 13:14:23 |
 | Medium Coeli | 13:14:23 |
 | Sunset | 20:47:34 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:28:46 |
-| Sunrise | 05:39:51 |
+| Sunrise | 05:39:52 |
 | Dhuhr (Noon) | 13:14:23 |
 | Medium Coeli | 13:14:23 |
 | Sunset | 20:47:34 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:28:46 |
-| Sunrise | 05:39:52 |
+| Sunrise | 05:39:51 |
 | Dhuhr (Noon) | 13:14:23 |
 | Medium Coeli | 13:14:23 |
 | Sunset | 20:47:34 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|14°27'12.10" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|4°29'42.35" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|21°37'37.39" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|16°19'33.67" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|4°43'18.20" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|23°54'56.45" |Aries|Butain|Venus|
+|♀ Venus|Direct|16°19'34.14" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|4°43'18.90" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|23°54'43.35" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

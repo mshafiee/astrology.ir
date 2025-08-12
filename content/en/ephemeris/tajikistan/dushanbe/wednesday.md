@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:14:39 |
+| Fajr (Dawn) | 04:14:38 |
 | Sunrise | 05:37:21 |
 | Dhuhr (Noon) | 12:29:45 |
 | Medium Coeli | 12:29:45 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°9'29.27" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|14°13'30.31" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|3°47'9.87" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|20°32'44.76" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|15°0'1.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°25'19.48" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|7°39'47.88" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|20°32'42.72" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|15°0'2.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°25'19.04" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°18'5.35" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

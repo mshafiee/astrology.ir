@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:48:03 |
+| Fajr (Dawn) | 04:48:02 |
 | Sunrise | 05:50:34 |
 | Dhuhr (Noon) | 12:10:09 |
 | Medium Coeli | 12:10:09 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°2'19.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°42'25.05" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°17'18.28" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|22°50'7.84" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|17°48'30.99" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|5°14'12.71" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|11°58'6.92" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|1°2'19.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°42'24.79" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°17'18.27" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|22°50'7.86" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|17°48'30.97" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|5°14'12.73" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|11°58'6.27" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°2'19.04" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°42'25.05" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°17'18.28" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°50'7.84" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°48'30.99" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|5°14'12.71" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|11°58'6.92" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|1°2'19.00" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°42'24.79" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°17'18.27" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°50'7.86" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°48'30.97" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|5°14'12.73" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|11°58'6.27" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

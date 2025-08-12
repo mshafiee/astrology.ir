@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 05:03:32 |
+| Sunrise | 05:03:31 |
 | Dhuhr (Noon) | 13:03:56 |
 | Medium Coeli | 13:03:56 |
 | Sunset | 21:02:38 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'59.23" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|13°49'43.33" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°34'6.35" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°41'2.12" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|12°43'14.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°15'16.01" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|10°14'29.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|2°34'4.91" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°41'1.63" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|12°43'16.01" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|4°15'16.75" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°26'14.89" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
