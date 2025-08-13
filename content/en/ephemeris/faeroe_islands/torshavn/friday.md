@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:31:31 |
 | Sunset | 21:29:58 |
 | Maghrib | 22:11:25 |
-| Isha (Night) | 01:23:37 |
+| Isha (Night) | 01:23:38 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:31:25 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°3'0.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°39'43.69" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°8'53.03" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|22°37'17.46" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|17°32'46.72" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|5°7'52.85" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|8°50'14.21" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°3'0.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°39'43.96" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°8'53.05" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|22°37'17.43" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|17°32'46.74" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|5°7'52.83" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°50'14.79" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°3'0.36" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°39'43.69" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°8'53.03" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°37'17.46" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°32'46.72" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|5°7'52.85" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°50'14.21" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Retrograde|1°3'0.40" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°39'43.96" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°8'53.05" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°37'17.43" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°32'46.74" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|5°7'52.83" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°50'14.79" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

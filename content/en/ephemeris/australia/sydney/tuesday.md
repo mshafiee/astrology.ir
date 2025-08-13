@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:23 |
-| Sunrise | 06:37:17 |
+| Sunrise | 06:37:18 |
 | Dhuhr (Noon) | 12:00:15 |
 | Medium Coeli | 12:00:15 |
 | Sunset | 17:23:35 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:11:38 |
-| Sunrise | 06:37:17 |
+| Sunrise | 06:37:18 |
 | Dhuhr (Noon) | 12:00:15 |
 | Medium Coeli | 12:00:15 |
 | Sunset | 17:23:35 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:09:13 |
-| Sunrise | 06:37:17 |
+| Sunrise | 06:37:18 |
 | Dhuhr (Noon) | 12:00:15 |
 | Medium Coeli | 12:00:15 |
 | Sunset | 17:23:35 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|14°11'27.42" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|3°40'50.03" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|20°23'3.51" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|14°48'10.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°23'21.66" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°30'9.60" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|14°48'10.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|4°23'21.56" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|5°36'9.75" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°9'58.65" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°11'27.42" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°40'50.03" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°23'3.51" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|14°48'10.50" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|4°23'21.66" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|5°30'9.60" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°9'58.61" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°11'27.15" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|3°40'50.02" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°23'3.54" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|14°48'10.48" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|4°23'21.53" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°36'9.60" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

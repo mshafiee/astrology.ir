@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:15:58 |
+| Fajr (Dawn) | 03:15:59 |
 | Sunrise | 05:29:10 |
 | Dhuhr (Noon) | 12:44:51 |
 | Medium Coeli | 12:44:51 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°12'8.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°2'13.63" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|1°12'8.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°2'13.36" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|3°12'23.51" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|19°39'37.70" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|13°54'58.00" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|4°17'16.98" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|24°36'27.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|19°39'37.72" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|13°54'57.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|4°17'17.01" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|24°36'27.21" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°12'8.43" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°2'13.63" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|1°12'8.39" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°2'13.36" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|3°12'23.51" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°39'37.70" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|13°54'58.00" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|4°17'16.98" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|24°36'27.03" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|19°39'37.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°54'57.98" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|4°17'17.01" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|24°36'27.21" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

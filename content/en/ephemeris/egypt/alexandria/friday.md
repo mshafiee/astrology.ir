@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:43:15 |
 | Maghrib | 19:59:53 |
 | Isha (Night) | 20:50:30 |
-| Sharia Midnight | 00:25:59 |
+| Sharia Midnight | 00:26:00 |
 | Imum Coeli | 01:04:41 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°3'8.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°39'11.33" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°7'10.85" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|22°34'43.27" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|17°29'36.09" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|5°6'41.71" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|8°6'43.22" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°3'8.60" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°39'11.60" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°7'10.86" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|22°34'43.24" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|17°29'36.11" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|5°6'41.69" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°6'43.78" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°3'8.56" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°39'11.33" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°7'10.85" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°34'43.27" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°29'36.09" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|5°6'41.71" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°6'43.22" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|1°3'8.60" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°39'11.60" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°7'10.86" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°34'43.24" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°29'36.11" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|5°6'41.69" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°6'43.78" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
