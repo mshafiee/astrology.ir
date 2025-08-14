@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:38:53 |
 | Maghrib | 17:39:53 |
 | Isha (Night) | 18:53:30 |
-| Sharia Midnight | 23:17:03 |
+| Sharia Midnight | 23:17:04 |
 | Imum Coeli | 23:58:50 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°4'11.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°35'6.11" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°54'21.50" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|22°15'10.92" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|17°5'38.43" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°57'52.84" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°17'41.38" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°35'5.98" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°54'22.30" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|22°15'12.55" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|17°5'39.06" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|4°57'54.48" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°8'10.00" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°4'11.01" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°35'6.11" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|4°54'21.50" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°15'10.92" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°5'38.43" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|4°57'52.84" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°17'41.38" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|1°4'10.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°35'5.84" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|4°54'21.49" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°15'10.95" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°5'38.41" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|4°57'52.86" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°17'40.93" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

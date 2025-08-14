@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:20:30 |
-| Sunrise | 06:07:03 |
+| Sunrise | 06:07:02 |
 | Dhuhr (Noon) | 13:05:31 |
 | Medium Coeli | 13:05:31 |
 | Sunset | 20:03:17 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:38:56 |
-| Sunrise | 06:07:03 |
+| Sunrise | 06:07:02 |
 | Dhuhr (Noon) | 13:05:31 |
 | Medium Coeli | 13:05:31 |
 | Sunset | 20:03:17 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:18:23 |
-| Sunrise | 06:07:03 |
+| Sunrise | 06:07:02 |
 | Dhuhr (Noon) | 13:05:31 |
 | Medium Coeli | 13:05:31 |
 | Sunset | 20:03:17 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|3°49'30.78" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|20°36'19.74" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|15°4'24.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°26'4.73" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|4°26'4.73" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|8°34'11.94" |Pisces|FarghAlMuakhar|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°9'18.35" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°14'15.58" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°49'30.77" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°36'19.77" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|15°4'24.59" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|4°26'4.76" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°34'12.07" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|1°9'18.39" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°14'15.85" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|3°49'30.78" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°36'19.74" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|15°4'24.61" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|4°26'4.73" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°34'11.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

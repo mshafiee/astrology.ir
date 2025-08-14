@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:21:01 |
 | Maghrib | 18:35:11 |
 | Isha (Night) | 19:16:54 |
-| Sharia Midnight | 23:38:45 |
+| Sharia Midnight | 23:38:44 |
 | Imum Coeli | 00:10:50 |
 {{< /tab >}}
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|5°11'15.27" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|22°40'55.32" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|17°37'12.81" |Gemini|Dhira|Mars|
-|☿ Mercury|Post-Retrograde Shadow|5°9'39.48" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|5°9'39.48" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|9°39'50.05" |Aries|Sharatain|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°2'48.70" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°40'29.50" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°11'15.31" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°40'55.28" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°37'12.71" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|5°9'39.37" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|9°38'46.36" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|14°40'29.52" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°11'15.27" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°40'55.32" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|17°37'12.81" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|5°9'39.48" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|9°39'50.05" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

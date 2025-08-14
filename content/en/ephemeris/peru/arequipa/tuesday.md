@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:52:09 |
+| Fajr (Dawn) | 04:52:10 |
 | Sunrise | 06:05:57 |
 | Dhuhr (Noon) | 11:51:06 |
 | Medium Coeli | 11:51:06 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°8'12.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|14°18'49.12" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°3'37.14" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|20°57'50.93" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|15°30'47.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|4°31'11.93" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|13°58'28.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°18'47.26" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°3'37.25" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|20°57'44.84" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|15°30'40.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|4°31'1.74" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|13°51'2.78" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°8'12.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|14°18'49.12" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|4°3'37.14" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°57'50.93" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|15°30'47.44" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|4°31'11.93" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|13°58'28.09" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|1°8'12.61" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°18'48.85" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|4°3'37.13" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°57'50.95" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|15°30'47.42" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|4°31'11.96" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|13°58'28.13" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

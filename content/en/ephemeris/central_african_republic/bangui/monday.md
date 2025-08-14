@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:11:04 |
 | Isha (Night) | 18:52:22 |
 | Sharia Midnight | 23:17:41 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:13:07 |
 | Isha (Night) | 18:52:22 |
 | Sharia Midnight | 23:14:10 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:59:41 |
 | Isha (Night) | 19:04:48 |
 | Sharia Midnight | 23:13:32 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:59:41 |
 | Isha (Night) | 18:56:30 |
 | Sharia Midnight | 23:19:45 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:59:41 |
 | Isha (Night) | 19:06:52 |
 | Sharia Midnight | 23:10:25 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:59:41 |
 | Isha (Night) | 19:08:57 |
 | Sharia Midnight | 23:13:32 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:59:41 |
 | Isha (Night) | 19:29:41 |
 | Sharia Midnight | 23:12:30 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|7°3'5.88" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|25°30'49.15" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|21°6'0.32" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|7°2'49.67" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|7°2'49.67" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|22°2'13.00" |Taurus|HaqAh|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°3'5.88" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|25°30'49.15" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|21°6'0.32" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|7°2'49.67" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|7°2'49.67" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|22°2'13.00" |Gemini|Dhira|Sun|
 
 
