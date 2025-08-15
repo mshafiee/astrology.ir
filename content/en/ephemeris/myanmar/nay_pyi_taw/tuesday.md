@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:09:07 |
 | Sunset | 18:31:13 |
 | Maghrib | 18:32:53 |
-| Isha (Night) | 19:46:24 |
+| Isha (Night) | 19:46:23 |
 | Sharia Midnight | 23:26:57 |
 | Imum Coeli | 00:09:00 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°47'24.01" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°36'41.59" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°10'45.14" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|27°13'16.74" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°12'8.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°40'5.14" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|17°4'15.57" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|0°47'23.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°36'41.33" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°10'45.12" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|27°13'16.77" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°12'8.01" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°40'5.16" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|17°4'15.10" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:48:02 |
+| Fajr (Dawn) | 04:48:03 |
 | Sunrise | 05:50:34 |
 | Dhuhr (Noon) | 12:10:09 |
 | Medium Coeli | 12:10:09 |

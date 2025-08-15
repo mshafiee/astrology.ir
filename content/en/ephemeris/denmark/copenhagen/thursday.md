@@ -210,23 +210,23 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 15:07:43|Night duration: 08:54:13|
+|Duration of the day: 15:07:42|Night duration: 08:54:13|
 |Every hour of day duration: 01:15:39|Every hour of night duration: 00:44:31|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|05:39:51|06:55:28|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|06:55:29|08:11:07|Destruction of enemies|
-|3|Sun|Servant|08:11:08|09:26:45|Attraction of financial and emotional love|
-|4|Venus|Servant|09:26:46|10:42:24|Creating love, connection and marriage|
-|5|Mercury|Servant|10:42:25|11:58:02|Indulgence|
-|6|Moon|Servant|11:58:03|13:13:41|Outer and inner journey|
-|7|Saturn|Servant|13:13:42|14:29:20|Achieving status and power|
-|8|Jupiter|Ruler|14:29:21|15:44:58|Attraction of happiness and fortune|
-|9|Mars|Servant|15:44:59|17:00:37|Reaching status and promotion|
-|10|Sun|Servant|17:00:38|18:16:15|Fulfilling needs|
-|11|Venus|Servant|18:16:16|19:31:54|Attraction of love and hearts|
+|1|Jupiter|Ruler|05:39:52|06:55:29|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|06:55:30|08:11:08|Destruction of enemies|
+|3|Sun|Servant|08:11:09|09:26:46|Attraction of financial and emotional love|
+|4|Venus|Servant|09:26:47|10:42:25|Creating love, connection and marriage|
+|5|Mercury|Servant|10:42:26|11:58:03|Indulgence|
+|6|Moon|Servant|11:58:04|13:13:42|Outer and inner journey|
+|7|Saturn|Servant|13:13:43|14:29:20|Achieving status and power|
+|8|Jupiter|Ruler|14:29:21|15:44:59|Attraction of happiness and fortune|
+|9|Mars|Servant|15:45:00|17:00:37|Reaching status and promotion|
+|10|Sun|Servant|17:00:38|18:16:16|Fulfilling needs|
+|11|Venus|Servant|18:16:17|19:31:54|Attraction of love and hearts|
 |12|Mercury|Servant|19:31:55|20:47:33|Attracting misfortune, not suitable for any task|
 
  
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|4°29'42.33" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|21°37'37.32" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|16°19'33.64" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|4°43'18.16" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|23°54'56.17" |Aries|Butain|Venus|
+|☿ Mercury|Direct|4°43'18.91" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|23°54'42.72" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 19:16:35 |
 | Maghrib | 19:18:03 |
 | Isha (Night) | 20:48:03 |
-| Sharia Midnight | 00:09:35 |
+| Sharia Midnight | 00:09:36 |
 | Imum Coeli | 00:50:29 |
 {{< /tab >}}
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°50'55.52" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°24'26.18" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°31'7.79" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°13'8.85" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°58'13.99" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|7°40'23.36" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°17'13.32" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|0°50'55.48" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°24'28.62" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°31'12.59" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°13'25.44" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°58'25.83" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|7°40'41.94" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°31'39.32" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Venus|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
