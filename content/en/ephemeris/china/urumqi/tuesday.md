@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°47'23.71" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°36'42.65" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|8°10'48.88" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|27°13'21.93" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|23°12'14.88" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°40'10.59" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|17°1'21.90" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°36'40.95" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|8°10'48.80" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|27°13'14.59" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|23°12'6.79" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°40'0.26" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|15°48'57.30" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Taurus|Sun|Mars|
 |♀ Venus|Sun|Mars|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°47'23.71" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°36'42.39" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°10'48.86" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|15°36'42.65" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°10'48.88" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|27°13'21.93" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|23°12'14.88" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|8°40'10.59" |Leo|Zubrah|Saturn|

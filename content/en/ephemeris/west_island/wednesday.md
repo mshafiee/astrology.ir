@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:09:16 |
-| Sunrise | 06:13:23 |
+| Sunrise | 06:13:24 |
 | Dhuhr (Noon) | 12:06:06 |
 | Medium Coeli | 12:06:06 |
 | Sunset | 17:58:58 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:00:58 |
-| Sunrise | 06:13:23 |
+| Sunrise | 06:13:24 |
 | Dhuhr (Noon) | 12:06:06 |
 | Medium Coeli | 12:06:06 |
 | Sunset | 17:58:58 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:54:45 |
-| Sunrise | 06:13:23 |
+| Sunrise | 06:13:24 |
 | Dhuhr (Noon) | 12:06:06 |
 | Medium Coeli | 12:06:06 |
 | Sunset | 17:58:58 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:00:58 |
-| Sunrise | 06:13:23 |
+| Sunrise | 06:13:24 |
 | Dhuhr (Noon) | 12:06:06 |
 | Medium Coeli | 12:06:06 |
 | Sunset | 17:58:58 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:54 |
-| Sunrise | 06:13:23 |
+| Sunrise | 06:13:24 |
 | Dhuhr (Noon) | 12:06:06 |
 | Medium Coeli | 12:06:06 |
 | Sunset | 17:58:58 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|15°48'36.66" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|8°49'39.25" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|28°12'4.58" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|24°24'35.89" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°45'14.12" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|0°58'43.71" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|24°24'35.26" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°45'13.64" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|0°54'2.78" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
