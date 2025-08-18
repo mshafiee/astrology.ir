@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°52'28.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°19'0.48" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°13'36.12" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°46'44.09" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|21°25'35.77" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°16'32.20" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|25°54'19.10" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|0°52'28.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°19'0.74" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°13'36.13" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°46'44.06" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|21°25'35.80" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|7°16'29.40" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|25°35'19.79" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°52'28.34" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°19'0.48" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°13'36.12" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|25°46'44.09" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°25'35.77" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|7°16'32.17" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|0°52'28.38" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°19'0.74" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°13'36.13" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|25°46'44.06" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°25'35.80" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|7°16'32.17" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|25°54'19.48" |Gemini|Dhira|Sun|
 
 

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:49 |
-| Sunrise | 06:35:29 |
+| Sunrise | 06:35:30 |
 | Dhuhr (Noon) | 13:33:18 |
 | Medium Coeli | 13:33:18 |
 | Sunset | 20:30:13 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:36:18 |
-| Sunrise | 06:35:30 |
+| Sunrise | 06:35:29 |
 | Dhuhr (Noon) | 13:33:18 |
 | Medium Coeli | 13:33:18 |
 | Sunset | 20:30:13 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:59:17 |
-| Sunrise | 06:35:30 |
+| Sunrise | 06:35:29 |
 | Dhuhr (Noon) | 13:33:18 |
 | Medium Coeli | 13:33:18 |
 | Sunset | 20:30:13 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:24:06 |
-| Sunrise | 06:35:30 |
+| Sunrise | 06:35:29 |
 | Dhuhr (Noon) | 13:33:18 |
 | Medium Coeli | 13:33:18 |
 | Sunset | 20:30:13 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:54:44|Night duration: 10:06:35|
+|Duration of the day: 13:54:43|Night duration: 10:06:35|
 |Every hour of day duration: 01:09:34|Every hour of night duration: 00:50:33|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:35:29|07:45:01|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|07:45:02|08:54:35|Destruction of enemies|
-|3|Sun|Servant|08:54:36|10:04:09|Attraction of financial and emotional love|
-|4|Venus|Servant|10:04:10|11:13:42|Creating love, connection and marriage|
-|5|Mercury|Servant|11:13:43|12:23:16|Indulgence|
+|1|Jupiter|Ruler|06:35:30|07:45:02|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|07:45:03|08:54:36|Destruction of enemies|
+|3|Sun|Servant|08:54:37|10:04:09|Attraction of financial and emotional love|
+|4|Venus|Servant|10:04:10|11:13:43|Creating love, connection and marriage|
+|5|Mercury|Servant|11:13:44|12:23:16|Indulgence|
 |6|Moon|Servant|12:23:17|13:32:50|Outer and inner journey|
-|7|Saturn|Servant|13:32:51|14:42:23|Achieving status and power|
-|8|Jupiter|Ruler|14:42:24|15:51:57|Attraction of happiness and fortune|
+|7|Saturn|Servant|13:32:51|14:42:24|Achieving status and power|
+|8|Jupiter|Ruler|14:42:25|15:51:57|Attraction of happiness and fortune|
 |9|Mars|Servant|15:51:58|17:01:31|Reaching status and promotion|
 |10|Sun|Servant|17:01:32|18:11:04|Fulfilling needs|
 |11|Venus|Servant|18:11:05|19:20:38|Attraction of love and hearts|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°43'8.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°50'58.56" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|0°43'8.92" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°50'58.81" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|8°57'25.91" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|28°23'49.62" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|24°39'4.74" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°59'2.32" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°46'43.80" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°23'49.55" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|24°39'4.71" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|9°59'2.25" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°46'43.53" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°43'8.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°50'58.56" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|0°43'8.92" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°50'58.81" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|8°57'25.91" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|28°23'49.62" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|24°39'4.74" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°59'2.32" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°46'43.80" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|28°23'49.55" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°39'4.71" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|9°59'2.25" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°46'43.53" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

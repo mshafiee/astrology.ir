@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:07:26 |
-| Sunrise | 06:50:19 |
+| Sunrise | 06:50:18 |
 | Dhuhr (Noon) | 13:47:45 |
 | Medium Coeli | 13:47:45 |
 | Sunset | 20:44:18 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:54:25 |
-| Sunrise | 06:50:19 |
+| Sunrise | 06:50:18 |
 | Dhuhr (Noon) | 13:47:45 |
 | Medium Coeli | 13:47:45 |
 | Sunset | 20:44:18 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:14:52 |
-| Sunrise | 06:50:19 |
+| Sunrise | 06:50:18 |
 | Dhuhr (Noon) | 13:47:45 |
 | Medium Coeli | 13:47:45 |
 | Sunset | 20:44:18 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:39:58 |
-| Sunrise | 06:50:19 |
+| Sunrise | 06:50:18 |
 | Dhuhr (Noon) | 13:47:45 |
 | Medium Coeli | 13:47:45 |
 | Sunset | 20:44:18 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:52:04 |
-| Sunrise | 06:50:18 |
+| Sunrise | 06:50:19 |
 | Dhuhr (Noon) | 13:47:45 |
 | Medium Coeli | 13:47:45 |
 | Sunset | 20:44:18 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:48:06 |
-| Sunrise | 06:50:18 |
+| Sunrise | 06:50:19 |
 | Dhuhr (Noon) | 13:47:45 |
 | Medium Coeli | 13:47:45 |
 | Sunset | 20:44:18 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:53:59|Night duration: 10:07:18|
+|Duration of the day: 13:54:00|Night duration: 10:07:18|
 |Every hour of day duration: 01:09:30|Every hour of night duration: 00:50:36|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:50:19|07:59:47|Attraction of material wealth, earning and prosperity|
+|1|Jupiter|Ruler|06:50:18|07:59:47|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|07:59:48|09:09:17|Destruction of enemies|
 |3|Sun|Servant|09:09:18|10:18:47|Attraction of financial and emotional love|
 |4|Venus|Servant|10:18:48|11:28:17|Creating love, connection and marriage|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|9°42'33.18" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|29°31'55.40" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|26°3'3.71" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°23'59.50" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|11°23'59.50" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|19°36'2.33" |Cancer|Tarf|Mercury|
 
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°42'33.18" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|29°31'55.40" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|26°3'3.71" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|11°23'59.50" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°36'2.33" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|11°23'59.47" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°36'2.05" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

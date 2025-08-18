@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:45:17 |
 | Dhuhr (Noon) | 12:56:57 |
 | Medium Coeli | 12:56:57 |
-| Sunset | 19:08:31 |
+| Sunset | 19:08:30 |
 | Maghrib | 19:22:37 |
 | Isha (Night) | 20:04:27 |
 | Sharia Midnight | 00:24:43 |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:45:17 |
 | Dhuhr (Noon) | 12:56:57 |
 | Medium Coeli | 12:56:57 |
-| Sunset | 19:08:31 |
+| Sunset | 19:08:30 |
 | Maghrib | 19:24:42 |
 | Isha (Night) | 20:04:27 |
 | Sharia Midnight | 00:21:08 |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:45:17 |
 | Dhuhr (Noon) | 12:56:57 |
 | Medium Coeli | 12:56:57 |
-| Sunset | 19:08:30 |
+| Sunset | 19:08:31 |
 | Maghrib | 19:09:26 |
 | Isha (Night) | 20:17:06 |
 | Sharia Midnight | 00:20:30 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:45:17 |
 | Dhuhr (Noon) | 12:56:57 |
 | Medium Coeli | 12:56:57 |
-| Sunset | 19:08:31 |
+| Sunset | 19:08:30 |
 | Maghrib | 19:09:26 |
 | Isha (Night) | 20:39:26 |
-| Sharia Midnight | 00:19:27 |
+| Sharia Midnight | 00:19:26 |
 | Imum Coeli | 00:56:51 |
 {{< /tab >}}
 
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:23:13|Night duration: 11:36:47|
-|Every hour duration: 01:46:10|Every hour duration: 01:39:32|
+|Duration of the day: 12:23:14|Night duration: 11:36:46|
+|Every hour duration: 01:46:11|Every hour duration: 01:39:32|
 
  
  
@@ -265,21 +265,21 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Sun|Ruler|06:45:17|08:31:26|
-|Mid-morning|Venus|Servant|08:31:27|10:17:36|
-|Late morning|Mercury|Servant|10:17:37|12:03:47|
-|Noon|Moon|Servant|12:03:48|13:49:57|
-|Early afternoon|Saturn|Servant|13:49:58|15:36:08|
-|Mid-afternoon|Jupiter|Servant|15:36:09|17:22:18|
-|Late afternoon|Mars|Servant|17:22:19|19:08:29|
+|Mid-morning|Venus|Servant|08:31:27|10:17:37|
+|Late morning|Mercury|Servant|10:17:38|12:03:47|
+|Noon|Moon|Servant|12:03:48|13:49:58|
+|Early afternoon|Saturn|Servant|13:49:59|15:36:08|
+|Mid-afternoon|Jupiter|Servant|15:36:09|17:22:19|
+|Late afternoon|Mars|Servant|17:22:20|19:08:30|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Jupiter|Ruler|19:08:30|20:48:01|
-|Late evening|Mars|Servant|20:48:02|22:27:33|
-|Midnight|Sun|Servant|22:27:34|00:07:06|
-|Late at night|Venus|Servant|00:07:07|01:46:38|
-|Rooster song|Mercury|Servant|01:46:39|03:26:11|
+|Evening|Jupiter|Ruler|19:08:31|20:48:02|
+|Late evening|Mars|Servant|20:48:03|22:27:34|
+|Midnight|Sun|Servant|22:27:35|00:07:06|
+|Late at night|Venus|Servant|00:07:07|01:46:39|
+|Rooster song|Mercury|Servant|01:46:40|03:26:11|
 |False Dawn|Moon|Servant|03:26:12|05:05:43|
 |Dawn|Saturn|Servant|05:05:44|06:45:16|
 
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°28'18.67" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|24°38'2.84" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|20°1'6.08" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|6°21'7.54" |Cancer|Nathrah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|6°21'7.54" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|8°57'29.56" |Taurus|Dabaran|Mercury|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°56'22.96" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|15°4'51.20" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|6°28'18.67" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|24°38'2.81" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°1'6.10" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°21'7.52" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|8°57'30.13" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°38'2.84" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°1'6.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|6°21'7.54" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°57'29.56" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

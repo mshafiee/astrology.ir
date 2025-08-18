@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|8°57'57.76" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|28°24'37.45" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|24°40'3.98" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°59'59.15" |Cancer|Nathrah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|9°59'59.15" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|3°55'48.15" |Cancer|Nathrah|Venus|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°43'6.00" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|15°51'8.49" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°57'53.25" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|28°24'27.75" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|24°39'59.35" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°59'50.76" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°10'34.52" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|8°57'57.76" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|28°24'37.45" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°40'3.98" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|9°59'59.15" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°55'48.15" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ILondon, LON, Lakana, Landan, Landen, Ljondan, Llundain, Lodoni, Londain, Londan, Londar, Londe, Londen, Londin, Londinium, Londino, Londn, London, London osh, Londona, Londonas, Londoni, Londono, Londons, Londonu, Londra, Londres, Londrez, Londri, Londro, Londye, Londyn, Londýn, Lonn, Lontoo, Loundres, Luan GJon, Lun-tun, Lunden, Lundra, Lundun, Lundunir, Lundúnir, Lung-dung, Lunnainn, Lunnin, Lunnon, Luân Đôn, Lùn-tûn, Lùng-dŭng, Lûn-tun, Lākana, Lůndůn, Lọndọnu, Ranana, Rānana, ilantan, ladana, landan, landana, leondeon, lndn, london, londoni, lun dui, lun dun, lwndwn, lxndxn, rondon, Łondra, Λονδίνο, Лондан, Лондон, Лондон ош, Лондонъ, Лёндан, Լոնդոն, לאנדאן, לונדון, لأندأن, لندن, لوندون, لەندەن, ܠܘܢܕܘܢ, लंडन, लंदन, लण्डन, लन्डन्, लन्दन, লন্ডন, ਲੰਡਨ, લંડન, ଲଣ୍ଡନ, இலண்டன், లండన్, ಲಂಡನ್, ലണ്ടൻ, ලන්ඩන්, ลอนดอน, ລອນດອນ, ལོན་ཊོན།, လန်ဒန်မြို့, ლონდონი, ለንደን, ᎫᎴ ᏗᏍᎪᏂᎯᏱ, ロンドン, 伦敦, 倫敦, 런던

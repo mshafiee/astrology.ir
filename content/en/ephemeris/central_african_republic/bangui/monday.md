@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:11:04 |
 | Isha (Night) | 18:52:22 |
 | Sharia Midnight | 23:17:41 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:13:07 |
 | Isha (Night) | 18:52:22 |
 | Sharia Midnight | 23:14:10 |
-| Imum Coeli | 23:49:29 |
+| Imum Coeli | 23:49:28 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°53'23.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°15'44.45" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°3'5.88" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°30'49.15" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|21°6'0.32" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°2'49.67" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|22°2'13.00" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|15°15'44.49" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°3'5.87" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°30'49.36" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|21°6'0.56" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|7°2'49.99" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|22°4'24.68" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°53'23.27" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|15°15'44.45" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|7°3'5.88" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|25°30'49.15" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°6'0.32" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|7°2'49.67" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|22°2'13.00" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°30'49.36" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°6'0.56" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|7°2'49.99" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°4'24.68" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

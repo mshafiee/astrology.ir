@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:08:54 |
 | Sunset | 18:46:43 |
 | Maghrib | 18:52:05 |
-| Isha (Night) | 20:20:01 |
+| Isha (Night) | 20:20:00 |
 | Sharia Midnight | 23:22:20 |
 | Imum Coeli | 00:08:46 |
 {{< /tab >}}
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|9°31'36.76" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|29°15'25.59" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|25°42'42.31" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°2'38.84" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|11°2'38.84" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|15°52'24.53" |Cancer|Tarf|Mercury|
 
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°31'36.76" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|29°15'25.59" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|25°42'42.31" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°2'38.80" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|15°52'0.74" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|11°2'38.84" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|15°52'24.53" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

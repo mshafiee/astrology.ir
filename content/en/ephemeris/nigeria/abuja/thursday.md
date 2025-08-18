@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:33:07 |
 | Sunset | 18:44:11 |
 | Maghrib | 18:47:21 |
-| Isha (Night) | 19:56:51 |
+| Isha (Night) | 19:56:50 |
 | Sharia Midnight | 23:56:43 |
 | Imum Coeli | 00:32:59 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°43'1.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°51'21.32" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|8°58'40.21" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|28°25'42.34" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|24°41'23.22" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|10°1'16.03" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|4°18'25.21" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|0°43'2.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°51'21.58" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|8°58'40.23" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|28°25'42.31" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|24°41'23.24" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|10°1'16.00" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|4°18'25.45" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°43'1.99" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°51'21.32" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°58'40.21" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|28°25'42.34" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|24°41'23.22" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|10°1'16.03" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°18'25.21" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|0°43'2.03" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°51'21.58" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°58'40.23" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|28°25'42.31" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°41'23.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|10°1'16.00" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°18'25.45" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 21:04:53 |
 | Maghrib | 21:09:53 |
 | Isha (Night) | 22:27:57 |
-| Sharia Midnight | 01:36:44 |
+| Sharia Midnight | 01:36:43 |
 | Imum Coeli | 02:18:01 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°46'30.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°39'44.22" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|8°20'39.72" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|27°28'15.66" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|23°30'35.75" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°56'3.34" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|20°37'10.89" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|0°46'30.32" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°39'43.96" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|8°20'39.70" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|27°28'15.69" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|23°30'35.73" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|8°56'3.37" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|20°37'10.43" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°46'30.36" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°39'44.22" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°20'39.72" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|27°28'15.66" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°30'35.75" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°56'3.34" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|20°37'10.89" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|0°46'30.32" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°39'43.96" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°20'39.70" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|27°28'15.69" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°30'35.73" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|8°56'3.37" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|20°37'10.43" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

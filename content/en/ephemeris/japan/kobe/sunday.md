@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:49:34 |
+| Fajr (Dawn) | 03:49:35 |
 | Sunrise | 05:20:53 |
 | Dhuhr (Noon) | 12:03:22 |
 | Medium Coeli | 12:03:22 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°54'32.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°11'36.43" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|6°49'52.39" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°10'45.05" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|20°41'18.92" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|6°46'16.50" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|16°56'53.77" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|0°54'31.99" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°11'36.32" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|6°49'52.16" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°10'45.45" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|20°41'19.60" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|6°46'17.32" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|17°4'29.03" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°54'32.03" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°11'36.43" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°49'52.39" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|25°10'45.05" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|20°41'18.92" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°46'16.50" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|16°56'53.77" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|0°54'31.99" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°11'36.32" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°49'52.16" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|25°10'45.45" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°41'19.60" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|6°46'17.32" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°4'29.03" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

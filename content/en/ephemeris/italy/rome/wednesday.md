@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 20:02:45 |
 | Maghrib | 20:04:08 |
 | Isha (Night) | 21:28:03 |
-| Sharia Midnight | 00:30:46 |
+| Sharia Midnight | 00:30:47 |
 | Imum Coeli | 01:13:10 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°46'40.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°39'11.16" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|8°18'52.08" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|27°25'32.84" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|23°27'15.20" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°53'7.84" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|19°57'41.34" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|0°46'40.06" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°39'10.90" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|8°18'52.06" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|27°25'32.87" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|23°27'15.18" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|8°53'7.87" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|19°57'40.88" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°46'40.10" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°39'11.16" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°18'52.08" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|27°25'32.84" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°27'15.20" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°53'7.84" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|19°57'41.34" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|0°46'40.06" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°39'10.90" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°18'52.95" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|27°25'33.22" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°27'14.44" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|8°53'7.42" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|19°49'22.45" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

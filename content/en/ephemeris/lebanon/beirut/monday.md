@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:30:14 |
+| Fajr (Dawn) | 04:30:15 |
 | Sunrise | 06:01:43 |
 | Dhuhr (Noon) | 12:41:49 |
 | Medium Coeli | 12:41:49 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°53'37.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°14'54.45" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°0'26.60" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°26'47.65" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|21°1'3.16" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|6°59'26.54" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°2'34.46" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|0°53'37.11" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°14'54.14" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°0'26.09" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°26'45.92" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|21°1'1.94" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|6°59'24.59" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|20°56'59.84" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°53'37.07" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°14'54.45" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°0'26.60" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|25°26'47.65" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|0°53'37.11" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°14'54.71" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°0'26.62" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|25°26'47.62" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|21°1'3.18" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°59'26.52" |Leo|Jabhah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|6°59'26.52" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|21°2'34.86" |Gemini|Dhira|Sun|
 
 

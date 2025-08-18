@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°43'14.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°50'39.53" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|8°56'23.35" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|28°22'15.29" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|24°37'8.28" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°57'10.57" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°26'22.32" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|0°43'14.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°50'39.40" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|8°56'18.67" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|28°22'7.94" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|24°37'6.60" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|9°57'5.61" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°4'58.13" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°43'14.63" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°50'39.53" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°56'23.35" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|28°22'15.29" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|24°37'8.28" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°57'10.57" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°26'22.32" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|0°43'14.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°50'39.79" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°56'23.37" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|28°22'15.26" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°37'8.30" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|9°57'10.54" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°26'22.59" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

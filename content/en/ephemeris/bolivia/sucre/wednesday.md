@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|9°7'3.70" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|28°38'21.66" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|24°57'0.51" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|10°16'28.21" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|10°16'28.21" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|7°5'36.84" |Cancer|Nathrah|Venus|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°7'3.70" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|28°38'21.66" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|24°57'0.51" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|10°16'28.21" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|10°16'28.21" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|7°5'36.84" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레
