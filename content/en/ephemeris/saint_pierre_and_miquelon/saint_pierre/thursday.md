@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:14:52 |
-| Sunrise | 06:50:18 |
+| Sunrise | 06:50:19 |
 | Dhuhr (Noon) | 13:47:45 |
 | Medium Coeli | 13:47:45 |
 | Sunset | 20:44:18 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:48:06 |
-| Sunrise | 06:50:19 |
+| Sunrise | 06:50:18 |
 | Dhuhr (Noon) | 13:47:45 |
 | Medium Coeli | 13:47:45 |
 | Sunset | 20:44:18 |
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 13:54:00|Night duration: 10:07:18|
-|Every hour duration: 01:59:09|Every hour duration: 01:26:45|
+|Duration of the day: 13:53:59|Night duration: 10:07:18|
+|Every hour duration: 01:59:08|Every hour duration: 01:26:45|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:50:18|08:49:25|
-|Mid-morning|Mars|Servant|08:49:26|10:48:34|
-|Late morning|Sun|Servant|10:48:35|12:47:42|
-|Noon|Venus|Servant|12:47:43|14:46:51|
-|Early afternoon|Mercury|Servant|14:46:52|16:45:59|
-|Mid-afternoon|Moon|Servant|16:46:00|18:45:08|
+|Early morning|Jupiter|Ruler|06:50:19|08:49:26|
+|Mid-morning|Mars|Servant|08:49:27|10:48:34|
+|Late morning|Sun|Servant|10:48:35|12:47:43|
+|Noon|Venus|Servant|12:47:44|14:46:51|
+|Early afternoon|Mercury|Servant|14:46:52|16:46:00|
+|Mid-afternoon|Moon|Servant|16:46:01|18:45:08|
 |Late afternoon|Saturn|Servant|18:45:09|20:44:17|
 
  
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°42'33.18" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|29°31'55.40" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|26°3'3.71" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°23'59.47" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°36'2.05" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|11°23'59.50" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°36'2.33" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

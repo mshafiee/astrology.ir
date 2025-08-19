@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:15:54 |
+| Fajr (Dawn) | 05:15:55 |
 | Sunrise | 06:34:29 |
 | Dhuhr (Noon) | 12:57:04 |
 | Medium Coeli | 12:57:04 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°45'29.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°43'11.39" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|8°31'55.18" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|27°45'17.24" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|23°51'34.12" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|9°14'43.84" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|24°44'42.52" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|0°45'28.99" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°43'11.13" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|8°31'55.16" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|27°45'17.27" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|23°51'34.10" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|9°14'43.86" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|24°44'42.08" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

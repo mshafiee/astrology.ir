@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:16:09 |
-| Sunrise | 05:47:27 |
+| Sunrise | 05:47:28 |
 | Dhuhr (Noon) | 12:24:05 |
 | Medium Coeli | 12:24:05 |
 | Sunset | 19:00:09 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:32:34 |
-| Sunrise | 05:47:27 |
+| Sunrise | 05:47:28 |
 | Dhuhr (Noon) | 12:24:05 |
 | Medium Coeli | 12:24:05 |
 | Sunset | 19:00:09 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:07:46 |
-| Sunrise | 05:47:27 |
+| Sunrise | 05:47:28 |
 | Dhuhr (Noon) | 12:24:05 |
 | Medium Coeli | 12:24:05 |
 | Sunset | 19:00:09 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:16:09 |
-| Sunrise | 05:47:27 |
+| Sunrise | 05:47:28 |
 | Dhuhr (Noon) | 12:24:05 |
 | Medium Coeli | 12:24:05 |
 | Sunset | 19:00:09 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:13:22 |
-| Sunrise | 05:47:27 |
+| Sunrise | 05:47:28 |
 | Dhuhr (Noon) | 12:24:05 |
 | Medium Coeli | 12:24:05 |
 | Sunset | 19:00:09 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:12:42|Night duration: 10:48:02|
+|Duration of the day: 13:12:41|Night duration: 10:48:02|
 |Every hour of day duration: 01:06:03|Every hour of night duration: 00:54:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:47:27|06:53:29|Love, creating love and attracting hearts|
-|2|Mercury|Servant|06:53:30|07:59:33|Attracting auspiciousness|
-|3|Moon|Servant|07:59:34|09:05:36|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:05:37|10:11:40|Unfortunate hour|
-|5|Jupiter|Servant|10:11:41|11:17:43|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:17:44|12:23:47|Creating attraction and acceptance among dignitaries|
+|1|Venus|Ruler|05:47:28|06:53:30|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:53:31|07:59:33|Attracting auspiciousness|
+|3|Moon|Servant|07:59:34|09:05:37|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:05:38|10:11:40|Unfortunate hour|
+|5|Jupiter|Servant|10:11:41|11:17:44|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:17:45|12:23:47|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|12:23:48|13:29:50|Promotion and attracting wealth|
 |8|Venus|Ruler|13:29:51|14:35:54|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:35:55|15:41:57|Causing separation and homelessness|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°40'4.86" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°1'0.55" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|9°30'28.01" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|29°13'41.89" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|25°40'34.37" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°0'26.35" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|15°28'51.53" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|16°1'0.64" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|9°30'26.84" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|29°13'40.87" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°40'34.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|11°0'26.20" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|15°27'8.50" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

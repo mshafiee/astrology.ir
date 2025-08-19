@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:19:17|Night duration: 11:40:39|
+|Duration of the day: 12:19:16|Night duration: 11:40:39|
 |Every hour of day duration: 01:01:36|Every hour of night duration: 00:58:23|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:21:06|07:22:41|Acceptance of needs|
-|2|Moon|Servant|07:22:42|08:24:17|Unfortunate, no task is suitable|
-|3|Saturn|Servant|08:24:18|09:25:54|For overcoming diseases|
-|4|Jupiter|Servant|09:25:55|10:27:30|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:27:31|11:29:07|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:29:08|12:30:43|Outer and inner journey|
-|7|Venus|Servant|12:30:44|13:32:19|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|13:32:20|14:33:56|Being invisible to the people|
-|9|Moon|Servant|14:33:57|15:35:32|Separation, causing enmity|
-|10|Saturn|Servant|15:35:33|16:37:09|Dominating the great ones|
+|1|Mercury|Ruler|06:21:07|07:22:42|Acceptance of needs|
+|2|Moon|Servant|07:22:43|08:24:18|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:24:19|09:25:55|For overcoming diseases|
+|4|Jupiter|Servant|09:25:56|10:27:31|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:27:32|11:29:07|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:29:08|12:30:44|Outer and inner journey|
+|7|Venus|Servant|12:30:45|13:32:20|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|13:32:21|14:33:56|Being invisible to the people|
+|9|Moon|Servant|14:33:57|15:35:33|Separation, causing enmity|
+|10|Saturn|Servant|15:35:34|16:37:09|Dominating the great ones|
 |11|Jupiter|Servant|16:37:10|17:38:45|Creating financial and emotional attraction and dominance|
 |12|Mars|Servant|17:38:46|18:40:22|Creating evil and hatred|
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|8°42'42.34" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|28°1'35.23" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|24°11'39.52" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|9°33'7.36" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|28°38'29.25" |Cancer|Jabhah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|9°33'7.70" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|28°36'12.66" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°42'21.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°53'34.40" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|9°5'57.53" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|28°36'42.76" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|24°54'57.43" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|10°14'28.06" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|6°53'54.69" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|0°42'21.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°53'34.65" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|9°5'57.55" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|28°36'42.73" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|24°54'57.45" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|10°14'28.04" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|6°53'54.85" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°42'21.60" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°53'34.40" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|0°42'21.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°53'34.65" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|9°5'57.55" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|28°36'42.73" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|24°54'57.45" |Cancer|Tarf|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> </sub>|
 
 ---
 Alternate Names: Fort Royal, Georgetown, Grenada City, Lewis, Port Louis, Port Royal, Saint George, Saint George's, Saint George.s, Saint-Georges, Sent Dzordzas, Sent Džordžas, Sent Tzortzes, Sent-Dzhorzhes, St Georges, St. George's, seinteujojiseu, sentojojizu, snt g'wrg', Σεντ Τζόρτζες, Сент-Джоржес, סנט ג'ורג', セントジョージズ, 세인트조지스

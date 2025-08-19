@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:23:51 |
 | Sunset | 21:02:39 |
 | Maghrib | 21:04:40 |
-| Isha (Night) | 01:03:18 |
+| Isha (Night) | 01:03:19 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:23:43 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°50'19.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°26'35.77" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°38'2.78" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|26°23'45.37" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|22°11'10.32" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|7°50'26.06" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°53'48.98" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|15°26'35.20" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°37'57.96" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|26°23'37.29" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|22°11'7.95" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|7°50'19.86" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°57'31.91" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°50'19.62" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°26'35.67" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°38'1.83" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°23'43.89" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|22°11'9.98" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|7°50'25.00" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°55'50.61" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|0°50'19.37" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°26'35.77" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°38'2.78" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°23'45.37" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°11'10.32" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|7°50'26.06" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°53'48.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

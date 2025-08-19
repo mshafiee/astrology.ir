@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°53'19.81" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°15'56.80" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°3'45.76" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°31'49.49" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|21°7'14.62" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|7°3'40.67" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|22°16'44.60" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|0°53'19.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°15'56.28" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°3'41.69" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°31'42.18" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|21°7'12.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|7°3'34.55" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|22°26'39.80" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°53'19.81" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|15°15'56.80" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°3'40.44" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|25°31'32.62" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|21°7'3.12" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|7°3'21.85" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°23'39.10" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°3'45.76" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|25°31'49.49" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°7'14.62" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|7°3'40.67" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°16'44.60" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Libra|Sun|Sun|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}

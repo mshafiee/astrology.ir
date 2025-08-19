@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:09:59 |
+| Fajr (Dawn) | 03:09:58 |
 | Sunrise | 05:47:32 |
 | Dhuhr (Noon) | 12:59:34 |
 | Medium Coeli | 12:59:34 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°50'27.11" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°26'8.21" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°36'34.40" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|26°21'32.05" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|22°8'25.63" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|7°48'19.38" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°24'54.16" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|0°50'27.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°26'8.47" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°36'34.41" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|26°21'32.02" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|22°8'25.65" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|7°48'19.36" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°58'57.62" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Sun|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°50'27.11" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°26'8.21" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°36'34.40" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°21'32.05" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|22°8'25.63" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|7°48'19.38" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°24'54.16" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|0°50'27.15" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°26'7.71" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°36'35.39" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°21'31.19" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°8'23.29" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|7°48'16.99" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°58'57.62" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Venus|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}

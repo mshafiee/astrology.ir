@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:23:36 |
+| Fajr (Dawn) | 01:23:37 |
 | Sunrise | 05:16:39 |
 | Dhuhr (Noon) | 12:51:04 |
 | Medium Coeli | 12:51:04 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°46'49.78" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°38'38.66" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°17'5.41" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|27°22'51.80" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°23'58.17" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|8°50'15.75" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|19°21'21.38" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|15°38'38.41" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°17'5.82" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|27°22'51.33" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°23'57.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|8°50'14.63" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|19°11'9.50" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

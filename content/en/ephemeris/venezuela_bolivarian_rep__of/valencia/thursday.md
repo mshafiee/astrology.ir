@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:50:10 |
 | Isha (Night) | 19:47:21 |
 | Sharia Midnight | 00:04:52 |
-| Imum Coeli | 00:34:56 |
+| Imum Coeli | 00:34:57 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°38'43.05" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|16°5'23.80" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|9°44'59.38" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|29°35'36.38" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|26°7'36.04" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°28'49.07" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|20°32'21.04" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|9°44'59.45" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|29°35'36.39" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|26°7'35.96" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|11°28'49.01" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|20°32'8.67" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

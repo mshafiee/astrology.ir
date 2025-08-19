@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:52:09 |
 | Maghrib | 18:53:04 |
 | Isha (Night) | 20:23:04 |
-| Sharia Midnight | 00:06:42 |
+| Sharia Midnight | 00:06:43 |
 | Imum Coeli | 00:43:35 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°38'50.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|0°38'50.23" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|16°5'0.73" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|9°43'42.94" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|29°33'40.96" |Cancer|Jabhah|Moon|

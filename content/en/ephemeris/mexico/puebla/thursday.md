@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:51:51 |
+| Fajr (Dawn) | 04:51:52 |
 | Sunrise | 06:16:03 |
 | Dhuhr (Noon) | 12:35:50 |
 | Medium Coeli | 12:35:50 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°38'25.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|16°6'18.39" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|9°48'0.61" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|29°40'9.60" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|26°13'12.98" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°34'49.16" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|21°35'26.81" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|16°6'18.18" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|9°48'0.36" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|29°40'9.57" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|26°13'13.19" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|11°34'49.33" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|21°35'49.13" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°38'25.97" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°6'18.39" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|9°48'0.61" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|29°40'9.60" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|26°13'12.98" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°34'49.16" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°35'26.81" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|0°38'25.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°6'18.13" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|9°48'0.58" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|29°40'9.63" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|26°13'12.95" |Cancer|Jabhah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|11°34'49.18" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|21°35'27.15" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
