@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:44:20 |
 | Isha (Night) | 18:44:52 |
 | Sharia Midnight | 23:24:51 |
-| Imum Coeli | 23:57:40 |
+| Imum Coeli | 23:57:39 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|0°32'18.99" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|16°25'27.51" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|10°52'0.79" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|1°16'32.99" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|28°12'13.62" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|13°50'1.14" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|13°0'3.51" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|1°16'32.15" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|28°12'13.57" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|13°50'0.67" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°53'25.66" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'18.96" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°25'27.26" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|10°52'0.76" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|1°16'32.18" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|28°12'13.55" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|13°50'0.69" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°53'25.87" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|0°32'18.99" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°25'27.51" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|10°52'0.79" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|1°16'32.15" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|28°12'13.57" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|13°50'0.67" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°53'25.66" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

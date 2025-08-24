@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:32:52 |
 | Maghrib | 18:33:49 |
 | Isha (Night) | 20:03:49 |
-| Sharia Midnight | 23:35:08 |
+| Sharia Midnight | 23:35:07 |
 | Imum Coeli | 00:14:03 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°35'8.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|16°16'41.94" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°22'38.43" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|0°32'20.73" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|27°17'37.58" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|12°46'7.74" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|3°23'10.97" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|0°35'8.56" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|16°16'42.19" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°22'38.46" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|0°32'20.71" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|27°17'37.60" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|12°46'7.72" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|3°23'10.50" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°35'8.53" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°16'41.94" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|10°22'38.43" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|0°32'20.73" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|27°17'37.58" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|12°46'7.72" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|0°35'8.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°16'42.19" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|10°22'38.46" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|0°32'20.71" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|27°17'37.60" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|12°46'7.72" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°23'10.50" |Virgo|Sarfrah|Sun|
 
 

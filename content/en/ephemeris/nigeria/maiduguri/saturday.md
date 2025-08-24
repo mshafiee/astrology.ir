@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:26:05|Night duration: 11:33:57|
+|Duration of the day: 12:26:06|Night duration: 11:33:57|
 |Every hour of day duration: 01:02:10|Every hour of night duration: 00:57:50|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:56:50|06:58:59|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:59:00|08:01:09|Peace among people|
-|3|Mars|Servant|08:01:10|09:03:20|Vengeful and evil deeds|
-|4|Sun|Servant|09:03:21|10:05:30|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:05:31|11:07:41|Auspicious|
-|6|Mercury|Servant|11:07:42|12:09:51|Writing, swapping and making promises|
+|1|Saturn|Ruler|05:56:49|06:58:58|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:58:59|08:01:09|Peace among people|
+|3|Mars|Servant|08:01:10|09:03:19|Vengeful and evil deeds|
+|4|Sun|Servant|09:03:20|10:05:30|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:05:31|11:07:40|Auspicious|
+|6|Mercury|Servant|11:07:41|12:09:51|Writing, swapping and making promises|
 |7|Moon|Servant|12:09:52|13:12:01|Not suitable for any task|
 |8|Saturn|Ruler|13:12:02|14:14:12|Destruction of enemies|
 |9|Jupiter|Servant|14:14:13|15:16:22|All good deeds|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|10°14'40.50" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|0°20'20.76" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|27°2'48.85" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|12°29'19.86" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|12°29'19.86" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|0°41'16.44" |Leo|Jabhah|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|10°14'40.50" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|0°20'20.76" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|27°2'48.85" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|12°29'19.86" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°29'19.86" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|0°41'16.44" |Virgo|Sarfrah|Sun|
 
 

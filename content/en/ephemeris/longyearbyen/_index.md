@@ -1,6 +1,6 @@
 ---
-date: 2025-08-19T00:00:00+02:00
-lastmod: 2025-08-19T00:00:00+02:00
+date: 2025-08-24T00:00:00+02:00
+lastmod: 2025-08-24T00:00:00+02:00
 title: Longyearbyen
 slug: longyearbyen
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Tuesday, 19 Aug 2025
+description: 🗓 Sunday, 24 Aug 2025
 
 toc: false
 ---
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 16:08:46 |
+| Isha (Night) | 16:08:45 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 23:49:12 |
 {{< /tab >}}
@@ -209,41 +209,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
+|The ruler of the day: Sun|The ruler of the night: Jupiter|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour of day duration: 00:00:00|Every hour of night duration: 213503:58:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Creating corruption, hatred and enmity|
-|2|Sun|Servant|00:00:00|23:59:59|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|00:00:00|23:59:59|Attracting connection and suitors|
-|4|Mercury|Servant|00:00:00|23:59:59|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|00:00:00|23:59:59|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|00:00:00|23:59:59|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|00:00:00|23:59:59|Attracting love and hearts|
-|8|Mars|Ruler|00:00:00|23:59:59|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|00:00:00|23:59:59|Heart tenderness|
-|10|Venus|Servant|00:00:00|23:59:59|Attracting misfortune, no task is suitable|
-|11|Mercury|Servant|00:00:00|23:59:59|Attracting connection and suitors|
-|12|Moon|Servant|00:00:00|23:59:59|Hatred, corruption and creating negative energy for disruption|
+|1|Sun|Ruler|00:00:00|23:59:59|Love and attraction of capital|
+|2|Venus|Servant|00:00:00|23:59:59|Unfortunate, no task is suitable|
+|3|Mercury|Servant|00:00:00|23:59:59|Operations of tenderness and attraction of love|
+|4|Moon|Servant|00:00:00|23:59:59|Unfortunate and repelling goodness|
+|5|Saturn|Servant|00:00:00|23:59:59|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|00:00:00|23:59:59|Suitable for all good deeds|
+|7|Mars|Servant|00:00:00|23:59:59|No task is suitable, causes misfortune|
+|8|Sun|Ruler|00:00:00|23:59:59|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|00:00:00|23:59:59|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|00:00:00|23:59:59|Attracting happiness, solving financial problems|
+|11|Moon|Servant|00:00:00|23:59:59|Performing promises|
+|12|Saturn|Servant|00:00:00|23:59:59|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|00:00:00|23:59:59|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|00:00:00|23:59:59|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|00:00:00|23:59:59|Attracting connection and suitors|
-|4|Sun|Servant|00:00:00|23:59:59|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|00:00:00|23:59:59|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|00:00:00|23:59:59|Repelling negative energy of evil eye|
-|7|Moon|Servant|00:00:00|23:59:59|Attracting love and hearts|
-|8|Saturn|Ruler|00:00:00|23:59:59|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|00:00:00|23:59:59|Heart tenderness|
-|10|Mars|Servant|00:00:00|23:59:59|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|00:00:00|23:59:59|Attracting connection and suitors|
-|12|Venus|Servant|00:00:00|23:59:59|Hatred, corruption and creating negative energy for disruption|
+|1|Jupiter|Ruler|00:00:00|23:58:55|Love and attraction of capital|
+|2|Mars|Servant|23:58:56|23:57:51|Unfortunate, no task is suitable|
+|3|Sun|Servant|23:57:52|23:56:48|Operations of tenderness and attraction of love|
+|4|Venus|Servant|23:56:49|23:55:44|Unfortunate and repelling goodness|
+|5|Mercury|Servant|23:55:45|23:54:41|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|23:54:42|23:53:37|Suitable for all good deeds|
+|7|Saturn|Servant|23:53:38|23:52:33|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|23:52:34|23:51:30|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|23:51:31|23:50:26|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|23:50:27|23:49:23|Attracting happiness, solving financial problems|
+|11|Venus|Servant|23:49:24|23:48:19|Performing promises|
+|12|Mercury|Servant|23:48:20|23:47:15|Finding the fugitive and discovering the thief|
 
  
  
@@ -255,33 +255,33 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour duration: 00:00:00|Every hour duration: 00:00:00|
+|The ruler of the day: Sun|The ruler of the night: Jupiter|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour duration: 00:00:00|Every hour duration: 366006:49:37|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|00:00:00|23:59:59|
-|Mid-morning|Sun|Servant|00:00:00|23:59:59|
-|Late morning|Venus|Servant|00:00:00|23:59:59|
-|Noon|Mercury|Servant|00:00:00|23:59:59|
-|Early afternoon|Moon|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Saturn|Servant|00:00:00|23:59:59|
-|Late afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Early morning|Sun|Ruler|00:00:00|23:59:59|
+|Mid-morning|Venus|Servant|00:00:00|23:59:59|
+|Late morning|Mercury|Servant|00:00:00|23:59:59|
+|Noon|Moon|Servant|00:00:00|23:59:59|
+|Early afternoon|Saturn|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Late afternoon|Mars|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|00:00:00|23:59:59|
-|Late evening|Jupiter|Servant|00:00:00|23:59:59|
-|Midnight|Mars|Servant|00:00:00|23:59:59|
-|Late at night|Sun|Servant|00:00:00|23:59:59|
-|Rooster song|Venus|Servant|00:00:00|23:59:59|
-|False Dawn|Mercury|Servant|00:00:00|23:59:59|
-|Dawn|Moon|Servant|00:00:00|23:59:59|
+|Evening|Jupiter|Ruler|00:00:00|06:49:35|
+|Late evening|Mars|Servant|06:49:36|13:39:12|
+|Midnight|Sun|Servant|13:39:13|20:28:49|
+|Late at night|Venus|Servant|20:28:50|03:18:25|
+|Rooster song|Mercury|Servant|03:18:26|10:08:02|
+|False Dawn|Moon|Servant|10:08:03|16:57:39|
+|Dawn|Saturn|Servant|16:57:40|23:47:15|
 
 {{< /tab >}}
 
@@ -299,14 +299,35 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Retrograde|0°29'17.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|16°34'38.47" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°23'2.51" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|2°3'10.34" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°9'52.29" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|15°0'40.91" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|22°47'57.27" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
+|♄ Saturn|Venus|Venus|Jupiter|Venus|
+|♃ Jupiter|Venus|Venus|Venus|Mars|
+|♂ Mars|Venus|Venus|Saturn|Saturn|
+|☉ Sun|Jupiter|Saturn|Sun|Venus|
+|♀ Venus|Saturn|Saturn|Saturn|Jupiter|
+|☿ Mercury|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Mercury|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
+|♃ Jupiter|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|♂ Mars|Saturn|Mars|Capricorn|Moon|Venus|
+|☉ Sun|Sun|Mars|Leo|Sun|Sun|
+|♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
+|☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
+|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -317,14 +338,35 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Retrograde|0°29'17.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°34'38.22" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°23'2.48" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|2°3'10.36" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|29°9'52.26" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|15°0'40.93" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|22°47'56.97" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
+|♄ Saturn|Jupiter|Jupiter|Mars|Mars|
+|♃ Jupiter|Mercury|Mercury|Mars|Moon|
+|♂ Mars|Mercury|Jupiter|Saturn|Venus|
+|☉ Sun|Mercury|Mercury|Mercury|Jupiter|
+|♀ Venus|Saturn|Saturn|Jupiter|Mercury|
+|☿ Mercury|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Mars|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Mars|Mars|Aries|Sun|Mars|
+|♃ Jupiter|Mars|Mars|Capricorn|Sun|Mars|
+|♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
+|☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
+|♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
+|☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
+|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -337,10 +379,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>□ Square|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>☍ Opposition|<sub>□ Square|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔
