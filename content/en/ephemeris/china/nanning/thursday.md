@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°13'54.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|17°18'55.96" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|13°55'45.94" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|5°52'11.27" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|3°53'12.37" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°28'22.90" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|10°47'30.29" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Direct|17°18'53.47" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|13°55'41.10" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|5°51'55.25" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|3°53'1.18" |Cancer|Nathrah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|21°28'8.85" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°13'32.57" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°55'45.94" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|5°52'11.27" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|3°53'12.37" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°28'22.90" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|21°28'22.90" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|10°47'30.29" |Scorpio|Qalb|Sun|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

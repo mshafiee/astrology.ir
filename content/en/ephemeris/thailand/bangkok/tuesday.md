@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°21'41.84" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|16°56'58.71" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|12°39'22.54" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|3°57'48.22" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|1°31'32.50" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|18°7'0.75" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|17°32'0.72" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|0°21'41.81" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|16°56'58.46" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|12°39'22.50" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|3°57'48.23" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|1°31'34.79" |Cancer|Nathrah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|18°7'3.02" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|17°27'14.66" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°21'41.84" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°56'58.71" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°39'22.54" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|3°57'48.22" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|1°31'34.82" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°7'0.75" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|0°21'41.81" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°56'58.18" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°39'22.86" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|3°57'46.50" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|1°31'32.50" |Leo|Jabhah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|18°7'0.75" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|17°32'0.72" |Libra|Jubana|Saturn|
 
 

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:00:02 |
+| Fajr (Dawn) | 04:00:03 |
 | Sunrise | 05:27:40 |
 | Dhuhr (Noon) | 11:50:59 |
 | Medium Coeli | 11:50:59 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°17'37.84" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|17°8'32.69" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|13°19'26.60" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|4°57'50.44" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|2°45'54.11" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°51'3.09" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|29°40'55.45" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|0°17'37.81" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°8'32.43" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°19'26.94" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|4°57'50.68" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|2°45'53.91" |Cancer|Nathrah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|19°51'3.09" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|29°46'13.25" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°17'37.84" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|17°8'32.69" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|13°19'26.99" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|4°57'50.67" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|2°45'53.95" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°51'3.09" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°46'13.59" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|0°17'37.81" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°8'32.43" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|13°19'26.94" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|4°57'50.68" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|2°45'53.91" |Leo|Jabhah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|19°51'3.09" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°46'13.25" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

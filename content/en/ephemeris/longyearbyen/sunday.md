@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 16:08:46 |
+| Isha (Night) | 16:08:45 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 23:49:12 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°29'17.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|16°34'38.47" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°23'2.51" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|2°3'10.34" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|29°9'52.29" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|15°0'40.91" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|22°47'57.27" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|16°34'37.20" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°22'58.59" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|2°3'0.07" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°9'46.23" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|15°0'31.91" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|21°42'37.39" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|11°23'2.51" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|2°3'10.34" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|29°9'52.29" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|15°0'40.91" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|15°0'40.91" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|22°47'57.27" |Virgo|Simak|Mercury|
 
 
