@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°26'46.52" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|5°8'48.54" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|2°59'28.72" |Cancer|Nathrah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|20°10'27.74" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°10'27.74" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|1°59'12.65" |Libra|Ghafr|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°26'46.52" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|5°8'48.54" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|2°59'28.72" |Leo|Jabhah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|20°10'27.74" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|20°10'27.74" |Leo|Zubrah|Mars|
 |☾ Moon|Direct|1°59'12.65" |Scorpio|Akleel|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타

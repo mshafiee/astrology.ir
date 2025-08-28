@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Mars|Ruler|00:59:58|02:01:12|Auspicious and ultimate happiness and fortune|
 |9|Sun|Servant|02:01:13|03:02:27|Causing separation and homelessness|
 |10|Venus|Servant|03:02:28|04:03:41|Extremely unfortunate|
-|11|Mercury|Servant|04:03:42|05:04:56|Creating an unfortunate horoscope for anyone|
+|11|Mercury|Servant|04:03:42|05:04:56|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Moon|Servant|05:04:57|06:06:11|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°3'6.26" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|7°32'46.28" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|5°57'54.24" |Cancer|Nathrah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|24°35'13.75" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|24°35'13.75" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|1°4'15.80" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°3'6.26" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|7°32'46.28" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|5°57'54.24" |Leo|Jabhah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|24°35'13.75" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|24°35'13.75" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|1°4'15.80" |Sagittarius|Shaulah|Mercury|
 
 

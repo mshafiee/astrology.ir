@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:52:25|Night duration: 11:08:06|
+|Duration of the day: 12:52:26|Night duration: 11:08:06|
 |Every hour duration: 01:50:21|Every hour duration: 01:35:27|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|05:41:44|07:32:03|
-|Mid-morning|Moon|Servant|07:32:04|09:22:24|
-|Late morning|Saturn|Servant|09:22:25|11:12:45|
-|Noon|Jupiter|Servant|11:12:46|13:03:05|
+|Early morning|Mercury|Ruler|05:41:43|07:32:02|
+|Mid-morning|Moon|Servant|07:32:03|09:22:23|
+|Late morning|Saturn|Servant|09:22:24|11:12:44|
+|Noon|Jupiter|Servant|11:12:45|13:03:05|
 |Early afternoon|Mars|Servant|13:03:06|14:53:26|
 |Mid-afternoon|Sun|Servant|14:53:27|16:43:47|
 |Late afternoon|Venus|Servant|16:43:48|18:34:08|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|12°44'21.59" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|4°5'16.48" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|1°40'49.54" |Cancer|Nathrah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|18°19'46.37" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|18°19'46.37" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|18°59'42.09" |Virgo|Simak|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°21'11.67" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°58'25.10" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°44'21.37" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|4°5'16.31" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|16°58'25.35" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°44'21.59" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|4°5'16.48" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|1°40'49.54" |Leo|Jabhah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|18°19'46.30" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°57'11.82" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|18°19'46.37" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°59'42.09" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

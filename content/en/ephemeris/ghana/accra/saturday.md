@@ -225,7 +225,7 @@ Timetable of twelve day and night planetary hours
 |7|Moon|Servant|12:01:19|13:02:27|Not suitable for any task|
 |8|Saturn|Ruler|13:02:28|14:03:36|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Jupiter|Servant|14:03:37|15:04:45|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mars|Servant|15:04:46|16:05:54|Doing evil deeds|
+|10|Mars|Servant|15:04:46|16:05:54|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Sun|Servant|16:05:55|17:07:03|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Venus|Servant|17:07:04|18:08:13|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°8'36.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|17°33'16.70" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|14°46'33.02" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|7°7'55.06" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|5°27'10.17" |Cancer|Nathrah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|23°48'33.46" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|26°22'39.31" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|0°8'36.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°33'19.36" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|14°46'36.12" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|7°8'9.06" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|5°27'21.47" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|23°48'46.23" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|26°6'34.85" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°46'36.12" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|7°8'9.06" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|5°27'21.47" |Leo|Jabhah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|23°48'46.23" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°48'46.23" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|26°6'34.85" |Scorpio|Shaulah|Venus|
 
 

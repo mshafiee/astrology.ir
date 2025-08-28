@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:01:23 |
 | Dhuhr (Noon) | 13:28:26 |
 | Medium Coeli | 13:28:26 |
-| Sunset | 20:53:27 |
+| Sunset | 20:53:28 |
 | Maghrib | 21:28:17 |
 | Isha (Night) | 23:43:47 |
 | Sharia Midnight | 23:36:49 |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:01:23 |
 | Dhuhr (Noon) | 13:28:26 |
 | Medium Coeli | 13:28:26 |
-| Sunset | 20:53:27 |
+| Sunset | 20:53:28 |
 | Maghrib | 21:33:39 |
 | Isha (Night) | 23:43:47 |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:01:23 |
 | Dhuhr (Noon) | 13:28:26 |
 | Medium Coeli | 13:28:26 |
-| Sunset | 20:53:27 |
+| Sunset | 20:53:28 |
 | Maghrib | 20:55:41 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:01:23 |
 | Dhuhr (Noon) | 13:28:26 |
 | Medium Coeli | 13:28:26 |
-| Sunset | 20:53:27 |
+| Sunset | 20:53:28 |
 | Maghrib | 20:55:41 |
 | Isha (Night) | 00:06:21 |
-| Sharia Midnight | 23:52:20 |
+| Sharia Midnight | 23:52:21 |
 | Imum Coeli | 01:28:17 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:01:23 |
 | Dhuhr (Noon) | 13:28:26 |
 | Medium Coeli | 13:28:26 |
-| Sunset | 20:53:27 |
+| Sunset | 20:53:28 |
 | Maghrib | 20:55:41 |
 | Isha (Night) | 22:25:41 |
 | Sharia Midnight | Circumpolar Angle |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°7'57.59" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|6°10'23.95" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|4°15'47.65" |Cancer|Nathrah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|22°1'38.91" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|22°1'38.91" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|14°22'55.66" |Libra|Jubana|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°7'57.59" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|6°10'23.95" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|4°15'47.65" |Leo|Jabhah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|22°1'38.91" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|22°1'38.91" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|14°22'55.66" |Scorpio|Qalb|Sun|
 
 

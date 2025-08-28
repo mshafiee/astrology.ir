@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Mercury|Servant|11:55:07|13:02:06|Writing, swapping and making promises|
 |7|Moon|Servant|13:02:07|14:09:05|Not suitable for any task|
 |8|Saturn|Ruler|14:09:06|15:16:05|Destruction of enemies|
-|9|Jupiter|Servant|15:16:06|16:23:05|All good deeds|
+|9|Jupiter|Servant|15:16:06|16:23:05|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mars|Servant|16:23:06|17:30:05|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Sun|Servant|17:30:06|18:37:05|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Venus|Servant|18:37:06|19:44:05|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°44'3.39" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|7°4'20.70" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|5°22'38.59" |Cancer|Nathrah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|23°41'38.34" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°41'38.34" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|25°19'57.59" |Libra|Jubana|Jupiter|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°44'3.39" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|7°4'20.70" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|5°22'38.59" |Leo|Jabhah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|23°41'38.34" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°41'38.34" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|25°19'57.59" |Scorpio|Shaulah|Venus|
 
 
