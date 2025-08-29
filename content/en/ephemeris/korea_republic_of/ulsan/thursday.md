@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°14'10.01" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|17°18'11.83" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|13°53'11.10" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|5°48'19.57" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|3°48'25.62" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°21'22.84" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|9°58'32.52" |Scorpio|Qalb|Mars|
+|♂ Mars|Direct|13°53'7.08" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|5°48'13.10" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|3°48'23.88" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°21'18.68" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|9°5'48.58" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

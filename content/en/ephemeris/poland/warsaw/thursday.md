@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°17'1.24" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|17°10'15.53" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|13°25'25.66" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|5°6'46.95" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|2°56'58.74" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|0°17'1.21" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|17°10'15.28" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|13°25'25.61" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|5°6'46.96" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|2°56'58.70" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|20°6'52.92" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°31'11.10" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|1°31'10.85" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°17'1.24" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|17°10'15.53" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|13°25'25.66" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|5°6'46.95" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|2°56'58.74" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|0°17'1.21" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°10'15.28" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|13°25'25.61" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|5°6'46.96" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|2°56'58.70" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|20°6'52.92" |Leo|Zubrah|Mars|
 |☾ Moon|Direct|1°31'11.10" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바

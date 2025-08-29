@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Mercury|Servant|12:05:14|13:16:46|Writing, swapping and making promises|
 |7|Moon|Servant|13:16:47|14:28:19|Not suitable for any task|
 |8|Saturn|Ruler|14:28:20|15:39:53|Destruction of enemies|
-|9|Jupiter|Servant|15:39:54|16:51:26|All good deeds|
+|9|Jupiter|Servant|15:39:54|16:51:26|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mars|Servant|16:51:27|18:02:59|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Sun|Servant|18:03:00|19:14:32|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Venus|Servant|19:14:33|20:26:06|The moon is in Scorpio, Not suitable for doing anything.|
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|7°3'48.90" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|5°21'59.84" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|23°40'39.96" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|25°12'15.63" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|25°47'57.39" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Libra|Sun|Sun|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Mars|Venus|Leo|Moon|Moon|
+|☾ Moon|Sun|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
