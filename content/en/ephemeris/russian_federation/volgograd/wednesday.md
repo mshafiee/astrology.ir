@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:40:07 |
 | Maghrib | 19:01:18 |
 | Isha (Night) | 20:06:59 |
-| Sharia Midnight | 23:11:01 |
+| Sharia Midnight | 23:11:00 |
 | Imum Coeli | 00:01:09 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°52'34.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°14'45.37" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|17°16'43.10" |Virgo|Simak|Venus|
-|☉ Sun|Direct|10°51'46.05" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|10°4'55.63" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|1°2'12.49" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°20'9.00" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|29°52'34.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°14'45.62" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°16'43.15" |Virgo|Simak|Venus|
+|☉ Sun|Direct|10°51'46.06" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|10°4'55.67" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|1°2'12.51" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°20'8.46" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°52'34.19" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°14'45.37" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°16'43.10" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|10°51'46.05" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|10°4'55.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|1°2'12.49" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|12°20'9.00" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Retrograde|29°52'34.21" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°14'45.62" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°16'43.15" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|10°51'46.06" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|10°4'55.67" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|1°2'12.51" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|12°20'8.46" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
