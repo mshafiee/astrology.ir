@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|18°14'46.04" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|17°16'44.47" |Virgo|Simak|Venus|
 |☉ Sun|Direct|10°51'48.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|10°4'58.16" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|1°2'16.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°17'57.55" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|10°4'57.86" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|1°2'16.12" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°21'47.44" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°16'44.47" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|10°51'48.43" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|10°4'58.16" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|1°2'16.27" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|12°17'57.55" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|1°2'16.12" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|12°21'47.44" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
