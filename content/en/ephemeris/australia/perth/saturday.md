@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:14:56 |
 | Medium Coeli | 12:14:56 |
 | Sunset | 18:03:17 |
-| Maghrib | 18:04:24 |
+| Maghrib | 18:04:23 |
 | Isha (Night) | 19:20:44 |
 | Sharia Midnight | 23:33:29 |
 | Imum Coeli | 00:14:46 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:14:56 |
 | Medium Coeli | 12:14:56 |
 | Sunset | 18:03:17 |
-| Maghrib | 18:04:24 |
+| Maghrib | 18:04:23 |
 | Isha (Night) | 19:11:17 |
 | Sharia Midnight | 23:40:34 |
 | Imum Coeli | 00:14:46 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:14:56 |
 | Medium Coeli | 12:14:56 |
 | Sunset | 18:03:17 |
-| Maghrib | 18:04:24 |
+| Maghrib | 18:04:23 |
 | Isha (Night) | 19:34:24 |
 | Sharia Midnight | 23:32:19 |
 | Imum Coeli | 00:14:46 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°54'38.88" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|19°47'6.21" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|14°34'46.63" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|14°42'19.07" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|8°27'23.20" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°24'35.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°42'20.62" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°27'24.15" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°13'41.79" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Moon|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

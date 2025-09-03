@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:50:34 |
-| Sunrise | 06:15:26 |
+| Sunrise | 06:15:25 |
 | Dhuhr (Noon) | 12:06:08 |
 | Medium Coeli | 12:06:08 |
 | Sunset | 17:57:11 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|13°50'44.09" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|13°47'30.76" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|6°59'18.60" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|22°41'40.10" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|22°41'54.64" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°39'17.27" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|18°46'53.54" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°17'21.20" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|13°50'44.14" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|13°47'30.79" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|6°59'18.64" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|22°41'40.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|19°17'21.17" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|13°50'44.09" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|13°47'30.76" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|6°59'18.60" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|22°41'54.64" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

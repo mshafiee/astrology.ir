@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:24:52 |
 | Medium Coeli | 12:24:52 |
 | Sunset | 18:40:04 |
-| Maghrib | 18:54:52 |
+| Maghrib | 18:54:53 |
 | Isha (Night) | 19:38:57 |
 | Sharia Midnight | 23:50:56 |
 | Imum Coeli | 00:24:42 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|18°33'54.95" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|18°28'9.85" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|12°37'51.23" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°16'44.60" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|4°33'22.78" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|6°0'49.97" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|12°16'48.25" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|4°33'28.57" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|5°36'32.57" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Saturn|Saturn|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

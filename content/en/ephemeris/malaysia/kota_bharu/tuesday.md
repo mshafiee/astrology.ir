@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Mars|Ruler|07:03:51|08:04:58|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|08:04:59|09:06:06|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Venus|Servant|09:06:07|10:07:15|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mercury|Servant|10:07:16|11:08:23|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Mercury|Servant|10:07:16|11:08:23|Attracting material wealth, earnings and business prosperity|
 |5|Moon|Servant|11:08:24|12:09:32|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|12:09:33|13:10:40|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|13:10:41|14:11:48|Attracting love and hearts|
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°53'9.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°13'18.24" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|17°11'21.05" |Virgo|Simak|Venus|
-|☉ Sun|Direct|10°43'47.75" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|9°55'0.97" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|29°53'9.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°13'18.50" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°11'21.02" |Virgo|Simak|Venus|
+|☉ Sun|Direct|10°43'47.62" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°55'0.99" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|0°46'24.31" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|10°35'33.57" |Sagittarius|NaAaem|Moon|
 

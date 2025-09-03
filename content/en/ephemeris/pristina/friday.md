@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:58:09|Night duration: 11:02:55|
+|Duration of the day: 12:58:09|Night duration: 11:02:54|
 |Every hour of day duration: 01:04:51|Every hour of night duration: 00:55:15|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|21:48:23|22:43:37|Unfortunate hour|
 |5|Moon|Servant|22:43:38|23:38:51|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|23:38:52|00:34:06|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:34:07|01:29:21|Promotion and attracting wealth|
-|8|Mars|Ruler|01:29:22|02:24:35|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:24:36|03:19:50|Causing separation and homelessness|
-|10|Venus|Servant|03:19:51|04:15:04|Extremely unfortunate|
-|11|Mercury|Servant|04:15:05|05:10:19|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:10:20|06:05:34|Suitable for asking for a need|
+|7|Jupiter|Servant|00:34:07|01:29:20|Promotion and attracting wealth|
+|8|Mars|Ruler|01:29:21|02:24:35|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:24:36|03:19:49|Causing separation and homelessness|
+|10|Venus|Servant|03:19:50|04:15:04|Extremely unfortunate|
+|11|Mercury|Servant|04:15:05|05:10:18|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:10:19|06:05:33|Suitable for asking for a need|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:58:09|Night duration: 11:02:55|
+|Duration of the day: 12:58:09|Night duration: 11:02:54|
 |Every hour duration: 01:51:10|Every hour duration: 01:34:42|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mercury|Servant|23:46:46|01:21:27|
 |Rooster song|Moon|Servant|01:21:28|02:56:09|
 |False Dawn|Saturn|Servant|02:56:10|04:30:51|
-|Dawn|Jupiter|Servant|04:30:52|06:05:34|
+|Dawn|Jupiter|Servant|04:30:52|06:05:33|
 
 {{< /tab >}}
 

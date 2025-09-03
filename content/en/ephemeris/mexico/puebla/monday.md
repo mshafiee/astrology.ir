@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:02:28 |
 | Sunrise | 06:18:26 |
-| Dhuhr (Noon) | 12:32:39 |
-| Medium Coeli | 12:32:39 |
+| Dhuhr (Noon) | 12:32:40 |
+| Medium Coeli | 12:32:40 |
 | Sunset | 18:46:37 |
 | Maghrib | 18:51:01 |
 | Isha (Night) | 20:02:28 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:00:16 |
 | Sunrise | 06:18:26 |
-| Dhuhr (Noon) | 12:32:40 |
-| Medium Coeli | 12:32:40 |
+| Dhuhr (Noon) | 12:32:39 |
+| Medium Coeli | 12:32:39 |
 | Sunset | 18:46:37 |
 | Maghrib | 18:51:01 |
 | Isha (Night) | 20:21:01 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|10°17'46.83" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|9°22'41.59" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|29°54'59.25" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|5°3'2.10" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°2'16.70" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:59:11 |
 | Dhuhr (Noon) | 12:19:59 |
 | Medium Coeli | 12:19:59 |
-| Sunset | 18:40:12 |
+| Sunset | 18:40:13 |
 | Maghrib | 18:57:33 |
 | Isha (Night) | 19:48:03 |
 | Sharia Midnight | 23:40:56 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:59:11 |
 | Dhuhr (Noon) | 12:19:59 |
 | Medium Coeli | 12:19:59 |
-| Sunset | 18:40:13 |
+| Sunset | 18:40:12 |
 | Maghrib | 18:45:23 |
 | Isha (Night) | 20:06:14 |
-| Sharia Midnight | 23:31:45 |
+| Sharia Midnight | 23:31:44 |
 | Imum Coeli | 00:19:49 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:59:11 |
 | Dhuhr (Noon) | 12:19:59 |
 | Medium Coeli | 12:19:59 |
-| Sunset | 18:40:13 |
+| Sunset | 18:40:12 |
 | Maghrib | 18:45:23 |
 | Isha (Night) | 20:08:51 |
-| Sharia Midnight | 23:35:43 |
+| Sharia Midnight | 23:35:42 |
 | Imum Coeli | 00:19:49 |
 {{< /tab >}}
 
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:59:11 |
 | Dhuhr (Noon) | 12:19:59 |
 | Medium Coeli | 12:19:59 |
-| Sunset | 18:40:13 |
+| Sunset | 18:40:12 |
 | Maghrib | 18:45:23 |
 | Isha (Night) | 20:15:23 |
-| Sharia Midnight | 23:34:24 |
+| Sharia Midnight | 23:34:23 |
 | Imum Coeli | 00:19:49 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°35'12.91" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°56'22.93" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°53'46.36" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°44'40.30" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|14°54'37.69" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|8°47'6.27" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|5°12'34.42" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|18°56'22.63" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°53'46.39" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°44'40.26" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|14°54'37.50" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°47'6.20" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|5°13'9.82" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

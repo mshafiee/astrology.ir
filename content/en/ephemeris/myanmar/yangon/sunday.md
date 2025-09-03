@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:03:24 |
 | Medium Coeli | 12:03:24 |
 | Sunset | 18:14:05 |
-| Maghrib | 18:15:02 |
+| Maghrib | 18:15:01 |
 | Isha (Night) | 19:23:25 |
 | Sharia Midnight | 23:26:32 |
 | Imum Coeli | 00:03:14 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:03:24 |
 | Medium Coeli | 12:03:24 |
 | Sunset | 18:14:05 |
-| Maghrib | 18:15:02 |
+| Maghrib | 18:15:01 |
 | Isha (Night) | 19:14:54 |
 | Sharia Midnight | 23:32:55 |
 | Imum Coeli | 00:03:14 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:03:24 |
 | Medium Coeli | 12:03:24 |
 | Sunset | 18:14:05 |
-| Maghrib | 18:15:01 |
+| Maghrib | 18:15:02 |
 | Isha (Night) | 19:25:33 |
 | Sharia Midnight | 23:23:19 |
 | Imum Coeli | 00:03:14 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:03:24 |
 | Medium Coeli | 12:03:24 |
 | Sunset | 18:14:05 |
-| Maghrib | 18:15:01 |
-| Isha (Night) | 19:45:01 |
+| Maghrib | 18:15:02 |
+| Isha (Night) | 19:45:02 |
 | Sharia Midnight | 23:25:27 |
 | Imum Coeli | 00:03:14 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°31'21.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°5'13.18" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°28'1.92" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|15°35'20.50" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|15°57'43.77" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|10°28'13.15" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|17°29'24.98" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|19°5'13.19" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°28'1.88" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|15°35'20.46" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|15°57'43.78" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°28'13.13" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|17°29'44.23" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

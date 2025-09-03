@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:25:11 |
-| Sunrise | 06:05:35 |
+| Sunrise | 06:05:34 |
 | Dhuhr (Noon) | 12:33:38 |
 | Medium Coeli | 12:33:38 |
 | Sunset | 19:00:55 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:25:11 |
-| Sunrise | 06:05:34 |
+| Sunrise | 06:05:35 |
 | Dhuhr (Noon) | 12:33:38 |
 | Medium Coeli | 12:33:38 |
 | Sunset | 19:00:55 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:22:06 |
-| Sunrise | 06:05:34 |
+| Sunrise | 06:05:35 |
 | Dhuhr (Noon) | 12:33:38 |
 | Medium Coeli | 12:33:38 |
 | Sunset | 19:00:55 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:55:21|Night duration: 11:05:43|
+|Duration of the day: 12:55:20|Night duration: 11:05:43|
 |Every hour duration: 01:50:46|Every hour duration: 01:35:06|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|06:05:34|07:56:18|
-|Mid-morning|Jupiter|Servant|07:56:19|09:47:04|
-|Late morning|Mars|Servant|09:47:05|11:37:50|
-|Noon|Sun|Servant|11:37:51|13:28:36|
+|Early morning|Saturn|Ruler|06:05:35|07:56:19|
+|Mid-morning|Jupiter|Servant|07:56:20|09:47:05|
+|Late morning|Mars|Servant|09:47:06|11:37:51|
+|Noon|Sun|Servant|11:37:52|13:28:36|
 |Early afternoon|Venus|Servant|13:28:37|15:19:22|
 |Mid-afternoon|Mercury|Servant|15:19:23|17:10:08|
 |Late afternoon|Moon|Servant|17:10:09|19:00:54|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°39'18.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°46'49.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°17'5.83" |Virgo|Simak|Venus|
-|☉ Sun|Direct|13°50'22.53" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|13°47'2.41" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|6°58'32.53" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|22°21'16.12" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|29°39'18.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°46'49.39" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°17'5.42" |Virgo|Simak|Venus|
+|☉ Sun|Direct|13°50'21.10" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°47'1.53" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|6°58'31.49" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°31'23.99" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Venus|Mercury|Libra|Sun|Sun|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°39'18.80" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°46'49.25" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°17'0.84" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|13°50'14.19" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|13°46'59.94" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|6°58'26.81" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|22°52'16.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|29°39'18.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°46'49.50" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°17'5.92" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|13°50'22.59" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|13°47'2.52" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|6°58'32.64" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|22°21'17.28" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Moon|Jupiter|Scorpio|Moon|Venus|
-|☾ Moon|Mercury|Mars|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
