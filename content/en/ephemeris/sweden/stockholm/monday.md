@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 19:28:54 |
 | Maghrib | 19:30:40 |
 | Isha (Night) | 22:02:38 |
-| Sharia Midnight | 23:16:32 |
+| Sharia Midnight | 23:16:33 |
 | Imum Coeli | 00:45:09 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°30'30.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°7'9.51" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°35'37.07" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|15°46'32.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|16°11'41.82" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|10°50'33.96" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°27'3.92" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|29°30'30.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°7'9.75" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°35'37.14" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|15°46'32.45" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°11'41.87" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|10°50'33.99" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°27'4.94" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°30'30.66" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°7'9.51" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°35'37.07" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|15°46'32.43" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|16°11'41.82" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|10°50'33.96" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°27'3.92" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|29°30'30.68" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°7'9.75" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°35'37.14" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|15°46'32.45" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|16°11'41.87" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°50'33.99" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°27'4.94" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

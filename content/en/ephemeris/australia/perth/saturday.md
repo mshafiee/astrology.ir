@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:14:56 |
 | Medium Coeli | 12:14:56 |
 | Sunset | 18:03:17 |
-| Maghrib | 18:04:23 |
+| Maghrib | 18:04:24 |
 | Isha (Night) | 19:20:44 |
 | Sharia Midnight | 23:33:29 |
 | Imum Coeli | 00:14:46 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:14:56 |
 | Medium Coeli | 12:14:56 |
 | Sunset | 18:03:17 |
-| Maghrib | 18:04:23 |
+| Maghrib | 18:04:24 |
 | Isha (Night) | 19:11:17 |
 | Sharia Midnight | 23:40:34 |
 | Imum Coeli | 00:14:46 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:14:56 |
 | Medium Coeli | 12:14:56 |
 | Sunset | 18:03:17 |
-| Maghrib | 18:04:23 |
+| Maghrib | 18:04:24 |
 | Isha (Night) | 19:34:24 |
 | Sharia Midnight | 23:32:19 |
 | Imum Coeli | 00:14:46 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°35'57.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°54'38.88" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°47'6.21" |Virgo|Simak|Venus|
-|☉ Sun|Direct|14°34'46.63" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|14°42'20.62" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|8°27'24.15" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°13'41.79" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|29°35'57.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°54'39.12" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°47'6.27" |Virgo|Simak|Venus|
+|☉ Sun|Direct|14°34'46.65" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°42'20.68" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°27'24.19" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°13'42.57" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°35'57.93" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°54'38.88" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°47'6.21" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°34'46.63" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|14°42'20.62" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|8°27'24.15" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°13'41.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|29°35'57.96" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°54'39.12" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°47'6.27" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°34'46.65" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|14°42'20.68" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°27'24.19" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°13'42.57" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:50:34 |
-| Sunrise | 06:15:25 |
+| Sunrise | 06:15:26 |
 | Dhuhr (Noon) | 12:06:08 |
 | Medium Coeli | 12:06:08 |
 | Sunset | 17:57:11 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°39'17.27" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°46'53.54" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°17'21.17" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|13°50'44.09" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|13°47'30.76" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|6°59'18.60" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|22°41'54.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°46'53.60" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°17'20.48" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|13°50'43.12" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|13°47'30.62" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|6°59'17.97" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|22°44'26.60" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
