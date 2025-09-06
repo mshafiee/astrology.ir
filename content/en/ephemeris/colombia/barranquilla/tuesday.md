@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:37:23 |
+| Fajr (Dawn) | 04:37:24 |
 | Sunrise | 05:48:49 |
 | Dhuhr (Noon) | 11:56:17 |
 | Medium Coeli | 11:56:17 |
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°20'16.86" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°29'56.61" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°5'45.57" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|17°59'37.19" |Virgo|Simak|Venus|
-|♀ Venus|Direct|18°57'32.55" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|15°14'3.29" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|29°20'16.84" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°29'56.37" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°5'45.50" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|17°59'37.16" |Virgo|Simak|Venus|
+|♀ Venus|Direct|18°57'32.50" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|15°14'3.26" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|23°35'2.78" |Aries|Butain|Venus|
 
 

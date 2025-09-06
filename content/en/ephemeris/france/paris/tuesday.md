@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 20:16:08 |
 | Maghrib | 20:37:04 |
 | Isha (Night) | 21:41:21 |
-| Sharia Midnight | 00:58:37 |
+| Sharia Midnight | 00:58:36 |
 | Imum Coeli | 01:47:40 |
 {{< /tab >}}
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|21°17'11.87" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|16°47'57.98" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|17°28'13.58" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|12°52'32.66" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|6°16'33.50" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|12°52'35.17" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|5°36'39.14" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Venus|Saturn|Saturn|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
