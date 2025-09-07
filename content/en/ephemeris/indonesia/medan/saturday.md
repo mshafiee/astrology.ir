@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:02:20 |
+| Fajr (Dawn) | 05:02:21 |
 | Sunrise | 06:18:39 |
 | Dhuhr (Noon) | 12:23:42 |
 | Medium Coeli | 12:23:42 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°35'47.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°55'1.62" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°48'33.55" |Virgo|Simak|Venus|
-|☉ Sun|Direct|14°36'57.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|14°45'1.54" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|8°31'41.64" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°23'12.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|18°55'1.52" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°48'33.83" |Virgo|Simak|Venus|
+|☉ Sun|Direct|14°36'56.56" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°45'0.35" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°31'40.85" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°32'2.09" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°35'47.94" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°55'1.62" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°48'33.55" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°36'57.43" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|14°45'1.54" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|8°31'41.64" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°23'12.30" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|29°35'47.97" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°55'1.87" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°48'33.62" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°36'57.45" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|14°45'1.59" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°31'41.67" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°23'13.10" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

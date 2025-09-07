@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:15:46 |
 | Maghrib | 18:16:51 |
 | Isha (Night) | 19:36:02 |
-| Sharia Midnight | 23:16:42 |
+| Sharia Midnight | 23:16:43 |
 | Imum Coeli | 23:59:09 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°21'48.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°26'36.20" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°52'24.36" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|17°39'55.72" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|18°32'59.42" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|14°35'16.80" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°36'8.18" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|29°21'48.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°26'36.44" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°52'24.43" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|17°39'55.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|18°32'59.47" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°35'16.83" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°36'8.42" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°21'48.16" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°26'36.20" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°52'24.36" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|17°39'55.72" |Virgo|Simak|Venus|
-|♀ Venus|Direct|18°32'59.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|14°35'16.80" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°36'8.18" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|29°21'48.18" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°26'36.44" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°52'24.43" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|17°39'55.75" |Virgo|Simak|Venus|
+|♀ Venus|Direct|18°32'59.47" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|14°35'16.83" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°36'8.42" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

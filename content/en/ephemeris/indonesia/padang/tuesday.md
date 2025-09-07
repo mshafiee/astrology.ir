@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:15:04 |
+| Fajr (Dawn) | 05:15:03 |
 | Sunrise | 06:12:51 |
 | Dhuhr (Noon) | 12:15:55 |
 | Medium Coeli | 12:15:55 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°22'27.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°25'9.87" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°46'38.64" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|17°31'25.45" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|18°22'23.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|14°18'31.14" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|16°31'1.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|29°22'27.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°25'9.63" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°46'38.57" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|17°31'25.42" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|18°22'23.63" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°18'31.11" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|16°31'1.08" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°22'27.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°25'9.87" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°46'38.64" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|17°31'25.45" |Virgo|Simak|Venus|
-|♀ Venus|Direct|18°22'23.68" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|14°18'31.14" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|16°31'1.41" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|29°22'27.57" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°25'9.63" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°46'38.57" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|17°31'25.42" |Virgo|Simak|Venus|
+|♀ Venus|Direct|18°22'23.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|14°18'31.11" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|16°31'1.08" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

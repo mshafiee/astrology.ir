@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°21'14.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°27'50.28" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°57'13.47" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|17°47'1.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|18°41'57.47" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|14°49'25.32" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°40'53.54" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°27'49.98" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°57'18.27" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|17°47'9.05" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|18°41'59.85" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°49'30.90" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°26'51.50" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
+|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°21'14.69" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°27'49.75" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°57'18.20" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|17°47'9.03" |Virgo|Simak|Venus|
-|♀ Venus|Direct|18°41'59.80" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|14°49'30.87" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°26'51.35" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|29°21'14.71" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°27'49.98" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°57'18.27" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|17°47'9.05" |Virgo|Simak|Venus|
+|♀ Venus|Direct|18°41'59.85" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|14°49'30.90" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°26'51.50" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

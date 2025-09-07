@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:20 |
-| Sunrise | 06:05:35 |
+| Sunrise | 06:05:34 |
 | Dhuhr (Noon) | 12:33:38 |
 | Medium Coeli | 12:33:38 |
 | Sunset | 19:00:55 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:55:20|Night duration: 11:05:43|
+|Duration of the day: 12:55:21|Night duration: 11:05:43|
 |Every hour of day duration: 01:04:37|Every hour of night duration: 00:55:29|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:05:35|07:10:10|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|07:10:11|08:14:47|Peace among people|
-|3|Mars|Servant|08:14:48|09:19:24|Vengeful and evil deeds|
-|4|Sun|Servant|09:19:25|10:24:00|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:24:01|11:28:37|Auspicious|
-|6|Mercury|Servant|11:28:38|12:33:14|Writing, swapping and making promises|
-|7|Moon|Servant|12:33:15|13:37:50|Not suitable for any task|
+|1|Saturn|Ruler|06:05:34|07:10:09|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:10:10|08:14:46|Peace among people|
+|3|Mars|Servant|08:14:47|09:19:23|Vengeful and evil deeds|
+|4|Sun|Servant|09:19:24|10:24:00|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:24:01|11:28:36|Auspicious|
+|6|Mercury|Servant|11:28:37|12:33:13|Writing, swapping and making promises|
+|7|Moon|Servant|12:33:14|13:37:50|Not suitable for any task|
 |8|Saturn|Ruler|13:37:51|14:42:27|Destruction of enemies|
-|9|Jupiter|Servant|14:42:28|15:47:04|All good deeds|
-|10|Mars|Servant|15:47:05|16:51:40|Doing evil deeds|
+|9|Jupiter|Servant|14:42:28|15:47:03|All good deeds|
+|10|Mars|Servant|15:47:04|16:51:40|Doing evil deeds|
 |11|Sun|Servant|16:51:41|17:56:17|Acceptance of reconciliation between couples|
 |12|Venus|Servant|17:56:18|19:00:54|For gaining dignity|
 
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:55:20|Night duration: 11:05:43|
+|Duration of the day: 12:55:21|Night duration: 11:05:43|
 |Every hour duration: 01:50:46|Every hour duration: 01:35:06|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|06:05:35|07:56:19|
-|Mid-morning|Jupiter|Servant|07:56:20|09:47:05|
-|Late morning|Mars|Servant|09:47:06|11:37:51|
-|Noon|Sun|Servant|11:37:52|13:28:36|
+|Early morning|Saturn|Ruler|06:05:34|07:56:18|
+|Mid-morning|Jupiter|Servant|07:56:19|09:47:04|
+|Late morning|Mars|Servant|09:47:05|11:37:50|
+|Noon|Sun|Servant|11:37:51|13:28:36|
 |Early afternoon|Venus|Servant|13:28:37|15:19:22|
 |Mid-afternoon|Mercury|Servant|15:19:23|17:10:08|
 |Late afternoon|Moon|Servant|17:10:09|19:00:54|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°39'18.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°46'49.50" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°17'5.92" |Virgo|Simak|Venus|
-|☉ Sun|Direct|13°50'22.59" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|13°47'2.52" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|6°58'32.64" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|22°21'17.28" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|29°39'18.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°46'49.25" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°17'5.83" |Virgo|Simak|Venus|
+|☉ Sun|Direct|13°50'22.53" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°47'2.41" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|6°58'32.53" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°21'16.12" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°39'18.82" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°46'49.50" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°17'5.92" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|13°50'22.59" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|13°47'2.52" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|6°58'32.64" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|22°21'17.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|29°39'18.80" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°46'49.25" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°17'5.83" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|13°50'22.53" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|13°47'2.41" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|6°58'32.53" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|22°21'16.12" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

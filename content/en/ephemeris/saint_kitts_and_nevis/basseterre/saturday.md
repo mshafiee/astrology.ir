@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:20:19 |
 | Maghrib | 18:34:36 |
 | Isha (Night) | 19:17:03 |
-| Sharia Midnight | 23:36:25 |
+| Sharia Midnight | 23:36:24 |
 | Imum Coeli | 00:08:57 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°33'50.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|18°59'33.29" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°6'1.81" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|15°2'48.45" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|15°17'12.60" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|9°23'19.37" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|9°33'50.99" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|29°33'50.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|18°59'33.05" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°6'1.74" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|15°2'48.43" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|15°17'12.55" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°23'19.34" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|9°33'50.07" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°33'50.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|18°59'33.29" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°6'1.81" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|15°2'48.45" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|15°17'12.60" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|9°23'19.37" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|9°33'50.99" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|29°33'50.36" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|18°59'33.05" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°6'1.74" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|15°2'48.43" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|15°17'12.55" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|9°23'19.34" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|9°33'50.07" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
