@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:28:55 |
+| Fajr (Dawn) | 05:28:56 |
 | Sunrise | 07:14:50 |
 | Dhuhr (Noon) | 13:41:54 |
 | Medium Coeli | 13:41:54 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°20'34.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°29'18.16" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°3'12.69" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|17°55'51.51" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|18°52'51.46" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|15°6'40.49" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°43'50.99" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|29°20'34.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°29'18.40" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°3'12.76" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|17°55'51.54" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|18°52'51.51" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|15°6'40.07" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|22°41'24.65" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°20'34.33" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°29'18.48" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°3'12.54" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|17°55'52.04" |Virgo|Simak|Venus|
-|♀ Venus|Direct|18°52'52.34" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|15°6'40.49" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|22°43'50.99" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|19°29'18.40" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°3'12.76" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|17°55'51.54" |Virgo|Simak|Venus|
+|♀ Venus|Direct|18°52'51.51" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|15°6'40.07" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|22°41'24.65" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

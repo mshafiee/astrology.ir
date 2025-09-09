@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:19:20 |
 | Maghrib | 18:20:13 |
 | Isha (Night) | 19:17:08 |
-| Sharia Midnight | 23:47:11 |
+| Sharia Midnight | 23:47:12 |
 | Imum Coeli | 00:16:06 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°26'56.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°15'12.34" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°7'10.52" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|16°33'10.32" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|17°9'47.27" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|12°23'14.77" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°53'32.44" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|29°26'56.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°15'12.58" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°7'10.59" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|16°33'10.34" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|17°9'47.33" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|12°23'14.81" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°53'33.32" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°26'56.52" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°15'12.34" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°7'10.52" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|16°33'10.32" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|17°9'47.27" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|12°23'14.77" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|1°53'32.44" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|29°26'56.54" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°15'12.58" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°7'10.59" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|16°33'10.34" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|17°9'47.33" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°23'14.81" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°53'33.32" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

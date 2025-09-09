@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:06:05 |
 | Isha (Night) | 19:01:54 |
 | Sharia Midnight | 23:33:45 |
-| Imum Coeli | 00:03:57 |
+| Imum Coeli | 00:03:56 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:06:05 |
 | Isha (Night) | 19:12:16 |
 | Sharia Midnight | 23:24:26 |
-| Imum Coeli | 00:03:56 |
+| Imum Coeli | 00:03:57 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:06:05 |
 | Isha (Night) | 19:14:20 |
 | Sharia Midnight | 23:27:32 |
-| Imum Coeli | 00:03:57 |
+| Imum Coeli | 00:03:56 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}

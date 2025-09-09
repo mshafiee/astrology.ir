@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:05:13 |
-| Sunrise | 07:01:25 |
+| Sunrise | 07:01:24 |
 | Dhuhr (Noon) | 13:33:04 |
 | Medium Coeli | 13:33:04 |
 | Sunset | 20:03:45 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:53:59 |
-| Sunrise | 07:01:25 |
+| Sunrise | 07:01:24 |
 | Dhuhr (Noon) | 13:33:04 |
 | Medium Coeli | 13:33:04 |
 | Sunset | 20:03:45 |

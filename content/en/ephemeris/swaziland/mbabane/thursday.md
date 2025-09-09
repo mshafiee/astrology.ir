@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°17'3.44" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°36'57.24" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°34'0.40" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|18°41'13.82" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|19°49'27.71" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|16°35'45.38" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°21'35.15" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|29°17'3.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°36'57.00" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°34'0.33" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|18°41'13.79" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|19°49'27.65" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|16°35'45.35" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°21'35.59" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°17'3.44" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|29°17'3.42" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|19°36'57.24" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|22°34'0.40" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|18°41'13.82" |Virgo|Simak|Venus|
-|♀ Venus|Direct|19°49'28.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°35'46.25" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°16'26.17" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|19°49'27.71" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°35'45.38" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|4°21'35.15" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}

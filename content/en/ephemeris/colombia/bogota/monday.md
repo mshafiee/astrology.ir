@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:08:55|Night duration: 11:50:51|
+|Duration of the day: 12:08:55|Night duration: 11:50:52|
 |Every hour duration: 01:44:08|Every hour duration: 01:41:33|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Saturn|Servant|23:02:55|00:44:27|
 |Rooster song|Jupiter|Servant|00:44:28|02:26:00|
 |False Dawn|Mars|Servant|02:26:01|04:07:33|
-|Dawn|Sun|Servant|04:07:34|05:49:06|
+|Dawn|Sun|Servant|04:07:34|05:49:07|
 
 {{< /tab >}}
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|19°20'2.25" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|21°26'15.56" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|17°1'20.85" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|17°44'53.98" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|13°19'4.56" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|8°54'41.80" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|17°44'44.56" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|13°18'53.75" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|10°25'31.69" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Pisces|Sun|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Venus|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}

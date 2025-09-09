@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:27:05 |
+| Fajr (Dawn) | 04:27:06 |
 | Sunrise | 06:00:54 |
 | Dhuhr (Noon) | 12:18:23 |
 | Medium Coeli | 12:18:23 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°9'4.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°53'56.69" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°43'31.08" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|20°23'34.29" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|21°57'6.68" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|19°54'38.05" |Virgo|Simak|Venus|
-|☾ Moon|Direct|29°54'40.86" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|19°53'56.63" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°43'30.62" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|20°23'34.13" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|21°57'6.98" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|19°54'37.91" |Virgo|Simak|Venus|
+|☾ Moon|Direct|0°3'31.00" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Venus|Moon|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}

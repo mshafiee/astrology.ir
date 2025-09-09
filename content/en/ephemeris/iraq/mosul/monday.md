@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:25:24 |
-| Sunrise | 05:44:20 |
+| Sunrise | 05:44:19 |
 | Dhuhr (Noon) | 12:05:09 |
 | Medium Coeli | 12:05:09 |
 | Sunset | 18:25:23 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:16:22 |
-| Sunrise | 05:44:20 |
+| Sunrise | 05:44:19 |
 | Dhuhr (Noon) | 12:05:09 |
 | Medium Coeli | 12:05:09 |
 | Sunset | 18:25:23 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:14:46 |
-| Sunrise | 05:44:20 |
+| Sunrise | 05:44:19 |
 | Dhuhr (Noon) | 12:05:09 |
 | Medium Coeli | 12:05:09 |
 | Sunset | 18:25:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°30'44.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°6'38.03" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°33'32.98" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|15°43'29.70" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|16°7'53.27" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|10°44'28.10" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°31'15.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|29°30'44.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°6'37.79" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°33'32.85" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|15°43'29.62" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°7'53.19" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|10°44'27.98" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°31'20.94" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°30'44.58" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°6'38.04" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°33'32.94" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|15°43'29.68" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|16°7'53.29" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|10°44'28.09" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°31'22.54" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|29°30'44.59" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°6'38.03" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°33'32.85" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|15°43'29.62" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|16°7'53.19" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°44'27.98" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°31'20.94" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

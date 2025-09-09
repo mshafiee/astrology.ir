@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:37:31 |
 | Sunset | 18:34:18 |
 | Maghrib | 18:35:15 |
-| Isha (Night) | 19:46:48 |
+| Isha (Night) | 19:46:47 |
 | Sharia Midnight | 23:56:41 |
 | Imum Coeli | 00:37:21 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°14'27.93" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°42'31.59" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°56'38.11" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°14'33.85" |Virgo|Simak|Venus|
-|♀ Venus|Direct|20°31'2.07" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|17°40'50.61" |Virgo|Simak|Venus|
-|☾ Moon|Direct|12°43'2.27" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|29°14'27.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°42'31.36" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°56'38.03" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°14'33.82" |Virgo|Simak|Venus|
+|♀ Venus|Direct|20°31'2.01" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|17°40'50.58" |Virgo|Simak|Venus|
+|☾ Moon|Direct|12°43'2.93" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

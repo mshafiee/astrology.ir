@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 20:03:35 |
 | Maghrib | 20:40:25 |
 | Isha (Night) | 22:22:18 |
-| Sharia Midnight | 23:48:45 |
+| Sharia Midnight | 23:48:44 |
 | Imum Coeli | 01:23:34 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°11'59.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°47'47.35" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°18'9.96" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°46'15.53" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|21°10'34.29" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|18°42'28.08" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°39'60.00" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|19°47'46.71" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°18'11.04" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°46'16.19" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|21°10'33.51" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|18°42'28.55" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°16'22.50" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°11'59.71" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°47'47.35" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°18'9.96" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°46'15.53" |Virgo|Simak|Venus|
-|♀ Venus|Direct|21°10'34.29" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|18°42'28.08" |Virgo|Simak|Venus|
-|☾ Moon|Direct|20°39'60.00" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|29°11'59.69" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°47'47.11" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°18'9.89" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°46'15.49" |Virgo|Simak|Venus|
+|♀ Venus|Direct|21°10'34.24" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|18°42'28.05" |Virgo|Simak|Venus|
+|☾ Moon|Direct|20°40'0.69" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

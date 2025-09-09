@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°29'40.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°9'0.65" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°42'56.69" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|15°57'13.28" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|16°25'6.52" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|11°12'6.11" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°35'50.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°9'2.95" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°43'0.98" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|15°57'24.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°25'13.49" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|11°12'14.79" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°16'58.70" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Mars|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°29'40.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°9'2.95" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°42'59.76" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|15°57'26.33" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|16°25'16.75" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|11°12'16.23" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|29°29'40.73" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°9'2.71" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°42'59.69" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|15°57'26.30" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|16°25'16.70" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°12'16.20" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|23°11'44.11" |Pisces|Rescha|Mars|
 
 
