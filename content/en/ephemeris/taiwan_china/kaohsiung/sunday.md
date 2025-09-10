@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:03:26 |
 | Maghrib | 18:18:09 |
 | Isha (Night) | 19:01:50 |
-| Sharia Midnight | 23:20:41 |
+| Sharia Midnight | 23:20:42 |
 | Imum Coeli | 23:54:09 |
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°59'57.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°12'48.89" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°12'48.89" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°2'35.76" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|22°19'45.22" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|24°22'8.17" |Cancer|Tarf|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°59'57.49" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|20°12'48.89" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|20°12'48.89" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|25°2'35.76" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|22°19'42.24" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|24°22'7.85" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°36'50.22" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|29°3'58.32" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°19'45.22" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|24°22'8.17" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°36'52.51" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|28°31'32.17" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

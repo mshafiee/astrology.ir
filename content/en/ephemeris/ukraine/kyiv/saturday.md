@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:30:28 |
+| Fajr (Dawn) | 04:30:29 |
 | Sunrise | 06:30:21 |
 | Dhuhr (Noon) | 12:53:46 |
 | Medium Coeli | 12:53:46 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°8'2.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°56'7.82" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°52'34.54" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|20°36'53.09" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|22°13'43.95" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°20'18.95" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|3°15'39.04" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|19°56'7.78" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°52'34.41" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|20°36'53.36" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|22°13'44.30" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°20'19.15" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|3°17'57.82" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°8'2.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°56'7.82" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°52'34.54" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|20°36'53.09" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|22°13'43.95" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°20'18.95" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°15'39.04" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|29°8'2.23" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|19°56'7.59" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°52'34.46" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|20°36'53.05" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|22°13'43.90" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°20'18.92" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°15'39.46" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

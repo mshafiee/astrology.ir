@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:06:35 |
 | Sunset | 18:16:18 |
 | Maghrib | 18:18:13 |
-| Isha (Night) | 19:30:13 |
+| Isha (Night) | 19:30:14 |
 | Sharia Midnight | 23:29:33 |
 | Imum Coeli | 00:06:25 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°17'59.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°34'54.81" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°25'45.53" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|18°29'6.04" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|19°34'18.21" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|16°11'56.32" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°1'59.26" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|29°17'59.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|19°34'54.57" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°25'45.46" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|18°29'6.01" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|19°34'18.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|16°11'56.29" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°1'59.59" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°17'59.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°34'54.81" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°25'45.53" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|18°29'6.04" |Virgo|Simak|Venus|
-|♀ Venus|Direct|19°34'18.21" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°11'56.32" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|1°1'59.26" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|29°17'59.80" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|19°34'54.57" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°25'45.46" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|18°29'6.01" |Virgo|Simak|Venus|
+|♀ Venus|Direct|19°34'18.15" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°11'56.29" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°1'59.59" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

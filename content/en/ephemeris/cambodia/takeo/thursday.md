@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°13'28.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°44'37.14" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°5'11.27" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°27'10.52" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|20°46'44.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|18°5'21.16" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|15°44'8.43" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|29°13'28.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|19°44'37.19" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°5'5.79" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°27'0.26" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°46'40.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|18°5'13.68" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|17°7'39.11" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°13'28.90" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°44'37.14" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°5'11.27" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°27'10.52" |Virgo|Simak|Venus|
-|♀ Venus|Direct|20°46'44.59" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|29°13'28.93" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|19°44'37.38" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°5'11.34" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°27'10.55" |Virgo|Simak|Venus|
+|♀ Venus|Direct|20°46'44.64" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|18°5'21.19" |Virgo|Simak|Venus|
 |☾ Moon|Direct|15°44'7.73" |Taurus|Dabaran|Moon|
 

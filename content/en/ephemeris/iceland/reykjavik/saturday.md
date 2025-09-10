@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:33:54 |
+| Fajr (Dawn) | 03:33:55 |
 | Sunrise | 06:44:59 |
 | Dhuhr (Noon) | 13:23:23 |
 | Medium Coeli | 13:23:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°7'25.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|19°57'25.00" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°57'56.19" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|20°44'45.46" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|22°23'34.19" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°35'29.71" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|5°15'39.11" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|29°7'25.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|19°57'25.23" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°57'56.26" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|20°44'45.49" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|22°23'34.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°35'29.74" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|5°15'38.77" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°7'25.27" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|19°57'25.00" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°57'56.19" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|20°44'45.46" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|22°23'33.49" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°35'30.24" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°50'35.55" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|29°7'25.30" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|19°57'25.23" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°57'56.26" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|20°44'45.49" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|22°23'34.24" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°35'29.74" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|5°15'38.77" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}

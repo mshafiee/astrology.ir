@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:13:28|Night duration: 11:46:34|
+|Duration of the day: 12:13:28|Night duration: 11:46:33|
 |Every hour duration: 01:44:47|Every hour duration: 01:40:56|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mercury|Ruler|17:51:12|19:32:07|
 |Late evening|Moon|Servant|19:32:08|21:13:03|
 |Midnight|Saturn|Servant|21:13:04|22:53:59|
-|Late at night|Jupiter|Servant|22:54:00|00:34:56|
-|Rooster song|Mars|Servant|00:34:57|02:15:52|
-|False Dawn|Sun|Servant|02:15:53|03:56:48|
-|Dawn|Venus|Servant|03:56:49|05:37:45|
+|Late at night|Jupiter|Servant|22:54:00|00:34:55|
+|Rooster song|Mars|Servant|00:34:56|02:15:51|
+|False Dawn|Sun|Servant|02:15:52|03:56:47|
+|Dawn|Venus|Servant|03:56:48|05:37:44|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°1'53.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°8'50.68" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°45'47.84" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|21°55'5.62" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|23°51'20.87" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|22°50'2.53" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|22°31'42.17" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|29°1'53.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|20°8'50.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°45'47.94" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|21°55'5.69" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°51'20.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|22°49'51.53" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|22°12'35.51" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aries|Moon|Venus|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Taurus|Moon|Venus|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°1'53.92" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|20°8'50.68" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|20°8'50.68" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|24°45'47.84" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|21°55'5.62" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|23°51'12.49" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|22°49'52.08" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|22°46'52.75" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|23°51'20.87" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|22°50'2.53" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|22°31'42.17" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
