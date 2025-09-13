@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°56'8.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°20'32.60" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°35'37.21" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|23°8'11.41" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|25°22'38.37" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|25°8'21.45" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|10°6'40.52" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|28°56'8.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|20°20'32.83" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°35'37.28" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|23°8'11.44" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°22'38.43" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°8'21.48" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|10°6'41.96" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투
