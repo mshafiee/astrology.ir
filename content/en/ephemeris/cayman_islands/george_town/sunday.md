@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°57'22.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°18'3.48" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°18'3.48" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°24'56.96" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|22°52'33.09" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|25°3'5.51" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|24°38'52.68" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|6°25'30.64" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|25°2'56.68" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|24°38'46.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|5°12'46.33" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Mars|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°57'22.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|20°18'3.48" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°24'56.96" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|22°52'33.09" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|25°3'5.51" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|24°38'52.68" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|6°25'30.64" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|20°18'3.48" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°24'55.88" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|22°52'23.64" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|25°2'56.68" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|24°38'46.13" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|5°12'46.33" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Mars|Venus|Moon|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°58'58.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°14'49.06" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°14'49.06" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°11'6.81" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|22°32'14.43" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|24°37'44.72" |Cancer|Tarf|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°58'58.52" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|20°14'49.06" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|20°14'49.06" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|25°11'6.81" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|22°32'14.43" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|24°37'44.72" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|24°0'33.12" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|1°31'13.69" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|24°37'40.90" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|24°0'25.87" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°11'10.67" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Mambutzou, Mamoudzou, Mamoutzou, Mamudzu, Mamutzu, mamuju, Мамудзу, 마무주

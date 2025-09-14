@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°6'50.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|19°58'36.59" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°2'58.47" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|20°52'5.96" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|22°32'44.16" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°49'40.71" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|6°33'21.49" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|29°6'50.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|19°58'37.92" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°2'58.77" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|20°52'11.35" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|22°32'49.49" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°49'44.59" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|7°2'11.33" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°6'50.29" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|19°58'38.15" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|24°2'58.84" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|20°52'11.38" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|22°32'49.54" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°49'44.62" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|29°6'50.27" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°58'37.92" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|24°2'58.77" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|20°52'11.35" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|22°32'49.49" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°49'44.59" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|7°2'11.07" |Gemini|HanAh|Jupiter|
 
 

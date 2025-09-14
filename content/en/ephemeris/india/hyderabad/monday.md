@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°59'25.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°13'54.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°7'16.23" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|22°26'36.81" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|24°30'42.13" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|23°49'52.24" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|0°9'22.68" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|28°59'25.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°13'54.75" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°7'15.94" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|22°26'36.73" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°30'42.30" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°49'52.21" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°16'19.59" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°59'25.06" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|20°13'54.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°7'16.23" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|22°26'36.81" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|24°30'42.13" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°49'52.29" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|0°11'2.31" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|28°59'25.04" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|20°13'54.99" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°7'16.01" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|22°26'36.76" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|24°30'42.35" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°49'52.24" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|0°16'20.57" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴

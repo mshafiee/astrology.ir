@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°54'57.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°22'54.38" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°22'54.38" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°45'46.57" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|23°23'3.66" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|25°41'14.40" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|25°36'17.29" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°9'8.30" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°23'5.59" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°41'14.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°36'18.87" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°42'8.61" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°54'57.70" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|20°22'54.38" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|20°22'54.38" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|25°45'46.57" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|23°23'5.59" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|25°41'14.08" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°36'17.29" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|14°9'8.30" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°36'18.87" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|13°42'8.61" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

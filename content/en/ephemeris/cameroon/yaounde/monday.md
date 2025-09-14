@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°58'33.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°15'40.44" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°15'40.44" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°14'45.79" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|22°37'36.28" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|24°44'25.90" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|24°10'40.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°49'38.21" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|24°44'23.79" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|24°10'35.70" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°21'33.72" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Taurus|Moon|Venus|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°58'33.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|20°15'40.48" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°14'45.72" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|20°15'40.44" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°14'45.79" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|22°37'36.28" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|24°44'25.98" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|24°10'40.32" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°51'29.03" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|24°44'25.90" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|24°10'35.70" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°49'38.21" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Giaounte, Jande, Jaunde, Jaundeh, Jaundeo, Jaundė, Jaúnde, Jánde, YAO, Yaounde, Yaoundé, Yaunde, Yaundé, Yawunde, iaunde, ya wen de, ya'unde, yaunde, yavunte, yawndy, yaxunde, yaywndh, ye wen de, Γιαουντέ, Јаунде, Яунде, Яўндэ, Յաունդե, יאונדה, יאונדע, ياوندي, یاؤندے, یائونده, یائوندێ, یاونڈی, याउंदे, ਯਾਊਂਦੇ, யாவுண்டே, ยาอุนเด, ཡོན་དྷི།, იაუნდე, ያዉንዴ, ヤウンデ, 耶溫得, 雅温得, 야운데

@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:44:45 |
 | Sunset | 17:57:05 |
 | Maghrib | 17:58:07 |
-| Isha (Night) | 19:04:44 |
+| Isha (Night) | 19:04:43 |
 | Sharia Midnight | 23:10:56 |
 | Imum Coeli | 23:44:34 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|29°8'13.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|19°55'44.67" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°50'58.19" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|20°34'31.91" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|22°10'47.23" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°15'45.88" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|2°38'19.64" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|19°55'44.43" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°50'58.12" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|20°34'31.88" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|22°10'47.17" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°15'45.85" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|2°38'20.08" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|29°8'13.27" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|19°55'44.67" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°50'58.19" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|20°34'31.91" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|22°10'47.23" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°15'45.88" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|29°8'13.25" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|19°55'44.43" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°50'58.12" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|20°34'31.88" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|22°10'47.17" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°15'45.85" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|2°38'19.64" |Gemini|HaqAh|Jupiter|
 
 
