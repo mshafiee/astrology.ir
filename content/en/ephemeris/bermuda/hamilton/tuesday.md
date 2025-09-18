@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:23:36 |
 | Maghrib | 19:39:40 |
 | Isha (Night) | 20:27:31 |
-| Sharia Midnight | 00:37:03 |
+| Sharia Midnight | 00:37:02 |
 | Imum Coeli | 01:13:39 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°48'20.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|20°36'1.38" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|20°36'1.38" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|26°42'54.28" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|24°46'47.11" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|27°25'46.97" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|28°12'12.38" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°13'51.53" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|24°46'33.83" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|27°25'37.29" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|28°12'3.07" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°59'7.99" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°48'20.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|20°36'1.38" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|26°42'54.28" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|24°46'47.11" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|27°25'46.97" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|28°12'12.38" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°13'51.53" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°35'59.27" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°42'50.63" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|24°46'33.83" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|27°25'37.29" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|28°12'3.07" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|1°59'7.99" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Moon|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
