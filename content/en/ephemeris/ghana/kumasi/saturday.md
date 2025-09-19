@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:45:51 |
+| Fajr (Dawn) | 04:45:52 |
 | Sunrise | 05:56:01 |
 | Dhuhr (Noon) | 11:59:50 |
 | Medium Coeli | 11:59:50 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°35'11.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|21°1'14.31" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°36'15.00" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|27°32'28.47" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|0°52'51.82" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|3°14'17.37" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|10°10'4.68" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|28°35'11.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|21°1'14.54" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°36'15.07" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|27°32'28.49" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|0°52'51.87" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|3°14'17.42" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|10°10'4.37" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°35'11.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|21°1'14.31" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°36'15.00" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|27°32'28.47" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|28°35'11.14" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|21°1'14.54" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°36'15.07" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|27°32'28.49" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|0°52'51.87" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|3°14'17.42" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|10°10'4.37" |Virgo|Awwa|Venus|

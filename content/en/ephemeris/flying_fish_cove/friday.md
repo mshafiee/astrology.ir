@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°36'34.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°58'38.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°24'18.50" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|27°15'1.85" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|0°31'4.12" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|2°42'54.94" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°16'18.10" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|20°58'38.36" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°24'18.08" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|27°15'1.56" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|0°31'4.33" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|2°42'54.63" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|6°17'50.95" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|20°58'38.18" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|28°24'18.50" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|27°15'1.85" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|0°31'4.33" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|2°42'54.63" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|6°17'50.95" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|0°31'4.12" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|2°42'54.94" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|6°16'18.10" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

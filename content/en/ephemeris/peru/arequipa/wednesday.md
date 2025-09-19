@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:40:28 |
 | Sunset | 17:41:08 |
 | Maghrib | 17:45:24 |
-| Isha (Night) | 18:52:16 |
+| Isha (Night) | 18:52:17 |
 | Sharia Midnight | 23:00:27 |
 | Imum Coeli | 23:40:17 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°43'35.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°45'15.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°23'53.61" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|25°46'44.73" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|28°40'44.07" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|0°2'34.04" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|16°47'35.34" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|28°43'35.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|20°45'16.40" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°23'54.01" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|25°46'46.38" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|28°40'44.95" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|0°2'34.95" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|16°55'21.04" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°43'35.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|20°45'16.11" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|27°23'53.68" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|25°46'44.75" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|28°40'43.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°2'33.85" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|16°42'21.26" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|20°45'16.40" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|27°23'54.01" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|25°46'46.38" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|28°40'44.95" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°2'34.95" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|16°55'21.04" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:51:55 |
 | Dhuhr (Noon) | 11:54:22 |
 | Medium Coeli | 11:54:22 |
-| Sunset | 17:56:52 |
+| Sunset | 17:56:53 |
 | Maghrib | 18:01:02 |
 | Isha (Night) | 19:05:05 |
 | Sharia Midnight | 23:16:04 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:51:55 |
 | Dhuhr (Noon) | 11:54:22 |
 | Medium Coeli | 11:54:22 |
-| Sunset | 17:56:52 |
+| Sunset | 17:56:53 |
 | Maghrib | 18:01:02 |
 | Isha (Night) | 19:31:02 |
 | Sharia Midnight | 23:18:04 |

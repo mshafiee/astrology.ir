@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:14:55 |
+| Fajr (Dawn) | 05:14:56 |
 | Sunrise | 06:26:59 |
 | Dhuhr (Noon) | 12:30:50 |
 | Medium Coeli | 12:30:50 |
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|27°31'17.53" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|0°51'23.17" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|3°12'9.91" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|9°54'36.75" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|9°55'21.10" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
