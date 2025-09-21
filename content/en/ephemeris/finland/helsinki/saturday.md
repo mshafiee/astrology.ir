@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 19:26:12 |
 | Maghrib | 19:27:59 |
 | Isha (Night) | 20:57:59 |
-| Sharia Midnight | 23:56:08 |
+| Sharia Midnight | 23:56:09 |
 | Imum Coeli | 01:13:26 |
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°35'33.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|21°0'31.85" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|21°0'31.85" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|28°32'59.82" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|27°27'42.73" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|0°46'55.42" |Leo|Jabhah|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°35'33.90" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|21°0'31.85" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|21°0'31.85" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|28°32'59.82" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|27°27'42.73" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|0°46'55.42" |Virgo|Sarfrah|Sun|

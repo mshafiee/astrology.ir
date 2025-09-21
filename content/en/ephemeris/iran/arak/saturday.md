@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:10:23 |
 | Maghrib | 18:15:24 |
 | Isha (Night) | 19:45:24 |
-| Sharia Midnight | 23:20:39 |
+| Sharia Midnight | 23:20:40 |
 | Imum Coeli | 00:04:25 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°35'51.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|20°59'58.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°30'27.42" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|27°24'1.04" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|0°42'17.31" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|2°59'4.64" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|8°21'14.98" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|28°35'51.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°59'58.48" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°30'27.35" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|27°24'1.02" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|0°42'17.26" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|2°59'4.59" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|8°21'15.20" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°35'51.46" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|20°59'58.71" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°30'27.42" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|27°24'1.04" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|0°42'17.31" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|2°59'4.64" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|8°21'14.98" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|28°35'51.43" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|20°59'58.48" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°30'27.35" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|27°24'1.02" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|0°42'17.26" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|2°59'4.59" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|8°21'15.20" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

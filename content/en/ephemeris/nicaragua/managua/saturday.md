@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°29'25.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|21°11'56.81" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°25'54.43" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|28°44'54.74" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|2°23'26.02" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|5°23'38.21" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|25°41'24.13" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|28°29'27.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°11'56.65" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°25'48.61" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|28°44'42.63" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|2°23'20.31" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|5°23'29.02" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|24°29'21.50" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Sun|Mars|Leo|Sun|Sun|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°29'25.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|21°11'56.81" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|21°11'56.81" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|29°25'54.43" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|28°44'54.74" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|2°23'26.02" |Virgo|Sarfrah|Sun|

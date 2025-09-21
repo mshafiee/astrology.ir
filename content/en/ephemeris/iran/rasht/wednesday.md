@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:03:37 |
 | Sunset | 18:05:45 |
 | Maghrib | 18:06:51 |
-| Isha (Night) | 19:18:25 |
+| Isha (Night) | 19:18:26 |
 | Sharia Midnight | 23:27:21 |
 | Imum Coeli | 00:03:27 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°17'12.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|21°34'2.65" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°11'42.92" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|1°18'56.83" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|5°36'5.77" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|9°53'20.21" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|27°36'8.34" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|28°17'12.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°34'2.57" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°11'42.56" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|1°18'56.62" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|5°36'5.88" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|9°53'19.92" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|27°30'54.89" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°17'12.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|21°34'2.79" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|1°11'42.63" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|1°18'56.65" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|5°36'5.93" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|9°53'19.97" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|27°32'36.49" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|21°34'2.65" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|1°11'42.41" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|1°18'56.57" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|5°36'6.00" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|9°53'19.81" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|27°30'55.27" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

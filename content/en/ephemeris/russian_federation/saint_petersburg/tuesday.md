@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:51:03 |
 | Medium Coeli | 12:51:03 |
 | Sunset | 18:55:31 |
-| Maghrib | 19:26:37 |
+| Maghrib | 19:26:36 |
 | Isha (Night) | 20:45:47 |
 | Sharia Midnight | 23:39:21 |
 | Imum Coeli | 00:50:52 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°21'37.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|21°26'9.20" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|21°26'9.20" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|0°33'23.65" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|0°23'11.86" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|4°26'22.45" |Leo|Jabhah|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°21'37.66" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|21°26'9.20" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|21°26'9.20" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|0°33'23.65" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|0°23'11.86" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|4°26'22.45" |Virgo|Awwa|Sun|
