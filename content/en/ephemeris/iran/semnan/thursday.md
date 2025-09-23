@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:46:52 |
 | Dhuhr (Noon) | 11:48:04 |
 | Medium Coeli | 11:48:04 |
-| Sunset | 17:48:42 |
+| Sunset | 17:48:43 |
 | Maghrib | 18:05:46 |
 | Isha (Night) | 18:55:09 |
-| Sharia Midnight | 23:09:54 |
+| Sharia Midnight | 23:09:55 |
 | Imum Coeli | 23:47:54 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:46:52 |
 | Dhuhr (Noon) | 11:48:04 |
 | Medium Coeli | 11:48:04 |
-| Sunset | 17:48:43 |
+| Sunset | 17:48:42 |
 | Maghrib | 17:53:54 |
 | Isha (Night) | 19:10:08 |
 | Sharia Midnight | 23:04:54 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:46:52 |
 | Dhuhr (Noon) | 11:48:04 |
 | Medium Coeli | 11:48:04 |
-| Sunset | 17:48:43 |
+| Sunset | 17:48:42 |
 | Maghrib | 17:53:54 |
 | Isha (Night) | 19:00:08 |
-| Sharia Midnight | 23:12:25 |
+| Sharia Midnight | 23:12:24 |
 | Imum Coeli | 23:47:54 |
 {{< /tab >}}
 
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:01:50|Night duration: 11:58:56|
+|Duration of the day: 12:01:51|Night duration: 11:58:55|
 |Every hour of day duration: 01:00:09|Every hour of night duration: 00:59:55|
 
  
@@ -219,27 +219,27 @@ Timetable of twelve day and night planetary hours
 |1|Jupiter|Ruler|05:46:52|06:47:00|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|06:47:01|07:47:09|Destruction of enemies|
 |3|Sun|Servant|07:47:10|08:47:18|Attraction of financial and emotional love|
-|4|Venus|Servant|08:47:19|09:47:27|Creating love, connection and marriage|
-|5|Mercury|Servant|09:47:28|10:47:36|Indulgence|
-|6|Moon|Servant|10:47:37|11:47:46|Outer and inner journey|
+|4|Venus|Servant|08:47:19|09:47:28|Creating love, connection and marriage|
+|5|Mercury|Servant|09:47:29|10:47:37|Indulgence|
+|6|Moon|Servant|10:47:38|11:47:46|Outer and inner journey|
 |7|Saturn|Servant|11:47:47|12:47:55|Achieving status and power|
-|8|Jupiter|Ruler|12:47:56|13:48:04|Attraction of happiness and fortune|
-|9|Mars|Servant|13:48:05|14:48:13|Reaching status and promotion|
-|10|Sun|Servant|14:48:14|15:48:22|Fulfilling needs|
-|11|Venus|Servant|15:48:23|16:48:31|Attraction of love and hearts|
-|12|Mercury|Servant|16:48:32|17:48:41|Attracting misfortune, not suitable for any task|
+|8|Jupiter|Ruler|12:47:56|13:48:05|Attraction of happiness and fortune|
+|9|Mars|Servant|13:48:06|14:48:14|Reaching status and promotion|
+|10|Sun|Servant|14:48:15|15:48:23|Fulfilling needs|
+|11|Venus|Servant|15:48:24|16:48:32|Attraction of love and hearts|
+|12|Mercury|Servant|16:48:33|17:48:42|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|17:48:42|18:48:35|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|18:48:36|19:48:30|Destruction of enemies|
-|3|Jupiter|Servant|19:48:31|20:48:25|Attraction of financial and emotional love|
-|4|Mars|Servant|20:48:26|21:48:19|Creating love, connection and marriage|
-|5|Sun|Servant|21:48:20|22:48:14|Indulgence|
+|1|Moon|Ruler|17:48:43|18:48:36|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|18:48:37|19:48:31|Destruction of enemies|
+|3|Jupiter|Servant|19:48:32|20:48:25|Attraction of financial and emotional love|
+|4|Mars|Servant|20:48:26|21:48:20|Creating love, connection and marriage|
+|5|Sun|Servant|21:48:21|22:48:14|Indulgence|
 |6|Venus|Servant|22:48:15|23:48:09|Outer and inner journey|
-|7|Mercury|Servant|23:48:10|00:48:03|Achieving status and power|
-|8|Moon|Ruler|00:48:04|01:47:58|Attraction of happiness and fortune|
+|7|Mercury|Servant|23:48:10|00:48:04|Achieving status and power|
+|8|Moon|Ruler|00:48:05|01:47:58|Attraction of happiness and fortune|
 |9|Saturn|Servant|01:47:59|02:47:53|Reaching status and promotion|
 |10|Jupiter|Servant|02:47:54|03:47:47|Fulfilling needs|
 |11|Mars|Servant|03:47:48|04:47:42|Attraction of love and hearts|

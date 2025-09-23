@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:18:38 |
 | Sunset | 18:24:43 |
 | Maghrib | 18:26:14 |
-| Isha (Night) | 20:21:08 |
+| Isha (Night) | 20:21:09 |
 | Sharia Midnight | 23:15:59 |
 | Imum Coeli | 00:18:27 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°20'46.66" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°27'40.94" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|0°40'51.79" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|0°34'1.63" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|4°39'54.34" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|8°35'28.92" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|18°18'10.07" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|21°27'41.60" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|0°40'48.97" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|0°33'57.52" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|4°39'53.42" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|8°35'25.39" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|17°44'28.22" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

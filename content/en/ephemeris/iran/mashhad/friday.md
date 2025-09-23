@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:55:27 |
 | Sunrise | 05:22:47 |
-| Dhuhr (Noon) | 11:22:53 |
-| Medium Coeli | 11:22:53 |
+| Dhuhr (Noon) | 11:22:52 |
+| Medium Coeli | 11:22:52 |
 | Sunset | 17:22:24 |
 | Maghrib | 17:27:39 |
 | Isha (Night) | 18:44:29 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:55:27 |
 | Sunrise | 05:22:47 |
-| Dhuhr (Noon) | 11:22:53 |
-| Medium Coeli | 11:22:53 |
+| Dhuhr (Noon) | 11:22:52 |
+| Medium Coeli | 11:22:52 |
 | Sunset | 17:22:24 |
 | Maghrib | 17:27:39 |
 | Isha (Night) | 18:49:32 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°8'2.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°50'5.38" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°31'36.62" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|3°14'59.31" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|8°1'18.59" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|13°11'51.05" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°50'42.36" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|28°8'2.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°50'5.16" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|2°31'36.54" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|3°14'59.27" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|8°1'18.54" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|13°11'51.00" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°50'42.64" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°8'2.93" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°50'5.56" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°31'36.39" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|21°50'5.38" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°31'36.62" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|3°14'59.31" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|8°1'18.88" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|13°11'50.92" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|8°1'18.59" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|13°11'51.05" |Libra|Jubana|Saturn|
 |☾ Moon|Direct|20°50'42.36" |Scorpio|Qalb|Venus|
 
 

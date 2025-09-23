@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:06:11 |
-| Sunrise | 06:19:29 |
+| Sunrise | 06:19:28 |
 | Dhuhr (Noon) | 12:24:50 |
 | Medium Coeli | 12:24:50 |
 | Sunset | 18:29:35 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°22'52.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°23'54.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°22'36.97" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|0°7'31.36" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|28°22'52.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°23'54.73" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°22'36.91" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|0°7'31.29" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|4°6'45.12" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|7°49'10.51" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|12°56'6.49" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|7°49'10.45" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|12°55'32.24" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

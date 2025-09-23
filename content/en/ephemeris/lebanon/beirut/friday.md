@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:28:41 |
 | Dhuhr (Noon) | 12:29:16 |
 | Medium Coeli | 12:29:16 |
-| Sunset | 18:29:20 |
+| Sunset | 18:29:19 |
 | Maghrib | 18:30:24 |
 | Isha (Night) | 19:51:02 |
-| Sharia Midnight | 23:43:33 |
+| Sharia Midnight | 23:43:32 |
 | Imum Coeli | 00:29:06 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:28:41 |
 | Dhuhr (Noon) | 12:29:16 |
 | Medium Coeli | 12:29:16 |
-| Sunset | 18:29:20 |
+| Sunset | 18:29:19 |
 | Maghrib | 18:30:24 |
 | Isha (Night) | 20:00:24 |
 | Sharia Midnight | 23:46:00 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°7'44.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°50'37.34" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°34'18.67" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|3°18'54.47" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|8°6'12.86" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|13°18'29.18" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|21°37'47.48" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|21°50'37.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|2°34'17.12" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|3°18'51.02" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|8°6'10.97" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|13°18'26.58" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|21°20'6.54" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Libra|Moon|Venus|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Venus|
-|☾ Moon|Mars|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°7'44.42" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°50'37.34" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°34'18.67" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|3°18'54.47" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|8°6'12.86" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|13°18'29.18" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|21°37'47.48" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|28°7'44.39" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|21°50'37.12" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°34'18.60" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|3°18'54.43" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|8°6'12.81" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|13°18'29.12" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|21°37'47.76" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

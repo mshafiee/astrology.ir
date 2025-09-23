@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:15:21 |
 | Isha (Night) | 19:02:43 |
 | Sharia Midnight | 23:20:30 |
-| Imum Coeli | 23:56:45 |
+| Imum Coeli | 23:56:46 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:17:42 |
 | Isha (Night) | 19:02:43 |
 | Sharia Midnight | 23:16:26 |
-| Imum Coeli | 23:56:45 |
+| Imum Coeli | 23:56:46 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:00:24 |
 | Isha (Night) | 19:17:03 |
 | Sharia Midnight | 23:15:42 |
-| Imum Coeli | 23:56:45 |
+| Imum Coeli | 23:56:46 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:00:24 |
 | Isha (Night) | 19:07:29 |
 | Sharia Midnight | 23:22:54 |
-| Imum Coeli | 23:56:45 |
+| Imum Coeli | 23:56:46 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:00:24 |
 | Isha (Night) | 19:19:27 |
 | Sharia Midnight | 23:12:05 |
-| Imum Coeli | 23:56:45 |
+| Imum Coeli | 23:56:46 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:00:24 |
 | Isha (Night) | 19:21:51 |
 | Sharia Midnight | 23:15:42 |
-| Imum Coeli | 23:56:45 |
+| Imum Coeli | 23:56:46 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:00:24 |
 | Isha (Night) | 19:30:24 |
 | Sharia Midnight | 23:14:30 |
-| Imum Coeli | 23:56:45 |
+| Imum Coeli | 23:56:46 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°13'27.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°40'40.48" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°44'23.94" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|2°6'27.09" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|6°35'32.33" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|11°15'4.57" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|7°8'43.17" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|28°13'27.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°40'40.70" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°44'24.02" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|2°6'27.12" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|6°35'32.38" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|11°15'4.62" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|7°8'42.77" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

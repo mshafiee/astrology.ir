@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:38:54 |
 | Isha (Night) | 18:25:02 |
 | Sharia Midnight | 22:43:30 |
-| Imum Coeli | 23:19:03 |
+| Imum Coeli | 23:19:04 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:41:11 |
 | Isha (Night) | 18:25:02 |
 | Sharia Midnight | 22:39:32 |
-| Imum Coeli | 23:19:04 |
+| Imum Coeli | 23:19:03 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:27:41 |
 | Isha (Night) | 18:38:59 |
 | Sharia Midnight | 22:38:50 |
-| Imum Coeli | 23:19:04 |
+| Imum Coeli | 23:19:03 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:27:41 |
 | Isha (Night) | 18:41:19 |
 | Sharia Midnight | 22:35:19 |
-| Imum Coeli | 23:19:04 |
+| Imum Coeli | 23:19:03 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:27:41 |
 | Isha (Night) | 18:43:40 |
 | Sharia Midnight | 22:38:50 |
-| Imum Coeli | 23:19:04 |
+| Imum Coeli | 23:19:03 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°26'40.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°16'59.98" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°49'42.75" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|29°19'36.47" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°6'49.24" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|6°25'0.79" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°0'4.12" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|28°26'40.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°17'0.21" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°49'42.13" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|29°19'35.92" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°6'49.44" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|6°25'0.22" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°56'17.59" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

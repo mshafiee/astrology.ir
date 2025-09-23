@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:59:19|Night duration: 12:01:32|
+|Duration of the day: 11:59:19|Night duration: 12:01:33|
 |Every hour of day duration: 00:59:57|Every hour of night duration: 01:00:08|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Mars|Ruler|17:31:20|18:31:26|Love, creating love and attracting hearts|
 |2|Sun|Servant|18:31:27|19:31:34|Attracting auspiciousness|
 |3|Venus|Servant|19:31:35|20:31:42|Attracting misfortune, no task is suitable|
-|4|Mercury|Servant|20:31:43|21:31:49|Unfortunate hour|
-|5|Moon|Servant|21:31:50|22:31:57|Achieving position and status and attracting job fortune|
+|4|Mercury|Servant|20:31:43|21:31:50|Unfortunate hour|
+|5|Moon|Servant|21:31:51|22:31:57|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|22:31:58|23:32:05|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|23:32:06|00:32:12|Promotion and attracting wealth|
-|8|Mars|Ruler|00:32:13|01:32:20|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|01:32:21|02:32:28|Causing separation and homelessness|
-|10|Venus|Servant|02:32:29|03:32:35|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Mercury|Servant|03:32:36|04:32:43|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Moon|Servant|04:32:44|05:32:51|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Jupiter|Servant|23:32:06|00:32:13|Promotion and attracting wealth|
+|8|Mars|Ruler|00:32:14|01:32:21|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|01:32:22|02:32:28|Causing separation and homelessness|
+|10|Venus|Servant|02:32:29|03:32:36|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Mercury|Servant|03:32:37|04:32:44|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Moon|Servant|04:32:45|05:32:52|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
