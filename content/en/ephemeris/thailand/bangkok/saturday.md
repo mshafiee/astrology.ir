@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°59'20.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°4'55.60" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°48'9.11" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°5'56.17" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|10°20'11.37" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°18'2.96" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|12°56'0.87" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|27°59'20.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°4'56.63" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°48'5.29" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°5'50.19" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|10°20'9.78" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°17'57.61" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|11°58'33.93" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Venus|Venus|Pisces|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°59'20.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°4'55.60" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°48'9.11" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°5'56.17" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|10°20'11.37" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|16°18'2.96" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|12°56'0.87" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|27°59'20.77" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°4'55.81" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°48'9.18" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|5°5'56.21" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|10°20'11.42" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°18'3.02" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|12°56'1.05" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

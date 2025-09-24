@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:25:32 |
 | Isha (Night) | 19:55:32 |
 | Sharia Midnight | 23:44:11 |
-| Imum Coeli | 00:20:26 |
+| Imum Coeli | 00:20:25 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'9.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°6'55.22" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°58'38.68" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|27°58'9.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°6'55.43" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°58'38.75" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|5°20'50.45" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|10°39'1.93" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|16°43'4.73" |Virgo|Awwa|Venus|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|5°21'7.69" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|10°39'12.68" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|16°43'16.87" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|15°57'46.14" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|15°21'16.40" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

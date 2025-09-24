@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:45:47 |
+| Fajr (Dawn) | 04:45:46 |
 | Sunrise | 05:54:11 |
 | Dhuhr (Noon) | 11:52:56 |
 | Medium Coeli | 11:52:56 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'37.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°6'8.74" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°54'33.93" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°15'13.35" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|10°31'48.92" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°33'28.73" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|14°47'15.23" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|27°58'37.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°6'8.95" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°54'34.00" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°15'10.39" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|10°31'48.21" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°33'26.05" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|14°17'10.01" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'37.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°6'8.74" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°54'33.93" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°15'13.35" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|10°31'48.92" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|16°33'28.73" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|14°47'15.23" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|27°58'37.25" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°6'9.36" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°54'32.03" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|5°15'10.39" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|10°31'48.21" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°33'26.05" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|14°17'10.01" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

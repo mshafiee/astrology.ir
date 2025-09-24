@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:10:54 |
 | Sunrise | 06:21:05 |
-| Dhuhr (Noon) | 12:22:33 |
-| Medium Coeli | 12:22:33 |
+| Dhuhr (Noon) | 12:22:34 |
+| Medium Coeli | 12:22:34 |
 | Sunset | 18:23:52 |
 | Maghrib | 18:39:54 |
 | Isha (Night) | 19:18:50 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:07:38 |
 | Sunrise | 06:21:05 |
-| Dhuhr (Noon) | 12:22:34 |
-| Medium Coeli | 12:22:34 |
+| Dhuhr (Noon) | 12:22:33 |
+| Medium Coeli | 12:22:33 |
 | Sunset | 18:23:52 |
 | Maghrib | 18:26:29 |
 | Isha (Night) | 19:56:29 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°57'57.62" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°7'15.49" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°0'24.66" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°23'41.06" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|10°42'24.63" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|16°47'31.09" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|16°28'38.13" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|22°7'14.74" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°0'25.05" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|5°23'40.61" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|10°42'23.59" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°47'31.16" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|16°42'50.57" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Saturn|Jupiter|Aries|Moon|Moon|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}

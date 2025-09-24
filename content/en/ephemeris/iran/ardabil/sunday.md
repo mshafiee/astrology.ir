@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:04:08 |
 | Maghrib | 18:09:29 |
 | Isha (Night) | 19:39:29 |
-| Sharia Midnight | 23:21:28 |
+| Sharia Midnight | 23:21:27 |
 | Imum Coeli | 00:07:16 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'39.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°6'4.19" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°54'10.06" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°14'38.69" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|10°31'5.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°32'31.36" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|14°40'3.83" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|27°58'39.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°6'4.40" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°54'10.14" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°14'38.73" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|10°31'5.69" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°32'31.42" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|14°40'4.02" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'39.93" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°6'4.19" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°54'10.06" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°14'38.69" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|10°31'5.63" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|16°32'31.36" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|14°40'3.83" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|27°58'39.96" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°6'4.40" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°54'10.14" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|5°14'38.73" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|10°31'5.69" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°32'31.42" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|14°40'4.02" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

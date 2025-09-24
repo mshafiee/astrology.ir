@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:41:08 |
 | Sunrise | 06:43:34 |
-| Dhuhr (Noon) | 12:46:38 |
-| Medium Coeli | 12:46:38 |
+| Dhuhr (Noon) | 12:46:37 |
+| Medium Coeli | 12:46:37 |
 | Sunset | 18:49:33 |
 | Maghrib | 19:03:18 |
 | Isha (Night) | 19:43:51 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°16'23.63" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°35'29.66" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°18'48.22" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|1°29'15.39" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|5°49'0.08" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|10°11'8.02" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|29°37'56.74" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|28°16'23.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°35'29.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°18'48.15" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|1°29'15.36" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|5°49'0.03" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|10°11'7.96" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|29°37'57.13" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

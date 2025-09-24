@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:20:39 |
 | Maghrib | 18:21:36 |
 | Isha (Night) | 19:21:40 |
-| Sharia Midnight | 23:47:08 |
+| Sharia Midnight | 23:47:07 |
 | Imum Coeli | 00:17:31 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°15'31.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°37'2.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°26'25.09" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|1°40'19.52" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|6°2'50.88" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|10°30'12.11" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|1°53'22.88" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|28°15'31.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°37'2.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°26'25.02" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|1°40'19.49" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|6°2'50.84" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|10°30'12.05" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°53'23.27" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°15'31.09" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°37'1.02" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|1°26'25.57" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|1°40'16.17" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°2'46.72" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|10°30'10.61" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|1°56'41.35" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|28°15'31.06" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|21°37'2.33" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|1°26'25.02" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|1°40'19.49" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°2'50.84" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|10°30'12.05" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|1°53'23.27" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

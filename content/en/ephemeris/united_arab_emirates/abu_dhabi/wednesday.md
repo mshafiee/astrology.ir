@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:14:24 |
 | Sunset | 18:16:51 |
 | Maghrib | 18:17:50 |
-| Isha (Night) | 19:29:00 |
+| Isha (Night) | 19:28:59 |
 | Sharia Midnight | 23:36:05 |
 | Imum Coeli | 00:14:13 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°17'16.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°33'56.19" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°11'10.17" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|1°18'9.60" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|5°35'6.92" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|9°51'58.42" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|27°24'24.80" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|28°17'16.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|21°33'55.97" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°11'10.10" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|1°18'9.57" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|5°35'6.87" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|9°51'58.36" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|27°24'25.18" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°17'16.31" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°33'56.19" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|1°11'10.17" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|1°18'9.60" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|5°35'6.92" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|9°51'58.42" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|27°24'24.80" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|28°17'16.28" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|21°33'55.97" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|1°11'10.10" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|1°18'9.57" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|5°35'6.87" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|9°51'58.36" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|27°24'25.18" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

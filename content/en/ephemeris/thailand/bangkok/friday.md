@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Sun|Servant|02:08:31|03:08:08|Causing separation and homelessness|
 |10|Venus|Servant|03:08:09|04:07:46|Extremely unfortunate|
 |11|Mercury|Servant|04:07:47|05:07:24|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:07:25|06:07:03|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Moon|Servant|05:07:25|06:07:03|Suitable for asking for a need|
 
  
  
