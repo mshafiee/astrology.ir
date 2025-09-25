@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:12:07 |
 | Maghrib | 18:29:17 |
 | Isha (Night) | 19:11:17 |
-| Sharia Midnight | 23:32:34 |
+| Sharia Midnight | 23:32:35 |
 | Imum Coeli | 00:10:14 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°12'38.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°42'6.77" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°51'31.90" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|2°16'48.67" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|6°48'30.09" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|11°32'48.75" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|9°13'56.96" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|28°12'38.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|21°42'6.55" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°51'31.82" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|2°16'48.64" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|6°48'30.04" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|11°32'48.70" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|9°13'57.36" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|28°12'38.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°42'6.77" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|1°51'31.90" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°16'48.67" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|6°48'30.09" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|11°32'48.75" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|28°12'38.08" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|21°42'6.55" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|1°51'31.82" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°16'48.64" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|6°48'30.04" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|11°32'48.70" |Libra|Ghafr|Saturn|
 |☾ Moon|Direct|9°13'56.96" |Scorpio|Qalb|Mars|
 
 

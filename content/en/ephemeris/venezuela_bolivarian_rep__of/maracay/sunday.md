@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:20:52 |
 | Sunset | 18:22:28 |
 | Maghrib | 18:25:28 |
-| Isha (Night) | 19:29:12 |
+| Isha (Night) | 19:29:13 |
 | Sharia Midnight | 23:45:21 |
 | Imum Coeli | 00:20:42 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°52'37.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°16'8.29" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°47'51.58" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|6°32'19.93" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|12°8'22.14" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|18°40'41.62" |Virgo|Simak|Venus|
-|☾ Moon|Direct|0°16'47.61" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|27°52'37.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°16'8.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°47'51.66" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|6°32'19.98" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|12°8'22.12" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|18°40'41.63" |Virgo|Simak|Venus|
+|☾ Moon|Direct|0°17'10.70" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°52'37.08" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°16'8.51" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°47'51.64" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|6°32'19.97" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|12°8'22.14" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°40'41.62" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|0°16'47.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|22°16'8.50" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°47'51.66" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|6°32'19.98" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|12°8'22.12" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°40'41.63" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|0°17'10.70" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

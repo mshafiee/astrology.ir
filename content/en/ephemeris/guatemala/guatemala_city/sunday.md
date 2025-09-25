@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Jupiter|Ruler|00:52:21|01:52:14|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|01:52:15|02:52:08|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|02:52:09|03:52:02|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Venus|Servant|03:52:03|04:51:56|Performing promises|
+|11|Venus|Servant|03:52:03|04:51:56|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|04:51:57|05:51:50|Finding the fugitive and discovering the thief|
 
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°52'19.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°16'37.65" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°50'29.28" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|6°36'7.94" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|12°13'7.50" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|18°46'55.10" |Virgo|Simak|Venus|
-|☾ Moon|Direct|1°3'32.12" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|22°16'37.65" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°50'28.55" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|6°36'2.38" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|12°13'2.53" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|18°46'52.11" |Virgo|Simak|Venus|
+|☾ Moon|Direct|1°34'22.31" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°52'19.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°16'37.65" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°16'37.65" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|4°50'29.28" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|6°36'7.94" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|12°13'7.50" |Virgo|Awwa|Venus|

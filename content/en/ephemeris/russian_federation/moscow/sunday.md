@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:12:46 |
 | Maghrib | 18:40:26 |
 | Isha (Night) | 19:49:05 |
-| Sharia Midnight | 23:18:14 |
+| Sharia Midnight | 23:18:13 |
 | Imum Coeli | 00:19:58 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'31.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°6'19.16" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°55'28.15" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°16'31.15" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|10°33'27.10" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°35'39.08" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|15°0'23.30" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|27°58'31.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°6'18.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°55'28.08" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°16'31.11" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|10°33'27.04" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°35'39.03" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|15°0'23.10" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'31.23" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°6'19.16" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°55'28.15" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°16'31.15" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|10°33'27.10" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|16°35'39.08" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|15°0'23.30" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|27°58'31.20" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|22°6'18.94" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°55'28.08" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|5°16'31.11" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|10°33'27.04" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°35'39.88" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|15°21'30.77" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

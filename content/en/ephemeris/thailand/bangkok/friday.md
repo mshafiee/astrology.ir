@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Sun|Servant|02:08:31|03:08:08|Causing separation and homelessness|
 |10|Venus|Servant|03:08:09|04:07:46|Extremely unfortunate|
 |11|Mercury|Servant|04:07:47|05:07:24|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|05:07:25|06:07:03|Suitable for asking for a need|
+|12|Moon|Servant|05:07:25|06:07:03|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°3'57.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°57'7.01" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°7'31.01" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|4°7'3.74" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|9°6'29.27" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|14°39'40.39" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|1°12'45.94" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|21°57'7.81" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°7'27.11" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|4°6'57.72" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|9°6'27.66" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|14°39'35.05" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|0°13'48.75" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°3'57.38" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°57'7.01" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|21°57'7.01" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°7'31.01" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|4°7'3.74" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|9°6'29.27" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|14°39'40.39" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|1°12'45.94" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|9°6'27.66" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|14°39'35.05" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|0°13'48.75" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

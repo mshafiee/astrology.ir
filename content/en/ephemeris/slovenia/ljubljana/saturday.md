@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:31:24 |
-| Sunrise | 06:55:14 |
+| Sunrise | 06:55:15 |
 | Dhuhr (Noon) | 12:52:54 |
 | Medium Coeli | 12:52:54 |
 | Sunset | 18:49:45 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°2'50.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°59'0.99" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|21°59'0.99" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°17'20.02" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|4°21'17.13" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|9°24'17.84" |Leo|Zubrah|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°2'50.47" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°59'0.93" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°17'20.04" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°21'17.00" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|9°24'17.69" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|15°3'32.17" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|4°1'51.92" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|21°59'0.99" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°17'20.02" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°21'17.13" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|9°24'17.84" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|15°3'32.22" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|4°0'55.30" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

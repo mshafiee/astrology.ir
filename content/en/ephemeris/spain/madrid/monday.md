@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 20:04:48 |
 | Isha (Night) | 21:16:05 |
 | Sharia Midnight | 01:27:07 |
-| Imum Coeli | 02:04:53 |
+| Imum Coeli | 02:04:52 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 20:04:48 |
 | Isha (Night) | 21:29:26 |
 | Sharia Midnight | 01:15:03 |
-| Imum Coeli | 02:04:53 |
+| Imum Coeli | 02:04:52 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 20:04:48 |
 | Isha (Night) | 21:34:48 |
 | Sharia Midnight | 01:17:45 |
-| Imum Coeli | 02:04:52 |
+| Imum Coeli | 02:04:53 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°53'24.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°14'49.50" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°40'47.76" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|6°22'6.71" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|11°55'34.09" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|18°23'55.78" |Virgo|Simak|Venus|
-|☾ Moon|Direct|28°16'56.98" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|22°14'49.84" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°40'47.71" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|6°22'6.81" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|11°55'34.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|18°23'55.76" |Virgo|Simak|Venus|
+|☾ Moon|Direct|28°12'57.39" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°53'24.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°14'49.62" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°40'47.64" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|6°22'6.77" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°55'34.31" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°23'55.71" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|28°12'57.37" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|27°53'24.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|22°14'49.84" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°40'47.71" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|6°22'6.81" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°55'34.36" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°23'55.76" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|28°12'57.39" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

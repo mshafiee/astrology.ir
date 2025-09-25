@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:09:45 |
 | Medium Coeli | 12:09:45 |
 | Sunset | 18:25:35 |
-| Maghrib | 18:26:57 |
-| Isha (Night) | 19:56:57 |
+| Maghrib | 18:26:56 |
+| Isha (Night) | 19:56:56 |
 | Sharia Midnight | 23:11:45 |
 | Imum Coeli | 00:09:35 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°59'0.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°5'30.14" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°51'6.01" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°10'7.31" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|10°25'35.39" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°25'12.48" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|12°53'11.03" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|22°5'30.14" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°51'9.58" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°10'14.60" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|10°25'38.75" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°25'18.27" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|13°35'11.68" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°59'0.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°5'30.14" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°5'30.14" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°51'9.58" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|5°10'14.60" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|10°25'38.75" |Virgo|Awwa|Venus|

@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:11:24 |
 | Medium Coeli | 12:11:24 |
 | Sunset | 18:09:29 |
-| Maghrib | 18:27:16 |
+| Maghrib | 18:27:17 |
 | Isha (Night) | 19:10:35 |
 | Sharia Midnight | 23:32:23 |
 | Imum Coeli | 00:11:14 |
@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Venus|Servant|11:11:28|12:11:10|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Mercury|Servant|12:11:11|13:10:53|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Moon|Ruler|13:10:54|14:10:36|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Saturn|Servant|14:10:37|15:10:19|Attracting and repelling enemies and causing separation|
+|9|Saturn|Servant|14:10:37|15:10:19|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|15:10:20|16:10:02|Good for any task|
 |11|Mars|Servant|16:10:03|17:09:45|Creating enmity and negative energy|
 |12|Sun|Servant|17:09:46|18:09:28|Heart tenderness|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°54'26.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°13'6.73" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|22°13'5.85" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°31'33.87" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|6°8'43.62" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|11°38'48.45" |Leo|Zubrah|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°54'26.95" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°13'6.73" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°31'33.87" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|6°8'43.62" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°38'48.45" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°1'57.61" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|25°56'34.47" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|22°13'6.73" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°31'33.60" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|6°8'45.57" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°38'50.85" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°1'58.28" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|25°31'27.31" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:44 |
-| Sunrise | 06:04:16 |
+| Sunrise | 06:04:17 |
 | Dhuhr (Noon) | 12:02:15 |
 | Medium Coeli | 12:02:15 |
 | Sunset | 17:59:39 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'41.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°6'2.30" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°54'0.12" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°14'24.33" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|10°30'47.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°32'7.48" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|14°37'10.54" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|27°58'41.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°6'2.38" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°54'0.51" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°14'24.59" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|10°30'47.58" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°32'7.88" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|14°43'22.45" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°58'41.05" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°6'2.30" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°54'0.12" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°14'24.33" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|10°30'47.63" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|16°32'7.48" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|14°37'10.54" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|27°58'41.08" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|22°6'2.53" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°54'0.23" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|5°14'24.41" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|10°30'47.74" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°32'7.60" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|14°37'11.39" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

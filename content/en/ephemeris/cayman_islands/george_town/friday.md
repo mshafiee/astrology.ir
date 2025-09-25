@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |9|Mercury|Servant|14:17:01|15:17:14|Causing separation and homelessness|
 |10|Moon|Servant|15:17:15|16:17:29|Extremely unfortunate|
 |11|Saturn|Servant|16:17:30|17:17:44|Creating an unfortunate horoscope for anyone|
-|12|Jupiter|Servant|17:17:45|18:17:59|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Jupiter|Servant|17:17:45|18:17:59|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°1'37.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°1'5.09" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|22°1'5.09" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°28'3.51" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|4°36'49.91" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|9°43'45.14" |Leo|Zubrah|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°1'37.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°1'5.09" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°1'5.09" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°28'3.51" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|4°36'49.91" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|9°43'45.14" |Virgo|Awwa|Sun|

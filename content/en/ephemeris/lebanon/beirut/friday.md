@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:28:41 |
 | Dhuhr (Noon) | 12:29:16 |
 | Medium Coeli | 12:29:16 |
-| Sunset | 18:29:20 |
+| Sunset | 18:29:19 |
 | Maghrib | 18:45:39 |
 | Isha (Night) | 19:33:58 |
 | Sharia Midnight | 23:52:07 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:28:41 |
 | Dhuhr (Noon) | 12:29:16 |
 | Medium Coeli | 12:29:16 |
-| Sunset | 18:29:20 |
+| Sunset | 18:29:19 |
 | Maghrib | 18:30:24 |
 | Isha (Night) | 19:38:50 |
-| Sharia Midnight | 23:54:34 |
+| Sharia Midnight | 23:54:33 |
 | Imum Coeli | 00:29:06 |
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°7'44.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|21°50'37.12" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|21°50'37.12" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|2°34'18.60" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|3°18'54.43" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|8°6'12.81" |Leo|Jabhah|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°7'44.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|21°50'37.12" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°34'18.60" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|3°18'54.43" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|8°6'12.81" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|13°18'29.12" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|21°37'47.76" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|21°50'37.29" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°34'17.20" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|3°18'51.02" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|8°6'10.97" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|13°18'26.58" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|21°20'6.54" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Scorpio|Sun|Venus|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
