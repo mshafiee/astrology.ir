@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:54:58 |
 | Medium Coeli | 12:54:58 |
 | Sunset | 18:58:05 |
-| Maghrib | 19:11:40 |
+| Maghrib | 19:11:39 |
 | Isha (Night) | 19:51:43 |
 | Sharia Midnight | 00:23:59 |
 | Imum Coeli | 00:54:48 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°45'40.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°27'27.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°49'58.92" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|8°2'5.05" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|14°0'46.61" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°6'45.91" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|18°45'6.42" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Retrograde|27°45'40.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°27'28.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°49'57.52" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|8°2'3.80" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|14°0'46.98" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|21°6'44.26" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|18°19'7.84" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°45'40.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°27'28.48" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|5°49'57.59" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|8°2'3.84" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°0'47.03" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|21°6'44.30" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|18°19'7.27" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|22°27'27.59" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|5°49'58.92" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|8°2'5.05" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°0'46.61" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|21°6'45.91" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|18°45'6.42" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

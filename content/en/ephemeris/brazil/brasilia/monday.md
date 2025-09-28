@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:51:14 |
 | Sunrise | 05:55:47 |
-| Dhuhr (Noon) | 12:01:54 |
-| Medium Coeli | 12:01:54 |
+| Dhuhr (Noon) | 12:01:55 |
+| Medium Coeli | 12:01:55 |
 | Sunset | 18:08:15 |
 | Maghrib | 18:22:43 |
 | Isha (Night) | 19:04:29 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:55:25 |
 | Sunrise | 05:55:47 |
-| Dhuhr (Noon) | 12:01:54 |
-| Medium Coeli | 12:01:54 |
+| Dhuhr (Noon) | 12:01:55 |
+| Medium Coeli | 12:01:55 |
 | Sunset | 18:08:15 |
 | Maghrib | 18:12:39 |
 | Isha (Night) | 19:08:41 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:42:51 |
 | Sunrise | 05:55:47 |
-| Dhuhr (Noon) | 12:01:54 |
-| Medium Coeli | 12:01:54 |
+| Dhuhr (Noon) | 12:01:55 |
+| Medium Coeli | 12:01:55 |
 | Sunset | 18:08:15 |
 | Maghrib | 18:12:39 |
 | Isha (Night) | 19:21:16 |
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°48'19.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°23'10.85" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|27°48'19.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°23'10.85" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°26'15.29" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|7°27'48.46" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|13°17'51.63" |Leo|Zubrah|Jupiter|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°48'19.51" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°23'10.85" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°23'10.85" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°26'15.29" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|7°27'48.46" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|13°17'51.63" |Virgo|Awwa|Venus|

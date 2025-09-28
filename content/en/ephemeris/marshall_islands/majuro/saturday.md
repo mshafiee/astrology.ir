@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°0'15.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°3'23.87" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°40'7.30" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|4°54'18.24" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|10°5'37.76" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|15°58'41.53" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|10°36'19.76" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|22°3'23.12" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°40'2.27" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|4°54'5.70" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|10°5'30.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|15°58'32.32" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|9°48'42.39" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Venus|Mercury|Jupiter|Sun|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Venus|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Libra|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Venus|Venus|Pisces|Moon|Mars|
+|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|28°0'15.34" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°3'23.87" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°3'23.87" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°40'7.30" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|4°54'18.24" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|10°5'37.76" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|15°58'41.53" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|10°36'19.60" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|10°36'19.76" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

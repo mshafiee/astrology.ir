@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:34:48 |
+| Fajr (Dawn) | 04:34:49 |
 | Sunrise | 05:55:14 |
 | Dhuhr (Noon) | 11:56:28 |
 | Medium Coeli | 11:56:28 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°59'17.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°5'1.73" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|22°5'1.73" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°48'40.29" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|5°6'41.30" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|10°21'7.80" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°19'17.89" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|13°5'10.60" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|16°19'16.67" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|12°44'10.00" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Venus|Venus|Aries|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°59'17.24" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°5'1.73" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°5'1.73" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°48'40.29" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|5°6'41.30" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|10°21'7.80" |Virgo|Awwa|Venus|

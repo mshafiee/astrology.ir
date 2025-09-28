@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:17:23 |
 | Dhuhr (Noon) | 12:17:40 |
 | Medium Coeli | 12:17:40 |
-| Sunset | 18:17:37 |
+| Sunset | 18:17:38 |
 | Maghrib | 18:34:32 |
 | Isha (Night) | 19:15:51 |
-| Sharia Midnight | 23:40:27 |
+| Sharia Midnight | 23:40:28 |
 | Imum Coeli | 00:17:30 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:17:23 |
 | Dhuhr (Noon) | 12:17:40 |
 | Medium Coeli | 12:17:40 |
-| Sunset | 18:17:37 |
+| Sunset | 18:17:38 |
 | Maghrib | 18:18:35 |
 | Isha (Night) | 19:28:55 |
 | Sharia Midnight | 23:39:48 |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:17:23 |
 | Dhuhr (Noon) | 12:17:40 |
 | Medium Coeli | 12:17:40 |
-| Sunset | 18:17:37 |
+| Sunset | 18:17:38 |
 | Maghrib | 18:18:35 |
 | Isha (Night) | 19:20:12 |
 | Sharia Midnight | 23:46:21 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:17:23 |
 | Dhuhr (Noon) | 12:17:40 |
 | Medium Coeli | 12:17:40 |
-| Sunset | 18:17:37 |
+| Sunset | 18:17:38 |
 | Maghrib | 18:18:35 |
 | Isha (Night) | 19:33:17 |
 | Sharia Midnight | 23:39:48 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:17:23 |
 | Dhuhr (Noon) | 12:17:40 |
 | Medium Coeli | 12:17:40 |
-| Sunset | 18:17:37 |
+| Sunset | 18:17:38 |
 | Maghrib | 18:18:35 |
 | Isha (Night) | 19:48:35 |
-| Sharia Midnight | 23:38:42 |
+| Sharia Midnight | 23:38:43 |
 | Imum Coeli | 00:17:30 |
 {{< /tab >}}
 
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:00:14|Night duration: 12:00:06|
-|Every hour duration: 01:42:53|Every hour duration: 01:42:52|
+|Duration of the day: 12:00:15|Night duration: 12:00:05|
+|Every hour duration: 01:42:54|Every hour duration: 01:42:52|
 
  
  
@@ -265,20 +265,20 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Sun|Ruler|06:17:23|08:00:15|
-|Mid-morning|Venus|Servant|08:00:16|09:43:08|
-|Late morning|Mercury|Servant|09:43:09|11:26:02|
-|Noon|Moon|Servant|11:26:03|13:08:55|
-|Early afternoon|Saturn|Servant|13:08:56|14:51:49|
-|Mid-afternoon|Jupiter|Servant|14:51:50|16:34:42|
-|Late afternoon|Mars|Servant|16:34:43|18:17:36|
+|Mid-morning|Venus|Servant|08:00:16|09:43:09|
+|Late morning|Mercury|Servant|09:43:10|11:26:02|
+|Noon|Moon|Servant|11:26:03|13:08:56|
+|Early afternoon|Saturn|Servant|13:08:57|14:51:49|
+|Mid-afternoon|Jupiter|Servant|14:51:50|16:34:43|
+|Late afternoon|Mars|Servant|16:34:44|18:17:37|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Jupiter|Ruler|18:17:37|20:00:28|
-|Late evening|Mars|Servant|20:00:29|21:43:20|
-|Midnight|Sun|Servant|21:43:21|23:26:12|
-|Late at night|Venus|Servant|23:26:13|01:09:05|
+|Evening|Jupiter|Ruler|18:17:38|20:00:29|
+|Late evening|Mars|Servant|20:00:30|21:43:21|
+|Midnight|Sun|Servant|21:43:22|23:26:13|
+|Late at night|Venus|Servant|23:26:14|01:09:05|
 |Rooster song|Mercury|Servant|01:09:06|02:51:57|
 |False Dawn|Moon|Servant|02:51:58|04:34:49|
 |Dawn|Saturn|Servant|04:34:50|06:17:42|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°54'54.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°12'20.74" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|22°12'20.74" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°27'27.23" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|6°2'49.20" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|11°31'24.59" |Leo|Zubrah|Jupiter|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°54'54.66" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°12'20.74" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°12'20.74" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|4°27'27.23" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|6°2'49.20" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°31'24.59" |Virgo|Awwa|Venus|
