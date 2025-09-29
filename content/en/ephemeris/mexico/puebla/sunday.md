@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:09:08 |
+| Fajr (Dawn) | 05:09:07 |
 | Sunrise | 06:23:24 |
 | Dhuhr (Noon) | 12:23:17 |
 | Medium Coeli | 12:23:17 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°52'13.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°16'47.61" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°51'23.24" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|6°37'25.98" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|12°14'45.17" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|18°49'2.88" |Virgo|Simak|Venus|
-|☾ Moon|Direct|1°19'26.43" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|27°52'13.31" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°16'47.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°51'23.16" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|6°37'25.93" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|12°14'45.11" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|18°49'2.83" |Virgo|Simak|Venus|
+|☾ Moon|Direct|1°19'26.50" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°52'13.34" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°16'47.44" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°51'23.10" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|27°52'13.31" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|22°16'47.39" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°51'23.16" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|6°37'25.93" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|12°14'45.19" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°49'2.77" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|1°17'22.90" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|12°14'45.11" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°49'2.83" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|1°19'26.50" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

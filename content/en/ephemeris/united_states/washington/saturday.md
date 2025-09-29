@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:40:54 |
 | Sunrise | 07:00:28 |
-| Dhuhr (Noon) | 12:58:58 |
-| Medium Coeli | 12:58:58 |
+| Dhuhr (Noon) | 12:58:59 |
+| Medium Coeli | 12:58:59 |
 | Sunset | 18:56:52 |
 | Maghrib | 19:14:16 |
 | Isha (Night) | 20:05:50 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:31:58 |
 | Sunrise | 07:00:28 |
-| Dhuhr (Noon) | 12:58:58 |
-| Medium Coeli | 12:58:58 |
+| Dhuhr (Noon) | 12:58:59 |
+| Medium Coeli | 12:58:59 |
 | Sunset | 18:56:52 |
 | Maghrib | 19:16:50 |
 | Isha (Night) | 20:05:50 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:30:23 |
 | Sunrise | 07:00:28 |
-| Dhuhr (Noon) | 12:58:59 |
-| Medium Coeli | 12:58:59 |
+| Dhuhr (Noon) | 12:58:58 |
+| Medium Coeli | 12:58:58 |
 | Sunset | 18:56:52 |
 | Maghrib | 18:58:00 |
 | Isha (Night) | 20:26:45 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:27:44 |
 | Sunrise | 07:00:28 |
-| Dhuhr (Noon) | 12:58:59 |
-| Medium Coeli | 12:58:59 |
+| Dhuhr (Noon) | 12:58:58 |
+| Medium Coeli | 12:58:58 |
 | Sunset | 18:56:52 |
 | Maghrib | 18:58:00 |
 | Isha (Night) | 20:28:00 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°57'3.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°8'45.24" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|22°8'45.24" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°8'19.87" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|5°35'8.79" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|10°56'45.77" |Leo|Zubrah|Jupiter|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°57'3.99" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°8'45.24" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°8'45.24" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|4°8'19.87" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|5°35'8.79" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|10°56'45.77" |Virgo|Awwa|Venus|

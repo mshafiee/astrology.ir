@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°56'57.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°8'55.72" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|22°8'55.72" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°9'15.08" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|5°36'28.83" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|10°58'25.91" |Leo|Zubrah|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°56'57.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°8'55.72" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°9'15.08" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°36'28.83" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|10°58'25.91" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|17°8'42.66" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|19°2'14.14" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°8'55.57" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°9'9.25" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|5°36'16.60" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|10°58'19.94" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|17°8'33.07" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|18°4'7.52" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -365,7 +365,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Sun|Sagittarius|Moon|Mars|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
-|☿ Mercury|Jupiter|Jupiter|Aries|Moon|Moon|
+|☿ Mercury|Saturn|Jupiter|Aries|Moon|Moon|
 |☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 

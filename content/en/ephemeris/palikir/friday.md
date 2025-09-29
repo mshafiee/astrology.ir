@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:44 |
-| Sunrise | 06:14:54 |
+| Sunrise | 06:14:55 |
 | Dhuhr (Noon) | 12:16:26 |
 | Medium Coeli | 12:16:26 |
 | Sunset | 18:17:53 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:44 |
-| Sunrise | 06:14:54 |
+| Sunrise | 06:14:55 |
 | Dhuhr (Noon) | 12:16:26 |
 | Medium Coeli | 12:16:26 |
 | Sunset | 18:17:53 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:02:43 |
-| Sunrise | 06:14:54 |
+| Sunrise | 06:14:55 |
 | Dhuhr (Noon) | 12:16:26 |
 | Medium Coeli | 12:16:26 |
 | Sunset | 18:17:53 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°32'51.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°47'45.68" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|22°47'45.68" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°46'37.64" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|10°50'15.09" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|17°31'26.90" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|25°34'49.57" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|25°24'52.75" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|25°11'3.49" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°32'51.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°47'46.24" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°46'36.44" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|10°50'13.96" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|17°31'27.16" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|25°34'48.01" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|22°47'45.68" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°46'37.64" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|10°50'15.09" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|17°31'26.90" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|25°34'49.57" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|25°24'52.75" |Aquarius|FarghAlMuqaddam|Moon|
 
 

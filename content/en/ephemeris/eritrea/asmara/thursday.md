@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:59:46 |
+| Fajr (Dawn) | 04:59:47 |
 | Sunrise | 06:14:42 |
 | Dhuhr (Noon) | 12:13:34 |
 | Medium Coeli | 12:13:34 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°40'19.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°36'1.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°38'20.59" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|9°11'51.94" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|15°28'10.88" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|22°58'52.07" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°33'43.15" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|27°40'19.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°36'1.67" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°38'20.51" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|9°11'51.89" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|15°28'10.83" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|22°58'52.04" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°33'43.74" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°40'19.86" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°36'1.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°38'20.59" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|9°11'51.94" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°28'10.88" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|22°58'52.07" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°29'59.71" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|22°36'1.92" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°38'20.51" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°11'51.89" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°28'10.83" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|22°58'52.04" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°33'43.74" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:10:49 |
 | Sunrise | 06:55:31 |
-| Dhuhr (Noon) | 12:52:17 |
-| Medium Coeli | 12:52:17 |
+| Dhuhr (Noon) | 12:52:16 |
+| Medium Coeli | 12:52:16 |
 | Sunset | 18:48:19 |
 | Maghrib | 18:53:39 |
 | Isha (Night) | 20:21:27 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:19:19 |
 | Sunrise | 06:55:31 |
-| Dhuhr (Noon) | 12:52:17 |
-| Medium Coeli | 12:52:17 |
+| Dhuhr (Noon) | 12:52:16 |
+| Medium Coeli | 12:52:16 |
 | Sunset | 18:48:19 |
 | Maghrib | 18:53:39 |
 | Isha (Night) | 20:24:16 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°59'0.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°5'30.46" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°51'12.69" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°10'21.77" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|10°25'44.11" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°25'24.83" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|13°48'17.90" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|27°59'0.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°5'30.68" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°51'12.77" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°10'21.82" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|10°25'44.16" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°25'24.88" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|13°48'18.08" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°59'0.01" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°5'30.68" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|27°59'0.04" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|22°5'30.68" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°51'12.77" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|5°10'21.82" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|10°25'44.16" |Virgo|Awwa|Venus|

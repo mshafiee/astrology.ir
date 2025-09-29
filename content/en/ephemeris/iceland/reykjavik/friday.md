@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°35'0.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°44'24.73" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°26'54.19" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|10°21'43.54" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|16°55'45.61" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°50'0.48" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|20°15'11.97" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|27°35'0.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°44'24.01" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°26'54.99" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|10°21'49.86" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|16°55'50.51" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|24°50'4.18" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|19°28'13.13" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Saturn|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mars|Mars|Venus|Moon|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Moon|Mercury|Aquarius|Moon|Venus|
 |☿ Mercury|Sun|Sun|Gemini|Sun|Moon|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°35'0.50" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°44'24.94" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|22°44'24.94" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°26'54.26" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|10°21'50.03" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|16°55'51.66" |Virgo|Awwa|Venus|
