@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:34:17 |
 | Medium Coeli | 12:34:17 |
 | Sunset | 18:48:25 |
-| Maghrib | 19:05:03 |
+| Maghrib | 19:05:04 |
 | Isha (Night) | 19:54:49 |
 | Sharia Midnight | 23:55:38 |
 | Imum Coeli | 00:34:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°39'11.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°37'49.94" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°48'40.78" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|9°26'44.35" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|15°46'51.47" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|23°22'39.74" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|6°59'59.12" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|27°39'11.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°37'50.15" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°48'40.85" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|9°26'44.39" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|15°46'51.53" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|23°22'39.77" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|6°59'58.56" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°39'11.88" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°37'49.94" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°48'40.78" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|9°26'44.35" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°46'51.47" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°22'39.74" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°59'59.12" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|27°39'11.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°37'50.15" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°48'40.85" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°26'44.39" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°46'51.53" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°22'39.77" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°59'58.56" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

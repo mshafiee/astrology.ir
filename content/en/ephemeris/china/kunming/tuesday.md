@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:43:42 |
 | Sunrise | 07:01:10 |
-| Dhuhr (Noon) | 12:59:08 |
-| Medium Coeli | 12:59:08 |
+| Dhuhr (Noon) | 12:59:07 |
+| Medium Coeli | 12:59:07 |
 | Sunset | 18:56:43 |
 | Maghrib | 19:01:17 |
 | Isha (Night) | 20:09:41 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°45'38.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°27'30.86" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|22°27'30.86" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°50'16.30" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|8°2'30.34" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|14°1'10.92" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°7'22.24" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|19°51'1.41" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|14°1'17.86" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|21°7'26.18" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|18°49'38.96" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Jupiter|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mars|Saturn|Venus|Moon|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°45'38.95" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°27'30.86" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°27'30.86" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°50'16.30" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|8°2'30.34" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|14°1'17.86" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|21°7'22.24" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|19°51'1.99" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|21°7'26.18" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|18°49'38.96" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Venus|Saturn|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:59:46 |
+| Fajr (Dawn) | 04:59:47 |
 | Sunrise | 06:14:57 |
 | Dhuhr (Noon) | 12:11:24 |
 | Medium Coeli | 12:11:24 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°36'1.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°42'49.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°17'35.62" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|10°8'26.39" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|16°39'3.44" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°28'50.61" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|15°57'44.56" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|22°42'50.13" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°17'33.43" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|10°8'23.01" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|16°39'2.52" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|24°28'47.33" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|15°44'56.96" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°36'1.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°42'49.59" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°17'35.62" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|10°8'26.39" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|16°39'3.44" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|24°28'50.61" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|15°57'44.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|22°42'50.13" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°17'33.43" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|10°8'23.01" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|16°39'2.52" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|24°28'47.33" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|15°44'56.96" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

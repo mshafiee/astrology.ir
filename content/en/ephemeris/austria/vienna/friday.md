@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:32:59|Night duration: 12:28:26|
+|Duration of the day: 11:32:59|Night duration: 12:28:27|
 |Every hour duration: 01:39:00|Every hour duration: 01:46:55|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mars|Ruler|18:29:33|20:16:27|
 |Late evening|Sun|Servant|20:16:28|22:03:22|
 |Midnight|Venus|Servant|22:03:23|23:50:17|
-|Late at night|Mercury|Servant|23:50:18|01:37:12|
-|Rooster song|Moon|Servant|01:37:13|03:24:07|
-|False Dawn|Saturn|Servant|03:24:08|05:11:02|
-|Dawn|Jupiter|Servant|05:11:03|06:57:58|
+|Late at night|Mercury|Servant|23:50:18|01:37:13|
+|Rooster song|Moon|Servant|01:37:14|03:24:08|
+|False Dawn|Saturn|Servant|03:24:09|05:11:03|
+|Dawn|Jupiter|Servant|05:11:04|06:57:59|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°35'31.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°43'36.48" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°22'11.25" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|10°15'3.09" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|16°47'20.95" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°39'19.11" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|17°29'44.32" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|27°35'31.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°43'36.70" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°22'11.32" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|10°15'3.13" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|16°47'21.01" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|24°39'19.14" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|17°29'43.89" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°35'31.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°43'36.48" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°22'11.25" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|10°15'3.09" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|16°47'20.95" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|24°39'19.11" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|17°29'44.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|27°35'31.29" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°43'36.70" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°22'11.32" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|10°15'3.13" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|16°47'21.01" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|24°39'19.14" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|17°29'43.89" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

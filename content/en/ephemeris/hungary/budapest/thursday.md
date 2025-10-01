@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:00:03 |
+| Fajr (Dawn) | 05:00:04 |
 | Sunrise | 06:44:04 |
 | Dhuhr (Noon) | 12:33:07 |
 | Medium Coeli | 12:33:07 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:00:03 |
+| Fajr (Dawn) | 05:00:04 |
 | Sunrise | 06:44:04 |
 | Dhuhr (Noon) | 12:33:07 |
 | Medium Coeli | 12:33:07 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°40'3.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°36'28.70" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°40'51.36" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|9°15'28.69" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|15°32'44.97" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|23°4'40.43" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°13'1.41" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|22°36'28.41" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°40'52.75" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|9°15'30.97" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|15°32'45.70" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|23°4'42.54" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|4°23'0.11" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Sun|Moon|Gemini|Sun|Moon|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°40'3.16" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°36'28.41" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°36'28.41" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°40'52.75" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|9°15'30.97" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°32'45.70" |Virgo|Awwa|Venus|

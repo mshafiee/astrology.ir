@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°44'23.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°29'32.25" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°1'35.91" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|8°18'51.38" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|14°21'46.77" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°33'49.14" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|22°21'34.51" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|27°44'23.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°29'33.29" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°1'31.21" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|8°18'43.23" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|14°21'43.94" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|21°33'41.90" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|21°34'41.25" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°44'23.53" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°29'32.46" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°29'32.46" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°1'35.98" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|8°18'51.42" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°21'46.82" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|21°33'49.18" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|22°15'33.29" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|14°21'43.94" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|21°33'41.90" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|21°34'41.25" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

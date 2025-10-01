@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°39'9.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°37'53.64" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°48'57.31" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|9°27'9.86" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|15°47'23.06" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|23°23'18.21" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|6°42'37.86" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|27°39'9.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°37'53.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°48'57.72" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|9°27'9.27" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|15°47'21.93" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|23°23'18.36" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|7°1'39.23" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Jupiter|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mars|Saturn|Venus|Moon|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°39'9.93" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°37'52.87" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°48'57.65" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|9°27'9.22" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°47'21.87" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|27°39'9.96" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°37'53.64" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°48'57.31" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°27'9.86" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°47'23.06" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|23°23'18.24" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|6°42'37.29" |Aquarius|SaadAlSaud|Venus|
 

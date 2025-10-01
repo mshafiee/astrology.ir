@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:43:15 |
 | Sunrise | 05:55:58 |
-| Dhuhr (Noon) | 11:48:59 |
-| Medium Coeli | 11:48:59 |
+| Dhuhr (Noon) | 11:48:58 |
+| Medium Coeli | 11:48:58 |
 | Sunset | 17:41:31 |
 | Maghrib | 17:57:31 |
 | Isha (Night) | 18:44:40 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:35:12 |
 | Sunrise | 05:55:58 |
-| Dhuhr (Noon) | 11:48:59 |
-| Medium Coeli | 11:48:59 |
+| Dhuhr (Noon) | 11:48:58 |
+| Medium Coeli | 11:48:58 |
 | Sunset | 17:41:31 |
 | Maghrib | 17:59:53 |
 | Isha (Night) | 18:44:40 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:33:46 |
 | Sunrise | 05:55:58 |
-| Dhuhr (Noon) | 11:48:58 |
-| Medium Coeli | 11:48:58 |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | 17:41:31 |
 | Maghrib | 17:42:34 |
 | Isha (Night) | 19:03:35 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°31'25.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°49'57.87" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°59'46.11" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|11°9'10.20" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|17°55'9.02" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°4'31.96" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|29°44'9.38" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Retrograde|27°31'25.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°49'58.08" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°59'46.18" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°9'10.25" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|17°55'9.08" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|26°4'31.99" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|29°44'9.03" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°31'25.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°49'57.87" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°49'57.87" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°59'46.11" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|11°9'10.20" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|17°55'9.02" |Virgo|Simak|Venus|

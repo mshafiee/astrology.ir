@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:02:58|Night duration: 11:56:54|
+|Duration of the day: 12:02:59|Night duration: 11:56:54|
 |Every hour of day duration: 01:00:15|Every hour of night duration: 00:59:45|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:14:55|07:15:08|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:15:09|08:15:23|Attracting auspiciousness|
-|3|Moon|Servant|08:15:24|09:15:38|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:15:39|10:15:53|Unfortunate hour|
-|5|Jupiter|Servant|10:15:54|11:16:08|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:16:09|12:16:23|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:16:24|13:16:37|Promotion and attracting wealth|
+|1|Venus|Ruler|06:14:54|07:15:07|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:15:08|08:15:22|Attracting auspiciousness|
+|3|Moon|Servant|08:15:23|09:15:37|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:15:38|10:15:52|Unfortunate hour|
+|5|Jupiter|Servant|10:15:53|11:16:07|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:16:08|12:16:22|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:16:23|13:16:37|Promotion and attracting wealth|
 |8|Venus|Ruler|13:16:38|14:16:52|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:16:53|15:17:07|Causing separation and homelessness|
 |10|Moon|Servant|15:17:08|16:17:22|Extremely unfortunate|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:02:58|Night duration: 11:56:54|
+|Duration of the day: 12:02:59|Night duration: 11:56:54|
 |Every hour duration: 01:43:17|Every hour duration: 01:42:25|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|06:14:55|07:58:10|
+|Early morning|Venus|Ruler|06:14:54|07:58:10|
 |Mid-morning|Mercury|Servant|07:58:11|09:41:27|
 |Late morning|Moon|Servant|09:41:28|11:24:44|
 |Noon|Saturn|Servant|11:24:45|13:08:01|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°32'51.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°47'45.68" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|22°47'45.68" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°46'37.64" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|10°50'15.09" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|17°31'26.90" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|25°34'49.57" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|25°11'3.49" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|25°24'52.75" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°32'51.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°47'45.68" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°47'45.68" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°46'37.64" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|10°50'15.09" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|17°31'26.90" |Virgo|Simak|Venus|

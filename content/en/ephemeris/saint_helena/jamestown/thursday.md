@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:04:28 |
 | Dhuhr (Noon) | 12:12:07 |
 | Medium Coeli | 12:12:07 |
-| Sunset | 18:20:01 |
+| Sunset | 18:20:00 |
 | Maghrib | 18:34:17 |
 | Isha (Night) | 19:16:12 |
-| Sharia Midnight | 23:39:34 |
+| Sharia Midnight | 23:39:33 |
 | Imum Coeli | 00:11:58 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:04:28 |
 | Dhuhr (Noon) | 12:12:07 |
 | Medium Coeli | 12:12:07 |
-| Sunset | 18:20:01 |
+| Sunset | 18:20:00 |
 | Maghrib | 18:23:01 |
 | Isha (Night) | 19:20:24 |
 | Sharia Midnight | 23:41:40 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:04:28 |
 | Dhuhr (Noon) | 12:12:07 |
 | Medium Coeli | 12:12:07 |
-| Sunset | 18:20:00 |
+| Sunset | 18:20:01 |
 | Maghrib | 18:23:01 |
 | Isha (Night) | 19:53:01 |
-| Sharia Midnight | 23:34:17 |
+| Sharia Midnight | 23:34:18 |
 | Imum Coeli | 00:11:58 |
 {{< /tab >}}
 
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:15:32|Night duration: 11:43:42|
+|Duration of the day: 12:15:33|Night duration: 11:43:41|
 |Every hour duration: 01:45:05|Every hour duration: 01:40:32|
 
  
@@ -266,20 +266,20 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Jupiter|Ruler|06:04:28|07:49:31|
 |Mid-morning|Mars|Servant|07:49:32|09:34:36|
-|Late morning|Sun|Servant|09:34:37|11:19:40|
-|Noon|Venus|Servant|11:19:41|13:04:45|
-|Early afternoon|Mercury|Servant|13:04:46|14:49:49|
-|Mid-afternoon|Moon|Servant|14:49:50|16:34:54|
-|Late afternoon|Saturn|Servant|16:34:55|18:19:59|
+|Late morning|Sun|Servant|09:34:37|11:19:41|
+|Noon|Venus|Servant|11:19:42|13:04:45|
+|Early afternoon|Mercury|Servant|13:04:46|14:49:50|
+|Mid-afternoon|Moon|Servant|14:49:51|16:34:55|
+|Late afternoon|Saturn|Servant|16:34:56|18:20:00|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|18:20:00|20:00:30|
-|Late evening|Saturn|Servant|20:00:31|21:41:02|
-|Midnight|Jupiter|Servant|21:41:03|23:21:34|
-|Late at night|Mars|Servant|23:21:35|01:02:05|
-|Rooster song|Sun|Servant|01:02:06|02:42:37|
+|Evening|Moon|Ruler|18:20:01|20:00:31|
+|Late evening|Saturn|Servant|20:00:32|21:41:03|
+|Midnight|Jupiter|Servant|21:41:04|23:21:34|
+|Late at night|Mars|Servant|23:21:35|01:02:06|
+|Rooster song|Sun|Servant|01:02:07|02:42:37|
 |False Dawn|Venus|Servant|02:42:38|04:23:09|
 |Dawn|Mercury|Servant|04:23:10|06:03:41|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°39'48.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°36'53.42" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°43'7.05" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|9°18'45.22" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|15°36'53.08" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|23°9'54.33" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°32'53.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|27°39'48.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°36'52.17" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°43'9.27" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|9°18'47.41" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|15°36'52.59" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|23°9'57.18" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|5°9'10.23" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Sun|Moon|Gemini|Sun|Moon|
-|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°39'48.21" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°36'52.38" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°43'9.34" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|9°18'47.45" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°36'52.65" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°9'57.21" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|5°9'9.65" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|27°39'48.17" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°36'52.17" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°43'9.27" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°18'47.41" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°36'52.59" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°9'57.18" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°9'10.23" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

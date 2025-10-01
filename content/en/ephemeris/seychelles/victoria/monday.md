@@ -1,6 +1,6 @@
 ---
-date: 2025-09-29T00:00:00+04:00
-lastmod: 2025-09-29T00:00:00+04:00
+date: 2025-10-06T00:00:00+04:00
+lastmod: 2025-10-06T00:00:00+04:00
 title: Victoria Monday
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Monday, 29 Sep 2025
+description: 🗓 Monday, 06 Oct 2025
 
 toc: false
 ---
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아
