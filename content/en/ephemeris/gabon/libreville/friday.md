@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:59:18 |
 | Sunrise | 06:07:49 |
-| Dhuhr (Noon) | 12:11:08 |
-| Medium Coeli | 12:11:08 |
+| Dhuhr (Noon) | 12:11:09 |
+| Medium Coeli | 12:11:09 |
 | Sunset | 18:14:28 |
 | Maghrib | 18:30:03 |
 | Isha (Night) | 19:08:09 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:58:06 |
 | Sunrise | 06:07:49 |
-| Dhuhr (Noon) | 12:11:08 |
-| Medium Coeli | 12:11:08 |
+| Dhuhr (Noon) | 12:11:09 |
+| Medium Coeli | 12:11:09 |
 | Sunset | 18:14:28 |
 | Maghrib | 18:15:21 |
 | Isha (Night) | 19:20:11 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:58:06 |
 | Sunrise | 06:07:49 |
-| Dhuhr (Noon) | 12:11:08 |
-| Medium Coeli | 12:11:08 |
+| Dhuhr (Noon) | 12:11:09 |
+| Medium Coeli | 12:11:09 |
 | Sunset | 18:14:28 |
 | Maghrib | 18:15:21 |
 | Isha (Night) | 19:24:12 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:56:06 |
 | Sunrise | 06:07:49 |
-| Dhuhr (Noon) | 12:11:08 |
-| Medium Coeli | 12:11:08 |
+| Dhuhr (Noon) | 12:11:09 |
+| Medium Coeli | 12:11:09 |
 | Sunset | 18:14:28 |
 | Maghrib | 18:15:21 |
 | Isha (Night) | 19:45:21 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|7°22'30.52" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|10°15'30.94" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|16°47'55.80" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°40'2.98" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|17°35'17.89" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|24°39'50.82" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|18°28'17.39" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

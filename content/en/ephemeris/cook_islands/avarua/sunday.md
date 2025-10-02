@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:13:23 |
-| Sunrise | 06:15:48 |
+| Sunrise | 06:15:49 |
 | Dhuhr (Noon) | 12:27:18 |
 | Medium Coeli | 12:27:18 |
 | Sunset | 18:39:07 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:53:36 |
-| Sunrise | 06:15:48 |
+| Sunrise | 06:15:49 |
 | Dhuhr (Noon) | 12:27:18 |
 | Medium Coeli | 12:27:18 |
 | Sunset | 18:39:07 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:00:12 |
-| Sunrise | 06:15:48 |
+| Sunrise | 06:15:49 |
 | Dhuhr (Noon) | 12:27:18 |
 | Medium Coeli | 12:27:18 |
 | Sunset | 18:39:07 |
@@ -210,23 +210,23 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:23:19|Night duration: 11:35:48|
+|Duration of the day: 12:23:18|Night duration: 11:35:48|
 |Every hour of day duration: 01:01:57|Every hour of night duration: 00:57:59|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:15:48|07:17:43|Love and attraction of capital|
-|2|Venus|Servant|07:17:44|08:19:40|Unfortunate, no task is suitable|
-|3|Mercury|Servant|08:19:41|09:21:36|Operations of tenderness and attraction of love|
-|4|Moon|Servant|09:21:37|10:23:33|Unfortunate and repelling goodness|
-|5|Saturn|Servant|10:23:34|11:25:29|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|11:25:30|12:27:26|Suitable for all good deeds|
-|7|Mars|Servant|12:27:27|13:29:23|No task is suitable, causes misfortune|
-|8|Sun|Ruler|13:29:24|14:31:19|Extremely auspicious and attracts happiness|
-|9|Venus|Servant|14:31:20|15:33:16|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Mercury|Servant|15:33:17|16:35:12|Attracting happiness, solving financial problems|
-|11|Moon|Servant|16:35:13|17:37:09|Performing promises|
+|1|Sun|Ruler|06:15:49|07:17:44|Love and attraction of capital|
+|2|Venus|Servant|07:17:45|08:19:41|Unfortunate, no task is suitable|
+|3|Mercury|Servant|08:19:42|09:21:37|Operations of tenderness and attraction of love|
+|4|Moon|Servant|09:21:38|10:23:34|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:23:35|11:25:30|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:25:31|12:27:27|Suitable for all good deeds|
+|7|Mars|Servant|12:27:28|13:29:23|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:29:24|14:31:20|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|14:31:21|15:33:16|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|15:33:17|16:35:13|Attracting happiness, solving financial problems|
+|11|Moon|Servant|16:35:14|17:37:09|Performing promises|
 |12|Saturn|Servant|17:37:10|18:39:06|Finding the fugitive and discovering the thief|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°20'10.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°7'1.51" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°44'47.84" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°40'7.96" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|21°4'21.44" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|29°58'26.89" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|6°17'22.81" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|27°20'10.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°7'1.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°44'47.91" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°40'8.01" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|21°4'21.50" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|29°58'26.93" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|6°17'23.00" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°20'10.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°7'1.51" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|9°44'47.84" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|13°40'7.96" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|21°4'21.44" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|27°20'10.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°7'1.72" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|9°44'47.91" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|13°40'8.01" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|21°4'21.50" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|29°58'26.93" |Libra|Akleel|Jupiter|
 |☾ Moon|Direct|6°17'23.00" |Aries|Sharatain|Mars|
 

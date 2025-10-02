@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:09:02 |
 | Dhuhr (Noon) | 11:53:18 |
 | Medium Coeli | 11:53:18 |
-| Sunset | 17:36:27 |
+| Sunset | 17:36:26 |
 | Maghrib | 18:04:34 |
 | Isha (Night) | 19:13:45 |
-| Sharia Midnight | 22:50:55 |
+| Sharia Midnight | 22:50:54 |
 | Imum Coeli | 23:53:08 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:09:02 |
 | Dhuhr (Noon) | 11:53:18 |
 | Medium Coeli | 11:53:18 |
-| Sunset | 17:36:27 |
+| Sunset | 17:36:26 |
 | Maghrib | 17:39:24 |
 | Isha (Night) | 19:36:23 |
 | Sharia Midnight | 22:49:45 |
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:09:02 |
 | Dhuhr (Noon) | 11:53:18 |
 | Medium Coeli | 11:53:18 |
-| Sunset | 17:36:27 |
+| Sunset | 17:36:26 |
 | Maghrib | 17:39:24 |
 | Isha (Night) | 19:40:14 |
 | Sharia Midnight | 22:43:53 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:09:02 |
 | Dhuhr (Noon) | 11:53:18 |
 | Medium Coeli | 11:53:18 |
-| Sunset | 17:36:27 |
+| Sunset | 17:36:26 |
 | Maghrib | 17:39:24 |
 | Isha (Night) | 19:44:05 |
 | Sharia Midnight | 22:49:45 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°40'21.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°36'0.01" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°38'10.48" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|9°11'36.66" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|15°27'52.57" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|22°58'28.88" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°34'9.20" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|22°35'59.75" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°38'10.69" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|9°11'36.42" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|15°27'52.08" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|22°58'28.97" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°42'43.92" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

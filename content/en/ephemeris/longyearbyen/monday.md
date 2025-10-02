@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:45:28 |
 | Sunset | 17:17:01 |
 | Maghrib | 17:21:39 |
-| Isha (Night) | 00:37:41 |
+| Isha (Night) | 00:37:40 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:45:19 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°22'0.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°4'17.19" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°27'29.52" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°15'18.07" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|20°33'16.92" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|29°20'21.59" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|0°6'12.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|27°22'0.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°4'17.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°27'31.11" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°15'18.27" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|20°33'15.28" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|29°20'23.30" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|0°17'43.06" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°22'0.56" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°4'17.19" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|9°27'31.04" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|13°15'18.22" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|20°33'15.22" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|29°20'23.27" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|27°22'0.60" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°4'18.79" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|9°27'29.52" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|13°15'18.07" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|20°33'16.92" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|29°20'21.59" |Libra|Akleel|Jupiter|
 |☾ Moon|Direct|0°6'12.00" |Aries|Sharatain|Mars|
 
 

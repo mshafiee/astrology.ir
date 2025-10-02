@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:55:04 |
 | Maghrib | 18:00:06 |
 | Isha (Night) | 19:17:22 |
-| Sharia Midnight | 23:14:50 |
+| Sharia Midnight | 23:14:51 |
 | Imum Coeli | 00:00:40 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°44'58.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°28'36.26" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°56'21.37" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|8°11'17.30" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|14°12'18.06" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°21'37.05" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|20°39'19.84" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|27°44'58.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°28'36.23" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°56'21.42" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|8°11'17.33" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|14°12'18.04" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|21°21'37.10" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°40'15.12" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°44'58.43" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°28'36.02" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|5°56'21.34" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|8°11'17.29" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°12'17.98" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|21°21'37.06" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|20°40'15.71" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|22°28'36.23" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|5°56'21.42" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|8°11'17.33" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°12'18.04" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|21°21'37.10" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|20°40'15.12" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

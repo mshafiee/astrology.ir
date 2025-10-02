@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 07:33:28 |
+| Sunrise | 07:33:29 |
 | Dhuhr (Noon) | 12:47:00 |
 | Medium Coeli | 12:47:00 |
 | Sunset | 17:57:14 |

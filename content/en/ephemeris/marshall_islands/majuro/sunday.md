@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:19:40 |
 | Sunrise | 06:21:49 |
-| Dhuhr (Noon) | 12:22:57 |
-| Medium Coeli | 12:22:57 |
+| Dhuhr (Noon) | 12:22:58 |
+| Medium Coeli | 12:22:58 |
 | Sunset | 18:24:00 |
 | Maghrib | 18:37:42 |
 | Isha (Night) | 19:18:05 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:12:48 |
 | Sunrise | 06:21:49 |
-| Dhuhr (Noon) | 12:22:57 |
-| Medium Coeli | 12:22:57 |
+| Dhuhr (Noon) | 12:22:58 |
+| Medium Coeli | 12:22:58 |
 | Sunset | 18:24:00 |
 | Maghrib | 18:39:43 |
 | Isha (Night) | 19:18:05 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:23:42 |
 | Sunrise | 06:21:49 |
-| Dhuhr (Noon) | 12:22:57 |
-| Medium Coeli | 12:22:57 |
+| Dhuhr (Noon) | 12:22:58 |
+| Medium Coeli | 12:22:58 |
 | Sunset | 18:24:00 |
 | Maghrib | 18:24:54 |
 | Isha (Night) | 19:22:07 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:05:33 |
 | Sunrise | 06:21:49 |
-| Dhuhr (Noon) | 12:22:57 |
-| Medium Coeli | 12:22:57 |
+| Dhuhr (Noon) | 12:22:58 |
+| Medium Coeli | 12:22:58 |
 | Sunset | 18:24:00 |
 | Maghrib | 18:24:54 |
 | Isha (Night) | 19:32:13 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:11:36 |
 | Sunrise | 06:21:49 |
-| Dhuhr (Noon) | 12:22:57 |
-| Medium Coeli | 12:22:57 |
+| Dhuhr (Noon) | 12:22:58 |
+| Medium Coeli | 12:22:58 |
 | Sunset | 18:24:00 |
 | Maghrib | 18:24:54 |
 | Isha (Night) | 19:34:14 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°24'9.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°1'2.91" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°7'16.17" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|12°46'14.65" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|19°56'47.93" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°35'34.60" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|22°46'10.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|27°24'9.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°1'3.12" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°7'16.25" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|12°46'14.69" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|19°56'47.98" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°35'34.63" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|22°46'10.44" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

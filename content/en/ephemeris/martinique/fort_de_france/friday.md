@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:50:18 |
 | Sunrise | 05:53:58 |
-| Dhuhr (Noon) | 11:53:11 |
-| Medium Coeli | 11:53:11 |
+| Dhuhr (Noon) | 11:53:12 |
+| Medium Coeli | 11:53:12 |
 | Sunset | 17:52:13 |
 | Maghrib | 18:06:15 |
 | Isha (Night) | 18:47:36 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:35:50 |
 | Sunrise | 05:53:58 |
-| Dhuhr (Noon) | 11:53:11 |
-| Medium Coeli | 11:53:11 |
+| Dhuhr (Noon) | 11:53:12 |
+| Medium Coeli | 11:53:12 |
 | Sunset | 17:52:13 |
 | Maghrib | 17:53:08 |
 | Isha (Night) | 19:02:04 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:39:58 |
 | Sunrise | 05:53:58 |
-| Dhuhr (Noon) | 11:53:11 |
-| Medium Coeli | 11:53:11 |
+| Dhuhr (Noon) | 11:53:12 |
+| Medium Coeli | 11:53:12 |
 | Sunset | 17:52:13 |
 | Maghrib | 17:53:08 |
 | Isha (Night) | 19:23:08 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°30'8.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°51'57.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°11'41.15" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|11°26'19.22" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|18°16'38.43" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°31'23.23" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°42'36.59" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|27°30'8.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|22°51'57.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°11'41.22" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°26'19.26" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|18°16'38.49" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|26°31'23.26" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°42'36.26" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°30'8.29" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°51'57.18" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°11'41.15" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|11°26'19.22" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|18°16'38.43" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|26°31'23.23" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|3°42'36.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|27°30'8.33" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|22°51'57.39" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°11'41.22" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|11°26'19.26" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|18°16'38.49" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|26°31'23.26" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|3°42'36.26" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
