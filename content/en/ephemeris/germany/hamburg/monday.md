@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:34:17 |
 | Sunrise | 07:30:37 |
-| Dhuhr (Noon) | 13:08:05 |
-| Medium Coeli | 13:08:05 |
+| Dhuhr (Noon) | 13:08:04 |
+| Medium Coeli | 13:08:04 |
 | Sunset | 18:44:33 |
 | Maghrib | 19:10:49 |
 | Isha (Night) | 20:14:57 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:53:04 |
 | Sunrise | 07:30:37 |
-| Dhuhr (Noon) | 13:08:05 |
-| Medium Coeli | 13:08:05 |
+| Dhuhr (Noon) | 13:08:04 |
+| Medium Coeli | 13:08:04 |
 | Sunset | 18:44:33 |
 | Maghrib | 18:46:03 |
 | Isha (Night) | 20:21:48 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°22'7.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°4'6.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°26'23.04" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°13'41.73" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|20°31'12.50" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|29°17'52.75" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|29°35'46.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°4'6.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°26'22.95" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°13'41.66" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|20°31'12.54" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|29°17'52.63" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|29°35'34.96" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:10:31 |
+| Fajr (Dawn) | 05:10:30 |
 | Sunrise | 06:47:45 |
 | Dhuhr (Noon) | 12:35:14 |
 | Medium Coeli | 12:35:14 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:10:31 |
+| Fajr (Dawn) | 05:10:30 |
 | Sunrise | 06:47:45 |
 | Dhuhr (Noon) | 12:35:14 |
 | Medium Coeli | 12:35:14 |
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|27°31'5.11" |Pisces|Rescha|Mars|
 |♃ Jupiter|Direct|22°50'29.99" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|8°2'57.19" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|11°13'40.77" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|18°0'52.71" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|26°11'38.56" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|0°39'57.48" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|11°13'44.90" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|18°0'53.51" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|26°11'42.88" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|0°50'4.23" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

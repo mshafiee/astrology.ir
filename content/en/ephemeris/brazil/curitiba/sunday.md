@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 12:26:04|Night duration: 11:32:54|
-|Every hour of day duration: 01:02:10|Every hour of night duration: 00:57:45|
+|Every hour of day duration: 01:02:10|Every hour of night duration: 00:57:44|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°21'31.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°5'1.42" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°32'6.86" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°21'54.92" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|20°41'32.11" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|29°30'32.34" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|1°45'53.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|27°21'31.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°5'1.37" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°32'7.02" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°21'55.17" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|20°41'31.94" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|29°30'31.97" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|1°48'5.20" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
