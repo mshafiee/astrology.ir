@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 12:26:04|Night duration: 11:32:54|
-|Every hour of day duration: 01:02:10|Every hour of night duration: 00:57:44|
+|Every hour of day duration: 01:02:10|Every hour of night duration: 00:57:45|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°21'31.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°5'1.37" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°32'7.02" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°21'55.17" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|20°41'31.94" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|29°30'31.97" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|1°48'5.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|23°5'1.21" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°32'6.79" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°21'54.87" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|20°41'31.81" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|29°30'31.69" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|1°49'12.20" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°21'31.19" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°5'1.42" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|9°32'6.86" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|13°21'54.92" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|20°41'31.87" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|29°30'31.72" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|1°49'12.28" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|27°21'31.16" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°5'1.21" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|9°32'6.79" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|13°21'54.87" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|20°41'32.49" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|29°30'32.47" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|1°42'23.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

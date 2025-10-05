@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:53 |
-| Sunrise | 06:25:57 |
+| Sunrise | 06:25:56 |
 | Dhuhr (Noon) | 12:01:44 |
 | Medium Coeli | 12:01:44 |
 | Sunset | 17:36:38 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:23:58 |
-| Sunrise | 06:25:57 |
+| Sunrise | 06:25:56 |
 | Dhuhr (Noon) | 12:01:44 |
 | Medium Coeli | 12:01:44 |
 | Sunset | 17:36:38 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°14'10.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°15'51.12" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°41'49.51" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|15°1'58.13" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|22°46'54.43" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|2°2'52.17" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|26°45'55.51" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|27°14'10.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°15'50.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°41'49.44" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|15°1'58.08" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|22°46'54.37" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|2°2'52.14" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|26°45'55.04" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°14'10.71" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°15'51.12" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°41'49.51" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|15°1'58.13" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|22°46'54.43" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|2°2'52.17" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|26°45'55.51" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|27°14'10.67" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°15'50.91" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°41'49.41" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|15°1'58.04" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|22°46'54.32" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|2°2'52.07" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|26°45'54.43" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

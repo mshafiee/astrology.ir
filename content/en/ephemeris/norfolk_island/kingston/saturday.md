@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°28'34.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|22°54'21.23" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|22°54'21.23" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°26'9.66" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|11°47'7.09" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|18°42'44.25" |Leo|Zubrah|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°28'34.80" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|22°54'20.73" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°26'10.63" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|11°47'8.02" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|18°42'44.08" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|27°3'55.35" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|9°0'21.07" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|22°54'21.23" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°26'9.66" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|11°47'7.09" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|18°42'44.25" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|27°3'54.07" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|8°54'10.38" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub> </sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴

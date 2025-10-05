@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°17'0.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°11'43.49" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°14'53.58" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|14°23'19.14" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|21°58'29.71" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°4'20.25" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|17°16'10.03" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|23°11'41.73" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°14'53.39" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|14°23'15.11" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|21°58'25.70" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°4'18.81" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|17°42'55.44" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Mercury|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°17'0.08" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°11'43.49" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°14'53.58" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°23'19.14" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|21°58'29.71" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|1°4'20.25" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|17°16'10.03" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|27°17'0.05" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°11'43.28" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°14'53.51" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°23'19.09" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|21°58'29.65" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|1°4'20.21" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|17°16'9.63" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

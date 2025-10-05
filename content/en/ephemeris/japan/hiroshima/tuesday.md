@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 17:46:42 |
 | Maghrib | 17:47:47 |
 | Isha (Night) | 18:56:30 |
-| Sharia Midnight | 23:23:14 |
+| Sharia Midnight | 23:23:13 |
 | Imum Coeli | 23:57:55 |
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°14'56.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°14'44.03" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|23°14'44.03" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°34'29.07" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|14°51'26.95" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|22°33'42.80" |Leo|Sarfrah|Mars|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°14'56.62" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°14'44.03" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°14'44.03" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°34'29.07" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|14°51'26.95" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|22°33'42.80" |Virgo|Simak|Mercury|
