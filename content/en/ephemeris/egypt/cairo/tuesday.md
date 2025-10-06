@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:40:29 |
 | Sunrise | 06:51:44 |
-| Dhuhr (Noon) | 12:42:46 |
-| Medium Coeli | 12:42:46 |
+| Dhuhr (Noon) | 12:42:47 |
+| Medium Coeli | 12:42:47 |
 | Sunset | 18:33:23 |
 | Maghrib | 18:49:06 |
 | Isha (Night) | 19:35:18 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:31:13 |
 | Sunrise | 06:51:44 |
-| Dhuhr (Noon) | 12:42:46 |
-| Medium Coeli | 12:42:46 |
+| Dhuhr (Noon) | 12:42:47 |
+| Medium Coeli | 12:42:47 |
 | Sunset | 18:33:23 |
 | Maghrib | 18:34:25 |
 | Isha (Night) | 19:49:10 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:45:07 |
 | Sunrise | 06:51:44 |
-| Dhuhr (Noon) | 12:42:46 |
-| Medium Coeli | 12:42:46 |
+| Dhuhr (Noon) | 12:42:47 |
+| Medium Coeli | 12:42:47 |
 | Sunset | 18:33:23 |
 | Maghrib | 18:34:25 |
 | Isha (Night) | 19:39:56 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°18'3.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°10'8.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°4'45.27" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|14°8'47.89" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|21°40'15.49" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°42'11.45" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|13°11'0.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|27°18'3.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°10'9.05" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°4'45.32" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|14°8'47.92" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|21°40'15.46" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°42'11.51" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|13°10'51.03" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°18'3.79" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°10'9.05" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°10'9.05" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°4'45.32" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|14°8'47.92" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|21°40'15.46" |Virgo|Simak|Mercury|

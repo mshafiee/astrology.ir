@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°2'1.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°33'11.40" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°40'16.10" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|17°51'35.55" |Virgo|Simak|Venus|
-|♀ Venus|Direct|26°19'29.96" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°15'32.33" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|10°6'11.38" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|27°2'1.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°33'11.60" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°40'16.17" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|17°51'35.59" |Virgo|Simak|Venus|
+|♀ Venus|Direct|26°19'30.02" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|6°15'32.77" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|9°54'36.48" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Mars|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°2'1.84" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°33'11.60" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°33'11.60" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|12°40'16.17" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|17°51'35.59" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°19'30.02" |Virgo|Simak|Mercury|

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:03:41|Night duration: 12:58:03|
+|Duration of the day: 11:03:41|Night duration: 12:58:04|
 |Every hour of day duration: 00:55:18|Every hour of night duration: 01:04:50|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|18:24:56|19:29:45|Attraction of material wealth, earning and prosperity|
 |2|Saturn|Servant|19:29:46|20:34:35|Destruction of enemies|
-|3|Jupiter|Servant|20:34:36|21:39:25|Attraction of financial and emotional love|
-|4|Mars|Servant|21:39:26|22:44:16|Creating love, connection and marriage|
+|3|Jupiter|Servant|20:34:36|21:39:26|Attraction of financial and emotional love|
+|4|Mars|Servant|21:39:27|22:44:16|Creating love, connection and marriage|
 |5|Sun|Servant|22:44:17|23:49:06|Indulgence|
-|6|Venus|Servant|23:49:07|00:53:56|Outer and inner journey|
-|7|Mercury|Servant|00:53:57|01:58:46|Achieving status and power|
-|8|Moon|Ruler|01:58:47|03:03:37|Attraction of happiness and fortune|
-|9|Saturn|Servant|03:03:38|04:08:27|Reaching status and promotion|
-|10|Jupiter|Servant|04:08:28|05:13:17|Fulfilling needs|
-|11|Mars|Servant|05:13:18|06:18:07|Attraction of love and hearts|
-|12|Sun|Servant|06:18:08|07:22:58|Attracting misfortune, not suitable for any task|
+|6|Venus|Servant|23:49:07|00:53:57|Outer and inner journey|
+|7|Mercury|Servant|00:53:58|01:58:47|Achieving status and power|
+|8|Moon|Ruler|01:58:48|03:03:37|Attraction of happiness and fortune|
+|9|Saturn|Servant|03:03:38|04:08:28|Reaching status and promotion|
+|10|Jupiter|Servant|04:08:29|05:13:18|Fulfilling needs|
+|11|Mars|Servant|05:13:19|06:18:08|Attraction of love and hearts|
+|12|Sun|Servant|06:18:09|07:22:59|Attracting misfortune, not suitable for any task|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:03:41|Night duration: 12:58:03|
+|Duration of the day: 11:03:41|Night duration: 12:58:04|
 |Every hour duration: 01:34:49|Every hour duration: 01:51:09|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mars|Servant|23:58:23|01:49:31|
 |Rooster song|Sun|Servant|01:49:32|03:40:40|
 |False Dawn|Venus|Servant|03:40:41|05:31:49|
-|Dawn|Mercury|Servant|05:31:50|07:22:58|
+|Dawn|Mercury|Servant|05:31:50|07:22:59|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°9'11.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°23'2.86" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°29'53.50" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|16°10'51.46" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|24°13'14.92" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°46'20.88" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|14°22'12.80" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|27°9'11.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°23'3.06" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°29'53.57" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|16°10'51.51" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|24°13'14.98" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°46'20.91" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°22'13.14" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°9'11.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°23'2.86" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°29'53.50" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|16°10'51.46" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|24°13'14.92" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|3°46'20.88" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°23'44.31" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|27°9'11.87" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°23'3.06" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°29'53.57" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|16°10'51.51" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|24°13'14.98" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|3°46'20.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|14°22'13.14" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

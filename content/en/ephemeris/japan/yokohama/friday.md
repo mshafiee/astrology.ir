@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:17:27 |
-| Sunrise | 05:43:03 |
+| Sunrise | 05:43:04 |
 | Dhuhr (Noon) | 11:28:25 |
 | Medium Coeli | 11:28:25 |
 | Sunset | 17:13:16 |
@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 17:13:16 |
 | Maghrib | 17:14:22 |
 | Isha (Night) | 18:38:45 |
-| Sharia Midnight | 22:45:45 |
+| Sharia Midnight | 22:45:46 |
 | Imum Coeli | 23:28:17 |
 {{< /tab >}}
 
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:14:59 |
-| Sunrise | 05:43:03 |
+| Sunrise | 05:43:04 |
 | Dhuhr (Noon) | 11:28:25 |
 | Medium Coeli | 11:28:25 |
 | Sunset | 17:13:16 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°2'16.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°32'51.04" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°37'50.01" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|27°2'16.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°32'50.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°37'50.11" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|17°48'7.06" |Virgo|Simak|Venus|
-|♀ Venus|Direct|26°15'8.15" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°10'25.63" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|9°0'41.25" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|26°15'8.03" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|6°10'25.75" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|8°58'1.20" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°2'16.50" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°32'50.94" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°32'50.94" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|12°37'50.11" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|17°48'7.06" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°15'8.03" |Virgo|Simak|Mercury|

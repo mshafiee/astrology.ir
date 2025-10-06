@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:40:55 |
 | Sunset | 17:32:08 |
 | Maghrib | 17:37:07 |
-| Isha (Night) | 18:52:10 |
+| Isha (Night) | 18:52:11 |
 | Sharia Midnight | 22:56:11 |
 | Imum Coeli | 23:40:46 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°27'6.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|22°56'35.44" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|22°56'35.44" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°39'47.40" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|12°6'44.60" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|19°7'17.67" |Leo|Zubrah|Jupiter|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°27'6.49" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|22°56'35.44" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°56'35.44" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|8°39'47.40" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|12°6'44.60" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|19°7'17.67" |Virgo|Simak|Venus|

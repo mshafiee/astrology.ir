@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°9'8.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°23'5.50" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°30'24.09" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|16°11'28.49" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|24°14'5.19" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°47'25.35" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|15°2'26.99" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°23'7.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°30'25.96" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|16°11'38.10" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|24°14'13.13" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°47'30.19" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°31'32.96" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Pisces|Sun|Moon|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Mars|Scorpio|Sun|Venus|
-|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°9'8.47" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°23'7.65" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°30'25.89" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|16°11'38.05" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|24°14'13.07" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|3°47'30.16" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°31'32.62" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|27°9'8.51" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°23'7.85" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°30'25.96" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|16°11'38.10" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|24°14'13.13" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|3°47'30.19" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|14°22'35.08" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 12:03:54|Night duration: 11:55:55|
-|Every hour of day duration: 01:00:19|Every hour of night duration: 00:59:40|
+|Every hour of day duration: 01:00:20|Every hour of night duration: 00:59:40|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°10'17.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°21'28.74" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|23°21'28.74" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°19'15.43" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|15°55'37.71" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|23°54'9.29" |Leo|Sarfrah|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°10'17.57" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°21'28.28" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°19'15.60" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|15°55'36.96" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|23°54'8.30" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|3°23'33.79" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°22'33.32" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°21'28.74" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°19'15.43" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|15°55'37.71" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|23°54'9.29" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|3°23'33.78" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°24'0.28" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
