@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°22'0.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°4'17.21" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°27'29.50" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°15'17.33" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|20°33'12.34" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|29°20'19.54" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|29°58'5.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|27°22'0.49" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°4'15.86" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°27'30.08" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°15'15.22" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|20°33'9.42" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|29°20'19.47" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|0°23'46.47" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Saturn|Mars|Venus|Moon|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Moon|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°22'0.53" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°4'17.21" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°4'17.21" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°27'29.50" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|13°15'17.33" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|20°33'12.34" |Virgo|Simak|Mercury|

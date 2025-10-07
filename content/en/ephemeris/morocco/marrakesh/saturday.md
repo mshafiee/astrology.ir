@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°0'34.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°35'13.42" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°54'47.15" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|18°12'21.55" |Virgo|Simak|Venus|
-|♀ Venus|Direct|26°45'30.78" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°45'58.50" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|15°1'24.36" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|27°0'34.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°35'11.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°54'46.64" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|18°12'17.12" |Virgo|Simak|Venus|
+|♀ Venus|Direct|26°45'26.72" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|6°45'56.80" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°43'54.96" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Sagittarius|Sun|Venus|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°0'34.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°35'13.42" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°35'13.42" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|12°54'47.15" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|18°12'21.55" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|26°45'30.78" |Virgo|Simak|Mercury|

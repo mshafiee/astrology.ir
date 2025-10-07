@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:33:17|Night duration: 12:27:38|
+|Duration of the day: 11:33:17|Night duration: 12:27:37|
 |Every hour of day duration: 00:57:46|Every hour of night duration: 01:02:18|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Mars|Servant|20:45:13|21:47:30|Attracting connection and suitors|
 |4|Sun|Servant|21:47:31|22:49:48|Attracting material wealth, earnings and business prosperity|
 |5|Venus|Servant|22:49:49|23:52:06|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|23:52:07|00:54:25|Repelling negative energy of evil eye|
-|7|Moon|Servant|00:54:26|01:56:43|Attracting love and hearts|
-|8|Saturn|Ruler|01:56:44|02:59:01|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|02:59:02|04:01:19|Heart tenderness|
-|10|Mars|Servant|04:01:20|05:03:37|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|05:03:38|06:05:55|Attracting connection and suitors|
-|12|Venus|Servant|06:05:56|07:08:14|Hatred, corruption and creating negative energy for disruption|
+|6|Mercury|Servant|23:52:07|00:54:24|Repelling negative energy of evil eye|
+|7|Moon|Servant|00:54:25|01:56:42|Attracting love and hearts|
+|8|Saturn|Ruler|01:56:43|02:59:00|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|02:59:01|04:01:18|Heart tenderness|
+|10|Mars|Servant|04:01:19|05:03:36|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|05:03:37|06:05:54|Attracting connection and suitors|
+|12|Venus|Servant|06:05:55|07:08:13|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°18'22.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°9'41.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°1'45.93" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|14°4'30.33" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|21°34'52.77" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°35'39.12" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°7'48.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|27°18'22.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°9'40.89" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°1'45.85" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|14°4'30.28" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|21°34'52.72" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°35'39.08" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|12°7'48.20" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°18'22.72" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°9'41.09" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°1'45.93" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°4'30.33" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|21°34'52.77" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|27°18'22.68" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°9'40.89" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°1'45.85" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°4'30.28" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|21°34'52.72" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|0°35'39.12" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|12°7'48.52" |Aries|Sharatain|Sun|
 

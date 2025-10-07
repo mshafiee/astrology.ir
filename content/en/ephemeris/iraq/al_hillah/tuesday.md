@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 11:50:06 |
 | Medium Coeli | 11:50:06 |
 | Sunset | 17:39:31 |
-| Maghrib | 17:55:39 |
+| Maghrib | 17:55:38 |
 | Isha (Night) | 18:43:02 |
 | Sharia Midnight | 23:13:39 |
 | Imum Coeli | 23:49:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°18'13.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°9'54.96" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°3'17.02" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|14°6'40.60" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|21°37'35.74" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°38'58.09" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°41'49.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|27°18'13.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°9'55.06" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°3'16.74" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|14°6'40.82" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|21°37'36.21" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°38'57.92" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|12°39'17.77" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°18'13.12" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°9'55.26" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°3'16.81" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°6'40.87" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|21°37'36.27" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|0°38'57.96" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°39'18.10" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|27°18'13.09" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°9'55.06" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°3'16.74" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°6'40.82" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|21°37'36.21" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|0°38'57.92" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|12°39'17.77" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

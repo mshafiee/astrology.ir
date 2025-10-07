@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:20:32 |
+| Fajr (Dawn) | 05:20:31 |
 | Sunrise | 07:41:34 |
 | Dhuhr (Noon) | 13:04:13 |
 | Medium Coeli | 13:04:13 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°9'8.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°23'8.17" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|23°23'8.17" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°30'28.35" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|16°11'41.01" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|24°14'17.43" |Leo|Sarfrah|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°9'8.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°23'8.17" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°23'8.17" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°30'28.35" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|16°11'41.01" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|24°14'15.29" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|3°47'36.11" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°25'26.88" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|24°14'17.43" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|3°47'35.35" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|15°36'59.07" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aries|Moon|Moon|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Mars|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}

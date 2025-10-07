@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 19:12:48 |
 | Isha (Night) | 20:27:30 |
 | Sharia Midnight | 00:39:38 |
-| Imum Coeli | 01:17:22 |
+| Imum Coeli | 01:17:21 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°16'42.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°12'9.27" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°17'41.04" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|14°27'21.08" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|22°3'24.95" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°10'21.30" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|18°37'22.80" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|27°16'42.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°12'9.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°17'40.96" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|14°27'21.03" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|22°3'30.49" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°10'24.91" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|17°51'2.89" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°16'42.20" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°12'9.27" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°17'41.04" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°27'21.08" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|22°3'30.55" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|1°10'24.95" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|17°51'3.30" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|27°16'42.17" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°12'9.07" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°17'40.96" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°27'21.03" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|22°3'30.49" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|1°10'24.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|17°51'2.89" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

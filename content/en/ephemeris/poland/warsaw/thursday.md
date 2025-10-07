@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:57:58 |
-| Sunrise | 06:50:32 |
+| Sunrise | 06:50:31 |
 | Dhuhr (Noon) | 12:23:09 |
 | Medium Coeli | 12:23:09 |
 | Sunset | 17:54:52 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:04:20|Night duration: 12:57:23|
+|Duration of the day: 11:04:21|Night duration: 12:57:23|
 |Every hour duration: 01:34:54|Every hour duration: 01:51:03|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:50:32|08:25:25|
-|Mid-morning|Mars|Servant|08:25:26|10:00:19|
-|Late morning|Sun|Servant|10:00:20|11:35:13|
-|Noon|Venus|Servant|11:35:14|13:10:08|
-|Early afternoon|Mercury|Servant|13:10:09|14:45:02|
+|Early morning|Jupiter|Ruler|06:50:31|08:25:24|
+|Mid-morning|Mars|Servant|08:25:25|10:00:18|
+|Late morning|Sun|Servant|10:00:19|11:35:13|
+|Noon|Venus|Servant|11:35:14|13:10:07|
+|Early afternoon|Mercury|Servant|13:10:08|14:45:02|
 |Mid-afternoon|Moon|Servant|14:45:03|16:19:56|
 |Late afternoon|Saturn|Servant|16:19:57|17:54:51|
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°9'17.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°22'55.25" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|23°22'55.25" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°29'0.66" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|16°9'35.71" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|24°11'39.97" |Leo|Sarfrah|Mars|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°9'17.32" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°22'55.25" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°22'55.25" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°29'0.66" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|16°9'35.71" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|24°11'39.97" |Virgo|Simak|Mercury|

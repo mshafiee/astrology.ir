@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 17:40:31 |
 | Maghrib | 17:45:09 |
 | Isha (Night) | 18:55:11 |
-| Sharia Midnight | 23:09:41 |
+| Sharia Midnight | 23:09:40 |
 | Imum Coeli | 23:49:07 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°14'26.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°15'28.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°39'18.80" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|14°58'22.54" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|22°42'23.57" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°57'25.57" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|25°43'34.40" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°15'28.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°39'13.23" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|14°58'9.25" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|22°42'16.28" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°57'15.22" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|27°18'52.07" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°14'26.34" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°15'28.24" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°15'28.24" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°39'18.80" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|14°58'22.54" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|22°42'23.57" |Virgo|Simak|Mercury|

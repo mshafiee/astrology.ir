@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:38:46|Night duration: 12:22:00|
+|Duration of the day: 11:38:46|Night duration: 12:21:59|
 |Every hour of day duration: 00:58:14|Every hour of night duration: 01:01:50|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:08:00|19:09:49|Repelling magic, attracting discharged energy|
-|2|Mercury|Servant|19:09:50|20:11:39|Outer and inner journey|
-|3|Moon|Servant|20:11:40|21:13:29|Marriage connection is good|
-|4|Saturn|Servant|21:13:30|22:15:19|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:15:20|23:17:09|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:17:10|00:18:59|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:19:00|01:20:49|Making promises|
-|8|Venus|Ruler|01:20:50|02:22:39|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:22:40|03:24:29|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:24:30|04:26:19|Good for any task|
-|11|Saturn|Servant|04:26:20|05:28:09|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:28:10|06:29:59|Heart tenderness|
+|1|Venus|Ruler|18:08:00|19:09:48|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|19:09:49|20:11:38|Outer and inner journey|
+|3|Moon|Servant|20:11:39|21:13:28|Marriage connection is good|
+|4|Saturn|Servant|21:13:29|22:15:18|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:15:19|23:17:08|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:17:09|00:18:58|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:18:59|01:20:48|Making promises|
+|8|Venus|Ruler|01:20:49|02:22:38|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:22:39|03:24:28|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:24:29|04:26:18|Good for any task|
+|11|Saturn|Servant|04:26:19|05:28:08|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:28:09|06:29:58|Heart tenderness|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:38:46|Night duration: 12:22:00|
+|Duration of the day: 11:38:46|Night duration: 12:21:59|
 |Every hour duration: 01:39:49|Every hour duration: 01:46:00|
 
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|18:08:00|19:53:59|
-|Late evening|Mercury|Servant|19:54:00|21:39:59|
-|Midnight|Moon|Servant|21:40:00|23:25:59|
-|Late at night|Saturn|Servant|23:26:00|01:11:59|
-|Rooster song|Jupiter|Servant|01:12:00|02:57:59|
-|False Dawn|Mars|Servant|02:58:00|04:43:59|
-|Dawn|Sun|Servant|04:44:00|06:29:59|
+|Evening|Venus|Ruler|18:08:00|19:53:58|
+|Late evening|Mercury|Servant|19:53:59|21:39:58|
+|Midnight|Moon|Servant|21:39:59|23:25:58|
+|Late at night|Saturn|Servant|23:25:59|01:11:58|
+|Rooster song|Jupiter|Servant|01:11:59|02:57:58|
+|False Dawn|Mars|Servant|02:57:59|04:43:58|
+|Dawn|Sun|Servant|04:43:59|06:29:58|
 
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°22'57.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°2'52.44" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|23°2'52.44" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|9°18'37.89" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|13°2'34.14" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|20°17'15.30" |Leo|Zubrah|Mars|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°22'57.04" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°2'52.44" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°2'52.44" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°18'37.89" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|13°2'34.14" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|20°17'15.30" |Virgo|Simak|Mercury|

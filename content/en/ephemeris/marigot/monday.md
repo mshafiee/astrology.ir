@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:02:59 |
+| Fajr (Dawn) | 05:02:58 |
 | Sunrise | 06:03:37 |
 | Dhuhr (Noon) | 12:00:19 |
 | Medium Coeli | 12:00:19 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°16'56.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°11'48.21" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°15'24.58" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|14°24'5.28" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|21°59'25.18" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°5'27.47" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|17°1'47.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|27°16'56.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°11'48.00" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°15'24.50" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|14°24'5.23" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|21°59'25.13" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°5'27.44" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|17°1'46.67" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°16'56.54" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°11'48.21" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°11'48.21" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°15'24.58" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|14°24'5.28" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|21°59'25.18" |Virgo|Simak|Mercury|
