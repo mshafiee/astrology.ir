@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°6'11.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°27'19.52" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°59'10.17" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|16°52'47.58" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|25°5'47.68" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|4°48'44.97" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|24°56'53.03" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|27°6'12.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°27'20.34" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°59'6.12" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|16°52'39.53" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|25°5'44.14" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|4°48'37.71" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|26°6'49.93" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Pisces|Sun|Moon|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Scorpio|Sun|Venus|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°6'11.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°27'19.72" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°27'19.72" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°59'10.24" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|16°52'47.63" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|25°5'47.74" |Virgo|Simak|Mercury|

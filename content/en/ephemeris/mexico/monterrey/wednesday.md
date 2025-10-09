@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:28:09 |
-| Sunrise | 06:36:46 |
+| Sunrise | 06:36:47 |
 | Dhuhr (Noon) | 12:28:40 |
 | Medium Coeli | 12:28:40 |
 | Sunset | 18:20:11 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:12:36 |
-| Sunrise | 06:36:46 |
+| Sunrise | 06:36:47 |
 | Dhuhr (Noon) | 12:28:40 |
 | Medium Coeli | 12:28:40 |
 | Sunset | 18:20:11 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:17:03 |
-| Sunrise | 06:36:46 |
+| Sunrise | 06:36:47 |
 | Dhuhr (Noon) | 12:28:40 |
 | Medium Coeli | 12:28:40 |
 | Sunset | 18:20:11 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°7'54.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°24'53.34" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°42'25.31" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|16°28'48.83" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|24°35'44.49" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|4°13'6.73" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|18°49'59.58" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|27°7'54.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°24'53.54" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°42'25.38" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|16°28'48.88" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|24°35'44.54" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|4°13'6.76" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|18°49'59.86" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°7'54.54" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°24'53.54" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°24'53.54" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°42'25.38" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|16°28'48.88" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|24°35'44.54" |Virgo|Simak|Mercury|

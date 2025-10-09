@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:22:37 |
 | Sunrise | 06:39:53 |
-| Dhuhr (Noon) | 12:26:11 |
-| Medium Coeli | 12:26:11 |
+| Dhuhr (Noon) | 12:26:12 |
+| Medium Coeli | 12:26:12 |
 | Sunset | 18:11:57 |
 | Maghrib | 18:29:00 |
 | Isha (Night) | 19:19:04 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:14:03 |
 | Sunrise | 06:39:53 |
-| Dhuhr (Noon) | 12:26:11 |
-| Medium Coeli | 12:26:11 |
+| Dhuhr (Noon) | 12:26:12 |
+| Medium Coeli | 12:26:12 |
 | Sunset | 18:11:57 |
 | Maghrib | 18:31:30 |
 | Isha (Night) | 19:19:04 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:12:33 |
 | Sunrise | 06:39:53 |
-| Dhuhr (Noon) | 12:26:11 |
-| Medium Coeli | 12:26:11 |
+| Dhuhr (Noon) | 12:26:12 |
+| Medium Coeli | 12:26:12 |
 | Sunset | 18:11:57 |
 | Maghrib | 18:13:05 |
 | Isha (Night) | 19:34:07 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:27:38 |
 | Sunrise | 06:39:53 |
-| Dhuhr (Noon) | 12:26:11 |
-| Medium Coeli | 12:26:11 |
+| Dhuhr (Noon) | 12:26:12 |
+| Medium Coeli | 12:26:12 |
 | Sunset | 18:11:57 |
 | Maghrib | 18:13:05 |
 | Isha (Night) | 19:24:05 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:04:58 |
 | Sunrise | 06:39:53 |
-| Dhuhr (Noon) | 12:26:11 |
-| Medium Coeli | 12:26:11 |
+| Dhuhr (Noon) | 12:26:12 |
+| Medium Coeli | 12:26:12 |
 | Sunset | 18:11:57 |
 | Maghrib | 18:13:05 |
 | Isha (Night) | 19:36:38 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:12:33 |
 | Sunrise | 06:39:53 |
-| Dhuhr (Noon) | 12:26:11 |
-| Medium Coeli | 12:26:11 |
+| Dhuhr (Noon) | 12:26:12 |
+| Medium Coeli | 12:26:12 |
 | Sunset | 18:11:57 |
 | Maghrib | 18:13:05 |
 | Isha (Night) | 19:39:09 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:10:01 |
 | Sunrise | 06:39:53 |
-| Dhuhr (Noon) | 12:26:11 |
-| Medium Coeli | 12:26:11 |
+| Dhuhr (Noon) | 12:26:12 |
+| Medium Coeli | 12:26:12 |
 | Sunset | 18:11:57 |
 | Maghrib | 18:13:05 |
 | Isha (Night) | 19:43:05 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°13'46.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°16'26.19" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|23°16'26.19" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°45'40.17" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|15°7'29.28" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|22°53'48.96" |Leo|Sarfrah|Mars|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°13'46.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°16'26.19" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°16'26.19" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°45'40.17" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|15°7'29.28" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|22°53'48.96" |Virgo|Simak|Mercury|

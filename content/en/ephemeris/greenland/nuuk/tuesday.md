@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:29:42 |
-| Sunrise | 08:53:49 |
+| Sunrise | 08:53:50 |
 | Dhuhr (Noon) | 14:14:36 |
 | Medium Coeli | 14:14:36 |
 | Sunset | 19:33:56 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:12:36 |
-| Sunrise | 08:53:49 |
+| Sunrise | 08:53:50 |
 | Dhuhr (Noon) | 14:14:36 |
 | Medium Coeli | 14:14:36 |
 | Sunset | 19:33:56 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:39:31 |
-| Sunrise | 08:53:49 |
+| Sunrise | 08:53:50 |
 | Dhuhr (Noon) | 14:14:36 |
 | Medium Coeli | 14:14:36 |
 | Sunset | 19:33:56 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:09:32 |
-| Sunrise | 08:53:49 |
+| Sunrise | 08:53:50 |
 | Dhuhr (Noon) | 14:14:36 |
 | Medium Coeli | 14:14:36 |
 | Sunset | 19:33:56 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°12'39.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°18'4.06" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|23°18'4.06" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°56'27.97" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|15°22'57.03" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|23°13'12.98" |Leo|Sarfrah|Mars|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|27°12'39.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°18'4.06" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°18'4.06" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°56'27.97" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|15°22'57.03" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|23°13'12.98" |Virgo|Simak|Mercury|
