@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:50:58 |
 | Medium Coeli | 12:50:58 |
 | Sunset | 18:53:35 |
-| Maghrib | 18:54:30 |
+| Maghrib | 18:54:29 |
 | Isha (Night) | 19:59:51 |
 | Sharia Midnight | 00:15:41 |
 | Imum Coeli | 00:50:51 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:50:58 |
 | Medium Coeli | 12:50:58 |
 | Sunset | 18:53:35 |
-| Maghrib | 18:54:30 |
+| Maghrib | 18:54:29 |
 | Isha (Night) | 19:51:46 |
 | Sharia Midnight | 00:21:45 |
 | Imum Coeli | 00:50:51 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:50:58 |
 | Medium Coeli | 12:50:58 |
 | Sunset | 18:53:35 |
-| Maghrib | 18:54:30 |
-| Isha (Night) | 20:24:30 |
+| Maghrib | 18:54:29 |
+| Isha (Night) | 20:24:29 |
 | Sharia Midnight | 00:14:41 |
 | Imum Coeli | 00:50:51 |
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°45'36.70" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°55'22.30" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|15°27'46.85" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|21°50'45.22" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|1°19'10.44" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|26°45'36.65" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°55'22.10" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|15°27'46.79" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|21°50'45.19" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|1°19'10.40" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|11°59'24.90" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|6°54'30.09" |Leo|Jabhah|Saturn|
 

@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:17:14 |
 | Sunrise | 05:38:23 |
-| Dhuhr (Noon) | 11:57:01 |
-| Medium Coeli | 11:57:01 |
+| Dhuhr (Noon) | 11:57:00 |
+| Medium Coeli | 11:57:00 |
 | Sunset | 18:16:06 |
 | Maghrib | 18:34:43 |
 | Isha (Night) | 19:19:36 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:15:47 |
 | Sunrise | 05:38:23 |
-| Dhuhr (Noon) | 11:57:01 |
-| Medium Coeli | 11:57:01 |
+| Dhuhr (Noon) | 11:57:00 |
+| Medium Coeli | 11:57:00 |
 | Sunset | 18:16:06 |
 | Maghrib | 18:20:57 |
 | Isha (Night) | 19:34:02 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:30:14 |
 | Sunrise | 05:38:23 |
-| Dhuhr (Noon) | 11:57:01 |
-| Medium Coeli | 11:57:01 |
+| Dhuhr (Noon) | 11:57:00 |
+| Medium Coeli | 11:57:00 |
 | Sunset | 18:16:06 |
 | Maghrib | 18:20:57 |
 | Isha (Night) | 19:24:23 |
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°28'38.86" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|12°8'18.32" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|17°5'50.60" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|25°22'13.20" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|5°8'9.98" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|28°17'51.53" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|25°22'11.23" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|5°8'7.60" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|28°34'30.64" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

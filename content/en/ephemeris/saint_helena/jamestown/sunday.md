@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:43:25 |
+| Fajr (Dawn) | 04:43:24 |
 | Sunrise | 05:57:10 |
 | Dhuhr (Noon) | 12:09:16 |
 | Medium Coeli | 12:09:16 |
