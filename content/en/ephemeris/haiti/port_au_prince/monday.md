@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:30:06 |
 | Sunrise | 06:42:33 |
-| Dhuhr (Noon) | 12:35:29 |
-| Medium Coeli | 12:35:29 |
+| Dhuhr (Noon) | 12:35:28 |
+| Medium Coeli | 12:35:28 |
 | Sunset | 18:28:09 |
 | Maghrib | 18:44:42 |
 | Isha (Night) | 19:24:57 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:28:50 |
 | Sunrise | 06:42:33 |
-| Dhuhr (Noon) | 12:35:29 |
-| Medium Coeli | 12:35:29 |
+| Dhuhr (Noon) | 12:35:28 |
+| Medium Coeli | 12:35:28 |
 | Sunset | 18:28:09 |
 | Maghrib | 18:29:13 |
 | Isha (Night) | 19:37:38 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:22:29 |
 | Sunrise | 06:42:33 |
-| Dhuhr (Noon) | 12:35:29 |
-| Medium Coeli | 12:35:29 |
+| Dhuhr (Noon) | 12:35:28 |
+| Medium Coeli | 12:35:28 |
 | Sunset | 18:28:09 |
 | Maghrib | 18:29:13 |
 | Isha (Night) | 19:39:44 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:28:50 |
 | Sunrise | 06:42:33 |
-| Dhuhr (Noon) | 12:35:29 |
-| Medium Coeli | 12:35:29 |
+| Dhuhr (Noon) | 12:35:28 |
+| Medium Coeli | 12:35:28 |
 | Sunset | 18:28:09 |
 | Maghrib | 18:29:13 |
 | Isha (Night) | 19:41:51 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:26:43 |
 | Sunrise | 06:42:33 |
-| Dhuhr (Noon) | 12:35:29 |
-| Medium Coeli | 12:35:29 |
+| Dhuhr (Noon) | 12:35:28 |
+| Medium Coeli | 12:35:28 |
 | Sunset | 18:28:09 |
 | Maghrib | 18:29:13 |
 | Isha (Night) | 19:59:13 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°47'37.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°52'44.64" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°6'46.75" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|21°20'49.20" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|0°41'39.95" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|11°17'11.62" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|0°7'14.60" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|26°47'37.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°52'44.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°6'46.69" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|21°20'49.17" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|0°41'39.90" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|11°17'11.98" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|29°51'5.47" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Mars|Mars|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Mercury|Saturn|Virgo|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°47'37.06" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°52'44.64" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|15°6'46.75" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|21°20'49.20" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|0°41'39.95" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|11°17'11.62" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°7'14.60" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|26°47'37.02" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°52'44.44" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|15°6'46.69" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|21°20'49.17" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|0°41'39.90" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|11°17'11.60" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|0°7'14.43" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

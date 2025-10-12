@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:50:58 |
 | Medium Coeli | 12:50:58 |
 | Sunset | 18:53:35 |
-| Maghrib | 18:54:29 |
+| Maghrib | 18:54:30 |
 | Isha (Night) | 19:51:46 |
 | Sharia Midnight | 00:21:45 |
 | Imum Coeli | 00:50:51 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:50:58 |
 | Medium Coeli | 12:50:58 |
 | Sunset | 18:53:35 |
-| Maghrib | 18:54:29 |
-| Isha (Night) | 20:24:29 |
+| Maghrib | 18:54:30 |
+| Isha (Night) | 20:24:30 |
 | Sharia Midnight | 00:14:41 |
 | Imum Coeli | 00:50:51 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°45'36.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°55'22.30" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°27'46.85" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|21°50'45.22" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|1°19'10.44" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|11°59'24.90" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|6°54'30.09" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|26°45'36.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°55'22.10" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°27'46.79" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|21°50'45.19" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|1°19'10.40" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|11°59'24.89" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|6°54'29.97" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°45'36.65" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°55'22.10" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°55'22.10" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|15°27'46.79" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|21°50'45.19" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|1°19'10.40" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|11°59'24.90" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|6°54'30.09" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|1°19'10.55" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|11°59'24.84" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|6°56'51.05" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:05:09 |
+| Fajr (Dawn) | 05:05:10 |
 | Sunrise | 06:37:59 |
 | Dhuhr (Noon) | 12:18:08 |
 | Medium Coeli | 12:18:08 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°41'51.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°0'13.16" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°7'31.43" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|22°47'22.26" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|2°30'5.90" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|13°18'35.05" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|19°31'21.10" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|24°0'13.15" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°7'31.47" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|22°47'22.35" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|2°30'5.94" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|13°18'35.12" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|19°31'19.42" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°41'51.38" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°0'13.15" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|16°7'31.47" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|22°47'22.35" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|2°30'5.94" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|13°18'35.12" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|19°31'19.42" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|26°41'51.35" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°0'12.96" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|16°7'31.37" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|22°47'22.24" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|2°30'5.86" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|13°18'35.03" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|19°31'21.08" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

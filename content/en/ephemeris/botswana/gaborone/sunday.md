@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:02:48 |
 | Medium Coeli | 12:02:48 |
 | Sunset | 18:20:28 |
-| Maghrib | 18:25:12 |
+| Maghrib | 18:25:11 |
 | Isha (Night) | 19:34:54 |
 | Sharia Midnight | 23:22:59 |
 | Imum Coeli | 00:02:40 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:02:48 |
 | Medium Coeli | 12:02:48 |
 | Sunset | 18:20:28 |
-| Maghrib | 18:25:12 |
+| Maghrib | 18:25:11 |
 | Isha (Night) | 19:25:42 |
 | Sharia Midnight | 23:29:54 |
 | Imum Coeli | 00:02:40 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:02:48 |
 | Medium Coeli | 12:02:48 |
 | Sunset | 18:20:28 |
-| Maghrib | 18:25:12 |
+| Maghrib | 18:25:11 |
 | Isha (Night) | 19:37:12 |
 | Sharia Midnight | 23:19:31 |
 | Imum Coeli | 00:02:40 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:02:48 |
 | Medium Coeli | 12:02:48 |
 | Sunset | 18:20:28 |
-| Maghrib | 18:25:12 |
+| Maghrib | 18:25:11 |
 | Isha (Night) | 19:39:31 |
 | Sharia Midnight | 23:22:59 |
 | Imum Coeli | 00:02:40 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°56'55.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°40'16.09" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|23°40'16.09" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|13°31'28.19" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|19°4'46.18" |Virgo|Simak|Venus|
 |♀ Venus|Direct|27°51'13.35" |Leo|Sarfrah|Mars|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°56'55.00" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°40'16.09" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°40'16.09" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|13°31'28.19" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|19°4'46.18" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|27°51'13.35" |Virgo|Simak|Mercury|

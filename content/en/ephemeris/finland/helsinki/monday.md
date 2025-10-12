@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°52'37.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°46'5.05" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°15'3.49" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|20°7'1.18" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|29°9'13.01" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°31'58.02" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|14°0'29.97" |Gemini|HanAh|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°46'3.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°14'58.25" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|20°6'45.91" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|29°9'3.10" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°31'56.01" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|12°53'35.24" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Venus|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°52'37.62" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°46'5.05" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°15'3.49" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|20°7'1.18" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|29°9'13.01" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|9°32'6.53" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|12°57'47.01" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|26°52'37.58" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°46'4.85" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°15'3.42" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|20°7'1.14" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|29°9'12.96" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|9°32'6.50" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|12°57'46.75" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

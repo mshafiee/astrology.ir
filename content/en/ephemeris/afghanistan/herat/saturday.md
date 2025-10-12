@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:51:52 |
 | Maghrib | 17:57:04 |
 | Isha (Night) | 19:14:10 |
-| Sharia Midnight | 23:21:59 |
+| Sharia Midnight | 23:21:58 |
 | Imum Coeli | 00:07:47 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°1'22.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|23°34'6.08" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°46'44.98" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|18°0'52.05" |Virgo|Simak|Venus|
-|♀ Venus|Direct|26°31'6.72" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°29'8.59" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°9'32.84" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|27°1'22.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°34'5.88" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°46'44.91" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|18°0'52.00" |Virgo|Simak|Venus|
+|♀ Venus|Direct|26°31'6.67" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|6°29'8.56" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|12°9'32.65" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|27°1'22.65" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|23°34'6.08" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|12°46'44.98" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|18°0'52.05" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|26°31'6.72" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|6°29'8.59" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°9'32.84" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|27°1'22.60" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°34'5.88" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|12°46'44.91" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|18°0'52.00" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|26°31'6.67" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|6°29'8.56" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|12°9'32.65" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
