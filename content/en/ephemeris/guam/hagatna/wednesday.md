@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:07:39 |
-| Sunrise | 06:11:24 |
+| Sunrise | 06:11:23 |
 | Dhuhr (Noon) | 12:06:48 |
 | Medium Coeli | 12:06:48 |
 | Sunset | 18:02:02 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:11:46 |
-| Sunrise | 06:11:24 |
+| Sunrise | 06:11:23 |
 | Dhuhr (Noon) | 12:06:48 |
 | Medium Coeli | 12:06:48 |
 | Sunset | 18:02:02 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:53:12 |
-| Sunrise | 06:11:24 |
+| Sunrise | 06:11:23 |
 | Dhuhr (Noon) | 12:06:48 |
 | Medium Coeli | 12:06:48 |
 | Sunset | 18:02:02 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:59:23 |
-| Sunrise | 06:11:23 |
+| Sunrise | 06:11:24 |
 | Dhuhr (Noon) | 12:06:48 |
 | Medium Coeli | 12:06:48 |
 | Sunset | 18:02:02 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:50:38|Night duration: 12:09:30|
+|Duration of the day: 11:50:39|Night duration: 12:09:30|
 |Every hour of day duration: 00:59:13|Every hour of night duration: 01:00:47|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:11:24|07:10:36|Acceptance of needs|
-|2|Moon|Servant|07:10:37|08:09:49|Unfortunate, no task is suitable|
-|3|Saturn|Servant|08:09:50|09:09:02|For overcoming diseases|
-|4|Jupiter|Servant|09:09:03|10:08:15|For all tasks, extremely auspicious|
+|1|Mercury|Ruler|06:11:23|07:10:35|Acceptance of needs|
+|2|Moon|Servant|07:10:36|08:09:48|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:09:49|09:09:01|For overcoming diseases|
+|4|Jupiter|Servant|09:09:02|10:08:15|For all tasks, extremely auspicious|
 |5|Mars|Servant|10:08:16|11:07:28|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:07:29|12:06:42|Outer and inner journey|
-|7|Venus|Servant|12:06:43|13:05:55|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|13:05:56|14:05:08|Being invisible to the people|
+|6|Sun|Servant|11:07:29|12:06:41|Outer and inner journey|
+|7|Venus|Servant|12:06:42|13:05:54|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|13:05:55|14:05:08|Being invisible to the people|
 |9|Moon|Servant|14:05:09|15:04:21|Separation, causing enmity|
 |10|Saturn|Servant|15:04:22|16:03:34|Dominating the great ones|
 |11|Jupiter|Servant|16:03:35|17:02:47|Creating financial and emotional attraction and dominance|

@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:08:34 |
 | Sunset | 18:22:14 |
 | Maghrib | 18:25:16 |
-| Isha (Night) | 19:23:30 |
+| Isha (Night) | 19:23:31 |
 | Sharia Midnight | 23:37:43 |
 | Imum Coeli | 00:08:28 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°44'26.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|23°56'53.69" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°40'8.75" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|22°8'21.86" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|1°41'15.04" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|12°24'9.08" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|10°49'13.48" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|26°44'26.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|23°56'53.89" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°40'8.80" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|22°8'21.88" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|1°41'15.08" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|12°24'9.10" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|10°49'13.57" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°44'26.30" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|23°56'53.69" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|15°40'8.75" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|22°8'21.86" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|1°41'15.04" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|12°24'9.08" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°19'13.81" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|26°44'26.34" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|23°56'53.89" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|15°40'8.80" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|22°8'21.88" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|1°41'15.08" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|12°24'9.10" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|10°49'13.57" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
