@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°28'32.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°16'40.50" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°33'46.44" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|26°15'17.93" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|6°50'30.43" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|18°1'13.53" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°34'9.01" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°16'38.56" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°33'44.74" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|26°15'9.29" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|6°50'23.47" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|18°1'9.63" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°21'16.72" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Sun|Cancer|Sun|Moon|
 |♀ Venus|Moon|Jupiter|Scorpio|Moon|Venus|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°28'32.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°16'38.48" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°33'44.63" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|26°15'8.89" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°50'23.22" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|18°1'9.35" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°18'45.74" |Libra|Ghafr|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°16'38.56" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°33'44.74" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|26°15'9.29" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°50'23.47" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|18°1'9.63" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°21'16.72" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
