@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:15:26 |
 | Medium Coeli | 13:15:26 |
 | Sunset | 18:41:59 |
-| Maghrib | 18:43:30 |
-| Isha (Night) | 20:13:30 |
+| Maghrib | 18:43:31 |
+| Isha (Night) | 20:13:31 |
 | Sharia Midnight | 00:25:49 |
 | Imum Coeli | 01:15:20 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°32'51.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°11'28.80" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°45'27.31" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°6'40.30" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°24'34.51" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|16°29'25.54" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|19°19'15.14" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|24°11'28.80" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°45'25.54" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|25°6'33.36" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°24'29.32" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|16°29'21.72" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|18°25'49.99" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
+|☾ Moon|Mercury|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°32'51.16" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°11'28.80" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|24°11'28.80" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|17°45'27.31" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|25°6'40.30" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|5°24'34.51" |Libra|Ghafr|Moon|

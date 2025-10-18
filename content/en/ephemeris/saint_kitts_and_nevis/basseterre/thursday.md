@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:48:26 |
 | Maghrib | 17:49:22 |
 | Isha (Night) | 19:19:22 |
-| Sharia Midnight | 23:18:37 |
+| Sharia Midnight | 23:18:36 |
 | Imum Coeli | 23:56:15 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°35'58.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°7'37.90" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°11'0.52" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|24°17'42.63" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|4°23'14.99" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|15°23'0.56" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|9°1'32.20" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|26°35'58.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°7'37.70" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°11'0.42" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|24°17'42.65" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|4°23'15.04" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|15°23'0.48" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|9°3'16.58" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°35'58.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°7'37.84" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°11'0.52" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|24°17'42.63" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|4°23'14.99" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|15°23'0.56" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|9°1'32.20" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|26°35'58.60" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°7'37.70" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°11'0.42" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|24°17'42.65" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|4°23'15.04" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|15°23'0.48" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|9°3'16.58" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
