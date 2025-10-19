@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:10:03 |
 | Maghrib | 18:11:37 |
 | Isha (Night) | 19:48:08 |
-| Sharia Midnight | 00:15:55 |
+| Sharia Midnight | 00:15:54 |
 | Imum Coeli | 01:04:32 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°21'47.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°24'33.21" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°51'48.94" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|28°5'58.33" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|9°9'4.57" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|20°25'53.37" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|25°54'11.57" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|26°21'47.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°24'33.01" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°51'48.89" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|28°5'58.32" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|9°9'4.54" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|20°25'53.36" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|25°54'11.22" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°21'47.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°24'33.21" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°51'48.94" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°5'58.33" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°9'4.57" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|20°25'53.37" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|25°54'11.57" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|26°21'47.55" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°24'33.01" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°51'48.89" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°5'58.32" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°9'4.54" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|20°25'53.36" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|25°54'11.22" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

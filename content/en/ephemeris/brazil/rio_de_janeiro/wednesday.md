@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°32'42.74" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|21°20'7.98" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|0°10'59.65" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°45'34.11" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°3'35.52" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|20°15'38.46" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|11°45'26.17" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°3'26.88" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|19°11'55.06" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mars|Mars|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°14'27.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°32'44.08" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|21°20'6.09" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|0°10'57.69" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°45'34.11" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|23°3'35.52" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°15'38.46" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Direct|24°32'42.74" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°20'7.98" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|0°10'59.65" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°45'33.95" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|23°3'39.56" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°40'59.90" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

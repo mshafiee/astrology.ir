@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°25'20.86" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|20°0'3.24" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|28°17'38.88" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|9°23'33.22" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|20°40'41.20" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|26°46'16.66" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|9°23'41.52" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|20°40'53.27" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|28°14'54.18" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°21'5.69" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°25'20.94" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°59'57.48" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°17'24.38" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°23'33.19" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|20°40'41.19" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|26°21'5.63" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°25'20.86" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°59'57.53" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°17'24.39" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°23'33.22" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|20°40'41.20" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|26°46'16.66" |Libra|Akleel|Jupiter|
 
 
