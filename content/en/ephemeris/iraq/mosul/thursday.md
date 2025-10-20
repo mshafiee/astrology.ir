@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:04:21 |
-| Sunrise | 06:21:46 |
+| Sunrise | 06:21:47 |
 | Dhuhr (Noon) | 11:51:50 |
 | Medium Coeli | 11:51:50 |
 | Sunset | 17:21:23 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:55:54 |
-| Sunrise | 06:21:46 |
+| Sunrise | 06:21:47 |
 | Dhuhr (Noon) | 11:51:50 |
 | Medium Coeli | 11:51:50 |
 | Sunset | 17:21:23 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:46:58 |
-| Sunrise | 06:21:46 |
+| Sunrise | 06:21:47 |
 | Dhuhr (Noon) | 11:51:50 |
 | Medium Coeli | 11:51:50 |
 | Sunset | 17:21:23 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:54:25 |
-| Sunrise | 06:21:46 |
+| Sunrise | 06:21:47 |
 | Dhuhr (Noon) | 11:51:50 |
 | Medium Coeli | 11:51:50 |
 | Sunset | 17:21:23 |
@@ -210,24 +210,24 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:59:37|Night duration: 13:01:20|
+|Duration of the day: 10:59:36|Night duration: 13:01:20|
 |Every hour of day duration: 00:54:58|Every hour of night duration: 01:05:07|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:21:46|07:16:43|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|07:16:44|08:11:41|Destruction of enemies|
-|3|Sun|Servant|08:11:42|09:06:39|Attraction of financial and emotional love|
-|4|Venus|Servant|09:06:40|10:01:37|Creating love, connection and marriage|
-|5|Mercury|Servant|10:01:38|10:56:35|Indulgence|
-|6|Moon|Servant|10:56:36|11:51:33|Outer and inner journey|
-|7|Saturn|Servant|11:51:34|12:46:31|Achieving status and power|
-|8|Jupiter|Ruler|12:46:32|13:41:29|Attraction of happiness and fortune|
-|9|Mars|Servant|13:41:30|14:36:27|Reaching status and promotion|
-|10|Sun|Servant|14:36:28|15:31:25|Fulfilling needs|
-|11|Venus|Servant|15:31:26|16:26:23|Attraction of love and hearts|
-|12|Mercury|Servant|16:26:24|17:21:22|Attracting misfortune, not suitable for any task|
+|1|Jupiter|Ruler|06:21:47|07:16:44|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|07:16:45|08:11:42|Destruction of enemies|
+|3|Sun|Servant|08:11:43|09:06:40|Attraction of financial and emotional love|
+|4|Venus|Servant|09:06:41|10:01:38|Creating love, connection and marriage|
+|5|Mercury|Servant|10:01:39|10:56:36|Indulgence|
+|6|Moon|Servant|10:56:37|11:51:34|Outer and inner journey|
+|7|Saturn|Servant|11:51:35|12:46:32|Achieving status and power|
+|8|Jupiter|Ruler|12:46:33|13:41:30|Attraction of happiness and fortune|
+|9|Mars|Servant|13:41:31|14:36:28|Reaching status and promotion|
+|10|Sun|Servant|14:36:29|15:31:26|Fulfilling needs|
+|11|Venus|Servant|15:31:27|16:26:24|Attraction of love and hearts|
+|12|Mercury|Servant|16:26:25|17:21:22|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:59:37|Night duration: 13:01:20|
+|Duration of the day: 10:59:36|Night duration: 13:01:20|
 |Every hour duration: 01:34:14|Every hour duration: 01:51:37|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:21:46|07:55:58|
-|Mid-morning|Mars|Servant|07:55:59|09:30:12|
-|Late morning|Sun|Servant|09:30:13|11:04:26|
-|Noon|Venus|Servant|11:04:27|12:38:40|
+|Early morning|Jupiter|Ruler|06:21:47|07:55:59|
+|Mid-morning|Mars|Servant|07:56:00|09:30:13|
+|Late morning|Sun|Servant|09:30:14|11:04:27|
+|Noon|Venus|Servant|11:04:28|12:38:40|
 |Early afternoon|Mercury|Servant|12:38:41|14:12:54|
 |Mid-afternoon|Moon|Servant|14:12:55|15:47:08|
 |Late afternoon|Saturn|Servant|15:47:09|17:21:22|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°15'9.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°31'57.19" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°11'35.59" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|29°58'55.89" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|11°30'26.77" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|22°48'42.48" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|18°29'46.28" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|26°15'9.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°31'57.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°11'35.67" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|29°58'55.95" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|11°30'26.85" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|22°48'42.55" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|18°29'46.22" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°15'9.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°31'57.19" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|21°11'35.59" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|29°58'55.89" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°30'26.77" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|22°48'42.48" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|18°29'46.28" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|26°15'9.30" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°31'57.24" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°11'35.87" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|29°58'56.12" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°30'26.81" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|22°48'42.96" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|18°32'11.94" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

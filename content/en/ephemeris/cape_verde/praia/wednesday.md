@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°14'34.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°32'35.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°18'47.57" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|0°9'7.02" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|11°43'11.39" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°1'19.30" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|20°32'13.25" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|24°32'36.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°18'44.82" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|0°9'2.91" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°43'10.25" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°1'13.53" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|19°55'10.82" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mars|Mars|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°14'34.16" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°32'35.55" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°32'35.55" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|21°18'47.57" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|0°9'3.61" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|11°43'10.38" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|23°1'14.59" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°1'43.26" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|0°9'7.02" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|11°43'11.39" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|23°1'19.30" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°32'13.25" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

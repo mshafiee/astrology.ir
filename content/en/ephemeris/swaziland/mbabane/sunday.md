@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:55:25 |
+| Fajr (Dawn) | 03:55:24 |
 | Sunrise | 05:16:46 |
 | Dhuhr (Noon) | 11:40:24 |
 | Medium Coeli | 11:40:24 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:55:24 |
+| Fajr (Dawn) | 03:55:25 |
 | Sunrise | 05:16:46 |
 | Dhuhr (Noon) | 11:40:24 |
 | Medium Coeli | 11:40:24 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°29'30.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°15'32.05" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°15'32.05" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|18°22'58.94" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|25°59'57.58" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|6°31'19.72" |Virgo|Awwa|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°29'30.12" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°15'32.05" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°22'58.94" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|25°59'57.58" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|6°31'19.72" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|17°40'51.88" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°10'37.56" |Libra|Ghafr|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°15'33.71" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°22'55.01" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|25°59'50.89" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|6°31'17.40" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|17°40'44.08" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|29°58'10.19" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Mercury|Sun|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Leo|Moon|Moon|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}

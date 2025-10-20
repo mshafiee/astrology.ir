@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°22'21.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°23'57.32" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°45'21.65" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|27°56'46.11" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|8°57'41.84" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|20°14'4.99" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|23°3'14.14" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|26°22'19.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°23'55.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°45'27.37" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|27°56'58.18" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|8°57'47.71" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|20°14'16.80" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°12'6.76" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Mars|Saturn|Venus|Moon|
+|☾ Moon|Mars|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
+|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°22'19.90" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°23'55.92" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°23'55.92" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°45'27.37" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|27°56'58.18" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|8°57'47.71" |Libra|Ghafr|Moon|
