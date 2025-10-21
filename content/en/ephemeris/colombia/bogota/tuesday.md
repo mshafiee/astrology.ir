@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°17'33.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°29'19.15" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|20°42'9.66" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|29°17'10.71" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|10°38'22.44" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|21°56'37.28" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|8°38'38.57" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|26°17'33.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°29'18.62" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°42'16.20" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|29°17'26.37" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°38'31.12" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|21°56'51.08" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|10°16'46.41" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Moon|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°17'33.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°29'18.62" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|24°29'18.62" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|20°42'16.20" |Scorpio|Qalb|Venus|
 |☉ Sun|Direct|29°17'26.37" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|10°38'31.12" |Libra|Ghafr|Saturn|

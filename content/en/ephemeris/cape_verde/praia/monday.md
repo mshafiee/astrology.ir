@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°21'34.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°24'48.13" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°24'48.13" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°54'24.42" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|28°9'39.43" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|9°13'40.44" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|20°30'37.01" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|26°47'7.99" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|28°9'36.09" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|9°13'39.53" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|20°30'32.53" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|26°28'31.61" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
+|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°21'34.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°24'48.13" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°54'24.42" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°9'39.43" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|9°13'40.44" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|20°30'37.01" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|26°47'7.99" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|26°21'34.27" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°24'48.32" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°54'24.47" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°9'39.44" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|9°13'40.47" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|20°30'37.02" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|26°47'8.33" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
