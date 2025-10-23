@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:30 |
-| Sunrise | 06:51:08 |
+| Sunrise | 06:51:09 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
 | Sunset | 17:05:08 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:17:41 |
-| Sunrise | 06:51:09 |
+| Sunrise | 06:51:08 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
 | Sunset | 17:05:08 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:30 |
-| Sunrise | 06:51:09 |
+| Sunrise | 06:51:08 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
 | Sunset | 17:05:08 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:14:00|Night duration: 13:47:44|
+|Duration of the day: 10:13:59|Night duration: 13:47:44|
 |Every hour of day duration: 00:51:10|Every hour of night duration: 01:08:59|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:51:08|07:42:17|Attraction of material wealth, earning and prosperity|
+|1|Jupiter|Ruler|06:51:09|07:42:17|Attraction of material wealth, earning and prosperity|
 |2|Mars|Servant|07:42:18|08:33:27|Destruction of enemies|
 |3|Sun|Servant|08:33:28|09:24:37|Attraction of financial and emotional love|
 |4|Venus|Servant|09:24:38|10:15:47|Creating love, connection and marriage|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°15'22.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°31'43.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°8'55.84" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|29°55'9.37" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|11°25'43.92" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|22°44'1.64" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|17°39'34.93" |Libra|Jubana|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|24°31'43.01" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°8'56.16" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|29°55'9.83" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|11°25'44.01" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|22°44'2.33" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|17°43'50.18" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°15'22.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°31'43.71" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|21°8'55.11" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|29°55'9.09" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°25'44.30" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|22°44'0.33" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°33'23.89" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°31'43.18" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°8'55.84" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|29°55'9.37" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°25'43.92" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|22°44'1.64" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°39'34.93" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:41:20 |
 | Sunrise | 05:52:51 |
-| Dhuhr (Noon) | 11:50:32 |
-| Medium Coeli | 11:50:32 |
+| Dhuhr (Noon) | 11:50:33 |
+| Medium Coeli | 11:50:33 |
 | Sunset | 17:48:09 |
 | Maghrib | 17:50:30 |
 | Isha (Night) | 18:55:36 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:41:20 |
 | Sunrise | 05:52:51 |
-| Dhuhr (Noon) | 11:50:32 |
-| Medium Coeli | 11:50:32 |
+| Dhuhr (Noon) | 11:50:33 |
+| Medium Coeli | 11:50:33 |
 | Sunset | 17:48:09 |
 | Maghrib | 17:50:30 |
 | Isha (Night) | 18:59:42 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:39:17 |
 | Sunrise | 05:52:51 |
-| Dhuhr (Noon) | 11:50:32 |
-| Medium Coeli | 11:50:32 |
+| Dhuhr (Noon) | 11:50:33 |
+| Medium Coeli | 11:50:33 |
 | Sunset | 17:48:09 |
 | Maghrib | 17:50:30 |
 | Isha (Night) | 19:20:30 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°8'4.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°39'25.97" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°40'38.22" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|2°4'45.99" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°7'53.90" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|25°21'11.08" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|13°16'33.53" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|26°8'4.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°39'26.16" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°40'38.28" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|2°4'46.01" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°7'53.93" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|25°21'11.10" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|13°16'32.63" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°8'4.77" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°39'25.97" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|22°40'38.22" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|2°4'45.99" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°7'53.90" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|25°21'11.08" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°8'4.83" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°39'26.16" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|22°40'38.28" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|2°4'46.01" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°7'53.93" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|25°21'11.10" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|13°16'32.63" |Sagittarius|NaAaem|Moon|
 
 

@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:43:38 |
+| Fajr (Dawn) | 05:43:37 |
 | Sunrise | 06:46:40 |
 | Dhuhr (Noon) | 12:48:56 |
 | Medium Coeli | 12:48:56 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°2'36.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°44'54.62" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°52'53.83" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°46'42.13" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|16°15'26.69" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|27°18'40.30" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|2°54'40.67" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|26°2'36.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°44'53.53" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°52'55.07" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°46'43.65" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|16°15'26.80" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|27°18'43.22" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|3°22'8.56" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Sun|Mercury|Leo|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°2'36.28" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°44'53.72" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°44'53.72" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°52'55.12" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°46'43.67" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|16°15'26.84" |Libra|Jubana|Saturn|

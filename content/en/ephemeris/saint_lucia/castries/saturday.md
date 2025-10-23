@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'17.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°43'14.48" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°30'13.64" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°14'43.96" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°35'26.03" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°42'28.60" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|26°57'50.72" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|24°43'14.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°30'14.04" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°14'44.89" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°35'26.49" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°42'29.54" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|27°3'52.48" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'17.80" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°43'14.48" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°30'13.64" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°14'43.96" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°35'26.03" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°42'28.60" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|26°57'50.72" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|24°43'13.26" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°30'14.30" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°14'43.10" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°35'24.42" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°42'30.15" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|27°24'35.02" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
