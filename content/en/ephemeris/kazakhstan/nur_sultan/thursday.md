@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:11:18 |
-| Sunrise | 06:51:08 |
+| Sunrise | 06:51:09 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
 | Sunset | 17:05:08 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:00:25 |
-| Sunrise | 06:51:08 |
+| Sunrise | 06:51:09 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
 | Sunset | 17:05:08 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:17:41 |
-| Sunrise | 06:51:08 |
+| Sunrise | 06:51:09 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
 | Sunset | 17:05:08 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:58:30 |
-| Sunrise | 06:51:08 |
+| Sunrise | 06:51:09 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
 | Sunset | 17:05:08 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:55:18 |
-| Sunrise | 06:51:08 |
+| Sunrise | 06:51:09 |
 | Dhuhr (Noon) | 11:58:32 |
 | Medium Coeli | 11:58:32 |
 | Sunset | 17:05:08 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:14:00|Night duration: 13:47:44|
+|Duration of the day: 10:13:59|Night duration: 13:47:44|
 |Every hour duration: 01:27:43|Every hour duration: 01:58:15|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:51:08|08:18:49|
-|Mid-morning|Mars|Servant|08:18:50|09:46:32|
-|Late morning|Sun|Servant|09:46:33|11:14:15|
-|Noon|Venus|Servant|11:14:16|12:41:58|
+|Early morning|Jupiter|Ruler|06:51:09|08:18:50|
+|Mid-morning|Mars|Servant|08:18:51|09:46:33|
+|Late morning|Sun|Servant|09:46:34|11:14:16|
+|Noon|Venus|Servant|11:14:17|12:41:58|
 |Early afternoon|Mercury|Servant|12:41:59|14:09:41|
 |Mid-afternoon|Moon|Servant|14:09:42|15:37:24|
 |Late afternoon|Saturn|Servant|15:37:25|17:05:07|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°15'22.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°31'43.01" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°8'56.16" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|29°55'9.83" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|11°25'44.01" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|22°44'2.33" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|17°43'50.18" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|24°31'43.18" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°8'55.84" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|29°55'9.37" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|11°25'43.92" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|22°44'1.64" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|17°39'34.93" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°15'22.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°31'43.18" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|21°8'55.84" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|29°55'9.37" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°25'43.92" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|22°44'1.64" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°39'34.93" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|24°31'43.01" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°8'56.16" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|29°55'9.83" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°25'44.01" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|22°44'2.33" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°43'50.18" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

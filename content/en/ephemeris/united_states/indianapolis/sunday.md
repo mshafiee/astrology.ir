@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:34:59 |
+| Fajr (Dawn) | 06:34:58 |
 | Sunrise | 08:06:54 |
 | Dhuhr (Noon) | 13:28:33 |
 | Medium Coeli | 13:28:33 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°0'51.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°46'33.61" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°16'33.87" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|4°20'2.79" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|16°57'7.25" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|27°55'47.95" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|9°59'30.72" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|24°46'33.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°16'34.00" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|4°20'2.69" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|16°57'7.00" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|27°55'48.27" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|10°5'10.14" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Mercury|Pisces|Sun|Moon|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°0'51.99" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°46'33.61" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|24°46'33.61" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|24°16'33.87" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|4°20'2.79" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|16°57'7.25" |Libra|Jubana|Saturn|

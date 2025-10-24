@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°58'59.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°48'19.74" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°42'24.60" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|4°56'27.16" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|17°42'40.59" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|28°35'28.25" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|16°51'45.64" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|24°48'18.93" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°42'25.89" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|4°56'28.90" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|17°42'40.94" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|28°35'31.28" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|17°18'29.93" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Jupiter|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mars|Mars|Mercury|Sun|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°58'59.64" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°48'18.93" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|24°48'18.93" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|24°42'25.89" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|4°56'28.90" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|17°42'40.94" |Libra|Jubana|Saturn|

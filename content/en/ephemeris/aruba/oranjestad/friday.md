@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°7'26.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°40'5.38" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°48'43.72" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|2°16'4.10" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°22'13.41" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|25°34'34.74" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|14°9'3.26" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|24°40'3.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°48'49.01" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|2°16'15.04" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°22'18.73" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|25°34'46.28" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|15°26'10.94" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Aquarius|Moon|Venus|
 |☿ Mercury|Mars|Venus|Leo|Moon|Moon|
-|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°7'26.80" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°40'4.97" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|22°48'50.41" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|2°16'20.80" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°22'23.05" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|25°34'49.33" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|15°33'49.11" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|26°7'26.74" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°40'4.78" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|22°48'50.36" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|2°16'20.78" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°22'23.01" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|25°34'49.31" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|15°33'49.96" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

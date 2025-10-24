@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:02:08 |
 | Sunset | 17:40:23 |
 | Maghrib | 17:58:04 |
-| Isha (Night) | 18:40:47 |
+| Isha (Night) | 18:40:48 |
 | Sharia Midnight | 23:23:45 |
 | Imum Coeli | 00:02:06 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°59'2.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°48'16.35" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°41'49.83" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|4°55'38.20" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|17°41'37.51" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|28°34'36.60" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|17°8'19.70" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|24°48'16.35" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°41'49.86" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|4°55'38.22" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|17°41'37.56" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|28°34'36.58" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|17°7'44.45" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°59'2.16" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°48'16.35" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|24°41'49.83" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|4°55'38.20" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°41'37.51" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|28°34'36.60" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°8'19.70" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|25°59'2.22" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°48'16.54" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|24°41'49.88" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|4°55'38.21" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°41'37.54" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|28°34'36.62" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°8'19.76" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
