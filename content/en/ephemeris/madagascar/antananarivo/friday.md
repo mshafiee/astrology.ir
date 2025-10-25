@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 11:34:02 |
 | Medium Coeli | 11:34:02 |
 | Sunset | 17:54:04 |
-| Maghrib | 18:11:25 |
+| Maghrib | 18:11:24 |
 | Isha (Night) | 18:53:17 |
 | Sharia Midnight | 22:55:58 |
 | Imum Coeli | 23:33:58 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°11'54.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|26°11'54.74" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|24°35'26.65" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|21°51'52.05" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|0°55'51.80" |Libra|Ghafr|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°11'54.80" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°35'27.24" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|21°51'51.40" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|0°55'51.95" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|12°41'43.35" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|23°58'36.89" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|29°23'14.45" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|24°35'26.65" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°51'52.05" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|0°55'51.80" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|12°41'42.48" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|23°58'38.28" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|29°34'36.57" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

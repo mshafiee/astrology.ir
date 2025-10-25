@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:32:59 |
 | Dhuhr (Noon) | 11:50:42 |
 | Medium Coeli | 11:50:42 |
-| Sunset | 18:08:38 |
+| Sunset | 18:08:39 |
 | Maghrib | 18:23:33 |
 | Isha (Night) | 19:06:49 |
-| Sharia Midnight | 23:17:05 |
+| Sharia Midnight | 23:17:06 |
 | Imum Coeli | 23:50:40 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:32:59 |
 | Dhuhr (Noon) | 11:50:42 |
 | Medium Coeli | 11:50:42 |
-| Sunset | 18:08:38 |
+| Sunset | 18:08:39 |
 | Maghrib | 18:13:08 |
 | Isha (Night) | 19:11:12 |
 | Sharia Midnight | 23:19:17 |
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:32:59 |
 | Dhuhr (Noon) | 11:50:42 |
 | Medium Coeli | 11:50:42 |
-| Sunset | 18:08:38 |
+| Sunset | 18:08:39 |
 | Maghrib | 18:13:08 |
 | Isha (Night) | 19:22:10 |
 | Sharia Midnight | 23:09:23 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°1'58.97" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°45'29.58" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|24°1'21.47" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°58'36.64" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°30'19.39" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|27°32'1.98" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°42'39.34" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|24°45'29.87" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|24°1'21.50" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°58'36.81" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°30'19.60" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|27°32'1.95" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°40'31.63" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

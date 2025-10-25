@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:32:30 |
 | Dhuhr (Noon) | 11:50:38 |
 | Medium Coeli | 11:50:38 |
-| Sunset | 18:08:57 |
+| Sunset | 18:08:58 |
 | Maghrib | 18:23:54 |
 | Isha (Night) | 19:07:15 |
-| Sharia Midnight | 23:16:57 |
+| Sharia Midnight | 23:16:58 |
 | Imum Coeli | 23:50:35 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:32:30 |
 | Dhuhr (Noon) | 11:50:38 |
 | Medium Coeli | 11:50:38 |
-| Sunset | 18:08:57 |
+| Sunset | 18:08:58 |
 | Maghrib | 18:13:28 |
 | Isha (Night) | 19:20:25 |
 | Sharia Midnight | 23:12:33 |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:32:30 |
 | Dhuhr (Noon) | 11:50:38 |
 | Medium Coeli | 11:50:38 |
-| Sunset | 18:08:57 |
+| Sunset | 18:08:58 |
 | Maghrib | 18:13:28 |
 | Isha (Night) | 19:11:38 |
 | Sharia Midnight | 23:19:09 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:32:30 |
 | Dhuhr (Noon) | 11:50:38 |
 | Medium Coeli | 11:50:38 |
-| Sunset | 18:08:57 |
+| Sunset | 18:08:58 |
 | Maghrib | 18:13:28 |
 | Isha (Night) | 19:24:50 |
 | Sharia Midnight | 23:12:33 |
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|24°43'51.40" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|4°58'28.61" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|17°45'11.70" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|28°37'40.58" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°40'4.28" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|28°37'40.63" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°42'37.65" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

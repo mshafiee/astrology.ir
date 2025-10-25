@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|18:02:46|18:57:51|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|18:57:52|19:52:57|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Sun|Servant|19:52:58|20:48:04|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Sun|Servant|19:52:58|20:48:04|Operations of tenderness and attraction of love|
 |4|Venus|Servant|20:48:05|21:43:10|Unfortunate and repelling goodness|
 |5|Mercury|Servant|21:43:11|22:38:17|Separation, vengeful and hostile deeds|
 |6|Moon|Servant|22:38:18|23:33:23|Suitable for all good deeds|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°5'13.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'20.03" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°18'4.18" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|2°57'34.25" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°13'59.08" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°22'48.07" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|23°30'34.36" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|24°42'21.21" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°18'3.10" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|2°57'33.92" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°13'60.00" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°22'45.52" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|23°0'22.90" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

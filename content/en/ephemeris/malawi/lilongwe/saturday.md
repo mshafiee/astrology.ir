@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:28:54 |
 | Medium Coeli | 11:28:54 |
 | Sunset | 17:44:44 |
-| Maghrib | 17:49:13 |
+| Maghrib | 17:49:12 |
 | Isha (Night) | 18:46:29 |
 | Sharia Midnight | 22:57:53 |
 | Imum Coeli | 23:28:51 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:28:54 |
 | Medium Coeli | 11:28:54 |
 | Sunset | 17:44:44 |
-| Maghrib | 17:49:12 |
+| Maghrib | 17:49:13 |
 | Isha (Night) | 18:57:18 |
 | Sharia Midnight | 22:48:07 |
 | Imum Coeli | 23:28:51 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 11:28:54 |
 | Medium Coeli | 11:28:54 |
 | Sunset | 17:44:44 |
-| Maghrib | 17:49:12 |
+| Maghrib | 17:49:13 |
 | Isha (Night) | 18:59:28 |
 | Sharia Midnight | 22:51:23 |
 | Imum Coeli | 23:28:51 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 11:28:54 |
 | Sunset | 17:44:44 |
 | Maghrib | 17:49:13 |
-| Isha (Night) | 19:19:13 |
+| Isha (Night) | 19:19:12 |
 | Sharia Midnight | 22:50:18 |
 | Imum Coeli | 23:28:51 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°8'26.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°39'3.78" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°35'56.09" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|1°58'7.00" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|13°59'35.61" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|25°13'19.75" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|11°52'16.74" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|26°8'26.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°39'3.59" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°35'56.03" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|1°58'6.99" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|13°59'35.58" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|25°13'19.73" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|11°52'17.68" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

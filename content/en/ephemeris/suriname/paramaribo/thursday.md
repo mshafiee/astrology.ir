@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Sun|Servant|22:24:28|23:24:40|Indulgence|
 |6|Venus|Servant|23:24:41|00:24:53|Outer and inner journey|
 |7|Mercury|Servant|00:24:54|01:25:06|Achieving status and power|
-|8|Moon|Ruler|01:25:07|02:25:19|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Moon|Ruler|01:25:07|02:25:19|Attraction of happiness and fortune|
 |9|Saturn|Servant|02:25:20|03:25:32|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|03:25:33|04:25:45|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Mars|Servant|04:25:46|05:25:58|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°10'54.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°36'30.22" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°4'34.12" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|1°13'49.53" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|13°4'9.82" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|24°20'22.41" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°15'39.16" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|26°10'54.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|24°36'30.41" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°4'34.17" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|1°13'49.55" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|13°4'9.86" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|24°20'22.43" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°15'38.16" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°10'54.12" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°36'30.22" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|26°10'54.17" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°36'30.41" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|22°4'34.17" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|1°13'49.55" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|13°4'9.86" |Libra|Jubana|Saturn|
