@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Sofia
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 42.6975
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'58.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'34.12" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°21'16.59" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°2'6.58" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°19'38.35" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°28'0.85" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°31'50.64" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'32.58" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°21'14.73" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°1'57.91" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°19'31.66" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°27'56.74" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°37'51.31" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'58.30" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'34.12" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|26°4'58.36" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'34.12" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°21'16.59" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°2'6.58" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°19'38.35" |Libra|Jubana|Saturn|

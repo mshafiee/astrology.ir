@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Tallinn
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 59.4370
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'54.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'38.60" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°22'13.72" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°3'26.39" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°21'19.13" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°29'33.03" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°42'17.03" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'54.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'38.41" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°22'13.67" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°3'26.37" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°21'19.10" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°29'33.01" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°42'17.55" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'54.18" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'38.60" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'38.60" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°22'13.72" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°3'26.39" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°21'19.13" |Libra|Jubana|Saturn|

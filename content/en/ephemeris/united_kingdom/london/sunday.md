@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of London
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 51.5085
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'43.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'48.89" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'48.89" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°24'31.34" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°6'40.87" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°25'21.91" |Virgo|Awwa|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'43.72" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'50.53" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°24'27.19" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°6'33.38" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°25'18.83" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°33'6.79" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°17'36.40" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'48.89" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°24'31.34" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°6'40.87" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°25'21.91" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°33'16.01" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°23'32.30" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Jupiter|Saturn|Virgo|Sun|Sun|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

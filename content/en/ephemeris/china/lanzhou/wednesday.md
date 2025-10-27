@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°53'27.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°53'15.10" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°1'45.35" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|6°48'3.84" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°2'12.27" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|0°31'17.02" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°22'36.92" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Retrograde|25°53'27.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°53'16.19" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°1'38.68" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|6°47'48.44" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°2'3.95" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|0°31'1.21" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|9°52'44.42" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Sagittarius|Sun|Venus|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°53'27.21" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°53'15.29" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°53'15.29" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|26°1'45.06" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|6°48'3.80" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|20°2'12.55" |Libra|Jubana|Jupiter|

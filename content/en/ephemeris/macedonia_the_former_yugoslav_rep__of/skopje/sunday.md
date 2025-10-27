@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Skopje
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.9965
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'57.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'35.16" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°21'27.86" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°2'22.43" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°19'58.16" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°28'19.05" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°35'6.07" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'33.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°21'26.04" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°2'14.57" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°19'52.12" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°28'15.19" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°38'55.91" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'57.51" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'35.16" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°21'27.86" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°2'22.43" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°19'58.16" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°28'19.05" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°35'6.07" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'57.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'34.97" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°21'27.81" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°2'22.41" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°19'58.13" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°28'19.03" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°35'6.60" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Valencia
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 39.4697
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'46.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'46.21" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'46.21" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°23'55.37" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°5'50.57" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°24'18.44" |Virgo|Awwa|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'46.36" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'46.21" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'46.21" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°23'55.37" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°5'43.63" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°24'12.75" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°32'15.38" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°30'42.81" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|3°5'50.57" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°24'18.44" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°32'18.03" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°16'41.02" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

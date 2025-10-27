@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Monaco
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 43.7333
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'49.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'42.94" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°23'11.79" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°4'48.98" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°23'1.55" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°31'7.42" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|25°3'36.10" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'49.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'42.75" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°23'11.74" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°4'48.96" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°23'1.52" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°31'7.40" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|25°3'36.61" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'49.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'42.94" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°23'11.79" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°4'48.98" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°23'1.55" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°31'7.42" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°3'36.10" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'49.61" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'42.75" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°23'11.74" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°4'48.96" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°23'1.52" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°31'7.40" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°3'36.61" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

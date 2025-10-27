@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Tirana
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.3275
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'56.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'35.68" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'35.68" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°21'37.31" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°2'35.84" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°20'14.89" |Virgo|Awwa|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'56.73" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'35.68" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'35.68" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°21'37.31" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°2'28.80" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°20'12.21" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°28'25.43" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|23°31'29.98" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|3°2'35.84" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°20'14.89" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°28'34.45" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°37'53.89" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

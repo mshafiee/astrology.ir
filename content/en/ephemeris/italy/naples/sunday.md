@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Naples
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 40.8522
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'53.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'38.71" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'38.71" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°22'15.29" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°3'29.37" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°21'21.85" |Virgo|Awwa|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'53.92" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'38.71" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'38.71" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°22'15.29" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°3'29.37" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°21'21.85" |Libra|Jubana|Saturn|

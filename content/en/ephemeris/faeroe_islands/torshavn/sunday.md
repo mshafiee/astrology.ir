@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Torshavn
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 62.0097
 \-
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'36.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'56.57" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°26'14.07" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|26°4'36.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'56.38" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°26'14.02" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°9'5.24" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°28'23.20" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|26°36'1.84" |Libra|Akleel|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'36.08" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'56.57" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°26'14.07" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°9'5.24" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°28'23.20" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°36'1.84" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°48'14.02" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'56.57" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°26'14.02" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°9'5.23" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°28'23.17" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°36'1.82" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°48'14.50" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

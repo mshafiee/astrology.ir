@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Munich
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.1374
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'50.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'41.87" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°22'56.35" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°4'26.92" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°22'34.50" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°30'42.19" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°54'45.92" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'50.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'41.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°22'56.51" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°4'27.32" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°22'34.69" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°30'42.68" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°58'12.20" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'50.88" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'41.87" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°22'56.35" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°4'26.92" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°22'34.50" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°30'42.19" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°54'45.92" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'50.85" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'41.80" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°22'56.56" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°4'27.34" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°22'34.69" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°30'42.68" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°58'12.20" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

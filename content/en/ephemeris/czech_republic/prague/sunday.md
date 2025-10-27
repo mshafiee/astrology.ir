@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Prague
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 50.0880
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'51.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'40.79" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°22'43.10" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°4'8.27" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°22'10.58" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°30'22.09" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|25°8'11.21" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'51.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'40.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°22'43.05" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°4'8.25" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°22'10.91" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°30'20.82" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°53'51.55" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Sun|Venus|Leo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'51.88" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'40.79" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°22'43.10" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°4'8.27" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°22'10.94" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°30'20.84" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°53'51.03" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'51.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'40.61" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°22'43.05" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°4'8.25" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°22'11.70" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°30'20.50" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°46'12.13" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

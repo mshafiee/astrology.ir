@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Kharkiv
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 49.9808
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°5'3.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'29.16" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'29.16" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°20'8.07" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°0'29.61" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°17'37.41" |Virgo|Awwa|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°5'3.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'29.16" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'29.16" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°20'8.07" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°0'29.61" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°17'37.41" |Libra|Jubana|Saturn|

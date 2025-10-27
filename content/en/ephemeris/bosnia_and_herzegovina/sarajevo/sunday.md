@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Sarajevo
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 43.8486
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'55.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'37.19" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'37.19" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°21'55.04" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°3'0.71" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°20'46.12" |Virgo|Awwa|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'55.47" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'37.19" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'37.19" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°21'55.04" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°3'0.71" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°20'46.12" |Libra|Jubana|Saturn|

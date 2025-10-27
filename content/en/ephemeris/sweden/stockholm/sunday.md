@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Stockholm
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 59.3294
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'50.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'42.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°23'0.39" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°4'32.22" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°22'41.48" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°30'48.64" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°55'20.35" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'50.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'41.91" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°23'0.34" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°4'32.21" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°22'41.45" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°30'48.62" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°55'20.87" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'50.65" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'42.09" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°23'0.39" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°4'32.22" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°22'41.48" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°30'48.64" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°55'20.35" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'50.59" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'41.91" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°23'0.34" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°4'32.21" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°22'41.45" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°30'48.62" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°55'20.87" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

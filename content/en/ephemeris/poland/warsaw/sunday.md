@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Warsaw
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 52.2298
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'54.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'37.91" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°22'4.64" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°3'13.93" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°21'3.09" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°29'18.49" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°42'26.51" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'54.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'37.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°22'4.59" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°3'13.92" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°21'3.06" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°29'18.47" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°42'27.04" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'54.80" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'37.91" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°22'4.64" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°3'13.93" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°21'3.09" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°29'18.49" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°42'26.51" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'54.74" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'37.72" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°22'4.59" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°3'13.92" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°21'3.06" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°29'18.47" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°42'27.04" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

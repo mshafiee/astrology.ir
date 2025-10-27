@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Belgrade
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 44.8040
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'56.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'37.03" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°21'41.92" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°2'42.88" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°20'24.67" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°28'41.43" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°21'50.05" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'36.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°21'42.64" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°2'43.19" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°20'24.25" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°28'42.97" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°38'31.21" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'56.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'36.26" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'36.26" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°21'42.64" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°2'43.19" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°20'24.25" |Libra|Jubana|Saturn|

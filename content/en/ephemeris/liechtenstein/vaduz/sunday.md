@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Vaduz
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 47.1415
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'50.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'42.45" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°23'7.68" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°4'43.11" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°22'54.35" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°31'0.76" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|25°1'36.19" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'42.25" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°23'8.11" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°4'43.81" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°22'54.58" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°31'1.74" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|25°9'29.08" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'49.94" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'42.45" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'42.45" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°23'7.68" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°4'43.11" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°22'54.35" |Libra|Jubana|Saturn|

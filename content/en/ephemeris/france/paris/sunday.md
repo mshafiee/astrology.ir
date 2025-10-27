@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Paris
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.8534
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'45.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'48.10" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°24'2.27" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°6'0.52" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°24'33.50" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°32'28.08" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°43'21.46" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'45.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'46.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°24'3.96" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°6'2.36" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°24'33.60" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°32'31.76" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|25°16'44.08" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Sun|Venus|Leo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'45.77" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'48.10" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°24'2.27" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°6'0.52" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'46.85" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°24'3.96" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°6'2.36" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°24'33.60" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|26°32'31.76" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|25°16'44.08" |Sagittarius|Baldah|Saturn|

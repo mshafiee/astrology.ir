@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Bucharest
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 44.4323
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'59.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'33.18" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'33.18" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°21'1.58" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°1'45.29" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°19'11.80" |Virgo|Awwa|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'59.51" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'33.18" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'33.18" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°21'1.58" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°1'45.29" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°19'11.80" |Libra|Jubana|Saturn|

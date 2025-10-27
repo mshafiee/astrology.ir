@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Barcelona
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 41.3888
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'47.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'45.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°23'42.38" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°5'32.36" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°23'55.80" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°31'56.92" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|25°9'59.64" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'47.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'45.05" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°23'42.41" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°5'32.28" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°23'55.62" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°31'57.08" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|25°12'41.60" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'47.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'45.24" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°23'42.46" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°5'32.30" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°23'55.65" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°31'57.10" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°12'41.09" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'47.29" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'45.05" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°23'42.41" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°5'32.28" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°23'55.62" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°31'57.08" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°12'41.60" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Mariehamn
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 60.0973
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'51.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'41.46" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'41.46" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°22'51.93" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°4'20.25" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°22'26.56" |Virgo|Awwa|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'51.30" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'41.46" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'41.46" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°22'51.93" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°4'20.25" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°22'26.56" |Libra|Jubana|Saturn|

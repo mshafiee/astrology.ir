@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of San Marino
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 43.9367
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'52.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'40.36" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'40.36" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°22'37.26" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°4'0.26" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°22'0.61" |Virgo|Awwa|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'52.28" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'40.36" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°22'37.26" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°4'0.26" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°22'0.61" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°30'11.49" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°53'58.34" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'40.23" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°22'30.77" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°3'43.42" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°21'50.55" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°29'57.32" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°47'8.92" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

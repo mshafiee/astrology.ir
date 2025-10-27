@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Riga
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 56.9460
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'54.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'37.89" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°22'4.30" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°3'13.23" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°21'2.50" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°29'17.83" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°40'38.84" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'37.89" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°22'3.21" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°3'7.17" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°20'57.46" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°29'15.62" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°53'52.03" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'54.87" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'37.21" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°22'5.06" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°3'14.30" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°21'2.67" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°29'19.66" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°57'0.05" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'54.81" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'37.70" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°22'4.25" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°3'13.21" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°21'2.47" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°29'17.81" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°40'39.37" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

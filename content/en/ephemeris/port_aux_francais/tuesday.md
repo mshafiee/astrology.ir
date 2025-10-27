@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:02:54 |
 | Medium Coeli | 12:02:54 |
 | Sunset | 19:12:44 |
-| Maghrib | 19:14:12 |
+| Maghrib | 19:14:11 |
 | Isha (Night) | 21:15:26 |
 | Sharia Midnight | 22:56:35 |
 | Imum Coeli | 00:02:52 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:02:54 |
 | Medium Coeli | 12:02:54 |
 | Sunset | 19:12:44 |
-| Maghrib | 19:14:12 |
+| Maghrib | 19:14:11 |
 | Isha (Night) | 21:20:00 |
 | Sharia Midnight | 22:49:16 |
 | Imum Coeli | 00:02:52 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:02:54 |
 | Medium Coeli | 12:02:54 |
 | Sunset | 19:12:44 |
-| Maghrib | 19:14:12 |
+| Maghrib | 19:14:11 |
 | Isha (Night) | 21:24:40 |
 | Sharia Midnight | 22:56:35 |
 | Imum Coeli | 00:02:52 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:02:54 |
 | Medium Coeli | 12:02:54 |
 | Sunset | 19:12:44 |
-| Maghrib | 19:14:12 |
-| Isha (Night) | 20:44:12 |
+| Maghrib | 19:14:11 |
+| Isha (Night) | 20:44:11 |
 | Sharia Midnight | 22:54:12 |
 | Imum Coeli | 00:02:52 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°56'20.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°50'44.18" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°50'44.18" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°19'53.22" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|5°49'9.17" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|18°48'36.73" |Virgo|Simak|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°56'20.86" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°50'44.18" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°50'44.18" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|25°19'53.22" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|5°49'9.17" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|18°48'36.73" |Libra|Jubana|Saturn|

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Turin
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 45.0705
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'49.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'43.11" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'43.11" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°23'14.00" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°4'52.04" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°23'5.44" |Virgo|Awwa|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'49.51" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'43.11" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'43.11" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°23'14.00" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°4'52.04" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°23'5.44" |Libra|Jubana|Saturn|

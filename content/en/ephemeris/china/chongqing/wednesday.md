@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°53'29.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°53'13.03" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°1'9.23" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|6°47'13.63" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°1'9.65" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|0°30'26.33" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°0'16.36" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°53'13.03" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°1'9.20" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|6°47'13.60" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°1'9.71" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|0°30'26.16" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|9°58'0.36" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Sagittarius|Sun|Venus|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°53'29.56" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°53'13.03" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|25°53'29.62" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°53'13.03" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|26°1'9.23" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|6°47'13.63" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|20°1'9.65" |Libra|Jubana|Jupiter|

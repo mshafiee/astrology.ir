@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Copenhagen
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 55.6759
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'49.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'42.36" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°23'20.47" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°4'59.25" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°23'14.19" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°31'21.84" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|25°29'22.10" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'49.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'43.34" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°23'19.60" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°4'59.56" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°23'15.42" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°31'19.90" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|25°2'8.06" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'49.17" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'43.53" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°23'19.65" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'49.11" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'43.34" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°23'19.60" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°4'59.58" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°23'15.45" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|26°31'19.92" |Scorpio|Shaulah|Venus|

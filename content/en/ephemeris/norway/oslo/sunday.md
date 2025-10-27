@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Oslo
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 59.9127
 \-
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'46.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'45.58" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°23'51.57" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°5'37.70" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°24'11.16" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°32'8.98" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°36'23.78" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'46.25" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°23'55.88" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°5'50.45" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°24'19.38" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°32'18.44" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|25°10'34.35" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Sun|Venus|Leo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'46.47" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'45.58" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°23'51.57" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°5'37.70" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°24'11.16" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°32'8.98" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°36'23.78" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'46.41" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'46.06" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°23'55.83" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°5'50.44" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°24'19.35" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°32'18.42" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°10'34.86" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Jupiter|Saturn|Virgo|Sun|Sun|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

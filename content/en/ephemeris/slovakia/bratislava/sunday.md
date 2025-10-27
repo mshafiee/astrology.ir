@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Bratislava
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 48.1482
 \-
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'53.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'38.85" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'38.85" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°22'17.14" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|3°3'31.73" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|15°21'25.13" |Virgo|Awwa|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°4'53.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'38.85" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'38.85" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°22'17.14" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|3°3'31.73" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|15°21'25.13" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|26°29'38.83" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°56'49.45" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|24°47'12.26" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

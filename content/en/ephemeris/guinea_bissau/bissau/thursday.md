@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°52'33.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°54'1.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°15'2.76" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|7°6'45.07" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°25'34.17" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|25°52'33.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°54'0.90" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°15'2.72" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|7°6'45.06" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°25'34.15" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|0°49'41.94" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|13°33'1.92" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|14°6'37.27" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°52'33.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°54'1.09" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|26°15'2.76" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°6'45.07" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°25'34.17" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|25°52'33.16" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°54'0.90" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°15'0.82" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°6'42.28" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°25'33.44" |Libra|Jubana|Jupiter|
 |☿ Mercury|Direct|0°49'37.21" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|13°33'1.92" |Aquarius|SaadAlAkhbia|Mercury|
 

@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°0'5.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°47'18.04" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°27'14.67" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|4°35'0.75" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|17°15'57.93" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|28°12'15.11" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|26°0'5.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°47'17.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°27'18.40" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|4°35'10.00" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|17°16'3.04" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|28°12'23.86" |Libra|Akleel|Jupiter|
 |☾ Moon|Direct|12°21'9.76" |Sagittarius|NaAaem|Moon|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|26°0'5.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°47'18.39" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|24°27'14.67" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|4°35'0.75" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°15'57.93" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|28°12'15.11" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|12°21'9.76" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°47'18.04" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|24°27'18.45" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|4°35'10.02" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°16'3.08" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|28°12'23.87" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°57'11.83" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Jupiter|Jupiter|Aries|Moon|Moon|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}

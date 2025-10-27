@@ -14,7 +14,7 @@ description: 🗓 Sunday, 26 Oct 2025
 toc: false
 ---
 ## Geographic Information of Zagreb
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 45.8144
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'53.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|24°42'38.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°22'17.50" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°3'32.32" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|15°21'25.76" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°29'39.45" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|24°47'57.40" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|26°4'53.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'38.69" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°22'17.45" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°3'32.31" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|15°21'25.72" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°29'39.43" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|24°47'57.93" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|26°4'53.78" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|24°42'38.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°22'17.50" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|3°3'32.32" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|15°21'25.76" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°29'39.45" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|24°47'57.40" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|26°4'53.73" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°42'38.69" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°22'17.45" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|3°3'32.31" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°21'25.72" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°29'39.43" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°47'57.93" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
