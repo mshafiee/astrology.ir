@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°49'51.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°56'14.41" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°55'50.69" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|8°4'2.59" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|21°37'12.29" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|1°44'17.70" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|26°26'56.83" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|24°56'13.12" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°55'51.32" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|8°4'2.18" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|21°37'11.11" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|1°44'19.58" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|27°2'10.63" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°49'51.00" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|24°56'14.41" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|26°55'50.69" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|25°49'50.93" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|24°56'14.22" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°55'50.65" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|8°4'2.59" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°37'12.29" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|21°37'12.27" |Libra|Jubana|Jupiter|
 |☿ Mercury|Direct|1°44'17.70" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|26°26'56.83" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|26°26'55.66" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

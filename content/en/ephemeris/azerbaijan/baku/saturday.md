@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°47'24.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|24°58'9.01" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°33'49.66" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|25°47'24.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|24°58'8.82" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°33'49.62" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|8°57'21.14" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|22°43'49.81" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|22°43'49.78" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|2°32'18.57" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|8°13'10.06" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|8°13'8.99" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°47'24.18" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|25°47'24.12" |Pisces|Rescha|Mars|
 |♃ Jupiter|Pre-Retrograde Shadow|24°58'9.01" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|27°33'49.66" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|8°57'21.14" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|22°43'48.01" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|2°32'19.35" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|8°49'22.34" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|22°43'49.81" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|2°32'18.57" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|8°13'10.06" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Mars|Mars|Cancer|Moon|Moon|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}

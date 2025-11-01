@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:28:26 |
 | Sunset | 17:01:03 |
 | Maghrib | 17:02:05 |
-| Isha (Night) | 18:21:02 |
+| Isha (Night) | 18:21:03 |
 | Sharia Midnight | 22:48:33 |
 | Imum Coeli | 23:28:26 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°44'48.74" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Pre-Retrograde Shadow|25°0'3.67" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°15'18.80" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|9°55'31.61" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|28°15'18.44" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|9°55'31.23" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|23°56'31.68" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|3°21'19.41" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|21°28'45.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|3°21'18.44" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|21°22'56.33" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Mars|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
