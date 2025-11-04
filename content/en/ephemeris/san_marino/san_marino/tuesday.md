@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 11:53:47 |
 | Sunset | 16:56:21 |
 | Maghrib | 17:16:35 |
-| Isha (Night) | 18:13:35 |
+| Isha (Night) | 18:13:34 |
 | Sharia Midnight | 23:09:50 |
 | Imum Coeli | 23:53:47 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°39'23.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|25°3'38.42" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°47'12.18" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|25°39'23.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°3'38.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°47'12.22" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|12°4'10.98" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|26°37'17.06" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|4°55'13.41" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|22°35'32.50" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|26°37'17.08" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|4°55'13.42" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°35'31.88" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°39'23.11" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|25°3'38.42" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|29°47'12.18" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|25°39'23.18" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°3'38.61" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|29°47'12.22" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°4'10.98" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°37'17.06" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|4°55'13.41" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°35'32.50" |Aries|Butain|Venus|
+|♀ Venus|Direct|26°37'17.08" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|4°55'13.42" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°35'31.88" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

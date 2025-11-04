@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°42'19.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|25°1'46.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°56'30.54" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|25°42'19.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°1'46.66" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°56'30.58" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|10°53'14.00" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|25°8'38.64" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|4°6'4.86" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|5°12'16.53" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|25°8'38.67" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|4°6'4.86" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°57'7.84" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Sun|Sun|Cancer|Sun|Moon|
 |☿ Mercury|Mars|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°42'19.56" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|25°1'46.47" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°56'30.54" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|10°53'14.00" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°8'38.64" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|4°6'2.39" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|25°42'19.63" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°1'47.62" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°56'29.67" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|10°53'13.38" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°8'38.98" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|4°6'2.39" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|4°57'7.84" |Aries|Sharatain|Mars|
 
 

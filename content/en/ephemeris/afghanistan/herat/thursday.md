@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°35'2.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|25°6'1.56" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|25°6'1.56" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|1°6'48.95" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|13°55'27.63" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|28°56'15.53" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|5°57'14.01" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|20°40'56.94" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|5°56'57.46" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°20'52.19" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Saturn|Mars|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°35'2.15" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|25°6'1.56" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|25°6'1.56" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|1°6'48.95" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|13°55'27.63" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|28°56'15.53" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|5°57'14.01" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|5°57'14.01" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|20°40'56.94" |Taurus|Dabaran|Saturn|
 
 

@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 10:28:58|Night duration: 13:32:05|
+|Duration of the day: 10:28:58|Night duration: 13:32:06|
 |Every hour duration: 01:29:51|Every hour duration: 01:56:01|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Saturn|Ruler|17:47:53|19:43:52|
 |Late evening|Jupiter|Servant|19:43:53|21:39:53|
 |Midnight|Mars|Servant|21:39:54|23:35:54|
-|Late at night|Sun|Servant|23:35:55|01:31:54|
-|Rooster song|Venus|Servant|01:31:55|03:27:55|
-|False Dawn|Mercury|Servant|03:27:56|05:23:56|
-|Dawn|Moon|Servant|05:23:57|07:19:57|
+|Late at night|Sun|Servant|23:35:55|01:31:55|
+|Rooster song|Venus|Servant|01:31:56|03:27:56|
+|False Dawn|Mercury|Servant|03:27:57|05:23:57|
+|Dawn|Moon|Servant|05:23:58|07:19:58|
 
 {{< /tab >}}
 
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°39'32.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|25°3'32.98" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|25°3'32.98" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|29°44'28.19" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|12°0'21.72" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|26°32'30.43" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|4°52'45.44" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|4°52'45.44" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|21°35'44.08" |Pisces|Rescha|Mars|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°39'32.46" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|25°3'32.98" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|25°3'32.98" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|29°44'28.19" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°0'21.72" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|26°32'30.43" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|4°52'45.44" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|4°52'45.44" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|21°35'44.08" |Aries|Butain|Venus|
 
 

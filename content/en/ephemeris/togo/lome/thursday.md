@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°34'42.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Pre-Retrograde Shadow|25°6'11.37" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°12'52.43" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|14°3'47.19" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°6'50.53" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|6°0'52.72" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|24°50'46.88" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|25°6'11.02" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°12'59.11" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|14°4'4.72" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°7'1.06" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|6°1'10.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°51'9.27" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°34'42.65" |Pisces|Rescha|Mars|
-|♃ Jupiter|Pre-Retrograde Shadow|25°6'10.83" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|1°12'59.07" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|14°4'4.70" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|29°7'1.03" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|6°1'10.88" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°51'10.84" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|25°34'42.72" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°6'11.02" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|1°12'59.11" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|14°4'4.72" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|29°7'1.06" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|6°1'10.91" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°51'9.27" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
