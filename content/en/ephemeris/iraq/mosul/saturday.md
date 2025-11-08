@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:27:17|Night duration: 13:33:44|
+|Duration of the day: 10:27:17|Night duration: 13:33:43|
 |Every hour of day duration: 00:52:16|Every hour of night duration: 01:07:49|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|17:04:42|18:12:29|Related to talismans, amulets and responses|
 |2|Moon|Servant|18:12:30|19:20:18|Peace among people|
-|3|Saturn|Servant|19:20:19|20:28:07|Vengeful and evil deeds|
-|4|Jupiter|Servant|20:28:08|21:35:55|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|21:35:56|22:43:44|Auspicious|
-|6|Sun|Servant|22:43:45|23:51:33|Writing, swapping and making promises|
-|7|Venus|Servant|23:51:34|00:59:21|Not suitable for any task|
-|8|Mercury|Ruler|00:59:22|02:07:10|Destruction of enemies|
-|9|Moon|Servant|02:07:11|03:14:59|All good deeds|
-|10|Saturn|Servant|03:15:00|04:22:47|Doing evil deeds|
-|11|Jupiter|Servant|04:22:48|05:30:36|Acceptance of reconciliation between couples|
-|12|Mars|Servant|05:30:37|06:38:25|For gaining dignity|
+|3|Saturn|Servant|19:20:19|20:28:06|Vengeful and evil deeds|
+|4|Jupiter|Servant|20:28:07|21:35:55|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|21:35:56|22:43:43|Auspicious|
+|6|Sun|Servant|22:43:44|23:51:32|Writing, swapping and making promises|
+|7|Venus|Servant|23:51:33|00:59:21|Not suitable for any task|
+|8|Mercury|Ruler|00:59:22|02:07:09|Destruction of enemies|
+|9|Moon|Servant|02:07:10|03:14:58|All good deeds|
+|10|Saturn|Servant|03:14:59|04:22:46|Doing evil deeds|
+|11|Jupiter|Servant|04:22:47|05:30:35|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:30:36|06:38:24|For gaining dignity|
 
  
  
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°30'34.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°7'53.58" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|25°7'53.58" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|2°35'30.92" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|15°59'13.30" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|1°30'45.85" |Libra|Ghafr|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°30'34.92" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|25°7'53.58" |Cancer|Tarf|Moon|
+|♃ Jupiter|Retrograde|25°7'53.58" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|2°35'30.92" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|15°59'13.30" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|1°30'45.85" |Scorpio|Akleel|Mars|

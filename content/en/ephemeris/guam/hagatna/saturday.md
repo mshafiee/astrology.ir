@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:04:43 |
 | Sunset | 17:52:03 |
 | Maghrib | 17:53:00 |
-| Isha (Night) | 19:06:08 |
+| Isha (Night) | 19:06:07 |
 | Sharia Midnight | 23:27:45 |
 | Imum Coeli | 00:04:45 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°29'10.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|25°8'20.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°5'32.00" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|16°41'3.68" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|2°22'58.37" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|6°48'1.03" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°29'33.23" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|25°29'10.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|25°8'20.00" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°5'31.95" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|16°41'3.66" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|2°22'58.34" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|6°48'1.00" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°29'31.90" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°29'10.07" |Pisces|Rescha|Mars|
-|♃ Jupiter|Direct|25°8'20.18" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°5'32.00" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|16°41'3.68" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°22'58.37" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|6°48'1.03" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°29'33.23" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|25°29'10.00" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°8'20.00" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°5'31.95" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|16°41'3.66" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°22'58.34" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|6°48'1.00" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°29'31.90" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
