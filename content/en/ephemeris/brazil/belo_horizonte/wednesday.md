@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°21'9.12" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'52.70" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°20'25.53" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°12'4.00" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|8°0'57.54" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|5°52'21.33" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|4°35'17.75" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|25°8'52.84" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°20'25.51" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°12'4.17" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|8°0'57.74" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|5°52'21.30" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|4°40'23.68" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: B.H., BH, BHZ, Bel-Horizonto, Bello Horizonte, Belo Horizonte, Belo Horizontė, Belo Hte, Belo Khorizonte, Belo Orizonte, Belo Orizonti, Belu Orizonti, Belu-Aryzonty, Belu-Orizonti, Bhte, Cidade de Minas, Urbs Pulchri Horizontis, bailo orizonti, bei luo ao li cang te, belluolijonchi, belo horijhonte, belo horijonte, belo xo ri sxn chi, beroorizonchi, beroorizonte, blw hwryzwnth, bylw hwryzwnty, pelo aricanc, Μπέλο Οριζόντε, Бело Оризонте, Бело Оризонти, Бело Хоризонте, Белу-Арызонты, Белу-Оризонти, Белу-Оризонті, בלו הוריזונטה, بلو هوریزونته, بيلو هوريزونتي, بیلو ہوریزونتے, बेलो होरिझोन्ते, বেলো হোরিজোন্টে, ਬੈਲੋ ਓਰੀਜ਼ੋਂਤੀ, பெலோ அரிசாஞ்ச், เบโลโอรีซอนชี, ბელუ-ორიზონტი, ベロオリゾンチ, ベロオリゾンテ, 貝洛奥里藏特, 贝洛奥里藏特, 벨루오리존치

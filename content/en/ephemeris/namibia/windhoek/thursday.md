@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°21'25.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'55.96" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°12'56.25" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°1'40.25" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|7°48'0.32" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|5°58'7.30" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°22'7.55" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|25°8'55.55" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°12'52.06" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°1'27.39" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|7°47'52.05" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|5°57'52.53" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°32'19.36" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Gouintchouk, Vindguk, Vindhuk, Vindhuka, Vindhukas, Vindhuko, Vindkhuk, Vinduque, Vindxuk, Vintchouk, WDH, Windhoek, Windhuk, Windoek, Windoèk, Wynhoeke, binteuhukeu, u~intofukku, vatahuka, vindahoka, vintok, wen de he ke, wen he ke, win dhuk, wwynthwq, wyndhwk, wyndhwq, wyndھwk, wynٹہwk, Βίντχουκ, Γουίντχουκ, Виндхук, Віндгук, Віндхук, Վինդհուկ, ווינטהוק, וינדהוק, ونڈہوک, ويندهوك, ویندهوک, ویندھوک, وینٹہوک, विंडहोक, ਵੰਟਹੁਕ, விந்தோக், วินด์ฮุก, ཝིན་ཌི་ཧོཡིཀ།, ვინდჰუკი, ዊንድሁክ, ウィントフック, 温得和克, 溫得和克, 溫荷克, 빈트후크

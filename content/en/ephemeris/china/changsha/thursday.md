@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'12.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°8'38.11" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°47'1.42" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|21°48'59.09" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°46'56.95" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|5°29'27.54" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°25'0.54" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|25°8'38.89" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°47'0.46" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|21°48'57.70" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°46'56.56" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|5°29'24.62" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|12°42'53.91" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
+|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'12.81" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'38.11" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°47'1.42" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°48'59.09" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°46'56.95" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|5°29'27.54" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|12°25'0.54" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|25°8'38.89" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°47'0.46" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°48'57.70" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°46'56.56" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|5°29'24.62" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|12°42'53.91" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: CSX, Cangsa, Cangzsah, Cansa, Cchang-sa, Ch'ang-sha-hsien, Ch'ang-sha-shih, Changsha, Changsja, Chansha, Chhong-sa-su, Chhòng-sâ-sṳ, Ch’ang-sha-hsien, Ch’ang-sha-shih, Csangsa, Diong-sa, Diòng-să, Tng-soa-chhi, Tn̂g-soa-chhī, Truong Sa, Trường Sa, Tsan'nksa, cangasa, chang cha, changsa, changsa si, changsha, changsha shەھyr, channasa, tshanghsha, zhang sha, zhang sha shi, Ĉangŝa, Čangša, Čanša, Čchang-ša, Τσανγκσά, Чангша, Чанша, Չանշա, تشانغشا, چانگشا, چاڭشا شەھىر, चांगशा, छांग्षा, ਛਾਂਙਸ਼ਾ, ฉางชา, ချနဆားမြ, ချန်ဆားမြို့, 長沙, 長沙市, 长沙, 长沙市, 창사 시

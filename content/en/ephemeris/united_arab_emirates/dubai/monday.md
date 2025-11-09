@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:05:36 |
+| Fajr (Dawn) | 05:05:37 |
 | Sunrise | 06:31:49 |
 | Dhuhr (Noon) | 12:02:40 |
 | Medium Coeli | 12:02:40 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°26'43.35" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|25°8'53.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°0'2.96" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|17°56'58.42" |Libra|Jubana|Saturn|
+|♂ Mars|Direct|4°0'2.95" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|17°56'58.41" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|3°57'41.16" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|6°51'27.01" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|20°51'18.41" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|6°51'27.00" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|20°51'19.46" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

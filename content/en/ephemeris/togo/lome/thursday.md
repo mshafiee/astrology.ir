@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°21'18.48" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'54.49" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°16'2.46" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°5'59.58" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|7°53'22.28" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|5°55'49.02" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°19'36.99" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|25°8'55.49" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°15'55.74" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°5'42.00" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|7°53'11.81" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|5°55'26.46" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°53'25.25" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

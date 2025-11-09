@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'47.42" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|25°8'47.77" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°30'34.79" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|21°26'9.30" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°18'31.35" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|5°44'1.83" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|7°33'33.44" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|6°30'29.61" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|21°25'55.48" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°18'23.01" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|5°43'44.18" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°2'10.71" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°20'48.75" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'48.40" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°30'29.61" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|25°20'47.42" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°8'47.77" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°30'34.79" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|21°25'55.48" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|8°18'23.01" |Scorpio|Akleel|Mars|
 |☿ Mercury|Retrograde|5°43'44.18" |Sagittarius|NaAaem|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

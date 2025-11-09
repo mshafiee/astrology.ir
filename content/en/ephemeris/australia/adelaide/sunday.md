@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:59:24 |
 | Sunset | 19:53:14 |
 | Maghrib | 20:13:53 |
-| Isha (Night) | 21:06:49 |
+| Isha (Night) | 21:06:50 |
 | Sharia Midnight | 00:11:26 |
 | Imum Coeli | 00:59:26 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°27'16.54" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'47.97" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°47'29.98" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|17°39'28.80" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°35'54.07" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|6°51'48.68" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|16°54'21.22" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|25°8'48.59" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°47'29.16" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|17°39'27.61" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°35'53.73" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|6°51'46.20" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|17°14'5.93" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Mars|Sun|Sagittarius|Moon|Mars|
 |☿ Mercury|Mars|Mercury|Aquarius|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}

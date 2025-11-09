@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:14:24 |
 | Sunrise | 06:51:06 |
-| Dhuhr (Noon) | 11:53:55 |
-| Medium Coeli | 11:53:55 |
+| Dhuhr (Noon) | 11:53:56 |
+| Medium Coeli | 11:53:56 |
 | Sunset | 16:56:16 |
 | Maghrib | 16:57:49 |
 | Isha (Night) | 18:32:54 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°30'23.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|25°30'23.47" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|25°7'57.47" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|2°39'31.39" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|16°4'48.33" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|1°37'42.82" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|6°41'33.74" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|24°29'4.63" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|1°37'44.23" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|6°41'41.59" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|23°34'48.09" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
