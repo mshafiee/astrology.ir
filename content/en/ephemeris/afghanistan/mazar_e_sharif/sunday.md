@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°28'41.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°8'28.01" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°15'54.33" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|16°55'30.33" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|2°41'0.18" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|6°49'42.17" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|6°5'17.36" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Retrograde|25°8'26.74" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°15'52.78" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|16°55'23.60" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|2°40'55.14" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|6°49'37.66" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°57'5.97" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Mars|Venus|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°28'41.48" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'28.01" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°15'54.33" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|16°55'30.33" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°41'0.18" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|6°49'42.17" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|25°8'26.74" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°15'52.78" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|16°55'23.60" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°40'55.14" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|6°49'37.66" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|6°5'17.36" |Cancer|Nathrah|Venus|
 
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'2.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°8'33.56" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°52'8.63" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|21°56'1.60" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°55'45.68" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|5°24'31.57" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°56'26.99" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|25°8'34.82" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°52'9.46" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|21°56'6.25" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°55'49.38" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|5°24'35.33" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|13°53'45.82" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Saturn|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'2.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'33.56" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°52'8.63" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|25°8'34.82" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°52'9.46" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|21°56'6.25" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|8°55'49.38" |Scorpio|Qalb|Mars|
 |☿ Mercury|Retrograde|5°24'35.33" |Sagittarius|NaAaem|Mercury|

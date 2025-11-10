@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'11.14" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'37.60" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°47'50.60" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°50'7.16" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°48'21.97" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|5°28'41.04" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|12°38'36.43" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|25°8'37.42" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°47'50.44" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°50'6.35" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°48'21.36" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|5°28'40.30" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|12°30'14.55" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Ch'ang-an, Ch'ang-an-hsien, Ch’ang-an, Ch’ang-an-hsien, Hsi Gnan Fu, Hsi-an, Hsi-an-shih, Hsi-ching, Hsi-ching-shih, Hsingan, SIA, Si-Gan-Fu, Sian, Sian', Siana, Sianas, Sianfu, Siano, Siaņa, Siking, Singan, Tay An, Tây An, Xi'an, Xi'an - xi an, Xi'an - 西安, Xi'an Shi, Xian, Xi’an, Xi’an Shi, Xī'ān, si xan, sian si, xi an, xi an shi, Ŝiano, Сиань, شىئەن شەھىرى, ซีอาน, 西安, 西安市, 시안 시
