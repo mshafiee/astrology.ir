@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|25°21'4.61" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|25°8'51.61" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°22'27.92" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°14'43.28" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|8°4'23.25" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|5°50'29.51" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|5°39'50.21" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|21°14'43.29" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|8°4'23.23" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|5°50'29.52" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°39'50.86" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌
